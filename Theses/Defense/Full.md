@@ -1,4 +1,4 @@
-### Detailed Explanation
+### Investment Thesis
 
 Geopolitical risk is no longer a peripheral tail-risk event; it is the dominant macroeconomic factor shaping global capital flows and supply chain architecture. The return of President Donald Trump to the White House in 2025 amplified protectionist trade policies and introduced significant unpredictability into U.S. foreign alliances, hastening the breakdown of multilateral norms.22 The global security environment deteriorated sharply in 2026, highlighted by the outbreak of a direct, state-on-state war between Israel and Iran, which featured direct military intervention by the United States.22
 

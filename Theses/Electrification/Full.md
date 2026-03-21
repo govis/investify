@@ -1,4 +1,4 @@
-### Detailed Explanation
+### Investment Thesis
 
 The fundamental quandary defining the industrial landscape of the late 2020s is that while macroeconomic mandates and technological evolution dictate rapid electrification, the physical supply of necessary raw materials cannot be scaled with equal velocity. Global electricity demand is undergoing a paradigm shift. Forecasts indicate an increase of 3.3% in 2025 and 3.7% in 2026, marking some of the highest sustained growth rates observed over the last decade.1 This growth is structurally resilient; despite the IMF's downgrade of global GDP growth amid trade tariff uncertainties, the sheer volume of power required by air conditioning, EVs, heat pumps, and data centers will push global electricity consumption to a new high of over 29,000 TWh by 2026\.1 Electricity demand is now set to rise more than twice as fast as total energy demand.1
 

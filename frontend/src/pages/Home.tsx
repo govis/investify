@@ -13,9 +13,14 @@ const Home: React.FC = () => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch('http://localhost:5000/api/theses')
-      .then(res => res.json())
+    console.log('Fetching theses...');
+    fetch('/api/theses.json')
+      .then(res => {
+        console.log('Response status:', res.status);
+        return res.json();
+      })
       .then(data => {
+        console.log('Fetched data:', data);
         setTheses(data);
         setLoading(false);
       })
@@ -29,7 +34,7 @@ const Home: React.FC = () => {
 
   return (
     <div style={{ padding: '24px' }}>
-      <h1>2026 and beyond Investment Theses</h1>
+      <h1 style={{ marginBottom: '72px' }}>Investment Themes for 2026 and beyond</h1>
       <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: '24px' }}>
         {theses.map(thesis => (
           <ThesisCard key={thesis.id} thesis={thesis} />

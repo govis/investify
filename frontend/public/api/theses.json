@@ -1,0 +1,26 @@
+[
+  {
+    "id": "AI",
+    "title": "Rapid Advance in Artificial Intelligence and the Infrastructure Supercycle",
+    "summary": "The rapid commercialization of Generative AI and the relentless pursuit of Artificial General Intelligence (AGI) have triggered an unprecedented capital expenditure (CapEx) cycle among hyperscale technology companies. Projected to exceed $600 billion in 2026, this spending is fundamentally transforming the technology sector from a cash-rich, asset-light model into a highly leveraged, physical infrastructure-dependent industry.4 Concurrently, the immense energy and thermal management requirements of AI data centers are straining global power grids, shifting the primary bottleneck of AI advancement from semiconductor availability to electricity generation and advanced liquid cooling deployment.4 The market is witnessing a divergence between the infrastructure providers—who are realizing immediate, massive revenue growth—and the foundational model builders, who face a highly debated return on investment (ROI) and mounting debt obligations.4",
+    "imageUrl": "/theses-assets/AI.jpg"
+  },
+  {
+    "id": "Defense",
+    "title": "Impact on the Defense Industry as a Result of Geopolitical Tensions and Conflict",
+    "summary": "The post-Cold War era of unipolarity and frictionless global trade has officially concluded, replaced by a highly volatile \"Multipolar World\" characterized by great-power rivalry, regional kinetic conflicts, and the rapid weaponization of economic supply chains.3 The escalation of the Israel-Iran conflict in 2026, the protracted war in Ukraine, and the U.S.-led political intervention in Venezuela have fundamentally altered national security doctrines worldwide.22 Governments are enacting massive, structural increases in sovereign defense spending while simultaneously executing multi-trillion-dollar industrial policies to reshore critical manufacturing and secure independent energy supplies.3 The nature of modern warfare has also shifted, creating explosive demand for advanced, AI-enabled counter-measures, precision munitions, and autonomous systems.26",
+    "imageUrl": "/theses-assets/Defense.jpg"
+  },
+  {
+    "id": "Electrification",
+    "title": "Growth in Global Electrification and the Critical Minerals Deficit",
+    "summary": "The global transition toward a decarbonized, highly electrified economy has initiated a commodity supercycle characterized by severe, mathematically unresolvable supply constraints over the medium term. The simultaneous scaling of electric vehicles (EVs), residential and commercial heat pumps, grid expansion, and the aforementioned AI data centers requires exponential increases in the consumption of critical transition metals.7 Copper, the foundational element of global electrification, faces a projected structural deficit of 10 million metric tons by 2040\\.8 Concurrently, the emerging hydrogen economy is establishing a powerful new demand vector for Platinum Group Metals (PGMs), shifting market balances into structural deficits and establishing a compelling long-term thesis for critical mineral producers capable of navigating complex geopolitical supply chains.9",
+    "imageUrl": "/theses-assets/Electrification.jpg"
+  },
+  {
+    "id": "Nuclear",
+    "title": "The Nuclear Energy Renaissance to Support Growing Electricity Demands",
+    "summary": "The acceleration of global electrification and the immense, continuous power requirements of AI hyperscale data centers have catalyzed a historic renaissance in nuclear energy.19 Recognized universally as the only scalable, dispatchable, zero-carbon baseload power source capable of complementing the intermittency of renewable energy, nuclear capacity is undergoing a rapid, policy-supported global expansion.20 However, the industry's growth trajectory is severely constrained by supply chain bottlenecks resulting from decades of stagnation. An impending structural deficit in mined uranium and a critical shortage of specialized enriched fuel create distinct, high-conviction value-capture opportunities across the upstream mining sector, established utility operators, and next-generation reactor developers.21",
+    "imageUrl": "/theses-assets/Nuclear.jpg"
+  }
+]
