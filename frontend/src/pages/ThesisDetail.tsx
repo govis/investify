@@ -16,6 +16,9 @@ const ThesisDetail: React.FC = () => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
+    if (id) {
+      document.title = `Investify Thesis - ${id}`;
+    }
     fetch(`/api/theses/${id}.json`)
       .then(res => res.json())
       .then(data => {

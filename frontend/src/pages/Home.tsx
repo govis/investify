@@ -13,6 +13,7 @@ const Home: React.FC = () => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
+    document.title = "Investify - Investment Themes";
     console.log('Fetching theses...');
     fetch('/api/theses.json')
       .then(res => {
@@ -35,7 +36,12 @@ const Home: React.FC = () => {
   return (
     <div style={{ padding: '24px' }}>
       <h1 style={{ marginBottom: '72px' }}>Investment Themes for 2026 and beyond</h1>
-      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: '24px' }}>
+      <div style={{ 
+        display: 'grid', 
+        gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', 
+        gap: '32px',
+        justifyItems: 'center'
+      }}>
         {theses.map(thesis => (
           <ThesisCard key={thesis.id} thesis={thesis} />
         ))}

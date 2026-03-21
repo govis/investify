@@ -14,20 +14,29 @@ const ThesisCard: React.FC<{ thesis: Thesis }> = ({ thesis }) => {
   const navigate = useNavigate();
 
   return (
-    <div className="thesis-card-container" style={{ position: 'relative', width: '300px' }}>
+    <div className="thesis-card-container" style={{ position: 'relative', width: '100%', maxWidth: '340px' }}>
       <div 
         className="thesis-card"
         onClick={() => navigate(`/thesis/${thesis.id}`)}
         style={{
           border: '1px solid #ddd',
-          borderRadius: '8px',
+          borderRadius: '12px',
           overflow: 'hidden',
           cursor: 'pointer',
           backgroundColor: '#fff',
-          transition: 'transform 0.2s, box-shadow 0.2s',
-          height: '320px',
+          transition: 'all 0.3s ease',
+          height: '340px',
           display: 'flex',
           flexDirection: 'column',
+          boxShadow: '0 4px 6px rgba(0,0,0,0.05)'
+        }}
+        onMouseEnter={(e) => {
+          e.currentTarget.style.transform = 'translateY(-8px)';
+          e.currentTarget.style.boxShadow = '0 12px 20px rgba(0,0,0,0.1)';
+        }}
+        onMouseLeave={(e) => {
+          e.currentTarget.style.transform = 'translateY(0)';
+          e.currentTarget.style.boxShadow = '0 4px 6px rgba(0,0,0,0.05)';
         }}
       >
         <div style={{ height: '160px', overflow: 'hidden' }}>
