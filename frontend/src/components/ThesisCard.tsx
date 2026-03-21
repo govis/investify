@@ -46,17 +46,36 @@ const ThesisCard: React.FC<{ thesis: Thesis }> = ({ thesis }) => {
             style={{ width: '100%', height: '100%', objectFit: 'cover' }} 
           />
         </div>
-        <div style={{ padding: '16px', flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
-          <div style={{ fontWeight: 'bold', fontSize: '1rem', lineHeight: '1.4' }}>{thesis.title}</div>
-          <div style={{ display: 'flex', justifyContent: 'flex-end' }}>
+        <div style={{ padding: '16px', flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'space-between', position: 'relative', zIndex: 1 }}>
+          <div style={{ fontWeight: 'bold', fontSize: '1.1rem', lineHeight: '1.4', color: '#000' }}>{thesis.title}</div>
+          <div style={{ display: 'flex', justifyContent: 'flex-end', marginTop: '8px' }}>
             <button 
               onClick={(e) => {
                 e.stopPropagation();
                 setShowPopup(!showPopup);
               }}
-              style={{ background: 'none', border: 'none', cursor: 'pointer', padding: '4px' }}
+              style={{ 
+                background: 'none', 
+                border: 'none', 
+                cursor: 'pointer', 
+                padding: '8px',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+                color: 'var(--text)',
+                borderRadius: '50%',
+                transition: 'background-color 0.2s'
+              }}
+              onMouseEnter={(e) => {
+                e.currentTarget.style.backgroundColor = 'var(--accent-bg)';
+                e.currentTarget.style.color = 'var(--accent)';
+              }}
+              onMouseLeave={(e) => {
+                e.currentTarget.style.backgroundColor = 'transparent';
+                e.currentTarget.style.color = 'var(--text)';
+              }}
             >
-              <MoreHorizontal size={24} />
+              <MoreHorizontal size={24} strokeWidth={2.5} />
             </button>
           </div>
         </div>

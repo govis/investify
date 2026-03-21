@@ -35,7 +35,7 @@ const Home: React.FC = () => {
 
   return (
     <div style={{ padding: '24px' }}>
-      <h1 style={{ marginBottom: '72px' }}>Investment Themes for 2026 and beyond</h1>
+      <h1 style={{ marginBottom: '72px', lineHeight: '1.2' }}>Investment Themes for 2026 and beyond</h1>
       <div style={{ 
         display: 'grid', 
         gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', 
