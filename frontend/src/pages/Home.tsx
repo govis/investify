@@ -1,9 +1,11 @@
 import React, { useEffect, useState } from 'react';
+import { Link } from 'react-router-dom';
 import ThesisCard from '../components/ThesisCard';
 
 interface Thesis {
   id: string;
   title: string;
+  theme: string;
   summary: string;
   imageUrl: string;
 }
@@ -34,7 +36,7 @@ const Home: React.FC = () => {
   if (loading) return <div>Loading...</div>;
 
   return (
-    <div style={{ padding: '24px' }}>
+    <div style={{ padding: '24px', minHeight: '100vh', position: 'relative' }}>
       <h1 style={{ marginBottom: '72px', lineHeight: '1.2' }}>Investment Themes for 2026 and beyond</h1>
       <div style={{ 
         display: 'grid', 
@@ -45,6 +47,16 @@ const Home: React.FC = () => {
         {theses.map(thesis => (
           <ThesisCard key={thesis.id} thesis={thesis} />
         ))}
+      </div>
+      
+      <div style={{ 
+        position: 'fixed', 
+        bottom: '12px', 
+        right: '12px', 
+        fontSize: '11px',
+        opacity: 0.6
+      }}>
+        <Link to="/sources" style={{ color: '#666', textDecoration: 'none' }}>Sources</Link>
       </div>
     </div>
   );

@@ -1,0 +1,8 @@
+# Global X Defence Tech UCITS ETF
+
+**Website:** [globalxetfs.eu](https://www.globalxetfs.eu/funds/armg/)
+**Logo:** https://www.globalxetfs.eu/wp-content/themes/globalx/assets/images/logo.svg
+**Type:** Defense Technology ETF (Defense)
+**Country:** Ireland / Global
+
+The Global X Defence Tech UCITS ETF (ARMG) provides targeted exposure to companies at the intersection of defense and high technology. The fund passively tracks the Mirae Asset Defence Tech Index, focusing on global firms positioned to benefit from increased spending on cybersecurity, artificial intelligence, robotics, and advanced military hardware. ARMG captures the structural shift toward software-defined lethality and the modernization of national security infrastructure in an increasingly complex geopolitical landscape.

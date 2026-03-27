@@ -1,0 +1,8 @@
+# WisdomTree Europe Defence UCITS ETF
+
+**Website:** [wisdomtree.eu](https://www.wisdomtree.eu/en-gb/etfs/thematic/wdep---wisdomtree-europe-defence-ucits-etf---eur-acc)
+**Logo:** https://www.wisdomtree.eu/en-gb/-/media/wisdomtree-images/logos/wisdomtree_logo_horiz_rgb.svg
+**Type:** European Defense ETF (Defense)
+**Country:** Ireland / Europe
+
+The WisdomTree Europe Defence UCITS ETF (WDEP) is a specialized thematic fund providing pure-play exposure to the European defense sector. The fund tracks the WisdomTree Europe Defence Index, targeting European-domiciled companies that derive a significant portion of their revenue from defense and security. WDEP is strategically positioned to benefit from the significant increase in defense spending by European nations and NATO members in response to regional security challenges and the push for technological sovereignty.

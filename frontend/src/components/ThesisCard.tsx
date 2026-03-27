@@ -5,6 +5,7 @@ import { useNavigate } from 'react-router-dom';
 interface Thesis {
   id: string;
   title: string;
+  theme: string;
   summary: string;
   imageUrl: string;
 }
@@ -99,7 +100,7 @@ const ThesisCard: React.FC<{ thesis: Thesis }> = ({ thesis }) => {
             }}
           >
             <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '12px' }}>
-              <strong style={{ fontSize: '1rem' }}>Executive Summary</strong>
+              <strong style={{ fontSize: '1rem' }}>Theme</strong>
               <X 
                 size={20} 
                 style={{ cursor: 'pointer' }} 
@@ -110,7 +111,7 @@ const ThesisCard: React.FC<{ thesis: Thesis }> = ({ thesis }) => {
               />
             </div>
             <div style={{ flex: 1, overflowY: 'auto' }}>
-              <p style={{ fontSize: '0.9rem', color: '#333', margin: 0, lineHeight: '1.5' }}>{thesis.summary}</p>
+              <p style={{ fontSize: '0.9rem', color: '#333', margin: 0, lineHeight: '1.5' }}>{thesis.theme}</p>
             </div>
           </div>
         )}

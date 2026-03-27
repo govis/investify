@@ -1,0 +1,666 @@
+[
+  {
+    "id": "ABBN.SIX",
+    "name": "ABB Ltd",
+    "ticker": "ABBN",
+    "website": "https://global.abb",
+    "country": "Switzerland",
+    "type": "Electrification & Automation (Electrification & AI)"
+  },
+  {
+    "id": "ALB.NYSE",
+    "name": "Albemarle Corporation",
+    "ticker": "ALB",
+    "website": "https://www.albemarle.com",
+    "country": "USA",
+    "type": "Lithium & Specialty Chemicals (Electrification)"
+  },
+  {
+    "id": "AGE.ASX",
+    "name": "Alligator Energy Limited",
+    "ticker": "AGE",
+    "website": "https://www.alligatorenergy.com.au",
+    "country": "Australia",
+    "type": "Uranium Exploration & Development (Nuclear)"
+  },
+  {
+    "id": "AEC.TSX",
+    "name": "Anfield Energy Inc.",
+    "ticker": "AEC",
+    "website": "https://anfieldenergy.com",
+    "country": "Canada / USA",
+    "type": "Uranium & Vanadium Development (Nuclear)"
+  },
+  {
+    "id": "ARKX",
+    "name": "ARK Space & Defense Innovation ETF",
+    "ticker": "ARKX",
+    "website": "https://ark-funds.com/funds/arkx/",
+    "country": "USA",
+    "type": "Aerospace & Defense ETF (Defense)"
+  },
+  {
+    "id": "ASPI.NASDAQ",
+    "name": "ASP Isotopes Inc.",
+    "ticker": "ASPI",
+    "website": "https://www.aspisotopes.com",
+    "country": "USA / South Africa",
+    "type": "Isotope Enrichment & HALEU Fuel (Nuclear)"
+  },
+  {
+    "id": "SASK.TSX",
+    "name": "Atha Energy Corp.",
+    "ticker": "SASK",
+    "website": "https://www.athaenergy.com",
+    "country": "Canada",
+    "type": "Uranium Exploration (Nuclear)"
+  },
+  {
+    "id": "ATRL.TSX",
+    "name": "AtkinsRéalis",
+    "ticker": "ATRL",
+    "website": "https://www.atkinsrealis.com",
+    "country": "Canada",
+    "type": "Nuclear Engineering & EPC Services (Nuclear)"
+  },
+  {
+    "id": "AEU.ASX",
+    "name": "Atomic Eagle Limited",
+    "ticker": "AEU",
+    "website": "https://www.atomiceagle.com.au",
+    "country": "Australia",
+    "type": "Uranium Exploration & Development (Nuclear)"
+  },
+  {
+    "id": "AEE.ASX",
+    "name": "Aura Energy Limited",
+    "ticker": "AEE",
+    "website": "https://www.auraenergy.com.au",
+    "country": "Australia",
+    "type": "Uranium & Polymetallic Development (Nuclear)"
+  },
+  {
+    "id": "AAZ.TSX",
+    "name": "Azincourt Energy Corp.",
+    "ticker": "AAZ",
+    "website": "https://azincourtenergy.com",
+    "country": "Canada",
+    "type": "Uranium Exploration & Development (Nuclear)"
+  },
+  {
+    "id": "BA.LSE",
+    "name": "BAE Systems plc",
+    "ticker": "BA",
+    "website": "https://www.baesystems.com",
+    "country": "UK",
+    "type": "Aerospace & Defense Prime (Defense)"
+  },
+  {
+    "id": "BMN.ASX",
+    "name": "Bannerman Energy Ltd",
+    "ticker": "BMN",
+    "website": "https://www.bannermanenergy.com",
+    "country": "Australia",
+    "type": "Uranium Development (Nuclear)"
+  },
+  {
+    "id": "FIND.TSX",
+    "name": "Baselode Energy Corp.",
+    "ticker": "FIND",
+    "website": "https://baselode.com",
+    "country": "Canada",
+    "type": "Uranium Exploration (Nuclear)"
+  },
+  {
+    "id": "BHP.NYSE",
+    "name": "BHP Group Limited",
+    "ticker": "BHP",
+    "website": "https://www.bhp.com",
+    "country": "Australia",
+    "type": "Diversified Mining / Copper & Potash (Electrification)"
+  },
+  {
+    "id": "BOE.ASX",
+    "name": "Boss Energy Limited",
+    "ticker": "BOE",
+    "website": "https://www.bossenergy.com",
+    "country": "Australia",
+    "type": "Uranium Mining (Nuclear)"
+  },
+  {
+    "id": "BWXT.NYSE",
+    "name": "BWX Technologies, Inc.",
+    "ticker": "BWXT",
+    "website": "https://www.bwxt.com",
+    "country": "USA",
+    "type": "Nuclear Components & Fuel Manufacturing (Nuclear)"
+  },
+  {
+    "id": "CCJ.NYSE",
+    "name": "Cameco Corporation",
+    "ticker": "CCJ",
+    "website": "https://www.cameco.com",
+    "country": "Canada",
+    "type": "Uranium Mining & Nuclear Fuel Services (Nuclear)"
+  },
+  {
+    "id": "CVV.TSX",
+    "name": "CanAlaska Uranium Ltd.",
+    "ticker": "CVV",
+    "website": "https://www.canalaska.com",
+    "country": "Canada",
+    "type": "Uranium & Nickel Exploration (Nuclear)"
+  },
+  {
+    "id": "CS.TSX",
+    "name": "Capstone Copper Corp.",
+    "ticker": "CS",
+    "website": "https://capstonecopper.com",
+    "country": "Canada",
+    "type": "Copper Mining (Electrification)"
+  },
+  {
+    "id": "LEU.NYSE",
+    "name": "Centrus Energy Corp.",
+    "ticker": "LEU",
+    "website": "https://www.centrusenergy.com",
+    "country": "USA",
+    "type": "Nuclear Fuel Cycle & Enrichment (Nuclear)"
+  },
+  {
+    "id": "1164.HK",
+    "name": "CGN Mining Company Limited",
+    "ticker": "1164",
+    "website": "http://www.cgnmc.com",
+    "country": "China / Hong Kong",
+    "type": "Uranium Mining & Trading (Nuclear)"
+  },
+  {
+    "id": "LNG.NYSE",
+    "name": "Cheniere Energy, Inc.",
+    "ticker": "LNG",
+    "website": "https://www.cheniere.com",
+    "country": "USA",
+    "type": "LNG Infrastructure & Export (Reshoring)"
+  },
+  {
+    "id": "CEG.NASDAQ",
+    "name": "Constellation Energy Corporation",
+    "ticker": "CEG",
+    "website": "https://www.constellationenergy.com",
+    "country": "USA",
+    "type": "Nuclear Utility & Clean Energy Production (Nuclear)"
+  },
+  {
+    "id": "CW.NYSE",
+    "name": "Curtiss-Wright Corporation",
+    "ticker": "CW",
+    "website": "https://www.curtisswright.com",
+    "country": "USA",
+    "type": "Nuclear Components & Engineering (Nuclear)"
+  },
+  {
+    "id": "DYL.ASX",
+    "name": "Deep Yellow Limited",
+    "ticker": "DYL",
+    "website": "https://www.deepyellow.com.au",
+    "country": "Australia",
+    "type": "Uranium Exploration & Development (Nuclear)"
+  },
+  {
+    "id": "DNN.NYSE",
+    "name": "Denison Mines Corp.",
+    "ticker": "DNN",
+    "website": "https://www.denisonmines.com",
+    "country": "Canada",
+    "type": "Uranium Mining & Development (Nuclear)"
+  },
+  {
+    "id": "ETN.NYSE",
+    "name": "Eaton Corporation plc",
+    "ticker": "ETN",
+    "website": "https://www.eaton.com",
+    "country": "Ireland / USA",
+    "type": "Electrical Equipment & Power Management (AI & Electrification)"
+  },
+  {
+    "id": "EL8.ASX",
+    "name": "Elevate Uranium Limited",
+    "ticker": "EL8",
+    "website": "https://www.elevateuranium.com.au",
+    "country": "Australia",
+    "type": "Uranium Exploration & Development (Nuclear)"
+  },
+  {
+    "id": "EU.NYSE",
+    "name": "enCore Energy Corp.",
+    "ticker": "EU",
+    "website": "https://www.encoreuranium.com",
+    "country": "USA",
+    "type": "Uranium Mining (Nuclear)"
+  },
+  {
+    "id": "UUUU.NYSE",
+    "name": "Energy Fuels Inc.",
+    "ticker": "UUUU",
+    "website": "https://www.energyfuels.com",
+    "country": "USA",
+    "type": "Uranium & Rare Earth Elements (Nuclear)"
+  },
+  {
+    "id": "FUU.TSX",
+    "name": "F3 Uranium Corp.",
+    "ticker": "FUU",
+    "website": "https://f3uranium.com",
+    "country": "Canada",
+    "type": "Uranium Exploration (Nuclear)"
+  },
+  {
+    "id": "FCU.TSX",
+    "name": "Fission Uranium Corp.",
+    "ticker": "FCU",
+    "website": "https://www.fissionuranium.com",
+    "country": "Canada",
+    "type": "Uranium Exploration & Development (Nuclear)"
+  },
+  {
+    "id": "FLS.NYSE",
+    "name": "Flowserve Corporation",
+    "ticker": "FLS",
+    "website": "https://www.flowserve.com",
+    "country": "USA",
+    "type": "Nuclear-Grade Components & Flow Control (Nuclear)"
+  },
+  {
+    "id": "FCX.NYSE",
+    "name": "Freeport-McMoRan Inc.",
+    "ticker": "FCX",
+    "website": "https://www.fcx.com",
+    "country": "USA",
+    "type": "Copper & Molybdenum Mining (Electrification)"
+  },
+  {
+    "id": "GEV.NYSE",
+    "name": "GE Vernova",
+    "ticker": "GEV",
+    "website": "https://www.gevernova.com",
+    "country": "USA",
+    "type": "Energy Infrastructure & Technology (Electrification)"
+  },
+  {
+    "id": "GLNCY.OTC",
+    "name": "Glencore plc",
+    "ticker": "GLNCY",
+    "website": "https://www.glencore.com",
+    "country": "Switzerland",
+    "type": "Diversified Mining, Recycling & Trading (Electrification)"
+  },
+  {
+    "id": "GLO.TSX",
+    "name": "Global Atomic Corporation",
+    "ticker": "GLO",
+    "website": "https://www.globalatomiccorp.com",
+    "country": "Canada",
+    "type": "Uranium Development & Zinc Production (Nuclear)"
+  },
+  {
+    "id": "ARMG",
+    "name": "Global X Defence Tech UCITS ETF",
+    "ticker": "ARMG",
+    "website": "https://www.globalxetfs.eu/funds/armg/",
+    "country": "Ireland / Global",
+    "type": "Defense Technology ETF (Defense)"
+  },
+  {
+    "id": "HBM.NYSE",
+    "name": "Hudbay Minerals Inc.",
+    "ticker": "HBM",
+    "website": "https://www.hudbayminerals.com",
+    "country": "Canada",
+    "type": "Copper & Zinc Mining (Electrification)"
+  },
+  {
+    "id": "PPA",
+    "name": "Invesco Aerospace & Defense ETF",
+    "ticker": "PPA",
+    "website": "https://www.invesco.com/us/en/solutions/exchange-traded-funds/ppa.html",
+    "country": "USA",
+    "type": "Aerospace & Defense ETF (Defense)"
+  },
+  {
+    "id": "ITA",
+    "name": "iShares U.S. Aerospace & Defense ETF",
+    "ticker": "ITA",
+    "website": "https://www.ishares.com/us/products/239502/ishares-us-aerospace-defense-etf",
+    "country": "USA",
+    "type": "Aerospace & Defense ETF (Defense)"
+  },
+  {
+    "id": "ISO.TSX",
+    "name": "IsoEnergy Ltd.",
+    "ticker": "ISO",
+    "website": "https://www.isoenergy.ca",
+    "country": "Canada",
+    "type": "Uranium Exploration & Development (Nuclear)"
+  },
+  {
+    "id": "LAM.TSX",
+    "name": "Laramide Resources Ltd.",
+    "ticker": "LAM",
+    "website": "https://www.laramide.com",
+    "country": "Canada",
+    "type": "Uranium Exploration & Development (Nuclear)"
+  },
+  {
+    "id": "LMT.NYSE",
+    "name": "Lockheed Martin Corporation",
+    "ticker": "LMT",
+    "website": "https://www.lockheedmartin.com",
+    "country": "USA",
+    "type": "Aerospace & Defense Prime (Defense)"
+  },
+  {
+    "id": "LOT.ASX",
+    "name": "Lotus Resources Limited",
+    "ticker": "LOT",
+    "website": "https://www.lotusresources.com.au",
+    "country": "Australia",
+    "type": "Uranium Mining (Nuclear)"
+  },
+  {
+    "id": "LUN.TSX",
+    "name": "Lundin Mining Corporation",
+    "ticker": "LUN",
+    "website": "https://www.lundinmining.com",
+    "country": "Canada",
+    "type": "Base Metals Mining / Copper (Electrification)"
+  },
+  {
+    "id": "LYC.ASX",
+    "name": "Lynas Rare Earths Ltd",
+    "ticker": "LYC",
+    "website": "https://lynasrareearths.com",
+    "country": "Australia",
+    "type": "Rare Earth Mining & Processing (Reshoring)"
+  },
+  {
+    "id": "MP.NYSE",
+    "name": "MP Materials Corp.",
+    "ticker": "MP",
+    "website": "https://mpmaterials.com",
+    "country": "USA",
+    "type": "Rare Earth Mining & Processing (Reshoring)"
+  },
+  {
+    "id": "KAP.LSE",
+    "name": "NAC Kazatomprom JSC",
+    "ticker": "KAP",
+    "website": "https://www.kazatomprom.kz",
+    "country": "Kazakhstan",
+    "type": "Uranium Mining & Fuel Cycle (Nuclear)"
+  },
+  {
+    "id": "NNE.NASDAQ",
+    "name": "NANO Nuclear Energy Inc.",
+    "ticker": "NNE",
+    "website": "https://nanonuclearenergy.com",
+    "country": "USA",
+    "type": "Microreactors & Nuclear Technology (Nuclear)"
+  },
+  {
+    "id": "NXE.NYSE",
+    "name": "NexGen Energy Ltd.",
+    "ticker": "NXE",
+    "website": "https://www.nexgenenergy.ca",
+    "country": "Canada",
+    "type": "Uranium Exploration & Development (Nuclear)"
+  },
+  {
+    "id": "NHY.OSL",
+    "name": "Norsk Hydro ASA",
+    "ticker": "NHY",
+    "website": "https://www.hydro.com",
+    "country": "Norway",
+    "type": "Low-Carbon Aluminium & Renewable Energy (Electrification)"
+  },
+  {
+    "id": "NOC.NYSE",
+    "name": "Northrop Grumman Corporation",
+    "ticker": "NOC",
+    "website": "https://www.northropgrumman.com",
+    "country": "USA",
+    "type": "Aerospace & Defense Prime (Defense)"
+  },
+  {
+    "id": "SMR.NYSE",
+    "name": "NuScale Power Corporation",
+    "ticker": "SMR",
+    "website": "https://www.nuscalepower.com",
+    "country": "USA",
+    "type": "Small Modular Reactor (SMR) Technology (Nuclear)"
+  },
+  {
+    "id": "OKLO.NYSE",
+    "name": "Oklo Inc.",
+    "ticker": "OKLO",
+    "website": "https://oklo.com",
+    "country": "USA",
+    "type": "Advanced Nuclear Technology & SMRs (Nuclear)"
+  },
+  {
+    "id": "PDN.ASX",
+    "name": "Paladin Energy Ltd",
+    "ticker": "PDN",
+    "website": "https://www.paladinenergy.com.au",
+    "country": "Australia",
+    "type": "Uranium Mining (Nuclear)"
+  },
+  {
+    "id": "PLTR.NYSE",
+    "name": "Palantir Technologies Inc.",
+    "ticker": "PLTR",
+    "website": "https://www.palantir.com",
+    "country": "USA",
+    "type": "Data Analytics & AI Platform (Defense & AI)"
+  },
+  {
+    "id": "PEN.ASX",
+    "name": "Peninsula Energy Limited",
+    "ticker": "PEN",
+    "website": "https://www.pel.net.au",
+    "country": "Australia",
+    "type": "Uranium Mining & Exploration (Nuclear)"
+  },
+  {
+    "id": "PLS.ASX",
+    "name": "Pilbara Minerals Limited",
+    "ticker": "PLS",
+    "website": "https://www.pilbaraminerals.com.au",
+    "country": "Australia",
+    "type": "Lithium Mining & Processing (Electrification)"
+  },
+  {
+    "id": "PRY.BIT",
+    "name": "Prysmian S.p.A.",
+    "ticker": "PRY",
+    "website": "https://www.prysmiangroup.com",
+    "country": "Italy",
+    "type": "Energy & Telecom Cable Systems (Electrification)"
+  },
+  {
+    "id": "RHM.ETR",
+    "name": "Rheinmetall AG",
+    "ticker": "RHM",
+    "website": "https://www.rheinmetall.com",
+    "country": "Germany",
+    "type": "Defense & Automotive Systems (Defense)"
+  },
+  {
+    "id": "RIO.NYSE",
+    "name": "Rio Tinto Group",
+    "ticker": "RIO",
+    "website": "https://www.riotinto.com",
+    "country": "UK / Australia",
+    "type": "Diversified Mining / Copper & Lithium (Electrification)"
+  },
+  {
+    "id": "RR.LSE",
+    "name": "Rolls-Royce Holdings plc",
+    "ticker": "RR",
+    "website": "https://www.rolls-royce.com",
+    "country": "UK",
+    "type": "Aerospace & Defense / Power Systems (Defense & Nuclear)"
+  },
+  {
+    "id": "RTX.NYSE",
+    "name": "RTX Corporation",
+    "ticker": "RTX",
+    "website": "https://www.rtx.com",
+    "country": "USA",
+    "type": "Aerospace & Defense Prime (Defense)"
+  },
+  {
+    "id": "SAAB.ST",
+    "name": "Saab AB",
+    "ticker": "SAAB",
+    "website": "https://www.saab.com",
+    "country": "Sweden",
+    "type": "Defense & Aerospace (Defense)"
+  },
+  {
+    "id": "SU.EPA",
+    "name": "Schneider Electric SE",
+    "ticker": "SU",
+    "website": "https://www.se.com",
+    "country": "France",
+    "type": "Energy Management & Industrial Automation (Electrification)"
+  },
+  {
+    "id": "SBSW.NYSE",
+    "name": "Sibanye-Stillwater Limited",
+    "ticker": "SBSW",
+    "website": "https://www.sibanyestillwater.com",
+    "country": "South Africa",
+    "type": "Precious Metals Mining & Battery Recycling (Electrification)"
+  },
+  {
+    "id": "ENR.ETR",
+    "name": "Siemens Energy AG",
+    "ticker": "ENR",
+    "website": "https://www.siemens-energy.com",
+    "country": "Germany",
+    "type": "Energy Technology & Grid Infrastructure (Electrification)"
+  },
+  {
+    "id": "SGML.NASDAQ",
+    "name": "Sigma Lithium Corporation",
+    "ticker": "SGML",
+    "website": "https://www.sigmalithiumresources.com",
+    "country": "Canada / Brazil",
+    "type": "Sustainable Lithium Production (Electrification)"
+  },
+  {
+    "id": "SYH.TSX",
+    "name": "Skyharbour Resources Ltd.",
+    "ticker": "SYH",
+    "website": "https://www.skyharbourltd.com",
+    "country": "Canada",
+    "type": "Uranium Exploration (Nuclear)"
+  },
+  {
+    "id": "SCCO.NYSE",
+    "name": "Southern Copper Corporation",
+    "ticker": "SCCO",
+    "website": "https://www.southerncoppercorp.com",
+    "country": "USA / Mexico",
+    "type": "Copper Mining & Processing (Electrification)"
+  },
+  {
+    "id": "SQM.NYSE",
+    "name": "SQM (Sociedad Química y Minera de Chile)",
+    "ticker": "SQM",
+    "website": "https://www.sqm.com",
+    "country": "Chile",
+    "type": "Lithium & Specialty Chemicals (Electrification)"
+  },
+  {
+    "id": "STUD.TSX",
+    "name": "Stallion Uranium Corp.",
+    "ticker": "STUD",
+    "website": "https://www.stallionuranium.com",
+    "country": "Canada",
+    "type": "Uranium Exploration (Nuclear)"
+  },
+  {
+    "id": "SYR.ASX",
+    "name": "Syrah Resources Limited",
+    "ticker": "SYR",
+    "website": "https://www.syrahresources.com.au",
+    "country": "Australia",
+    "type": "Graphite Mining & Battery Material Technology (Reshoring)"
+  },
+  {
+    "id": "TOE.ASX",
+    "name": "Toro Energy Limited",
+    "ticker": "TOE",
+    "website": "https://www.toroenergy.com.au",
+    "country": "Australia",
+    "type": "Uranium Development & Exploration (Nuclear)"
+  },
+  {
+    "id": "URG.NYSE",
+    "name": "Ur-Energy Inc.",
+    "ticker": "URG",
+    "website": "https://www.ur-energy.com",
+    "country": "USA",
+    "type": "Uranium Mining (Nuclear)"
+  },
+  {
+    "id": "UROY.NASDAQ",
+    "name": "Uranium Royalty Corp.",
+    "ticker": "UROY",
+    "website": "https://www.uraniumroyalty.com",
+    "country": "Canada",
+    "type": "Uranium Royalty & Streaming (Nuclear)"
+  },
+  {
+    "id": "VG.NYSE",
+    "name": "Venture Global LNG",
+    "ticker": "VG",
+    "website": "https://ventureglobal.com",
+    "country": "USA",
+    "type": "LNG Production & Export (Reshoring)"
+  },
+  {
+    "id": "VRT.NYSE",
+    "name": "Vertiv Holdings Co.",
+    "ticker": "VRT",
+    "website": "https://www.vertiv.com",
+    "country": "USA",
+    "type": "AI Infrastructure / Data Center Hardware (AI)"
+  },
+  {
+    "id": "VST.NYSE",
+    "name": "Vistra Corp.",
+    "ticker": "VST",
+    "website": "https://www.vistracorp.com",
+    "country": "USA",
+    "type": "Nuclear Utility & Integrated Power (Nuclear)"
+  },
+  {
+    "id": "WUC.CSE",
+    "name": "Western Uranium & Vanadium Corp.",
+    "ticker": "WUC",
+    "website": "https://www.western-uranium.com",
+    "country": "USA / Canada",
+    "type": "Uranium & Vanadium Mining (Nuclear)"
+  },
+  {
+    "id": "WDEP",
+    "name": "WisdomTree Europe Defence UCITS ETF",
+    "ticker": "WDEP",
+    "website": "https://www.wisdomtree.eu/en-gb/etfs/thematic/wdep---wisdomtree-europe-defence-ucits-etf---eur-acc",
+    "country": "Ireland / Europe",
+    "type": "European Defense ETF (Defense)"
+  }
+]

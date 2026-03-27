@@ -1,0 +1,8 @@
+# Elevate Uranium Limited
+
+**Website:** [elevateuranium.com.au](https://www.elevateuranium.com.au)
+**Logo:** https://companieslogo.com/img/orig/EL8.AX-69966664.png?t=1720247441
+**Type:** Uranium Exploration & Development (Nuclear)
+**Country:** Australia
+
+Elevate Uranium is one of the most active uranium-focused companies on the ASX, holding a global resource base of over 150 million pounds of U3O8 across Namibia and Australia. A key differentiator for the company is its patented "U-pgrade™" process, a disruptive beneficiation technology designed to reduce mass by 98% and increase uranium grade by up to 50x before leaching, potentially cutting capital and operating costs by half compared to conventional processing. With a proven track record of discovery and a dominant land position in Namibia, Elevate Uranium is strategically positioned to meet the growing global demand for carbon-free nuclear energy.
