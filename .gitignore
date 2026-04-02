@@ -11,3 +11,4 @@ build/
 .gemini/
 .gemini-cli/
 package-lock.json
+.firebase/

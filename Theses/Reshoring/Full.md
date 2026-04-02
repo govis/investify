@@ -62,7 +62,6 @@ Simultaneously, FORGE has replaced the previous Minerals Security Partnership (M
 | DOE Loan ([Syrah Resources](/company/SYR.ASX)) | $98 Million | Vidalia Graphite Anode Facility |
 | Critical Minerals Alliance (Canada) | $18.5 Billion (Total) | Allied Mining & Processing |
 
-Data synthesized from.
 
 The shift toward "Value Chain Integration" is also evident in bilateral agreements. On March 2, 2026, Canada and Australia finalized a strategic framework to coordinate resource development, aligning Canada’s nickel and cobalt capabilities with Australia’s lithium and rare earth reserves. These alliances use Canadian pension funds and Australian superannuation systems to pool capital for projects that provide "ESG-certified" materials to Western manufacturers, creating a differentiated product class that is shielded from the Chinese-dominated spot market.
 
