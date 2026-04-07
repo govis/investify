@@ -16,7 +16,7 @@ These companies provide high-liquidity exposure to current production cycles. Th
 
 ### **Mid-to-Large Cap Specialized Producers**
 
-* **Albemarle (NYSE: ALB):** Global lithium leader. Secured $\\$150+$ million in U.S. government funding for North Carolina anode and domestic mining projects.  
+* **Albemarle (NYSE: ALB):** Global lithium leader. Secured $150 million in U.S. government funding for North Carolina anode and domestic mining projects.  
 * **SQM (NYSE: SQM):** Tier 1 lithium producer in Chile with significant low-cost brine operations and growing sustainability credentials.  
 * **Sibanye-Stillwater (NYSE: SBSW):** The world's largest primary platinum and rhodium producer. Strategically expanding into lithium (Keliber) and battery recycling (Reldan).  
 * **Pilbara Minerals (ASX: PLS):** Operates the world-class Pilgangoora lithium project in Australia; expanding downstream conversion via JVs.  
@@ -37,10 +37,10 @@ These companies possess advanced assets with clear timelines for production, oft
 
 | Company (Ticker) | Project Name | Primary Mineral | Status / Key Milestone | Construction / Completion |
 | :---- | :---- | :---- | :---- | :---- |
-| **Lithium Americas (LAC)** | Thacker Pass, Nevada | Lithium | Restructured $\\$2.26\\text{ B}$ DoE loan; GM offtake. | Construction: 2024; Phase 1: 2027 |
-| **Rio Tinto (RIO)** | Rincon, Argentina | Lithium | $\\$1.175\\text{ B}$ allied financing secured March 2026\. | Construction: Active; Target: 2027/28 |
+| **Lithium Americas (LAC)** | Thacker Pass, Nevada | Lithium | Restructured $2.26B DoE loan; GM offtake. | Construction: 2024; Phase 1: 2027 |
+| **Rio Tinto (RIO)** | Rincon, Argentina | Lithium | $1.175B allied financing secured March 2026\. | Construction: Active; Target: 2027/28 |
 | **Iluka Resources (ILU)** | Eneabba, Australia | Rare Earths | Developing the first fully integrated REE refinery outside China. | Completion: Late 2026/2027 |
-| **Faraday Copper (FDY)** | Copper Creek, Arizona | Copper | Building multi-asset district; $\\$100\\text{ M}$ placement March 2026\. | PEA Updated: 2025; DFS: 2026/27 |
+| **Faraday Copper (FDY)** | Copper Creek, Arizona | Copper | Building multi-asset district; $100M placement March 2026\. | PEA Updated: 2025; DFS: 2026/27 |
 | **Platinum Group (PTM)** | Waterberg, S. Africa | PGMs / Ni | Fully mechanized, low-cost project; Japan's HJM joint venture. | Construction Decision: 2026 |
 | **DLP Resources (DLP)** | Aurora, Peru | Cu / Mo | Large-scale Inferred Resource update in 2026\. | PEA Completion: Q2 2026 |
 | **Aclara Resources (ARA)** | Penco Module, Chile | Rare Earths | Advancing sustainable ionic clay REE project. | Pilot Plant: 2025; Build: 2026+ |
@@ -53,16 +53,16 @@ Juniors are the pioneers of the supply chain, responsible for $60\\%$ of new min
 
 ### **Discoveries with Maiden Resources or PEAs**
 
-* **Stria Lithium (TSXV: SRA):** Advancing the Pontax Central project in Quebec. Maiden Inferred Resource: $10.1\\text{ million metric tons}$ at $1.04\\%\\text{ Li}\_2O$.  
-* **Oreterra Metals (TSXV: OTMC):** Formerly Romios Gold. Advancing the Trek South copper-gold porphyry in BC. Commenced a $9,250\\text{m}$ drilling program in March 2026\.  
+* **Stria Lithium (TSXV: SRA):** Advancing the Pontax Central project in Quebec. Maiden Inferred Resource: 10.1 million metric tons at 1.04% Li2O.  
+* **Oreterra Metals (TSXV: OTMC):** Formerly Romios Gold. Advancing the Trek South copper-gold porphyry in BC. Commenced a 9,250m drilling program in March 2026\.  
 * **NorthIsle (TSX: NCX):** Released a 2025 Preliminary Economic Assessment (PEA) for North Island Copper-Gold; currently optimizing resource categories.  
 * **Clean Air Metals (TSXV: AIR):** Exploring the Thunder Bay North PGM project; located adjacent to Canada's only primary palladium mine.
 
 ### **Early-Stage Discovery & Strategic Stakers**
 
-* **GoldHaven Resources (CSE: GOH):** Confirmed anomalous tungsten mineralization (up to $6,550\\text{ ppm}$) at the Magno Property in BC (Feb 2026), validating a new critical metal zone.  
+* **GoldHaven Resources (CSE: GOH):** Confirmed anomalous tungsten mineralization (up to 6,550 ppm) at the Magno Property in BC (Feb 2026), validating a new critical metal zone.  
 * **New Age Metals (TSXV: NAM):** Acquired the Escape East PGM project in Feb 2026; targeting district-scale platinum-nickel systems in Ontario.  
-* **Consolidated Lithium (TSXV: CLM):** Recently uncovered an $18\\text{m}$ wide pegmatite body at the Preissac project in Quebec (2025/2026).  
+* **Consolidated Lithium (TSXV: CLM):** Recently uncovered an 18m wide pegmatite body at the Preissac project in Quebec (2025/2026).  
 * **EagleOne Metals (CSE: EAGL):** Building a critical minerals platform with a focus on North American exploration-to-production assets.
 
 ---
