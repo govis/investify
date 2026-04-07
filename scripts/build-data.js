@@ -32,7 +32,7 @@ const getCompanyAliases = (fullName) => {
   const commonSuffixes = [' Corporation', ' Corp.', ' Corp', ' Limited', ' Ltd.', ' Ltd', ' Inc.', ' Inc', ' Group', ' PLC', ' Co.', ' Co', ' Company', ' SE', ' SA', ' AG', ' NV'];
   
   // List of common words that should NOT be used as standalone aliases
-  const commonWords = ['Global', 'Energy', 'Uranium', 'Fission', 'Atomic', 'Mining', 'Resources', 'Metals', 'Materials', 'Systems', 'Technologies', 'Dynamics', 'Electric', 'Power', 'International', 'American', 'Canadian', 'Australian', 'Venture', 'Digital', 'Solutions', 'Holdings', 'Western', 'Deep', 'Southern', 'Northern', 'Central', 'Standard', 'Universal', 'Resour', 'BWX', 'Northrop'];
+  const commonWords = ['Global', 'Energy', 'Uranium', 'Fission', 'Atomic', 'Mining', 'Resources', 'Metals', 'Materials', 'Systems', 'Technologies', 'Dynamics', 'Electric', 'Power', 'International', 'American', 'Canadian', 'Australian', 'Venture', 'Digital', 'Solutions', 'Holdings', 'Western', 'Deep', 'Southern', 'Northern', 'Central', 'Standard', 'Universal', 'Resour', 'BWX', 'Northrop', 'Peninsula'];
 
   let simplified = fullName;
   let changed = true;
@@ -205,8 +205,7 @@ const linkifyCompanies = (content) => {
   const processedLines = lines.map(line => {
     let newLine = line;
     
-    // Skip already linked lines, markdown headers, and table headers
-    if (line.includes('](/company/')) return line;
+    // Skip markdown headers and table headers/separators
     if (line.trim().startsWith('#')) return line;
     if (line.trim().startsWith('|') && (line.toLowerCase().includes('ticker') || line.includes('---'))) return line;
 
@@ -218,7 +217,7 @@ const linkifyCompanies = (content) => {
     const allIdentifiers = [
       ...Object.keys(companyMapping.names).map(name => ({ text: name, type: 'name' })),
       ...Object.keys(companyMapping.aliases).map(alias => ({ text: alias, type: 'alias' }))
-    ].sort((a, b) => b.text.length - a.length);
+    ].sort((a, b) => b.text.length - a.text.length);
 
     for (const item of allIdentifiers) {
       const id = companyMapping.names[item.text] || companyMapping.aliases[item.text];
@@ -228,7 +227,8 @@ const linkifyCompanies = (content) => {
       // Use lookahead/lookbehind to ensure whole word/phrase
       //(?<!\[|/) ensures we aren't at the start of a markdown link text or URL path
       //(?!\]|/|\w) ensures we aren't at the end of markdown link text, URL path, or inside a word
-      const regex = new RegExp(`(?<!\\[|/)\\b${escapedText}\\b(?![\\ ]/]|\\w)`, 'gi');
+      // Removed 'g' flag to only replace the FIRST occurrence on the line
+      const regex = new RegExp(`(?<!\\[|/)\\b${escapedText}\\b(?![\\ ]/]|\\w)`, 'i');
       
       if (regex.test(newLine)) {
         newLine = newLine.replace(regex, (match) => `[${match}](/company/${id})`);
@@ -243,10 +243,11 @@ const linkifyCompanies = (content) => {
       
       const id = companyMapping.tickers[ticker];
       
-      // If this line already contains a link to this company, skip ticker linking
+      // If this line already contains a link to this company (from name/alias match), skip ticker linking
       if (linkedIdsOnThisLine.has(id)) continue;
 
-      const tickerRegex = new RegExp(`(?<!\\[|/|\\()\\b${ticker}\\b(?![\\]\\)/])`, 'g');
+      // Removed 'g' flag
+      const tickerRegex = new RegExp(`(?<!\\[|/|\\()\\b${ticker}\\b(?![\\]\\)/])`, 'i');
       
       if (tickerRegex.test(newLine)) {
         const hasContext = contextKeywords.some(kw => newLine.includes(kw));
