@@ -299,8 +299,8 @@ const parseThesis = (folderName) => {
     }
   }
 
-  theme = linkifyCompanies(theme);
-  summary = linkifyCompanies(summary);
+  theme = theme.trim();
+  summary = summary.trim();
 
   const cardImagePath = path.join(folderPath, 'CardImage.jpg');
   let imageUrl = '';
