@@ -20,29 +20,53 @@ if (!fs.existsSync(COMPANIES_OUTPUT_DIR)) fs.mkdirSync(COMPANIES_OUTPUT_DIR, { r
 
 const companyMapping = {
   names: {}, // name.toLowerCase() -> id
-  tickers: {} // TICKER -> id
+  tickers: {}, // TICKER -> id
+  aliases: {} // alias.toLowerCase() -> id
 };
 
 const companiesList = [];
 
-// Function to download file
-const downloadFile = (url, targetPath) => {
-  return new Promise((resolve, reject) => {
-    https.get(url, (res) => {
-      if (res.statusCode === 200) {
-        const fileStream = fs.createWriteStream(targetPath);
-        res.pipe(fileStream);
-        fileStream.on('finish', () => {
-          fileStream.close();
-          resolve();
-        });
-      } else {
-        reject(new Error(`Failed to download: ${res.statusCode}`));
-      }
-    }).on('error', (err) => {
-      reject(err);
-    });
+// Function to simplify company names (e.g., "Cameco Corporation" -> "Cameco")
+const getCompanyAliases = (fullName) => {
+  const aliases = [];
+  const commonSuffixes = [' Corporation', ' Corp.', ' Corp', ' Limited', ' Ltd.', ' Ltd', ' Inc.', ' Inc', ' Group', ' PLC', ' Co.', ' Co', ' SE', ' SA', ' AG', ' NV'];
+  
+  // List of common words that should NOT be used as standalone aliases
+  const commonWords = ['Global', 'Energy', 'Uranium', 'Fission', 'Atomic', 'Mining', 'Resources', 'Metals', 'Materials', 'Systems', 'Technologies', 'Dynamics', 'Electric', 'Power', 'International', 'American', 'Canadian', 'Australian', 'Venture', 'Digital', 'Solutions', 'Holdings', 'Western', 'Deep', 'Southern', 'Northern', 'Central', 'Standard', 'Universal'];
+
+  let simplified = fullName;
+  commonSuffixes.forEach(suffix => {
+    if (simplified.toLowerCase().endsWith(suffix.toLowerCase())) {
+      simplified = simplified.substring(0, simplified.length - suffix.length).trim();
+    }
   });
+
+  if (simplified !== fullName && !commonWords.includes(simplified)) {
+    // If the simplified name is still multiple words, we use it as an alias
+    // If it's a single word, we only use it if it's not a common word
+    aliases.push(simplified);
+  }
+
+  // Handle cases like "BHP Group" -> "BHP"
+  const words = fullName.split(' ');
+  const firstWord = words[0];
+  
+  // ONLY use the first word as an alias if the full name is essentially just that word + suffix
+  // AND the first word is not a common word.
+  // This avoids linking "Schneider" when "Schneider Electric" is the intent.
+  if (words.length <= 3 && firstWord.length >= 3 && !aliases.includes(firstWord) && !commonWords.includes(firstWord)) {
+    // Check if the other words are just suffixes
+    const otherWords = words.slice(1);
+    const areAllSuffixes = otherWords.every(w => 
+      commonSuffixes.some(s => s.trim().toLowerCase() === w.toLowerCase())
+    );
+    
+    if (areAllSuffixes) {
+      aliases.push(firstWord);
+    }
+  }
+
+  return aliases;
 };
 
 // 1. Process Companies
@@ -131,7 +155,13 @@ async function processCompanies() {
         fs.writeFileSync(path.join(COMPANIES_OUTPUT_DIR, `${folderName}.json`), JSON.stringify(detail, null, 2));
         console.log(`Successfully generated company ${folderName}.json`);
 
-        if (name) companyMapping.names[name.toLowerCase()] = folderName;
+        if (name) {
+          companyMapping.names[name.toLowerCase()] = folderName;
+          const aliases = getCompanyAliases(name);
+          aliases.forEach(alias => {
+            companyMapping.aliases[alias.toLowerCase()] = folderName;
+          });
+        }
         companyMapping.tickers[ticker] = folderName;
 
         companiesList.push({
@@ -155,23 +185,82 @@ async function processCompanies() {
 // Helper to replace company names/tickers with links in markdown
 const linkifyCompanies = (content) => {
   if (!content) return content;
-  let newContent = content;
   
-  const names = Object.keys(companyMapping.names).sort((a, b) => b.length - a.length);
-  names.forEach(name => {
-    const id = companyMapping.names[name];
-    const regex = new RegExp(`(?<!\\[|/|\\()\\b${name}\\b(?![\\]\\)/])`, 'gi');
-    newContent = newContent.replace(regex, (match) => `[${match}](/company/${id})`);
+  // To be safe, we also exclude common terms that happen to be tickers
+  const excludedTickers = ['HBM', 'SMR', 'EU', 'LNG'];
+  
+  // Context keywords that allow a standalone ticker to be linked
+  const contextKeywords = ['Ticker', 'Symbol', 'NYSE', 'NASDAQ', 'ASX', 'TSX', 'LSE', 'ETR', 'SIX', 'HK', 'OTC', 'BIT', 'ST', 'OSL', 'EPA', 'CSE'];
+
+  const lines = content.split('\n');
+  const processedLines = lines.map(line => {
+    let newLine = line;
+    
+    // Skip already linked lines, markdown headers, and table headers
+    if (line.includes('](/company/')) return line;
+    if (line.trim().startsWith('#')) return line;
+    if (line.trim().startsWith('|') && (line.toLowerCase().includes('ticker') || line.includes('---'))) return line;
+
+    // Keep track of which companies (by ID) we've already linked on this line
+    const linkedIdsOnThisLine = new Set();
+
+    // First, try to link by FULL Name (exact matches are highest priority)
+    const fullNames = Object.keys(companyMapping.names).sort((a, b) => b.length - a.length);
+    for (const name of fullNames) {
+      const id = companyMapping.names[name];
+      if (!id || linkedIdsOnThisLine.has(id)) continue;
+
+      const escapedName = name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      // Case-insensitive match for name
+      const nameRegex = new RegExp(`(?<!\\[|/|\\()\\b${escapedName}\\b(?![\\]\\)/])`, 'gi');
+      
+      if (nameRegex.test(newLine)) {
+        newLine = newLine.replace(nameRegex, (match) => `[${match}](/company/${id})`);
+        linkedIdsOnThisLine.add(id);
+      }
+    }
+
+    // Then, try to link by Alias (longer matches first)
+    const aliases = Object.keys(companyMapping.aliases).sort((a, b) => b.length - a.length);
+    for (const alias of aliases) {
+      const id = companyMapping.aliases[alias];
+      if (!id || linkedIdsOnThisLine.has(id)) continue;
+
+      const escapedAlias = alias.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      // Case-insensitive match for alias
+      const aliasRegex = new RegExp(`(?<!\\[|/|\\()\\b${escapedAlias}\\b(?![\\]\\)/])`, 'gi');
+      
+      if (aliasRegex.test(newLine)) {
+        newLine = newLine.replace(aliasRegex, (match) => `[${match}](/company/${id})`);
+        linkedIdsOnThisLine.add(id);
+      }
+    }
+
+    // Then, try to link by Ticker if not already linked for that company and if context exists
+    const tickers = Object.keys(companyMapping.tickers).sort((a, b) => b.length - a.length);
+    for (const ticker of tickers) {
+      if (excludedTickers.includes(ticker)) continue;
+      
+      const id = companyMapping.tickers[ticker];
+      
+      // If this line already contains a link to this company, skip ticker linking
+      if (linkedIdsOnThisLine.has(id)) continue;
+
+      const tickerRegex = new RegExp(`(?<!\\[|/|\\()\\b${ticker}\\b(?![\\]\\)/])`, 'g');
+      
+      if (tickerRegex.test(newLine)) {
+        const hasContext = contextKeywords.some(kw => newLine.includes(kw));
+        if (hasContext) {
+          newLine = newLine.replace(tickerRegex, (match) => `[${match}](/company/${id})`);
+          linkedIdsOnThisLine.add(id);
+        }
+      }
+    }
+
+    return newLine;
   });
 
-  const tickers = Object.keys(companyMapping.tickers).sort((a, b) => b.length - a.length);
-  tickers.forEach(ticker => {
-    const id = companyMapping.tickers[ticker];
-    const regex = new RegExp(`(?<!\\[|/|\\()\\b${ticker}\\b(?![\\]\\)/])`, 'g');
-    newContent = newContent.replace(regex, (match) => `[${match}](/company/${id})`);
-  });
-
-  return newContent;
+  return processedLines.join('\n');
 };
 
 // 2. Helper to parse thesis file
