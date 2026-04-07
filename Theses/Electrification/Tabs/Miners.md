@@ -81,6 +81,6 @@ Juniors are the pioneers of the supply chain, responsible for $60\\%$ of new min
 
 Institutional portfolios should consider a barbell strategy:
 
-1. **Core Exposure:** Large-cap producers like **BHP** and **Albemarle** to capture immediate cash flow from the $19\\text{ million metric ton}$ copper shortfall and $16\\%$ annual lithium growth.  
-2. **Growth Alpha:** Developers like **Lithium Americas** and **Iluka Resources** that are de-risked by government equity or credit agreements ($\> \\$30\\text{ billion}$ in recent US-allied support).  
+1. **Core Exposure:** Large-cap producers like **BHP** and **Albemarle** to capture immediate cash flow from the 19 million metric ton copper shortfall and 16% annual lithium growth.  
+2. **Growth Alpha:** Developers like **Lithium Americas** and **Iluka Resources** that are de-risked by government equity or credit agreements (> $30 billion in recent US-allied support).  
 3. **Discovery Upside:** Targeted allocations to juniors like **Oreterra** or **GoldHaven** that offer asymmetric returns on district-scale discoveries in "trusted" mining jurisdictions like Canada and Australia.

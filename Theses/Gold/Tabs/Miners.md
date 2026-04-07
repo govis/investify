@@ -12,9 +12,9 @@ The global gold mining sector has entered a definitive structural bull market as
 | **Barrick Mining** | GOLD | 5.0 Moz | Nevada Gold Mines (US), Loulo-Gounkoto (Mali) | Strategic spin-off of North American assets (NewCo); high copper exposure (\~8%). |
 | **Agnico Eagle** | AEM | 3.7 Moz | Detour Lake (CAN), Fosterville (AU), Kittilä (FIN) | Premier "safe-haven" miner with 100% production in low-risk jurisdictions. |
 | **AngloGold Ashanti** | AU | \~2.5 Moz | Obuasi (Ghana), Geita (Tanzania), Kibali (DRC) | Massive margin expansion; 152% 1-year return as of Q1 2026\. |
-| **Northern Star** | NST | 1.8-2.0 Moz 1 | KCGM (AU), Yandal (AU), Pogo (Alaska) | KCGM mill expansion commissioning early FY27; high-tech vertical integration.1 |
-| **Kinross Gold** | KGC | 2.0 Moz 3 | Tasiast (Mauritania), Paracatu (Brazil), Fort Knox (US) | Strong free cash flow; 133% 1-year return. |
-| **Gold Fields** | GFI | 2.2-2.4 Moz 3 | South Deep (South Africa), Gruyere (AU), Salares Norte (Chile) | High operational stability and steady dividend policy. |
+| **Northern Star** | NST | 1.8-2.0 Moz | KCGM (AU), Yandal (AU), Pogo (Alaska) | KCGM mill expansion commissioning early FY27; high-tech vertical integration.1 |
+| **Kinross Gold** | KGC | 2.0 Moz | Tasiast (Mauritania), Paracatu (Brazil), Fort Knox (US) | Strong free cash flow; 133% 1-year return. |
+| **Gold Fields** | GFI | 2.2-2.4 Moz | South Deep (South Africa), Gruyere (AU), Salares Norte (Chile) | High operational stability and steady dividend policy. |
 
 ## ---
 
@@ -22,7 +22,7 @@ The global gold mining sector has entered a definitive structural bull market as
 
 *Intermediate producers (500k – 1 Moz pa) often offer higher growth profiles and agility compared to senior majors.*
 
-* **Evolution Mining (EVN):** Focuses on low-cost, long-life assets like Cowal (AU) and Red Lake (CAN). Transitioning into a copper-gold diversified mix.1  
+* **Evolution Mining (EVN):** Focuses on low-cost, long-life assets like Cowal (AU) and Red Lake (CAN). Transitioning into a copper-gold diversified mix.  
 * **Alamos Gold (AGI):** High-quality Canadian producer with strong margins and significant reserve life.  
 * **B2Gold (BTG):** Diversified producer with significant growth from the Goose project in Nunavut; maintains low AISC (\~$870/oz).  
 * **Endeavour Mining (EDV):** Top pick for 2026 due to anticipated year-on-year margin increases in West Africa.  

@@ -29,41 +29,50 @@ const companiesList = [];
 // Function to simplify company names (e.g., "Cameco Corporation" -> "Cameco")
 const getCompanyAliases = (fullName) => {
   const aliases = [];
-  const commonSuffixes = [' Corporation', ' Corp.', ' Corp', ' Limited', ' Ltd.', ' Ltd', ' Inc.', ' Inc', ' Group', ' PLC', ' Co.', ' Co', ' SE', ' SA', ' AG', ' NV'];
+  const commonSuffixes = [' Corporation', ' Corp.', ' Corp', ' Limited', ' Ltd.', ' Ltd', ' Inc.', ' Inc', ' Group', ' PLC', ' Co.', ' Co', ' Company', ' SE', ' SA', ' AG', ' NV'];
   
   // List of common words that should NOT be used as standalone aliases
-  const commonWords = ['Global', 'Energy', 'Uranium', 'Fission', 'Atomic', 'Mining', 'Resources', 'Metals', 'Materials', 'Systems', 'Technologies', 'Dynamics', 'Electric', 'Power', 'International', 'American', 'Canadian', 'Australian', 'Venture', 'Digital', 'Solutions', 'Holdings', 'Western', 'Deep', 'Southern', 'Northern', 'Central', 'Standard', 'Universal'];
+  const commonWords = ['Global', 'Energy', 'Uranium', 'Fission', 'Atomic', 'Mining', 'Resources', 'Metals', 'Materials', 'Systems', 'Technologies', 'Dynamics', 'Electric', 'Power', 'International', 'American', 'Canadian', 'Australian', 'Venture', 'Digital', 'Solutions', 'Holdings', 'Western', 'Deep', 'Southern', 'Northern', 'Central', 'Standard', 'Universal', 'Resour', 'BWX', 'Northrop'];
 
   let simplified = fullName;
-  commonSuffixes.forEach(suffix => {
-    if (simplified.toLowerCase().endsWith(suffix.toLowerCase())) {
-      simplified = simplified.substring(0, simplified.length - suffix.length).trim();
+  let changed = true;
+  while (changed) {
+    changed = false;
+    // Strip trailing commas and dots before checking suffixes
+    simplified = simplified.replace(/[,.]$/, '').trim();
+    
+    for (const suffix of commonSuffixes) {
+      if (simplified.toLowerCase().endsWith(suffix.toLowerCase())) {
+        // Add the version BEFORE stripping this suffix as an alias too (e.g., "BHP Group", "BWX Technologies")
+        const currentSimplified = simplified.replace(/[,.]$/, '').trim();
+        if (currentSimplified !== fullName && currentSimplified.length >= 3 && !commonWords.includes(currentSimplified)) {
+          if (!aliases.includes(currentSimplified)) aliases.push(currentSimplified);
+        }
+        simplified = simplified.substring(0, simplified.length - suffix.length).trim();
+        changed = true;
+      }
     }
-  });
+  }
+  
+  // Final cleanup of the simplified name
+  simplified = simplified.replace(/[,.]$/, '').trim();
 
-  if (simplified !== fullName && !commonWords.includes(simplified)) {
-    // If the simplified name is still multiple words, we use it as an alias
-    // If it's a single word, we only use it if it's not a common word
-    aliases.push(simplified);
+  if (simplified !== fullName && simplified.length >= 3 && !commonWords.includes(simplified)) {
+    if (!aliases.includes(simplified)) aliases.push(simplified);
+  }
+
+  // Handle "Oklo Inc." -> "Oklo Inc" (without dot)
+  if (fullName.endsWith('.')) {
+    const noDot = fullName.substring(0, fullName.length - 1);
+    if (!aliases.includes(noDot)) aliases.push(noDot);
   }
 
   // Handle cases like "BHP Group" -> "BHP"
   const words = fullName.split(' ');
-  const firstWord = words[0];
+  const firstWord = words[0].replace(/[.,]$/, ''); // Strip trailing punctuation
   
-  // ONLY use the first word as an alias if the full name is essentially just that word + suffix
-  // AND the first word is not a common word.
-  // This avoids linking "Schneider" when "Schneider Electric" is the intent.
-  if (words.length <= 3 && firstWord.length >= 3 && !aliases.includes(firstWord) && !commonWords.includes(firstWord)) {
-    // Check if the other words are just suffixes
-    const otherWords = words.slice(1);
-    const areAllSuffixes = otherWords.every(w => 
-      commonSuffixes.some(s => s.trim().toLowerCase() === w.toLowerCase())
-    );
-    
-    if (areAllSuffixes) {
-      aliases.push(firstWord);
-    }
+  if (words.length <= 4 && firstWord.length >= 3 && !aliases.includes(firstWord) && !commonWords.includes(firstWord)) {
+    aliases.push(firstWord);
   }
 
   return aliases;
@@ -204,34 +213,25 @@ const linkifyCompanies = (content) => {
     // Keep track of which companies (by ID) we've already linked on this line
     const linkedIdsOnThisLine = new Set();
 
-    // First, try to link by FULL Name (exact matches are highest priority)
-    const fullNames = Object.keys(companyMapping.names).sort((a, b) => b.length - a.length);
-    for (const name of fullNames) {
-      const id = companyMapping.names[name];
+    // Combine all names and aliases into one list and sort by length descending
+    // This ensures "Northrop Grumman" is tried before "Northrop"
+    const allIdentifiers = [
+      ...Object.keys(companyMapping.names).map(name => ({ text: name, type: 'name' })),
+      ...Object.keys(companyMapping.aliases).map(alias => ({ text: alias, type: 'alias' }))
+    ].sort((a, b) => b.text.length - a.length);
+
+    for (const item of allIdentifiers) {
+      const id = companyMapping.names[item.text] || companyMapping.aliases[item.text];
       if (!id || linkedIdsOnThisLine.has(id)) continue;
 
-      const escapedName = name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-      // Case-insensitive match for name
-      const nameRegex = new RegExp(`(?<!\\[|/|\\()\\b${escapedName}\\b(?![\\]\\)/])`, 'gi');
+      const escapedText = item.text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      // Use lookahead/lookbehind to ensure whole word/phrase
+      //(?<!\[|/) ensures we aren't at the start of a markdown link text or URL path
+      //(?!\]|/|\w) ensures we aren't at the end of markdown link text, URL path, or inside a word
+      const regex = new RegExp(`(?<!\\[|/)\\b${escapedText}\\b(?![\\ ]/]|\\w)`, 'gi');
       
-      if (nameRegex.test(newLine)) {
-        newLine = newLine.replace(nameRegex, (match) => `[${match}](/company/${id})`);
-        linkedIdsOnThisLine.add(id);
-      }
-    }
-
-    // Then, try to link by Alias (longer matches first)
-    const aliases = Object.keys(companyMapping.aliases).sort((a, b) => b.length - a.length);
-    for (const alias of aliases) {
-      const id = companyMapping.aliases[alias];
-      if (!id || linkedIdsOnThisLine.has(id)) continue;
-
-      const escapedAlias = alias.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-      // Case-insensitive match for alias
-      const aliasRegex = new RegExp(`(?<!\\[|/|\\()\\b${escapedAlias}\\b(?![\\]\\)/])`, 'gi');
-      
-      if (aliasRegex.test(newLine)) {
-        newLine = newLine.replace(aliasRegex, (match) => `[${match}](/company/${id})`);
+      if (regex.test(newLine)) {
+        newLine = newLine.replace(regex, (match) => `[${match}](/company/${id})`);
         linkedIdsOnThisLine.add(id);
       }
     }
