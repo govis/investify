@@ -1,4 +1,4 @@
-### **Investment Thesis**
+## **Investment Thesis**
 
 ### **The Macro-Electricity Shock: AI and Industrialization as Structural Drivers**
 
@@ -6,25 +6,25 @@ The global energy landscape is transitioning from a period of efficiency-driven 
 
 This surge is not a transient spike but a structural shift in the requirements of modern compute. AI training and deployment occur in data centers where servers—equipped with power-hungry graphics processing units (GPUs)—account for roughly 60% of total facility electricity demand . Unlike traditional commercial loads, AI clusters require high-density, "firm" power that operates with 24/7 reliability. The fragility of current grid configurations was demonstrated in July 2024, when a minor voltage fluctuation in Virginia caused the simultaneous disconnection of 60 data centers, leading to a massive 1,500 MW power surplus and forcing emergency grid adjustments . Consequently, tech "hyperscalers" including Microsoft, Amazon, Google, and Meta, who collectively spent over $200 billion on capital expenditures in 2024, are increasingly viewing energy procurement as a strategic bottleneck .
 
-Simultaneous with the AI boom is the broader electrification of the global industrial base. The "Age of Electricity" is being defined by the transition to electric mobility, the deployment of heat pumps, and the onshoring of energy-intensive manufacturing.\[6, 7\] In advanced economies, electricity consumption is rising for the first time in years, even as industrial demand remains volatile in regions like the European Union.\[1\] The IEA projects that global electricity production must rise by 4% annually through 2027 to accommodate these forces .
+Simultaneous with the AI boom is the broader electrification of the global industrial base. The "Age of Electricity" is being defined by the transition to electric mobility, the deployment of heat pumps, and the onshoring of energy-intensive manufacturing. In advanced economies, electricity consumption is rising for the first time in years, even as industrial demand remains volatile in regions like the European Union. The IEA projects that global electricity production must rise by 4% annually through 2027 to accommodate these forces .
 
 ### **The Intermittency Trap: Why Renewables Require Nuclear**
 
 The global push for clean energy has historically prioritized wind and solar PV due to their rapidly declining levelized costs of electricity (LCOE). Onshore wind and solar remained the most affordable sources of new generation globally in 2024 . However, the institutional investment community is beginning to distinguish between the nominal cost of generation and the true "system cost" of power delivery. Renewable energy is inherently intermittent, requiring massive over-provisioning of capacity and long-duration storage to meet baseload requirements.
 
-Modeling across eight diverse emerging economies—including Brazil, India, and South Africa—indicates that integrating nuclear energy, including SMRs, can deliver up to 30% of total electricity generation while lowering overall system costs by up to 31% by 2050.\[8, 9\] By providing a steady baseload, nuclear reduces the need to overbuild solar arrays and battery storage systems, saving billions in avoided transmission and land-use costs.\[8, 10\] Nuclear power plants operate at capacity factors typically exceeding 90%, whereas wind and solar often operate below 35%, making nuclear the only carbon-free technology capable of complementing the variability of the renewable fleet.\[9, 11, 12\]
+Modeling across eight diverse emerging economies—including Brazil, India, and South Africa—indicates that integrating nuclear energy, including SMRs, can deliver up to 30% of total electricity generation while lowering overall system costs by up to 31% by 2050\. By providing a steady baseload, nuclear reduces the need to overbuild solar arrays and battery storage systems, saving billions in avoided transmission and land-use costs. Nuclear power plants operate at capacity factors typically exceeding 90%, whereas wind and solar often operate below 35%, making nuclear the only carbon-free technology capable of complementing the variability of the renewable fleet.
 
 ### **The Broken Supply Chain: Decades of Stagnation**
 
 The current "Nuclear Renaissance" is occurring against a backdrop of decades of underinvestment in Western nuclear infrastructure. The U.S., while still the world's largest producer of nuclear power, has not seen a successful large-scale greenfield project in 15 years, with the exception of the Vogtle expansion which was plagued by cost overruns . Modern projects like Vogtle 3 and 4 are estimated at $8,000/kWe or more, with all-in costs nearly doubling that when financing is included .
 
-This period of stagnation has led to a depletion of the specialized engineering, procurement, and construction (EPC) workforce. However, this deficit creates a significant tailwind for the few remaining firms with the certifications and technical expertise to service the industry. Total investment in the nuclear value chain is projected to reach $2.2 trillion over the next 25 years.\[13, 7, 14\]
+This period of stagnation has led to a depletion of the specialized engineering, procurement, and construction (EPC) workforce. However, this deficit creates a significant tailwind for the few remaining firms with the certifications and technical expertise to service the industry. Total investment in the nuclear value chain is projected to reach $2.2 trillion over the next 25 years.
 
 ### **The Midstream Bottleneck: SWU and the HALEU Crisis**
 
-The most critical near-term bottleneck in the nuclear renaissance is the midstream enrichment process. Uranium enrichment is measured in Separative Work Units (SWU), which represents the energy and effort required to increase the concentration of the ![][image1] isotope.\[1, 2, 3\] Russia's Rosatom currently controls approximately 40% of global enrichment capacity.\[2, 15, 3\] In response, the U.S. implemented the "Prohibiting Russian Uranium Imports Act," effective August 11, 2024, which bans Russian enriched uranium with limited waivers through 2028.\[2, 15, 3\] This has created a structural deficit in the Western SWU market, estimated at 6 to 10 million SWU per year.\[3\]
+The most critical near-term bottleneck in the nuclear renaissance is the midstream enrichment process. Uranium enrichment is measured in Separative Work Units (SWU), which represents the energy and effort required to increase the concentration of the U-235 isotope. Russia's Rosatom currently controls approximately 40% of global enrichment capacity. In response, the U.S. implemented the "Prohibiting Russian Uranium Imports Act," effective August 11, 2024, which bans Russian enriched uranium with limited waivers through 2028\. This has created a structural deficit in the Western SWU market, estimated at 6 to 10 million SWU per year.
 
-Many next-generation [SMR](/company/SMR.NYSE) designs require High-Assay Low-Enriched Uranium (HALEU), enriched to levels between 5% and 20% ![][image1].\[2, 16, 3\] Producing 1 kg of HALEU requires approximately 42 SWU, roughly five to six times the effort needed for standard light-water reactor fuel.\[1, 3\] Currently, Western commercial-scale production of HALEU is essentially zero, though [Centrus Energy](/company/LEU.NYSE) reached a milestone in mid-2025 by producing its first 900 kilograms .
+Many next-generation SMR designs require High-Assay Low-Enriched Uranium (HALEU), enriched to levels between 5% and 20% U-235. Producing 1 kg of HALEU requires approximately 42 SWU, roughly five to six times the effort needed for standard light-water reactor fuel. Currently, Western commercial-scale production of HALEU is essentially zero, though Centrus Energy reached a milestone in mid-2025 by producing its first 900 kilograms .
 
 ### **Upstream Scarcity: The Looming Uranium Deficit**
 
@@ -34,21 +34,21 @@ Global uranium requirements are forecast to grow from 68,920 tU in 2025 to over 
 
 ### **Next-Generation Nuclear: SMRs and Microreactors**
 
-Small Modular Reactors (SMRs) offer a 5 MW to 300 MW power range that is better suited for localized industrial applications and data centers.\[11, 17, 18\] SMRs address the primary barriers to traditional nuclear: capital risk and siting. Their modular construction allows developers to add capacity incrementally .
+Small Modular Reactors (SMRs) offer a 5 MW to 300 MW power range that is better suited for localized industrial applications and data centers. SMRs address the primary barriers to traditional nuclear: capital risk and siting. Their modular construction allows developers to add capacity incrementally .
 
-Leading tech giants have formalized significant [SMR](/company/SMR.NYSE) partnerships:
+Leading tech giants have formalized significant SMR partnerships:
 
-* **Google & Kairos Power:** Target 2030 for the first commercial [SMR](/company/SMR.NYSE).\[10, 16\]  
-* **Amazon & X-energy:** Amazon is funding [SMR](/company/SMR.NYSE) deployments in Washington targeting 2032-2035.\[10, 16\]  
-* **Microsoft & [Constellation](/company/CEG.NASDAQ):** Restarting the 837 MW Three Mile Island Unit 1 by 2028 .
+* **Google & Kairos Power:** Target 2030 for the first commercial SMR.  
+* **Amazon & X-energy:** Amazon is funding SMR deployments in Washington targeting 2032-2035.  
+* **Microsoft & Constellation:** Restarting the 837 MW Three Mile Island Unit 1 by 2028 .
 
 ### **The Circular Fuel Cycle: Waste as a Resource**
 
-Safe disposal and recycling of used nuclear fuel are central to long-term sustainability. Approximately 96% of energy content remains in spent fuel after first use. Advanced "fast-fission" reactors, such as those by [Oklo](/company/OKLO.NYSE), are designed to utilize this recycled fuel . Innovative disposal technologies like deep borehole disposal from Deep Isolation have been validated as a safe method for high-level radioactive waste .
+Safe disposal and recycling of used nuclear fuel are central to long-term sustainability. Approximately 96% of energy content remains in spent fuel after first use. Advanced "fast-fission" reactors, such as those by Oklo, are designed to utilize this recycled fuel . Innovative disposal technologies like deep borehole disposal from Deep Isolation have been validated as a safe method for high-level radioactive waste .
 
 ### **Geopolitics: The Bifurcated Global Market**
 
-The nuclear sector is split into two spheres. China and Russia have aggressively pursued state-led expansion, with China poised to lead global nuclear capacity by 2030 . In contrast, the "Sapporo 5"—the U.S., Canada, France, Japan, and the U.K.—committed $4.2 billion to expand Western conversion and enrichment to break Russia's chokehold.\[2, 15, 3\]
+The nuclear sector is split into two spheres. China and Russia have aggressively pursued state-led expansion, with China poised to lead global nuclear capacity by 2030 . In contrast, the "Sapporo 5"—the U.S., Canada, France, Japan, and the U.K.—committed $4.2 billion to expand Western conversion and enrichment to break Russia's chokehold.
 
 ### **Strategic Synthesis**
 
