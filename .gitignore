@@ -12,3 +12,6 @@ build/
 .gemini-cli/
 package-lock.json
 .firebase/
+Companies/
+CompanyList.json
+Commands.txt
