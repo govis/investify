@@ -1,8 +1,0 @@
-# Bannerman Energy Ltd
-
-**Website:** [bannermanenergy.com](https://www.bannermanenergy.com)
-**Logo:** https://www.bannermanenergy.com/wp-content/themes/bannerman/assets/images/logo.png
-**Type:** Uranium Development (Nuclear)
-**Country:** Australia
-
-Bannerman Energy is an Australian-listed uranium development company. Its flagship asset is the 95%-owned Etango Uranium Project in Namibia, which is one of the world's largest undeveloped uranium deposits. Etango is a world-class, long-life asset that has been significantly de-risked through extensive technical work and permitting. Bannerman is positioned as a primary beneficiary of the structural shift in the uranium market, offering significant leverage to the nuclear renaissance.
