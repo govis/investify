@@ -2,6 +2,11 @@ import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { ChevronLeft, Globe, ExternalLink } from 'lucide-react';
 
+interface InvestmentThesis {
+  thesis_name: string;
+  company_type: string;
+}
+
 interface Company {
   id: string;
   name: string;
@@ -9,6 +14,7 @@ interface Company {
   website: string;
   country: string;
   type: string;
+  investment_theses?: InvestmentThesis[];
 }
 
 const CompanyList: React.FC = () => {
@@ -63,9 +69,33 @@ const CompanyList: React.FC = () => {
             {companies.map(company => (
               <tr key={company.id} style={{ borderBottom: '1px solid #f5f5f5' }}>
                 <td style={{ padding: '12px' }}>
-                  <Link to={`/company/${company.id}`} style={{ color: '#0066cc', textDecoration: 'none', fontWeight: '500' }}>
-                    {company.name}
-                  </Link>
+                  <div style={{ display: 'flex', flexDirection: 'column', gap: '4px' }}>
+                    <Link to={`/company/${company.id}`} style={{ color: '#0066cc', textDecoration: 'none', fontWeight: '500' }}>
+                      {company.name}
+                    </Link>
+                    {company.investment_theses && company.investment_theses.length > 0 && (
+                      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '4px' }}>
+                        {company.investment_theses.map((thesis, index) => (
+                          <Link 
+                            key={index} 
+                            to={`/thesis/${thesis.thesis_name}`}
+                            style={{ 
+                              display: 'inline-block',
+                              padding: '2px 8px',
+                              backgroundColor: '#f0f0f0',
+                              borderRadius: '12px',
+                              color: '#666',
+                              textDecoration: 'none',
+                              fontSize: '0.75rem',
+                              border: '1px solid #ddd'
+                            }}
+                          >
+                            {thesis.thesis_name}
+                          </Link>
+                        ))}
+                      </div>
+                    )}
+                  </div>
                 </td>
                 <td style={{ padding: '12px', color: '#666' }}>{company.ticker}</td>
                 <td style={{ padding: '12px' }}>
