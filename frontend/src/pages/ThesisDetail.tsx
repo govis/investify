@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { useParams, Link } from 'react-router-dom';
+import { useParams, Link, useNavigate } from 'react-router-dom';
 import { ChevronLeft } from 'lucide-react';
 
 interface ThesisDetail {
@@ -14,6 +14,7 @@ interface ThesisDetail {
 
 const ThesisDetail: React.FC = () => {
   const { id } = useParams();
+  const navigate = useNavigate();
   const [thesis, setThesis] = useState<ThesisDetail | null>(null);
   const [loading, setLoading] = useState(true);
   const [activeTab, setActiveTab] = useState('Thesis');
@@ -35,6 +36,17 @@ const ThesisDetail: React.FC = () => {
         setLoading(false);
       });
   }, [id]);
+
+  const handleContentClick = (e: React.MouseEvent<HTMLDivElement>) => {
+    const target = e.target as HTMLElement;
+    if (target.tagName === 'A') {
+      const href = target.getAttribute('href');
+      if (href && href.startsWith('/')) {
+        e.preventDefault();
+        navigate(href);
+      }
+    }
+  };
 
   if (loading) return <div>Loading...</div>;
   if (!thesis) return <div>Thesis not found.</div>;
@@ -113,6 +125,7 @@ const ThesisDetail: React.FC = () => {
         className="thesis-content" 
         dangerouslySetInnerHTML={{ __html: currentTabContent }} 
         style={{ lineHeight: '1.6' }}
+        onClick={handleContentClick}
       />
     </div>
   );
