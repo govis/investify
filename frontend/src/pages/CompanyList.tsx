@@ -11,6 +11,7 @@ interface Company {
   id: string;
   name: string;
   ticker: string;
+  logoUrl: string;
   website: string;
   country: string;
   type: string;
@@ -58,6 +59,7 @@ const CompanyList: React.FC = () => {
         <table style={{ width: '100%', borderCollapse: 'collapse', marginTop: '24px' }}>
           <thead>
             <tr style={{ borderBottom: '2px solid #eee' }}>
+              <th style={{ width: '60px', padding: '12px' }}></th>
               <th style={{ textAlign: 'left', padding: '12px', fontWeight: '600' }}>Name</th>
               <th style={{ textAlign: 'left', padding: '12px', fontWeight: '600' }}>Ticker</th>
               <th style={{ textAlign: 'left', padding: '12px', fontWeight: '600' }}>Website</th>
@@ -66,50 +68,64 @@ const CompanyList: React.FC = () => {
             </tr>
           </thead>
           <tbody>
-            {companies.map(company => (
-              <tr key={company.id} style={{ borderBottom: '1px solid #f5f5f5' }}>
-                <td style={{ padding: '12px' }}>
-                  <div style={{ display: 'flex', flexDirection: 'column', gap: '4px' }}>
-                    <Link to={`/company/${company.id}`} style={{ color: '#0066cc', textDecoration: 'none', fontWeight: '500' }}>
-                      {company.name}
-                    </Link>
-                    {company.investment_theses && company.investment_theses.length > 0 && (
-                      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '4px' }}>
-                        {company.investment_theses.map((thesis, index) => (
-                          <Link 
-                            key={index} 
-                            to={`/thesis/${thesis.thesis_name}`}
-                            style={{ 
-                              display: 'inline-block',
-                              padding: '2px 8px',
-                              backgroundColor: '#f0f0f0',
-                              borderRadius: '12px',
-                              color: '#666',
-                              textDecoration: 'none',
-                              fontSize: '0.75rem',
-                              border: '1px solid #ddd'
-                            }}
-                          >
-                            {thesis.thesis_name}
-                          </Link>
-                        ))}
+            {companies.map(company => {
+              const isSvg = company.logoUrl && company.logoUrl.toLowerCase().endsWith('.svg');
+              return (
+                <tr key={company.id} style={{ borderBottom: '1px solid #f5f5f5' }}>
+                  <td style={{ padding: '12px', width: '60px' }}>
+                    {isSvg ? (
+                      <div style={{ width: '40px', height: '40px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                        <img 
+                          src={company.logoUrl} 
+                          alt="" 
+                          style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'contain' }} 
+                        />
                       </div>
-                    )}
-                  </div>
-                </td>
-                <td style={{ padding: '12px', color: '#666' }}>{company.ticker}</td>
-                <td style={{ padding: '12px' }}>
-                  {company.website ? (
-                    <a href={company.website} target="_blank" rel="noopener noreferrer" style={{ display: 'flex', alignItems: 'center', color: '#666', textDecoration: 'none' }}>
-                      <Globe size={16} style={{ marginRight: '4px' }} />
-                      Visit <ExternalLink size={12} style={{ marginLeft: '4px' }} />
-                    </a>
-                  ) : '-'}
-                </td>
-                <td style={{ padding: '12px', color: '#666' }}>{company.country}</td>
-                <td style={{ padding: '12px', color: '#666' }}>{company.type}</td>
-              </tr>
-            ))}
+                    ) : null}
+                  </td>
+                  <td style={{ padding: '12px' }}>
+                    <div style={{ display: 'flex', flexDirection: 'column', gap: '4px' }}>
+                      <Link to={`/company/${company.id}`} style={{ color: '#0066cc', textDecoration: 'none', fontWeight: '500' }}>
+                        {company.name}
+                      </Link>
+                      {company.investment_theses && company.investment_theses.length > 0 && (
+                        <div style={{ display: 'flex', flexWrap: 'wrap', gap: '4px' }}>
+                          {company.investment_theses.map((thesis, index) => (
+                            <Link 
+                              key={index} 
+                              to={`/thesis/${thesis.thesis_name}`}
+                              style={{ 
+                                display: 'inline-block',
+                                padding: '2px 8px',
+                                backgroundColor: '#f0f0f0',
+                                borderRadius: '12px',
+                                color: '#666',
+                                textDecoration: 'none',
+                                fontSize: '0.75rem',
+                                border: '1px solid #ddd'
+                              }}
+                            >
+                              {thesis.thesis_name}
+                            </Link>
+                          ))}
+                        </div>
+                      )}
+                    </div>
+                  </td>
+                  <td style={{ padding: '12px', color: '#666' }}>{company.ticker}</td>
+                  <td style={{ padding: '12px' }}>
+                    {company.website ? (
+                      <a href={company.website} target="_blank" rel="noopener noreferrer" style={{ display: 'flex', alignItems: 'center', color: '#666', textDecoration: 'none' }}>
+                        <Globe size={16} style={{ marginRight: '4px' }} />
+                        Visit <ExternalLink size={12} style={{ marginLeft: '4px' }} />
+                      </a>
+                    ) : '-'}
+                  </td>
+                  <td style={{ padding: '12px', color: '#666' }}>{company.country}</td>
+                  <td style={{ padding: '12px', color: '#666' }}>{company.type}</td>
+                </tr>
+              );
+            })}
           </tbody>
         </table>
       </div>

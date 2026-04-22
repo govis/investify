@@ -96,6 +96,7 @@ async function processCompanies() {
           id: folderName,
           name,
           ticker,
+          logoUrl, // Added logoUrl to the list
           website,
           country,
           type,
