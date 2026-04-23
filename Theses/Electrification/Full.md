@@ -85,7 +85,7 @@ Manganese demand for battery-grade material is expected to rise by 50% by 2026, 
 
 The International Energy Agency reports that global electricity demand is growing 2.5 to 3 times as fast as overall energy demand, equivalent to adding more than two European Unions to the global grid by 2030\. Meeting this demand requires annual grid investment to rise by 50% to over $600 billion by 2030\. Globally, $5.8 trillion of cumulative grid investment is forecast between 2026 and 2035, with China, the EU, and the U.S. accounting for two-thirds of this spending.
 
-A critical investment area is the "Smart Grid"—incorporating Advanced Distribution Management Systems (ADMS), digital substations, and Grid-Enhancing Technologies (GETs) such as dynamic line rating and advanced power-flow control. These technologies can unlock substantial capacity in the existing grid, allowing for the integration of up to 1,600 GW of renewable and storage projects currently stalled in connection queues. Infrastructure giants like Siemens Energy, Schneider Electric, ABB, and [GE Vernova](/company/GEV.NYSE.NYSE) are the primary beneficiaries of this transmission and distribution (T\&D) super-cycle, providing the transformers and switchgear necessary for both utility-scale upgrades and on-site microgrids for data centers.
+A critical investment area is the "Smart Grid"—incorporating Advanced Distribution Management Systems (ADMS), digital substations, and Grid-Enhancing Technologies (GETs) such as dynamic line rating and advanced power-flow control. These technologies can unlock substantial capacity in the existing grid, allowing for the integration of up to 1,600 GW of renewable and storage projects currently stalled in connection queues. Infrastructure giants like Siemens Energy, Schneider Electric, ABB, and GE Vernova are the primary beneficiaries of this transmission and distribution (T\&D) super-cycle, providing the transformers and switchgear necessary for both utility-scale upgrades and on-site microgrids for data centers.
 
 **Note on Nuclear and Uranium:** While nuclear energy and uranium are foundational to the decarbonized generation mix and provide the baseload power necessary for large-scale electrification, these sectors are excluded from the scope of this report and will be covered in a dedicated research piece.
 
@@ -169,8 +169,8 @@ These firms provide the hardware and software that enable the "Age of Electricit
 | :---- | :---- | :---- | :---- | :---- |
 | Siemens Energy | Smart Grids | 50% rise in annual grid spend.  | Dominant in transformers/HVDC. | Global leader in T\&D hardware. |
 | Schneider Elec. | Indust. Heat | Tripling of electrified heat by 2028\.  | High-temp HTHP leader. | ESG-focused automation leader. |
-| [GE Vernova](/company/GEV.NYSE.NYSE) | Grid Software | AI data center management.  | ADMS and digital twins leader. | U.S.-centric grid modernization. |
-| [Vertiv](/company/VRT.NYSE.NYSE) | AI Cooling | Rack densities \>300kW.  | 140% order growth for UPS. | Pure-play on AI power infra. |
+| GE Vernova | Grid Software | AI data center management.  | ADMS and digital twins leader. | U.S.-centric grid modernization. |
+| Vertiv | AI Cooling | Rack densities \>300kW.  | 140% order growth for UPS. | Pure-play on AI power infra. |
 | Prysmian Group | Cabling | Al wire market growth.  | Submarine HVDC interconnects. | Largest cable manufacturer globally. |
 | Atlas Copco | Indust. HTHP | Process heat \<300C.  | customized systems for chemicals. | Efficiency & turbo-comp leader. |
 

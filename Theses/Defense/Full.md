@@ -174,7 +174,7 @@ For institutional managers seeking diversified exposure to the rearmament theme,
 | **iShares U.S. A\&D** | ITA | 0.38% | [GE](/company/GE.NYSE), [RTX](/company/RTX.NYSE), [BA](/company/BA.NYSE), [LMT](/company/LMT.NYSE), [NOC](/company/NOC.NYSE) | Domestic Primes |
 | **Invesco A\&D** | PPA | 0.58% | [LMT](/company/LMT.NYSE), [RTX](/company/RTX.NYSE), [GE](/company/GE.NYSE), [BA](/company/BA.NYSE), [NOC](/company/NOC.NYSE) | Broad U.S. Defense Index |
 | **Global X Def Tech** | ARMG | \~0.50% | [PLTR](/company/PLTR.NYSE), [LMT](/company/LMT.NYSE), [RTX](/company/RTX.NYSE), RHMG | Tech & AI Tilt |
-| **WisdomTree Europe** | WDEP | Competitive | [BAE](/company/BAE.LSE), RHM, SAAB, LDO | European Rearmament |
+| **WisdomTree Europe** | WDEP | Competitive | BAE, RHM, SAAB, LDO | European Rearmament |
 | **ARK Space & Def** | ARKX | 0.75% | [LHX](/company/LHX.NYSE), [KTOS](/company/KTOS.NASDAQ), [RKLB](/company/RKLB.NASDAQ), [TER](/company/TER.NASDAQ) | Innovation / Space |
 
 ### **The IPO Horizon and Alternative Assets**
