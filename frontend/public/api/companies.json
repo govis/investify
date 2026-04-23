@@ -557,21 +557,6 @@
     ]
   },
   {
-    "id": "BA..LSE",
-    "name": "BAE Systems plc",
-    "ticker": "BA.",
-    "logoUrl": "https://www.baesystems.com/en/download-en/20180524155843/1434555375331.jpg",
-    "website": "https://www.baesystems.com",
-    "country": "United Kingdom",
-    "type": "Defense Prime Contractor",
-    "investment_theses": [
-      {
-        "thesis_name": "Defense",
-        "company_type": "Defense Prime Contractor"
-      }
-    ]
-  },
-  {
     "id": "BA.LSE",
     "name": "BAE Systems plc",
     "ticker": "BA",
@@ -583,25 +568,6 @@
       {
         "thesis_name": "Defense",
         "company_type": "International Prime Contractor / Naval & Land Systems"
-      }
-    ]
-  },
-  {
-    "id": "BAE.LSE",
-    "name": "BAE Systems plc",
-    "ticker": "BAE",
-    "logoUrl": "https://www.baesystems.com/en/download-en/20180524153313/1434555375532.jpg",
-    "website": "https://www.baesystems.com",
-    "country": "United Kingdom",
-    "type": "Defense and Aerospace Prime Contractor",
-    "investment_theses": [
-      {
-        "thesis_name": "Defense",
-        "company_type": "Defense and Aerospace Prime Contractor"
-      },
-      {
-        "thesis_name": "Electrification",
-        "company_type": "Aerospace and Defense"
       }
     ]
   },
