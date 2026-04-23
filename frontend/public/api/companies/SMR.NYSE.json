@@ -2,9 +2,15 @@
   "id": "SMR.NYSE",
   "name": "NuScale Power Corporation",
   "ticker": "SMR",
-  "logoUrl": "https://www.nuscalepower.com/wp-content/themes/nuscale/assets/images/logo.png",
+  "logoUrl": "/companies-assets/SMR.NYSE.svg",
   "website": "https://www.nuscalepower.com",
-  "country": "USA",
-  "type": "Small Modular Reactor (SMR) Technology (Nuclear)",
-  "content": "<p>NuScale Power is a pioneer in Small Modular Reactor (SMR) technology and was the first company to receive design approval from the U.S. Nuclear Regulatory Commission (NRC). Its VOYGR SMR design is intended to provide a scalable, safe, and cost-effective alternative to traditional large-scale nuclear plants. NuScale is at the forefront of the SMR commercialization wave, targeting the growing global demand for flexible carbon-free baseload power.</p>\n"
+  "country": "United States",
+  "type": "Small Modular Reactor (SMR) Design",
+  "investment_theses": [
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "Small Modular Reactor (SMR) Design"
+    }
+  ],
+  "content": "<p>NuScale Power Corporation is a leading provider of proprietary and innovative small modular reactor (SMR) nuclear technology. The company's mission is to provide scalable, safe, and reliable carbon-free energy to help power the global energy transition. Its flagship NuScale Power Module is a small, pressurized water reactor capable of generating 77 megawatts of electricity, designed to be factory-fabricated and transported to sites. NuScale's technology is the first and only SMR design to receive approval from the U.S. Nuclear Regulatory Commission, positioning the company as a pioneer in the advanced nuclear sector.</p>\n"
 }

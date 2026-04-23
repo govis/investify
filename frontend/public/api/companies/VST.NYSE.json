@@ -2,9 +2,15 @@
   "id": "VST.NYSE",
   "name": "Vistra Corp.",
   "ticker": "VST",
-  "logoUrl": "https://www.vistracorp.com/wp-content/themes/vistra/assets/images/logo.png",
+  "logoUrl": "/companies-assets/VST.NYSE.svg",
   "website": "https://www.vistracorp.com",
-  "country": "USA",
-  "type": "Nuclear Utility & Integrated Power (Nuclear)",
-  "content": "<p>Vistra Corp. is an integrated retail electricity and power generation company with a diverse portfolio that includes a significant nuclear fleet, most notably the Comanche Peak Nuclear Power Plant. Following its acquisition of Energy Harbor, Vistra has become one of the largest competitive nuclear operators in the U.S. The company is well-positioned to capture the growing demand for reliable &quot;firm&quot; power from data centers and industrial customers as part of the electrification and nuclear renaissance themes.</p>\n"
+  "country": "United States",
+  "type": "Nuclear Power Generation / Integrated Utility",
+  "investment_theses": [
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "Nuclear Power Generation / Integrated Utility"
+    }
+  ],
+  "content": "<p>Vistra Corp. is a leading Fortune 500 integrated retail electricity and power generation company based in Irving, Texas. It operates a diverse portfolio of generation assets, including natural gas, nuclear, coal, solar, and battery energy storage facilities. Vistra is one of the largest competitive power generators in the United States and a major retail electricity provider, serving millions of residential, commercial, and industrial customers across multiple states. The company is increasingly focused on the energy transition through its Vistra Zero portfolio, which emphasizes zero-carbon generation and sustainable energy solutions.</p>\n"
 }

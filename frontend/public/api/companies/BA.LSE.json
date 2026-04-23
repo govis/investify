@@ -2,9 +2,15 @@
   "id": "BA.LSE",
   "name": "BAE Systems plc",
   "ticker": "BA",
-  "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/BAE_Systems_logo.svg/1200px-BAE_Systems_logo.svg.png",
+  "logoUrl": "/companies-assets/BA.LSE.svg",
   "website": "https://www.baesystems.com",
-  "country": "UK",
-  "type": "Aerospace & Defense Prime (Defense)",
-  "content": "<p>BAE Systems is a British multinational aerospace, arms, and information security company, and the largest defense contractor in Europe. Its operations are divided into five primary segments: Air (Eurofighter Typhoon, F-35 components), Maritime (submarines and frigates), Electronic Systems, Platforms &amp; Services (combat vehicles and munitions), and Cyber &amp; Intelligence. As a critical Tier 1 partner to the UK Ministry of Defence and the U.S. Department of Defense, BAE Systems benefits from multi-decade government contracts and a massive order backlog, positioned at the forefront of global defense modernization.</p>\n"
+  "country": "United Kingdom",
+  "type": "International Prime Contractor / Naval & Land Systems",
+  "investment_theses": [
+    {
+      "thesis_name": "Defense",
+      "company_type": "International Prime Contractor / Naval & Land Systems"
+    }
+  ],
+  "content": "<p>BAE Systems plc is a British multinational aerospace, defense, and security company headquartered in London. It is the largest defense contractor in Europe and ranks among the world's largest defense companies. The company provides a comprehensive range of products and services for air, land, and naval forces, as well as advanced electronics, security, information technology solutions, and support services. Key programs include the production of the Eurofighter Typhoon, the F-35 Lightning II, and various naval vessels and armored vehicles, serving government and commercial customers globally.</p>\n"
 }

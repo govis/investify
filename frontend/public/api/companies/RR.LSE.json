@@ -2,9 +2,19 @@
   "id": "RR.LSE",
   "name": "Rolls-Royce Holdings plc",
   "ticker": "RR",
-  "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Rolls-Royce_Holdings_logo.svg/1280px-Rolls-Royce_Holdings_logo.svg.png",
+  "logoUrl": "/companies-assets/RR.LSE.svg",
   "website": "https://www.rolls-royce.com",
-  "country": "UK",
-  "type": "Aerospace & Defense / Power Systems (Defense & Nuclear)",
-  "content": "<p>Rolls-Royce Holdings plc is a pre-eminent British multinational engineering company that designs, manufactures, and services power systems for air, land, and sea. It is a global leader in civil aerospace, defense, and power systems. Rolls-Royce is a critical partner for global defense, providing engines for military aircraft and naval vessels. Furthermore, it is the sole provider of nuclear propulsion systems for the UK’s submarine fleet and a frontrunner in developing Small Modular Reactors (SMRs) for clean, baseload power.</p>\n"
+  "country": "United Kingdom",
+  "type": "Defense and Aerospace Propulsion",
+  "investment_theses": [
+    {
+      "thesis_name": "Defense",
+      "company_type": "Defense and Aerospace Propulsion"
+    },
+    {
+      "thesis_name": "Electrification",
+      "company_type": "Aerospace and Defense"
+    }
+  ],
+  "content": "<p>Rolls-Royce Holdings plc is a pre-eminent engineering company focused on world-class power and propulsion systems. The company operates through three core divisions: Civil Aerospace, Defense, and Power Systems. It is a leading provider of aircraft engines for the commercial and military sectors, as well as marine propulsion and energy solutions. With a focus on innovation and sustainability, Rolls-Royce is at the forefront of developing net-zero power solutions and advanced technologies for the global aerospace and defense markets, maintaining a significant presence in over 50 countries.</p>\n"
 }

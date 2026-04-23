@@ -82,21 +82,21 @@ The "Defence Industry Proliferation" creates two distinct categories of investme
 
 ### **The Legacy Primes: Anchors of the Rearmament Super-Cycle**
 
-The "Legacy Primes" (Lockheed Martin, RTX, Northrop Grumman) are the primary beneficiaries of the "Command of the Reload" era. Their value proposition is built on massive, multi-year order backlogs that provide revenue visibility through the 2030s, insulating them from the volatility of commercial markets.
+The "Legacy Primes" ([Lockheed Martin](/company/LMT.NYSE), [RTX](/company/RTX.NYSE), [Northrop Grumman](/company/NOC.NYSE)) are the primary beneficiaries of the "Command of the Reload" era. Their value proposition is built on massive, multi-year order backlogs that provide revenue visibility through the 2030s, insulating them from the volatility of commercial markets.
 
 | Company | Ticker | Order Backlog (Est. 2026\) | Trailing P/E | Dividend Yield | Strategic Focus Area |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| **RTX Corporation** | RTX | $268 Billion | 42.68 | 1.28% | Tomahawk, AMRAAM, Patriot |
-| **Lockheed Martin** | LMT | $194 Billion | \~20-25 | 1.5%+ | F-35, Golden Dome, PAC-3 |
-| **Northrop Grumman** | NOC | $95.7 Billion | 25.95 | Consistent | B-21, Stealth, Space Sensors |
-| **BAE Systems** | BA. | \~£58 Billion | \~20 | \~2.5% | EW, Ground Forces, Eurofighter |
+| **[RTX Corporation](/company/RTX.NYSE)** | [RTX](/company/RTX.NYSE) | $268 Billion | 42.68 | 1.28% | Tomahawk, AMRAAM, Patriot |
+| **[Lockheed Martin](/company/LMT.NYSE)** | [LMT](/company/LMT.NYSE) | $194 Billion | \~20-25 | 1.5%+ | F-35, Golden Dome, PAC-3 |
+| **[Northrop Grumman](/company/NOC.NYSE)** | [NOC](/company/NOC.NYSE) | $95.7 Billion | 25.95 | Consistent | B-21, Stealth, Space Sensors |
+| **[BAE Systems](/company/BA..LSE)** | BA. | \~£58 Billion | \~20 | \~2.5% | EW, Ground Forces, Eurofighter |
 | **Rheinmetall** | RHM | €63.8 Billion | \~25 | \~2.0% | Tanks, Artillery, Ammunition |
 
-**RTX Corporation** holds an immense backlog of $268 billion, fueled by multi-year agreements to increase the production of Tomahawk and AMRAAM missile systems. Its Raytheon segment is the global leader in sensor and missile technologies, which are a top priority for defense ministries in both the Middle East and Europe.
+**[RTX Corporation](/company/RTX.NYSE)** holds an immense backlog of $268 billion, fueled by multi-year agreements to increase the production of Tomahawk and AMRAAM missile systems. Its Raytheon segment is the global leader in sensor and missile technologies, which are a top priority for defense ministries in both the Middle East and Europe.
 
-**Lockheed Martin** remains the world's largest pure-play defense contractor, with a $194 billion backlog anchored by the global F-35 production and sustainment machine. Its "21st Century Security" vision positions it as the primary partner for the "Golden Dome" missile shield, and its Missiles and Fire Control division reported 14% revenue growth in early 2026 due to demand for PAC-3 and THAAD interceptors.
+**[Lockheed Martin](/company/LMT.NYSE)** remains the world's largest pure-play defense contractor, with a $194 billion backlog anchored by the global F-35 production and sustainment machine. Its "21st Century Security" vision positions it as the primary partner for the "Golden Dome" missile shield, and its Missiles and Fire Control division reported 14% revenue growth in early 2026 due to demand for PAC-3 and THAAD interceptors.
 
-**Northrop Grumman** is the leader in high-tech, strategic platforms, most notably the B-21 Raider stealth bomber. In February 2026, the company announced it is building out more manufacturing infrastructure to speed up B-21 production and plans to double its production capacity for solid rocket motors by 2027. It has also successfully pivoted to the "Proliferated Warfighter" model in space, securing contracts for over 150 SDA satellites.
+**[Northrop Grumman](/company/NOC.NYSE)** is the leader in high-tech, strategic platforms, most notably the B-21 Raider stealth bomber. In February 2026, the company announced it is building out more manufacturing infrastructure to speed up B-21 production and plans to double its production capacity for solid rocket motors by 2027. It has also successfully pivoted to the "Proliferated Warfighter" model in space, securing contracts for over 150 SDA satellites.
 
 ### **The European Champions: Beneficiaries of Regional Rearmament**
 
@@ -104,7 +104,7 @@ European defense stocks have outperformed U.S. peers in early 2026, with the STO
 
 * **Rheinmetall (Germany):** Prediciting a $16.8 billion annual order boom, Rheinmetall is the primary supplier of infantry fighting vehicles (Puma), mobile air defense (Skyranger), and ammunition for the German rearmament cycle.  
 * **Saab (Sweden):** Experienced a 74% increase in order bookings in 2025, reaching SEK 168.5 billion, driven by global demand for the Gripen fighter jet and GlobalEye surveillance aircraft.  
-* **Rolls-Royce (UK):** A "UK Profit Machine" that is seeing strong momentum in its defense division, with a £17.4 billion backlog and growing demand for Eurofighter engines.
+* **[Rolls-Royce](/company/RR.LSE) (UK):** A "UK Profit Machine" that is seeing strong momentum in its defense division, with a £17.4 billion backlog and growing demand for Eurofighter engines.
 
 ### **The "New Defense" Innovators: Venture-Scale Disruption**
 
@@ -121,7 +121,7 @@ A new cohort of defense technology companies is challenging the traditional prim
 | **Anduril Industries** | Lattice OS / Fury Drone | $60 Billion | $20B Army Enterprise Agreement |
 | **Shield AI** | Hivemind AI Pilot / V-BAT | $12 Billion | Autonomy for Collaborative Combat Aircraft |
 | **Helsing AI** | Sensor Fusion / HX-2 Drones | $14 Billion | European Technological Sovereignty |
-| **Palantir** | Gotham / Foundry | \~$350 Billion | 10-year, $10B Army Enterprise Service Agreement |
+| **[Palantir](/company/PLTR.NYSE)** | Gotham / Foundry | \~$350 Billion | 10-year, $10B Army Enterprise Service Agreement |
 | **Chaos Industries** | Advanced Radar / EW | $4.5 Billion | Counter-Autonomous Systems Detection |
 
 ## **Advanced Military Technology and Robotics**
@@ -162,7 +162,7 @@ Institutional capital is increasingly rotating toward defense as a "thematic" me
 
 For institutional managers seeking diversified exposure to the rearmament theme, several ETFs offer liquid pathways into the sector.
 
-1. **iShares U.S. Aerospace & Defense ETF (ITA):** The largest defense-focused ETF with $16.4 billion in assets. It provides concentrated exposure to the U.S. primes, with GE Aerospace, RTX, and Lockheed Martin making up a significant portion of the portfolio.  
+1. **iShares U.S. Aerospace & Defense ETF (ITA):** The largest defense-focused ETF with $16.4 billion in assets. It provides concentrated exposure to the U.S. primes, with [GE Aerospace](/company/GE.NYSE), [RTX](/company/RTX.NYSE), and [Lockheed Martin](/company/LMT.NYSE) making up a significant portion of the portfolio.  
 2. **Invesco Aerospace & Defense ETF (PPA):** Based on the SPADE Defense Index, this fund offers a broader range of 60 holdings, including homeland security and aerospace support. It had approximately $8.2 billion in assets in March 2026.  
 3. **Global X Defense Tech ETF (ARMG / SHLD):** A tech-tilted fund that targets "defense tech" firms using AI, robotics, and cybersecurity. It includes exposure to European names like Rheinmetall alongside U.S. software giants like Palantir.  
 4. **WisdomTree Europe Defence (WDEP):** A focused way to target Europe’s defense ramp-up, this fund has grown rapidly as investors look to capture the 5% GDP rearmament cycle on the continent.  
@@ -171,11 +171,11 @@ For institutional managers seeking diversified exposure to the rearmament theme,
 
 | ETF Name | Ticker | Expense Ratio | Key Holdings (March 2026\) | Strategy |
 | :---- | :---- | :---- | :---- | :---- |
-| **iShares U.S. A\&D** | ITA | 0.38% | GE, RTX, BA, LMT, NOC | Domestic Primes |
-| **Invesco A\&D** | PPA | 0.58% | LMT, RTX, GE, BA, NOC | Broad U.S. Defense Index |
-| **Global X Def Tech** | ARMG | \~0.50% | PLTR, LMT, RTX, RHMG | Tech & AI Tilt |
-| **WisdomTree Europe** | WDEP | Competitive | BAE, RHM, SAAB, LDO | European Rearmament |
-| **ARK Space & Def** | ARKX | 0.75% | LHX, KTOS, RKLB, TER | Innovation / Space |
+| **iShares U.S. A\&D** | ITA | 0.38% | [GE](/company/GE.NYSE), [RTX](/company/RTX.NYSE), [BA](/company/BA.NYSE), [LMT](/company/LMT.NYSE), [NOC](/company/NOC.NYSE) | Domestic Primes |
+| **Invesco A\&D** | PPA | 0.58% | [LMT](/company/LMT.NYSE), [RTX](/company/RTX.NYSE), [GE](/company/GE.NYSE), [BA](/company/BA.NYSE), [NOC](/company/NOC.NYSE) | Broad U.S. Defense Index |
+| **Global X Def Tech** | ARMG | \~0.50% | [PLTR](/company/PLTR.NYSE), [LMT](/company/LMT.NYSE), [RTX](/company/RTX.NYSE), RHMG | Tech & AI Tilt |
+| **WisdomTree Europe** | WDEP | Competitive | [BAE](/company/BAE.LSE), RHM, SAAB, LDO | European Rearmament |
+| **ARK Space & Def** | ARKX | 0.75% | [LHX](/company/LHX.NYSE), [KTOS](/company/KTOS.NASDAQ), [RKLB](/company/RKLB.NASDAQ), [TER](/company/TER.NASDAQ) | Innovation / Space |
 
 ### **The IPO Horizon and Alternative Assets**
 

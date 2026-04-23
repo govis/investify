@@ -1,10 +1,16 @@
 {
   "id": "SBSW.NYSE",
-  "name": "Sibanye-Stillwater Limited",
+  "name": "Sibanye Stillwater Limited",
   "ticker": "SBSW",
-  "logoUrl": "https://www.sibanyestillwater.com/wp-content/themes/sibanye-stillwater/assets/images/logo.png",
+  "logoUrl": "/companies-assets/SBSW.NYSE.svg",
   "website": "https://www.sibanyestillwater.com",
   "country": "South Africa",
-  "type": "Precious Metals Mining & Battery Recycling (Electrification)",
-  "content": "<p>Sibanye-Stillwater is a multinational mining and metals processing group, and one of the world's largest primary producers of platinum group metals (PGMs). The company is strategically diversifying into battery metals like lithium and nickel and is a global leader in the recycling of spent catalytic converters. Sibanye-Stillwater provides a unique play on both the hydrogen economy and the circular economy for battery materials.</p>\n"
+  "type": "PGMs Producer",
+  "investment_theses": [
+    {
+      "thesis_name": "Electrification",
+      "company_type": "PGMs Producer"
+    }
+  ],
+  "content": "<p>Sibanye-Stillwater is a multinational mining and metals processing group with a diverse portfolio of operations, projects, and investments across five continents. The company is one of the world's largest primary producers of platinum, palladium, and rhodium and is a top-tier gold producer. It has also diversified into the battery metals sector, investing in lithium, nickel, and copper projects. Sibanye-Stillwater is committed to delivering value to all stakeholders while contributing to a sustainable future through the responsible production of metals essential for a low-carbon economy.</p>\n"
 }

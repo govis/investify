@@ -2,9 +2,15 @@
   "id": "STUD.TSX",
   "name": "Stallion Uranium Corp.",
   "ticker": "STUD",
-  "logoUrl": "https://www.stallionuranium.com/site/assets/files/1/logo.png",
-  "website": "https://www.stallionuranium.com",
+  "logoUrl": "/companies-assets/STUD.TSX.svg",
+  "website": "https://stallionuranium.com",
   "country": "Canada",
-  "type": "Uranium Exploration (Nuclear)",
-  "content": "<p>Stallion Uranium is a Canadian exploration company targeting high-grade uranium discoveries in the world-renowned Athabasca Basin. The company holds a significant land position in the southwestern portion of the basin, adjacent to major discoveries. Stallion utilizes advanced geophysical and geological techniques to identify Tier-1 uranium targets, aiming to contribute to the global supply of carbon-free energy through domestic exploration success.</p>\n"
+  "type": "Uranium Explorer",
+  "investment_theses": [
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "Uranium Explorer"
+    }
+  ],
+  "content": "<p>Stallion Uranium Corp. is a Canadian mineral exploration company focused on the discovery of high-grade uranium deposits in the Athabasca Basin. The company holds a significant land package in the Southwestern Athabasca Basin, including the Coaldale, Curry Lake, and Ford Lake projects. Stallion Uranium utilizes advanced geophysical surveys and exploration techniques to identify priority drill targets in one of the world's premier uranium jurisdictions. Through strategic acquisitions and systematic exploration, the company aims to create shareholder value by advancing its portfolio of uranium assets in Saskatchewan.</p>\n"
 }

@@ -2,9 +2,19 @@
   "id": "ASPI.NASDAQ",
   "name": "ASP Isotopes Inc.",
   "ticker": "ASPI",
-  "logoUrl": "https://www.aspisotopes.com/wp-content/themes/asp/assets/images/logo.png",
-  "website": "https://www.aspisotopes.com",
-  "country": "USA / South Africa",
-  "type": "Isotope Enrichment & HALEU Fuel (Nuclear)",
-  "content": "<p>ASP Isotopes is an isotope enrichment company utilizing advanced laser-based separation technology. The company is developing enrichment solutions for various high-value isotopes used in nuclear medicine, semiconductors, and next-generation nuclear fuel. Specifically, ASP Isotopes is targeting the production of High-Assay Low-Enriched Uranium (HALEU) to meet the critical fuel requirements of advanced nuclear reactors, providing a Western alternative to Russian enrichment services.</p>\n"
+  "logoUrl": "/companies-assets/ASPI.NASDAQ.svg",
+  "website": "https://aspisotopes.com",
+  "country": "United States",
+  "type": "Enrichment",
+  "investment_theses": [
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "Enrichment"
+    },
+    {
+      "thesis_name": "Reshoring",
+      "company_type": "Nuclear Fuel Enrichment Technology"
+    }
+  ],
+  "content": "<p>ASP Isotopes Inc. is a pre-commercial stage advanced materials company focused on the development of technology and processes for the production of isotopes for use in multiple industries. The company utilizes its proprietary Aerodynamic Separation Process (ASP) technology to enrich isotopes for medical, industrial, and energy applications, including the production of High-Assay Low-Enriched Uranium (HALEU) for next-generation nuclear reactors. ASP Isotopes aims to provide a more efficient and cost-effective method for isotope enrichment compared to traditional centrifuge or laser-based technologies, addressing critical supply chain needs in the global nuclear and healthcare sectors.</p>\n"
 }

@@ -2,9 +2,15 @@
   "id": "HBM.NYSE",
   "name": "Hudbay Minerals Inc.",
   "ticker": "HBM",
-  "logoUrl": "https://www.hudbayminerals.com/wp-content/themes/hudbay/assets/images/logo.png",
+  "logoUrl": "/companies-assets/HBM.NYSE.svg",
   "website": "https://www.hudbayminerals.com",
   "country": "Canada",
-  "type": "Copper & Zinc Mining (Electrification)",
-  "content": "<p>Hudbay Minerals is a diversified mining company primarily focused on copper production with long-life operations in Canada and Peru. The company is also advancing a significant pipeline of copper growth projects in the United States, including the Copper Mountain expansion and the Rosemont project. Hudbay is a mid-tier producer that offers attractive leverage to copper prices and the ongoing shift toward Western-allied mineral supply.</p>\n"
+  "type": "Copper producer",
+  "investment_theses": [
+    {
+      "thesis_name": "Electrification",
+      "company_type": "Copper producer"
+    }
+  ],
+  "content": "<p>Hudbay Minerals Inc. is a diversified mining company primarily focused on the discovery, production, and marketing of base and precious metals. Headquartered in Toronto, Canada, the company operates long-life assets in North and South America, including mines in Manitoba, British Columbia, and Peru, as well as development projects in Arizona and Nevada. Hudbay is a leading producer of copper, gold, and zinc, committed to sustainable mining practices and creating long-term value for its stakeholders through efficient operations and strategic exploration.</p>\n"
 }

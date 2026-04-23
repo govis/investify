@@ -2,9 +2,19 @@
   "id": "DNN.NYSE",
   "name": "Denison Mines Corp.",
   "ticker": "DNN",
-  "logoUrl": "https://denisonmines.com/site/assets/files/1/logo.png",
-  "website": "https://www.denisonmines.com",
+  "logoUrl": "/companies-assets/DNN.NYSE.png",
+  "website": "https://denisonmines.com",
   "country": "Canada",
-  "type": "Uranium Mining & Development (Nuclear)",
-  "content": "<p>Denison Mines is a uranium exploration and development company with a primary focus on the Athabasca Basin region of northern Saskatchewan. Its flagship asset is a 95% interest in the Wheeler River Project, which is the largest undeveloped high-grade uranium project in the infrastructure-rich eastern portion of the basin. Denison is a pioneer in applying in-situ recovery (ISR) mining technology to high-grade uranium deposits, aiming for industry-leading low costs and minimal environmental impact.</p>\n"
+  "type": "Uranium Developer",
+  "investment_theses": [
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "Uranium Developer"
+    },
+    {
+      "thesis_name": "Reshoring",
+      "company_type": "Uranium Mining"
+    }
+  ],
+  "content": "<p>Denison Mines Corp. is a Canadian uranium exploration and development company with interests focused in the Athabasca Basin region of northern Saskatchewan. The company's flagship project is the Wheeler River Uranium Project, which is the largest undeveloped uranium project in the infrastructure-rich eastern portion of the Athabasca Basin. Denison also holds interests in several other significant uranium projects and provides mine care and maintenance services through its Closed Mines group. The company is a leader in the application of In-Situ Recovery (ISR) mining for uranium in Canada.</p>\n"
 }

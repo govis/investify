@@ -2,9 +2,15 @@
   "id": "SASK.TSX",
   "name": "Atha Energy Corp.",
   "ticker": "SASK",
-  "logoUrl": "https://www.athaenergy.com/site/assets/files/1/logo.png",
+  "logoUrl": "/companies-assets/SASK.TSX.png",
   "website": "https://www.athaenergy.com",
   "country": "Canada",
-  "type": "Uranium Exploration (Nuclear)",
-  "content": "<p>Atha Energy is a Canadian mineral exploration company focused on the acquisition and development of uranium assets in world-class jurisdictions. The company holds the largest cumulative exploration land package in Canada's Athabasca and Thelon Basins, two of the most significant districts for high-grade uranium. Atha Energy is dedicated to systematic exploration and discovery to provide a secure and long-term supply of uranium for the global clean energy transition.</p>\n"
+  "type": "Uranium Explorer",
+  "investment_theses": [
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "Uranium Explorer"
+    }
+  ],
+  "content": "<p>Atha Energy Corp. is a mineral exploration company focused on the acquisition, exploration, and development of uranium assets in the Athabasca Basin of Saskatchewan and Alberta, Canada. The company holds the largest cumulative exploration package in the Athabasca Basin, covering over 6.4 million acres of highly prospective land. Atha Energy is dedicated to identifying and advancing high-grade uranium deposits to support the global transition toward clean energy. Through strategic acquisitions and a disciplined exploration approach, the company aims to create significant value for shareholders while contributing to the future of nuclear energy fuel supply.</p>\n"
 }

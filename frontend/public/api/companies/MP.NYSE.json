@@ -2,9 +2,15 @@
   "id": "MP.NYSE",
   "name": "MP Materials Corp.",
   "ticker": "MP",
-  "logoUrl": "https://mpmaterials.com/wp-content/uploads/2020/07/MP-Materials-Logo.png",
+  "logoUrl": "/companies-assets/MP.NYSE.svg",
   "website": "https://mpmaterials.com",
-  "country": "USA",
-  "type": "Rare Earth Mining & Processing (Reshoring)",
-  "content": "<p>MP Materials is the largest rare earth materials producer in the Western Hemisphere. It owns and operates the Mountain Pass mine in California, which is the only scaled rare earth mining and processing site in North America. The company is a strategic anchor for Western supply chain security, providing critical materials for electric vehicles, wind turbines, and defense applications.</p>\n"
+  "country": "United States",
+  "type": "Rare Earth Materials / US Mining & Separation",
+  "investment_theses": [
+    {
+      "thesis_name": "Reshoring",
+      "company_type": "Rare Earth Materials / US Mining & Separation"
+    }
+  ],
+  "content": "<p>MP Materials Corp. is the largest producer of rare earth materials in the Western Hemisphere. The company owns and operates the Mountain Pass Rare Earth Mine and Processing Facility in California, the only integrated rare earth mining and processing site in North America. MP Materials produces high-purity rare earth oxides and is expanding its operations to include metal, alloy, and magnet manufacturing. Its products are critical components in electric vehicles, wind turbines, robotics, and various defense and consumer electronic applications, supporting the global transition to clean energy and advanced technology.</p>\n"
 }

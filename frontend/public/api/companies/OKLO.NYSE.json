@@ -2,9 +2,15 @@
   "id": "OKLO.NYSE",
   "name": "Oklo Inc.",
   "ticker": "OKLO",
-  "logoUrl": "https://oklo.com/static/images/logo.png",
+  "logoUrl": "/companies-assets/OKLO.NYSE.svg",
   "website": "https://oklo.com",
-  "country": "USA",
-  "type": "Advanced Nuclear Technology & SMRs (Nuclear)",
-  "content": "<p>Oklo Inc. is a developer of advanced fission power plants designed to provide clean, affordable, and reliable energy. Its flagship &quot;Aurora&quot; powerhouse uses fast-fission technology and recycled nuclear fuel to generate carbon-free power. Oklo is a high-convexity play on the next generation of nuclear energy, focusing on localized applications such as data centers and industrial facilities where traditional large-scale nuclear may be impractical.</p>\n"
+  "country": "United States",
+  "type": "Advanced Fission / Micro-reactor Development",
+  "investment_theses": [
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "Advanced Fission / Micro-reactor Development"
+    }
+  ],
+  "content": "<p>Oklo Inc. is an advanced fission technology company focused on developing fast fission reactors to provide clean, reliable, and affordable energy at scale. The company designs and builds the Aurora powerhouse, a micro-reactor capable of generating power from recycled nuclear fuel as well as fresh fuel. By utilizing a fast neutron spectrum, Oklo aims to reduce nuclear waste and enhance energy efficiency. Headquartered in Santa Clara, California, Oklo is pioneering a business model that involves selling power directly to customers through long-term power purchase agreements, targeting data centers, industrial sites, and remote communities.</p>\n"
 }

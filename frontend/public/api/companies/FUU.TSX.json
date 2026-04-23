@@ -2,9 +2,15 @@
   "id": "FUU.TSX",
   "name": "F3 Uranium Corp.",
   "ticker": "FUU",
-  "logoUrl": "https://f3uranium.com/site/assets/files/1/logo.png",
+  "logoUrl": "/companies-assets/FUU.TSX.webp",
   "website": "https://f3uranium.com",
   "country": "Canada",
-  "type": "Uranium Exploration (Nuclear)",
-  "content": "<p>F3 Uranium is a Canadian uranium exploration company focused on the discovery and development of high-grade uranium projects in the Athabasca Basin, Saskatchewan. The company is best known for the high-grade JR Zone discovery at its Patterson Lake North (PLN) project. F3 is led by an experienced geological team with a proven track record of finding major deposits, positioning the company as a high-impact explorer in the global nuclear renaissance.</p>\n"
+  "type": "Uranium Explorer",
+  "investment_theses": [
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "Uranium Explorer"
+    }
+  ],
+  "content": "<p>F3 Uranium Corp. is a Canadian-based uranium project generator and exploration company focused on the Athabasca Basin in Saskatchewan, Canada. The company's flagship project is the PLN Property, which hosts the high-grade JR Zone discovery. F3 Uranium is led by an experienced management team with a proven track record of discovery in the region. The company maintains a portfolio of 18 projects in the Athabasca Basin, positioning it as a significant player in the exploration for high-grade uranium deposits required for the global transition to clean energy.</p>\n"
 }

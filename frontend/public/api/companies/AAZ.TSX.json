@@ -2,9 +2,15 @@
   "id": "AAZ.TSX",
   "name": "Azincourt Energy Corp.",
   "ticker": "AAZ",
-  "logoUrl": "https://azincourtenergy.com/site/assets/files/1/logo.png",
+  "logoUrl": "/companies-assets/AAZ.TSX.webp",
   "website": "https://azincourtenergy.com",
   "country": "Canada",
-  "type": "Uranium Exploration & Development (Nuclear)",
-  "content": "<p>Azincourt Energy is a Canadian resource company specializing in the strategic acquisition, exploration, and development of alternative energy projects, with a primary focus on uranium. Its flagship asset is the East Preston project, located in the world-class Athabasca Basin, Saskatchewan. Azincourt is dedicated to discovering high-grade uranium deposits to support the global transition toward clean, carbon-free nuclear energy.</p>\n"
+  "type": "Uranium Explorer",
+  "investment_theses": [
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "Uranium Explorer"
+    }
+  ],
+  "content": "<p>Azincourt Energy Corp. is a Canadian-based resource company specializing in the strategic acquisition, exploration, and development of alternative energy projects. The company is primarily focused on its flagship East Preston project, located in the prolific Athabasca Basin in Saskatchewan, Canada, where it targets high-grade uranium deposits. Additionally, Azincourt maintains interests in lithium exploration projects, positioning itself to benefit from the growing global demand for clean energy and battery metals. Through disciplined exploration and strategic partnerships, the company aims to create shareholder value by advancing its portfolio of energy-related mineral assets.</p>\n"
 }

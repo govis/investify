@@ -1,666 +1,4984 @@
 [
   {
-    "id": "ABBN.SIX",
-    "name": "ABB Ltd",
-    "ticker": "ABBN",
-    "website": "https://global.abb",
-    "country": "Switzerland",
-    "type": "Electrification & Automation (Electrification & AI)"
+    "id": "AMKBY.OTC",
+    "name": "A.P. Møller - Mærsk A/S",
+    "ticker": "AMKBY",
+    "logoUrl": "/companies-assets/AMKBY.OTC.jpg",
+    "website": "https://www.maersk.com",
+    "country": "Denmark",
+    "type": "International Shipping Company",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "International Shipping Company"
+      }
+    ]
+  },
+  {
+    "id": "VOLV-B.STO",
+    "name": "AB Volvo",
+    "ticker": "VOLV-B",
+    "logoUrl": "/companies-assets/VOLV-B.STO.svg",
+    "website": "https://www.volvogroup.com",
+    "country": "Sweden",
+    "type": "Heavy Machinery OEM",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Heavy Machinery OEM"
+      }
+    ]
+  },
+  {
+    "id": "ARA.TSX",
+    "name": "Aclara Resources Inc.",
+    "ticker": "ARA",
+    "logoUrl": "/companies-assets/ARA.TSX.svg",
+    "website": "https://www.aclara.com",
+    "country": "Canada",
+    "type": "Rare Earths Developer",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Rare Earths Developer"
+      }
+    ]
+  },
+  {
+    "id": "ADBE.NASDAQ",
+    "name": "Adobe Inc.",
+    "ticker": "ADBE",
+    "logoUrl": "/companies-assets/ADBE.NASDAQ.svg",
+    "website": "https://www.adobe.com",
+    "country": "United States",
+    "type": "Creative Software / Generative AI",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Creative Software / Generative AI"
+      }
+    ]
+  },
+  {
+    "id": "AMD.NASDAQ",
+    "name": "Advanced Micro Devices, Inc.",
+    "ticker": "AMD",
+    "logoUrl": "/companies-assets/AMD.NASDAQ.svg",
+    "website": "https://www.amd.com",
+    "country": "United States",
+    "type": "Semiconductor / GPU & CPU Manufacturer",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Semiconductor / GPU & CPU Manufacturer"
+      }
+    ]
+  },
+  {
+    "id": "ACM.NYSE",
+    "name": "AECOM",
+    "ticker": "ACM",
+    "logoUrl": "/companies-assets/ACM.NYSE.svg",
+    "website": "https://aecom.com",
+    "country": "United States",
+    "type": "Infrastructure Consulting / Industrial Site Development",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Infrastructure Consulting / Industrial Site Development"
+      }
+    ]
+  },
+  {
+    "id": "ARE.TSX",
+    "name": "Aecon Group Inc.",
+    "ticker": "ARE",
+    "logoUrl": "/companies-assets/ARE.TSX.svg",
+    "website": "https://www.aecon.com",
+    "country": "Canada",
+    "type": "Nuclear Refurbishment & Construction",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Nuclear Refurbishment & Construction"
+      }
+    ]
+  },
+  {
+    "id": "AVAV.NASDAQ",
+    "name": "AeroVironment, Inc.",
+    "ticker": "AVAV",
+    "logoUrl": "/companies-assets/AVAV.NASDAQ.svg",
+    "website": "https://www.avinc.com",
+    "country": "United States",
+    "type": "Unmanned Aircraft Systems (Drones)",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Unmanned Aircraft Systems (Drones)"
+      }
+    ]
+  },
+  {
+    "id": "AEM.NYSE",
+    "name": "Agnico Eagle Mines Limited",
+    "ticker": "AEM",
+    "logoUrl": "/companies-assets/AEM.NYSE.svg",
+    "website": "https://www.agnicoeagle.com",
+    "country": "Canada",
+    "type": "Senior Gold Producer / Low-Risk Jurisdictions",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Senior Gold Producer / Low-Risk Jurisdictions"
+      }
+    ]
+  },
+  {
+    "id": "AGI.NYSE",
+    "name": "Alamos Gold Inc.",
+    "ticker": "AGI",
+    "logoUrl": "/companies-assets/AGI.NYSE.svg",
+    "website": "https://www.alamosgold.com",
+    "country": "Canada",
+    "type": "Mid-Tier Gold Producer / North American Focus",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Mid-Tier Gold Producer / North American Focus"
+      }
+    ]
   },
   {
     "id": "ALB.NYSE",
     "name": "Albemarle Corporation",
     "ticker": "ALB",
+    "logoUrl": "/companies-assets/ALB.NYSE.svg",
     "website": "https://www.albemarle.com",
-    "country": "USA",
-    "type": "Lithium & Specialty Chemicals (Electrification)"
+    "country": "United States",
+    "type": "Lithium Mining & Processing",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Lithium Mining & Processing"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Critical Minerals / Lithium Processing in US"
+      }
+    ]
+  },
+  {
+    "id": "AA.NYSE",
+    "name": "Alcoa Corporation",
+    "ticker": "AA",
+    "logoUrl": "/companies-assets/AA.NYSE.svg",
+    "website": "https://www.alcoa.com",
+    "country": "United States",
+    "type": "Aluminum Producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Aluminum Producer"
+      }
+    ]
   },
   {
     "id": "AGE.ASX",
     "name": "Alligator Energy Limited",
     "ticker": "AGE",
+    "logoUrl": "/companies-assets/AGE.ASX.png",
     "website": "https://www.alligatorenergy.com.au",
     "country": "Australia",
-    "type": "Uranium Exploration & Development (Nuclear)"
+    "type": "Uranium Explorer",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Explorer"
+      }
+    ]
+  },
+  {
+    "id": "GOOGL.NASDAQ",
+    "name": "Alphabet Inc.",
+    "ticker": "GOOGL",
+    "logoUrl": "/companies-assets/GOOGL.NASDAQ.svg",
+    "website": "https://abc.xyz",
+    "country": "United States",
+    "type": "Cloud Infrastructure / LLM Development / Search",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Cloud Infrastructure / LLM Development / Search"
+      },
+      {
+        "thesis_name": "Defense",
+        "company_type": "Defense Cloud Infrastructure / AI Research"
+      }
+    ]
+  },
+  {
+    "id": "AMZN.NASDAQ",
+    "name": "Amazon.com, Inc.",
+    "ticker": "AMZN",
+    "logoUrl": "/companies-assets/AMZN.NASDAQ.svg",
+    "website": "https://www.amazon.com",
+    "country": "United States",
+    "type": "Cloud Infrastructure (AWS) / AI Services",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Cloud Infrastructure (AWS) / AI Services"
+      },
+      {
+        "thesis_name": "Defense",
+        "company_type": "Defense Cloud Infrastructure (JWCC)"
+      }
+    ]
   },
   {
     "id": "AEC.TSX",
     "name": "Anfield Energy Inc.",
     "ticker": "AEC",
-    "website": "https://anfieldenergy.com",
-    "country": "Canada / USA",
-    "type": "Uranium & Vanadium Development (Nuclear)"
+    "logoUrl": "/companies-assets/AEC.TSX.png",
+    "website": "https://anfieldenergy.com/",
+    "country": "Canada",
+    "type": "Uranium Explorer/Developer",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Explorer/Developer"
+      }
+    ]
   },
   {
-    "id": "ARKX",
-    "name": "ARK Space & Defense Innovation ETF",
-    "ticker": "ARKX",
-    "website": "https://ark-funds.com/funds/arkx/",
-    "country": "USA",
-    "type": "Aerospace & Defense ETF (Defense)"
+    "id": "AU.NYSE",
+    "name": "AngloGold Ashanti plc",
+    "ticker": "AU",
+    "logoUrl": "/companies-assets/AU.NYSE.svg",
+    "website": "https://www.anglogoldashanti.com",
+    "country": "United Kingdom",
+    "type": "Senior Gold Producer / Emerging Markets Exposure",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Senior Gold Producer / Emerging Markets Exposure"
+      }
+    ]
+  },
+  {
+    "id": "AAPL.NASDAQ",
+    "name": "Apple Inc.",
+    "ticker": "AAPL",
+    "logoUrl": "/companies-assets/AAPL.NASDAQ.svg",
+    "website": "https://www.apple.com",
+    "country": "United States",
+    "type": "Technology",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Technology"
+      }
+    ]
+  },
+  {
+    "id": "AMAT.NASDAQ",
+    "name": "Applied Materials, Inc.",
+    "ticker": "AMAT",
+    "logoUrl": "/companies-assets/AMAT.NASDAQ.svg",
+    "website": "https://www.appliedmaterials.com",
+    "country": "United States",
+    "type": "Semiconductor Equipment",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Semiconductor Equipment"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Semiconductor Equipment / Supply Chain Localization"
+      }
+    ]
+  },
+  {
+    "id": "ANET.NYSE",
+    "name": "Arista Networks, Inc.",
+    "ticker": "ANET",
+    "logoUrl": "/companies-assets/ANET.NYSE.svg",
+    "website": "https://www.arista.com",
+    "country": "United States",
+    "type": "Networking Equipment / Switches",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Networking Equipment / Switches"
+      }
+    ]
+  },
+  {
+    "id": "ARM.NASDAQ",
+    "name": "Arm Holdings plc",
+    "ticker": "ARM",
+    "logoUrl": "/companies-assets/ARM.NASDAQ.svg",
+    "website": "https://www.arm.com",
+    "country": "United Kingdom",
+    "type": "Semiconductor IP / Architecture",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Semiconductor IP / Architecture"
+      }
+    ]
+  },
+  {
+    "id": "ARRY.NASDAQ",
+    "name": "Array Technologies, Inc.",
+    "ticker": "ARRY",
+    "logoUrl": "/companies-assets/ARRY.NASDAQ.svg",
+    "website": "https://arraytechinc.com",
+    "country": "United States",
+    "type": "Solar Trackers / US Domestic Production",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Solar Trackers / US Domestic Production"
+      }
+    ]
+  },
+  {
+    "id": "ARTG.TSX",
+    "name": "Artemis Gold Inc.",
+    "ticker": "ARTG",
+    "logoUrl": "/companies-assets/ARTG.TSX.png",
+    "website": "https://www.artemisgoldinc.com",
+    "country": "Canada",
+    "type": "Gold Developer",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Developer"
+      }
+    ]
+  },
+  {
+    "id": "ASML.NASDAQ",
+    "name": "ASML Holding N.V.",
+    "ticker": "ASML",
+    "logoUrl": "/companies-assets/ASML.NASDAQ.svg",
+    "website": "https://www.asml.com",
+    "country": "Netherlands",
+    "type": "Lithography Equipment",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Lithography Equipment"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Lithography Equipment / Critical Tech for Reshored Fabs"
+      }
+    ]
   },
   {
     "id": "ASPI.NASDAQ",
     "name": "ASP Isotopes Inc.",
     "ticker": "ASPI",
-    "website": "https://www.aspisotopes.com",
-    "country": "USA / South Africa",
-    "type": "Isotope Enrichment & HALEU Fuel (Nuclear)"
+    "logoUrl": "/companies-assets/ASPI.NASDAQ.svg",
+    "website": "https://aspisotopes.com",
+    "country": "United States",
+    "type": "Enrichment",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Enrichment"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Nuclear Fuel Enrichment Technology"
+      }
+    ]
+  },
+  {
+    "id": "ASPI.NYSE",
+    "name": "ASP Isotopes Inc.",
+    "ticker": "ASPI",
+    "logoUrl": "/companies-assets/ASPI.NYSE.svg",
+    "website": "https://aspisotopes.com",
+    "country": "United States",
+    "type": "Enrichment Services",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Enrichment Services"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Nuclear Fuel Enrichment Technology"
+      }
+    ]
+  },
+  {
+    "id": "ATRL.NASDAQ",
+    "name": "Aterian, Inc.",
+    "ticker": "ATRL",
+    "logoUrl": "/companies-assets/ATRL.NASDAQ.png",
+    "website": "https://www.aterian.io",
+    "country": "United States",
+    "type": "Nuclear EPC Services",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Nuclear EPC Services"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Critical Minerals Exploration"
+      }
+    ]
   },
   {
     "id": "SASK.TSX",
     "name": "Atha Energy Corp.",
     "ticker": "SASK",
+    "logoUrl": "/companies-assets/SASK.TSX.png",
     "website": "https://www.athaenergy.com",
     "country": "Canada",
-    "type": "Uranium Exploration (Nuclear)"
+    "type": "Uranium Explorer",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Explorer"
+      }
+    ]
   },
   {
     "id": "ATRL.TSX",
-    "name": "AtkinsRéalis",
+    "name": "AtkinsRéalis Group Inc.",
     "ticker": "ATRL",
+    "logoUrl": "/companies-assets/ATRL.TSX.svg",
     "website": "https://www.atkinsrealis.com",
     "country": "Canada",
-    "type": "Nuclear Engineering & EPC Services (Nuclear)"
+    "type": "CANDU Reactor Technology / Nuclear Services",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "CANDU Reactor Technology / Nuclear Services"
+      }
+    ]
+  },
+  {
+    "id": "ATCO.STO",
+    "name": "Atlas Copco AB",
+    "ticker": "ATCO",
+    "logoUrl": "/companies-assets/ATCO.STO.svg",
+    "website": "https://www.atlascopcogroup.com",
+    "country": "Sweden",
+    "type": "Industrial heat pump manufacturer",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Industrial heat pump manufacturer"
+      }
+    ]
   },
   {
     "id": "AEU.ASX",
     "name": "Atomic Eagle Limited",
     "ticker": "AEU",
-    "website": "https://www.atomiceagle.com.au",
+    "logoUrl": "/companies-assets/AEU.ASX.svg",
+    "website": "https://atomiceagle.com.au",
     "country": "Australia",
-    "type": "Uranium Exploration & Development (Nuclear)"
+    "type": "Uranium Explorer",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Explorer"
+      }
+    ]
   },
   {
     "id": "AEE.ASX",
     "name": "Aura Energy Limited",
     "ticker": "AEE",
-    "website": "https://www.auraenergy.com.au",
+    "logoUrl": "/companies-assets/AEE.ASX.svg",
+    "website": "https://auraenergy.com.au/",
     "country": "Australia",
-    "type": "Uranium & Polymetallic Development (Nuclear)"
+    "type": "Uranium Developer",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Developer"
+      }
+    ]
+  },
+  {
+    "id": "AUGO.TSX",
+    "name": "Aura Minerals Inc.",
+    "ticker": "AUGO",
+    "logoUrl": "/companies-assets/AUGO.TSX.png",
+    "website": "https://auraminerals.com/",
+    "country": "British Virgin Islands",
+    "type": "Small-Cap Gold Producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Small-Cap Gold Producer"
+      }
+    ]
   },
   {
     "id": "AAZ.TSX",
     "name": "Azincourt Energy Corp.",
     "ticker": "AAZ",
+    "logoUrl": "/companies-assets/AAZ.TSX.webp",
     "website": "https://azincourtenergy.com",
     "country": "Canada",
-    "type": "Uranium Exploration & Development (Nuclear)"
+    "type": "Uranium Explorer",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Explorer"
+      }
+    ]
+  },
+  {
+    "id": "BTG.NYSE",
+    "name": "B2Gold Corp.",
+    "ticker": "BTG",
+    "logoUrl": "/companies-assets/BTG.NYSE.svg",
+    "website": "https://www.b2gold.com",
+    "country": "Canada",
+    "type": "Mid-Tier Gold Producer / International Operations",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Mid-Tier Gold Producer / International Operations"
+      }
+    ]
+  },
+  {
+    "id": "BA..LSE",
+    "name": "BAE Systems plc",
+    "ticker": "BA.",
+    "logoUrl": "https://www.baesystems.com/en/download-en/20180524155843/1434555375331.jpg",
+    "website": "https://www.baesystems.com",
+    "country": "United Kingdom",
+    "type": "Defense Prime Contractor",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Defense Prime Contractor"
+      }
+    ]
   },
   {
     "id": "BA.LSE",
     "name": "BAE Systems plc",
     "ticker": "BA",
+    "logoUrl": "/companies-assets/BA.LSE.svg",
     "website": "https://www.baesystems.com",
-    "country": "UK",
-    "type": "Aerospace & Defense Prime (Defense)"
+    "country": "United Kingdom",
+    "type": "International Prime Contractor / Naval & Land Systems",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "International Prime Contractor / Naval & Land Systems"
+      }
+    ]
+  },
+  {
+    "id": "BAE.LSE",
+    "name": "BAE Systems plc",
+    "ticker": "BAE",
+    "logoUrl": "https://www.baesystems.com/en/download-en/20180524153313/1434555375532.jpg",
+    "website": "https://www.baesystems.com",
+    "country": "United Kingdom",
+    "type": "Defense and Aerospace Prime Contractor",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Defense and Aerospace Prime Contractor"
+      },
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Aerospace and Defense"
+      }
+    ]
   },
   {
     "id": "BMN.ASX",
     "name": "Bannerman Energy Ltd",
     "ticker": "BMN",
-    "website": "https://www.bannermanenergy.com",
+    "logoUrl": "/companies-assets/BMN.ASX.png",
+    "website": "https://bannermanenergy.com",
     "country": "Australia",
-    "type": "Uranium Development (Nuclear)"
+    "type": "Uranium Development / Etango Project",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Development / Etango Project"
+      }
+    ]
+  },
+  {
+    "id": "GOLD.NYSE",
+    "name": "Barrick Gold Corporation",
+    "ticker": "GOLD",
+    "logoUrl": "/companies-assets/GOLD.NYSE.svg",
+    "website": "https://www.barrick.com",
+    "country": "Canada",
+    "type": "Senior Gold Producer / Tier One Assets",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Senior Gold Producer / Tier One Assets"
+      }
+    ]
   },
   {
     "id": "FIND.TSX",
     "name": "Baselode Energy Corp.",
     "ticker": "FIND",
+    "logoUrl": "/companies-assets/FIND.TSX.png",
     "website": "https://baselode.com",
     "country": "Canada",
-    "type": "Uranium Exploration (Nuclear)"
+    "type": "Uranium Explorer",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Explorer"
+      }
+    ]
+  },
+  {
+    "id": "BGL.ASX",
+    "name": "Bellevue Gold Limited",
+    "ticker": "BGL",
+    "logoUrl": "/companies-assets/BGL.ASX.svg",
+    "website": "https://www.bellevuegold.com.au",
+    "country": "Australia",
+    "type": "Gold Development / High-Grade Australian Asset",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Development / High-Grade Australian Asset"
+      }
+    ]
+  },
+  {
+    "id": "BHP.ASX",
+    "name": "BHP Group Limited",
+    "ticker": "BHP",
+    "logoUrl": "/companies-assets/BHP.ASX.svg",
+    "website": "https://www.bhp.com",
+    "country": "Australia",
+    "type": "Large-cap producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Large-cap producer"
+      },
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Diversified Miner"
+      }
+    ]
   },
   {
     "id": "BHP.NYSE",
     "name": "BHP Group Limited",
     "ticker": "BHP",
+    "logoUrl": "/companies-assets/BHP.NYSE.svg",
     "website": "https://www.bhp.com",
     "country": "Australia",
-    "type": "Diversified Mining / Copper & Potash (Electrification)"
+    "type": "Mining and Metals",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Mining and Metals"
+      }
+    ]
+  },
+  {
+    "id": "BKSY.NYSE",
+    "name": "BlackSky Technology Inc.",
+    "ticker": "BKSY",
+    "logoUrl": "/companies-assets/BKSY.NYSE.svg",
+    "website": "https://www.blacksky.com",
+    "country": "United States",
+    "type": "Real-time Geospatial Intelligence",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Real-time Geospatial Intelligence"
+      }
+    ]
+  },
+  {
+    "id": "BLNK.NASDAQ",
+    "name": "Blink Charging Co.",
+    "ticker": "BLNK",
+    "logoUrl": "/companies-assets/BLNK.NASDAQ.svg",
+    "website": "https://www.blinkcharging.com",
+    "country": "United States of America",
+    "type": "EV Charging Equipment & Services",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "EV Charging Equipment & Services"
+      }
+    ]
+  },
+  {
+    "id": "BAH.NYSE",
+    "name": "Booz Allen Hamilton Holding Corporation",
+    "ticker": "BAH",
+    "logoUrl": "/companies-assets/BAH.NYSE.svg",
+    "website": "https://www.boozallen.com",
+    "country": "United States",
+    "type": "Defense Consulting & Cybersecurity",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Defense Consulting & Cybersecurity"
+      }
+    ]
   },
   {
     "id": "BOE.ASX",
     "name": "Boss Energy Limited",
     "ticker": "BOE",
+    "logoUrl": "/companies-assets/BOE.ASX.svg",
     "website": "https://www.bossenergy.com",
     "country": "Australia",
-    "type": "Uranium Mining (Nuclear)"
+    "type": "Uranium Producer / Honeymoon Project",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Producer / Honeymoon Project"
+      }
+    ]
+  },
+  {
+    "id": "AVGO.NASDAQ",
+    "name": "Broadcom Inc.",
+    "ticker": "AVGO",
+    "logoUrl": "/companies-assets/AVGO.NASDAQ.svg",
+    "website": "https://www.broadcom.com",
+    "country": "United States",
+    "type": "Custom AI Accelerators / Networking",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Custom AI Accelerators / Networking"
+      }
+    ]
   },
   {
     "id": "BWXT.NYSE",
     "name": "BWX Technologies, Inc.",
     "ticker": "BWXT",
+    "logoUrl": "/companies-assets/BWXT.NYSE.svg",
     "website": "https://www.bwxt.com",
-    "country": "USA",
-    "type": "Nuclear Components & Fuel Manufacturing (Nuclear)"
+    "country": "United States",
+    "type": "Nuclear Components / Naval Propulsion",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Nuclear Components / Naval Propulsion"
+      },
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Nuclear Components / SMR Development / Naval Propulsion"
+      }
+    ]
+  },
+  {
+    "id": "CBR.TSX",
+    "name": "Cabral Gold Inc.",
+    "ticker": "CBR",
+    "logoUrl": "/companies-assets/CBR.TSX.png",
+    "website": "https://cabralgold.com",
+    "country": "Canada",
+    "type": "Gold Developer",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Developer"
+      }
+    ]
+  },
+  {
+    "id": "CACI.NYSE",
+    "name": "CACI International Inc",
+    "ticker": "CACI",
+    "logoUrl": "/companies-assets/CACI.NYSE.svg",
+    "website": "https://www.caci.com",
+    "country": "United States",
+    "type": "Defense IT & Intelligence Services",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Defense IT & Intelligence Services"
+      }
+    ]
+  },
+  {
+    "id": "CXB.TSX",
+    "name": "Calibre Mining Corp.",
+    "ticker": "CXB",
+    "logoUrl": "/companies-assets/CXB.TSX.svg",
+    "website": "https://calibremining.com",
+    "country": "Canada",
+    "type": "Junior Gold Producer / Central America",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Junior Gold Producer / Central America"
+      }
+    ]
   },
   {
     "id": "CCJ.NYSE",
     "name": "Cameco Corporation",
     "ticker": "CCJ",
+    "logoUrl": "/companies-assets/CCJ.NYSE.svg",
     "website": "https://www.cameco.com",
     "country": "Canada",
-    "type": "Uranium Mining & Nuclear Fuel Services (Nuclear)"
+    "type": "Uranium Producer / Fuel Services",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Producer / Fuel Services"
+      }
+    ]
+  },
+  {
+    "id": "CCO.TSX",
+    "name": "Cameco Corporation",
+    "ticker": "CCO",
+    "logoUrl": "/companies-assets/CCO.TSX.svg",
+    "website": "https://www.cameco.com",
+    "country": "Canada",
+    "type": "Uranium Producer / Fuel Services",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Producer / Fuel Services"
+      }
+    ]
   },
   {
     "id": "CVV.TSX",
     "name": "CanAlaska Uranium Ltd.",
     "ticker": "CVV",
-    "website": "https://www.canalaska.com",
+    "logoUrl": "/companies-assets/CVV.TSX.svg",
+    "website": "https://canalaska.com/",
     "country": "Canada",
-    "type": "Uranium & Nickel Exploration (Nuclear)"
+    "type": "Uranium Explorer",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Explorer"
+      }
+    ]
+  },
+  {
+    "id": "CVV.TSXV",
+    "name": "CanAlaska Uranium Ltd.",
+    "ticker": "CVV",
+    "logoUrl": "/companies-assets/CVV.TSXV.png",
+    "website": "https://canalaska.com/",
+    "country": "Canada",
+    "type": "Uranium Exploration",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Exploration"
+      }
+    ]
   },
   {
     "id": "CS.TSX",
     "name": "Capstone Copper Corp.",
     "ticker": "CS",
+    "logoUrl": "/companies-assets/CS.TSX.svg",
     "website": "https://capstonecopper.com",
     "country": "Canada",
-    "type": "Copper Mining (Electrification)"
+    "type": "Copper producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Copper producer"
+      }
+    ]
+  },
+  {
+    "id": "CAT.NYSE",
+    "name": "Caterpillar Inc.",
+    "ticker": "CAT",
+    "logoUrl": "/companies-assets/CAT.NYSE.svg",
+    "website": "https://www.caterpillar.com",
+    "country": "United States",
+    "type": "Industrial Equipment / Construction for New US Factories",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Industrial Equipment / Construction for New US Factories"
+      }
+    ]
+  },
+  {
+    "id": "CGAU.NYSE",
+    "name": "Centerra Gold Inc.",
+    "ticker": "CGAU",
+    "logoUrl": "/companies-assets/CGAU.NYSE.svg",
+    "website": "https://www.centerragold.com",
+    "country": "Canada",
+    "type": "Mid-Tier Gold Producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Mid-Tier Gold Producer"
+      }
+    ]
   },
   {
     "id": "LEU.NYSE",
     "name": "Centrus Energy Corp.",
     "ticker": "LEU",
+    "logoUrl": "/companies-assets/LEU.NYSE.png",
     "website": "https://www.centrusenergy.com",
-    "country": "USA",
-    "type": "Nuclear Fuel Cycle & Enrichment (Nuclear)"
+    "country": "United States",
+    "type": "Nuclear Fuel Services",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Nuclear Fuel Services"
+      }
+    ]
   },
   {
-    "id": "1164.HK",
-    "name": "CGN Mining Company Limited",
-    "ticker": "1164",
-    "website": "http://www.cgnmc.com",
-    "country": "China / Hong Kong",
-    "type": "Uranium Mining & Trading (Nuclear)"
+    "id": "CHPT.NYSE",
+    "name": "ChargePoint Holdings, Inc.",
+    "ticker": "CHPT",
+    "logoUrl": "/companies-assets/CHPT.NYSE.svg",
+    "website": "https://www.chargepoint.com",
+    "country": "United States",
+    "type": "EV Charging Network Operator",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "EV Charging Network Operator"
+      }
+    ]
   },
   {
     "id": "LNG.NYSE",
     "name": "Cheniere Energy, Inc.",
     "ticker": "LNG",
+    "logoUrl": "/companies-assets/LNG.NYSE.svg",
     "website": "https://www.cheniere.com",
-    "country": "USA",
-    "type": "LNG Infrastructure & Export (Reshoring)"
+    "country": "United States",
+    "type": "Energy Geopolitics Proxy",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Energy Geopolitics Proxy"
+      }
+    ]
+  },
+  {
+    "id": "CVX.NYSE",
+    "name": "Chevron Corporation",
+    "ticker": "CVX",
+    "logoUrl": "/companies-assets/CVX.NYSE.svg",
+    "website": "https://www.chevron.com",
+    "country": "United States",
+    "type": "Energy producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Energy producer"
+      }
+    ]
+  },
+  {
+    "id": "CSCO.NASDAQ",
+    "name": "Cisco Systems, Inc.",
+    "ticker": "CSCO",
+    "logoUrl": "/companies-assets/CSCO.NASDAQ.svg",
+    "website": "https://www.cisco.com",
+    "country": "United States",
+    "type": "Networking Infrastructure",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Networking Infrastructure"
+      }
+    ]
+  },
+  {
+    "id": "AIR.TSXV",
+    "name": "Clean Air Metals Inc.",
+    "ticker": "AIR",
+    "logoUrl": "/companies-assets/AIR.TSXV.png",
+    "website": "https://cleanairmetals.ca",
+    "country": "Canada",
+    "type": "PGM Exploration",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "PGM Exploration"
+      },
+      {
+        "thesis_name": "Gold",
+        "company_type": "Precious Metals Exploration"
+      }
+    ]
+  },
+  {
+    "id": "NET.NYSE",
+    "name": "Cloudflare, Inc.",
+    "ticker": "NET",
+    "logoUrl": "/companies-assets/NET.NYSE.svg",
+    "website": "https://www.cloudflare.com",
+    "country": "United States",
+    "type": "Edge Computing / AI Inference",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Edge Computing / AI Inference"
+      }
+    ]
+  },
+  {
+    "id": "CLM.TSXV",
+    "name": "Consolidated Lithium Metals Inc.",
+    "ticker": "CLM",
+    "logoUrl": "/companies-assets/CLM.TSXV.png",
+    "website": "https://consolidatedlithium.com/",
+    "country": "Canada",
+    "type": "Lithium Exploration",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Lithium Exploration"
+      },
+      {
+        "thesis_name": "Gold",
+        "company_type": "Lithium Exploration"
+      }
+    ]
   },
   {
     "id": "CEG.NASDAQ",
     "name": "Constellation Energy Corporation",
     "ticker": "CEG",
+    "logoUrl": "/companies-assets/CEG.NASDAQ.svg",
     "website": "https://www.constellationenergy.com",
-    "country": "USA",
-    "type": "Nuclear Utility & Clean Energy Production (Nuclear)"
+    "country": "United States",
+    "type": "Nuclear Power Generation / Largest US Fleet",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Nuclear Power Generation / Largest US Fleet"
+      }
+    ]
+  },
+  {
+    "id": "CEG.NYSE",
+    "name": "Constellation Energy Corporation",
+    "ticker": "CEG",
+    "logoUrl": "/companies-assets/CEG.NYSE.svg",
+    "website": "https://www.constellationenergy.com",
+    "country": "United States",
+    "type": "Utilities",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Utilities"
+      }
+    ]
+  },
+  {
+    "id": "CTGO.NYSE",
+    "name": "Contango Ore, Inc.",
+    "ticker": "CTGO",
+    "logoUrl": "/companies-assets/CTGO.NYSE.png",
+    "website": "https://www.contangoore.com",
+    "country": "United States",
+    "type": "Small-Cap Gold Producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Small-Cap Gold Producer"
+      }
+    ]
+  },
+  {
+    "id": "CRML.NASDAQ",
+    "name": "Critical Metals Corp.",
+    "ticker": "CRML",
+    "logoUrl": "/companies-assets/CRML.NASDAQ.svg",
+    "website": "https://criticalmetalscorp.com",
+    "country": "British Virgin Islands",
+    "type": "Strategic mineral producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Strategic mineral producer"
+      }
+    ]
+  },
+  {
+    "id": "CRWD.NASDAQ",
+    "name": "CrowdStrike Holdings, Inc.",
+    "ticker": "CRWD",
+    "logoUrl": "/companies-assets/CRWD.NASDAQ.svg",
+    "website": "https://www.crowdstrike.com",
+    "country": "United States",
+    "type": "Cybersecurity / AI-driven Security",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Cybersecurity / AI-driven Security"
+      },
+      {
+        "thesis_name": "Defense",
+        "company_type": "Cybersecurity / Endpoint Protection for Defense"
+      }
+    ]
+  },
+  {
+    "id": "CSX.NASDAQ",
+    "name": "CSX Corporation",
+    "ticker": "CSX",
+    "logoUrl": "/companies-assets/CSX.NASDAQ.svg",
+    "website": "https://www.csx.com",
+    "country": "United States",
+    "type": "Logistics / Rail Transport for Eastern US Industry",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Logistics / Rail Transport for Eastern US Industry"
+      }
+    ]
   },
   {
     "id": "CW.NYSE",
     "name": "Curtiss-Wright Corporation",
     "ticker": "CW",
+    "logoUrl": "/companies-assets/CW.NYSE.svg",
     "website": "https://www.curtisswright.com",
-    "country": "USA",
-    "type": "Nuclear Components & Engineering (Nuclear)"
+    "country": "United States",
+    "type": "Defense Components / Naval & Aerospace",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Defense Components / Naval & Aerospace"
+      },
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Nuclear Pumps & Valves / SMR Supply Chain"
+      }
+    ]
+  },
+  {
+    "id": "DDOG.NASDAQ",
+    "name": "Datadog, Inc.",
+    "ticker": "DDOG",
+    "logoUrl": "/companies-assets/DDOG.NASDAQ.svg",
+    "website": "https://www.datadoghq.com",
+    "country": "United States",
+    "type": "Observability / AI Monitoring",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Observability / AI Monitoring"
+      }
+    ]
+  },
+  {
+    "id": "DEG.ASX",
+    "name": "De Grey Mining Limited",
+    "ticker": "DEG",
+    "logoUrl": "/companies-assets/DEG.ASX.svg",
+    "website": "https://degreymining.com.au",
+    "country": "Australia",
+    "type": "Gold Exploration & Development / Hemi Discovery",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Exploration & Development / Hemi Discovery"
+      }
+    ]
   },
   {
     "id": "DYL.ASX",
     "name": "Deep Yellow Limited",
     "ticker": "DYL",
-    "website": "https://www.deepyellow.com.au",
+    "logoUrl": "/companies-assets/DYL.ASX.png",
+    "website": "https://deepyellow.com.au",
     "country": "Australia",
-    "type": "Uranium Exploration & Development (Nuclear)"
+    "type": "Uranium Development / Tumas Project",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Development / Tumas Project"
+      }
+    ]
+  },
+  {
+    "id": "DE.NYSE",
+    "name": "Deere & Company",
+    "ticker": "DE",
+    "logoUrl": "/companies-assets/DE.NYSE.svg",
+    "website": "https://www.deere.com",
+    "country": "United States",
+    "type": "Industrial Equipment / Precision Manufacturing",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Industrial Equipment / Precision Manufacturing"
+      }
+    ]
+  },
+  {
+    "id": "DELL.NYSE",
+    "name": "Dell Technologies Inc.",
+    "ticker": "DELL",
+    "logoUrl": "/companies-assets/DELL.NYSE.svg",
+    "website": "https://www.dell.com",
+    "country": "United States",
+    "type": "Hardware / AI Servers",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Hardware / AI Servers"
+      }
+    ]
+  },
+  {
+    "id": "DLTA.TSX",
+    "name": "Delta Resources Limited",
+    "ticker": "DLTA",
+    "logoUrl": "/companies-assets/DLTA.TSX.svg",
+    "website": "https://deltaresources.ca",
+    "country": "Canada",
+    "type": "Gold Exploration",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Exploration"
+      },
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Mineral Exploration"
+      }
+    ]
   },
   {
     "id": "DNN.NYSE",
     "name": "Denison Mines Corp.",
     "ticker": "DNN",
-    "website": "https://www.denisonmines.com",
+    "logoUrl": "/companies-assets/DNN.NYSE.png",
+    "website": "https://denisonmines.com",
     "country": "Canada",
-    "type": "Uranium Mining & Development (Nuclear)"
+    "type": "Uranium Developer",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Developer"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Uranium Mining"
+      }
+    ]
+  },
+  {
+    "id": "DNN.TSX",
+    "name": "Denison Mines Corp.",
+    "ticker": "DNN",
+    "logoUrl": "/companies-assets/DNN.TSX.png",
+    "website": "https://denisonmines.com",
+    "country": "Canada",
+    "type": "Uranium Developer",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Developer"
+      }
+    ]
+  },
+  {
+    "id": "DLR.NYSE",
+    "name": "Digital Realty Trust, Inc.",
+    "ticker": "DLR",
+    "logoUrl": "/companies-assets/DLR.NYSE.svg",
+    "website": "https://www.digitalrealty.com",
+    "country": "United States",
+    "type": "Data Center REIT",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Data Center REIT"
+      }
+    ]
+  },
+  {
+    "id": "DSV.TSX",
+    "name": "Discovery Silver Corp.",
+    "ticker": "DSV",
+    "logoUrl": "/companies-assets/DSV.TSX.svg",
+    "website": "https://discoverysilver.com",
+    "country": "Canada",
+    "type": "Small-Cap Gold Producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Small-Cap Gold Producer"
+      }
+    ]
+  },
+  {
+    "id": "DLP.TSX",
+    "name": "DLP Resources Inc.",
+    "ticker": "DLP",
+    "logoUrl": "/companies-assets/DLP.TSX.png",
+    "website": "https://dlpresourcesinc.com",
+    "country": "Canada",
+    "type": "Copper and Molybdenum Developer",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Copper and Molybdenum Developer"
+      }
+    ]
+  },
+  {
+    "id": "D.NYSE",
+    "name": "Dominion Energy, Inc.",
+    "ticker": "D",
+    "logoUrl": "/companies-assets/D.NYSE.svg",
+    "website": "https://www.dominionenergy.com",
+    "country": "United States",
+    "type": "Nuclear Power Generation / Utility",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Nuclear Power Generation / Utility"
+      }
+    ]
+  },
+  {
+    "id": "DRY.TSX",
+    "name": "Dryden Gold Corp.",
+    "ticker": "DRY",
+    "logoUrl": "/companies-assets/DRY.TSX.png",
+    "website": "https://drydengold.com",
+    "country": "Canada",
+    "type": "Gold Exploration and Development",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Exploration and Development"
+      },
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Gold Exploration"
+      }
+    ]
+  },
+  {
+    "id": "DUK.NYSE",
+    "name": "Duke Energy Corporation",
+    "ticker": "DUK",
+    "logoUrl": "/companies-assets/DUK.NYSE.svg",
+    "website": "https://www.duke-energy.com",
+    "country": "United States",
+    "type": "Nuclear Power Generation / Utility",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Nuclear Power Generation / Utility"
+      }
+    ]
+  },
+  {
+    "id": "DPM.TSX",
+    "name": "Dundee Precious Metals Inc.",
+    "ticker": "DPM",
+    "logoUrl": "/companies-assets/DPM.TSX.svg",
+    "website": "https://www.dundeeprecious.com",
+    "country": "Canada",
+    "type": "Mid-Tier Gold Producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Mid-Tier Gold Producer"
+      }
+    ]
+  },
+  {
+    "id": "EAGL.CSE",
+    "name": "EagleOne Metals Corp.",
+    "ticker": "EAGL",
+    "logoUrl": "/companies-assets/EAGL.CSE.png",
+    "website": "https://eagleonemetals.com",
+    "country": "Canada",
+    "type": "Critical Minerals Exploration and Development",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Critical Minerals Exploration and Development"
+      },
+      {
+        "thesis_name": "Gold",
+        "company_type": "Metals Exploration"
+      }
+    ]
   },
   {
     "id": "ETN.NYSE",
     "name": "Eaton Corporation plc",
     "ticker": "ETN",
+    "logoUrl": "/companies-assets/ETN.NYSE.svg",
     "website": "https://www.eaton.com",
-    "country": "Ireland / USA",
-    "type": "Electrical Equipment & Power Management (AI & Electrification)"
+    "country": "Ireland",
+    "type": "Electrical Power Management / Grid Infrastructure",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Electrical Power Management / Grid Infrastructure"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Electrical Infrastructure / Powering New US Industrial Capacity"
+      }
+    ]
+  },
+  {
+    "id": "EGO.NYSE",
+    "name": "Eldorado Gold Corporation",
+    "ticker": "EGO",
+    "logoUrl": "/companies-assets/EGO.NYSE.svg",
+    "website": "https://www.eldoradogold.com",
+    "country": "Canada",
+    "type": "Mid-Tier Gold Producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Mid-Tier Gold Producer"
+      }
+    ]
+  },
+  {
+    "id": "ELBM.TSX",
+    "name": "Electra Battery Materials Corporation",
+    "ticker": "ELBM",
+    "logoUrl": "/companies-assets/ELBM.TSX.svg",
+    "website": "https://electrabmc.com",
+    "country": "Canada",
+    "type": "Midstream Re-Processor",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Midstream Re-Processor"
+      }
+    ]
   },
   {
     "id": "EL8.ASX",
     "name": "Elevate Uranium Limited",
     "ticker": "EL8",
+    "logoUrl": "/companies-assets/EL8.ASX.svg",
     "website": "https://www.elevateuranium.com.au",
     "country": "Australia",
-    "type": "Uranium Exploration & Development (Nuclear)"
+    "type": "Uranium Explorer",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Explorer"
+      }
+    ]
   },
   {
-    "id": "EU.NYSE",
+    "id": "EMR.NYSE",
+    "name": "Emerson Electric Co.",
+    "ticker": "EMR",
+    "logoUrl": "/companies-assets/EMR.NYSE.svg",
+    "website": "https://www.emerson.com",
+    "country": "United States",
+    "type": "Industrial Automation / Process Control for US Industry",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Industrial Automation / Process Control for US Industry"
+      }
+    ]
+  },
+  {
+    "id": "EU.NASDAQ",
     "name": "enCore Energy Corp.",
     "ticker": "EU",
-    "website": "https://www.encoreuranium.com",
+    "logoUrl": "/companies-assets/EU.NASDAQ.svg",
+    "website": "https://encoreuranium.com",
+    "country": "United States",
+    "type": "Uranium Producer / ISR Mining",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Producer / ISR Mining"
+      }
+    ]
+  },
+  {
+    "id": "EU.TSX",
+    "name": "enCore Energy Corp.",
+    "ticker": "EU",
+    "logoUrl": "/companies-assets/EU.TSX.svg",
+    "website": "https://encoreuranium.com",
     "country": "USA",
-    "type": "Uranium Mining (Nuclear)"
+    "type": "Uranium Miner",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Miner"
+      }
+    ]
+  },
+  {
+    "id": "EDV.LSE",
+    "name": "Endeavour Mining plc",
+    "ticker": "EDV",
+    "logoUrl": "/companies-assets/EDV.LSE.svg",
+    "website": "https://www.endeavourmining.com",
+    "country": "United Kingdom",
+    "type": "Senior Gold Producer / West African Focus",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Senior Gold Producer / West African Focus"
+      }
+    ]
+  },
+  {
+    "id": "EDV.TSX",
+    "name": "Endeavour Mining plc",
+    "ticker": "EDV",
+    "logoUrl": "/companies-assets/EDV.TSX.svg",
+    "website": "https://www.endeavourmining.com",
+    "country": "United Kingdom",
+    "type": "Intermediate Gold Producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Intermediate Gold Producer"
+      }
+    ]
   },
   {
     "id": "UUUU.NYSE",
     "name": "Energy Fuels Inc.",
     "ticker": "UUUU",
+    "logoUrl": "/companies-assets/UUUU.NYSE.svg",
     "website": "https://www.energyfuels.com",
-    "country": "USA",
-    "type": "Uranium & Rare Earth Elements (Nuclear)"
+    "country": "United States",
+    "type": "Uranium Miner",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Miner"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Midstream Re-Processor"
+      }
+    ]
+  },
+  {
+    "id": "ENPH.NASDAQ",
+    "name": "Enphase Energy, Inc.",
+    "ticker": "ENPH",
+    "logoUrl": "/companies-assets/ENPH.NASDAQ.svg",
+    "website": "https://enphase.com",
+    "country": "United States",
+    "type": "Solar Microinverters / Home Energy Management",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Solar Microinverters / Home Energy Management"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Solar Microinverters / US Manufacturing Incentives"
+      }
+    ]
+  },
+  {
+    "id": "ETR.NYSE",
+    "name": "Entergy Corporation",
+    "ticker": "ETR",
+    "logoUrl": "/companies-assets/ETR.NYSE.svg",
+    "website": "https://www.entergy.com",
+    "country": "United States",
+    "type": "Nuclear Power Generation / Utility",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Nuclear Power Generation / Utility"
+      }
+    ]
+  },
+  {
+    "id": "EQIX.NASDAQ",
+    "name": "Equinix, Inc.",
+    "ticker": "EQIX",
+    "logoUrl": "/companies-assets/EQIX.NASDAQ.svg",
+    "website": "https://www.equinix.com",
+    "country": "United States",
+    "type": "Data Center REIT",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Data Center REIT"
+      }
+    ]
+  },
+  {
+    "id": "EQX.NYSE",
+    "name": "Equinox Gold Corp.",
+    "ticker": "EQX",
+    "logoUrl": "/companies-assets/EQX.NYSE.png",
+    "website": "https://www.equinoxgold.com",
+    "country": "Canada",
+    "type": "Mid-Tier Gold Producer / Americas Focus",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Mid-Tier Gold Producer / Americas Focus"
+      }
+    ]
+  },
+  {
+    "id": "EVGO.NASDAQ",
+    "name": "EVgo Inc.",
+    "ticker": "EVGO",
+    "logoUrl": "/companies-assets/EVGO.NASDAQ.svg",
+    "website": "https://www.evgo.com",
+    "country": "United States",
+    "type": "Fast Charging Network Operator",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Fast Charging Network Operator"
+      }
+    ]
+  },
+  {
+    "id": "EVN.ASX",
+    "name": "Evolution Mining Limited",
+    "ticker": "EVN",
+    "logoUrl": "/companies-assets/EVN.ASX.svg",
+    "website": "https://evolutionmining.com.au",
+    "country": "Australia",
+    "type": "Mid-Tier Gold Producer / Australian Focus",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Mid-Tier Gold Producer / Australian Focus"
+      }
+    ]
+  },
+  {
+    "id": "XOM.NYSE",
+    "name": "Exxon Mobil Corporation",
+    "ticker": "XOM",
+    "logoUrl": "/companies-assets/XOM.NYSE.svg",
+    "website": "https://www.exxonmobil.com",
+    "country": "United States",
+    "type": "Energy producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Energy producer"
+      }
+    ]
   },
   {
     "id": "FUU.TSX",
     "name": "F3 Uranium Corp.",
     "ticker": "FUU",
+    "logoUrl": "/companies-assets/FUU.TSX.webp",
     "website": "https://f3uranium.com",
     "country": "Canada",
-    "type": "Uranium Exploration (Nuclear)"
+    "type": "Uranium Explorer",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Explorer"
+      }
+    ]
+  },
+  {
+    "id": "FDY.TSX",
+    "name": "Faraday Copper Corp.",
+    "ticker": "FDY",
+    "logoUrl": "/companies-assets/FDY.TSX.png",
+    "website": "https://faradaycopper.com",
+    "country": "Canada",
+    "type": "Copper Developer",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Copper Developer"
+      }
+    ]
+  },
+  {
+    "id": "FSLY.NYSE",
+    "name": "Fastly, Inc.",
+    "ticker": "FSLY",
+    "logoUrl": "/companies-assets/FSLY.NYSE.svg",
+    "website": "https://www.fastly.com",
+    "country": "United States",
+    "type": "Edge Computing",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Edge Computing"
+      }
+    ]
+  },
+  {
+    "id": "FF.TSX",
+    "name": "First Mining Gold Corp.",
+    "ticker": "FF",
+    "logoUrl": "/companies-assets/FF.TSX.png",
+    "website": "https://firstmininggold.com",
+    "country": "Canada",
+    "type": "Junior Developer",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Junior Developer"
+      },
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Gold Mining"
+      }
+    ]
+  },
+  {
+    "id": "FSLR.NASDAQ",
+    "name": "First Solar, Inc.",
+    "ticker": "FSLR",
+    "logoUrl": "/companies-assets/FSLR.NASDAQ.svg",
+    "website": "https://www.firstsolar.com",
+    "country": "United States",
+    "type": "Thin-Film Solar Module Manufacturer",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Thin-Film Solar Module Manufacturer"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Solar Module Manufacturing / US Domestic Supply Chain"
+      }
+    ]
   },
   {
     "id": "FCU.TSX",
     "name": "Fission Uranium Corp.",
     "ticker": "FCU",
-    "website": "https://www.fissionuranium.com",
+    "logoUrl": "/companies-assets/FCU.TSX.svg",
+    "website": "https://fissionuranium.com",
     "country": "Canada",
-    "type": "Uranium Exploration & Development (Nuclear)"
+    "type": "Uranium Development / PLS Project",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Development / PLS Project"
+      }
+    ]
   },
   {
     "id": "FLS.NYSE",
     "name": "Flowserve Corporation",
     "ticker": "FLS",
+    "logoUrl": "/companies-assets/FLS.NYSE.svg",
     "website": "https://www.flowserve.com",
-    "country": "USA",
-    "type": "Nuclear-Grade Components & Flow Control (Nuclear)"
+    "country": "United States",
+    "type": "Nuclear EPC Services",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Nuclear EPC Services"
+      }
+    ]
+  },
+  {
+    "id": "FLR.NYSE",
+    "name": "Fluor Corporation",
+    "ticker": "FLR",
+    "logoUrl": "/companies-assets/FLR.NYSE.svg",
+    "website": "https://www.fluor.com",
+    "country": "United States",
+    "type": "Nuclear Engineering & Construction / NuScale Partner",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Nuclear Engineering & Construction / NuScale Partner"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Engineering & Construction / Industrial Mega-projects"
+      }
+    ]
+  },
+  {
+    "id": "F.NYSE",
+    "name": "Ford Motor Company",
+    "ticker": "F",
+    "logoUrl": "/companies-assets/F.NYSE.svg",
+    "website": "https://www.ford.com",
+    "country": "United States",
+    "type": "Legacy Automaker / EV Transition",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Legacy Automaker / EV Transition"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Automotive / EV Battery Plant Development in US"
+      }
+    ]
+  },
+  {
+    "id": "FSY.TSX",
+    "name": "Forsys Metals Corp.",
+    "ticker": "FSY",
+    "logoUrl": "/companies-assets/FSY.TSX.svg",
+    "website": "https://forsysmetals.com",
+    "country": "Canada",
+    "type": "Uranium Exploration & Development",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Exploration & Development"
+      }
+    ]
+  },
+  {
+    "id": "FOR.TSX",
+    "name": "Fortune Bay Corp.",
+    "ticker": "FOR",
+    "logoUrl": "/companies-assets/FOR.TSX.png",
+    "website": "https://fortunebaycorp.com",
+    "country": "Canada",
+    "type": "Gold and Uranium Exploration",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold and Uranium Exploration"
+      },
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Mineral Exploration"
+      }
+    ]
+  },
+  {
+    "id": "FNV.NYSE",
+    "name": "Franco-Nevada Corporation",
+    "ticker": "FNV",
+    "logoUrl": "/companies-assets/FNV.NYSE.svg",
+    "website": "https://www.franco-nevada.com",
+    "country": "Canada",
+    "type": "Gold Royalty & Streaming / Large-Cap",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Royalty & Streaming / Large-Cap"
+      }
+    ]
   },
   {
     "id": "FCX.NYSE",
     "name": "Freeport-McMoRan Inc.",
     "ticker": "FCX",
+    "logoUrl": "/companies-assets/FCX.NYSE.svg",
     "website": "https://www.fcx.com",
-    "country": "USA",
-    "type": "Copper & Molybdenum Mining (Electrification)"
+    "country": "United States",
+    "type": "Copper Mining / Electrification Infrastructure",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Copper Mining / Electrification Infrastructure"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Critical Minerals / Copper Production for US Infrastructure"
+      }
+    ]
+  },
+  {
+    "id": "GMIN.TSX",
+    "name": "G Mining Ventures Corp.",
+    "ticker": "GMIN",
+    "logoUrl": "/companies-assets/GMIN.TSX.svg",
+    "website": "https://www.gminingventures.com",
+    "country": "Canada",
+    "type": "Small-Cap Gold Producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Small-Cap Gold Producer"
+      }
+    ]
   },
   {
     "id": "GEV.NYSE",
-    "name": "GE Vernova",
+    "name": "GE Vernova Inc.",
     "ticker": "GEV",
+    "logoUrl": "/companies-assets/GEV.NYSE.svg",
     "website": "https://www.gevernova.com",
-    "country": "USA",
-    "type": "Energy Infrastructure & Technology (Electrification)"
+    "country": "United States",
+    "type": "Nuclear Reactor Technology / BWRX-300 SMR",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Nuclear Reactor Technology / BWRX-300 SMR"
+      }
+    ]
+  },
+  {
+    "id": "GNRC.NYSE",
+    "name": "Generac Holdings Inc.",
+    "ticker": "GNRC",
+    "logoUrl": "/companies-assets/GNRC.NYSE.svg",
+    "website": "https://www.generac.com",
+    "country": "United States",
+    "type": "Backup Power / Home Energy Storage",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Backup Power / Home Energy Storage"
+      }
+    ]
+  },
+  {
+    "id": "GD.NYSE",
+    "name": "General Dynamics Corporation",
+    "ticker": "GD",
+    "logoUrl": "/companies-assets/GD.NYSE.svg",
+    "website": "https://www.gd.com",
+    "country": "United States",
+    "type": "Prime Contractor / Marine Systems & Land Systems",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Prime Contractor / Marine Systems & Land Systems"
+      }
+    ]
+  },
+  {
+    "id": "GE.NYSE",
+    "name": "General Electric Company",
+    "ticker": "GE",
+    "logoUrl": "/companies-assets/GE.NYSE.svg",
+    "website": "https://www.geaerospace.com",
+    "country": "United States",
+    "type": "Defense and Aerospace Propulsion",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Defense and Aerospace Propulsion"
+      },
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Aerospace and Defense"
+      }
+    ]
+  },
+  {
+    "id": "GM.NYSE",
+    "name": "General Motors Company",
+    "ticker": "GM",
+    "logoUrl": "/companies-assets/GM.NYSE.svg",
+    "website": "https://www.gm.com",
+    "country": "United States",
+    "type": "Legacy Automaker / Ultium Battery Platform",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Legacy Automaker / Ultium Battery Platform"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Automotive / Battery Supply Chain Localization"
+      }
+    ]
+  },
+  {
+    "id": "GLEN.LSE",
+    "name": "Glencore plc",
+    "ticker": "GLEN",
+    "logoUrl": "/companies-assets/GLEN.LSE.svg",
+    "website": "https://www.glencore.com",
+    "country": "Switzerland",
+    "type": "Mining and Commodity Trading",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Mining and Commodity Trading"
+      }
+    ]
   },
   {
     "id": "GLNCY.OTC",
     "name": "Glencore plc",
     "ticker": "GLNCY",
+    "logoUrl": "/companies-assets/GLNCY.OTC.svg",
     "website": "https://www.glencore.com",
     "country": "Switzerland",
-    "type": "Diversified Mining, Recycling & Trading (Electrification)"
+    "type": "Mining and Metals",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Mining and Metals"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Cobalt Producer and Refiner"
+      }
+    ]
   },
   {
     "id": "GLO.TSX",
     "name": "Global Atomic Corporation",
     "ticker": "GLO",
-    "website": "https://www.globalatomiccorp.com",
+    "logoUrl": "/companies-assets/GLO.TSX.svg",
+    "website": "https://globalatomiccorp.com",
     "country": "Canada",
-    "type": "Uranium Development & Zinc Production (Nuclear)"
+    "type": "Uranium Development / Dasa Project",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Development / Dasa Project"
+      }
+    ]
   },
   {
-    "id": "ARMG",
-    "name": "Global X Defence Tech UCITS ETF",
-    "ticker": "ARMG",
-    "website": "https://www.globalxetfs.eu/funds/armg/",
-    "country": "Ireland / Global",
-    "type": "Defense Technology ETF (Defense)"
+    "id": "LIT.NYSE",
+    "name": "Global X Lithium & Battery Tech ETF",
+    "ticker": "LIT",
+    "logoUrl": "/companies-assets/LIT.NYSE.jpg",
+    "website": "https://www.globalxetfs.com/funds/lit/",
+    "country": "United States",
+    "type": "Investment Vehicle",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Investment Vehicle"
+      }
+    ]
+  },
+  {
+    "id": "URA.NYSE",
+    "name": "Global X Uranium ETF",
+    "ticker": "URA",
+    "logoUrl": "/companies-assets/URA.NYSE.jpg",
+    "website": "https://www.globalxetfs.com/funds/ura/",
+    "country": "United States",
+    "type": "Investment vehicle",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Investment vehicle"
+      }
+    ]
+  },
+  {
+    "id": "GFS.NASDAQ",
+    "name": "GlobalFoundries Inc.",
+    "ticker": "GFS",
+    "logoUrl": "/companies-assets/GFS.NASDAQ.svg",
+    "website": "https://gf.com",
+    "country": "Cayman Islands",
+    "type": "Specialty Semiconductor Foundry / US Operations",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Specialty Semiconductor Foundry / US Operations"
+      }
+    ]
+  },
+  {
+    "id": "GFI.NYSE",
+    "name": "Gold Fields Limited",
+    "ticker": "GFI",
+    "logoUrl": "/companies-assets/GFI.NYSE.svg",
+    "website": "https://www.goldfields.com",
+    "country": "South Africa",
+    "type": "Senior Gold Producer / Global Operations",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Senior Gold Producer / Global Operations"
+      }
+    ]
+  },
+  {
+    "id": "GROY.NYSE",
+    "name": "Gold Royalty Corp.",
+    "ticker": "GROY",
+    "logoUrl": "/companies-assets/GROY.NYSE.png",
+    "website": "https://www.goldroyalty.com",
+    "country": "Canada",
+    "type": "Gold Royalty & Streaming / Junior",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Royalty & Streaming / Junior"
+      }
+    ]
+  },
+  {
+    "id": "GOH.CSE",
+    "name": "GoldHaven Resources Corp.",
+    "ticker": "GOH",
+    "logoUrl": "/companies-assets/GOH.CSE.png",
+    "website": "https://goldhavenresources.com",
+    "country": "Canada",
+    "type": "Critical Minerals Exploration",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Critical Minerals Exploration"
+      },
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Exploration"
+      }
+    ]
+  },
+  {
+    "id": "GOH.TSX",
+    "name": "GoldHaven Resources Corp.",
+    "ticker": "GOH",
+    "logoUrl": "/companies-assets/GOH.TSX.png",
+    "website": "https://goldhavenresources.com/",
+    "country": "Canada",
+    "type": "Junior explorer",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Junior explorer"
+      },
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Exploration"
+      }
+    ]
+  },
+  {
+    "id": "GXU.TSXV",
+    "name": "GoviEx Uranium Inc.",
+    "ticker": "GXU",
+    "logoUrl": "/companies-assets/GXU.TSXV.svg",
+    "website": "https://www.goviex.com",
+    "country": "Canada",
+    "type": "Uranium Exploration & Development",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Exploration & Development"
+      }
+    ]
+  },
+  {
+    "id": "HEI.NYSE",
+    "name": "HEICO Corporation",
+    "ticker": "HEI",
+    "logoUrl": "/companies-assets/HEI.NYSE.svg",
+    "website": "https://www.heico.com",
+    "country": "United States",
+    "type": "Aerospace & Defense Electronics",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Aerospace & Defense Electronics"
+      }
+    ]
   },
   {
     "id": "HBM.NYSE",
     "name": "Hudbay Minerals Inc.",
     "ticker": "HBM",
+    "logoUrl": "/companies-assets/HBM.NYSE.svg",
     "website": "https://www.hudbayminerals.com",
     "country": "Canada",
-    "type": "Copper & Zinc Mining (Electrification)"
+    "type": "Copper producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Copper producer"
+      }
+    ]
   },
   {
-    "id": "PPA",
-    "name": "Invesco Aerospace & Defense ETF",
-    "ticker": "PPA",
-    "website": "https://www.invesco.com/us/en/solutions/exchange-traded-funds/ppa.html",
-    "country": "USA",
-    "type": "Aerospace & Defense ETF (Defense)"
+    "id": "HII.NYSE",
+    "name": "Huntington Ingalls Industries, Inc.",
+    "ticker": "HII",
+    "logoUrl": "/companies-assets/HII.NYSE.svg",
+    "website": "https://www.hii.com",
+    "country": "United States",
+    "type": "Naval Shipbuilding",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Naval Shipbuilding"
+      }
+    ]
   },
   {
-    "id": "ITA",
-    "name": "iShares U.S. Aerospace & Defense ETF",
-    "ticker": "ITA",
-    "website": "https://www.ishares.com/us/products/239502/ishares-us-aerospace-defense-etf",
-    "country": "USA",
-    "type": "Aerospace & Defense ETF (Defense)"
+    "id": "IAG.NYSE",
+    "name": "IAMGOLD Corporation",
+    "ticker": "IAG",
+    "logoUrl": "/companies-assets/IAG.NYSE.svg",
+    "website": "https://www.iamgold.com",
+    "country": "Canada",
+    "type": "Mid-Tier Gold Producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Mid-Tier Gold Producer"
+      }
+    ]
+  },
+  {
+    "id": "ILU.ASX",
+    "name": "Iluka Resources Limited",
+    "ticker": "ILU",
+    "logoUrl": "/companies-assets/ILU.ASX.svg",
+    "website": "https://www.iluka.com",
+    "country": "Australia",
+    "type": "Developer",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Developer"
+      }
+    ]
+  },
+  {
+    "id": "INTC.NASDAQ",
+    "name": "Intel Corporation",
+    "ticker": "INTC",
+    "logoUrl": "/companies-assets/INTC.NASDAQ.svg",
+    "website": "https://www.intel.com",
+    "country": "United States",
+    "type": "Semiconductor / Processor Manufacturer",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Semiconductor / Processor Manufacturer"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Semiconductor Manufacturing / US Foundry Expansion"
+      }
+    ]
+  },
+  {
+    "id": "IBM.NYSE",
+    "name": "International Business Machines Corporation",
+    "ticker": "IBM",
+    "logoUrl": "/companies-assets/IBM.NYSE.svg",
+    "website": "https://www.ibm.com",
+    "country": "United States",
+    "type": "AI Consulting / Enterprise AI",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "AI Consulting / Enterprise AI"
+      }
+    ]
+  },
+  {
+    "id": "IAU.NYSE",
+    "name": "iShares Gold Trust",
+    "ticker": "IAU",
+    "logoUrl": "/companies-assets/IAU.NYSE.svg",
+    "website": "https://www.ishares.com/us/products/239561/ishares-gold-trust-fund",
+    "country": "United States",
+    "type": "Gold ETF/Trust",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold ETF/Trust"
+      }
+    ]
   },
   {
     "id": "ISO.TSX",
     "name": "IsoEnergy Ltd.",
     "ticker": "ISO",
+    "logoUrl": "/companies-assets/ISO.TSX.svg",
     "website": "https://www.isoenergy.ca",
     "country": "Canada",
-    "type": "Uranium Exploration & Development (Nuclear)"
+    "type": "Uranium Explorer",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Explorer"
+      }
+    ]
+  },
+  {
+    "id": "ISO.TSXV",
+    "name": "IsoEnergy Ltd.",
+    "ticker": "ISO",
+    "logoUrl": "/companies-assets/ISO.TSXV.svg",
+    "website": "https://www.isoenergy.ca",
+    "country": "Canada",
+    "type": "Uranium Exploration / Hurricane Discovery",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Exploration / Hurricane Discovery"
+      }
+    ]
+  },
+  {
+    "id": "JBHT.NASDAQ",
+    "name": "J.B. Hunt Transport Services, Inc.",
+    "ticker": "JBHT",
+    "logoUrl": "https://www.jbhunt.com/content/dam/jbhunt/images/logos/jbhunt-logo.svg",
+    "website": "https://www.jbhunt.com",
+    "country": "United States",
+    "type": "Logistics / Intermodal & Trucking for US Supply Chain",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Logistics / Intermodal & Trucking for US Supply Chain"
+      }
+    ]
+  },
+  {
+    "id": "J.NYSE",
+    "name": "Jacobs Solutions Inc.",
+    "ticker": "J",
+    "logoUrl": "/companies-assets/J.NYSE.svg",
+    "website": "https://www.jacobs.com",
+    "country": "United States",
+    "type": "Nuclear Engineering & Lifecycle Services",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Nuclear Engineering & Lifecycle Services"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Engineering & Consulting / Advanced Manufacturing Facilities"
+      }
+    ]
+  },
+  {
+    "id": "JPM.NYSE",
+    "name": "JPMorgan Chase & Co.",
+    "ticker": "JPM",
+    "logoUrl": "/companies-assets/JPM.NYSE.svg",
+    "website": "https://www.jpmorganchase.com",
+    "country": "United States",
+    "type": "Financial services and AI adopter",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Financial services and AI adopter"
+      },
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Financial institution"
+      }
+    ]
+  },
+  {
+    "id": "JNPR.NYSE",
+    "name": "Juniper Networks, Inc.",
+    "ticker": "JNPR",
+    "logoUrl": "/companies-assets/JNPR.NYSE.svg",
+    "website": "https://www.juniper.net",
+    "country": "United States",
+    "type": "Networking Infrastructure",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Networking Infrastructure"
+      }
+    ]
+  },
+  {
+    "id": "KNT.TSX",
+    "name": "K92 Mining Inc.",
+    "ticker": "KNT",
+    "logoUrl": "/companies-assets/KNT.TSX.svg",
+    "website": "https://k92mining.com",
+    "country": "Canada",
+    "type": "Junior Gold Producer / Papua New Guinea",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Junior Gold Producer / Papua New Guinea"
+      }
+    ]
+  },
+  {
+    "id": "KRR.TSX",
+    "name": "Karora Resources Inc.",
+    "ticker": "KRR",
+    "logoUrl": "/companies-assets/KRR.TSX.jpg",
+    "website": "https://www.karoraresources.com",
+    "country": "Canada",
+    "type": "Junior Gold Producer / Australian Focus",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Junior Gold Producer / Australian Focus"
+      }
+    ]
+  },
+  {
+    "id": "KGC.NYSE",
+    "name": "Kinross Gold Corporation",
+    "ticker": "KGC",
+    "logoUrl": "/companies-assets/KGC.NYSE.svg",
+    "website": "https://www.kinross.com",
+    "country": "Canada",
+    "type": "Senior Gold Producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Senior Gold Producer"
+      }
+    ]
+  },
+  {
+    "id": "KLAC.NASDAQ",
+    "name": "KLA Corporation",
+    "ticker": "KLAC",
+    "logoUrl": "/companies-assets/KLAC.NASDAQ.svg",
+    "website": "https://www.kla.com",
+    "country": "United States",
+    "type": "Process Control & Yield Management for Semiconductors",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Process Control & Yield Management for Semiconductors"
+      }
+    ]
+  },
+  {
+    "id": "KMTUY.OTC",
+    "name": "Komatsu Ltd.",
+    "ticker": "KMTUY",
+    "logoUrl": "/companies-assets/KMTUY.OTC.svg",
+    "website": "https://www.komatsu.jp",
+    "country": "Japan",
+    "type": "Heavy Machinery OEM",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Heavy Machinery OEM"
+      }
+    ]
+  },
+  {
+    "id": "KTOS.NASDAQ",
+    "name": "Kratos Defense & Security Solutions, Inc.",
+    "ticker": "KTOS",
+    "logoUrl": "/companies-assets/KTOS.NASDAQ.svg",
+    "website": "https://www.kratosdefense.com",
+    "country": "United States",
+    "type": "Unmanned Systems & Satellite Communications",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Unmanned Systems & Satellite Communications"
+      }
+    ]
+  },
+  {
+    "id": "LHX.NYSE",
+    "name": "L3Harris Technologies, Inc.",
+    "ticker": "LHX",
+    "logoUrl": "/companies-assets/LHX.NYSE.svg",
+    "website": "https://www.l3harris.com",
+    "country": "United States",
+    "type": "Defense Electronics / Communication Systems",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Defense Electronics / Communication Systems"
+      }
+    ]
+  },
+  {
+    "id": "LG.TSX",
+    "name": "Lahontan Gold Corp.",
+    "ticker": "LG",
+    "logoUrl": "/companies-assets/LG.TSX.png",
+    "website": "https://lahontangoldcorp.com/",
+    "country": "Canada",
+    "type": "Gold Exploration",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Exploration"
+      },
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Mineral Exploration"
+      }
+    ]
+  },
+  {
+    "id": "LRCX.NASDAQ",
+    "name": "Lam Research Corporation",
+    "ticker": "LRCX",
+    "logoUrl": "/companies-assets/LRCX.NASDAQ.svg",
+    "website": "https://www.lamresearch.com",
+    "country": "United States",
+    "type": "Semiconductor Equipment",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Semiconductor Equipment"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Semiconductor Equipment / Wafer Fabrication Tools"
+      }
+    ]
   },
   {
     "id": "LAM.TSX",
     "name": "Laramide Resources Ltd.",
     "ticker": "LAM",
-    "website": "https://www.laramide.com",
+    "logoUrl": "/companies-assets/LAM.TSX.svg",
+    "website": "https://laramide.com",
     "country": "Canada",
-    "type": "Uranium Exploration & Development (Nuclear)"
+    "type": "Uranium Developer",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Developer"
+      }
+    ]
+  },
+  {
+    "id": "LMG.ASX",
+    "name": "Latrobe Magnesium Limited",
+    "ticker": "LMG",
+    "logoUrl": "/companies-assets/LMG.ASX.png",
+    "website": "https://www.latrobemagnesium.com",
+    "country": "Australia",
+    "type": "Magnesium Producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Magnesium Producer"
+      }
+    ]
+  },
+  {
+    "id": "LDOS.NYSE",
+    "name": "Leidos Holdings, Inc.",
+    "ticker": "LDOS",
+    "logoUrl": "/companies-assets/LDOS.NYSE.svg",
+    "website": "https://www.leidos.com",
+    "country": "United States",
+    "type": "Defense IT & Intelligence Services",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Defense IT & Intelligence Services"
+      }
+    ]
+  },
+  {
+    "id": "LI.NASDAQ",
+    "name": "Li Auto Inc.",
+    "ticker": "LI",
+    "logoUrl": "/companies-assets/LI.NASDAQ.svg",
+    "website": "https://www.lixiang.com",
+    "country": "China",
+    "type": "Chinese Electric Vehicle Manufacturer / Extended-Range EVs",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Chinese Electric Vehicle Manufacturer / Extended-Range EVs"
+      }
+    ]
+  },
+  {
+    "id": "LICY.NYSE",
+    "name": "Li-Cycle Holdings Corp.",
+    "ticker": "LICY",
+    "logoUrl": "/companies-assets/LICY.NYSE.svg",
+    "website": "https://li-cycle.com",
+    "country": "Canada",
+    "type": "Lithium-ion Battery Recycling",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Lithium-ion Battery Recycling"
+      }
+    ]
+  },
+  {
+    "id": "LAC.NYSE",
+    "name": "Lithium Americas Corp.",
+    "ticker": "LAC",
+    "logoUrl": "/companies-assets/LAC.NYSE.svg",
+    "website": "https://www.lithiumamericas.com",
+    "country": "Canada",
+    "type": "Developer",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Developer"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Lithium Producer"
+      }
+    ]
+  },
+  {
+    "id": "LTHM.NYSE",
+    "name": "Livent Corporation",
+    "ticker": "LTHM",
+    "logoUrl": "/companies-assets/LTHM.NYSE.svg",
+    "website": "https://www.livent.com",
+    "country": "United States",
+    "type": "Pure-play Lithium Producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Pure-play Lithium Producer"
+      }
+    ]
   },
   {
     "id": "LMT.NYSE",
     "name": "Lockheed Martin Corporation",
     "ticker": "LMT",
+    "logoUrl": "/companies-assets/LMT.NYSE.svg",
     "website": "https://www.lockheedmartin.com",
-    "country": "USA",
-    "type": "Aerospace & Defense Prime (Defense)"
+    "country": "United States",
+    "type": "Prime Contractor / Aerospace & Defense Systems",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Prime Contractor / Aerospace & Defense Systems"
+      }
+    ]
   },
   {
     "id": "LOT.ASX",
     "name": "Lotus Resources Limited",
     "ticker": "LOT",
-    "website": "https://www.lotusresources.com.au",
+    "logoUrl": "https://lotusresources.com.au/wp-content/uploads/2023/10/Lotus-Resources-Logo-2023.png",
+    "website": "https://lotusresources.com.au/",
     "country": "Australia",
-    "type": "Uranium Mining (Nuclear)"
+    "type": "Uranium Development / Kayelekera Mine",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Development / Kayelekera Mine"
+      }
+    ]
+  },
+  {
+    "id": "LCID.NASDAQ",
+    "name": "Lucid Group, Inc.",
+    "ticker": "LCID",
+    "logoUrl": "/companies-assets/LCID.NASDAQ.svg",
+    "website": "https://www.lucidmotors.com",
+    "country": "United States",
+    "type": "Luxury Electric Vehicle Manufacturer",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Luxury Electric Vehicle Manufacturer"
+      }
+    ]
+  },
+  {
+    "id": "LUG.TSX",
+    "name": "Lundin Gold Inc.",
+    "ticker": "LUG",
+    "logoUrl": "/companies-assets/LUG.TSX.svg",
+    "website": "https://lundingold.com",
+    "country": "Canada",
+    "type": "Junior Gold Producer / Ecuador Focus",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Junior Gold Producer / Ecuador Focus"
+      }
+    ]
   },
   {
     "id": "LUN.TSX",
     "name": "Lundin Mining Corporation",
     "ticker": "LUN",
+    "logoUrl": "/companies-assets/LUN.TSX.svg",
     "website": "https://www.lundinmining.com",
     "country": "Canada",
-    "type": "Base Metals Mining / Copper (Electrification)"
+    "type": "Copper and zinc producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Copper and zinc producer"
+      }
+    ]
   },
   {
     "id": "LYC.ASX",
-    "name": "Lynas Rare Earths Ltd",
+    "name": "Lynas Rare Earths Limited",
     "ticker": "LYC",
+    "logoUrl": "/companies-assets/LYC.ASX.svg",
     "website": "https://lynasrareearths.com",
     "country": "Australia",
-    "type": "Rare Earth Mining & Processing (Reshoring)"
+    "type": "National Security Anchor",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "National Security Anchor"
+      }
+    ]
+  },
+  {
+    "id": "LYC.AX.ASX",
+    "name": "Lynas Rare Earths Limited",
+    "ticker": "LYC.AX",
+    "logoUrl": "/companies-assets/LYC.AX.ASX.png",
+    "website": "https://lynasrareearths.com",
+    "country": "Australia",
+    "type": "Rare Earth Elements Producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Rare Earth Elements Producer"
+      }
+    ]
+  },
+  {
+    "id": "MRVL.NASDAQ",
+    "name": "Marvell Technology, Inc.",
+    "ticker": "MRVL",
+    "logoUrl": "/companies-assets/MRVL.NASDAQ.svg",
+    "website": "https://www.marvell.com",
+    "country": "United States",
+    "type": "Data Infrastructure / Networking",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Data Infrastructure / Networking"
+      }
+    ]
+  },
+  {
+    "id": "MRCY.NASDAQ",
+    "name": "Mercury Systems, Inc.",
+    "ticker": "MRCY",
+    "logoUrl": "/companies-assets/MRCY.NASDAQ.svg",
+    "website": "https://www.mrcy.com",
+    "country": "United States",
+    "type": "Defense Electronics & Processing",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Defense Electronics & Processing"
+      }
+    ]
+  },
+  {
+    "id": "META.NASDAQ",
+    "name": "Meta Platforms, Inc.",
+    "ticker": "META",
+    "logoUrl": "/companies-assets/META.NASDAQ.svg",
+    "website": "https://about.meta.com",
+    "country": "United States",
+    "type": "Open Source LLM / Social Media AI",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Open Source LLM / Social Media AI"
+      }
+    ]
+  },
+  {
+    "id": "MU.NASDAQ",
+    "name": "Micron Technology, Inc.",
+    "ticker": "MU",
+    "logoUrl": "/companies-assets/MU.NASDAQ.svg",
+    "website": "https://www.micron.com",
+    "country": "United States",
+    "type": "Memory / HBM",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Memory / HBM"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Memory Chip Manufacturing / US Domestic Production"
+      }
+    ]
+  },
+  {
+    "id": "MSFT.NASDAQ",
+    "name": "Microsoft Corporation",
+    "ticker": "MSFT",
+    "logoUrl": "/companies-assets/MSFT.NASDAQ.svg",
+    "website": "https://www.microsoft.com",
+    "country": "United States",
+    "type": "Cloud Infrastructure / Software / LLM Integration",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Cloud Infrastructure / Software / LLM Integration"
+      },
+      {
+        "thesis_name": "Defense",
+        "company_type": "Defense Cloud Infrastructure / IVAS Program"
+      }
+    ]
+  },
+  {
+    "id": "MOG.A.NYSE",
+    "name": "Moog Inc.",
+    "ticker": "MOG.A",
+    "logoUrl": "/companies-assets/MOG.A.NYSE.webp",
+    "website": "https://www.moog.com",
+    "country": "United States",
+    "type": "Motion Control Systems / Aerospace & Defense",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Motion Control Systems / Aerospace & Defense"
+      }
+    ]
+  },
+  {
+    "id": "MS.NYSE",
+    "name": "Morgan Stanley",
+    "ticker": "MS",
+    "logoUrl": "/companies-assets/MS.NYSE.svg",
+    "website": "https://www.morganstanley.com",
+    "country": "United States",
+    "type": "Financial institution",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Financial institution"
+      }
+    ]
   },
   {
     "id": "MP.NYSE",
     "name": "MP Materials Corp.",
     "ticker": "MP",
+    "logoUrl": "/companies-assets/MP.NYSE.svg",
     "website": "https://mpmaterials.com",
-    "country": "USA",
-    "type": "Rare Earth Mining & Processing (Reshoring)"
-  },
-  {
-    "id": "KAP.LSE",
-    "name": "NAC Kazatomprom JSC",
-    "ticker": "KAP",
-    "website": "https://www.kazatomprom.kz",
-    "country": "Kazakhstan",
-    "type": "Uranium Mining & Fuel Cycle (Nuclear)"
+    "country": "United States",
+    "type": "Rare Earth Materials / US Mining & Separation",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Rare Earth Materials / US Mining & Separation"
+      }
+    ]
   },
   {
     "id": "NNE.NASDAQ",
     "name": "NANO Nuclear Energy Inc.",
     "ticker": "NNE",
+    "logoUrl": "/companies-assets/NNE.NASDAQ.png",
     "website": "https://nanonuclearenergy.com",
-    "country": "USA",
-    "type": "Microreactors & Nuclear Technology (Nuclear)"
+    "country": "United States",
+    "type": "High-Convexity Tech",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "High-Convexity Tech"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Nuclear Energy Technology"
+      }
+    ]
+  },
+  {
+    "id": "KAP.LSE",
+    "name": "National Atomic Company Kazatomprom JSC",
+    "ticker": "KAP",
+    "logoUrl": "/companies-assets/KAP.LSE.svg",
+    "website": "https://www.kazatomprom.kz",
+    "country": "Kazakhstan",
+    "type": "Uranium Producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Producer"
+      }
+    ]
+  },
+  {
+    "id": "NTAP.NASDAQ",
+    "name": "NetApp, Inc.",
+    "ticker": "NTAP",
+    "logoUrl": "/companies-assets/NTAP.NASDAQ.svg",
+    "website": "https://www.netapp.com",
+    "country": "United States",
+    "type": "Data Storage",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Data Storage"
+      }
+    ]
+  },
+  {
+    "id": "NAM.TSXV",
+    "name": "New Age Metals Inc.",
+    "ticker": "NAM",
+    "logoUrl": "/companies-assets/NAM.TSXV.png",
+    "website": "https://newagemetals.com",
+    "country": "Canada",
+    "type": "PGM and Nickel Exploration",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "PGM and Nickel Exploration"
+      },
+      {
+        "thesis_name": "Gold",
+        "company_type": "Metals Exploration"
+      }
+    ]
+  },
+  {
+    "id": "NEM.NYSE",
+    "name": "Newmont Corporation",
+    "ticker": "NEM",
+    "logoUrl": "/companies-assets/NEM.NYSE.svg",
+    "website": "https://www.newmont.com",
+    "country": "United States",
+    "type": "Senior Gold Producer / Diversified Global Mining",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Senior Gold Producer / Diversified Global Mining"
+      }
+    ]
   },
   {
     "id": "NXE.NYSE",
     "name": "NexGen Energy Ltd.",
     "ticker": "NXE",
+    "logoUrl": "/companies-assets/NXE.NYSE.svg",
     "website": "https://www.nexgenenergy.ca",
     "country": "Canada",
-    "type": "Uranium Exploration & Development (Nuclear)"
+    "type": "Uranium Development / Arrow Project",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Development / Arrow Project"
+      }
+    ]
   },
   {
-    "id": "NHY.OSL",
-    "name": "Norsk Hydro ASA",
-    "ticker": "NHY",
-    "website": "https://www.hydro.com",
-    "country": "Norway",
-    "type": "Low-Carbon Aluminium & Renewable Energy (Electrification)"
+    "id": "NXE.TSX",
+    "name": "NexGen Energy Ltd.",
+    "ticker": "NXE",
+    "logoUrl": "/companies-assets/NXE.TSX.svg",
+    "website": "https://www.nexgenenergy.ca",
+    "country": "Canada",
+    "type": "Uranium Developer",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Developer"
+      }
+    ]
+  },
+  {
+    "id": "NEXG.TSX",
+    "name": "NexGold Mining Corp.",
+    "ticker": "NEXG",
+    "logoUrl": "/companies-assets/NEXG.TSX.webp",
+    "website": "https://www.nexgold.com",
+    "country": "Canada",
+    "type": "Gold Developer",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Developer"
+      }
+    ]
+  },
+  {
+    "id": "NEE.NYSE",
+    "name": "NextEra Energy, Inc.",
+    "ticker": "NEE",
+    "logoUrl": "/companies-assets/NEE.NYSE.svg",
+    "website": "https://www.nexteraenergy.com",
+    "country": "United States",
+    "type": "Renewable Energy Utility / Grid Modernization",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Renewable Energy Utility / Grid Modernization"
+      }
+    ]
+  },
+  {
+    "id": "NXT.NASDAQ",
+    "name": "Nextracker Inc.",
+    "ticker": "NXT",
+    "logoUrl": "/companies-assets/NXT.NASDAQ.svg",
+    "website": "https://www.nextracker.com",
+    "country": "United States",
+    "type": "Solar Trackers / US Content & Manufacturing",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Solar Trackers / US Content & Manufacturing"
+      }
+    ]
+  },
+  {
+    "id": "NIO.NYSE",
+    "name": "NIO Inc.",
+    "ticker": "NIO",
+    "logoUrl": "/companies-assets/NIO.NYSE.svg",
+    "website": "https://www.nio.com",
+    "country": "China",
+    "type": "Chinese Electric Vehicle Manufacturer / Battery Swapping",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Chinese Electric Vehicle Manufacturer / Battery Swapping"
+      }
+    ]
+  },
+  {
+    "id": "NST.ASX",
+    "name": "Northern Star Resources Limited",
+    "ticker": "NST",
+    "logoUrl": "/companies-assets/NST.ASX.svg",
+    "website": "https://www.nsrltd.com",
+    "country": "Australia",
+    "type": "Senior Gold Producer / Australian Focus",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Senior Gold Producer / Australian Focus"
+      }
+    ]
+  },
+  {
+    "id": "NCX.TSX",
+    "name": "NorthIsle Copper and Gold Inc.",
+    "ticker": "NCX",
+    "logoUrl": "/companies-assets/NCX.TSX.png",
+    "website": "https://www.northisle.ca",
+    "country": "Canada",
+    "type": "Copper-Gold Exploration and Development",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Copper-Gold Exploration and Development"
+      },
+      {
+        "thesis_name": "Gold",
+        "company_type": "Copper and Gold Exploration"
+      }
+    ]
   },
   {
     "id": "NOC.NYSE",
     "name": "Northrop Grumman Corporation",
     "ticker": "NOC",
+    "logoUrl": "/companies-assets/NOC.NYSE.svg",
     "website": "https://www.northropgrumman.com",
-    "country": "USA",
-    "type": "Aerospace & Defense Prime (Defense)"
+    "country": "United States",
+    "type": "Prime Contractor / Stealth Technology & Space Systems",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Prime Contractor / Stealth Technology & Space Systems"
+      }
+    ]
+  },
+  {
+    "id": "NG.NYSE",
+    "name": "NOVAGOLD RESOURCES INC.",
+    "ticker": "NG",
+    "logoUrl": "/companies-assets/NG.NYSE.svg",
+    "website": "https://www.novagold.com",
+    "country": "Canada",
+    "type": "Gold Development / Donlin Gold Project",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Development / Donlin Gold Project"
+      }
+    ]
+  },
+  {
+    "id": "NUE.NYSE",
+    "name": "Nucor Corporation",
+    "ticker": "NUE",
+    "logoUrl": "/companies-assets/NUE.NYSE.svg",
+    "website": "https://nucor.com",
+    "country": "United States",
+    "type": "Steel Production / US Domestic Supply for Construction",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Steel Production / US Domestic Supply for Construction"
+      }
+    ]
   },
   {
     "id": "SMR.NYSE",
     "name": "NuScale Power Corporation",
     "ticker": "SMR",
+    "logoUrl": "/companies-assets/SMR.NYSE.svg",
     "website": "https://www.nuscalepower.com",
-    "country": "USA",
-    "type": "Small Modular Reactor (SMR) Technology (Nuclear)"
+    "country": "United States",
+    "type": "Small Modular Reactor (SMR) Design",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Small Modular Reactor (SMR) Design"
+      }
+    ]
+  },
+  {
+    "id": "NVDA.NASDAQ",
+    "name": "NVIDIA Corporation",
+    "ticker": "NVDA",
+    "logoUrl": "/companies-assets/NVDA.NASDAQ.svg",
+    "website": "https://www.nvidia.com",
+    "country": "United States",
+    "type": "Semiconductor / GPU Manufacturer",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Semiconductor / GPU Manufacturer"
+      },
+      {
+        "thesis_name": "Defense",
+        "company_type": "AI Computing / Edge Processing for Defense Systems"
+      },
+      {
+        "thesis_name": "Electrification",
+        "company_type": "AI Computing for Autonomous Driving & Smart Grid Optimization"
+      }
+    ]
+  },
+  {
+    "id": "OGC.ASX",
+    "name": "OceanaGold Corporation",
+    "ticker": "OGC",
+    "logoUrl": "/companies-assets/OGC.ASX.svg",
+    "website": "https://oceanagold.com",
+    "country": "Canada",
+    "type": "Intermediate Gold Producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Intermediate Gold Producer"
+      }
+    ]
+  },
+  {
+    "id": "OGC.TSX",
+    "name": "OceanaGold Corporation",
+    "ticker": "OGC",
+    "logoUrl": "/companies-assets/OGC.TSX.svg",
+    "website": "https://oceanagold.com",
+    "country": "Canada",
+    "type": "Mid-Tier Gold Producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Mid-Tier Gold Producer"
+      }
+    ]
   },
   {
     "id": "OKLO.NYSE",
     "name": "Oklo Inc.",
     "ticker": "OKLO",
+    "logoUrl": "/companies-assets/OKLO.NYSE.svg",
     "website": "https://oklo.com",
-    "country": "USA",
-    "type": "Advanced Nuclear Technology & SMRs (Nuclear)"
+    "country": "United States",
+    "type": "Advanced Fission / Micro-reactor Development",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Advanced Fission / Micro-reactor Development"
+      }
+    ]
+  },
+  {
+    "id": "ODFL.NASDAQ",
+    "name": "Old Dominion Freight Line, Inc.",
+    "ticker": "ODFL",
+    "logoUrl": "/companies-assets/ODFL.NASDAQ.png",
+    "website": "https://www.odfl.com",
+    "country": "United States",
+    "type": "Logistics / Less-Than-Truckload Shipping for US Mfg",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Logistics / Less-Than-Truckload Shipping for US Mfg"
+      }
+    ]
+  },
+  {
+    "id": "ON.NASDAQ",
+    "name": "ON Semiconductor Corporation",
+    "ticker": "ON",
+    "logoUrl": "/companies-assets/ON.NASDAQ.svg",
+    "website": "https://www.onsemi.com",
+    "country": "United States",
+    "type": "Power Semiconductors for EVs & Industrial",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Power Semiconductors for EVs & Industrial"
+      }
+    ]
+  },
+  {
+    "id": "ONYX.TSX",
+    "name": "Onyx Gold Corp.",
+    "ticker": "ONYX",
+    "logoUrl": "/companies-assets/ONYX.TSX.png",
+    "website": "https://onyxgold.com",
+    "country": "Canada",
+    "type": "Gold Exploration and Development",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Exploration and Development"
+      },
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Gold Exploration"
+      }
+    ]
+  },
+  {
+    "id": "ORCL.NYSE",
+    "name": "Oracle Corporation",
+    "ticker": "ORCL",
+    "logoUrl": "/companies-assets/ORCL.NYSE.svg",
+    "website": "https://www.oracle.com",
+    "country": "United States",
+    "type": "Cloud Infrastructure / Database Software",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Cloud Infrastructure / Database Software"
+      },
+      {
+        "thesis_name": "Defense",
+        "company_type": "Defense Cloud Infrastructure / Secure Databases"
+      }
+    ]
+  },
+  {
+    "id": "ORE.ASX",
+    "name": "Oreterra Limited",
+    "ticker": "ORE",
+    "logoUrl": "/companies-assets/ORE.ASX.svg",
+    "website": "https://oreterra.com.au",
+    "country": "Australia",
+    "type": "Junior explorer",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Junior explorer"
+      },
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Mining Company"
+      }
+    ]
+  },
+  {
+    "id": "OTMC.TSXV",
+    "name": "Oreterra Metals Corp.",
+    "ticker": "OTMC",
+    "logoUrl": "/companies-assets/OTMC.TSXV.jpg",
+    "website": "https://oreterra.com",
+    "country": "Canada",
+    "type": "Copper-Gold Exploration",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Copper-Gold Exploration"
+      },
+      {
+        "thesis_name": "Gold",
+        "company_type": "Metals Exploration"
+      }
+    ]
+  },
+  {
+    "id": "ORION.TSX",
+    "name": "Orion Copper Mining Corp.",
+    "ticker": "ORION",
+    "logoUrl": "/companies-assets/ORION.TSX.svg",
+    "website": "https://orioncmc.com",
+    "country": "Canada",
+    "type": "Mining and Mineral Exploration",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Mining and Mineral Exploration"
+      }
+    ]
+  },
+  {
+    "id": "OLA.TSX",
+    "name": "Orla Mining Ltd.",
+    "ticker": "OLA",
+    "logoUrl": "/companies-assets/OLA.TSX.svg",
+    "website": "https://www.orlamining.com",
+    "country": "Canada",
+    "type": "Junior Gold Producer / Mexico Focus",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Junior Gold Producer / Mexico Focus"
+      }
+    ]
+  },
+  {
+    "id": "OR.NYSE",
+    "name": "Osisko Gold Royalties Ltd",
+    "ticker": "OR",
+    "logoUrl": "/companies-assets/OR.NYSE.svg",
+    "website": "https://osiskogr.com",
+    "country": "Canada",
+    "type": "Gold Royalty & Streaming / Intermediate",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Royalty & Streaming / Intermediate"
+      }
+    ]
   },
   {
     "id": "PDN.ASX",
     "name": "Paladin Energy Ltd",
     "ticker": "PDN",
+    "logoUrl": "/companies-assets/PDN.ASX.svg",
     "website": "https://www.paladinenergy.com.au",
     "country": "Australia",
-    "type": "Uranium Mining (Nuclear)"
+    "type": "Uranium Producer / Langer Heinrich Mine",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Producer / Langer Heinrich Mine"
+      }
+    ]
   },
   {
     "id": "PLTR.NYSE",
     "name": "Palantir Technologies Inc.",
     "ticker": "PLTR",
+    "logoUrl": "/companies-assets/PLTR.NYSE.svg",
     "website": "https://www.palantir.com",
-    "country": "USA",
-    "type": "Data Analytics & AI Platform (Defense & AI)"
+    "country": "United States",
+    "type": "AI Software / Data Analytics",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "AI Software / Data Analytics"
+      },
+      {
+        "thesis_name": "Defense",
+        "company_type": "Defense Software / AI-driven Data Analytics"
+      }
+    ]
+  },
+  {
+    "id": "PANW.NASDAQ",
+    "name": "Palo Alto Networks, Inc.",
+    "ticker": "PANW",
+    "logoUrl": "/companies-assets/PANW.NASDAQ.svg",
+    "website": "https://www.paloaltonetworks.com",
+    "country": "United States",
+    "type": "Cybersecurity / AI-driven Security",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Cybersecurity / AI-driven Security"
+      }
+    ]
+  },
+  {
+    "id": "PH.NYSE",
+    "name": "Parker-Hannifin Corporation",
+    "ticker": "PH",
+    "logoUrl": "/companies-assets/PH.NYSE.svg",
+    "website": "https://www.parker.com",
+    "country": "United States",
+    "type": "Motion & Control Technologies / Industrial Components",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Motion & Control Technologies / Industrial Components"
+      }
+    ]
+  },
+  {
+    "id": "PSN.NYSE",
+    "name": "Parsons Corporation",
+    "ticker": "PSN",
+    "logoUrl": "/companies-assets/PSN.NYSE.svg",
+    "website": "https://www.parsons.com",
+    "country": "United States",
+    "type": "Defense Engineering & Cybersecurity",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Defense Engineering & Cybersecurity"
+      }
+    ]
   },
   {
     "id": "PEN.ASX",
     "name": "Peninsula Energy Limited",
     "ticker": "PEN",
+    "logoUrl": "/companies-assets/PEN.ASX.svg",
     "website": "https://www.pel.net.au",
     "country": "Australia",
-    "type": "Uranium Mining & Exploration (Nuclear)"
+    "type": "Uranium Producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Producer"
+      }
+    ]
+  },
+  {
+    "id": "PRU.ASX",
+    "name": "Perseus Mining Limited",
+    "ticker": "PRU",
+    "logoUrl": "/companies-assets/PRU.ASX.svg",
+    "website": "https://perseusmining.com/",
+    "country": "Australia",
+    "type": "Mid-Tier Gold Producer / African Focus",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Mid-Tier Gold Producer / African Focus"
+      }
+    ]
   },
   {
     "id": "PLS.ASX",
     "name": "Pilbara Minerals Limited",
     "ticker": "PLS",
+    "logoUrl": "/companies-assets/PLS.ASX.svg",
     "website": "https://www.pilbaraminerals.com.au",
     "country": "Australia",
-    "type": "Lithium Mining & Processing (Electrification)"
+    "type": "Lithium Producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Lithium Producer"
+      }
+    ]
   },
   {
-    "id": "PRY.BIT",
-    "name": "Prysmian S.p.A.",
-    "ticker": "PRY",
-    "website": "https://www.prysmiangroup.com",
-    "country": "Italy",
-    "type": "Energy & Telecom Cable Systems (Electrification)"
+    "id": "PL.NYSE",
+    "name": "Planet Labs PBC",
+    "ticker": "PL",
+    "logoUrl": "/companies-assets/PL.NYSE.svg",
+    "website": "https://www.planet.com",
+    "country": "United States",
+    "type": "Satellite Imagery / Geospatial Intelligence",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Satellite Imagery / Geospatial Intelligence"
+      }
+    ]
   },
   {
-    "id": "RHM.ETR",
-    "name": "Rheinmetall AG",
-    "ticker": "RHM",
-    "website": "https://www.rheinmetall.com",
-    "country": "Germany",
-    "type": "Defense & Automotive Systems (Defense)"
+    "id": "PTM.NYSE",
+    "name": "Platinum Group Metals Ltd.",
+    "ticker": "PTM",
+    "logoUrl": "/companies-assets/PTM.NYSE.svg",
+    "website": "https://www.platinumgroupmetals.net",
+    "country": "Canada",
+    "type": "PGM and Nickel Developer",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "PGM and Nickel Developer"
+      }
+    ]
+  },
+  {
+    "id": "PLD.NYSE",
+    "name": "Prologis, Inc.",
+    "ticker": "PLD",
+    "logoUrl": "/companies-assets/PLD.NYSE.svg",
+    "website": "https://www.prologis.com",
+    "country": "United States",
+    "type": "Industrial Real Estate / Logistics & Warehousing in US",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Industrial Real Estate / Logistics & Warehousing in US"
+      }
+    ]
+  },
+  {
+    "id": "PPP.TSX",
+    "name": "Prospector Metals Corp.",
+    "ticker": "PPP",
+    "logoUrl": "/companies-assets/PPP.TSX.png",
+    "website": "https://prospectormetalscorp.com",
+    "country": "Canada",
+    "type": "Gold Exploration",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Exploration"
+      },
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Mineral Exploration"
+      }
+    ]
+  },
+  {
+    "id": "PEG.NYSE",
+    "name": "Public Service Enterprise Group Incorporated",
+    "ticker": "PEG",
+    "logoUrl": "/companies-assets/PEG.NYSE.svg",
+    "website": "https://www.pseg.com",
+    "country": "United States",
+    "type": "Nuclear Power Generation / Utility",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Nuclear Power Generation / Utility"
+      }
+    ]
+  },
+  {
+    "id": "PSTG.NYSE",
+    "name": "Pure Storage, Inc.",
+    "ticker": "PSTG",
+    "logoUrl": "/companies-assets/PSTG.NYSE.svg",
+    "website": "https://www.purestorage.com",
+    "country": "United States",
+    "type": "Data Storage",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Data Storage"
+      }
+    ]
+  },
+  {
+    "id": "PWR.NYSE",
+    "name": "Quanta Services, Inc.",
+    "ticker": "PWR",
+    "logoUrl": "/companies-assets/PWR.NYSE.png",
+    "website": "https://www.quantaservices.com",
+    "country": "United States",
+    "type": "Electric Power Infrastructure Services",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Electric Power Infrastructure Services"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Infrastructure Services / Grid Modernization for Reshoring"
+      }
+    ]
+  },
+  {
+    "id": "QS.NYSE",
+    "name": "QuantumScape Corporation",
+    "ticker": "QS",
+    "logoUrl": "/companies-assets/QS.NYSE.png",
+    "website": "https://www.quantumscape.com",
+    "country": "United States",
+    "type": "Solid-State Battery Development",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Solid-State Battery Development"
+      }
+    ]
+  },
+  {
+    "id": "RRL.ASX",
+    "name": "Regis Resources Limited",
+    "ticker": "RRL",
+    "logoUrl": "/companies-assets/RRL.ASX.svg",
+    "website": "https://regisresources.com.au",
+    "country": "Australia",
+    "type": "Mid-Tier Gold Producer / Australian Focus",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Mid-Tier Gold Producer / Australian Focus"
+      }
+    ]
+  },
+  {
+    "id": "RVG.TSX",
+    "name": "Revival Gold Inc.",
+    "ticker": "RVG",
+    "logoUrl": "/companies-assets/RVG.TSX.png",
+    "website": "https://revival-gold.com",
+    "country": "Canada",
+    "type": "Gold Developer",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Developer"
+      }
+    ]
   },
   {
     "id": "RIO.NYSE",
     "name": "Rio Tinto Group",
     "ticker": "RIO",
+    "logoUrl": "/companies-assets/RIO.NYSE.svg",
     "website": "https://www.riotinto.com",
-    "country": "UK / Australia",
-    "type": "Diversified Mining / Copper & Lithium (Electrification)"
+    "country": "United Kingdom",
+    "type": "Diversified Miner",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Diversified Miner"
+      }
+    ]
+  },
+  {
+    "id": "RIVN.NASDAQ",
+    "name": "Rivian Automotive, Inc.",
+    "ticker": "RIVN",
+    "logoUrl": "/companies-assets/RIVN.NASDAQ.svg",
+    "website": "https://rivian.com",
+    "country": "United States",
+    "type": "Electric Vehicle Manufacturer / Adventure & Commercial",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Electric Vehicle Manufacturer / Adventure & Commercial"
+      }
+    ]
+  },
+  {
+    "id": "RKLB.NASDAQ",
+    "name": "Rocket Lab USA, Inc.",
+    "ticker": "RKLB",
+    "logoUrl": "/companies-assets/RKLB.NASDAQ.svg",
+    "website": "https://www.rocketlabusa.com",
+    "country": "United States",
+    "type": "Space Launch & Defense Satellites",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Space Launch & Defense Satellites"
+      }
+    ]
+  },
+  {
+    "id": "ROK.NYSE",
+    "name": "Rockwell Automation, Inc.",
+    "ticker": "ROK",
+    "logoUrl": "/companies-assets/ROK.NYSE.svg",
+    "website": "https://www.rockwellautomation.com",
+    "country": "United States",
+    "type": "Industrial Automation / Smart Manufacturing for Reshoring",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Industrial Automation / Smart Manufacturing for Reshoring"
+      }
+    ]
+  },
+  {
+    "id": "RR..LSE",
+    "name": "Rolls-Royce Holdings plc",
+    "ticker": "RR.",
+    "logoUrl": "/companies-assets/RR..LSE.svg",
+    "website": "https://www.rolls-royce.com",
+    "country": "United Kingdom",
+    "type": "SMR Development / Nuclear Engineering",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "SMR Development / Nuclear Engineering"
+      }
+    ]
   },
   {
     "id": "RR.LSE",
     "name": "Rolls-Royce Holdings plc",
     "ticker": "RR",
+    "logoUrl": "/companies-assets/RR.LSE.svg",
     "website": "https://www.rolls-royce.com",
-    "country": "UK",
-    "type": "Aerospace & Defense / Power Systems (Defense & Nuclear)"
+    "country": "United Kingdom",
+    "type": "Defense and Aerospace Propulsion",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Defense and Aerospace Propulsion"
+      },
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Aerospace and Defense"
+      }
+    ]
+  },
+  {
+    "id": "RGLD.NASDAQ",
+    "name": "Royal Gold, Inc.",
+    "ticker": "RGLD",
+    "logoUrl": "/companies-assets/RGLD.NASDAQ.svg",
+    "website": "https://www.royalgold.com",
+    "country": "United States",
+    "type": "Gold Royalty & Streaming",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Royalty & Streaming"
+      }
+    ]
   },
   {
     "id": "RTX.NYSE",
     "name": "RTX Corporation",
     "ticker": "RTX",
+    "logoUrl": "/companies-assets/RTX.NYSE.svg",
     "website": "https://www.rtx.com",
-    "country": "USA",
-    "type": "Aerospace & Defense Prime (Defense)"
+    "country": "United States",
+    "type": "Prime Contractor / Missile Defense & Aerospace",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Prime Contractor / Missile Defense & Aerospace"
+      }
+    ]
   },
   {
-    "id": "SAAB.ST",
+    "id": "SAAB-B.STO",
     "name": "Saab AB",
-    "ticker": "SAAB",
+    "ticker": "SAAB-B",
+    "logoUrl": "/companies-assets/SAAB-B.STO.svg",
     "website": "https://www.saab.com",
     "country": "Sweden",
-    "type": "Defense & Aerospace (Defense)"
+    "type": "Defense Contractor",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Defense Contractor"
+      }
+    ]
   },
   {
-    "id": "SU.EPA",
-    "name": "Schneider Electric SE",
-    "ticker": "SU",
-    "website": "https://www.se.com",
-    "country": "France",
-    "type": "Energy Management & Industrial Automation (Electrification)"
+    "id": "SAAB.STO",
+    "name": "Saab Aktiebolag",
+    "ticker": "SAAB",
+    "logoUrl": "/companies-assets/SAAB.STO.svg",
+    "website": "https://www.saab.com",
+    "country": "Sweden",
+    "type": "Defense and Aerospace Prime Contractor",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Defense and Aerospace Prime Contractor"
+      },
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Aerospace and Defense"
+      }
+    ]
+  },
+  {
+    "id": "CRM.NYSE",
+    "name": "Salesforce, Inc.",
+    "ticker": "CRM",
+    "logoUrl": "/companies-assets/CRM.NYSE.svg",
+    "website": "https://www.salesforce.com",
+    "country": "United States",
+    "type": "CRM / AI Agents",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "CRM / AI Agents"
+      }
+    ]
+  },
+  {
+    "id": "SAND.NYSE",
+    "name": "Sandstorm Gold Ltd.",
+    "ticker": "SAND",
+    "logoUrl": "/companies-assets/SAND.NYSE.svg",
+    "website": "https://www.sandstormgold.com",
+    "country": "Canada",
+    "type": "Gold Royalty & Streaming / Intermediate",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Royalty & Streaming / Intermediate"
+      }
+    ]
+  },
+  {
+    "id": "SAP.NYSE",
+    "name": "SAP SE",
+    "ticker": "SAP",
+    "logoUrl": "/companies-assets/SAP.NYSE.svg",
+    "website": "https://www.sap.com",
+    "country": "Germany",
+    "type": "Enterprise Software",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Enterprise Software"
+      },
+      {
+        "thesis_name": "Defense",
+        "company_type": "Enterprise Software"
+      }
+    ]
+  },
+  {
+    "id": "SAIC.NASDAQ",
+    "name": "Science Applications International Corporation",
+    "ticker": "SAIC",
+    "logoUrl": "/companies-assets/SAIC.NASDAQ.svg",
+    "website": "https://www.saic.com",
+    "country": "United States",
+    "type": "Defense IT & Engineering Services",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Defense IT & Engineering Services"
+      }
+    ]
+  },
+  {
+    "id": "SA.NYSE",
+    "name": "Seabridge Gold Inc.",
+    "ticker": "SA",
+    "logoUrl": "/companies-assets/SA.NYSE.svg",
+    "website": "https://www.seabridgegold.com",
+    "country": "Canada",
+    "type": "Gold Development / Large Resource Base",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Development / Large Resource Base"
+      }
+    ]
+  },
+  {
+    "id": "S.NYSE",
+    "name": "SentinelOne, Inc.",
+    "ticker": "S",
+    "logoUrl": "/companies-assets/S.NYSE.svg",
+    "website": "https://www.sentinelone.com",
+    "country": "United States",
+    "type": "Cybersecurity / AI-driven Security",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Cybersecurity / AI-driven Security"
+      }
+    ]
+  },
+  {
+    "id": "NOW.NYSE",
+    "name": "ServiceNow, Inc.",
+    "ticker": "NOW",
+    "logoUrl": "/companies-assets/NOW.NYSE.svg",
+    "website": "https://www.servicenow.com",
+    "country": "United States",
+    "type": "Enterprise Workflow Automation",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Enterprise Workflow Automation"
+      }
+    ]
   },
   {
     "id": "SBSW.NYSE",
-    "name": "Sibanye-Stillwater Limited",
+    "name": "Sibanye Stillwater Limited",
     "ticker": "SBSW",
+    "logoUrl": "/companies-assets/SBSW.NYSE.svg",
     "website": "https://www.sibanyestillwater.com",
     "country": "South Africa",
-    "type": "Precious Metals Mining & Battery Recycling (Electrification)"
+    "type": "PGMs Producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "PGMs Producer"
+      }
+    ]
   },
   {
-    "id": "ENR.ETR",
-    "name": "Siemens Energy AG",
-    "ticker": "ENR",
-    "website": "https://www.siemens-energy.com",
+    "id": "SIEGY.OTC",
+    "name": "Siemens Aktiengesellschaft",
+    "ticker": "SIEGY",
+    "logoUrl": "/companies-assets/SIEGY.OTC.svg",
+    "website": "https://www.siemens.com",
     "country": "Germany",
-    "type": "Energy Technology & Grid Infrastructure (Electrification)"
+    "type": "Industrial AI and automation provider",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Industrial AI and automation provider"
+      }
+    ]
   },
   {
     "id": "SGML.NASDAQ",
     "name": "Sigma Lithium Corporation",
     "ticker": "SGML",
+    "logoUrl": "/companies-assets/SGML.NASDAQ.svg",
     "website": "https://www.sigmalithiumresources.com",
-    "country": "Canada / Brazil",
-    "type": "Sustainable Lithium Production (Electrification)"
+    "country": "Canada",
+    "type": "Lithium producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Lithium producer"
+      }
+    ]
+  },
+  {
+    "id": "SIG.TSX",
+    "name": "Sitka Gold Corp.",
+    "ticker": "SIG",
+    "logoUrl": "/companies-assets/SIG.TSX.svg",
+    "website": "https://sitkagoldcorp.com",
+    "country": "Canada",
+    "type": "Gold Exploration",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Exploration"
+      },
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Gold Exploration"
+      }
+    ]
+  },
+  {
+    "id": "SKE.NYSE",
+    "name": "Skeena Resources Limited",
+    "ticker": "SKE",
+    "logoUrl": "/companies-assets/SKE.NYSE.svg",
+    "website": "https://skeenaresources.com",
+    "country": "Canada",
+    "type": "Gold Exploration & Development / Golden Triangle",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Exploration & Development / Golden Triangle"
+      }
+    ]
+  },
+  {
+    "id": "SKE.TSX",
+    "name": "Skeena Resources Limited",
+    "ticker": "SKE",
+    "logoUrl": "/companies-assets/SKE.TSX.svg",
+    "website": "https://skeenaresources.com",
+    "country": "Canada",
+    "type": "Developer",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Developer"
+      }
+    ]
   },
   {
     "id": "SYH.TSX",
     "name": "Skyharbour Resources Ltd.",
     "ticker": "SYH",
-    "website": "https://www.skyharbourltd.com",
+    "logoUrl": "/companies-assets/SYH.TSX.png",
+    "website": "https://skyharbourltd.com",
     "country": "Canada",
-    "type": "Uranium Exploration (Nuclear)"
+    "type": "Uranium Project Generator",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Project Generator"
+      }
+    ]
+  },
+  {
+    "id": "SNOW.NYSE",
+    "name": "Snowflake Inc.",
+    "ticker": "SNOW",
+    "logoUrl": "/companies-assets/SNOW.NYSE.svg",
+    "website": "https://www.snowflake.com",
+    "country": "United States",
+    "type": "Data Cloud / AI Data Management",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Data Cloud / AI Data Management"
+      }
+    ]
+  },
+  {
+    "id": "SGD.TSX",
+    "name": "Snowline Gold Corp.",
+    "ticker": "SGD",
+    "logoUrl": "/companies-assets/SGD.TSX.png",
+    "website": "https://snowlinegold.com",
+    "country": "Canada",
+    "type": "Explorer",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Explorer"
+      }
+    ]
+  },
+  {
+    "id": "SQM.NYSE",
+    "name": "Sociedad Química y Minera de Chile S.A.",
+    "ticker": "SQM",
+    "logoUrl": "/companies-assets/SQM.NYSE.svg",
+    "website": "https://www.sqm.com",
+    "country": "Chile",
+    "type": "Lithium Mining & Specialty Chemicals",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Lithium Mining & Specialty Chemicals"
+      }
+    ]
+  },
+  {
+    "id": "SEDG.NASDAQ",
+    "name": "SolarEdge Technologies, Inc.",
+    "ticker": "SEDG",
+    "logoUrl": "/companies-assets/SEDG.NASDAQ.svg",
+    "website": "https://www.solaredge.com",
+    "country": "United States",
+    "type": "Solar Inverters / Power Optimizers",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Solar Inverters / Power Optimizers"
+      }
+    ]
+  },
+  {
+    "id": "SLDP.NASDAQ",
+    "name": "Solid Power, Inc.",
+    "ticker": "SLDP",
+    "logoUrl": "/companies-assets/SLDP.NASDAQ.svg",
+    "website": "https://www.solidpowerbattery.com",
+    "country": "United States",
+    "type": "Solid-State Battery Development",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Solid-State Battery Development"
+      }
+    ]
   },
   {
     "id": "SCCO.NYSE",
     "name": "Southern Copper Corporation",
     "ticker": "SCCO",
+    "logoUrl": "/companies-assets/SCCO.NYSE.svg",
     "website": "https://www.southerncoppercorp.com",
-    "country": "USA / Mexico",
-    "type": "Copper Mining & Processing (Electrification)"
+    "country": "United States",
+    "type": "Copper Mining",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Copper Mining"
+      }
+    ]
   },
   {
-    "id": "SQM.NYSE",
-    "name": "SQM (Sociedad Química y Minera de Chile)",
-    "ticker": "SQM",
-    "website": "https://www.sqm.com",
-    "country": "Chile",
-    "type": "Lithium & Specialty Chemicals (Electrification)"
+    "id": "GLD.NYSE",
+    "name": "SPDR Gold Trust",
+    "ticker": "GLD",
+    "logoUrl": "/companies-assets/GLD.NYSE.jpg",
+    "website": "https://www.spdrgoldshares.com",
+    "country": "United States",
+    "type": "Gold ETF/Trust",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold ETF/Trust"
+      }
+    ]
+  },
+  {
+    "id": "SPIR.NYSE",
+    "name": "Spire Global, Inc.",
+    "ticker": "SPIR",
+    "logoUrl": "/companies-assets/SPIR.NYSE.svg",
+    "website": "https://spire.com",
+    "country": "United States",
+    "type": "Space-based Data & Analytics",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Space-based Data & Analytics"
+      }
+    ]
+  },
+  {
+    "id": "SETM.NASDAQ",
+    "name": "Sprott Energy Transition Materials ETF",
+    "ticker": "SETM",
+    "logoUrl": "/companies-assets/SETM.NASDAQ.svg",
+    "website": "https://www.sprottetfs.com/setm-sprott-energy-transition-materials-etf/",
+    "country": "United States",
+    "type": "Thematic Diversification",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Thematic Diversification"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Investment Fund"
+      }
+    ]
+  },
+  {
+    "id": "PHYS.NYSE",
+    "name": "Sprott Physical Gold Trust",
+    "ticker": "PHYS",
+    "logoUrl": "/companies-assets/PHYS.NYSE.svg",
+    "website": "https://sprott.com/investment-strategies/physical-bullion-trusts/gold/",
+    "country": "Canada",
+    "type": "Gold ETF/Trust",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold ETF/Trust"
+      }
+    ]
+  },
+  {
+    "id": "U.UN.TSX",
+    "name": "Sprott Physical Uranium Trust",
+    "ticker": "U.UN",
+    "logoUrl": "/companies-assets/U.UN.TSX.svg",
+    "website": "https://sprott.com/investment-strategies/physical-commodity-funds/uranium/",
+    "country": "Canada",
+    "type": "Physical Uranium Investment Vehicle",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Physical Uranium Investment Vehicle"
+      }
+    ]
+  },
+  {
+    "id": "URNM.NYSE",
+    "name": "Sprott Uranium Miners ETF",
+    "ticker": "URNM",
+    "logoUrl": "/companies-assets/URNM.NYSE.png",
+    "website": "https://sprottetfs.com/urnm-sprott-uranium-miners-etf/",
+    "country": "United States",
+    "type": "Thematic ETF",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Thematic ETF"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Uranium Sector ETF"
+      }
+    ]
+  },
+  {
+    "id": "SSRM.NASDAQ",
+    "name": "SSR Mining Inc.",
+    "ticker": "SSRM",
+    "logoUrl": "/companies-assets/SSRM.NASDAQ.svg",
+    "website": "https://www.ssrmining.com",
+    "country": "United States",
+    "type": "Intermediate Gold Producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Intermediate Gold Producer"
+      }
+    ]
   },
   {
     "id": "STUD.TSX",
     "name": "Stallion Uranium Corp.",
     "ticker": "STUD",
-    "website": "https://www.stallionuranium.com",
+    "logoUrl": "/companies-assets/STUD.TSX.svg",
+    "website": "https://stallionuranium.com",
     "country": "Canada",
-    "type": "Uranium Exploration (Nuclear)"
+    "type": "Uranium Explorer",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Explorer"
+      }
+    ]
+  },
+  {
+    "id": "STLD.NASDAQ",
+    "name": "Steel Dynamics, Inc.",
+    "ticker": "STLD",
+    "logoUrl": "/companies-assets/STLD.NASDAQ.svg",
+    "website": "https://www.steeldynamics.com",
+    "country": "United States",
+    "type": "Steel Production / US Domestic Supply",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Steel Production / US Domestic Supply"
+      }
+    ]
+  },
+  {
+    "id": "STM.NYSE",
+    "name": "STMicroelectronics N.V.",
+    "ticker": "STM",
+    "logoUrl": "/companies-assets/STM.NYSE.svg",
+    "website": "https://www.st.com",
+    "country": "Switzerland",
+    "type": "Power Semiconductors / SiC Technology",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Power Semiconductors / SiC Technology"
+      }
+    ]
+  },
+  {
+    "id": "SRA.TSXV",
+    "name": "Stria Lithium Inc.",
+    "ticker": "SRA",
+    "logoUrl": "/companies-assets/SRA.TSXV.svg",
+    "website": "https://strialithium.com/",
+    "country": "Canada",
+    "type": "Lithium Exploration and Development",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Lithium Exploration and Development"
+      },
+      {
+        "thesis_name": "Gold",
+        "company_type": "Lithium Exploration"
+      }
+    ]
+  },
+  {
+    "id": "RUN.NASDAQ",
+    "name": "Sunrun Inc.",
+    "ticker": "RUN",
+    "logoUrl": "/companies-assets/RUN.NASDAQ.svg",
+    "website": "https://www.sunrun.com",
+    "country": "United States",
+    "type": "Residential Solar & Storage",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Residential Solar & Storage"
+      }
+    ]
+  },
+  {
+    "id": "SMCI.NASDAQ",
+    "name": "Super Micro Computer, Inc.",
+    "ticker": "SMCI",
+    "logoUrl": "/companies-assets/SMCI.NASDAQ.svg",
+    "website": "https://www.supermicro.com",
+    "country": "United States",
+    "type": "Server Solutions / AI Infrastructure",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Server Solutions / AI Infrastructure"
+      }
+    ]
   },
   {
     "id": "SYR.ASX",
     "name": "Syrah Resources Limited",
     "ticker": "SYR",
+    "logoUrl": "/companies-assets/SYR.ASX.png",
     "website": "https://www.syrahresources.com.au",
     "country": "Australia",
-    "type": "Graphite Mining & Battery Material Technology (Reshoring)"
+    "type": "Graphite producer for Western anode supply chain",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Graphite producer for Western anode supply chain"
+      }
+    ]
+  },
+  {
+    "id": "TSM.NYSE",
+    "name": "Taiwan Semiconductor Manufacturing Company Limited",
+    "ticker": "TSM",
+    "logoUrl": "/companies-assets/TSM.NYSE.svg",
+    "website": "https://www.tsmc.com",
+    "country": "Taiwan",
+    "type": "Foundry / Semiconductor Manufacturing",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Foundry / Semiconductor Manufacturing"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Semiconductor Manufacturing / Arizona Fab Development"
+      }
+    ]
+  },
+  {
+    "id": "TECK.NYSE",
+    "name": "Teck Resources Limited",
+    "ticker": "TECK",
+    "logoUrl": "/companies-assets/TECK.NYSE.svg",
+    "website": "https://www.teck.com",
+    "country": "Canada",
+    "type": "Copper Miner",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Copper Miner"
+      }
+    ]
+  },
+  {
+    "id": "TER.NASDAQ",
+    "name": "Teradyne, Inc.",
+    "ticker": "TER",
+    "logoUrl": "/companies-assets/TER.NASDAQ.svg",
+    "website": "https://www.teradyne.com",
+    "country": "United States",
+    "type": "Defense Electronics Testing and Automation",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Defense Electronics Testing and Automation"
+      },
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Industrial Automation and Testing"
+      }
+    ]
+  },
+  {
+    "id": "LLAP.NYSE",
+    "name": "Terran Orbital Corporation",
+    "ticker": "LLAP",
+    "logoUrl": "/companies-assets/LLAP.NYSE.svg",
+    "website": "https://terranorbital.com",
+    "country": "United States",
+    "type": "Satellite Solutions / Defense Space",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Satellite Solutions / Defense Space"
+      }
+    ]
+  },
+  {
+    "id": "TSLA.NASDAQ",
+    "name": "Tesla, Inc.",
+    "ticker": "TSLA",
+    "logoUrl": "/companies-assets/TSLA.NASDAQ.svg",
+    "website": "https://www.tesla.com",
+    "country": "United States",
+    "type": "Electric Vehicle Manufacturer / Battery Technology",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Electric Vehicle Manufacturer / Battery Technology"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "EV & Battery Manufacturing / Vertical Integration in US"
+      }
+    ]
+  },
+  {
+    "id": "TXN.NASDAQ",
+    "name": "Texas Instruments Incorporated",
+    "ticker": "TXN",
+    "logoUrl": "/companies-assets/TXN.NASDAQ.svg",
+    "website": "https://www.ti.com",
+    "country": "United States",
+    "type": "Analog & Embedded Processing / US Manufacturing Expansion",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Analog & Embedded Processing / US Manufacturing Expansion"
+      }
+    ]
+  },
+  {
+    "id": "TXT.NYSE",
+    "name": "Textron Inc.",
+    "ticker": "TXT",
+    "logoUrl": "/companies-assets/TXT.NYSE.svg",
+    "website": "https://www.textron.com",
+    "country": "United States",
+    "type": "Aerospace & Defense / Helicopters",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Aerospace & Defense / Helicopters"
+      }
+    ]
+  },
+  {
+    "id": "BA.NYSE",
+    "name": "The Boeing Company",
+    "ticker": "BA",
+    "logoUrl": "/companies-assets/BA.NYSE.svg",
+    "website": "https://www.boeing.com",
+    "country": "United States",
+    "type": "Prime Contractor / Military Aircraft & Satellites",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Prime Contractor / Military Aircraft & Satellites"
+      }
+    ]
+  },
+  {
+    "id": "GS.NYSE",
+    "name": "The Goldman Sachs Group, Inc.",
+    "ticker": "GS",
+    "logoUrl": "/companies-assets/GS.NYSE.svg",
+    "website": "https://www.goldmansachs.com",
+    "country": "United States",
+    "type": "Financial Services and Investment Banking",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Financial Services and Investment Banking"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Financial Services and Investment Research"
+      }
+    ]
+  },
+  {
+    "id": "SO.NYSE",
+    "name": "The Southern Company",
+    "ticker": "SO",
+    "logoUrl": "/companies-assets/SO.NYSE.svg",
+    "website": "https://www.southerncompany.com",
+    "country": "United States",
+    "type": "Nuclear Power Generation / Vogtle Plant Operator",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Nuclear Power Generation / Vogtle Plant Operator"
+      }
+    ]
+  },
+  {
+    "id": "TRI.NYSE",
+    "name": "Thomson Reuters Corporation",
+    "ticker": "TRI",
+    "logoUrl": "/companies-assets/TRI.NYSE.svg",
+    "website": "https://www.thomsonreuters.com",
+    "country": "Canada",
+    "type": "AI-enabled legal software provider",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "AI-enabled legal software provider"
+      }
+    ]
   },
   {
     "id": "TOE.ASX",
     "name": "Toro Energy Limited",
     "ticker": "TOE",
+    "logoUrl": "/companies-assets/TOE.ASX.png",
     "website": "https://www.toroenergy.com.au",
     "country": "Australia",
-    "type": "Uranium Development & Exploration (Nuclear)"
+    "type": "Uranium Explorer",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Explorer"
+      }
+    ]
+  },
+  {
+    "id": "TDG.NYSE",
+    "name": "TransDigm Group Incorporated",
+    "ticker": "TDG",
+    "logoUrl": "/companies-assets/TDG.NYSE.svg",
+    "website": "https://www.transdigm.com",
+    "country": "United States",
+    "type": "Aerospace Components / Aftermarket Parts",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Aerospace Components / Aftermarket Parts"
+      }
+    ]
+  },
+  {
+    "id": "TFPM.NYSE",
+    "name": "Triple Flag Precious Metals Corp.",
+    "ticker": "TFPM",
+    "logoUrl": "/companies-assets/TFPM.NYSE.svg",
+    "website": "https://www.tripleflagpm.com",
+    "country": "Canada",
+    "type": "Gold Royalty & Streaming / Intermediate",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Royalty & Streaming / Intermediate"
+      }
+    ]
+  },
+  {
+    "id": "TUD.TSX",
+    "name": "Tudor Gold Corp.",
+    "ticker": "TUD",
+    "logoUrl": "/companies-assets/TUD.TSX.png",
+    "website": "https://tudor-gold.com/",
+    "country": "Canada",
+    "type": "Gold Exploration and Development",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold Exploration and Development"
+      }
+    ]
+  },
+  {
+    "id": "UCU.TSX",
+    "name": "Ucore Rare Metals Inc.",
+    "ticker": "UCU",
+    "logoUrl": "/companies-assets/UCU.TSX.png",
+    "website": "https://ucore.com",
+    "country": "Canada",
+    "type": "Mine-to-Magnet operator",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Mine-to-Magnet operator"
+      }
+    ]
+  },
+  {
+    "id": "UNP.NYSE",
+    "name": "Union Pacific Corporation",
+    "ticker": "UNP",
+    "logoUrl": "/companies-assets/UNP.NYSE.svg",
+    "website": "https://www.up.com",
+    "country": "United States",
+    "type": "Logistics / Rail Transport for US Industrial Goods",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Logistics / Rail Transport for US Industrial Goods"
+      }
+    ]
+  },
+  {
+    "id": "URI.NYSE",
+    "name": "United Rentals, Inc.",
+    "ticker": "URI",
+    "logoUrl": "/companies-assets/URI.NYSE.svg",
+    "website": "https://www.unitedrentals.com",
+    "country": "United States",
+    "type": "Equipment Rental / Support for US Factory Construction",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Equipment Rental / Support for US Factory Construction"
+      }
+    ]
+  },
+  {
+    "id": "USAR.NYSE",
+    "name": "United States Antimony Corporation",
+    "ticker": "USAR",
+    "logoUrl": "/companies-assets/USAR.NYSE.png",
+    "website": "https://www.usantimony.com",
+    "country": "United States",
+    "type": "Strategic mineral producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Strategic mineral producer"
+      }
+    ]
+  },
+  {
+    "id": "X.NYSE",
+    "name": "United States Steel Corporation",
+    "ticker": "X",
+    "logoUrl": "/companies-assets/X.NYSE.svg",
+    "website": "https://www.ussteel.com",
+    "country": "United States",
+    "type": "Steel Production / Strategic US Asset",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Steel Production / Strategic US Asset"
+      }
+    ]
   },
   {
     "id": "URG.NYSE",
     "name": "Ur-Energy Inc.",
     "ticker": "URG",
+    "logoUrl": "/companies-assets/URG.NYSE.svg",
     "website": "https://www.ur-energy.com",
-    "country": "USA",
-    "type": "Uranium Mining (Nuclear)"
+    "country": "United States",
+    "type": "Uranium Miner",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Miner"
+      }
+    ]
   },
   {
     "id": "UROY.NASDAQ",
     "name": "Uranium Royalty Corp.",
     "ticker": "UROY",
+    "logoUrl": "/companies-assets/UROY.NASDAQ.svg",
     "website": "https://www.uraniumroyalty.com",
     "country": "Canada",
-    "type": "Uranium Royalty & Streaming (Nuclear)"
+    "type": "Uranium Royalty & Streaming",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Royalty & Streaming"
+      }
+    ]
+  },
+  {
+    "id": "UROY.TSX",
+    "name": "Uranium Royalty Corp.",
+    "ticker": "UROY",
+    "logoUrl": "/companies-assets/UROY.TSX.svg",
+    "website": "https://www.uraniumroyalty.com/",
+    "country": "Canada",
+    "type": "Uranium Royalty Company",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Royalty Company"
+      }
+    ]
+  },
+  {
+    "id": "SETM.NYSE",
+    "name": "VanEck Rare Earth/Strategic Metals ETF",
+    "ticker": "SETM",
+    "logoUrl": "/companies-assets/SETM.NYSE.svg",
+    "website": "https://www.vaneck.com/us/en/investments/rare-earth-strategic-metals-etf-remx/",
+    "country": "United States",
+    "type": "Investment vehicle",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Investment vehicle"
+      }
+    ]
+  },
+  {
+    "id": "NLR.NYSE",
+    "name": "VanEck Uranium and Nuclear Energy ETF",
+    "ticker": "NLR",
+    "logoUrl": "/companies-assets/NLR.NYSE.svg",
+    "website": "https://www.vaneck.com/us/en/investments/uranium-nuclear-energy-etf-nlr/",
+    "country": "United States",
+    "type": "Thematic ETF",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Thematic ETF"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Nuclear Sector ETF"
+      }
+    ]
   },
   {
     "id": "VG.NYSE",
-    "name": "Venture Global LNG",
+    "name": "Venture Global LNG, Inc.",
     "ticker": "VG",
-    "website": "https://ventureglobal.com",
-    "country": "USA",
-    "type": "LNG Production & Export (Reshoring)"
+    "logoUrl": "/companies-assets/VG.NYSE.svg",
+    "website": "https://venturegloballng.com",
+    "country": "United States",
+    "type": "U.S. LNG exporter",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "U.S. LNG exporter"
+      }
+    ]
   },
   {
     "id": "VRT.NYSE",
-    "name": "Vertiv Holdings Co.",
+    "name": "Vertiv Holdings Co",
     "ticker": "VRT",
+    "logoUrl": "/companies-assets/VRT.NYSE.svg",
     "website": "https://www.vertiv.com",
-    "country": "USA",
-    "type": "AI Infrastructure / Data Center Hardware (AI)"
+    "country": "United States",
+    "type": "Data Center Cooling & Power",
+    "investment_theses": [
+      {
+        "thesis_name": "AI",
+        "company_type": "Data Center Cooling & Power"
+      },
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Critical Digital Infrastructure / Power Management for Data Centers"
+      }
+    ]
+  },
+  {
+    "id": "VSAT.NASDAQ",
+    "name": "Viasat, Inc.",
+    "ticker": "VSAT",
+    "logoUrl": "/companies-assets/VSAT.NASDAQ.svg",
+    "website": "https://www.viasat.com",
+    "country": "United States",
+    "type": "Satellite Communications / Defense Networks",
+    "investment_theses": [
+      {
+        "thesis_name": "Defense",
+        "company_type": "Satellite Communications / Defense Networks"
+      }
+    ]
+  },
+  {
+    "id": "VGCX.TSX",
+    "name": "Victoria Gold Corp.",
+    "ticker": "VGCX",
+    "logoUrl": "/companies-assets/VGCX.TSX.svg",
+    "website": "https://vgcx.com",
+    "country": "Canada",
+    "type": "Junior Gold Producer / Yukon Focus",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Junior Gold Producer / Yukon Focus"
+      }
+    ]
+  },
+  {
+    "id": "VGZ.NYSE",
+    "name": "Vista Gold Corp.",
+    "ticker": "VGZ",
+    "logoUrl": "/companies-assets/VGZ.NYSE.svg",
+    "website": "https://www.vistagold.com",
+    "country": "Canada",
+    "type": "Developer",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Developer"
+      },
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Gold Mining"
+      }
+    ]
   },
   {
     "id": "VST.NYSE",
     "name": "Vistra Corp.",
     "ticker": "VST",
+    "logoUrl": "/companies-assets/VST.NYSE.svg",
     "website": "https://www.vistracorp.com",
-    "country": "USA",
-    "type": "Nuclear Utility & Integrated Power (Nuclear)"
+    "country": "United States",
+    "type": "Nuclear Power Generation / Integrated Utility",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Nuclear Power Generation / Integrated Utility"
+      }
+    ]
   },
   {
-    "id": "WUC.CSE",
+    "id": "WBX.NYSE",
+    "name": "Wallbox N.V.",
+    "ticker": "WBX",
+    "logoUrl": "/companies-assets/WBX.NYSE.svg",
+    "website": "https://wallbox.com",
+    "country": "Spain",
+    "type": "Smart EV Charging Solutions",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Smart EV Charging Solutions"
+      }
+    ]
+  },
+  {
+    "id": "WDO.TSX",
+    "name": "Wesdome Gold Mines Ltd.",
+    "ticker": "WDO",
+    "logoUrl": "/companies-assets/WDO.TSX.svg",
+    "website": "https://www.wesdome.com",
+    "country": "Canada",
+    "type": "Junior Gold Producer / Canadian Focus",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Junior Gold Producer / Canadian Focus"
+      }
+    ]
+  },
+  {
+    "id": "WMG.TSX",
+    "name": "Western Magnesium Corporation",
+    "ticker": "WMG",
+    "logoUrl": "/companies-assets/WMG.TSX.png",
+    "website": "https://westernmagnesium.com",
+    "country": "Canada",
+    "type": "Magnesium Producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Magnesium Producer"
+      }
+    ]
+  },
+  {
+    "id": "WUC.TSX",
     "name": "Western Uranium & Vanadium Corp.",
     "ticker": "WUC",
-    "website": "https://www.western-uranium.com",
-    "country": "USA / Canada",
-    "type": "Uranium & Vanadium Mining (Nuclear)"
+    "logoUrl": "/companies-assets/WUC.TSX.svg",
+    "website": "https://western-uranium.com",
+    "country": "Canada",
+    "type": "Uranium Producer",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Uranium Producer"
+      }
+    ]
   },
   {
-    "id": "WDEP",
-    "name": "WisdomTree Europe Defence UCITS ETF",
-    "ticker": "WDEP",
-    "website": "https://www.wisdomtree.eu/en-gb/etfs/thematic/wdep---wisdomtree-europe-defence-ucits-etf---eur-acc",
-    "country": "Ireland / Europe",
-    "type": "European Defense ETF (Defense)"
+    "id": "WPM.NYSE",
+    "name": "Wheaton Precious Metals Corp.",
+    "ticker": "WPM",
+    "logoUrl": "/companies-assets/WPM.NYSE.svg",
+    "website": "https://www.wheatonpm.com",
+    "country": "Canada",
+    "type": "Gold & Silver Streaming / Large-Cap",
+    "investment_theses": [
+      {
+        "thesis_name": "Gold",
+        "company_type": "Gold & Silver Streaming / Large-Cap"
+      }
+    ]
+  },
+  {
+    "id": "WOLF.NYSE",
+    "name": "Wolfspeed, Inc.",
+    "ticker": "WOLF",
+    "logoUrl": "/companies-assets/WOLF.NYSE.svg",
+    "website": "https://www.wolfspeed.com",
+    "country": "United States",
+    "type": "Silicon Carbide (SiC) Power Semiconductors",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Silicon Carbide (SiC) Power Semiconductors"
+      },
+      {
+        "thesis_name": "Reshoring",
+        "company_type": "Silicon Carbide (SiC) Manufacturing / US Expansion"
+      }
+    ]
+  },
+  {
+    "id": "XPEV.NYSE",
+    "name": "XPeng Inc.",
+    "ticker": "XPEV",
+    "logoUrl": "/companies-assets/XPEV.NYSE.svg",
+    "website": "https://www.xiaopeng.com",
+    "country": "China",
+    "type": "Chinese Electric Vehicle Manufacturer / Smart EV Technology",
+    "investment_theses": [
+      {
+        "thesis_name": "Electrification",
+        "company_type": "Chinese Electric Vehicle Manufacturer / Smart EV Technology"
+      }
+    ]
+  },
+  {
+    "id": "YCA.LSE",
+    "name": "Yellow Cake plc",
+    "ticker": "YCA",
+    "logoUrl": "/companies-assets/YCA.LSE.svg",
+    "website": "https://www.yellowcakeplc.com",
+    "country": "Jersey",
+    "type": "Physical Uranium Investment Vehicle",
+    "investment_theses": [
+      {
+        "thesis_name": "Nuclear",
+        "company_type": "Physical Uranium Investment Vehicle"
+      }
+    ]
   }
 ]

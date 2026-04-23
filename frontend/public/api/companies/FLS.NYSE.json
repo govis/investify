@@ -2,9 +2,15 @@
   "id": "FLS.NYSE",
   "name": "Flowserve Corporation",
   "ticker": "FLS",
-  "logoUrl": "https://www.flowserve.com/static/images/logo.png",
+  "logoUrl": "/companies-assets/FLS.NYSE.svg",
   "website": "https://www.flowserve.com",
-  "country": "USA",
-  "type": "Nuclear-Grade Components & Flow Control (Nuclear)",
-  "content": "<p>Flowserve is a global leader in flow control solutions, manufacturing high-performance pumps, valves, and mechanical seals for critical industrial applications. The company is a major supplier of nuclear-grade components for both commercial power plants and naval reactors. Flowserve’s specialized expertise and its acquisition of nuclear-focused assets (like Trillium) position it as a key beneficiary of the increased investment in nuclear EPC (Engineering, Procurement, and Construction) and the modernization of global electricity grids.</p>\n"
+  "country": "United States",
+  "type": "Nuclear EPC Services",
+  "investment_theses": [
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "Nuclear EPC Services"
+    }
+  ],
+  "content": "<p>Flowserve Corporation is a leading manufacturer and aftermarket service provider of comprehensive flow control systems. The company designs and manufactures industrial pumps, seals, and valves, while also providing a range of related flow management services. Flowserve serves a variety of industries, including oil and gas, chemical, power generation, water management, and general industrial markets. With a history spanning over 200 years, the company operates in more than 50 countries, offering highly engineered solutions that help customers move, control, and protect the flow of materials in some of the world's most critical applications.</p>\n"
 }

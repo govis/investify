@@ -2,9 +2,15 @@
   "id": "EL8.ASX",
   "name": "Elevate Uranium Limited",
   "ticker": "EL8",
-  "logoUrl": "https://companieslogo.com/img/orig/EL8.AX-69966664.png?t=1720247441",
+  "logoUrl": "/companies-assets/EL8.ASX.svg",
   "website": "https://www.elevateuranium.com.au",
   "country": "Australia",
-  "type": "Uranium Exploration & Development (Nuclear)",
-  "content": "<p>Elevate Uranium is one of the most active uranium-focused companies on the ASX, holding a global resource base of over 150 million pounds of U3O8 across Namibia and Australia. A key differentiator for the company is its patented &quot;U-pgrade™&quot; process, a disruptive beneficiation technology designed to reduce mass by 98% and increase uranium grade by up to 50x before leaching, potentially cutting capital and operating costs by half compared to conventional processing. With a proven track record of discovery and a dominant land position in Namibia, Elevate Uranium is strategically positioned to meet the growing global demand for carbon-free nuclear energy.</p>\n"
+  "type": "Uranium Explorer",
+  "investment_theses": [
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "Uranium Explorer"
+    }
+  ],
+  "content": "<p>Elevate Uranium Limited is an Australian-based uranium exploration company with a significant portfolio of assets in Namibia and Australia. The company is focused on the exploration and development of its uranium projects, leveraging its proprietary U-pgrade™ beneficiation process, which is designed to significantly reduce capital and operating costs by concentrating uranium ore. With a large resource base in Namibia, a premier uranium mining jurisdiction, and additional projects in the Northern Territory and Western Australia, Elevate Uranium is well-positioned to capitalize on the growing global demand for nuclear energy.</p>\n"
 }

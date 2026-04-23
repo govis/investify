@@ -1,10 +1,16 @@
 {
   "id": "ATRL.TSX",
-  "name": "AtkinsRéalis",
+  "name": "AtkinsRéalis Group Inc.",
   "ticker": "ATRL",
-  "logoUrl": "https://www.atkinsrealis.com/static/images/atkinsrealis-logo.svg",
+  "logoUrl": "/companies-assets/ATRL.TSX.svg",
   "website": "https://www.atkinsrealis.com",
   "country": "Canada",
-  "type": "Nuclear Engineering & EPC Services (Nuclear)",
-  "content": "<p>AtkinsRéalis (formerly SNC-Lavalin) is a global professional services and project management company and a leader in nuclear engineering. The company provides full-lifecycle services for nuclear power plants, including design, construction, maintenance, and decommissioning. As the steward of CANDU reactor technology, AtkinsRéalis is a critical player in the global nuclear supply chain, benefiting from the renewed interest in large-scale nuclear projects and the rehabilitation of nuclear infrastructure in allied markets.</p>\n"
+  "type": "CANDU Reactor Technology / Nuclear Services",
+  "investment_theses": [
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "CANDU Reactor Technology / Nuclear Services"
+    }
+  ],
+  "content": "<p>AtkinsRéalis Group Inc., formerly known as SNC-Lavalin Group Inc., is a world-leading professional services and project management company. Headquartered in Montreal, Canada, the firm provides a comprehensive range of services including engineering, procurement, construction, and operations across various sectors such as nuclear, clean energy, and infrastructure. As the steward of CANDU nuclear technology, AtkinsRéalis plays a critical role in the global nuclear industry, offering full-lifecycle services for nuclear power plants. The company is dedicated to engineering a better future for our planet and its people through sustainable and innovative solutions.</p>\n"
 }

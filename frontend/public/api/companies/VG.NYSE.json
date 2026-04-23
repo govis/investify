@@ -1,10 +1,16 @@
 {
   "id": "VG.NYSE",
-  "name": "Venture Global LNG",
+  "name": "Venture Global LNG, Inc.",
   "ticker": "VG",
-  "logoUrl": "https://ventureglobal.com/wp-content/themes/venture-global/assets/images/logo.png",
-  "website": "https://ventureglobal.com",
-  "country": "USA",
-  "type": "LNG Production & Export (Reshoring)",
-  "content": "<p>Venture Global LNG is a long-term, low-cost provider of American liquefied natural gas. The company utilizes a highly efficient modular construction process to develop its export facilities, including Calcasieu Pass and Plaquemines LNG. Venture Global is a major disruptor in the LNG market, focusing on meeting the growing global demand for secure and affordable energy through massive capacity expansion and innovative financing.</p>\n"
+  "logoUrl": "/companies-assets/VG.NYSE.svg",
+  "website": "https://venturegloballng.com",
+  "country": "United States",
+  "type": "U.S. LNG exporter",
+  "investment_theses": [
+    {
+      "thesis_name": "Reshoring",
+      "company_type": "U.S. LNG exporter"
+    }
+  ],
+  "content": "<p>Venture Global LNG is a long-term, low-cost provider of American-produced liquefied natural gas (LNG) sourced from resource-rich North American natural gas basins. The company is developing a series of LNG export terminals in Louisiana, including the Calcasieu Pass, Plaquemines LNG, and CP2 LNG facilities. By utilizing a highly efficient, mid-scale liquefaction technology, Venture Global aims to provide clean and reliable energy to global markets while maintaining a commitment to environmental sustainability and operational excellence in the energy infrastructure sector.</p>\n"
 }

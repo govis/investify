@@ -2,9 +2,19 @@
   "id": "BWXT.NYSE",
   "name": "BWX Technologies, Inc.",
   "ticker": "BWXT",
-  "logoUrl": "https://www.bwxt.com/static/images/bwxt-logo.png",
+  "logoUrl": "/companies-assets/BWXT.NYSE.svg",
   "website": "https://www.bwxt.com",
-  "country": "USA",
-  "type": "Nuclear Components & Fuel Manufacturing (Nuclear)",
-  "content": "<p>BWX Technologies (BWXT) is a specialty manufacturer of nuclear components and fuel, primarily serving the U.S. government and the commercial nuclear power industry. The company is a key supplier for the Naval Nuclear Propulsion Program and provides critical engineering and manufacturing services for Small Modular Reactors (SMRs) and advanced nuclear technologies. With a massive backlog and a dominant position in nuclear engineering, BWXT is a central proxy for the Western onshoring of critical nuclear infrastructure.</p>\n"
+  "country": "United States",
+  "type": "Nuclear Components / Naval Propulsion",
+  "investment_theses": [
+    {
+      "thesis_name": "Defense",
+      "company_type": "Nuclear Components / Naval Propulsion"
+    },
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "Nuclear Components / SMR Development / Naval Propulsion"
+    }
+  ],
+  "content": "<p>BWX Technologies, Inc. is a leading supplier of nuclear components and fuel to the U.S. government, providing technical and manufacturing services to support the nation's nuclear fleet and national security programs. The company specializes in the design and manufacture of precision nuclear components, including reactor cores and steam generators, for the U.S. Navy's nuclear-powered submarines and aircraft carriers. Additionally, BWXT is a pioneer in the development of small modular reactors (SMRs) and advanced nuclear technologies for commercial power generation and space exploration, while also providing specialized nuclear medicine and environmental restoration services.</p>\n"
 }

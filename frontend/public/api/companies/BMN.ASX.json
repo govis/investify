@@ -2,9 +2,15 @@
   "id": "BMN.ASX",
   "name": "Bannerman Energy Ltd",
   "ticker": "BMN",
-  "logoUrl": "https://www.bannermanenergy.com/wp-content/themes/bannerman/assets/images/logo.png",
-  "website": "https://www.bannermanenergy.com",
+  "logoUrl": "/companies-assets/BMN.ASX.png",
+  "website": "https://bannermanenergy.com",
   "country": "Australia",
-  "type": "Uranium Development (Nuclear)",
-  "content": "<p>Bannerman Energy is an Australian-listed uranium development company. Its flagship asset is the 95%-owned Etango Uranium Project in Namibia, which is one of the world's largest undeveloped uranium deposits. Etango is a world-class, long-life asset that has been significantly de-risked through extensive technical work and permitting. Bannerman is positioned as a primary beneficiary of the structural shift in the uranium market, offering significant leverage to the nuclear renaissance.</p>\n"
+  "type": "Uranium Development / Etango Project",
+  "investment_theses": [
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "Uranium Development / Etango Project"
+    }
+  ],
+  "content": "<p>Bannerman Energy Ltd is an Australian-listed uranium development company focused on its flagship Etango Uranium Project in Namibia. Located in the Erongo Region, Etango is one of the world's largest undeveloped uranium assets, possessing a significant mineral resource and a completed Definitive Feasibility Study. The company is dedicated to the responsible development of this project to meet the growing global demand for carbon-free nuclear energy. Bannerman leverages its long-standing presence in Namibia and strong environmental, social, and governance (ESG) commitments to advance Etango toward production.</p>\n"
 }

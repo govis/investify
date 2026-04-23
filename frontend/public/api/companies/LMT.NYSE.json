@@ -2,9 +2,15 @@
   "id": "LMT.NYSE",
   "name": "Lockheed Martin Corporation",
   "ticker": "LMT",
-  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Lockheed_Martin_logo.svg/2560px-Lockheed_Martin_logo.svg.png",
+  "logoUrl": "/companies-assets/LMT.NYSE.svg",
   "website": "https://www.lockheedmartin.com",
-  "country": "USA",
-  "type": "Aerospace & Defense Prime (Defense)",
-  "content": "<p>Lockheed Martin is the world's largest defense contractor and a global leader in aerospace, security, and advanced technologies. The company operates through four primary business segments: Aeronautics, Missiles and Fire Control, Rotary and Mission Systems, and Space. As the primary contractor for major U.S. and allied programs like the F-35 Lightning II, Lockheed Martin benefits from long-term government contracts and a massive order backlog, providing stable and predictable revenue streams in an increasingly complex geopolitical environment.</p>\n"
+  "country": "United States",
+  "type": "Prime Contractor / Aerospace & Defense Systems",
+  "investment_theses": [
+    {
+      "thesis_name": "Defense",
+      "company_type": "Prime Contractor / Aerospace & Defense Systems"
+    }
+  ],
+  "content": "<p>Lockheed Martin Corporation is a global security and aerospace company that is principally engaged in the research, design, development, manufacture, integration, and sustainment of advanced technology systems, products, and services. As a leading defense contractor, the company operates through four primary business segments: Aeronautics, Missiles and Fire Control, Rotary and Mission Systems, and Space. Lockheed Martin is renowned for producing iconic platforms such as the F-35 Lightning II, C-130 Hercules, and various missile defense systems, serving both domestic and international military and government customers.</p>\n"
 }

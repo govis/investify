@@ -2,9 +2,19 @@
   "id": "CW.NYSE",
   "name": "Curtiss-Wright Corporation",
   "ticker": "CW",
-  "logoUrl": "https://www.curtisswright.com/static/images/logo.png",
+  "logoUrl": "/companies-assets/CW.NYSE.svg",
   "website": "https://www.curtisswright.com",
-  "country": "USA",
-  "type": "Nuclear Components & Engineering (Nuclear)",
-  "content": "<p>Curtiss-Wright is an integrated global business providing highly engineered products and services to the aerospace, defense, and energy markets. The company is a strategic supplier of critical components for nuclear submarines and commercial nuclear power plants, including advanced reactor coolant pumps and control systems. Curtiss-Wright’s deep technical expertise and its long-standing relationship with the nuclear industry make it an essential player in the revitalization of the nuclear supply chain.</p>\n"
+  "country": "United States",
+  "type": "Defense Components / Naval & Aerospace",
+  "investment_theses": [
+    {
+      "thesis_name": "Defense",
+      "company_type": "Defense Components / Naval & Aerospace"
+    },
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "Nuclear Pumps & Valves / SMR Supply Chain"
+    }
+  ],
+  "content": "<p>Curtiss-Wright Corporation is a global integrated business that provides highly engineered products, solutions, and services mainly to the aerospace and defense markets, as well as critical technologies in demanding commercial power, process, and industrial markets. Leveraging a heritage of innovation, the company operates through three segments: Aerospace &amp; Industrial, Defense Electronics, and Naval &amp; Power. It is a leading supplier of high-tech components for nuclear power plants and naval propulsion systems, and it plays a vital role in the global supply chain for small modular reactors (SMRs) and advanced defense electronics.</p>\n"
 }

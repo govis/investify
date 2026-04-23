@@ -2,9 +2,15 @@
   "id": "CVV.TSX",
   "name": "CanAlaska Uranium Ltd.",
   "ticker": "CVV",
-  "logoUrl": "https://canalaska.com/site/assets/files/1/logo.png",
-  "website": "https://www.canalaska.com",
+  "logoUrl": "/companies-assets/CVV.TSX.svg",
+  "website": "https://canalaska.com/",
   "country": "Canada",
-  "type": "Uranium & Nickel Exploration (Nuclear)",
-  "content": "<p>CanAlaska Uranium is a Canadian &quot;project generator&quot; and active explorer holding one of the largest land positions in the Athabasca Basin, Saskatchewan—the world's premier district for high-grade uranium. The company manages a diverse portfolio of uranium, nickel, and diamond projects. By partnering with major mining companies to fund exploration, CanAlaska reduces financial risk while maintaining significant upside in multiple Tier-1 targets, including the high-grade Pike Zone discovery at its West McArthur project.</p>\n"
+  "type": "Uranium Explorer",
+  "investment_theses": [
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "Uranium Explorer"
+    }
+  ],
+  "content": "<p>CanAlaska Uranium Ltd. is a Canadian mineral exploration company focused on the acquisition and exploration of high-grade uranium deposits in the Athabasca Basin, Saskatchewan. The company holds interests in approximately 350,000 hectares (865,000 acres) of land, making it one of the largest landholders in the region. CanAlaska utilizes a project generator model, partnering with major mining companies like Cameco and Denison Mines to fund exploration while maintaining significant project equity. In addition to its primary uranium focus, the company also explores for nickel, copper, and diamonds in the Thompson Nickel Belt and other strategic locations.</p>\n"
 }

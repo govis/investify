@@ -2,9 +2,15 @@
   "id": "CCJ.NYSE",
   "name": "Cameco Corporation",
   "ticker": "CCJ",
-  "logoUrl": "https://www.cameco.com/img/cameco-logo.png",
+  "logoUrl": "/companies-assets/CCJ.NYSE.svg",
   "website": "https://www.cameco.com",
   "country": "Canada",
-  "type": "Uranium Mining & Nuclear Fuel Services (Nuclear)",
-  "content": "<p>Cameco is one of the world's largest global providers of uranium fuel and nuclear fuel services. The company operates high-grade uranium mines in Canada (McArthur River and Cigar Lake) and has a significant stake in the Westinghouse Electric Company, a leading nuclear services provider. Cameco is a foundational anchor for the nuclear renaissance, offering integrated solutions across the entire fuel cycle to meet the growing global demand for carbon-free baseload power.</p>\n"
+  "type": "Uranium Producer / Fuel Services",
+  "investment_theses": [
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "Uranium Producer / Fuel Services"
+    }
+  ],
+  "content": "<p>Cameco Corporation is one of the world’s largest global providers of the uranium fuel needed to energize a clean-air world. Based in Saskatoon, Saskatchewan, the company maintains a significant presence in the nuclear fuel cycle, including uranium mining, milling, refining, conversion, and fuel manufacturing. Cameco operates high-grade mines in Canada and Kazakhstan and provides fuel services to nuclear power plants worldwide. Through its ownership in Westinghouse Electric Company, it also provides nuclear plant technologies, products, and services, supporting the global transition to carbon-free energy.</p>\n"
 }

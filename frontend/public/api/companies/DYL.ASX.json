@@ -2,9 +2,15 @@
   "id": "DYL.ASX",
   "name": "Deep Yellow Limited",
   "ticker": "DYL",
-  "logoUrl": "https://deepyellow.com.au/wp-content/themes/deepyellow/assets/images/logo.png",
-  "website": "https://www.deepyellow.com.au",
+  "logoUrl": "/companies-assets/DYL.ASX.png",
+  "website": "https://deepyellow.com.au",
   "country": "Australia",
-  "type": "Uranium Exploration & Development (Nuclear)",
-  "content": "<p>Deep Yellow is an Australian uranium company with a dual-pillar growth strategy focused on Namibia and Western Australia. The company is advancing the Tumas Project in Namibia toward production and holds the Mulga Rock Project in Western Australia. Led by an experienced team with a track record of success in the uranium sector, Deep Yellow aims to become a significant, multi-mine uranium producer to meet the growing global demand for carbon-free energy.</p>\n"
+  "type": "Uranium Development / Tumas Project",
+  "investment_theses": [
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "Uranium Development / Tumas Project"
+    }
+  ],
+  "content": "<p>Deep Yellow Limited is an advanced Australian-based uranium exploration and development company with a primary focus on its projects in Namibia and Australia. The company is strategically positioned to become a significant global uranium producer through the development of its flagship Tumas Project in Namibia and the Mulga Rock Project in Western Australia. Led by an experienced management team with a proven track record in the uranium sector, Deep Yellow is committed to creating long-term shareholder value by executing a dual-pillar growth strategy involving both organic development and inorganic acquisitions.</p>\n"
 }

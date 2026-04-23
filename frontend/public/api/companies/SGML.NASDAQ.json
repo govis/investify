@@ -2,9 +2,15 @@
   "id": "SGML.NASDAQ",
   "name": "Sigma Lithium Corporation",
   "ticker": "SGML",
-  "logoUrl": "https://sigmalithiumcorp.com/wp-content/uploads/2021/05/logo-sigma.png",
+  "logoUrl": "/companies-assets/SGML.NASDAQ.svg",
   "website": "https://www.sigmalithiumresources.com",
-  "country": "Canada / Brazil",
-  "type": "Sustainable Lithium Production (Electrification)",
-  "content": "<p>Sigma Lithium is dedicated to producing environmentally sustainable, high-purity &quot;Green Lithium&quot; concentrate for the global electric vehicle battery supply chain. The company’s flagship Grota do Cirilo project in Brazil is one of the largest and highest-grade hard-rock lithium deposits in the world. Sigma Lithium utilizes 100% renewable energy and recycled water in its processing, setting a new global standard for sustainability in the critical minerals sector.</p>\n"
+  "country": "Canada",
+  "type": "Lithium producer",
+  "investment_theses": [
+    {
+      "thesis_name": "Electrification",
+      "company_type": "Lithium producer"
+    }
+  ],
+  "content": "<p>Sigma Lithium Corporation is a leading global lithium producer dedicated to powering the next generation of electric vehicle batteries with environmentally sustainable and high-purity lithium concentrate. The company operates the Grota do Cirilo project in Brazil, one of the largest and highest-grade hard rock lithium spodumene deposits in the world. Sigma Lithium is distinguished by its commitment to 'Green Lithium,' utilizing 100% renewable energy, 100% recycled water, and dry-stacking tailings to minimize its environmental footprint while ensuring a reliable supply chain for the global electrification transition.</p>\n"
 }

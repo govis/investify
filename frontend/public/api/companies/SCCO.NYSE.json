@@ -2,9 +2,15 @@
   "id": "SCCO.NYSE",
   "name": "Southern Copper Corporation",
   "ticker": "SCCO",
-  "logoUrl": "https://www.southerncoppercorp.com/images/logo.png",
+  "logoUrl": "/companies-assets/SCCO.NYSE.svg",
   "website": "https://www.southerncoppercorp.com",
-  "country": "USA / Mexico",
-  "type": "Copper Mining & Processing (Electrification)",
-  "content": "<p>Southern Copper Corporation is one of the largest integrated copper producers in the world and holds the industry's largest copper reserves. Majority-owned by Grupo México, the company operates major mining, smelting, and refining facilities in Peru and Mexico. Southern Copper is characterized by its lean cost structure and long-life assets, making it a high-quality defensive growth play within the global copper and electrification cycle.</p>\n"
+  "country": "United States",
+  "type": "Copper Mining",
+  "investment_theses": [
+    {
+      "thesis_name": "Electrification",
+      "company_type": "Copper Mining"
+    }
+  ],
+  "content": "<p>Southern Copper Corporation is one of the largest integrated copper producers in the world, primarily operating in Peru and Mexico. A subsidiary of Grupo México, the company focuses on the exploration, smelting, and refining of copper and other minerals. It maintains some of the world's largest copper reserves and is a significant producer of molybdenum, silver, and zinc. With a history of low-cost production and extensive mining operations, Southern Copper plays a critical role in the global supply chain for industrial and precious metals.</p>\n"
 }

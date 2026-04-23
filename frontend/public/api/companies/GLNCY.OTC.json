@@ -2,9 +2,19 @@
   "id": "GLNCY.OTC",
   "name": "Glencore plc",
   "ticker": "GLNCY",
-  "logoUrl": "https://www.glencore.com/assets/images/logo.svg",
+  "logoUrl": "/companies-assets/GLNCY.OTC.svg",
   "website": "https://www.glencore.com",
   "country": "Switzerland",
-  "type": "Diversified Mining, Recycling & Trading (Electrification)",
-  "content": "<p>Glencore is one of the world's largest diversified natural resource companies, producing and marketing over 60 commodities. The company is a major producer of copper, cobalt, and nickel, which are critical for battery technology and electrification. Glencore also operates a massive battery metal recycling and trading arm, providing a unique &quot;circular economy&quot; play within the energy transition theme. Its global scale and integrated business model allow it to capture value across the entire mineral supply chain.</p>\n"
+  "type": "Mining and Metals",
+  "investment_theses": [
+    {
+      "thesis_name": "Electrification",
+      "company_type": "Mining and Metals"
+    },
+    {
+      "thesis_name": "Reshoring",
+      "company_type": "Cobalt Producer and Refiner"
+    }
+  ],
+  "content": "<p>Glencore plc is one of the world's largest global diversified natural resource companies and a major producer and marketer of more than 60 commodities. Founded in the 1970s as a trading company, it has grown to become a major producer and marketer of commodities - employing 140,000 people around the world. Glencore's operations comprise around 150 mining and metallurgical sites and oil production assets. The company's strategy is to be active at every stage of the commodity supply chain, from sourcing and processing to storage and transport, serving industrial consumers in sectors such as automotive, steel, power generation, battery manufacturing, and oil refining.</p>\n"
 }

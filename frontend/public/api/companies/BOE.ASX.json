@@ -2,9 +2,15 @@
   "id": "BOE.ASX",
   "name": "Boss Energy Limited",
   "ticker": "BOE",
-  "logoUrl": "https://www.bossenergy.com/wp-content/themes/boss/assets/images/logo.png",
+  "logoUrl": "/companies-assets/BOE.ASX.svg",
   "website": "https://www.bossenergy.com",
   "country": "Australia",
-  "type": "Uranium Mining (Nuclear)",
-  "content": "<p>Boss Energy is an Australian uranium company focused on the restart of its 100%-owned Honeymoon Uranium Project in South Australia. Honeymoon is a low-cost in-situ recovery (ISR) project with a fast-track to production. Boss Energy also holds a 30% interest in the Alta Mesa ISR project in Texas, USA, providing strategic geographic diversification and positioning the company as a key near-term producer in the global nuclear renaissance.</p>\n"
+  "type": "Uranium Producer / Honeymoon Project",
+  "investment_theses": [
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "Uranium Producer / Honeymoon Project"
+    }
+  ],
+  "content": "<p>Boss Energy Limited is an Australian-based uranium producer focused on the development and operation of its flagship Honeymoon Uranium Project in South Australia. As one of the few permitted uranium mines in Australia, the company utilizes in-situ recovery (ISR) technology to extract uranium oxide. Boss Energy is committed to becoming a significant global uranium supplier, leveraging its high-grade resources and existing infrastructure to meet the growing international demand for clean, carbon-free nuclear energy. The company also holds strategic interests in uranium exploration projects across Australia and North America.</p>\n"
 }

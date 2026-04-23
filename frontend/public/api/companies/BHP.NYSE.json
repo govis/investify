@@ -2,9 +2,15 @@
   "id": "BHP.NYSE",
   "name": "BHP Group Limited",
   "ticker": "BHP",
-  "logoUrl": "https://www.bhp.com/-/media/project/bhp1p/bhp-com-iron/images/logo/bhp-logo.png",
+  "logoUrl": "/companies-assets/BHP.NYSE.svg",
   "website": "https://www.bhp.com",
   "country": "Australia",
-  "type": "Diversified Mining / Copper & Potash (Electrification)",
-  "content": "<p>BHP is one of the world's largest diversified mining companies, with a significant focus on copper, iron ore, and nickel. It operates major assets like the Escondida copper mine in Chile and the Olympic Dam mine in Australia. BHP is strategically pivoting toward &quot;future-facing&quot; commodities, particularly copper, which is essential for global electrification and the renewable energy transition.</p>\n"
+  "type": "Mining and Metals",
+  "investment_theses": [
+    {
+      "thesis_name": "Electrification",
+      "company_type": "Mining and Metals"
+    }
+  ],
+  "content": "<p>BHP Group Limited is a leading global resources company headquartered in Melbourne, Australia. As one of the world's largest mining entities, it focuses on the discovery, acquisition, development, and marketing of natural resources. The company's operations primarily involve the production of iron ore, copper, and metallurgical coal, which are essential for global infrastructure and energy transition. BHP is committed to sustainable practices and plays a critical role in supplying the raw materials necessary for modern economic growth and the shift toward a lower-carbon future.</p>\n"
 }

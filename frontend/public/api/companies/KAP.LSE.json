@@ -1,10 +1,16 @@
 {
   "id": "KAP.LSE",
-  "name": "NAC Kazatomprom JSC",
+  "name": "National Atomic Company Kazatomprom JSC",
   "ticker": "KAP",
-  "logoUrl": "https://www.kazatomprom.kz/themes/kazatomprom/img/logo.png",
+  "logoUrl": "/companies-assets/KAP.LSE.svg",
   "website": "https://www.kazatomprom.kz",
   "country": "Kazakhstan",
-  "type": "Uranium Mining & Fuel Cycle (Nuclear)",
-  "content": "<p>Kazatomprom is the world's largest producer and seller of natural uranium, accounting for approximately 20% of total global primary uranium production. As the national atomic company of Kazakhstan, it operates a vast portfolio of low-cost in-situ recovery (ISR) mines. Kazatomprom is a dominant force in the global uranium market, providing critical supply to nuclear utilities worldwide and maintaining a strategic leadership position in the nuclear fuel cycle.</p>\n"
+  "type": "Uranium Producer",
+  "investment_theses": [
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "Uranium Producer"
+    }
+  ],
+  "content": "<p>National Atomic Company Kazatomprom JSC is the world's largest producer of natural uranium, accounting for approximately 20% of global primary uranium production. As the national operator of the Republic of Kazakhstan for the import and export of uranium, rare metals, and nuclear fuel for nuclear power plants, the company operates through its subsidiaries, affiliates, and joint ventures. Kazatomprom utilizes low-cost in-situ recovery (ISR) mining technology across all its mining operations, maintaining a leading position in the nuclear fuel cycle and contributing significantly to the global transition toward clean energy.</p>\n"
 }

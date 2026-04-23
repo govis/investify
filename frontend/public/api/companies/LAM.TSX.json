@@ -2,9 +2,15 @@
   "id": "LAM.TSX",
   "name": "Laramide Resources Ltd.",
   "ticker": "LAM",
-  "logoUrl": "https://laramide.com/site/assets/files/1/logo.png",
-  "website": "https://www.laramide.com",
+  "logoUrl": "/companies-assets/LAM.TSX.svg",
+  "website": "https://laramide.com",
   "country": "Canada",
-  "type": "Uranium Exploration & Development (Nuclear)",
-  "content": "<p>Laramide Resources holds a portfolio of advanced uranium projects located in Tier-1 jurisdictions, primarily in Australia and the United States. Its key assets include the Westmoreland project in Queensland, Australia, and the Churchrock and Crownpoint projects in New Mexico, USA. Laramide is focused on advancing these projects toward production to meet the growing need for secure, Western-sourced uranium for the nuclear industry.</p>\n"
+  "type": "Uranium Developer",
+  "investment_theses": [
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "Uranium Developer"
+    }
+  ],
+  "content": "<p>Laramide Resources Ltd. is a Canadian-based company focused on the exploration and development of high-quality uranium assets in Australia and the United States. The company's portfolio includes the Westmoreland Uranium Project in Queensland, Australia, and several advanced-stage projects in the United States, such as the Churchrock and Crownpoint In-Situ Recovery (ISR) projects in New Mexico. Laramide is committed to creating shareholder value by advancing its resource base through discovery and development while maintaining high environmental and social standards in the jurisdictions where it operates.</p>\n"
 }

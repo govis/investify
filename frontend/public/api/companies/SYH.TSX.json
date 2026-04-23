@@ -2,9 +2,15 @@
   "id": "SYH.TSX",
   "name": "Skyharbour Resources Ltd.",
   "ticker": "SYH",
-  "logoUrl": "https://skyharbourltd.com/site/assets/files/1/logo.png",
-  "website": "https://www.skyharbourltd.com",
+  "logoUrl": "/companies-assets/SYH.TSX.png",
+  "website": "https://skyharbourltd.com",
   "country": "Canada",
-  "type": "Uranium Exploration (Nuclear)",
-  "content": "<p>Skyharbour Resources is a Canadian uranium and thorium exploration company with an extensive portfolio of projects in the Athabasca Basin, Saskatchewan. The company employs a &quot;prospect generator&quot; model, advancing its secondary assets through partner-funded exploration while maintaining high-impact focus on its core projects, such as Moore Uranium and Russell Lake. Skyharbour provides investors with broad exposure to high-grade uranium targets in a premier mining jurisdiction.</p>\n"
+  "type": "Uranium Project Generator",
+  "investment_theses": [
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "Uranium Project Generator"
+    }
+  ],
+  "content": "<p>Skyharbour Resources Ltd. is a pre-eminent uranium exploration and project generator company with an extensive portfolio of projects in the Athabasca Basin of Saskatchewan, Canada. The company holds an interest in over 580,000 hectares of mineral claims, including its flagship Moore Uranium Project and the South Falcon Point Project. Skyharbour utilizes a prospect generator model, partnering with other companies to fund exploration and advance its secondary projects while focusing its own resources on high-grade discovery potential at its core assets. The company is well-positioned to benefit from the growing global demand for carbon-free nuclear energy.</p>\n"
 }

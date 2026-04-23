@@ -2,9 +2,19 @@
   "id": "NNE.NASDAQ",
   "name": "NANO Nuclear Energy Inc.",
   "ticker": "NNE",
-  "logoUrl": "https://nanonuclearenergy.com/wp-content/themes/nano/assets/images/logo.png",
+  "logoUrl": "/companies-assets/NNE.NASDAQ.png",
   "website": "https://nanonuclearenergy.com",
-  "country": "USA",
-  "type": "Microreactors & Nuclear Technology (Nuclear)",
-  "content": "<p>NANO Nuclear Energy is an advanced nuclear energy company developing portable, modular microreactors (ZEUS and KRONOS) designed for remote power applications and industrial use. The company is also working to build a vertically integrated nuclear fuel supply chain, including fuel fabrication and transportation. NANO Nuclear is a speculative, high-growth play on the &quot;Compute Sovereignty&quot; and decentralized power themes within the nuclear renaissance.</p>\n"
+  "country": "United States",
+  "type": "High-Convexity Tech",
+  "investment_theses": [
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "High-Convexity Tech"
+    },
+    {
+      "thesis_name": "Reshoring",
+      "company_type": "Nuclear Energy Technology"
+    }
+  ],
+  "content": "<p>NANO Nuclear Energy Inc. is an advanced technology-driven nuclear energy company focused on developing portable, clean energy solutions. The company is primarily engaged in the design and development of micro-reactors, including its proprietary 'ZEUS' solid-core battery reactor and 'ODIN' low-pressure coolant reactor. Beyond reactor design, NANO Nuclear is building a comprehensive nuclear ecosystem, including fuel fabrication, transportation of nuclear materials, and consulting services. Its mission is to provide small-scale, carbon-free power for remote locations, industrial applications, and disaster relief, positioning itself as a leader in the next generation of nuclear technology.</p>\n"
 }

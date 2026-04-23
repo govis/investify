@@ -2,9 +2,15 @@
   "id": "UROY.NASDAQ",
   "name": "Uranium Royalty Corp.",
   "ticker": "UROY",
-  "logoUrl": "https://www.uraniumroyalty.com/_resources/images/logo.png",
+  "logoUrl": "/companies-assets/UROY.NASDAQ.svg",
   "website": "https://www.uraniumroyalty.com",
   "country": "Canada",
-  "type": "Uranium Royalty & Streaming (Nuclear)",
-  "content": "<p>Uranium Royalty Corp. is the world’s first and only pure-play uranium royalty company. It focuses on gaining exposure to uranium prices by making strategic investments in uranium interests, including royalties, streams, debt, and equity investments in uranium companies, as well as through direct holdings of physical uranium. The company owns a geographically diversified portfolio of royalties on world-class uranium projects across Canada, the U.S., Namibia, and Spain, providing investors with leveraged exposure to the uranium market without direct operational risks.</p>\n"
+  "type": "Uranium Royalty & Streaming",
+  "investment_theses": [
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "Uranium Royalty & Streaming"
+    }
+  ],
+  "content": "<p>Uranium Royalty Corp. is a pure-play uranium royalty company focused on gaining exposure to uranium prices by making strategic investments in uranium interests, including royalties, streams, debt and equity investments in uranium companies, as well as through the physical purchase of uranium. The company's portfolio includes interests in a diversified group of uranium projects across various stages of development, including production, permitted, and exploration-stage assets in jurisdictions such as the United States, Canada, and Namibia. By leveraging its unique position as the first company of its kind, Uranium Royalty Corp. provides investors with a diversified and scalable vehicle for uranium price participation.</p>\n"
 }

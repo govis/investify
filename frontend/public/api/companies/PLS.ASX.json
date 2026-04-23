@@ -2,9 +2,15 @@
   "id": "PLS.ASX",
   "name": "Pilbara Minerals Limited",
   "ticker": "PLS",
-  "logoUrl": "https://www.pilbaraminerals.com.au/wp-content/uploads/2020/06/Pilbara-Minerals-Logo.png",
+  "logoUrl": "/companies-assets/PLS.ASX.svg",
   "website": "https://www.pilbaraminerals.com.au",
   "country": "Australia",
-  "type": "Lithium Mining & Processing (Electrification)",
-  "content": "<p>Pilbara Minerals is the leading ASX-listed pure-play lithium company. It owns and operates the world-class Pilgangoora Operation in Western Australia, one of the largest independent hard-rock lithium deposits globally. Pilbara Minerals is strategically expanding its production capacity and moving downstream through joint ventures for lithium chemical conversion, positioning itself as a major long-term partner for the global battery supply chain.</p>\n"
+  "type": "Lithium Producer",
+  "investment_theses": [
+    {
+      "thesis_name": "Electrification",
+      "company_type": "Lithium Producer"
+    }
+  ],
+  "content": "<p>Pilbara Minerals is a leading Australian lithium-focused mining company that owns and operates the world-class Pilgangoora Operation in Western Australia's Pilbara region. As one of the largest independent hard-rock lithium operations globally, it produces spodumene and tantalite concentrates. The company is a key player in the global electrification supply chain, providing essential raw materials for the lithium-ion battery industry. Pilbara Minerals is committed to sustainable growth through production expansion, downstream processing initiatives, and strategic partnerships to maximize value from its resource base.</p>\n"
 }

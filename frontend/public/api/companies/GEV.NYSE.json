@@ -1,10 +1,16 @@
 {
   "id": "GEV.NYSE",
-  "name": "GE Vernova",
+  "name": "GE Vernova Inc.",
   "ticker": "GEV",
-  "logoUrl": "https://www.gevernova.com/content/dam/gepower-vernova/global/en_US/images/logos/ge-vernova-logo.svg",
+  "logoUrl": "/companies-assets/GEV.NYSE.svg",
   "website": "https://www.gevernova.com",
-  "country": "USA",
-  "type": "Energy Infrastructure & Technology (Electrification)",
-  "content": "<p>GE Vernova is a purpose-built energy company spun off from General Electric, focusing on accelerating the path to reliable, affordable, and sustainable energy. The company operates across the entire energy value chain, including Power (gas, nuclear, hydro), Wind, and Electrification. GE Vernova is a critical player in the nuclear renaissance through its advanced reactor technologies, such as the BWRX-300 SMR, and its vast portfolio of grid transmission and distribution solutions.</p>\n"
+  "country": "United States",
+  "type": "Nuclear Reactor Technology / BWRX-300 SMR",
+  "investment_theses": [
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "Nuclear Reactor Technology / BWRX-300 SMR"
+    }
+  ],
+  "content": "<p>GE Vernova Inc. is a global leader in the energy sector, formed as a spin-off from General Electric in 2024. The company is dedicated to electrifying and decarbonizing the world through its diverse portfolio, which includes Power, Wind, and Electrification segments. GE Vernova provides essential technology and services for power generation, including gas, nuclear, hydro, and steam power, as well as onshore and offshore wind turbines. By leveraging its extensive installed base and innovative solutions like the BWRX-300 small modular reactor, the company plays a critical role in the global energy transition toward more sustainable and reliable power systems.</p>\n"
 }

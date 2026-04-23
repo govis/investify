@@ -2,9 +2,15 @@
   "id": "FIND.TSX",
   "name": "Baselode Energy Corp.",
   "ticker": "FIND",
-  "logoUrl": "https://baselode.com/site/assets/files/1/logo.png",
+  "logoUrl": "/companies-assets/FIND.TSX.png",
   "website": "https://baselode.com",
   "country": "Canada",
-  "type": "Uranium Exploration (Nuclear)",
-  "content": "<p>Baselode Energy is a Canadian uranium exploration company focused on identifying high-grade, near-surface, basement-hosted uranium deposits in the Athabasca Basin, Saskatchewan. Utilizing their &quot;Athabasca 2.0&quot; exploration model, Baselode targets structurally controlled deposits outside of the traditional sandstone-hosted corridors. In late 2025, Baselode announced a strategic merger with Forum Energy Metals to form Geiger Energy, further consolidating its position as a leading explorer in the basin.</p>\n"
+  "type": "Uranium Explorer",
+  "investment_theses": [
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "Uranium Explorer"
+    }
+  ],
+  "content": "<p>Baselode Energy Corp. is a Canadian uranium exploration company focused on discovering high-grade, basement-hosted uranium deposits in the Athabasca Basin area of northern Saskatchewan. The company utilizes innovative geophysical techniques and a 'Basement-First' exploration strategy to identify shallow, high-grade targets outside of the traditional sandstone-hosted models. Baselode's primary projects include the Hook, Catharsis, and Shadow projects, with the ACKIO discovery on the Hook project representing a significant near-surface uranium find. The company is committed to efficient exploration and creating shareholder value through discovery in one of the world's premier uranium jurisdictions.</p>\n"
 }

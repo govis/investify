@@ -2,9 +2,15 @@
   "id": "AEC.TSX",
   "name": "Anfield Energy Inc.",
   "ticker": "AEC",
-  "logoUrl": "https://anfieldenergy.com/wp-content/themes/anfield/assets/images/logo.png",
-  "website": "https://anfieldenergy.com",
-  "country": "Canada / USA",
-  "type": "Uranium & Vanadium Development (Nuclear)",
-  "content": "<p>Anfield Energy is a near-term uranium and vanadium producer focused on the development of its assets in the United States. A key strategic asset is the Shootaring Canyon Mill in Utah, one of only three licensed conventional uranium mills in the U.S. Anfield’s portfolio includes high-quality uranium and vanadium projects in Utah, Colorado, and Arizona, positioned to benefit from the growing demand for domestic nuclear fuel and energy storage solutions.</p>\n"
+  "logoUrl": "/companies-assets/AEC.TSX.png",
+  "website": "https://anfieldenergy.com/",
+  "country": "Canada",
+  "type": "Uranium Explorer/Developer",
+  "investment_theses": [
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "Uranium Explorer/Developer"
+    }
+  ],
+  "content": "<p>Anfield Energy Inc. is a prominent uranium and vanadium development and near-term production company focused on the United States. The company's primary asset is the Shootaring Canyon Mill in Utah, one of only three licensed conventional uranium mills in the country. Anfield's portfolio includes a diverse array of uranium and vanadium projects across Utah, Colorado, and Arizona, including the Velvet-Wood Mine and the West Slope Project. By leveraging its strategic milling infrastructure and extensive resource base, Anfield is positioned to become a key supplier in the domestic nuclear energy supply chain.</p>\n"
 }

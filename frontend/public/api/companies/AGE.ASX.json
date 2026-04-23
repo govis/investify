@@ -2,9 +2,15 @@
   "id": "AGE.ASX",
   "name": "Alligator Energy Limited",
   "ticker": "AGE",
-  "logoUrl": "https://www.alligatorenergy.com.au/wp-content/uploads/2020/10/Alligator-Energy-Logo-Final-Full-Colour.png",
+  "logoUrl": "/companies-assets/AGE.ASX.png",
   "website": "https://www.alligatorenergy.com.au",
   "country": "Australia",
-  "type": "Uranium Exploration & Development (Nuclear)",
-  "content": "<p>Alligator Energy is an Australian exploration and development company focused on uranium and energy-related metals essential for the transition to carbon-free energy. The company's flagship asset is the Samphire Uranium Project in South Australia, which is being developed as a low-cost In-Situ Recovery (ISR) operation. Alligator Energy also holds significant land positions in the world-class Alligator Rivers Uranium Province in the Northern Territory and the Big Lake Uranium project in the Cooper Basin, providing investors with a balanced portfolio of advanced development and high-impact exploration assets in tier-one jurisdictions.</p>\n"
+  "type": "Uranium Explorer",
+  "investment_theses": [
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "Uranium Explorer"
+    }
+  ],
+  "content": "<p>Alligator Energy Limited is an Australian exploration and development company focused on uranium and energy related minerals. The company's primary focus is on the Samphire Uranium Project in South Australia, which utilizes in-situ recovery methods. Additionally, Alligator Energy holds interests in the Big Lake Uranium Project in the Cooper Basin and the Alligator Rivers Uranium Province in the Northern Territory. Beyond uranium, the company explores for nickel, cobalt, and copper at its Piedmont Project in northern Italy, positioning itself as a diversified player in the clean energy minerals sector.</p>\n"
 }

@@ -2,9 +2,15 @@
   "id": "SYR.ASX",
   "name": "Syrah Resources Limited",
   "ticker": "SYR",
-  "logoUrl": "https://www.syrahresources.com.au/static/media/logo.8093254c.svg",
+  "logoUrl": "/companies-assets/SYR.ASX.png",
   "website": "https://www.syrahresources.com.au",
   "country": "Australia",
-  "type": "Graphite Mining & Battery Material Technology (Reshoring)",
-  "content": "<p>Syrah Resources is an industrial minerals and technology company that operates the Balama Graphite Operation in Mozambique, one of the world's largest natural graphite mines. It is also developing the Vidalia Active Anode Material facility in the USA, aiming to become a vertically integrated supplier of natural graphite anode material to Western battery manufacturers, validating the &quot;Western Anode&quot; thesis.</p>\n"
+  "type": "Graphite producer for Western anode supply chain",
+  "investment_theses": [
+    {
+      "thesis_name": "Reshoring",
+      "company_type": "Graphite producer for Western anode supply chain"
+    }
+  ],
+  "content": "<p>Syrah Resources Limited is an Australian-based industrial minerals and technology company. The company's flagship project is the Balama Graphite Project in Mozambique, which is one of the world's largest and highest-grade flake graphite deposits. Syrah is also developing the Vidalia Active Anode Material (AAM) facility in Louisiana, USA, aiming to become a vertically integrated producer of natural graphite AAM for the global lithium-ion battery market. The company focuses on supplying high-quality graphite products to the electric vehicle and energy storage industries.</p>\n"
 }

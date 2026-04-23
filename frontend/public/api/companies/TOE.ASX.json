@@ -2,9 +2,15 @@
   "id": "TOE.ASX",
   "name": "Toro Energy Limited",
   "ticker": "TOE",
-  "logoUrl": "https://www.toroenergy.com.au/wp-content/themes/toroenergy/images/logo.png",
+  "logoUrl": "/companies-assets/TOE.ASX.png",
   "website": "https://www.toroenergy.com.au",
   "country": "Australia",
-  "type": "Uranium Development & Exploration (Nuclear)",
-  "content": "<p>Toro Energy is an Australian uranium development and exploration company. Its flagship asset is the Wiluna Uranium Project in Western Australia, which consists of several high-grade deposits including Centipede-Millipede, Lake Maitland, and Lake Way. Toro Energy is one of the few Australian uranium projects with both Federal and State environmental approvals in place. In early 2026, the company entered into a merger agreement with IsoEnergy Ltd, positioned to create a top-tier global uranium developer to capitalize on the rising global demand for low-carbon baseload power.</p>\n"
+  "type": "Uranium Explorer",
+  "investment_theses": [
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "Uranium Explorer"
+    }
+  ],
+  "content": "<p>Toro Energy Limited is an Australian-based uranium exploration and development company primarily focused on its flagship Wiluna Uranium Project in Western Australia. The project consists of several deposits, including Centipede, Millipede, Lake Maitland, and Lake Way, making it one of the most advanced uranium projects in the region. In addition to its uranium assets, the company explores for nickel, gold, and base metals through its Dusty Nickel Project and other regional exploration programs. Toro Energy aims to become a significant uranium producer to support the global transition toward clean energy and nuclear power.</p>\n"
 }

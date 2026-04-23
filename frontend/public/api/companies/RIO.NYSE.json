@@ -2,9 +2,15 @@
   "id": "RIO.NYSE",
   "name": "Rio Tinto Group",
   "ticker": "RIO",
-  "logoUrl": "https://www.riotinto.com/static/images/logo.svg",
+  "logoUrl": "/companies-assets/RIO.NYSE.svg",
   "website": "https://www.riotinto.com",
-  "country": "UK / Australia",
-  "type": "Diversified Mining / Copper & Lithium (Electrification)",
-  "content": "<p>Rio Tinto is a leading global mining group that produces iron ore, aluminium, copper, and diamonds. The company is aggressively expanding its footprint in critical minerals like lithium and copper to support the global energy transition. Rio Tinto’s focus on low-carbon aluminium and its significant copper growth pipeline make it a key player in the electrification investment theme.</p>\n"
+  "country": "United Kingdom",
+  "type": "Diversified Miner",
+  "investment_theses": [
+    {
+      "thesis_name": "Electrification",
+      "company_type": "Diversified Miner"
+    }
+  ],
+  "content": "<p>Rio Tinto Group is a leading global mining and metals company that focuses on finding, mining, and processing the Earth's mineral resources. The company operates in approximately 35 countries and is primarily involved in the production of iron ore, aluminum, copper, and lithium. Rio Tinto is committed to providing the materials essential to human progress, including those necessary for the global transition to a low-carbon economy. With a history spanning over 150 years, the company maintains a diverse portfolio of world-class assets and is a major supplier to global industrial markets.</p>\n"
 }

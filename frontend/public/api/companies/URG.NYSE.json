@@ -2,9 +2,15 @@
   "id": "URG.NYSE",
   "name": "Ur-Energy Inc.",
   "ticker": "URG",
-  "logoUrl": "https://www.ur-energy.com/wp-content/themes/urenergy/assets/images/logo.png",
+  "logoUrl": "/companies-assets/URG.NYSE.svg",
   "website": "https://www.ur-energy.com",
-  "country": "USA",
-  "type": "Uranium Mining (Nuclear)",
-  "content": "<p>Ur-Energy is a U.S. uranium mining company that operates the Lost Creek in-situ recovery (ISR) facility in Wyoming. Lost Creek is one of the lowest-cost and most efficient uranium mines in the United States. Ur-Energy is also advancing its Shirley Basin project, aiming to expand its domestic production capacity to meet the rising demand for secure, American-sourced uranium for the nuclear utility sector.</p>\n"
+  "country": "United States",
+  "type": "Uranium Miner",
+  "investment_theses": [
+    {
+      "thesis_name": "Nuclear",
+      "company_type": "Uranium Miner"
+    }
+  ],
+  "content": "<p>Ur-Energy Inc. is a junior uranium mining company operating the Lost Creek in-situ recovery (ISR) uranium facility in south-central Wyoming. The company is engaged in the identification, acquisition, exploration, development, and operation of uranium projects. Since its inception, Ur-Energy has focused on low-cost, environmentally friendly ISR mining techniques to produce uranium oxide (U3O8). With a portfolio of projects primarily located in Wyoming, the company maintains a strong operational presence in the United States, aiming to provide a reliable domestic source of fuel for the nuclear power industry.</p>\n"
 }
