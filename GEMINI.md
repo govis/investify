@@ -33,3 +33,25 @@ When performing active linking (Modes 2 and 3), the following precision rules MU
 ### 3. Maintenance
 
 Before applying new links in Modes 2 or 3, any existing `[text](/company/...)` patterns must be removed from the target content to prevent recursive nesting or corrupted link structures.
+
+## Manager and Management Linking
+
+Manager profiles and their integration across company pages follow specific data and linking mandates.
+
+### 1. Data Structure & Conventions
+
+*   **Source Data:** Manager information is stored in `Managers/[Full Name]/Profile.json`.
+*   **Source Key Exception:** The list of associated companies in manager profiles is stored under the key `"commpanies"` (double 'm'). This spelling MUST be maintained for data compatibility.
+*   **Static API:** The build script (`scripts/build-data.js`) exports processed manager data to `frontend/public/api/managers/[Full Name].json`.
+
+### 2. Linking & Routing
+
+*   **Manager Route:** All links to manager profiles MUST point to `/manager/[Full Name]`.
+*   **Management Tabs:** In the "Management" section of company detail pages, manager names MUST be wrapped in anchor tags: `<a href="/manager/[Full Name]">`.
+*   **Corporate History:** In manager profile pages, company names MUST link back to their local profiles using the format `/company/TICKER.EXCHANGE`.
+
+### 3. Formatting Rules
+
+*   **Tenure Dates:** All tenure dates displayed in management lists MUST follow the format: `(Date: Year Month)` (e.g., `(Date: 2024 September)`).
+*   **Corporate History Details:** In manager lists/profiles, associated companies should display the ticker in brackets without a link, and provide a separate "Website" hyperlink to the external company site.
+
