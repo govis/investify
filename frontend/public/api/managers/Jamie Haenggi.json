@@ -1,0 +1,29 @@
+{
+  "id": "Jamie Haenggi",
+  "name": "Jamie Haenggi",
+  "background": "Jamie Haenggi has served as a director since 2020. She is the President of ADT Solar and has held various executive roles at ADT since 2016.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Enphase Energy, Inc.",
+      "ticker": "ENPH",
+      "exchange": "NASDAQ",
+      "website": "https://enphase.com",
+      "title": "Director",
+      "startDate": "2020-01-01",
+      "endDate": null,
+      "formattedStartDate": "2020 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 53,
+  "ageYear": 2024
+}

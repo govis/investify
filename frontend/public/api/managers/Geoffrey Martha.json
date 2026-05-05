@@ -1,0 +1,29 @@
+{
+  "id": "Geoffrey Martha",
+  "name": "Geoffrey Martha",
+  "background": "Chairman and CEO of Medtronic plc. Director since 2023.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NextEra Energy, Inc.",
+      "ticker": "NEE",
+      "exchange": "NYSE",
+      "website": "https://www.nexteraenergy.com",
+      "title": "Independent Director",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "formattedStartDate": "2023 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation",
+    "Governance & Nominating"
+  ],
+  "age": 54,
+  "ageYear": 2024
+}

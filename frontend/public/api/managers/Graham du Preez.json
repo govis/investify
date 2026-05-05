@@ -1,0 +1,26 @@
+{
+  "id": "Graham du Preez",
+  "name": "Graham du Preez",
+  "background": "Mr. du Preez is a Chartered Accountant with over 25 years of experience in the mining industry. He previously served as CFO of Uranium Royalty Corp. and has held senior financial roles at several mining companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "IsoEnergy Ltd.",
+      "ticker": "ISO",
+      "exchange": "TSXV",
+      "website": "https://www.isoenergy.ca",
+      "title": "Chief Financial Officer",
+      "startDate": "2023-12-05",
+      "endDate": null,
+      "formattedStartDate": "2023 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 52,
+  "ageYear": 2024
+}

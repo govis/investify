@@ -1,0 +1,26 @@
+{
+  "id": "John Hollister",
+  "name": "John Hollister",
+  "background": "John Hollister is the Chief Financial Officer of GlobalFoundries. He joined GF in 2024 from Silicon Labs, where he served as CFO for over 10 years. He has extensive experience in financial management, strategic planning, and investor relations within the semiconductor industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "GlobalFoundries Inc.",
+      "ticker": "GFS",
+      "exchange": "NASDAQ",
+      "website": "https://gf.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2024-02-01",
+      "endDate": null,
+      "formattedStartDate": "2024 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 53,
+  "ageYear": 2024
+}

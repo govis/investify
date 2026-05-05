@@ -1,0 +1,29 @@
+{
+  "id": "Gunther Roehlig",
+  "name": "Gunther Roehlig",
+  "background": "Mr. Roehlig has over 25 years of experience in the financial and investment industry, with a focus on the resource sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Snowline Gold Corp.",
+      "ticker": "SGD",
+      "exchange": "TSX",
+      "website": "https://snowlinegold.com",
+      "title": "Independent Director",
+      "startDate": "2020-11-27",
+      "endDate": null,
+      "formattedStartDate": "2020 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 54,
+  "ageYear": 2024
+}

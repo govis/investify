@@ -1,0 +1,29 @@
+{
+  "id": "Robert Sanchez",
+  "name": "Robert Sanchez",
+  "background": "Chairman and CEO of Ryder System, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Texas Instruments Incorporated",
+      "ticker": "TXN",
+      "exchange": "NASDAQ",
+      "website": "https://www.ti.com",
+      "title": "Independent Director",
+      "startDate": "2019-01-01",
+      "endDate": null,
+      "formattedStartDate": "2019 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Governance and Stockholder Relations Committee"
+  ],
+  "age": 59,
+  "ageYear": 2024
+}

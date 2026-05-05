@@ -1,0 +1,29 @@
+{
+  "id": "Clem Pelletier",
+  "name": "Clem Pelletier",
+  "background": "Mr. Pelletier is a process metallurgist with over 50 years of experience in the mining industry, specializing in environmental and permitting issues.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Seabridge Gold Inc.",
+      "ticker": "SA",
+      "exchange": "NYSE",
+      "website": "https://www.seabridgegold.com",
+      "title": "Director",
+      "startDate": "2011-01-01",
+      "endDate": null,
+      "formattedStartDate": "2011 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Sustainability Committee",
+    "Technical Committee"
+  ],
+  "age": 76,
+  "ageYear": 2024
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Dale Klein",
+  "name": "Dale Klein",
+  "background": "Professor Emeritus and former Associate Vice Chancellor at the University of Texas System. Former Chairman of the U.S. Nuclear Regulatory Commission.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "The Southern Company",
+      "ticker": "SO",
+      "exchange": "NYSE",
+      "website": "https://www.southerncompany.com",
+      "title": "Independent Director",
+      "startDate": "2010-01-01",
+      "endDate": null,
+      "formattedStartDate": "2010 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Operations, Environmental and Safety (Chair)"
+  ],
+  "age": 76,
+  "ageYear": 2024
+}

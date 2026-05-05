@@ -1,0 +1,28 @@
+{
+  "id": "Paul Gill",
+  "name": "Paul Gill",
+  "background": "Mr. Gill is the President of AJS Management Inc., a company providing management consulting services.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Azincourt Energy Corp.",
+      "ticker": "AAZ",
+      "exchange": "TSX",
+      "website": "https://azincourtenergy.com",
+      "title": "Director",
+      "startDate": "2011-01-01",
+      "endDate": null,
+      "formattedStartDate": "2011 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

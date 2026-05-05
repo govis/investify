@@ -1,0 +1,30 @@
+{
+  "id": "Jane Griffiths",
+  "name": "Jane Griffiths",
+  "background": "Jane had a long career at Johnson & Johnson, including as Company Group Chairman of Janssen EMEA. She brings expertise in highly regulated global industries.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "BAE Systems plc",
+      "ticker": "BA",
+      "exchange": "LSE",
+      "website": "https://www.baesystems.com",
+      "title": "Non-Executive Director",
+      "startDate": "2020-04-01",
+      "endDate": null,
+      "formattedStartDate": "2020 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "ESG Committee",
+    "Nominations Committee",
+    "Remuneration Committee (Chair)"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

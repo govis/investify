@@ -1,0 +1,30 @@
+{
+  "id": "John Fitzgerald",
+  "name": "John Fitzgerald",
+  "background": "Mr Fitzgerald has over 30 years’ experience in the resources sector. He has held senior positions at NM Rothschild & Sons, Investec Bank, and Commonwealth Bank. He is a Director of Turaco Gold and was previously Chairman of Exore Resources.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Northern Star Resources Limited",
+      "ticker": "NST",
+      "exchange": "ASX",
+      "website": "https://www.nsrltd.com",
+      "title": "Lead Independent Director",
+      "startDate": "2012-11-30",
+      "endDate": null,
+      "formattedStartDate": "2012 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee (Chair)",
+    "Nomination Committee",
+    "Remuneration Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

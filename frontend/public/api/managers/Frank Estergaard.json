@@ -1,0 +1,29 @@
+{
+  "id": "Frank Estergaard",
+  "name": "Frank Estergaard",
+  "background": "Chartered Professional Accountant and former partner at KPMG. Extensive experience in auditing and financial consulting for public companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Fission Uranium Corp.",
+      "ticker": "FCU",
+      "exchange": "TSX",
+      "website": "https://fissionuranium.com",
+      "title": "Independent Director",
+      "startDate": "2013-02-13",
+      "endDate": null,
+      "formattedStartDate": "2013 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 76,
+  "ageYear": 2024
+}

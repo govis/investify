@@ -1,0 +1,26 @@
+{
+  "id": "Bold Baatar",
+  "name": "Bold Baatar",
+  "background": "Bold joined Rio Tinto in 2013 and was appointed Chief Commercial Officer in 2024. He previously served as Chief Executive Copper.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Rio Tinto Group",
+      "ticker": "RIO",
+      "exchange": "NYSE",
+      "website": "https://www.riotinto.com",
+      "title": "Chief Commercial Officer",
+      "startDate": "2024-09-01",
+      "endDate": null,
+      "formattedStartDate": "2024 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 50,
+  "ageYear": 2023
+}

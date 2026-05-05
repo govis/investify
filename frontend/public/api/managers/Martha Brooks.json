@@ -1,0 +1,28 @@
+{
+  "id": "Martha Brooks",
+  "name": "Martha Brooks",
+  "background": "Former President and COO of Novelis Inc. Director of Constellium SE.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AB Volvo",
+      "ticker": "VOLV-B",
+      "exchange": "STO",
+      "website": "https://www.volvogroup.com",
+      "title": "Director",
+      "startDate": "2016-04-01",
+      "endDate": null,
+      "formattedStartDate": "2016 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Remuneration Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

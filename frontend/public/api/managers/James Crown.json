@@ -1,0 +1,26 @@
+{
+  "id": "James Crown",
+  "name": "James Crown",
+  "background": "Chairman and CEO of Henry Crown and Company. (Note: Deceased June 2023, but listed in 2023 proxy).",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "General Dynamics Corporation",
+      "ticker": "GD",
+      "exchange": "NYSE",
+      "website": "https://www.gd.com",
+      "title": "Unknown Role",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 70,
+  "ageYear": 2023
+}

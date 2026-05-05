@@ -1,0 +1,26 @@
+{
+  "id": "Mats Backman",
+  "name": "Mats Backman",
+  "background": "Chief Financial Officer of AB Volvo. Previously CFO of Trustly, Autoliv, and Sandvik. Member of the Group Executive Board since 2023.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AB Volvo",
+      "ticker": "VOLV-B",
+      "exchange": "STO",
+      "website": "https://www.volvogroup.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2023-06-16",
+      "endDate": null,
+      "formattedStartDate": "2023 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 56,
+  "ageYear": 2024
+}

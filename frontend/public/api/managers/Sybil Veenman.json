@@ -1,0 +1,28 @@
+{
+  "id": "Sybil Veenman",
+  "name": "Sybil Veenman",
+  "background": "Ms. Veenman was Senior Vice President and General Counsel of Barrick Gold Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Royal Gold, Inc.",
+      "ticker": "RGLD",
+      "exchange": "NASDAQ",
+      "website": "https://www.royalgold.com",
+      "title": "Independent Director",
+      "startDate": "2017-01-01",
+      "endDate": null,
+      "formattedStartDate": "2017 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation, Nominating and Governance Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

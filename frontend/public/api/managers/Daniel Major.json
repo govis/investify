@@ -1,0 +1,26 @@
+{
+  "id": "Daniel Major",
+  "name": "Daniel Major",
+  "background": "Mr. Major is a mining engineer from the Camborne School of Mines in the UK. His career spans over 30 years in the mining industry where he has established a solid track record in all aspects of the mining business, including operations, project management, and corporate finance. He has worked for Rio Tinto at the Rossing Uranium Mine in Namibia and for several junior mining companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "GoviEx Uranium Inc.",
+      "ticker": "GXU",
+      "exchange": "TSXV",
+      "website": "https://www.goviex.com",
+      "title": "Chief Executive Officer, Director",
+      "startDate": "2012-01-01",
+      "endDate": null,
+      "formattedStartDate": "2012 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 58,
+  "ageYear": 2024
+}

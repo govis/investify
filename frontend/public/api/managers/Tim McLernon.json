@@ -1,0 +1,28 @@
+{
+  "id": "Tim McLernon",
+  "name": "Tim McLernon",
+  "background": "Mr. McLernon has over 30 years' experience in the mining industry, specifically in project development and operations. He was previously with Rio Tinto and Paladin Energy.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Deep Yellow Limited",
+      "ticker": "DYL",
+      "exchange": "ASX",
+      "website": "https://deepyellow.com.au",
+      "title": "Non-Executive Director",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "formattedStartDate": "2024 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

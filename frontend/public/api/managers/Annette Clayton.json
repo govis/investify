@@ -1,0 +1,29 @@
+{
+  "id": "Annette Clayton",
+  "name": "Annette Clayton",
+  "background": "Former Chief Executive Officer and Chair of Schneider Electric North America.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Duke Energy Corporation",
+      "ticker": "DUK",
+      "exchange": "NYSE",
+      "website": "https://www.duke-energy.com",
+      "title": "Independent Director",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Finance and Risk Management Committee"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

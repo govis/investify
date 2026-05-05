@@ -1,0 +1,43 @@
+{
+  "id": "Roger Fradin",
+  "name": "Roger Fradin",
+  "background": "Former Vice Chairman of Honeywell International Inc. Current Chairman of Resideo Technologies, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "L3Harris Technologies, Inc.",
+      "ticker": "LHX",
+      "exchange": "NYSE",
+      "website": "https://www.l3harris.com",
+      "title": "Independent Director",
+      "startDate": "2019-06-29",
+      "endDate": null,
+      "formattedStartDate": "2019 June",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Vertiv Holdings Co",
+      "ticker": "VRT",
+      "exchange": "NYSE",
+      "website": "https://www.vertiv.com",
+      "title": "Director",
+      "startDate": "2020-02-01",
+      "endDate": null,
+      "formattedStartDate": "2020 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Finance Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

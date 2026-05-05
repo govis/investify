@@ -1,0 +1,29 @@
+{
+  "id": "Peter Smith",
+  "name": "Peter Smith",
+  "background": "Mr. Smith is a senior mining executive with over 40 years’ experience in the resources sector, including senior roles at Rio Tinto and Kazzinc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Evolution Mining Limited",
+      "ticker": "EVN",
+      "exchange": "ASX",
+      "website": "https://evolutionmining.com.au",
+      "title": "Non-Executive Director",
+      "startDate": "2020-04-01",
+      "endDate": null,
+      "formattedStartDate": "2020 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Nomination and Remuneration Committee",
+    "Risk and Sustainability Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

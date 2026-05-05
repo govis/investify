@@ -1,0 +1,26 @@
+{
+  "id": "Cliff Revering",
+  "name": "Cliff Revering",
+  "background": "Mr. Revering is a Professional Geoscientist with over 25 years of experience in the mining industry, with a focus on uranium exploration and development. He previously held senior roles at Cameco Corporation and SRK Consulting.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Atha Energy Corp.",
+      "ticker": "SASK",
+      "exchange": "TSX",
+      "website": "https://www.athaenergy.com",
+      "title": "Vice President, Exploration",
+      "startDate": "2023-05-01",
+      "endDate": null,
+      "formattedStartDate": "2023 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

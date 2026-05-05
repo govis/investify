@@ -1,0 +1,26 @@
+{
+  "id": "Alex Ashby",
+  "name": "Alex Ashby",
+  "background": "Head of Product Development at Global X Management Company LLC. Responsible for the design and management of the firm's ETF suite.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Global X Lithium & Battery Tech ETF",
+      "ticker": "LIT",
+      "exchange": "NYSE",
+      "website": "https://www.globalxetfs.com/funds/lit/",
+      "title": "Head of Product Development",
+      "startDate": "2018-01-01",
+      "endDate": null,
+      "formattedStartDate": "2018 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 37,
+  "ageYear": 2024
+}

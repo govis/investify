@@ -1,0 +1,30 @@
+{
+  "id": "Patricia Russo",
+  "name": "Patricia Russo",
+  "background": "Former CEO of Alcatel-Lucent.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "website": "https://www.gm.com",
+      "title": "Lead Independent Director",
+      "startDate": "2009-07-24",
+      "endDate": null,
+      "formattedStartDate": "2009 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Governance and Corporate Responsibility Committee"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

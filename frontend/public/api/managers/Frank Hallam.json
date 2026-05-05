@@ -1,0 +1,41 @@
+{
+  "id": "Frank Hallam",
+  "name": "Frank Hallam",
+  "background": "Mr. Hallam is a co-founder of the Company and has served as President and CEO since 2022. He was previously CFO from 2002 to 2022. He is a Chartered Professional Accountant and has been involved in the mining industry for over 30 years.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Platinum Group Metals Ltd.",
+      "ticker": "PTM",
+      "exchange": "NYSE",
+      "website": "https://www.platinumgroupmetals.net",
+      "title": "Director, President and Chief Executive Officer",
+      "startDate": "2022-04-01",
+      "endDate": null,
+      "formattedStartDate": "2022 April",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Western Magnesium Corporation",
+      "ticker": "WMG",
+      "exchange": "TSX",
+      "website": "https://westernmagnesium.com",
+      "title": "Director",
+      "startDate": "2020-01-01",
+      "endDate": null,
+      "formattedStartDate": "2020 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

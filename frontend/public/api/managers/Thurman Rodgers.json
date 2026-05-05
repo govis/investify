@@ -1,0 +1,29 @@
+{
+  "id": "Thurman Rodgers",
+  "name": "Thurman Rodgers",
+  "background": "T.J. Rodgers has served as a director since January 2017. He is the founder and former CEO of Cypress Semiconductor Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Enphase Energy, Inc.",
+      "ticker": "ENPH",
+      "exchange": "NASDAQ",
+      "website": "https://enphase.com",
+      "title": "Director",
+      "startDate": "2017-01-01",
+      "endDate": null,
+      "formattedStartDate": "2017 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 75,
+  "ageYear": 2024
+}

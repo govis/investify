@@ -1,0 +1,38 @@
+{
+  "id": "Mike Henry",
+  "name": "Mike Henry",
+  "background": "Mike Henry has over 30 years' experience in the resources industry. He joined BHP in 2003 and has held various senior roles including President Operations Minerals Australia and President Coal. He was appointed Chief Executive Officer in January 2020.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX",
+      "website": "https://www.bhp.com",
+      "title": "Chief Executive Officer, Executive Director",
+      "startDate": "2020-01-01",
+      "endDate": null,
+      "formattedStartDate": "2020 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "NYSE",
+      "website": "https://www.bhp.com",
+      "title": "Chief Executive Officer",
+      "startDate": "2020-01-01",
+      "endDate": null,
+      "formattedStartDate": "2020 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 58,
+  "ageYear": 2024
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Mikel Williams",
+  "name": "Mikel Williams",
+  "background": "Mr. Williams has served as Chairman of the Board since 2021. He was previously the CEO of JPS Industries, Inc. and DDi Corp.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Centrus Energy Corp.",
+      "ticker": "LEU",
+      "exchange": "NYSE",
+      "website": "https://www.centrusenergy.com",
+      "title": "Chairman of the Board",
+      "startDate": "2014-01-01",
+      "endDate": null,
+      "formattedStartDate": "2014 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 67,
+  "ageYear": 2024
+}

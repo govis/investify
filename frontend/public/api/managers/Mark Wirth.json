@@ -1,0 +1,26 @@
+{
+  "id": "Mark Wirth",
+  "name": "Mark Wirth",
+  "background": "Chairman and CEO of Chevron Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Chevron Corporation",
+      "ticker": "CVX",
+      "exchange": "NYSE",
+      "website": "https://www.chevron.com",
+      "title": "Chairman",
+      "startDate": "2018-02-01",
+      "endDate": null,
+      "formattedStartDate": "2018 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 63,
+  "ageYear": 2024
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Kathy Warden",
+  "name": "Kathy Warden",
+  "background": "Ms. Warden is Chair, Chief Executive Officer and President of Northrop Grumman Corporation. She has been CEO and President since January 2019 and was elected Chair of the Board in August 2019. Prior to becoming CEO and President, she served as President and Chief Operating Officer from 2018 to 2019.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "website": "https://www.northropgrumman.com",
+      "title": "Chair, Chief Executive Officer and President",
+      "startDate": "2019-08-01",
+      "endDate": null,
+      "formattedStartDate": "2019 August",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 52,
+  "ageYear": 2024
+}

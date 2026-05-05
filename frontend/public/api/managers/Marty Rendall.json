@@ -1,0 +1,26 @@
+{
+  "id": "Marty Rendall",
+  "name": "Marty Rendall",
+  "background": "Mr. Rendall has over 25 years of experience in the mining industry. He joined Victoria Gold in 2007 and has served as CFO since 2011. He is a Chartered Professional Accountant.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Victoria Gold Corp.",
+      "ticker": "VGCX",
+      "exchange": "TSX",
+      "website": "https://vgcx.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2011-01-01",
+      "endDate": null,
+      "formattedStartDate": "2011 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 53,
+  "ageYear": 2024
+}

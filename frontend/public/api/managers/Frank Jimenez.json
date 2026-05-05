@@ -1,0 +1,29 @@
+{
+  "id": "Frank Jimenez",
+  "name": "Frank Jimenez",
+  "background": "Frank R. Jimenez is Group Vice President and General Counsel of GE HealthCare and previously served as General Counsel of the Navy.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Huntington Ingalls Industries, Inc.",
+      "ticker": "HII",
+      "exchange": "NYSE",
+      "website": "https://www.hii.com",
+      "title": "Director",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "formattedStartDate": "2022 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Governance and Policy Committee"
+  ],
+  "age": 59,
+  "ageYear": 2024
+}

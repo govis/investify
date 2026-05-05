@@ -1,0 +1,30 @@
+{
+  "id": "Holly Van Deursen",
+  "name": "Holly Van Deursen",
+  "background": "Former Group Vice President, Petrochemicals of BP plc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Albemarle Corporation",
+      "ticker": "ALB",
+      "exchange": "NYSE",
+      "website": "https://www.albemarle.com",
+      "title": "Independent Director",
+      "startDate": "2018-01-01",
+      "endDate": null,
+      "formattedStartDate": "2018 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Executive Compensation Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

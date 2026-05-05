@@ -1,0 +1,29 @@
+{
+  "id": "Teresa Finley",
+  "name": "Teresa Finley",
+  "background": "Former Chief Marketing and Business Development Officer of UPS.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Union Pacific Corporation",
+      "ticker": "UNP",
+      "exchange": "NYSE",
+      "website": "https://www.up.com",
+      "title": "Independent Director",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "formattedStartDate": "2022 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Finance Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

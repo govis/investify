@@ -1,0 +1,62 @@
+{
+  "id": "John Ciampaglia",
+  "name": "John Ciampaglia",
+  "background": "Mr. Ciampaglia is the Chief Executive Officer of Sprott Asset Management LP and a Senior Managing Director of Sprott Inc. He has more than 25 years of experience in the investment industry and has held senior positions at several Canadian investment firms.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sprott Physical Gold Trust",
+      "ticker": "PHYS",
+      "exchange": "NYSE",
+      "website": "https://sprott.com/investment-strategies/physical-bullion-trusts/gold/",
+      "title": "Chief Executive Officer, Director",
+      "startDate": "2017-01-01",
+      "endDate": null,
+      "formattedStartDate": "2017 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sprott Energy Transition Materials ETF",
+      "ticker": "SETM",
+      "exchange": "NASDAQ",
+      "website": "https://www.sprottetfs.com/setm-sprott-energy-transition-materials-etf/",
+      "title": "Interested Trustee, President",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sprott Physical Uranium Trust",
+      "ticker": "U",
+      "exchange": "UN.TSX",
+      "website": "https://sprott.com/investment-strategies/physical-commodity-funds/uranium/",
+      "title": "Chief Executive Officer",
+      "startDate": "2021-07-19",
+      "endDate": null,
+      "formattedStartDate": "2021 July",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sprott Uranium Miners ETF",
+      "ticker": "URNM",
+      "exchange": "NYSE",
+      "website": "https://sprottetfs.com/urnm-sprott-uranium-miners-etf/",
+      "title": "Interested Trustee, President",
+      "startDate": "2018-01-01",
+      "endDate": null,
+      "formattedStartDate": "2018 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold",
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 54,
+  "ageYear": 2024
+}

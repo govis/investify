@@ -1,0 +1,40 @@
+{
+  "id": "Rebecca House",
+  "name": "Rebecca House",
+  "background": "Senior Vice President, Chief People and Legal Officer at Rockwell Automation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Marvell Technology, Inc.",
+      "ticker": "MRVL",
+      "exchange": "NASDAQ",
+      "website": "https://www.marvell.com",
+      "title": "Director",
+      "startDate": "2022-04-01",
+      "endDate": null,
+      "formattedStartDate": "2022 April",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Rockwell Automation, Inc.",
+      "ticker": "ROK",
+      "exchange": "NYSE",
+      "website": "https://www.rockwellautomation.com",
+      "title": "Senior Vice President, Chief People and Legal Officer, and Secretary",
+      "startDate": "2017-01-01",
+      "endDate": null,
+      "formattedStartDate": "2017 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Executive Compensation Committee"
+  ],
+  "age": 51,
+  "ageYear": 2024
+}

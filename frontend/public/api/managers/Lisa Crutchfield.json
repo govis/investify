@@ -1,0 +1,29 @@
+{
+  "id": "Lisa Crutchfield",
+  "name": "Lisa Crutchfield",
+  "background": "Ms. Crutchfield is the Managing Principal of Hudson Strategic Advisers, LLC. She has served on the board since 2023.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Vistra Corp.",
+      "ticker": "VST",
+      "exchange": "NYSE",
+      "website": "https://www.vistracorp.com",
+      "title": "Independent Director",
+      "startDate": "2023-02-01",
+      "endDate": null,
+      "formattedStartDate": "2023 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Sustainability and Relevant Public Policy Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

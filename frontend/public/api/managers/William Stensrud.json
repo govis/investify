@@ -1,0 +1,29 @@
+{
+  "id": "William Stensrud",
+  "name": "William Stensrud",
+  "background": "Mr. Stensrud is a partner at Switchback Concepts and has been a director since 1996.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Juniper Networks, Inc.",
+      "ticker": "JNPR",
+      "exchange": "NYSE",
+      "website": "https://www.juniper.net",
+      "title": "Independent Director",
+      "startDate": "1996-10-01",
+      "endDate": null,
+      "formattedStartDate": "1996 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 73,
+  "ageYear": 2024
+}

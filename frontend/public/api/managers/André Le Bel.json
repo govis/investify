@@ -1,0 +1,26 @@
+{
+  "id": "André Le Bel",
+  "name": "André Le Bel",
+  "background": "Mr. Le Bel has over 30 years of experience in corporate law and has served as legal counsel for several mining companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Osisko Gold Royalties Ltd",
+      "ticker": "OR",
+      "exchange": "NYSE",
+      "website": "https://osiskogr.com",
+      "title": "Vice President, Legal Affairs and Corporate Secretary",
+      "startDate": "2014-06-01",
+      "endDate": null,
+      "formattedStartDate": "2014 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

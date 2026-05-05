@@ -1,0 +1,29 @@
+{
+  "id": "William Green",
+  "name": "William Green",
+  "background": "Former Chairman and CEO of Accenture.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Dell Technologies Inc.",
+      "ticker": "DELL",
+      "exchange": "NYSE",
+      "website": "https://www.dell.com",
+      "title": "Independent Director",
+      "startDate": "2016-01-01",
+      "endDate": null,
+      "formattedStartDate": "2016 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Leadership Development and Compensation Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

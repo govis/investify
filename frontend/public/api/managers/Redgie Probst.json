@@ -1,0 +1,27 @@
+{
+  "id": "Redgie Probst",
+  "name": "Redgie Probst",
+  "background": "Mr. Probst has served as Chief Operating Officer of Quanta since July 2022. He previously served as President of Electric Power from 2019 to 2022 and as Senior Vice President of Electric Power from 2018 to 2019.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Quanta Services, Inc.",
+      "ticker": "PWR",
+      "exchange": "NYSE",
+      "website": "https://www.quantaservices.com",
+      "title": "Chief Operating Officer",
+      "startDate": "2022-07-01",
+      "endDate": null,
+      "formattedStartDate": "2022 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 44,
+  "ageYear": 2024
+}

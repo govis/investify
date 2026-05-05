@@ -1,0 +1,30 @@
+{
+  "id": "Diarmuid O'Connell",
+  "name": "Diarmuid O'Connell",
+  "background": "Former Vice President of Business Development at Tesla, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Albemarle Corporation",
+      "ticker": "ALB",
+      "exchange": "NYSE",
+      "website": "https://www.albemarle.com",
+      "title": "Independent Director",
+      "startDate": "2018-01-01",
+      "endDate": null,
+      "formattedStartDate": "2018 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Capital Investment Committee",
+    "Health, Safety & Environmental Committee"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

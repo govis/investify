@@ -1,0 +1,29 @@
+{
+  "id": "Penny Pritzker",
+  "name": "Penny Pritzker",
+  "background": "Founder and Chairman of PSP Partners. Former U.S. Secretary of Commerce.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "https://www.microsoft.com",
+      "title": "Independent Director",
+      "startDate": "2017-11-01",
+      "endDate": null,
+      "formattedStartDate": "2017 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Governance and Nominating Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

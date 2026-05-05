@@ -1,0 +1,29 @@
+{
+  "id": "Cyndi Laval",
+  "name": "Cyndi Laval",
+  "background": "Ms. Laval is a senior partner at Gowling WLG with over 25 years of experience in mining law, corporate finance, and M&A. She is recognized as a leading lawyer in the mining sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "K92 Mining Inc.",
+      "ticker": "KNT",
+      "exchange": "TSX",
+      "website": "https://k92mining.com",
+      "title": "Independent Director",
+      "startDate": "2022-05-01",
+      "endDate": null,
+      "formattedStartDate": "2022 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee (Chair)",
+    "Health, Safety and Environmental Committee"
+  ],
+  "age": 55,
+  "ageYear": 2024
+}

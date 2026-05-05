@@ -1,0 +1,30 @@
+{
+  "id": "Josh Serfass",
+  "name": "Josh Serfass",
+  "background": "Mr. Serfass is the Executive Vice President, Corporate Development and Investor Relations at Integra Resources Corp. He has extensive experience in capital markets and corporate strategy.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lahontan Gold Corp.",
+      "ticker": "LG",
+      "exchange": "TSX",
+      "website": "https://lahontangoldcorp.com/",
+      "title": "Director",
+      "startDate": "2022-04-06",
+      "endDate": null,
+      "formattedStartDate": "2022 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 39,
+  "ageYear": 2024
+}

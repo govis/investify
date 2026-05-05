@@ -1,0 +1,28 @@
+{
+  "id": "Jon Olson",
+  "name": "Jon Olson",
+  "background": "Former CFO of Xilinx, Inc. Joined AMD board following the Xilinx acquisition in 2022.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Advanced Micro Devices, Inc.",
+      "ticker": "AMD",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "title": "Independent Director",
+      "startDate": "2022-02-14",
+      "endDate": null,
+      "formattedStartDate": "2022 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

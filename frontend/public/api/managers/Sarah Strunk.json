@@ -1,0 +1,29 @@
+{
+  "id": "Sarah Strunk",
+  "name": "Sarah Strunk",
+  "background": "Sarah Strunk is Chair of the Board of Directors of Fennemore Craig, P.C., a law firm. She has extensive experience in the mining industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Teck Resources Limited",
+      "ticker": "TECK",
+      "exchange": "NYSE",
+      "website": "https://www.teck.com",
+      "title": "Director",
+      "startDate": "2023-04-26",
+      "endDate": null,
+      "formattedStartDate": "2023 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

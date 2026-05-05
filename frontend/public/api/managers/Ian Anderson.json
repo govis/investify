@@ -1,0 +1,26 @@
+{
+  "id": "Ian Anderson",
+  "name": "Ian Anderson",
+  "background": "Ian Anderson is the Senior Vice President and Chief Commercial Officer. He is responsible for Teck’s marketing and logistics activities globally.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Teck Resources Limited",
+      "ticker": "TECK",
+      "exchange": "NYSE",
+      "website": "https://www.teck.com",
+      "title": "Senior Vice President and Chief Commercial Officer",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "formattedStartDate": "2023 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

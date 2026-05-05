@@ -1,0 +1,29 @@
+{
+  "id": "Edwin Gillis",
+  "name": "Edwin Gillis",
+  "background": "Edwin J. Gillis has been a director since 2006. He was formerly the CFO of Veritas Software Corporation and CFO of PTC Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Teradyne, Inc.",
+      "ticker": "TER",
+      "exchange": "NASDAQ",
+      "website": "https://www.teradyne.com",
+      "title": "Independent Director",
+      "startDate": "2006-01-01",
+      "endDate": null,
+      "formattedStartDate": "2006 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 75,
+  "ageYear": 2024
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Brice Hill",
+  "name": "Brice Hill",
+  "background": "Brice Hill is Senior Vice President and Chief Financial Officer of Applied Materials, joining in March 2022. He previously served as Executive Vice President and Chief Financial Officer of Xilinx, Inc. and spent 25 years at Intel Corporation in various finance and strategy leadership positions.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Applied Materials, Inc.",
+      "ticker": "AMAT",
+      "exchange": "NASDAQ",
+      "website": "https://www.appliedmaterials.com",
+      "title": "Senior Vice President and Chief Financial Officer",
+      "startDate": "2022-03-01",
+      "endDate": null,
+      "formattedStartDate": "2022 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 57,
+  "ageYear": 2024
+}

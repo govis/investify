@@ -1,0 +1,29 @@
+{
+  "id": "Gary Roughead",
+  "name": "Gary Roughead",
+  "background": "Admiral, U.S. Navy (Retired); former Chief of Naval Operations.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "website": "https://www.northropgrumman.com",
+      "title": "Independent Director",
+      "startDate": "2012-01-01",
+      "endDate": null,
+      "formattedStartDate": "2012 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation and Management Development Committee",
+    "Governance, Nominating and Sustainability Committee"
+  ],
+  "age": 72,
+  "ageYear": 2024
+}

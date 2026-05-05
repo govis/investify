@@ -1,0 +1,29 @@
+{
+  "id": "Emma FitzGerald",
+  "name": "Emma FitzGerald",
+  "background": "Dr. FitzGerald was the CEO of Puma Energy and has held senior leadership positions at Royal Dutch Shell.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Newmont Corporation",
+      "ticker": "NEM",
+      "exchange": "NYSE",
+      "website": "https://www.newmont.com",
+      "title": "Independent Director",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Leadership Development and Compensation Committee",
+    "Safety and Sustainability Committee"
+  ],
+  "age": 57,
+  "ageYear": 2024
+}

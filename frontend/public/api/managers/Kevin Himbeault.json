@@ -1,0 +1,38 @@
+{
+  "id": "Kevin Himbeault",
+  "name": "Kevin Himbeault",
+  "background": "Mr. Himbeault is the Vice President, Operations and Regulatory Affairs. He has over 25 years of experience in the mining industry, with a focus on environmental management, regulatory compliance, and operations in the uranium sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Denison Mines Corp.",
+      "ticker": "DNN",
+      "exchange": "NYSE",
+      "website": "https://denisonmines.com",
+      "title": "Vice President, Operations and Regulatory Affairs",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "formattedStartDate": "2022 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Denison Mines Corp.",
+      "ticker": "DNN",
+      "exchange": "TSX",
+      "website": "https://denisonmines.com",
+      "title": "Vice President, Operations and Regulatory Affairs",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "formattedStartDate": "2022 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 52,
+  "ageYear": 2024
+}

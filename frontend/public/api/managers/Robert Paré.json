@@ -1,0 +1,29 @@
+{
+  "id": "Robert Paré",
+  "name": "Robert Paré",
+  "background": "Strategic Advisor at Fasken Martineau DuMoulin LLP.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AtkinsRéalis Group Inc.",
+      "ticker": "ATRL",
+      "exchange": "TSX",
+      "website": "https://www.atkinsrealis.com",
+      "title": "Director",
+      "startDate": "2022-11-01",
+      "endDate": null,
+      "formattedStartDate": "2022 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Governance, Ethics and Sustainability Committee",
+    "Human Resources Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

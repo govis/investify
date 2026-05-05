@@ -1,0 +1,26 @@
+{
+  "id": "Mykhailo Zhernov",
+  "name": "Mykhailo Zhernov",
+  "background": "Mr. Zhernov is the Managing Partner of Millstone & Co, an investment and financial group. He has extensive experience in investment banking and private equity.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Critical Metals Corp.",
+      "ticker": "CRML",
+      "exchange": "NASDAQ",
+      "website": "https://criticalmetalscorp.com",
+      "title": "Director",
+      "startDate": "2024-02-27",
+      "endDate": null,
+      "formattedStartDate": "2024 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 42,
+  "ageYear": 2024
+}

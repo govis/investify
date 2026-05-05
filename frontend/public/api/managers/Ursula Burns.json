@@ -1,0 +1,29 @@
+{
+  "id": "Ursula Burns",
+  "name": "Ursula Burns",
+  "background": "Ursula Burns is an Independent Director. She was the Chairman and CEO of Xerox Corporation and VEON Ltd. She is a member of the National Academy of Engineering and serves on several other boards including Uber and Endeavor.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Taiwan Semiconductor Manufacturing Company Limited",
+      "ticker": "TSM",
+      "exchange": "NYSE",
+      "website": "https://www.tsmc.com",
+      "title": "Independent Director",
+      "startDate": "2024-06-04",
+      "endDate": null,
+      "formattedStartDate": "2024 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

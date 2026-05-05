@@ -1,0 +1,28 @@
+{
+  "id": "Thomas Hogan",
+  "name": "Thomas Hogan",
+  "background": "Thomas J. Hogan has served as a member of our board of directors since March 2021. Mr. Hogan has served as an operating partner at Battery Ventures since January 2021.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Fastly, Inc.",
+      "ticker": "FSLY",
+      "exchange": "NYSE",
+      "website": "https://www.fastly.com",
+      "title": "Director",
+      "startDate": "2021-03-01",
+      "endDate": null,
+      "formattedStartDate": "2021 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

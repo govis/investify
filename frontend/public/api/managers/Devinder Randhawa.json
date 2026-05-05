@@ -1,0 +1,37 @@
+{
+  "id": "Devinder Randhawa",
+  "name": "Devinder Randhawa",
+  "background": "Founder of Fission Uranium and Fission Energy. Experienced in corporate finance and resource company management.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Fission Uranium Corp.",
+      "ticker": "FCU",
+      "exchange": "TSX",
+      "website": "https://fissionuranium.com",
+      "title": "Chairman",
+      "startDate": "2013-02-13",
+      "endDate": null,
+      "formattedStartDate": "2013 February",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "F3 Uranium Corp.",
+      "ticker": "FUU",
+      "exchange": "TSX",
+      "website": "https://f3uranium.com",
+      "title": "Chairman, Chief Executive Officer",
+      "startDate": "2022-11-01",
+      "endDate": null,
+      "formattedStartDate": "2022 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 64,
+  "ageYear": 2024
+}

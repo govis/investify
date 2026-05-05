@@ -1,0 +1,26 @@
+{
+  "id": "Aaron Keay",
+  "name": "Aaron Keay",
+  "background": "Mr. Keay is an experienced entrepreneur and capital markets professional. He has served as a director and officer of several public companies in the resource and technology sectors.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Fission Uranium Corp.",
+      "ticker": "FCU",
+      "exchange": "TSX",
+      "website": "https://fissionuranium.com",
+      "title": "Chief Operating Officer",
+      "startDate": "2023-05-01",
+      "endDate": null,
+      "formattedStartDate": "2023 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 45,
+  "ageYear": 2024
+}

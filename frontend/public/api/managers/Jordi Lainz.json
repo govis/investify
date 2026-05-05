@@ -1,0 +1,26 @@
+{
+  "id": "Jordi Lainz",
+  "name": "Jordi Lainz",
+  "background": "Mr. Lainz served as our Chief Financial Officer from 2018 until May 2024, and now serves as Corporate Director. Previously, he was the CFO of Eurofred Group and held various financial positions at several multinational companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Wallbox N.V.",
+      "ticker": "WBX",
+      "exchange": "NYSE",
+      "website": "https://wallbox.com",
+      "title": "Corporate Director",
+      "startDate": "2024-05-15",
+      "endDate": null,
+      "formattedStartDate": "2024 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

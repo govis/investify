@@ -1,0 +1,27 @@
+{
+  "id": "Bob Fogarty",
+  "name": "Bob Fogarty",
+  "background": "Mr. Fogarty has served as our Chief Financial Officer since June 2022. He has over 30 years of experience in finance and accounting, including serving as CFO for several public and private companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "ASP Isotopes Inc.",
+      "ticker": "ASPI",
+      "exchange": "NYSE",
+      "website": "https://aspisotopes.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2022-06-01",
+      "endDate": null,
+      "formattedStartDate": "2022 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 63,
+  "ageYear": 2024
+}

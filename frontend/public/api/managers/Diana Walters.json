@@ -1,0 +1,29 @@
+{
+  "id": "Diana Walters",
+  "name": "Diana Walters",
+  "background": "Ms. Walters has over 30 years of experience in the natural resources sector. She is currently the Chair of the Board and has held various executive roles in investment and mining companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Platinum Group Metals Ltd.",
+      "ticker": "PTM",
+      "exchange": "NYSE",
+      "website": "https://www.platinumgroupmetals.net",
+      "title": "Chair of the Board",
+      "startDate": "2014-01-01",
+      "endDate": null,
+      "formattedStartDate": "2014 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

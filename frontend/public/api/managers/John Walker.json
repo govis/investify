@@ -1,0 +1,29 @@
+{
+  "id": "John Walker",
+  "name": "John Walker",
+  "background": "Former Chief Executive Officer of Global Brass and Copper Holdings, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Nucor Corporation",
+      "ticker": "NUE",
+      "exchange": "NYSE",
+      "website": "https://nucor.com",
+      "title": "Independent Director",
+      "startDate": "2008-01-01",
+      "endDate": null,
+      "formattedStartDate": "2008 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Governance and Nominating"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

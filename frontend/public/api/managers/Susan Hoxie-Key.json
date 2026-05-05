@@ -1,0 +1,29 @@
+{
+  "id": "Susan Hoxie-Key",
+  "name": "Susan Hoxie-Key",
+  "background": "Ms. Hoxie-Key is a nuclear engineer with over 30 years of experience in the nuclear fuel cycle, including a long career at Southern Nuclear Operating Company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "enCore Energy Corp.",
+      "ticker": "EU",
+      "exchange": "TSX",
+      "website": "https://encoreuranium.com",
+      "title": "Independent Director",
+      "startDate": "2023-06-21",
+      "endDate": null,
+      "formattedStartDate": "2023 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Governance and Nominating Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

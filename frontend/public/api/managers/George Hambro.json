@@ -1,0 +1,30 @@
+{
+  "id": "George Hambro",
+  "name": "George Hambro",
+  "background": "Former CEO of First Solar. He has served on the board since 2012.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "First Solar, Inc.",
+      "ticker": "FSLR",
+      "exchange": "NASDAQ",
+      "website": "https://www.firstsolar.com",
+      "title": "Independent Director",
+      "startDate": "2012-01-01",
+      "endDate": null,
+      "formattedStartDate": "2012 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating and Governance Committee",
+    "Technology Committee"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

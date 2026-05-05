@@ -1,0 +1,29 @@
+{
+  "id": "Alan Boeckmann",
+  "name": "Alan Boeckmann",
+  "background": "Mr. Boeckmann has served as a member of our Board since May 2022. He is the former Executive Chairman and CEO of Fluor Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NuScale Power Corporation",
+      "ticker": "SMR",
+      "exchange": "NYSE",
+      "website": "https://www.nuscalepower.com",
+      "title": "Director",
+      "startDate": "2022-05-01",
+      "endDate": null,
+      "formattedStartDate": "2022 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 75,
+  "ageYear": 2024
+}

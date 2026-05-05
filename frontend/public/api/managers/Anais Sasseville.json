@@ -1,0 +1,27 @@
+{
+  "id": "Anais Sasseville",
+  "name": "Anais Sasseville",
+  "background": "Ms. Sasseville has over 10 years of experience in corporate communications and investor relations within the mining sector. She previously worked with Ely Gold Royalties and Gold Royalty Corp.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Dryden Gold Corp.",
+      "ticker": "DRY",
+      "exchange": "TSX",
+      "website": "https://drydengold.com",
+      "title": "Vice President, Corporate Communications",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "formattedStartDate": "2023 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 35,
+  "ageYear": 2024
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Robert Ortberg",
+  "name": "Robert Ortberg",
+  "background": "Former CEO of Rockwell Collins and former Special Advisor to the Office of the CEO of RTX.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "RTX Corporation",
+      "ticker": "RTX",
+      "exchange": "NYSE",
+      "website": "https://www.rtx.com",
+      "title": "Independent Director",
+      "startDate": "2020-04-03",
+      "endDate": null,
+      "formattedStartDate": "2020 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Finance"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

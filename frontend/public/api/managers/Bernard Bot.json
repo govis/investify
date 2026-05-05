@@ -1,0 +1,28 @@
+{
+  "id": "Bernard Bot",
+  "name": "Bernard Bot",
+  "background": "Bernard Bot is the CFO of Logitech. He has previously served as CFO of Travelport and Aer Lingus, and held senior roles at TNT Express.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "A.P. Møller - Mærsk A/S",
+      "ticker": "AMKBY",
+      "exchange": "OTC",
+      "website": "https://www.maersk.com",
+      "title": "Member of the Board",
+      "startDate": "2019-03-28",
+      "endDate": null,
+      "formattedStartDate": "2019 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Chair of the Audit Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

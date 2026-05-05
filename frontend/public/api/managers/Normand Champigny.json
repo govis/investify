@@ -1,0 +1,29 @@
+{
+  "id": "Normand Champigny",
+  "name": "Normand Champigny",
+  "background": "Mr. Champigny is a geological engineer with over 40 years of experience. He is currently the CEO of Quebec Precious Metals Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "G Mining Ventures Corp.",
+      "ticker": "GMIN",
+      "exchange": "TSX",
+      "website": "https://www.gminingventures.com",
+      "title": "Independent Director",
+      "startDate": "2020-11-25",
+      "endDate": null,
+      "formattedStartDate": "2020 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

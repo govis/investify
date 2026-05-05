@@ -1,0 +1,39 @@
+{
+  "id": "Lisa Wade",
+  "name": "Lisa Wade",
+  "background": "Ms. Wade is an environmental engineer with over 25 years of experience in the mining industry. She was previously the VP, Environmental, Social and Governance at Goldcorp Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Artemis Gold Inc.",
+      "ticker": "ARTG",
+      "exchange": "TSX",
+      "website": "https://www.artemisgoldinc.com",
+      "title": "Independent Director",
+      "startDate": "2021-06-01",
+      "endDate": null,
+      "formattedStartDate": "2021 June",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Revival Gold Inc.",
+      "ticker": "RVG",
+      "exchange": "TSX",
+      "website": "https://revival-gold.com",
+      "title": "Vice President, Environmental, Health & Safety",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Health, Safety, Environment and Social Performance Committee"
+  ],
+  "age": 54,
+  "ageYear": 2024
+}

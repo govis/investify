@@ -1,0 +1,26 @@
+{
+  "id": "Jason Aiken",
+  "name": "Jason Aiken",
+  "background": "Mr. Aiken has been Executive Vice President, Technologies, since January 2024. He previously served as Senior Vice President and Chief Financial Officer from January 2014 to December 2023.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "General Dynamics Corporation",
+      "ticker": "GD",
+      "exchange": "NYSE",
+      "website": "https://www.gd.com",
+      "title": "Executive Vice President, Technologies",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "formattedStartDate": "2024 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 51,
+  "ageYear": 2024
+}

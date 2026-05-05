@@ -1,0 +1,29 @@
+{
+  "id": "Luis Vergara",
+  "name": "Luis Vergara",
+  "background": "Former Partner of Goldman Sachs & Co.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Steel Dynamics, Inc.",
+      "ticker": "STLD",
+      "exchange": "NASDAQ",
+      "website": "https://www.steeldynamics.com",
+      "title": "Independent Director",
+      "startDate": "2022-05",
+      "endDate": null,
+      "formattedStartDate": "2022 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

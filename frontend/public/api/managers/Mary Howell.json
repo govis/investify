@@ -1,0 +1,28 @@
+{
+  "id": "Mary Howell",
+  "name": "Mary Howell",
+  "background": "Ms. Howell has served as a director since 2021. She previously served as Executive Vice President of Textron Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AeroVironment, Inc.",
+      "ticker": "AVAV",
+      "exchange": "NASDAQ",
+      "website": "https://www.avinc.com",
+      "title": "Director",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 72,
+  "ageYear": 2024
+}

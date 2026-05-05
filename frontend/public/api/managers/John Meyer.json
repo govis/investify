@@ -1,0 +1,26 @@
+{
+  "id": "John Meyer",
+  "name": "John Meyer",
+  "background": "Mr. Meyer is a mining engineer with over 30 years of experience in the mining industry. He was previously Vice President, Development with Kinross Gold Corporation and has held senior roles with Barrick Gold Corporation and Placer Dome. Mr. Meyer has extensive experience in project development and operations.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Revival Gold Inc.",
+      "ticker": "RVG",
+      "exchange": "TSX",
+      "website": "https://revival-gold.com",
+      "title": "Vice President, Engineering and Development",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "formattedStartDate": "2022 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 58,
+  "ageYear": 2024
+}

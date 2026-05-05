@@ -1,0 +1,26 @@
+{
+  "id": "Andy Green",
+  "name": "Andy Green",
+  "background": "Andy Green is executive vice president of HII and president of Mission Technologies. He was elected to this position in 2016. Green previously served as corporate vice president of strategy and corporate development.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Huntington Ingalls Industries, Inc.",
+      "ticker": "HII",
+      "exchange": "NYSE",
+      "website": "https://www.hii.com",
+      "title": "Executive Vice President and President, Mission Technologies",
+      "startDate": "2016-01-01",
+      "endDate": null,
+      "formattedStartDate": "2016 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 53,
+  "ageYear": 2024
+}

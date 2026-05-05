@@ -1,0 +1,26 @@
+{
+  "id": "Teresa Cherry",
+  "name": "Teresa Cherry",
+  "background": "Ms. Cherry has over 20 years of experience in the mining industry and has held senior positions at several public companies. She is a Chartered Professional Accountant.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Anfield Energy Inc.",
+      "ticker": "AEC",
+      "exchange": "TSX",
+      "website": "https://anfieldenergy.com/",
+      "title": "Chief Financial Officer",
+      "startDate": "2015-01-01",
+      "endDate": null,
+      "formattedStartDate": "2015 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Asher Levitsky",
+  "name": "Asher Levitsky",
+  "background": "Mr. Levitsky is a lawyer with over 40 years of experience in corporate and securities law. He is a partner at Ellenoff Grossman & Schole LLP.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Global Atomic Corporation",
+      "ticker": "GLO",
+      "exchange": "TSX",
+      "website": "https://globalatomiccorp.com",
+      "title": "Independent Director",
+      "startDate": "2017-12-22",
+      "endDate": null,
+      "formattedStartDate": "2017 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 79,
+  "ageYear": 2024
+}

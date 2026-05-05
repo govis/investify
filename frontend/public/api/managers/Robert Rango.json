@@ -1,0 +1,28 @@
+{
+  "id": "Robert Rango",
+  "name": "Robert Rango",
+  "background": "Robert Rango is the former President and CEO of Enevate Corporation and previously held senior leadership roles at Broadcom Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "KLA Corporation",
+      "ticker": "KLAC",
+      "exchange": "NASDAQ",
+      "website": "https://www.kla.com",
+      "title": "Independent Director",
+      "startDate": "2014-01-01",
+      "endDate": null,
+      "formattedStartDate": "2014 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

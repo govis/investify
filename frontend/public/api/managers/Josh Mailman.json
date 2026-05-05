@@ -1,0 +1,31 @@
+{
+  "id": "Josh Mailman",
+  "name": "Josh Mailman",
+  "background": "Mr. Mailman has served as a director since September 2021. He is an experienced investor and advocate for nuclear medicine and molecular imaging.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "ASP Isotopes Inc.",
+      "ticker": "ASPI",
+      "exchange": "NASDAQ",
+      "website": "https://aspisotopes.com",
+      "title": "Independent Director",
+      "startDate": "2021-09-01",
+      "endDate": null,
+      "formattedStartDate": "2021 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 56,
+  "ageYear": 2024
+}

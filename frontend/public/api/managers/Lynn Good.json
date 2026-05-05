@@ -1,0 +1,41 @@
+{
+  "id": "Lynn Good",
+  "name": "Lynn Good",
+  "background": "Chair, President and CEO of Duke Energy Corporation. Former CFO of Duke Energy.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "The Boeing Company",
+      "ticker": "BA",
+      "exchange": "NYSE",
+      "website": "https://www.boeing.com",
+      "title": "Director",
+      "startDate": "2015-08-01",
+      "endDate": null,
+      "formattedStartDate": "2015 August",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Duke Energy Corporation",
+      "ticker": "DUK",
+      "exchange": "NYSE",
+      "website": "https://www.duke-energy.com",
+      "title": "Chair, President and Chief Executive Officer",
+      "startDate": "2013-07-01",
+      "endDate": null,
+      "formattedStartDate": "2013 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Compensation (Chair)"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

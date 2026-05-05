@@ -1,0 +1,29 @@
+{
+  "id": "Michael Johanns",
+  "name": "Michael Johanns",
+  "background": "Former U.S. Senator and former U.S. Secretary of Agriculture.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Deere & Company",
+      "ticker": "DE",
+      "exchange": "NYSE",
+      "website": "https://www.deere.com",
+      "title": "Independent Director",
+      "startDate": "2015-01-01",
+      "endDate": null,
+      "formattedStartDate": "2015 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance Committee",
+    "Finance Committee"
+  ],
+  "age": 73,
+  "ageYear": 2024
+}

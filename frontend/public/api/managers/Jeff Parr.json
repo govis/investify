@@ -1,0 +1,29 @@
+{
+  "id": "Jeff Parr",
+  "name": "Jeff Parr",
+  "background": "Mr. Parr is a Chartered Professional Accountant with over 30 years of experience in the mining industry. He was previously the CFO of Centerra Gold Inc. and has served on the boards of several mining companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Discovery Silver Corp.",
+      "ticker": "DSV",
+      "exchange": "TSX",
+      "website": "https://discoverysilver.com",
+      "title": "Independent Director",
+      "startDate": "2019-08-01",
+      "endDate": null,
+      "formattedStartDate": "2019 August",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Governance and Nominating Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

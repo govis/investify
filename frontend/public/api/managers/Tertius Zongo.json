@@ -1,0 +1,41 @@
+{
+  "id": "Tertius Zongo",
+  "name": "Tertius Zongo",
+  "background": "Tertius Zongo served as the Prime Minister of Burkina Faso from 2007 to 2011 and has held various senior government and international roles.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "LSE",
+      "website": "https://www.endeavourmining.com",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2021-02-10",
+      "endDate": null,
+      "formattedStartDate": "2021 February",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "TSX",
+      "website": "https://www.endeavourmining.com",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2016-10-11",
+      "endDate": null,
+      "formattedStartDate": "2016 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "ESG Committee (Chair)",
+    "Nomination and Governance Committee",
+    "Technical, Health & Safety Committee"
+  ],
+  "age": 67,
+  "ageYear": 2024
+}

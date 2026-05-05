@@ -1,0 +1,38 @@
+{
+  "id": "John Crimmins",
+  "name": "John Crimmins",
+  "background": "Senior Vice President of Van Eck Associates Corporation, Van Eck Securities Corporation, and Van Eck Absolute Return Advisers, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "VanEck Uranium and Nuclear Energy ETF",
+      "ticker": "NLR",
+      "exchange": "NYSE",
+      "website": "https://www.vaneck.com/us/en/investments/uranium-nuclear-energy-etf-nlr/",
+      "title": "Treasurer and Chief Financial Officer",
+      "startDate": "2001-01-01",
+      "endDate": null,
+      "formattedStartDate": "2001 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "VanEck Rare Earth/Strategic Metals ETF",
+      "ticker": "SETM",
+      "exchange": "NYSE",
+      "website": "https://www.vaneck.com/us/en/investments/rare-earth-strategic-metals-etf-remx/",
+      "title": "Treasurer and Chief Financial Officer",
+      "startDate": "2009",
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 68,
+  "ageYear": 2024
+}

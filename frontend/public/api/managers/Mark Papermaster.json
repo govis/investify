@@ -1,0 +1,26 @@
+{
+  "id": "Mark Papermaster",
+  "name": "Mark Papermaster",
+  "background": "Mr. Papermaster is AMD’s Executive Vice President and Chief Technology Officer. He joined AMD in 2011. Previously, he was Vice President of the Silicon Engineering Group at Cisco Systems, Inc. and Senior Vice President of Devices Hardware Engineering at Apple Inc. He also spent 26 years at IBM.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Advanced Micro Devices, Inc.",
+      "ticker": "AMD",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "title": "Executive Vice President and Chief Technology Officer",
+      "startDate": "2011-10-01",
+      "endDate": null,
+      "formattedStartDate": "2011 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 62,
+  "ageYear": 2024
+}

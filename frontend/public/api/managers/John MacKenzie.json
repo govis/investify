@@ -1,0 +1,26 @@
+{
+  "id": "John MacKenzie",
+  "name": "John MacKenzie",
+  "background": "Mr. MacKenzie has over 30 years of experience in the metals and mining industry. Prior to the business combination of Capstone Mining and Mantos Copper, he was the Executive Chairman of Mantos Copper. He previously served as CEO of Copper for Anglo American.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Capstone Copper Corp.",
+      "ticker": "CS",
+      "exchange": "TSX",
+      "website": "https://capstonecopper.com",
+      "title": "Chief Executive Officer, Director",
+      "startDate": "2022-03-23",
+      "endDate": null,
+      "formattedStartDate": "2022 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

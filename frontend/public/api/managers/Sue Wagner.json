@@ -1,0 +1,28 @@
+{
+  "id": "Sue Wagner",
+  "name": "Sue Wagner",
+  "background": "Ms. Wagner is a co-founder of BlackRock, Inc. and served as its Vice Chairman from 2006 to 2012.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "exchange": "NASDAQ",
+      "website": "https://www.apple.com",
+      "title": "Independent Director",
+      "startDate": "2014-07-17",
+      "endDate": null,
+      "formattedStartDate": "2014 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

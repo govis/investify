@@ -1,0 +1,26 @@
+{
+  "id": "Ken Miller",
+  "name": "Ken Miller",
+  "background": "Mr. Miller has served as our Executive Vice President and Chief Financial Officer since February 2016. He joined Juniper in 1999 and has held various senior financial roles.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Juniper Networks, Inc.",
+      "ticker": "JNPR",
+      "exchange": "NYSE",
+      "website": "https://www.juniper.net",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2016-02-01",
+      "endDate": null,
+      "formattedStartDate": "2016 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 52,
+  "ageYear": 2024
+}

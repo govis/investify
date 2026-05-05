@@ -1,0 +1,26 @@
+{
+  "id": "David Medilek",
+  "name": "David Medilek",
+  "background": "Mr. Medilek is a mining professional with experience in investment banking, corporate development, and engineering. He was previously a Director of Mining Investment Banking at a major Canadian bank.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "K92 Mining Inc.",
+      "ticker": "KNT",
+      "exchange": "TSX",
+      "website": "https://k92mining.com",
+      "title": "President",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "formattedStartDate": "2023 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 41,
+  "ageYear": 2024
+}

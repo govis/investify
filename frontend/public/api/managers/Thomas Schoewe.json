@@ -1,0 +1,43 @@
+{
+  "id": "Thomas Schoewe",
+  "name": "Thomas Schoewe",
+  "background": "Former Executive Vice President and CFO of Walmart Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "website": "https://www.gm.com",
+      "title": "Independent Director",
+      "startDate": "2011-11-14",
+      "endDate": null,
+      "formattedStartDate": "2011 November",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "website": "https://www.northropgrumman.com",
+      "title": "Independent Director",
+      "startDate": "2011-01-01",
+      "endDate": null,
+      "formattedStartDate": "2011 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation and Management Development Committee",
+    "Finance Committee"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

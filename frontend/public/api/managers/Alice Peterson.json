@@ -1,0 +1,29 @@
+{
+  "id": "Alice Peterson",
+  "name": "Alice Peterson",
+  "background": "President, Syrus Global.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Rockwell Automation, Inc.",
+      "ticker": "ROK",
+      "exchange": "NYSE",
+      "website": "https://www.rockwellautomation.com",
+      "title": "Independent Director",
+      "startDate": "2020-12-01",
+      "endDate": null,
+      "formattedStartDate": "2020 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Governance and Corporate Responsibility Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

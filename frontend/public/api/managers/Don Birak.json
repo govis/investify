@@ -1,0 +1,29 @@
+{
+  "id": "Don Birak",
+  "name": "Don Birak",
+  "background": "Mr. Birak is a geologist with over 40 years of experience in the mining industry. He was previously Senior Vice President of Exploration with Coeur Mining, Inc. and held senior roles with AngloGold Ashanti and Homestake Mining Company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Revival Gold Inc.",
+      "ticker": "RVG",
+      "exchange": "TSX",
+      "website": "https://revival-gold.com",
+      "title": "Independent Director",
+      "startDate": "2017-01-01",
+      "endDate": null,
+      "formattedStartDate": "2017 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation, Governance and Nominating Committee",
+    "Technical and Health, Safety, Environmental and Social Committee"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

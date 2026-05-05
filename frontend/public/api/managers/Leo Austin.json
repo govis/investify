@@ -1,0 +1,26 @@
+{
+  "id": "Leo Austin",
+  "name": "Leo Austin",
+  "background": "Mr. Austin has served as our Chief Financial Officer since July 2024. Prior to joining Spire, he served as the Chief Financial Officer of Lordstown Motors Corp. and held various senior finance roles at other technology companies. He holds a B.A. in Economics from the University of Virginia and an M.B.A. from the University of Pennsylvania's Wharton School.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Spire Global, Inc.",
+      "ticker": "SPIR",
+      "exchange": "NYSE",
+      "website": "https://spire.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2024-07-01",
+      "endDate": null,
+      "formattedStartDate": "2024 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 44,
+  "ageYear": 2024
+}

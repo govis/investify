@@ -1,0 +1,41 @@
+{
+  "id": "Dirk Hoke",
+  "name": "Dirk Hoke",
+  "background": "Mr. Hoke has served as a director since 2023. He is the CEO of Volocopter GmbH and was previously the CEO of Airbus Defence and Space.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "SolarEdge Technologies, Inc.",
+      "ticker": "SEDG",
+      "exchange": "NASDAQ",
+      "website": "https://www.solaredge.com",
+      "title": "Director",
+      "startDate": "2023-06-01",
+      "endDate": null,
+      "formattedStartDate": "2023 June",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Spire Global, Inc.",
+      "ticker": "SPIR",
+      "exchange": "NYSE",
+      "website": "https://spire.com",
+      "title": "Director",
+      "startDate": "2021-11-01",
+      "endDate": null,
+      "formattedStartDate": "2021 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 55,
+  "ageYear": 2024
+}

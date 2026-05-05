@@ -1,0 +1,28 @@
+{
+  "id": "John Donahoe",
+  "name": "John Donahoe",
+  "background": "President and Chief Executive Officer of Nike, Inc. Former CEO of ServiceNow.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "ServiceNow, Inc.",
+      "ticker": "NOW",
+      "exchange": "NYSE",
+      "website": "https://www.servicenow.com",
+      "title": "Independent Director",
+      "startDate": "2017-04-01",
+      "endDate": null,
+      "formattedStartDate": "2017 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating and Governance Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

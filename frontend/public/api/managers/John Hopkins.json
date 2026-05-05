@@ -1,0 +1,26 @@
+{
+  "id": "John Hopkins",
+  "name": "John Hopkins",
+  "background": "Mr. Hopkins has served as our President and Chief Executive Officer and as a member of our Board since May 2022. He previously served as the President and Chief Executive Officer of NuScale LLC from December 2012 to May 2022. Prior to joining NuScale LLC, Mr. Hopkins held several senior executive positions at Fluor Corporation, including Group President of Fluor’s Government Group and President of Fluor’s Global Corporate Development and New Ventures Group.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NuScale Power Corporation",
+      "ticker": "SMR",
+      "exchange": "NYSE",
+      "website": "https://www.nuscalepower.com",
+      "title": "Director, President and Chief Executive Officer",
+      "startDate": "2022-05-01",
+      "endDate": null,
+      "formattedStartDate": "2022 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 70,
+  "ageYear": 2024
+}

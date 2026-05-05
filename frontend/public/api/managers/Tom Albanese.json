@@ -1,0 +1,29 @@
+{
+  "id": "Tom Albanese",
+  "name": "Tom Albanese",
+  "background": "Former CEO of Rio Tinto and Vedanta Resources. He has extensive global mining experience.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Franco-Nevada Corporation",
+      "ticker": "FNV",
+      "exchange": "NYSE",
+      "website": "https://www.franco-nevada.com",
+      "title": "Independent Director",
+      "startDate": "2013-03-01",
+      "endDate": null,
+      "formattedStartDate": "2013 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "ESG Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

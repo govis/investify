@@ -1,0 +1,29 @@
+{
+  "id": "John McGloin",
+  "name": "John McGloin",
+  "background": "Mr. McGloin is a geologist and graduate of the Camborne School of Mines with over 30 years of experience in the mining industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Perseus Mining Limited",
+      "ticker": "PRU",
+      "exchange": "ASX",
+      "website": "https://perseusmining.com/",
+      "title": "Non-Executive Director",
+      "startDate": "2016-04-19",
+      "endDate": null,
+      "formattedStartDate": "2016 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Remuneration Committee (Chair)",
+    "Technical Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

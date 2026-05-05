@@ -1,0 +1,27 @@
+{
+  "id": "Nathalie Laurin",
+  "name": "Nathalie Laurin",
+  "background": "Ms. Laurin has over 30 years of experience in administration and accounting. She has served as CFO for several public companies in the resource sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Delta Resources Limited",
+      "ticker": "DLTA",
+      "exchange": "TSX",
+      "website": "https://deltaresources.ca",
+      "title": "Chief Financial Officer",
+      "startDate": "2019-07-01",
+      "endDate": null,
+      "formattedStartDate": "2019 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 58,
+  "ageYear": 2024
+}

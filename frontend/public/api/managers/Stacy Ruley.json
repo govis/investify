@@ -1,0 +1,27 @@
+{
+  "id": "Stacy Ruley",
+  "name": "Stacy Ruley",
+  "background": "Ms. Ruley has served as Vice President, Chief Accounting Officer since 2021. She joined Albemarle in 2015 and has held various finance leadership roles.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Albemarle Corporation",
+      "ticker": "ALB",
+      "exchange": "NYSE",
+      "website": "https://www.albemarle.com",
+      "title": "Vice President, Chief Accounting Officer",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 54,
+  "ageYear": 2024
+}

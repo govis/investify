@@ -1,0 +1,29 @@
+{
+  "id": "John Caldwell",
+  "name": "John Caldwell",
+  "background": "Former President and CEO of SMTC Corporation. Director since 2006. Lead Independent Director.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Advanced Micro Devices, Inc.",
+      "ticker": "AMD",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "title": "Lead Independent Director",
+      "startDate": "2006-01-01",
+      "endDate": null,
+      "formattedStartDate": "2006 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 74,
+  "ageYear": 2024
+}

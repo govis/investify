@@ -1,0 +1,28 @@
+{
+  "id": "Bill Sheriff",
+  "name": "Bill Sheriff",
+  "background": "Mr. Sheriff is a seasoned mining executive with over 30 years of experience. He was the founder and Chairman of Energy Metals Corp. and has held numerous board positions in the uranium sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Stallion Uranium Corp.",
+      "ticker": "STUD",
+      "exchange": "TSX",
+      "website": "https://stallionuranium.com",
+      "title": "Chairman",
+      "startDate": "2023-03-20",
+      "endDate": null,
+      "formattedStartDate": "2023 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

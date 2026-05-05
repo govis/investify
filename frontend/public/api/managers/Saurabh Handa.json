@@ -1,0 +1,42 @@
+{
+  "id": "Saurabh Handa",
+  "name": "Saurabh Handa",
+  "background": "Mr. Handa is a Chartered Professional Accountant with over 15 years of experience in the mining industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Azincourt Energy Corp.",
+      "ticker": "AAZ",
+      "exchange": "TSX",
+      "website": "https://azincourtenergy.com",
+      "title": "Director",
+      "startDate": "2021-06-01",
+      "endDate": null,
+      "formattedStartDate": "2021 June",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "K92 Mining Inc.",
+      "ticker": "KNT",
+      "exchange": "TSX",
+      "website": "https://k92mining.com",
+      "title": "Independent Director",
+      "startDate": "2019-05-01",
+      "endDate": null,
+      "formattedStartDate": "2019 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Audit Committee (Chair)",
+    "Compensation Committee"
+  ],
+  "age": 45,
+  "ageYear": 2024
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Richard Paton",
+  "name": "Richard Paton",
+  "background": "Mr. Paton has over 30 years of experience in public policy and government relations. He was the President and CEO of the Chemistry Industry Association of Canada.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NexGen Energy Ltd.",
+      "ticker": "NXE",
+      "exchange": "NYSE",
+      "website": "https://www.nexgenenergy.ca",
+      "title": "Independent Director",
+      "startDate": "2014-01-01",
+      "endDate": null,
+      "formattedStartDate": "2014 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Governance and Nomination Committee",
+    "Sustainability Committee"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

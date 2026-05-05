@@ -1,0 +1,28 @@
+{
+  "id": "Judith Marks",
+  "name": "Judith Marks",
+  "background": "Chair, CEO and President of Otis Worldwide Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Caterpillar Inc.",
+      "ticker": "CAT",
+      "exchange": "NYSE",
+      "website": "https://www.caterpillar.com",
+      "title": "Independent Director",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "formattedStartDate": "2023 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Public Policy and Sustainability Committee"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

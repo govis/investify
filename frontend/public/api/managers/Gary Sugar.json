@@ -1,0 +1,29 @@
+{
+  "id": "Gary Sugar",
+  "name": "Gary Sugar",
+  "background": "Mr. Sugar has over 40 years of experience in investment banking, specializing in the mining sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Seabridge Gold Inc.",
+      "ticker": "SA",
+      "exchange": "NYSE",
+      "website": "https://www.seabridgegold.com",
+      "title": "Director",
+      "startDate": "2018-01-01",
+      "endDate": null,
+      "formattedStartDate": "2018 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

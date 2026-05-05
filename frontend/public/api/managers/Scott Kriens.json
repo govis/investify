@@ -1,0 +1,26 @@
+{
+  "id": "Scott Kriens",
+  "name": "Scott Kriens",
+  "background": "Mr. Kriens has served as Chairman of the Board since 1996. He served as our CEO from 1996 to 2008.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Juniper Networks, Inc.",
+      "ticker": "JNPR",
+      "exchange": "NYSE",
+      "website": "https://www.juniper.net",
+      "title": "Chairman of the Board",
+      "startDate": "1996-10-01",
+      "endDate": null,
+      "formattedStartDate": "1996 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 66,
+  "ageYear": 2024
+}

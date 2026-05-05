@@ -1,0 +1,26 @@
+{
+  "id": "Samir Patel",
+  "name": "Samir Patel",
+  "background": "Mr. Patel is a corporate and securities lawyer with over 15 years of experience in the resource sector. He has served as General Counsel and Corporate Secretary for several public companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "F3 Uranium Corp.",
+      "ticker": "FUU",
+      "exchange": "TSX",
+      "website": "https://f3uranium.com",
+      "title": "General Counsel and Corporate Secretary",
+      "startDate": "2022-11-01",
+      "endDate": null,
+      "formattedStartDate": "2022 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 45,
+  "ageYear": 2024
+}

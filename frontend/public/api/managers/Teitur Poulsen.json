@@ -1,0 +1,26 @@
+{
+  "id": "Teitur Poulsen",
+  "name": "Teitur Poulsen",
+  "background": "Mr. Poulsen has over 25 years of experience in the resource industry. He joined Lundin Mining as Senior Vice President and Chief Financial Officer in 2023. Prior to this, he was CFO of Lundin Energy AB.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lundin Mining Corporation",
+      "ticker": "LUN",
+      "exchange": "TSX",
+      "website": "https://www.lundinmining.com",
+      "title": "Senior Vice President and Chief Financial Officer",
+      "startDate": "2023-09-01",
+      "endDate": null,
+      "formattedStartDate": "2023 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 52,
+  "ageYear": 2024
+}

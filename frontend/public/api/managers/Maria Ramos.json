@@ -1,0 +1,29 @@
+{
+  "id": "Maria Ramos",
+  "name": "Maria Ramos",
+  "background": "Maria Ramos is an independent non-executive director. She was formerly the CEO of Absa Group Limited and Director-General of the National Treasury of South Africa.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AngloGold Ashanti plc",
+      "ticker": "AU",
+      "exchange": "NYSE",
+      "website": "https://www.anglogoldashanti.com",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2019-06-01",
+      "endDate": null,
+      "formattedStartDate": "2019 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Social, Ethics and Sustainability Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

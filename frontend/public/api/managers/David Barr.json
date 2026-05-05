@@ -1,0 +1,29 @@
+{
+  "id": "David Barr",
+  "name": "David Barr",
+  "background": "Managing Director of Warburg Pincus LLC. He has been a director since 2003.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "TransDigm Group Incorporated",
+      "ticker": "TDG",
+      "exchange": "NYSE",
+      "website": "https://www.transdigm.com",
+      "title": "Independent Director",
+      "startDate": "2003-07-01",
+      "endDate": null,
+      "formattedStartDate": "2003 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

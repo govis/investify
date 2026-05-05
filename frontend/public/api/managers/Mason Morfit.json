@@ -1,0 +1,26 @@
+{
+  "id": "Mason Morfit",
+  "name": "Mason Morfit",
+  "background": "CEO and Co-Chief Investment Officer of ValueAct Capital. He joined the board in 2023.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Salesforce, Inc.",
+      "ticker": "CRM",
+      "exchange": "NYSE",
+      "website": "https://www.salesforce.com",
+      "title": "Independent Director",
+      "startDate": "2023-03-01",
+      "endDate": null,
+      "formattedStartDate": "2023 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 48,
+  "ageYear": 2024
+}

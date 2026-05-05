@@ -1,0 +1,26 @@
+{
+  "id": "Frank Connor",
+  "name": "Frank Connor",
+  "background": "Mr. Connor has served as Executive Vice President and Chief Financial Officer since August 2009. Before joining Textron, he was Managing Director and Head of Consolidated Corporate Finance at Goldman, Sachs & Co.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Textron Inc.",
+      "ticker": "TXT",
+      "exchange": "NYSE",
+      "website": "https://www.textron.com",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2009-08-01",
+      "endDate": null,
+      "formattedStartDate": "2009 August",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 64,
+  "ageYear": 2024
+}

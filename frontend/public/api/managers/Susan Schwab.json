@@ -1,0 +1,29 @@
+{
+  "id": "Susan Schwab",
+  "name": "Susan Schwab",
+  "background": "Professor Emerita at the University of Maryland and former U.S. Trade Representative.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Caterpillar Inc.",
+      "ticker": "CAT",
+      "exchange": "NYSE",
+      "website": "https://www.caterpillar.com",
+      "title": "Independent Director",
+      "startDate": "2009-01-01",
+      "endDate": null,
+      "formattedStartDate": "2009 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Governance and Nominating Committee",
+    "Public Policy and Sustainability Committee"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

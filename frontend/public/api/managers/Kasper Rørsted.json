@@ -1,0 +1,41 @@
+{
+  "id": "Kasper Rørsted",
+  "name": "Kasper Rørsted",
+  "background": "Kasper Rørsted was the CEO of Adidas and previously the CEO of Henkel. He has extensive experience in global consumer goods and digital transformation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "A.P. Møller - Mærsk A/S",
+      "ticker": "AMKBY",
+      "exchange": "OTC",
+      "website": "https://www.maersk.com",
+      "title": "Member of the Board",
+      "startDate": "2023-03-28",
+      "endDate": null,
+      "formattedStartDate": "2023 March",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Siemens Aktiengesellschaft",
+      "ticker": "SIEGY",
+      "exchange": "OTC",
+      "website": "https://www.siemens.com",
+      "title": "Member of the Supervisory Board",
+      "startDate": "2021-02-03",
+      "endDate": null,
+      "formattedStartDate": "2021 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Member of the Audit Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

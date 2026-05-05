@@ -1,0 +1,28 @@
+{
+  "id": "Pär Boman",
+  "name": "Pär Boman",
+  "background": "Chairman of the Board. Previously President and CEO of Handelsbanken. Chairman of Svenska Cellulosa Aktiebolaget SCA.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AB Volvo",
+      "ticker": "VOLV-B",
+      "exchange": "STO",
+      "website": "https://www.volvogroup.com",
+      "title": "Chairman, Director",
+      "startDate": "2024-03-27",
+      "endDate": null,
+      "formattedStartDate": "2024 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Remuneration Committee (Chair)"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

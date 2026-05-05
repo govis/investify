@@ -1,0 +1,30 @@
+{
+  "id": "Abhijit Talwalkar",
+  "name": "Abhijit Talwalkar",
+  "background": "Mr. Talwalkar has been a director since 2011 and Chairman of the Board since 2019. He was President and CEO of LSI Corporation from 2005 to 2014.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lam Research Corporation",
+      "ticker": "LRCX",
+      "exchange": "NASDAQ",
+      "website": "https://www.lamresearch.com",
+      "title": "Chairman of the Board, Director",
+      "startDate": "2019-01-01",
+      "endDate": null,
+      "formattedStartDate": "2019 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation and Human Resources Committee",
+    "Nominating and Governance Committee"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

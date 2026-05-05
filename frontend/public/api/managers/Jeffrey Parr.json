@@ -1,0 +1,28 @@
+{
+  "id": "Jeffrey Parr",
+  "name": "Jeffrey Parr",
+  "background": "Mr. Parr is the Vice-Chair of the Board. He was previously the Chair of the Board of Kirkland Lake Gold Ltd. He is a Chartered Professional Accountant with over 30 years of experience in the mining industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Agnico Eagle Mines Limited",
+      "ticker": "AEM",
+      "exchange": "NYSE",
+      "website": "https://www.agnicoeagle.com",
+      "title": "Vice-Chair, Director",
+      "startDate": "2022-02-08",
+      "endDate": null,
+      "formattedStartDate": "2022 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

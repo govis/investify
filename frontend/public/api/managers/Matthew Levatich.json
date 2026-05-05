@@ -1,0 +1,29 @@
+{
+  "id": "Matthew Levatich",
+  "name": "Matthew Levatich",
+  "background": "Former President and CEO of Harley-Davidson, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Emerson Electric Co.",
+      "ticker": "EMR",
+      "exchange": "NYSE",
+      "website": "https://www.emerson.com",
+      "title": "Independent Director",
+      "startDate": "2012-01-01",
+      "endDate": null,
+      "formattedStartDate": "2012 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation",
+    "Finance"
+  ],
+  "age": 59,
+  "ageYear": 2024
+}

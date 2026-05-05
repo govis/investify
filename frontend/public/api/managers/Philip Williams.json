@@ -1,0 +1,37 @@
+{
+  "id": "Philip Williams",
+  "name": "Philip Williams",
+  "background": "Mr. Williams has over 20 years of experience in the mining and finance industries. He was previously the CEO of Consolidated Uranium Inc. before its merger with IsoEnergy. He has held various roles in equity research and investment banking.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "IsoEnergy Ltd.",
+      "ticker": "ISO",
+      "exchange": "TSX",
+      "website": "https://www.isoenergy.ca",
+      "title": "President, Chief Executive Officer and Director",
+      "startDate": "2023-12-05",
+      "endDate": null,
+      "formattedStartDate": "2023 December",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "IsoEnergy Ltd.",
+      "ticker": "ISO",
+      "exchange": "TSXV",
+      "website": "https://www.isoenergy.ca",
+      "title": "Chief Executive Officer and Director",
+      "startDate": "2023-12-05",
+      "endDate": null,
+      "formattedStartDate": "2023 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 45,
+  "ageYear": 2024
+}

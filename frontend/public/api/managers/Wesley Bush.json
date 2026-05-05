@@ -1,0 +1,43 @@
+{
+  "id": "Wesley Bush",
+  "name": "Wesley Bush",
+  "background": "Former Chairman and CEO of Northrop Grumman Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "website": "https://www.cisco.com",
+      "title": "Independent Director",
+      "startDate": "2019-05-01",
+      "endDate": null,
+      "formattedStartDate": "2019 May",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "website": "https://www.gm.com",
+      "title": "Independent Director",
+      "startDate": "2019-02-11",
+      "endDate": null,
+      "formattedStartDate": "2019 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation and Management Development Committee",
+    "Finance Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

@@ -1,0 +1,42 @@
+{
+  "id": "Wanda Austin",
+  "name": "Wanda Austin",
+  "background": "Dr. Austin is the former President and CEO of The Aerospace Corporation, a leading architect for the nation’s national security space programs. She served in this role from 2008 to 2016.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "exchange": "NASDAQ",
+      "website": "https://www.apple.com",
+      "title": "Independent Director",
+      "startDate": "2024-02-28",
+      "endDate": null,
+      "formattedStartDate": "2024 February",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Chevron Corporation",
+      "ticker": "CVX",
+      "exchange": "NYSE",
+      "website": "https://www.chevron.com",
+      "title": "Independent Director",
+      "startDate": "2016-12-01",
+      "endDate": null,
+      "formattedStartDate": "2016 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Finance Committee",
+    "Board Governance Committee",
+    "Public Policy and Sustainability Committee"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

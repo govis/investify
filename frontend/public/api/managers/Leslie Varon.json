@@ -1,0 +1,29 @@
+{
+  "id": "Leslie Varon",
+  "name": "Leslie Varon",
+  "background": "Ms. Varon has been a director since 2019. She was CFO of Xerox Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lam Research Corporation",
+      "ticker": "LRCX",
+      "exchange": "NASDAQ",
+      "website": "https://www.lamresearch.com",
+      "title": "Director",
+      "startDate": "2019-01-01",
+      "endDate": null,
+      "formattedStartDate": "2019 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 67,
+  "ageYear": 2024
+}

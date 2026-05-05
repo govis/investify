@@ -1,0 +1,29 @@
+{
+  "id": "Stayce Harris",
+  "name": "Stayce Harris",
+  "background": "Retired Lieutenant General of the U.S. Air Force. Former Inspector General of the Air Force.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "The Boeing Company",
+      "ticker": "BA",
+      "exchange": "NYSE",
+      "website": "https://www.boeing.com",
+      "title": "Director",
+      "startDate": "2021-08-01",
+      "endDate": null,
+      "formattedStartDate": "2021 August",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Aerospace Safety",
+    "Governance & Public Policy"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

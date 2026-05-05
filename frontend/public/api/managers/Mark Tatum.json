@@ -1,0 +1,29 @@
+{
+  "id": "Mark Tatum",
+  "name": "Mark Tatum",
+  "background": "Deputy Commissioner and COO of the National Basketball Association.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "website": "https://www.gm.com",
+      "title": "Independent Director",
+      "startDate": "2021-11-15",
+      "endDate": null,
+      "formattedStartDate": "2021 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Governance and Corporate Responsibility Committee"
+  ],
+  "age": 54,
+  "ageYear": 2024
+}

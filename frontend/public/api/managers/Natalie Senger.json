@@ -1,0 +1,26 @@
+{
+  "id": "Natalie Senger",
+  "name": "Natalie Senger",
+  "background": "Ms. Senger is a Professional Geoscientist with over 15 years of experience in the mining industry, specializing in project management and geological modeling.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Tudor Gold Corp.",
+      "ticker": "TUD",
+      "exchange": "TSX",
+      "website": "https://tudor-gold.com/",
+      "title": "Vice President, Resource Development",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 42,
+  "ageYear": 2024
+}

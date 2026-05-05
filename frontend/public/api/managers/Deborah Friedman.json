@@ -1,0 +1,30 @@
+{
+  "id": "Deborah Friedman",
+  "name": "Deborah Friedman",
+  "background": "Ms. Friedman is a retired partner of Davis Graham & Stubbs LLP, where she practiced law for over 30 years, specializing in corporate finance and securities law with a focus on the mining industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Vista Gold Corp.",
+      "ticker": "VGZ",
+      "exchange": "NYSE",
+      "website": "https://www.vistagold.com",
+      "title": "Independent Director",
+      "startDate": "2019-03-01",
+      "endDate": null,
+      "formattedStartDate": "2019 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

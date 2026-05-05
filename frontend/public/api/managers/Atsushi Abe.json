@@ -1,0 +1,29 @@
+{
+  "id": "Atsushi Abe",
+  "name": "Atsushi Abe",
+  "background": "Atsushi Abe has served as a director since 2011. He is currently a Managing Partner of Sangyo Sogo Kenkyusho, a Japanese investment firm.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "ON Semiconductor Corporation",
+      "ticker": "ON",
+      "exchange": "NASDAQ",
+      "website": "https://www.onsemi.com",
+      "title": "Independent Director",
+      "startDate": "2011-01-01",
+      "endDate": null,
+      "formattedStartDate": "2011 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

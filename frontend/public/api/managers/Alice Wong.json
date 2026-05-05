@@ -1,0 +1,51 @@
+{
+  "id": "Alice Wong",
+  "name": "Alice Wong",
+  "background": "Alice Wong is Senior Vice-President and Chief Corporate Officer. She has been with Cameco for over 30 years, holding various leadership positions in marketing, corporate responsibility, and human resources.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCJ",
+      "exchange": "NYSE",
+      "website": "https://www.cameco.com",
+      "title": "Senior Vice-President and Chief Corporate Officer",
+      "startDate": "2011-07-01",
+      "endDate": null,
+      "formattedStartDate": "2011 July",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCO",
+      "exchange": "TSX",
+      "website": "https://www.cameco.com",
+      "title": "Senior Vice-President and Chief Corporate Officer",
+      "startDate": "2011-07-01",
+      "endDate": null,
+      "formattedStartDate": "2011 July",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Denison Mines Corp.",
+      "ticker": "DNN",
+      "exchange": "NYSE",
+      "website": "https://denisonmines.com",
+      "title": "Independent Director",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Environment, Health, Safety and Sustainability Committee"
+  ],
+  "age": 60,
+  "ageYear": 2023
+}

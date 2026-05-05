@@ -1,0 +1,28 @@
+{
+  "id": "Susan Harper",
+  "name": "Susan Harper",
+  "background": "Former Canadian Consul General in Miami and Dallas. Extensive experience in international trade and government relations.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Li-Cycle Holdings Corp.",
+      "ticker": "LICY",
+      "exchange": "NYSE",
+      "website": "https://li-cycle.com",
+      "title": "Independent Director",
+      "startDate": "2023-05-01",
+      "endDate": null,
+      "formattedStartDate": "2023 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Governance and Nominating Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

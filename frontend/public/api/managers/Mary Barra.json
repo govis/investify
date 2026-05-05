@@ -1,0 +1,27 @@
+{
+  "id": "Mary Barra",
+  "name": "Mary Barra",
+  "background": "Mary T. Barra has been Chair and CEO of GM since 2016 and 2014, respectively. She has held various leadership positions at GM since 1980, including Executive Vice President, Global Product Development, Purchasing and Supply Chain.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "website": "https://www.gm.com",
+      "title": "Chair and Chief Executive Officer",
+      "startDate": "2014-01-15",
+      "endDate": null,
+      "formattedStartDate": "2014 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 62,
+  "ageYear": 2024
+}

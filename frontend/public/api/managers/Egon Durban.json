@@ -1,0 +1,28 @@
+{
+  "id": "Egon Durban",
+  "name": "Egon Durban",
+  "background": "Co-CEO of Silver Lake, a global technology investment firm.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Dell Technologies Inc.",
+      "ticker": "DELL",
+      "exchange": "NYSE",
+      "website": "https://www.dell.com",
+      "title": "Director",
+      "startDate": "2013-01-01",
+      "endDate": null,
+      "formattedStartDate": "2013 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Executive Committee"
+  ],
+  "age": 50,
+  "ageYear": 2024
+}

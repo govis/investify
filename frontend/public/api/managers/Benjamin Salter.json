@@ -1,0 +1,37 @@
+{
+  "id": "Benjamin Salter",
+  "name": "Benjamin Salter",
+  "background": "Mr. Salter is a Chartered Professional Accountant with over 15 years of experience in financial reporting and corporate finance. He previously served as the Vice President, Finance of the Company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NexGen Energy Ltd.",
+      "ticker": "NXE",
+      "exchange": "NYSE",
+      "website": "https://www.nexgenenergy.ca",
+      "title": "Chief Financial Officer",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "formattedStartDate": "2023 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "NexGen Energy Ltd.",
+      "ticker": "NXE",
+      "exchange": "TSX",
+      "website": "https://www.nexgenenergy.ca",
+      "title": "Chief Financial Officer",
+      "startDate": "2023-09-05",
+      "endDate": null,
+      "formattedStartDate": "2023 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 41,
+  "ageYear": 2024
+}

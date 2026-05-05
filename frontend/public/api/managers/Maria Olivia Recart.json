@@ -1,0 +1,29 @@
+{
+  "id": "Maria Olivia Recart",
+  "name": "Maria Olivia Recart",
+  "background": "Ms. Recart is an economist with significant experience in the mining sector and public policy, having served as Vice President at BHP and Undersecretary of Finance in Chile.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lundin Mining Corporation",
+      "ticker": "LUN",
+      "exchange": "TSX",
+      "website": "https://www.lundinmining.com",
+      "title": "Independent Director",
+      "startDate": "2023-05-01",
+      "endDate": null,
+      "formattedStartDate": "2023 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee",
+    "Sustainability Committee"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

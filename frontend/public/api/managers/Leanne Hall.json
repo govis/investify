@@ -1,0 +1,30 @@
+{
+  "id": "Leanne Hall",
+  "name": "Leanne Hall",
+  "background": "Ms. Hall is the CEO of Creative Fire and has extensive experience in Indigenous relations and corporate strategy.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "First Mining Gold Corp.",
+      "ticker": "FF",
+      "exchange": "TSX",
+      "website": "https://firstmininggold.com",
+      "title": "Director",
+      "startDate": "2021-06-16",
+      "endDate": null,
+      "formattedStartDate": "2021 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 55,
+  "ageYear": 2024
+}

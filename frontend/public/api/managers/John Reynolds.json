@@ -1,0 +1,27 @@
+{
+  "id": "John Reynolds",
+  "name": "John Reynolds",
+  "background": "Mr. Reynolds has served as Chief Legal Officer and Secretary since January 2021. He joined Fluor in 1985 and has held various legal positions.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Fluor Corporation",
+      "ticker": "FLR",
+      "exchange": "NYSE",
+      "website": "https://www.fluor.com",
+      "title": "Chief Legal Officer and Secretary",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 56,
+  "ageYear": 2024
+}

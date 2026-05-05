@@ -1,0 +1,29 @@
+{
+  "id": "Kevin Tomlinson",
+  "name": "Kevin Tomlinson",
+  "background": "Mr Tomlinson is a highly experienced mining executive and investment banker with over 35 years’ experience in the global resources sector. He has held directorships with several ASX, TSX, and LSE-listed companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Bellevue Gold Limited",
+      "ticker": "BGL",
+      "exchange": "ASX",
+      "website": "https://www.bellevuegold.com.au",
+      "title": "Non-Executive Independent Chairman",
+      "startDate": "2017-09-01",
+      "endDate": null,
+      "formattedStartDate": "2017 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Nomination and Remuneration Committee"
+  ],
+  "age": null,
+  "ageYear": null
+}

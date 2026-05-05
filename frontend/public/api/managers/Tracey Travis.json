@@ -1,0 +1,28 @@
+{
+  "id": "Tracey Travis",
+  "name": "Tracey Travis",
+  "background": "Executive Vice President and CFO of The Estée Lauder Companies Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Meta Platforms, Inc.",
+      "ticker": "META",
+      "exchange": "NASDAQ",
+      "website": "https://about.meta.com",
+      "title": "Independent Director",
+      "startDate": "2020-03-01",
+      "endDate": null,
+      "formattedStartDate": "2020 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

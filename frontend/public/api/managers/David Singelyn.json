@@ -1,0 +1,28 @@
+{
+  "id": "David Singelyn",
+  "name": "David Singelyn",
+  "background": "Chief Executive Officer and Trustee of American Homes 4 Rent.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Digital Realty Trust, Inc.",
+      "ticker": "DLR",
+      "exchange": "NYSE",
+      "website": "https://www.digitalrealty.com",
+      "title": "Director",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "formattedStartDate": "2023 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

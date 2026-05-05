@@ -1,0 +1,26 @@
+{
+  "id": "Mark Hill",
+  "name": "Mark Hill",
+  "background": "Mark Hill is the Chief Operating Officer for Latin America and Asia Pacific. He joined Barrick in 2019 and has over 30 years of experience in the mining industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Barrick Gold Corporation",
+      "ticker": "GOLD",
+      "exchange": "NYSE",
+      "website": "https://www.barrick.com",
+      "title": "Chief Operating Officer, Latin America and Asia Pacific",
+      "startDate": "2019-01-01",
+      "endDate": null,
+      "formattedStartDate": "2019 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 59,
+  "ageYear": 2024
+}

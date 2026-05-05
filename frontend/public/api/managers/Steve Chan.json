@@ -1,0 +1,28 @@
+{
+  "id": "Steve Chan",
+  "name": "Steve Chan",
+  "background": "Former partner at Sage Partners and executive at various technology firms. Expertise in global supply chain and operations.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Super Micro Computer, Inc.",
+      "ticker": "SMCI",
+      "exchange": "NASDAQ",
+      "website": "https://www.supermicro.com",
+      "title": "Independent Director",
+      "startDate": "2022-03-01",
+      "endDate": null,
+      "formattedStartDate": "2022 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating and Corporate Governance Committee (Chair)"
+  ],
+  "age": 63,
+  "ageYear": 2023
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Michael Gregoire",
+  "name": "Michael Gregoire",
+  "background": "Former CEO of CA Technologies and Taleo Corporation. Director since 2019.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Advanced Micro Devices, Inc.",
+      "ticker": "AMD",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "title": "Independent Director",
+      "startDate": "2019-01-01",
+      "endDate": null,
+      "formattedStartDate": "2019 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Compensation and Leadership Resources Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

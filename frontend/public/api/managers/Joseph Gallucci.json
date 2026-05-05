@@ -1,0 +1,26 @@
+{
+  "id": "Joseph Gallucci",
+  "name": "Joseph Gallucci",
+  "background": "Joseph Gallucci is a senior executive with over 20 years of experience in investment banking and capital markets, specifically in the mining sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Skyharbour Resources Ltd.",
+      "ticker": "SYH",
+      "exchange": "TSX",
+      "website": "https://skyharbourltd.com",
+      "title": "Director",
+      "startDate": "2020-01-01",
+      "endDate": null,
+      "formattedStartDate": "2020 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

@@ -1,0 +1,41 @@
+{
+  "id": "Dominique Minière",
+  "name": "Dominique Minière",
+  "background": "Dominique Minière is the former President of Nuclear and Chief Strategy Officer at Ontario Power Generation. He has extensive experience in nuclear operations.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCJ",
+      "exchange": "NYSE",
+      "website": "https://www.cameco.com",
+      "title": "Independent Director",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "formattedStartDate": "2022 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCO",
+      "exchange": "TSX",
+      "website": "https://www.cameco.com",
+      "title": "Director",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "formattedStartDate": "2022 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Safety, Health, Environment, Quality and Technical Committee",
+    "Safety, Health, Environment, Sustainability and Technical Committee"
+  ],
+  "age": 64,
+  "ageYear": 2023
+}

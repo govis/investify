@@ -1,0 +1,27 @@
+{
+  "id": "Mary Erdoes",
+  "name": "Mary Erdoes",
+  "background": "Ms. Erdoes has been CEO of Asset & Wealth Management since 2009. She joined the firm in 1996 and has held various senior roles in the asset management business.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "ticker": "JPM",
+      "exchange": "NYSE",
+      "website": "https://www.jpmorganchase.com",
+      "title": "CEO, Asset & Wealth Management",
+      "startDate": "2009-09-01",
+      "endDate": null,
+      "formattedStartDate": "2009 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 56,
+  "ageYear": 2024
+}

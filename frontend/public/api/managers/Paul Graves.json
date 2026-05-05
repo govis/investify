@@ -1,0 +1,37 @@
+{
+  "id": "Paul Graves",
+  "name": "Paul Graves",
+  "background": "Mr. Graves has served as our President and Chief Executive Officer and as a director since May 2018. Before joining Livent, Mr. Graves was Executive Vice President and Chief Financial Officer of FMC from 2012 to 2018. He previously served as a partner in the Investment Banking Division at Goldman Sachs Group in Hong Kong and was co-head of Natural Resources in Asia.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Livent Corporation",
+      "ticker": "LTHM",
+      "exchange": "NYSE",
+      "website": "https://www.livent.com",
+      "title": "President and Chief Executive Officer",
+      "startDate": "2018-05-01",
+      "endDate": null,
+      "formattedStartDate": "2018 May",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Pilbara Minerals Limited",
+      "ticker": "PLS",
+      "exchange": "ASX",
+      "website": "https://www.pilbaraminerals.com.au",
+      "title": "Chief Commercial Officer",
+      "startDate": "2023-10-01",
+      "endDate": null,
+      "formattedStartDate": "2023 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 52,
+  "ageYear": 2023
+}

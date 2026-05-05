@@ -1,0 +1,39 @@
+{
+  "id": "Jayshree Ullal",
+  "name": "Jayshree Ullal",
+  "background": "Jayshree Ullal has served as our President and Chief Executive Officer and a member of our board of directors since October 2008. Prior to joining Arista, Ms. Ullal was Senior Vice President at Cisco Systems, Inc., where she was responsible for the data center, switching and services business. Ms. Ullal holds a B.S. in Engineering (Electrical) from San Francisco State University and an M.S. in Engineering Management from Santa Clara University.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Arista Networks, Inc.",
+      "ticker": "ANET",
+      "exchange": "NYSE",
+      "website": "https://www.arista.com",
+      "title": "Director, President and Chief Executive Officer",
+      "startDate": "2008-10-01",
+      "endDate": null,
+      "formattedStartDate": "2008 October",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Snowflake Inc.",
+      "ticker": "SNOW",
+      "exchange": "NYSE",
+      "website": "https://www.snowflake.com",
+      "title": "Independent Director",
+      "startDate": "2020-06-01",
+      "endDate": null,
+      "formattedStartDate": "2020 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

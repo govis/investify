@@ -1,0 +1,28 @@
+{
+  "id": "George Johnson",
+  "name": "George Johnson",
+  "background": "Mr. Johnson has over 45 years of experience in the mining industry, including senior roles at Bema Gold.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "B2Gold Corp.",
+      "ticker": "BTG",
+      "exchange": "NYSE",
+      "website": "https://www.b2gold.com",
+      "title": "Director",
+      "startDate": "2013-03-01",
+      "endDate": null,
+      "formattedStartDate": "2013 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Health, Safety, Environmental & Social Advisory Committee"
+  ],
+  "age": 75,
+  "ageYear": 2024
+}

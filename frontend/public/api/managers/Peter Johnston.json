@@ -1,0 +1,26 @@
+{
+  "id": "Peter Johnston",
+  "name": "Peter Johnston",
+  "background": "Mr. Johnston is a Chartered Professional Accountant with over 15 years of financial experience in the mining and manufacturing sectors. He previously served as Corporate Controller for the Company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Electra Battery Materials Corporation",
+      "ticker": "ELBM",
+      "exchange": "TSX",
+      "website": "https://electrabmc.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2023-08-15",
+      "endDate": null,
+      "formattedStartDate": "2023 August",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 45,
+  "ageYear": 2024
+}

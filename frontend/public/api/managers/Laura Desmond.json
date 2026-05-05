@@ -1,0 +1,28 @@
+{
+  "id": "Laura Desmond",
+  "name": "Laura Desmond",
+  "background": "Founder and CEO of Eagle Eight. Former CEO of Starcom Mediavest Group. Director since 2012.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Adobe Inc.",
+      "ticker": "ADBE",
+      "exchange": "NASDAQ",
+      "website": "https://www.adobe.com",
+      "title": "Independent Director",
+      "startDate": "2012-05-01",
+      "endDate": null,
+      "formattedStartDate": "2012 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Executive Compensation Committee"
+  ],
+  "age": 59,
+  "ageYear": 2024
+}

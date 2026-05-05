@@ -1,0 +1,29 @@
+{
+  "id": "John Surma",
+  "name": "John Surma",
+  "background": "Retired Chairman and CEO of United States Steel Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Public Service Enterprise Group Incorporated",
+      "ticker": "PEG",
+      "exchange": "NYSE",
+      "website": "https://www.pseg.com",
+      "title": "Independent Director",
+      "startDate": "2014-01-01",
+      "endDate": null,
+      "formattedStartDate": "2014 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit (Chair)",
+    "Executive"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

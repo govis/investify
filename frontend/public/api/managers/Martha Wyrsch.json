@@ -1,0 +1,30 @@
+{
+  "id": "Martha Wyrsch",
+  "name": "Martha Wyrsch",
+  "background": "Ms. Wyrsch was formerly the General Counsel of Sempra Energy. She has extensive legal and regulatory experience in the energy sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Quanta Services, Inc.",
+      "ticker": "PWR",
+      "exchange": "NYSE",
+      "website": "https://www.quantaservices.com",
+      "title": "Independent Director",
+      "startDate": "2019-01-01",
+      "endDate": null,
+      "formattedStartDate": "2019 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Governance and Nominating Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

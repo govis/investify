@@ -1,0 +1,26 @@
+{
+  "id": "David Farnsworth",
+  "name": "David Farnsworth",
+  "background": "Mr. Farnsworth has served as our Executive Vice President and Chief Financial Officer since July 2023. He previously served as CFO of Raytheon Technologies' Intelligence & Space business and held various senior finance roles at Raytheon Company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Mercury Systems, Inc.",
+      "ticker": "MRCY",
+      "exchange": "NASDAQ",
+      "website": "https://www.mrcy.com",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2023-07-01",
+      "endDate": null,
+      "formattedStartDate": "2023 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2023
+}

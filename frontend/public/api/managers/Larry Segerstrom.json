@@ -1,0 +1,29 @@
+{
+  "id": "Larry Segerstrom",
+  "name": "Larry Segerstrom",
+  "background": "Mr. Segerstrom is a professional geologist with over 35 years of experience in the mining industry. He was formerly COO of Paramount Gold and Silver Corp. and has held senior positions with Freeport-McMoRan.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Oreterra Metals Corp.",
+      "ticker": "OTMC",
+      "exchange": "TSXV",
+      "website": "https://oreterra.com",
+      "title": "Director",
+      "startDate": "2021-06-01",
+      "endDate": null,
+      "formattedStartDate": "2021 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

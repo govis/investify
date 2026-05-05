@@ -1,0 +1,29 @@
+{
+  "id": "Ian Atkinson",
+  "name": "Ian Atkinson",
+  "background": "Mr. Atkinson was previously the President and CEO of Centerra Gold Inc. and has extensive experience in the mining industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Kinross Gold Corporation",
+      "ticker": "KGC",
+      "exchange": "NYSE",
+      "website": "https://www.kinross.com",
+      "title": "Director",
+      "startDate": "2016-02-01",
+      "endDate": null,
+      "formattedStartDate": "2016 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Technical Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

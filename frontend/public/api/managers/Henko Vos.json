@@ -1,0 +1,27 @@
+{
+  "id": "Henko Vos",
+  "name": "Henko Vos",
+  "background": "Mr. Vos is a member of the Governance Institute of Australia and the South African Institute of Chartered Accountants. He has more than 20 years of experience in public practice and management within the mining and resources sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Oreterra Limited",
+      "ticker": "ORE",
+      "exchange": "ASX",
+      "website": "https://oreterra.com.au",
+      "title": "Company Secretary",
+      "startDate": "2023-11-01",
+      "endDate": null,
+      "formattedStartDate": "2023 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Nancy Killefer",
+  "name": "Nancy Killefer",
+  "background": "Retired Senior Partner at McKinsey & Company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Meta Platforms, Inc.",
+      "ticker": "META",
+      "exchange": "NASDAQ",
+      "website": "https://about.meta.com",
+      "title": "Independent Director",
+      "startDate": "2020-03-01",
+      "endDate": null,
+      "formattedStartDate": "2020 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Governance Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

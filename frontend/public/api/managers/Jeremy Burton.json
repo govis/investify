@@ -1,0 +1,28 @@
+{
+  "id": "Jeremy Burton",
+  "name": "Jeremy Burton",
+  "background": "CEO of Observe, Inc. Former CMO of Dell Technologies and Executive Director at EMC.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Snowflake Inc.",
+      "ticker": "SNOW",
+      "exchange": "NYSE",
+      "website": "https://www.snowflake.com",
+      "title": "Independent Director",
+      "startDate": "2016-09-01",
+      "endDate": null,
+      "formattedStartDate": "2016 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 56,
+  "ageYear": 2024
+}

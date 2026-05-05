@@ -1,0 +1,29 @@
+{
+  "id": "Caroline Dorsa",
+  "name": "Caroline Dorsa",
+  "background": "Former Executive Vice President and Chief Financial Officer of Public Service Enterprise Group Incorporated.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Duke Energy Corporation",
+      "ticker": "DUK",
+      "exchange": "NYSE",
+      "website": "https://www.duke-energy.com",
+      "title": "Independent Director",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Finance and Risk Management Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

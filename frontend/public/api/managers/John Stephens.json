@@ -1,0 +1,30 @@
+{
+  "id": "John Stephens",
+  "name": "John Stephens",
+  "background": "Former Senior Executive Vice President and CFO of AT&T Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Freeport-McMoRan Inc.",
+      "ticker": "FCX",
+      "exchange": "NYSE",
+      "website": "https://www.fcx.com",
+      "title": "Director",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Compensation"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

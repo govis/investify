@@ -1,0 +1,28 @@
+{
+  "id": "Kirk Thompson",
+  "name": "Kirk Thompson",
+  "background": "Former Executive Chairman and CEO of J.B. Hunt. He retired as Executive Chairman in 2024 but remains on the board.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "J.B. Hunt Transport Services, Inc.",
+      "ticker": "JBHT",
+      "exchange": "NASDAQ",
+      "website": "https://www.jbhunt.com",
+      "title": "Director",
+      "startDate": "1985-01-01",
+      "endDate": null,
+      "formattedStartDate": "1985 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Executive Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

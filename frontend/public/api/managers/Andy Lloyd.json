@@ -1,0 +1,29 @@
+{
+  "id": "Andy Lloyd",
+  "name": "Andy Lloyd",
+  "background": "Mr Lloyd has over 30 years' experience in the mining and resources industry. He has held senior executive roles with Rio Tinto, including as Managing Director of Rio Tinto's uranium business. He is currently a non-executive director of several other ASX listed companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Elevate Uranium Limited",
+      "ticker": "EL8",
+      "exchange": "ASX",
+      "website": "https://www.elevateuranium.com.au",
+      "title": "Non-Executive Chairman",
+      "startDate": "2018-11-01",
+      "endDate": null,
+      "formattedStartDate": "2018 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "age": null,
+  "ageYear": null
+}

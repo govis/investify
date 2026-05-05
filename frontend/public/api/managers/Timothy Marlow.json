@@ -1,0 +1,29 @@
+{
+  "id": "Timothy Marlow",
+  "name": "Timothy Marlow",
+  "background": "Mr. Marlow is a mining engineer with over 40 years of experience in project management and operations globally.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Platinum Group Metals Ltd.",
+      "ticker": "PTM",
+      "exchange": "NYSE",
+      "website": "https://www.platinumgroupmetals.net",
+      "title": "Independent Director",
+      "startDate": "2014-01-01",
+      "endDate": null,
+      "formattedStartDate": "2014 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Governance and Nomination Committee"
+  ],
+  "age": 67,
+  "ageYear": 2024
+}

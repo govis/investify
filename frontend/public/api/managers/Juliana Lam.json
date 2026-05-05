@@ -1,0 +1,29 @@
+{
+  "id": "Juliana Lam",
+  "name": "Juliana Lam",
+  "background": "Ms. Lam is a Chartered Professional Accountant with over 30 years of experience in financial management and corporate strategy across various industries.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lundin Mining Corporation",
+      "ticker": "LUN",
+      "exchange": "TSX",
+      "website": "https://www.lundinmining.com",
+      "title": "Independent Director",
+      "startDate": "2021-05-01",
+      "endDate": null,
+      "formattedStartDate": "2021 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Human Resources and Compensation Committee"
+  ],
+  "age": 57,
+  "ageYear": 2024
+}

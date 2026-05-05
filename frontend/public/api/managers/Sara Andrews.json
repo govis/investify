@@ -1,0 +1,28 @@
+{
+  "id": "Sara Andrews",
+  "name": "Sara Andrews",
+  "background": "Chief Information Security Officer at Experian. Former CISO at PepsiCo and Unit 42 at Palo Alto Networks.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Marvell Technology, Inc.",
+      "ticker": "MRVL",
+      "exchange": "NASDAQ",
+      "website": "https://www.marvell.com",
+      "title": "Director",
+      "startDate": "2022-04-01",
+      "endDate": null,
+      "formattedStartDate": "2022 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 54,
+  "ageYear": 2024
+}

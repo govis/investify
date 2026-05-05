@@ -1,0 +1,29 @@
+{
+  "id": "Kevin Warren",
+  "name": "Kevin Warren",
+  "background": "Former Chief Marketing Officer of UPS. Former executive at Xerox Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "General Dynamics Corporation",
+      "ticker": "GD",
+      "exchange": "NYSE",
+      "website": "https://www.gd.com",
+      "title": "Director",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Finance"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

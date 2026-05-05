@@ -1,0 +1,29 @@
+{
+  "id": "Jo Price",
+  "name": "Jo Price",
+  "background": "Ms. Price is a Professional Geoscientist with over 25 years of experience in the mining industry, including senior roles in exploration and corporate development.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Prospector Metals Corp.",
+      "ticker": "PPP",
+      "exchange": "TSX",
+      "website": "https://prospectormetalscorp.com",
+      "title": "Director",
+      "startDate": "2022-06-23",
+      "endDate": null,
+      "formattedStartDate": "2022 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": null,
+  "ageYear": null
+}

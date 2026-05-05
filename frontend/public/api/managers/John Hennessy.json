@@ -1,0 +1,29 @@
+{
+  "id": "John Hennessy",
+  "name": "John Hennessy",
+  "background": "John L. Hennessy has served as the Chair of the Board of Alphabet since 2018 and as a director since 2004. He was the President of Stanford University from 2000 to 2016.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Alphabet Inc.",
+      "ticker": "GOOGL",
+      "exchange": "NASDAQ",
+      "website": "https://abc.xyz",
+      "title": "Chair of the Board, Director",
+      "startDate": "2018-02-01",
+      "endDate": null,
+      "formattedStartDate": "2018 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

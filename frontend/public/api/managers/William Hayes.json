@@ -1,0 +1,28 @@
+{
+  "id": "William Hayes",
+  "name": "William Hayes",
+  "background": "Mr. Hayes has been a director since 2008 and Chairman of the Board since 2014. He was previously an executive at Placer Dome Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Royal Gold, Inc.",
+      "ticker": "RGLD",
+      "exchange": "NASDAQ",
+      "website": "https://www.royalgold.com",
+      "title": "Chairman of the Board, Independent Director",
+      "startDate": "2014-05-22",
+      "endDate": null,
+      "formattedStartDate": "2014 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation, Nominating and Governance Committee"
+  ],
+  "age": 79,
+  "ageYear": 2024
+}

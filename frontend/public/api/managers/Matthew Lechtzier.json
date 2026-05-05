@@ -1,0 +1,30 @@
+{
+  "id": "Matthew Lechtzier",
+  "name": "Matthew Lechtzier",
+  "background": "Mr. Lechtzier is a senior advisor with Ivanhoe Capital Corporation and has over 30 years of experience in corporate finance and international business development. He has served on the boards of several public companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "GoviEx Uranium Inc.",
+      "ticker": "GXU",
+      "exchange": "TSXV",
+      "website": "https://www.goviex.com",
+      "title": "Independent Director",
+      "startDate": "2011-01-01",
+      "endDate": null,
+      "formattedStartDate": "2011 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

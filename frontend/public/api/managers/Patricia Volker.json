@@ -1,0 +1,29 @@
+{
+  "id": "Patricia Volker",
+  "name": "Patricia Volker",
+  "background": "Ms. Volker is a director and a CPA, CA. She has extensive experience in financial reporting and corporate governance, having served in senior roles at the Ontario Securities Commission.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Denison Mines Corp.",
+      "ticker": "DNN",
+      "exchange": "TSX",
+      "website": "https://denisonmines.com",
+      "title": "Director",
+      "startDate": "2018-01-01",
+      "endDate": null,
+      "formattedStartDate": "2018 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

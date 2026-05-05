@@ -1,0 +1,40 @@
+{
+  "id": "Jason Attew",
+  "name": "Jason Attew",
+  "background": "Mr. Attew is a mining industry executive with over 25 years of experience in investment banking and corporate strategy. He was previously CFO of Goldcorp Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Evolution Mining Limited",
+      "ticker": "EVN",
+      "exchange": "ASX",
+      "website": "https://evolutionmining.com.au",
+      "title": "Non-Executive Director",
+      "startDate": "2019-12-01",
+      "endDate": null,
+      "formattedStartDate": "2019 December",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Osisko Gold Royalties Ltd",
+      "ticker": "OR",
+      "exchange": "NYSE",
+      "website": "https://osiskogr.com",
+      "title": "Director, President and Chief Executive Officer",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "formattedStartDate": "2024 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nomination and Remuneration Committee"
+  ],
+  "age": 53,
+  "ageYear": 2024
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Robert Atkinson",
+  "name": "Robert Atkinson",
+  "background": "Mr. Atkinson has over 35 years of experience in the investment industry. He was previously the President and CEO of Loewen, Ondaatje, McCutcheon & Co. Ltd.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Artemis Gold Inc.",
+      "ticker": "ARTG",
+      "exchange": "TSX",
+      "website": "https://www.artemisgoldinc.com",
+      "title": "Independent Director",
+      "startDate": "2019-01-10",
+      "endDate": null,
+      "formattedStartDate": "2019 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Governance and Nomination Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

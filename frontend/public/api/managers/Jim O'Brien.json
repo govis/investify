@@ -1,0 +1,30 @@
+{
+  "id": "Jim O'Brien",
+  "name": "Jim O'Brien",
+  "background": "Former Chairman and Chief Executive Officer of Ashland Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Albemarle Corporation",
+      "ticker": "ALB",
+      "exchange": "NYSE",
+      "website": "https://www.albemarle.com",
+      "title": "Lead Independent Director",
+      "startDate": "2015-01-01",
+      "endDate": null,
+      "formattedStartDate": "2015 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Executive Committee",
+    "Nominating & Governance Committee"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

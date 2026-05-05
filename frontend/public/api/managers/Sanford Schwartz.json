@@ -1,0 +1,28 @@
+{
+  "id": "Sanford Schwartz",
+  "name": "Sanford Schwartz",
+  "background": "Mr. Schwartz has served as a member of our Board since 2020. He is a Senior Advisor to Cox Enterprises and former President of Cox Automotive.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Rivian Automotive, Inc.",
+      "ticker": "RIVN",
+      "exchange": "NASDAQ",
+      "website": "https://rivian.com",
+      "title": "Independent Director",
+      "startDate": "2020-01-01",
+      "endDate": null,
+      "formattedStartDate": "2020 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

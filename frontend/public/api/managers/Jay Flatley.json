@@ -1,0 +1,29 @@
+{
+  "id": "Jay Flatley",
+  "name": "Jay Flatley",
+  "background": "Mr. Flatley has served as a member of our Board since 2021. He is the former Chairman and CEO of Illumina, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Rivian Automotive, Inc.",
+      "ticker": "RIVN",
+      "exchange": "NASDAQ",
+      "website": "https://rivian.com",
+      "title": "Independent Director",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

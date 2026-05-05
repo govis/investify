@@ -1,0 +1,37 @@
+{
+  "id": "Gerard Bond",
+  "name": "Gerard Bond",
+  "background": "Mr. Bond was appointed President and CEO in April 2022. He has over 25 years of experience in the global financial and resources industry, including 10 years at Newcrest Mining as CFO and several senior executive roles at BHP.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC",
+      "exchange": "ASX",
+      "website": "https://oceanagold.com",
+      "title": "Managing Director, President and Chief Executive Officer",
+      "startDate": "2022-04-04",
+      "endDate": null,
+      "formattedStartDate": "2022 April",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC",
+      "exchange": "TSX",
+      "website": "https://oceanagold.com",
+      "title": "Director, President and Chief Executive Officer",
+      "startDate": "2022-04-04",
+      "endDate": null,
+      "formattedStartDate": "2022 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 58,
+  "ageYear": 2024
+}

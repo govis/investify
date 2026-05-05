@@ -1,0 +1,26 @@
+{
+  "id": "David Harquail",
+  "name": "David Harquail",
+  "background": "Mr. Harquail is the Chair of the Board. He was the CEO of Franco-Nevada from its IPO in 2007 until 2020. He has served on numerous mining industry boards.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Franco-Nevada Corporation",
+      "ticker": "FNV",
+      "exchange": "NYSE",
+      "website": "https://www.franco-nevada.com",
+      "title": "Chair of the Board, Director",
+      "startDate": "2020-05-01",
+      "endDate": null,
+      "formattedStartDate": "2020 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 67,
+  "ageYear": 2024
+}

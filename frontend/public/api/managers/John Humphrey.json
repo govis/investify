@@ -1,0 +1,30 @@
+{
+  "id": "John Humphrey",
+  "name": "John Humphrey",
+  "background": "John Humphrey was appointed as a Non-Executive Director on 15 May 2017 and as Chairman on 30 November 2023. He is a former Executive Dean of the Faculty of Law at Queensland University of Technology and a former Senior Partner of King & Wood Mallesons.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lynas Rare Earths Limited",
+      "ticker": "LYC",
+      "exchange": "ASX",
+      "website": "https://lynasrareearths.com",
+      "title": "Chairman, Non-Executive Director",
+      "startDate": "2023-11-30",
+      "endDate": null,
+      "formattedStartDate": "2023 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Nomination and Governance Committee (Chair)",
+    "Remuneration Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

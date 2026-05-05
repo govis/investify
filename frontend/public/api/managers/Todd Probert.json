@@ -1,0 +1,26 @@
+{
+  "id": "Todd Probert",
+  "name": "Todd Probert",
+  "background": "Mr. Probert has served as President of National Security and Innovative Solutions since 2020. He previously held executive roles at Raytheon.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "CACI International Inc",
+      "ticker": "CACI",
+      "exchange": "NYSE",
+      "website": "https://www.caci.com",
+      "title": "President, National Security and Innovative Solutions",
+      "startDate": "2020-01-01",
+      "endDate": null,
+      "formattedStartDate": "2020 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 58,
+  "ageYear": 2024
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Daniel Huttenlocher",
+  "name": "Daniel Huttenlocher",
+  "background": "Dean of the MIT Schwarzman College of Computing.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Amazon.com, Inc.",
+      "ticker": "AMZN",
+      "exchange": "NASDAQ",
+      "website": "https://www.amazon.com",
+      "title": "Director",
+      "startDate": "2016-09-01",
+      "endDate": null,
+      "formattedStartDate": "2016 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Leadership Development and Compensation Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Paul Gregory",
+  "name": "Paul Gregory",
+  "background": "Mr. Gregory has served as President of the Pipeline and Industrial Division since 2019. He joined Quanta in 2015 and has held various leadership roles within the division.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Quanta Services, Inc.",
+      "ticker": "PWR",
+      "exchange": "NYSE",
+      "website": "https://www.quantaservices.com",
+      "title": "President, Pipeline and Industrial Division",
+      "startDate": "2019-01-01",
+      "endDate": null,
+      "formattedStartDate": "2019 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 43,
+  "ageYear": 2024
+}

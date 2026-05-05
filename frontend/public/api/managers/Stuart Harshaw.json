@@ -1,0 +1,29 @@
+{
+  "id": "Stuart Harshaw",
+  "name": "Stuart Harshaw",
+  "background": "Mr. Harshaw is a seasoned mining executive with over 30 years of experience, including senior roles at Vale SA.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Platinum Group Metals Ltd.",
+      "ticker": "PTM",
+      "exchange": "NYSE",
+      "website": "https://www.platinumgroupmetals.net",
+      "title": "Independent Director",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Governance and Nomination Committee"
+  ],
+  "age": 59,
+  "ageYear": 2024
+}

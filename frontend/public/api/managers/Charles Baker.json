@@ -1,0 +1,41 @@
+{
+  "id": "Charles Baker",
+  "name": "Charles Baker",
+  "background": "Independent Trustee. Formerly a partner at DLA Piper LLP (US).",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Global X Lithium & Battery Tech ETF",
+      "ticker": "LIT",
+      "exchange": "NYSE",
+      "website": "https://www.globalxetfs.com/funds/lit/",
+      "title": "Independent Trustee",
+      "startDate": "2008-01-01",
+      "endDate": null,
+      "formattedStartDate": "2008 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Global X Uranium ETF",
+      "ticker": "URA",
+      "exchange": "NYSE",
+      "website": "https://www.globalxetfs.com/funds/ura/",
+      "title": "Independent Trustee",
+      "startDate": "2008-01-01",
+      "endDate": null,
+      "formattedStartDate": "2008 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Governance Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Rick Tsai",
+  "name": "Rick Tsai",
+  "background": "Dr. Tsai has been a director since 2024. He is the Vice Chairman and CEO of MediaTek Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lam Research Corporation",
+      "ticker": "LRCX",
+      "exchange": "NASDAQ",
+      "website": "https://www.lamresearch.com",
+      "title": "Director",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "formattedStartDate": "2024 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating and Governance Committee"
+  ],
+  "age": 73,
+  "ageYear": 2024
+}

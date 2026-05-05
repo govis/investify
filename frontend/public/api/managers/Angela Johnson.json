@@ -1,0 +1,26 @@
+{
+  "id": "Angela Johnson",
+  "name": "Angela Johnson",
+  "background": "Ms. Johnson is a professional geologist with over 12 years of experience in the mining industry. She was previously VP Corporate Development at Silvercorp Metals and has held roles at SSR Mining and Calibre Mining.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Faraday Copper Corp.",
+      "ticker": "FDY",
+      "exchange": "TSX",
+      "website": "https://faradaycopper.com",
+      "title": "Vice President, Corporate Development and Sustainability",
+      "startDate": "2022-08-01",
+      "endDate": null,
+      "formattedStartDate": "2022 August",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 39,
+  "ageYear": 2024
+}

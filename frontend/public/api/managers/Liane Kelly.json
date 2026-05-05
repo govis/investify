@@ -1,0 +1,29 @@
+{
+  "id": "Liane Kelly",
+  "name": "Liane Kelly",
+  "background": "Ms. Kelly is a Corporate Social Responsibility professional with extensive experience in the mining sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "B2Gold Corp.",
+      "ticker": "BTG",
+      "exchange": "NYSE",
+      "website": "https://www.b2gold.com",
+      "title": "Director",
+      "startDate": "2020-06-12",
+      "endDate": null,
+      "formattedStartDate": "2020 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee",
+    "Health, Safety, Environmental & Social Advisory Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

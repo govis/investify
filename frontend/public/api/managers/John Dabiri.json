@@ -1,0 +1,30 @@
+{
+  "id": "John Dabiri",
+  "name": "John Dabiri",
+  "background": "Professor of Aeronautics and Mechanical Engineering at the California Institute of Technology.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "exchange": "NASDAQ",
+      "website": "https://www.nvidia.com",
+      "title": "Independent Director",
+      "startDate": "2020-01-01",
+      "endDate": null,
+      "formattedStartDate": "2020 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 43,
+  "ageYear": 2024
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Jeffrey Bezos",
+  "name": "Jeffrey Bezos",
+  "background": "Jeffrey P. Bezos is the founder of Amazon and has served as Executive Chair since July 2021. He founded the company in 1994 and served as CEO from then until July 2021.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Amazon.com, Inc.",
+      "ticker": "AMZN",
+      "exchange": "NASDAQ",
+      "website": "https://www.amazon.com",
+      "title": "Executive Chair",
+      "startDate": "2021-07-05",
+      "endDate": null,
+      "formattedStartDate": "2021 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 60,
+  "ageYear": 2024
+}

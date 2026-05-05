@@ -1,0 +1,43 @@
+{
+  "id": "Lynn Vojvodich Radakovich",
+  "name": "Lynn Vojvodich Radakovich",
+  "background": "Former Executive Vice President and Chief Marketing Officer of Salesforce.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Dell Technologies Inc.",
+      "ticker": "DELL",
+      "exchange": "NYSE",
+      "website": "https://www.dell.com",
+      "title": "Independent Director",
+      "startDate": "2019-01-01",
+      "endDate": null,
+      "formattedStartDate": "2019 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "website": "https://www.ford.com",
+      "title": "Independent Director",
+      "startDate": "2017-01-01",
+      "endDate": null,
+      "formattedStartDate": "2017 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Governance and Nominating Committee",
+    "Sustainability, Innovation and Policy Committee"
+  ],
+  "age": 55,
+  "ageYear": 2024
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Marc Henderson",
+  "name": "Marc Henderson",
+  "background": "Mr. Henderson has more than 25 years of experience in the resource sector. He has been the President and CEO of Laramide since 2005. He is also a director of several other public companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Laramide Resources Ltd.",
+      "ticker": "LAM",
+      "exchange": "TSX",
+      "website": "https://laramide.com",
+      "title": "Director, President and Chief Executive Officer",
+      "startDate": "2005-01-01",
+      "endDate": null,
+      "formattedStartDate": "2005 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 63,
+  "ageYear": 2024
+}

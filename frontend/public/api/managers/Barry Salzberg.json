@@ -1,0 +1,29 @@
+{
+  "id": "Barry Salzberg",
+  "name": "Barry Salzberg",
+  "background": "Former Global CEO of Deloitte Touche Tohmatsu Limited. Professor at Columbia Business School.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Thomson Reuters Corporation",
+      "ticker": "TRI",
+      "exchange": "NYSE",
+      "website": "https://www.thomsonreuters.com",
+      "title": "Independent Director",
+      "startDate": "2015-07-01",
+      "endDate": null,
+      "formattedStartDate": "2015 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Human Resources Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

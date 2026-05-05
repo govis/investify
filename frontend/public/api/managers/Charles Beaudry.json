@@ -1,0 +1,28 @@
+{
+  "id": "Charles Beaudry",
+  "name": "Charles Beaudry",
+  "background": "Mr. Beaudry is a professional geologist with more than 35 years of experience in mineral exploration and project development. He previously held senior roles with Noranda and Falconbridge.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Baselode Energy Corp.",
+      "ticker": "FIND",
+      "exchange": "TSX",
+      "website": "https://baselode.com",
+      "title": "Independent Director",
+      "startDate": "2020-06-01",
+      "endDate": null,
+      "formattedStartDate": "2020 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

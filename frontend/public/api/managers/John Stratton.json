@@ -1,0 +1,29 @@
+{
+  "id": "John Stratton",
+  "name": "John Stratton",
+  "background": "Executive Chairman of Frontier Communications. Former Executive Vice President of Verizon Communications.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "General Dynamics Corporation",
+      "ticker": "GD",
+      "exchange": "NYSE",
+      "website": "https://www.gd.com",
+      "title": "Director",
+      "startDate": "2020-01-01",
+      "endDate": null,
+      "formattedStartDate": "2020 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation",
+    "Finance"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

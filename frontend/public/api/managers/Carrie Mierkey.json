@@ -1,0 +1,37 @@
+{
+  "id": "Carrie Mierkey",
+  "name": "Carrie Mierkey",
+  "background": "Ms. Mierkey is the Chief Financial Officer of the Company. She is a Certified Public Accountant with over 15 years of experience in finance and accounting, primarily in the mining industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "enCore Energy Corp.",
+      "ticker": "EU",
+      "exchange": "NASDAQ",
+      "website": "https://encoreuranium.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2021-07-01",
+      "endDate": null,
+      "formattedStartDate": "2021 July",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "enCore Energy Corp.",
+      "ticker": "EU",
+      "exchange": "TSX",
+      "website": "https://encoreuranium.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2021-07-01",
+      "endDate": null,
+      "formattedStartDate": "2021 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 45,
+  "ageYear": 2024
+}

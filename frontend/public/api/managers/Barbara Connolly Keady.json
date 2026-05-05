@@ -1,0 +1,42 @@
+{
+  "id": "Barbara Connolly Keady",
+  "name": "Barbara Connolly Keady",
+  "background": "Director of New Business Development at Ceres Partners since 2010.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sprott Energy Transition Materials ETF",
+      "ticker": "SETM",
+      "exchange": "NASDAQ",
+      "website": "https://www.sprottetfs.com/setm-sprott-energy-transition-materials-etf/",
+      "title": "Independent Trustee",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sprott Physical Uranium Trust",
+      "ticker": "U",
+      "exchange": "UN.TSX",
+      "website": "https://sprott.com/investment-strategies/physical-commodity-funds/uranium/",
+      "title": "Independent Trustee",
+      "startDate": "2021-07-19",
+      "endDate": null,
+      "formattedStartDate": "2021 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Governance Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

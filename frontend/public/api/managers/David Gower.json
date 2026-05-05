@@ -1,0 +1,29 @@
+{
+  "id": "David Gower",
+  "name": "David Gower",
+  "background": "Mr. Gower has over 30 years of experience in the minerals industry, including senior positions with Falconbridge Ltd. and Noranda Inc. He is currently the CEO of Emerita Resources Corp. and serves on the boards of several public companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "EagleOne Metals Corp.",
+      "ticker": "EAGL",
+      "exchange": "CSE",
+      "website": "https://eagleonemetals.com",
+      "title": "Director",
+      "startDate": "2023-06-01",
+      "endDate": null,
+      "formattedStartDate": "2023 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

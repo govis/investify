@@ -1,0 +1,27 @@
+{
+  "id": "Wendell Huang",
+  "name": "Wendell Huang",
+  "background": "Wendell Huang is the Senior Vice President and Chief Financial Officer of TSMC. He joined TSMC in 1999 and has served in various financial roles, including Deputy CFO. Before TSMC, he worked in investment banking at Chase Manhattan Bank. He holds an MBA from Cornell University.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Taiwan Semiconductor Manufacturing Company Limited",
+      "ticker": "TSM",
+      "exchange": "NYSE",
+      "website": "https://www.tsmc.com",
+      "title": "Senior Vice President and Chief Financial Officer",
+      "startDate": "2019-09-01",
+      "endDate": null,
+      "formattedStartDate": "2019 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

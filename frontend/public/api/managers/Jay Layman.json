@@ -1,0 +1,28 @@
+{
+  "id": "Jay Layman",
+  "name": "Jay Layman",
+  "background": "Mr. Layman was formerly the President and COO of Seabridge Gold. He has over 40 years of experience in the mining industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Seabridge Gold Inc.",
+      "ticker": "SA",
+      "exchange": "NYSE",
+      "website": "https://www.seabridgegold.com",
+      "title": "Director",
+      "startDate": "2011-01-01",
+      "endDate": null,
+      "formattedStartDate": "2011 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Technical Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

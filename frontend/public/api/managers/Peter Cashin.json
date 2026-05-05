@@ -1,0 +1,29 @@
+{
+  "id": "Peter Cashin",
+  "name": "Peter Cashin",
+  "background": "Peter Cashin is a geologist with over 35 years of experience in the mining industry. He was the President and CEO of Quest Rare Minerals Ltd. and has held positions with various exploration and mining companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Triple Flag Precious Metals Corp.",
+      "ticker": "TFPM",
+      "exchange": "NYSE",
+      "website": "https://www.tripleflagpm.com",
+      "title": "Independent Director",
+      "startDate": "2019-10-01",
+      "endDate": null,
+      "formattedStartDate": "2019 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Governance and Nominating Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

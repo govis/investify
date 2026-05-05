@@ -1,0 +1,29 @@
+{
+  "id": "Margaret O'Sullivan",
+  "name": "Margaret O'Sullivan",
+  "background": "Jeane Kirkpatrick Professor of the Practice of International Affairs at Harvard University's Kennedy School.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "RTX Corporation",
+      "ticker": "RTX",
+      "exchange": "NYSE",
+      "website": "https://www.rtx.com",
+      "title": "Independent Director",
+      "startDate": "2020-04-03",
+      "endDate": null,
+      "formattedStartDate": "2020 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Governance & Nominating",
+    "Public Policy & Corporate Responsibility"
+  ],
+  "age": 54,
+  "ageYear": 2024
+}

@@ -1,0 +1,29 @@
+{
+  "id": "James Mactier",
+  "name": "James Mactier",
+  "background": "Mr. Mactier has over 30 years of experience in the resources industry, including 15 years as an Executive Director of Macquarie Bank. He has deep expertise in project finance and corporate advisory.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Regis Resources Limited",
+      "ticker": "RRL",
+      "exchange": "ASX",
+      "website": "https://regisresources.com.au",
+      "title": "Non-Executive Chairman",
+      "startDate": "2016-02-22",
+      "endDate": null,
+      "formattedStartDate": "2016 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

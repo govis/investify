@@ -1,0 +1,28 @@
+{
+  "id": "Milton Cooper",
+  "name": "Milton Cooper",
+  "background": "Former President of the North American Public Sector at Computer Sciences Corporation (CSC). Extensive experience in government contracting and IT services.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Science Applications International Corporation",
+      "ticker": "SAIC",
+      "exchange": "NASDAQ",
+      "website": "https://www.saic.com",
+      "title": "Independent Director",
+      "startDate": "2023-06-07",
+      "endDate": null,
+      "formattedStartDate": "2023 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Human Resources and Compensation Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Patrick Dempsey",
+  "name": "Patrick Dempsey",
+  "background": "President and Chief Executive Officer of Barnes Group Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Nucor Corporation",
+      "ticker": "NUE",
+      "exchange": "NYSE",
+      "website": "https://nucor.com",
+      "title": "Independent Director",
+      "startDate": "2016-10-01",
+      "endDate": null,
+      "formattedStartDate": "2016 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation and Executive Development",
+    "Governance and Nominating"
+  ],
+  "age": 59,
+  "ageYear": 2024
+}

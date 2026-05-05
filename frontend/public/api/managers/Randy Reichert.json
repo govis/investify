@@ -1,0 +1,37 @@
+{
+  "id": "Randy Reichert",
+  "name": "Randy Reichert",
+  "background": "Mr. Reichert joined Skeena in 2021 as COO and was appointed President and CEO in 2023. He is a mining engineer with over 30 years of experience, having previously served as VP Operations at B2Gold and in senior roles at Lundin Mining and Freeport-McMoRan.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Skeena Resources Limited",
+      "ticker": "SKE",
+      "exchange": "NYSE",
+      "website": "https://skeenaresources.com",
+      "title": "Director, President & CEO",
+      "startDate": "2023-02-01",
+      "endDate": null,
+      "formattedStartDate": "2023 February",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Skeena Resources Limited",
+      "ticker": "SKE",
+      "exchange": "TSX",
+      "website": "https://skeenaresources.com",
+      "title": "Director, President & Chief Executive Officer",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "formattedStartDate": "2023 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

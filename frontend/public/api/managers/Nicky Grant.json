@@ -1,0 +1,29 @@
+{
+  "id": "Nicky Grant",
+  "name": "Nicky Grant",
+  "background": "Ms. Grant has over 25 years of experience in the financial services and resource sectors. She has held senior positions in corporate finance and investor relations.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "F3 Uranium Corp.",
+      "ticker": "FUU",
+      "exchange": "TSX",
+      "website": "https://f3uranium.com",
+      "title": "Independent Director",
+      "startDate": "2023-05-15",
+      "endDate": null,
+      "formattedStartDate": "2023 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 52,
+  "ageYear": 2024
+}

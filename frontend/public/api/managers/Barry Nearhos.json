@@ -1,0 +1,29 @@
+{
+  "id": "Barry Nearhos",
+  "name": "Barry Nearhos",
+  "background": "Mr. Nearhos was a partner at PricewaterhouseCoopers LLP for over 25 years. He has extensive experience in accounting, auditing, and financial reporting.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Mercury Systems, Inc.",
+      "ticker": "MRCY",
+      "exchange": "NASDAQ",
+      "website": "https://www.mrcy.com",
+      "title": "Independent Director",
+      "startDate": "2018-01-01",
+      "endDate": null,
+      "formattedStartDate": "2018 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Governance Committee"
+  ],
+  "age": 68,
+  "ageYear": 2023
+}

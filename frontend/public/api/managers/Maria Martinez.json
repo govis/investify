@@ -1,0 +1,26 @@
+{
+  "id": "Maria Martinez",
+  "name": "Maria Martinez",
+  "background": "Maria Martinez is Chief Operating Officer of Cisco. She joined Cisco in 2018. Previously, she was President, Global Customer Success and Salesforce Services at Salesforce.com.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "website": "https://www.cisco.com",
+      "title": "Chief Operating Officer",
+      "startDate": "2021-03-01",
+      "endDate": null,
+      "formattedStartDate": "2021 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 66,
+  "ageYear": 2024
+}

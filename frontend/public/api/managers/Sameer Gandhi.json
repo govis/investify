@@ -1,0 +1,29 @@
+{
+  "id": "Sameer Gandhi",
+  "name": "Sameer Gandhi",
+  "background": "Partner at Accel. Former Managing Director at Sequoia Capital.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "CrowdStrike Holdings, Inc.",
+      "ticker": "CRWD",
+      "exchange": "NASDAQ",
+      "website": "https://www.crowdstrike.com",
+      "title": "Director",
+      "startDate": "2011-11-01",
+      "endDate": null,
+      "formattedStartDate": "2011 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

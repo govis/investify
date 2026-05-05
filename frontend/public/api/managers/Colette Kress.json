@@ -1,0 +1,28 @@
+{
+  "id": "Colette Kress",
+  "name": "Colette Kress",
+  "background": "Colette M. Kress joined NVIDIA in 2013 as Executive Vice President and Chief Financial Officer. Prior to NVIDIA, Ms. Kress served as Senior Vice President and Chief Financial Officer of the Business Software and Services division of Cisco Systems, Inc. from 2010 to 2013. She also spent 13 years at Microsoft Corporation in various finance roles, including Chief Financial Officer of the Server and Tools division. Ms. Kress holds a B.S. degree in Finance from the University of Arizona and an M.B.A. degree from the University of Washington.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "exchange": "NASDAQ",
+      "website": "https://www.nvidia.com",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2013-09-01",
+      "endDate": null,
+      "formattedStartDate": "2013 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 56,
+  "ageYear": 2024
+}

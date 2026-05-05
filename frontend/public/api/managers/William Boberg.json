@@ -1,0 +1,28 @@
+{
+  "id": "William Boberg",
+  "name": "William Boberg",
+  "background": "Mr. Boberg is a co-founder of the Company and served as President and CEO from 2006 to 2011. He is a professional geologist with over 50 years of experience.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Ur-Energy Inc.",
+      "ticker": "URG",
+      "exchange": "NYSE",
+      "website": "https://www.ur-energy.com",
+      "title": "Director",
+      "startDate": "2004-01-01",
+      "endDate": null,
+      "formattedStartDate": "2004 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Technical Committee"
+  ],
+  "age": 83,
+  "ageYear": 2024
+}

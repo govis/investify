@@ -1,0 +1,29 @@
+{
+  "id": "Peter O'Hagan",
+  "name": "Peter O'Hagan",
+  "background": "Mr. O'Hagan has over 30 years of experience in commodities and structured finance, including roles at Goldman Sachs and Trafigura.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "IAMGOLD Corporation",
+      "ticker": "IAG",
+      "exchange": "NYSE",
+      "website": "https://www.iamgold.com",
+      "title": "Independent Director",
+      "startDate": "2022-02-01",
+      "endDate": null,
+      "formattedStartDate": "2022 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Human Resources and Compensation Committee"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

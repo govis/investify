@@ -1,0 +1,29 @@
+{
+  "id": "Warwick Morley-Jepson",
+  "name": "Warwick Morley-Jepson",
+  "background": "Mr. Morley-Jepson has over 40 years of experience in the mining industry, including senior roles at Kinross Gold and Gold Fields Limited.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Wesdome Gold Mines Ltd.",
+      "ticker": "WDO",
+      "exchange": "TSX",
+      "website": "https://www.wesdome.com",
+      "title": "Chair of the Board",
+      "startDate": "2019-06-01",
+      "endDate": null,
+      "formattedStartDate": "2019 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Governance and Nominating Committee",
+    "Technical Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

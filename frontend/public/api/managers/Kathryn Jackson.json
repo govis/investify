@@ -1,0 +1,29 @@
+{
+  "id": "Kathryn Jackson",
+  "name": "Kathryn Jackson",
+  "background": "Kathryn Jackson is the former Senior Vice-President and Chief Technology Officer of RTI International Metals, Inc. She has a PhD in Engineering and Public Policy.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCJ",
+      "exchange": "NYSE",
+      "website": "https://www.cameco.com",
+      "title": "Independent Director",
+      "startDate": "2017-01-01",
+      "endDate": null,
+      "formattedStartDate": "2017 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating, Corporate Governance and Risk Committee",
+    "Safety, Health, Environment, Quality and Technical Committee"
+  ],
+  "age": 65,
+  "ageYear": 2023
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Peter Hawley",
+  "name": "Peter Hawley",
+  "background": "Mr. Hawley is a geologist with over 35 years of experience in the mining industry and is the founder of Sabina Gold & Silver Corp.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "IsoEnergy Ltd.",
+      "ticker": "ISO",
+      "exchange": "TSX",
+      "website": "https://www.isoenergy.ca",
+      "title": "Independent Director",
+      "startDate": "2023-12-05",
+      "endDate": null,
+      "formattedStartDate": "2023 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

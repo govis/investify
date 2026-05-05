@@ -1,0 +1,30 @@
+{
+  "id": "Bakhrom Saydivaliev",
+  "name": "Bakhrom Saydivaliev",
+  "background": "Mr. Saydivaliev has over 20 years of experience in finance and investment. He has held various senior positions in financial institutions and investment firms.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Critical Metals Corp.",
+      "ticker": "CRML",
+      "exchange": "NASDAQ",
+      "website": "https://criticalmetalscorp.com",
+      "title": "Independent Director",
+      "startDate": "2024-02-27",
+      "endDate": null,
+      "formattedStartDate": "2024 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 45,
+  "ageYear": 2024
+}

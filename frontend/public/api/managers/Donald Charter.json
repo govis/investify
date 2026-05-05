@@ -1,0 +1,29 @@
+{
+  "id": "Donald Charter",
+  "name": "Donald Charter",
+  "background": "Mr. Charter is a professional director with extensive experience in the mining industry and capital markets. He has served on numerous public company boards.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lundin Mining Corporation",
+      "ticker": "LUN",
+      "exchange": "TSX",
+      "website": "https://www.lundinmining.com",
+      "title": "Independent Director",
+      "startDate": "2015-05-01",
+      "endDate": null,
+      "formattedStartDate": "2015 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 67,
+  "ageYear": 2024
+}

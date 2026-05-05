@@ -1,0 +1,40 @@
+{
+  "id": "Ambassador Thomas Graham, Jr",
+  "name": "Ambassador Thomas Graham, Jr.",
+  "background": "Ambassador Graham is a world-renowned expert on nuclear non-proliferation and has served under four US Presidents.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "CanAlaska Uranium Ltd.",
+      "ticker": "CVV",
+      "exchange": "TSX",
+      "website": "https://canalaska.com/",
+      "title": "Chairman",
+      "startDate": "2007-01-01",
+      "endDate": null,
+      "formattedStartDate": "2007 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "CanAlaska Uranium Ltd.",
+      "ticker": "CVV",
+      "exchange": "TSXV",
+      "website": "https://canalaska.com/",
+      "title": "Chairman",
+      "startDate": "2007-01-01",
+      "endDate": null,
+      "formattedStartDate": "2007 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 90,
+  "ageYear": 2024
+}

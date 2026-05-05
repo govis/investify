@@ -1,0 +1,29 @@
+{
+  "id": "Karen Swager",
+  "name": "Karen Swager",
+  "background": "Independent Director. Senior Vice President at The Mosaic Company with over 25 years of experience in the mining industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "SSR Mining Inc.",
+      "ticker": "SSRM",
+      "exchange": "NASDAQ",
+      "website": "https://www.ssrmining.com",
+      "title": "Independent Director",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "formattedStartDate": "2022 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Environmental, Health, Safety and Sustainability Committee",
+    "Technical Committee"
+  ],
+  "age": 54,
+  "ageYear": 2024
+}

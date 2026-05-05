@@ -1,0 +1,39 @@
+{
+  "id": "Vic Abate",
+  "name": "Vic Abate",
+  "background": "Mr. Abate is the CEO of GE Aerospace's Wind and Gas Power businesses and has held various leadership roles at GE since 1990.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "General Electric Company",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "website": "https://www.geaerospace.com",
+      "title": "CEO, Wind and Gas Power",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "formattedStartDate": "2023 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "GE Vernova Inc.",
+      "ticker": "GEV",
+      "exchange": "NYSE",
+      "website": "https://www.gevernova.com",
+      "title": "CEO, Wind",
+      "startDate": "2024-04-02",
+      "endDate": null,
+      "formattedStartDate": "2024 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Electrification",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 59,
+  "ageYear": 2024
+}

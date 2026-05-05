@@ -1,0 +1,30 @@
+{
+  "id": "Christopher Wallace",
+  "name": "Christopher Wallace",
+  "background": "Mr. Wallace is a managing partner of Firstlight Capital and has over 30 years of experience in the investment industry. He has held senior positions with several Canadian investment dealers.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "GoviEx Uranium Inc.",
+      "ticker": "GXU",
+      "exchange": "TSXV",
+      "website": "https://www.goviex.com",
+      "title": "Independent Director",
+      "startDate": "2014-01-01",
+      "endDate": null,
+      "formattedStartDate": "2014 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

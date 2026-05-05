@@ -1,0 +1,41 @@
+{
+  "id": "Darwin Green",
+  "name": "Darwin Green",
+  "background": "Mr. Green is the President and CEO of HighGold Mining Inc. He has over 25 years of experience in the mining industry, specializing in exploration and project development.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Dryden Gold Corp.",
+      "ticker": "DRY",
+      "exchange": "TSX",
+      "website": "https://drydengold.com",
+      "title": "Independent Director",
+      "startDate": "2023-05-01",
+      "endDate": null,
+      "formattedStartDate": "2023 May",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Onyx Gold Corp.",
+      "ticker": "ONYX",
+      "exchange": "TSX",
+      "website": "https://onyxgold.com",
+      "title": "Executive Chairman",
+      "startDate": "2023-06-01",
+      "endDate": null,
+      "formattedStartDate": "2023 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 51,
+  "ageYear": 2024
+}

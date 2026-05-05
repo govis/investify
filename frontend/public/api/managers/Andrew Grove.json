@@ -1,0 +1,26 @@
+{
+  "id": "Andrew Grove",
+  "name": "Andrew Grove",
+  "background": "Mr Grove has over 30 years of experience in the mining industry, including 22 years with Macquarie Bank in mining finance and 8 years in senior executive roles at African-focused gold producers. He has significant experience in project development, operations, and corporate finance.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Aura Energy Limited",
+      "ticker": "AEE",
+      "exchange": "ASX",
+      "website": "https://auraenergy.com.au/",
+      "title": "Managing Director and CEO",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "formattedStartDate": "2024 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

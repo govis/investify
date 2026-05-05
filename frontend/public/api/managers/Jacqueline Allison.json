@@ -1,0 +1,29 @@
+{
+  "id": "Jacqueline Allison",
+  "name": "Jacqueline Allison",
+  "background": "Dr. Allison has over 20 years of experience in the mining industry as a research analyst and investment manager.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Laramide Resources Ltd.",
+      "ticker": "LAM",
+      "exchange": "TSX",
+      "website": "https://laramide.com",
+      "title": "Independent Director",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

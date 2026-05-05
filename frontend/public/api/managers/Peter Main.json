@@ -1,0 +1,29 @@
+{
+  "id": "Peter Main",
+  "name": "Peter Main",
+  "background": "Mr Main has over 30 years’ experience in the financial markets and resources sectors. He has held senior roles with several investment banks and has extensive experience in corporate finance and capital markets. He is currently a Non-Executive Director of several other ASX-listed companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Paladin Energy Ltd",
+      "ticker": "PDN",
+      "exchange": "ASX",
+      "website": "https://www.paladinenergy.com.au",
+      "title": "Non-Executive Director",
+      "startDate": "2019-12-11",
+      "endDate": null,
+      "formattedStartDate": "2019 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee (Chair)",
+    "Remuneration and Nomination Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

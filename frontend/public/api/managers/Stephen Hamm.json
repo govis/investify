@@ -1,0 +1,28 @@
+{
+  "id": "Stephen Hamm",
+  "name": "Stephen Hamm",
+  "background": "Managing Director at Hellman & Friedman. Former executive at AlixPartners.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Snowflake Inc.",
+      "ticker": "SNOW",
+      "exchange": "NYSE",
+      "website": "https://www.snowflake.com",
+      "title": "Independent Director",
+      "startDate": "2023-10-01",
+      "endDate": null,
+      "formattedStartDate": "2023 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 52,
+  "ageYear": 2024
+}

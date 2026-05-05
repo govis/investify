@@ -1,0 +1,26 @@
+{
+  "id": "Loz Johnson",
+  "name": "Loz Johnson",
+  "background": "Mr. Johnson is a geologist with over 25 years’ experience in the mining industry, specifically in uranium exploration and development. He has held senior roles with several uranium companies including Paladin Energy.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Boss Energy Limited",
+      "ticker": "BOE",
+      "exchange": "ASX",
+      "website": "https://www.bossenergy.com",
+      "title": "General Manager - Geology",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "formattedStartDate": "2022 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

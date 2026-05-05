@@ -1,0 +1,27 @@
+{
+  "id": "John Lawler",
+  "name": "John Lawler",
+  "background": "John Lawler is Ford Vice Chair and Chief Financial Officer. He has held numerous financial leadership positions at Ford, including President of Ford China and Controller.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "website": "https://www.ford.com",
+      "title": "Vice Chair and Chief Financial Officer",
+      "startDate": "2024-05-01",
+      "endDate": null,
+      "formattedStartDate": "2024 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 57,
+  "ageYear": 2024
+}

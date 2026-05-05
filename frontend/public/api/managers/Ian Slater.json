@@ -1,0 +1,29 @@
+{
+  "id": "Ian Slater",
+  "name": "Ian Slater",
+  "background": "Mr. Slater is an entrepreneur with over 25 years of experience in the mining industry. He is the founder and Chairman of Libero Copper & Gold Corp.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Onyx Gold Corp.",
+      "ticker": "ONYX",
+      "exchange": "TSX",
+      "website": "https://onyxgold.com",
+      "title": "Director",
+      "startDate": "2023-06-01",
+      "endDate": null,
+      "formattedStartDate": "2023 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 55,
+  "ageYear": 2024
+}

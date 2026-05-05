@@ -1,0 +1,29 @@
+{
+  "id": "Miriam John",
+  "name": "Miriam John",
+  "background": "Dr. Miriam E. John is a retired Vice President of Sandia National Laboratories and serves on various government advisory boards.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Leidos Holdings, Inc.",
+      "ticker": "LDOS",
+      "exchange": "NYSE",
+      "website": "https://www.leidos.com",
+      "title": "Independent Director",
+      "startDate": "2007-01-01",
+      "endDate": null,
+      "formattedStartDate": "2007 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Ethics Committee",
+    "Technology and Information Security Committee"
+  ],
+  "age": 75,
+  "ageYear": 2024
+}

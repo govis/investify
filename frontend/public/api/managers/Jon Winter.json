@@ -1,0 +1,26 @@
+{
+  "id": "Jon Winter",
+  "name": "Jon Winter",
+  "background": "Mr. Winter has over 30 years of experience in the uranium industry, specifically in ISR operations. He has held senior management positions with Uranium One and Power Resources.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Peninsula Energy Limited",
+      "ticker": "PEN",
+      "exchange": "ASX",
+      "website": "https://www.pel.net.au",
+      "title": "Vice President - US Operations",
+      "startDate": "2013-01-01",
+      "endDate": null,
+      "formattedStartDate": "2013 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

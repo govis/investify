@@ -1,0 +1,30 @@
+{
+  "id": "Teri McClure",
+  "name": "Teri McClure",
+  "background": "Former Chief Human Resources Officer and Senior Vice President of Labor of United Parcel Service, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Fluor Corporation",
+      "ticker": "FLR",
+      "exchange": "NYSE",
+      "website": "https://www.fluor.com",
+      "title": "Independent Director",
+      "startDate": "2020-01-01",
+      "endDate": null,
+      "formattedStartDate": "2020 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Governance Committee",
+    "Organization and Compensation Committee"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

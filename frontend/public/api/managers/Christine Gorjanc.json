@@ -1,0 +1,28 @@
+{
+  "id": "Christine Gorjanc",
+  "name": "Christine Gorjanc",
+  "background": "Ms. Gorjanc was the CFO of Arlo Technologies and Netgear.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Juniper Networks, Inc.",
+      "ticker": "JNPR",
+      "exchange": "NYSE",
+      "website": "https://www.juniper.net",
+      "title": "Independent Director",
+      "startDate": "2019-01-01",
+      "endDate": null,
+      "formattedStartDate": "2019 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 67,
+  "ageYear": 2024
+}

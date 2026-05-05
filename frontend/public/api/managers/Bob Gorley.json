@@ -1,0 +1,29 @@
+{
+  "id": "Bob Gorley",
+  "name": "Bob Gorley",
+  "background": "Mr. Gorley has over 40 years of experience in the financial services industry. He was previously Vice Chairman of Ernst & Young LLP (Canada).",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Alamos Gold Inc.",
+      "ticker": "AGI",
+      "exchange": "NYSE",
+      "website": "https://www.alamosgold.com",
+      "title": "Director",
+      "startDate": "2015-01-01",
+      "endDate": null,
+      "formattedStartDate": "2015 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 73,
+  "ageYear": 2024
+}

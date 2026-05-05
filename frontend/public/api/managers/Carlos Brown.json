@@ -1,0 +1,26 @@
+{
+  "id": "Carlos Brown",
+  "name": "Carlos Brown",
+  "background": "Carlos M. Brown is president of Dominion Energy Virginia. He assumed this role in January 2024. Previously, he served as senior vice president, chief legal officer and general counsel of Dominion Energy.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Dominion Energy, Inc.",
+      "ticker": "D",
+      "exchange": "NYSE",
+      "website": "https://www.dominionenergy.com",
+      "title": "President, Dominion Energy Virginia",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "formattedStartDate": "2024 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 53,
+  "ageYear": 2024
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Dennis Lu",
+  "name": "Dennis Lu",
+  "background": "Mr. Lu has served as our vice president since June 2023. Prior to joining us, he served as the vice president of research and development at Geely Automobile.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "XPeng Inc.",
+      "ticker": "XPEV",
+      "exchange": "NYSE",
+      "website": "https://www.xiaopeng.com",
+      "title": "Vice President",
+      "startDate": "2023-06-01",
+      "endDate": null,
+      "formattedStartDate": "2023 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 51,
+  "ageYear": 2024
+}

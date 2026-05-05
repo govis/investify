@@ -1,0 +1,29 @@
+{
+  "id": "Carrie Cox",
+  "name": "Carrie Cox",
+  "background": "Former Chairman and CEO of Humacyte, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Texas Instruments Incorporated",
+      "ticker": "TXN",
+      "exchange": "NASDAQ",
+      "website": "https://www.ti.com",
+      "title": "Independent Director",
+      "startDate": "2004-01-01",
+      "endDate": null,
+      "formattedStartDate": "2004 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Governance and Stockholder Relations Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

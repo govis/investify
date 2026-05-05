@@ -1,0 +1,26 @@
+{
+  "id": "Sam Ataya",
+  "name": "Sam Ataya",
+  "background": "Mr. Ataya has over 30 years of experience in the management and development of private and public companies. He has served as the Executive Chairman and CEO of Western Magnesium since 2018.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Western Magnesium Corporation",
+      "ticker": "WMG",
+      "exchange": "TSX",
+      "website": "https://westernmagnesium.com",
+      "title": "Executive Chairman and Chief Executive Officer",
+      "startDate": "2018-01-01",
+      "endDate": null,
+      "formattedStartDate": "2018 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 59,
+  "ageYear": 2023
+}

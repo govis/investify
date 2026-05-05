@@ -1,0 +1,29 @@
+{
+  "id": "Laura Sugg",
+  "name": "Laura Sugg",
+  "background": "Retired executive of ConocoPhillips.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Public Service Enterprise Group Incorporated",
+      "ticker": "PEG",
+      "exchange": "NYSE",
+      "website": "https://www.pseg.com",
+      "title": "Independent Director",
+      "startDate": "2019-01-01",
+      "endDate": null,
+      "formattedStartDate": "2019 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Executive",
+    "Finance (Chair)"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

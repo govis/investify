@@ -1,0 +1,40 @@
+{
+  "id": "Leona Aglukkaq",
+  "name": "Leona Aglukkaq",
+  "background": "Ms. Aglukkaq is a former Canadian politician who served as a Member of Parliament and held several cabinet positions, including Minister of Health and Minister of the Environment.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Agnico Eagle Mines Limited",
+      "ticker": "AEM",
+      "exchange": "NYSE",
+      "website": "https://www.agnicoeagle.com",
+      "title": "Director",
+      "startDate": "2022-02-08",
+      "endDate": null,
+      "formattedStartDate": "2022 February",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Victoria Gold Corp.",
+      "ticker": "VGCX",
+      "exchange": "TSX",
+      "website": "https://vgcx.com",
+      "title": "Independent Director",
+      "startDate": "2020-01-01",
+      "endDate": null,
+      "formattedStartDate": "2020 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee (Chair)",
+    "Health, Safety, Environment and Sustainable Development Committee"
+  ],
+  "age": 56,
+  "ageYear": 2024
+}

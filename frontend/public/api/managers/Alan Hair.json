@@ -1,0 +1,30 @@
+{
+  "id": "Alan Hair",
+  "name": "Alan Hair",
+  "background": "Former President and CEO of Hudbay Minerals Inc. Over 35 years of experience in the mining industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Gold Royalty Corp.",
+      "ticker": "GROY",
+      "exchange": "NYSE",
+      "website": "https://www.goldroyalty.com",
+      "title": "Independent Director",
+      "startDate": "2020-06-23",
+      "endDate": null,
+      "formattedStartDate": "2020 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 62,
+  "ageYear": 2023
+}

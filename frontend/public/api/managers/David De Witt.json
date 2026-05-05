@@ -1,0 +1,29 @@
+{
+  "id": "David De Witt",
+  "name": "David De Witt",
+  "background": "Chairman of Pathway Capital Ltd. and a director of several public companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sandstorm Gold Ltd.",
+      "ticker": "SAND",
+      "exchange": "NYSE",
+      "website": "https://www.sandstormgold.com",
+      "title": "Independent Director",
+      "startDate": "2008-01-01",
+      "endDate": null,
+      "formattedStartDate": "2008 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

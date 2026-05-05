@@ -1,0 +1,30 @@
+{
+  "id": "Richard Pattee",
+  "name": "Richard Pattee",
+  "background": "Mr. Pattee has over 30 years of experience in the mining and finance industry. He has held senior roles in investment banking and corporate development.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "IsoEnergy Ltd.",
+      "ticker": "ISO",
+      "exchange": "TSXV",
+      "website": "https://www.isoenergy.ca",
+      "title": "Independent Director",
+      "startDate": "2016-02-02",
+      "endDate": null,
+      "formattedStartDate": "2016 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Governance and Nominating Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

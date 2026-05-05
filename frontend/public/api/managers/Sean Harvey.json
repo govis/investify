@@ -1,0 +1,29 @@
+{
+  "id": "Sean Harvey",
+  "name": "Sean Harvey",
+  "background": "Mr. Harvey has over 25 years of experience in the investment banking and mining industries. He has served as Chairman of Victoria Gold since 2007. He was previously President and CEO of Orvana Minerals Corp.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Victoria Gold Corp.",
+      "ticker": "VGCX",
+      "exchange": "TSX",
+      "website": "https://vgcx.com",
+      "title": "Chairman",
+      "startDate": "2007-07-31",
+      "endDate": null,
+      "formattedStartDate": "2007 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

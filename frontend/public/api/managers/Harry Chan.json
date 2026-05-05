@@ -1,0 +1,37 @@
+{
+  "id": "Harry Chan",
+  "name": "Harry Chan",
+  "background": "Mr. Chan is a Chartered Professional Accountant with over 20 years of experience in financial management and reporting for public companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "CanAlaska Uranium Ltd.",
+      "ticker": "CVV",
+      "exchange": "TSX",
+      "website": "https://canalaska.com/",
+      "title": "CFO",
+      "startDate": "2011-01-01",
+      "endDate": null,
+      "formattedStartDate": "2011 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "CanAlaska Uranium Ltd.",
+      "ticker": "CVV",
+      "exchange": "TSXV",
+      "website": "https://canalaska.com/",
+      "title": "Chief Financial Officer",
+      "startDate": "2011-01-01",
+      "endDate": null,
+      "formattedStartDate": "2011 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

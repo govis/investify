@@ -1,0 +1,26 @@
+{
+  "id": "David Awram",
+  "name": "David Awram",
+  "background": "Mr. Awram is a co-founder of Sandstorm. Previously, he was the Director of Investor Relations for Silver Wheaton Corp. He holds a Bachelor of Science degree in Geology.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sandstorm Gold Ltd.",
+      "ticker": "SAND",
+      "exchange": "NYSE",
+      "website": "https://www.sandstormgold.com",
+      "title": "Senior Vice President and Director",
+      "startDate": "2008-01-01",
+      "endDate": null,
+      "formattedStartDate": "2008 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 52,
+  "ageYear": 2024
+}

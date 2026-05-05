@@ -1,0 +1,28 @@
+{
+  "id": "Julie Richardson",
+  "name": "Julie Richardson",
+  "background": "Former Managing Director at Providence Equity Partners and former head of the New York office of JP Morgan.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Datadog, Inc.",
+      "ticker": "DDOG",
+      "exchange": "NASDAQ",
+      "website": "https://www.datadoghq.com",
+      "title": "Director",
+      "startDate": "2019-01-01",
+      "endDate": null,
+      "formattedStartDate": "2019 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

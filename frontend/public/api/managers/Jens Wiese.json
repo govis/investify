@@ -1,0 +1,26 @@
+{
+  "id": "Jens Wiese",
+  "name": "Jens Wiese",
+  "background": "Head of Group M&A and Investment Advisory at Volkswagen AG. Former Senior Partner at Roland Berger.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "QuantumScape Corporation",
+      "ticker": "QS",
+      "exchange": "NYSE",
+      "website": "https://www.quantumscape.com",
+      "title": "Director",
+      "startDate": "2020-11-01",
+      "endDate": null,
+      "formattedStartDate": "2020 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 53,
+  "ageYear": 2024
+}

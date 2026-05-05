@@ -1,0 +1,30 @@
+{
+  "id": "Gerhard Watzinger",
+  "name": "Gerhard Watzinger",
+  "background": "Chairman of the Board. Former CEO of i-Logix and executive at McAfee.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "CrowdStrike Holdings, Inc.",
+      "ticker": "CRWD",
+      "exchange": "NASDAQ",
+      "website": "https://www.crowdstrike.com",
+      "title": "Chairman of the Board",
+      "startDate": "2012-04-01",
+      "endDate": null,
+      "formattedStartDate": "2012 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

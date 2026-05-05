@@ -1,0 +1,29 @@
+{
+  "id": "Keith Alexander",
+  "name": "Keith Alexander",
+  "background": "Former Director of the National Security Agency and former Commander of U.S. Cyber Command.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Amazon.com, Inc.",
+      "ticker": "AMZN",
+      "exchange": "NASDAQ",
+      "website": "https://www.amazon.com",
+      "title": "Director",
+      "startDate": "2020-09-01",
+      "endDate": null,
+      "formattedStartDate": "2020 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 72,
+  "ageYear": 2024
+}

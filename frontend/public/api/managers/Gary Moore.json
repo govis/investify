@@ -1,0 +1,28 @@
+{
+  "id": "Gary Moore",
+  "name": "Gary Moore",
+  "background": "Gary Moore is the former Executive Chairman and CEO of ServiceSource International, Inc. and previously served as President and COO of Cisco Systems, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "KLA Corporation",
+      "ticker": "KLAC",
+      "exchange": "NASDAQ",
+      "website": "https://www.kla.com",
+      "title": "Independent Director",
+      "startDate": "2014-01-01",
+      "endDate": null,
+      "formattedStartDate": "2014 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 74,
+  "ageYear": 2024
+}

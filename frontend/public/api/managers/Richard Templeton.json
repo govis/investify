@@ -1,0 +1,26 @@
+{
+  "id": "Richard Templeton",
+  "name": "Richard Templeton",
+  "background": "Rich Templeton is chairman of the board. He served as TI's president and CEO from 2004 to 2023.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Texas Instruments Incorporated",
+      "ticker": "TXN",
+      "exchange": "NASDAQ",
+      "website": "https://www.ti.com",
+      "title": "Chairman of the Board",
+      "startDate": "2008-04-01",
+      "endDate": null,
+      "formattedStartDate": "2008 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 65,
+  "ageYear": 2024
+}

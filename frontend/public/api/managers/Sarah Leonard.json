@@ -1,0 +1,26 @@
+{
+  "id": "Sarah Leonard",
+  "name": "Sarah Leonard",
+  "background": "Sarah Leonard is the General Counsel and Company Secretary. She joined Lynas in 2021 and has extensive experience in corporate law and governance.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lynas Rare Earths Limited",
+      "ticker": "LYC",
+      "exchange": "ASX",
+      "website": "https://lynasrareearths.com",
+      "title": "General Counsel and Company Secretary",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

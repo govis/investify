@@ -1,0 +1,26 @@
+{
+  "id": "Amy Weaver",
+  "name": "Amy Weaver",
+  "background": "Amy Weaver is President and Chief Financial Officer of Salesforce. She previously served as the company's President and Chief Legal Officer from 2020 to 2021 and as President, Legal and Corporate Affairs from 2017 to 2020.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Salesforce, Inc.",
+      "ticker": "CRM",
+      "exchange": "NYSE",
+      "website": "https://www.salesforce.com",
+      "title": "President and Chief Financial Officer",
+      "startDate": "2021-02-01",
+      "endDate": null,
+      "formattedStartDate": "2021 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 57,
+  "ageYear": 2024
+}

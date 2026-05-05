@@ -1,0 +1,29 @@
+{
+  "id": "Edward Farrauto",
+  "name": "Edward Farrauto",
+  "background": "Mr. Farrauto has over 30 years of experience as a senior financial executive in the mining industry, including roles as CFO for several public companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Calibre Mining Corp.",
+      "ticker": "CXB",
+      "exchange": "TSX",
+      "website": "https://calibremining.com",
+      "title": "Director",
+      "startDate": "2019-10-15",
+      "endDate": null,
+      "formattedStartDate": "2019 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

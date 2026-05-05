@@ -1,0 +1,26 @@
+{
+  "id": "Ken Konkin",
+  "name": "Ken Konkin",
+  "background": "Mr. Konkin is a Professional Geologist with over 35 years of experience in exploration and mining. He was instrumental in the discovery of the Valley of the Kings deposit at Pretium Resources Inc. and has worked extensively in the Golden Triangle of British Columbia.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Tudor Gold Corp.",
+      "ticker": "TUD",
+      "exchange": "TSX",
+      "website": "https://tudor-gold.com/",
+      "title": "Director, President and Chief Executive Officer",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "formattedStartDate": "2022 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 63,
+  "ageYear": 2024
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Michael Daniels",
+  "name": "Michael Daniels",
+  "background": "Mr. Daniels has served as Chairman of the Board since 2021. He was previously Chairman and CEO of Mobile 365 and a senior executive at SAIC.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "CACI International Inc",
+      "ticker": "CACI",
+      "exchange": "NYSE",
+      "website": "https://www.caci.com",
+      "title": "Chairman of the Board, Director",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee",
+    "Executive Committee"
+  ],
+  "age": 78,
+  "ageYear": 2024
+}

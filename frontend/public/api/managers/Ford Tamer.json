@@ -1,0 +1,28 @@
+{
+  "id": "Ford Tamer",
+  "name": "Ford Tamer",
+  "background": "Former President and CEO of Inphi Corporation. Previously CEO of Telegent Systems and Senior Vice President at Broadcom.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Marvell Technology, Inc.",
+      "ticker": "MRVL",
+      "exchange": "NASDAQ",
+      "website": "https://www.marvell.com",
+      "title": "Director",
+      "startDate": "2021-04-01",
+      "endDate": null,
+      "formattedStartDate": "2021 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

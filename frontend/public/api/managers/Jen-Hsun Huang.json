@@ -1,0 +1,28 @@
+{
+  "id": "Jen-Hsun Huang",
+  "name": "Jen-Hsun Huang",
+  "background": "Jen-Hsun Huang co-founded NVIDIA in 1993 and has served as President, Chief Executive Officer and a member of the Board of Directors since that time. From 1985 to 1993, Mr. Huang was employed at LSI Logic Corporation, a computer chip manufacturer, in a variety of positions, most recently as Director of Coreware, the business unit responsible for LSI's system-on-a-chip strategy. From 1983 to 1985, Mr. Huang was a microprocessor designer at Advanced Micro Devices, Inc., a semiconductor company. Mr. Huang holds a B.S.E.E. degree from Oregon State University and an M.S.E.E. degree from Stanford University.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "exchange": "NASDAQ",
+      "website": "https://www.nvidia.com",
+      "title": "Director, President and Chief Executive Officer",
+      "startDate": "1993-01-01",
+      "endDate": null,
+      "formattedStartDate": "1993 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

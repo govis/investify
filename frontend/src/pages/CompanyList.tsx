@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { ChevronLeft, Globe, ExternalLink } from 'lucide-react';
+import Navigation from '../components/Navigation';
 
 interface InvestmentThesis {
   thesis_name: string;
@@ -40,19 +41,17 @@ const CompanyList: React.FC = () => {
 
   return (
     <div style={{ padding: '24px', maxWidth: '1200px', margin: '0 auto', textAlign: 'left' }}>
-      <Link to="/" style={{ display: 'flex', alignItems: 'center', color: '#666', marginBottom: '24px', textDecoration: 'none' }}>
-        <ChevronLeft size={20} />
-        Investment Themes
-      </Link>
+      <Navigation />
 
       <h1 style={{ 
         textAlign: 'left', 
         marginBottom: '48px', 
         fontSize: '36px', 
         lineHeight: '1.2', 
-        letterSpacing: '-0.02em' 
+        letterSpacing: '-0.02em',
+        marginTop: '64px'
       }}>
-        All Companies
+        All Public Companies
       </h1>
 
       <div style={{ overflowX: 'auto' }}>

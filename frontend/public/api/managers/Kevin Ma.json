@@ -1,0 +1,26 @@
+{
+  "id": "Kevin Ma",
+  "name": "Kevin Ma",
+  "background": "Mr. Ma is a senior financial professional with over 15 years of experience in corporate finance, financial reporting, and regulatory compliance. He is a Chartered Professional Accountant and has served as CFO for several publicly traded resource companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Baselode Energy Corp.",
+      "ticker": "FIND",
+      "exchange": "TSX",
+      "website": "https://baselode.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2020-06-01",
+      "endDate": null,
+      "formattedStartDate": "2020 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 42,
+  "ageYear": 2024
+}

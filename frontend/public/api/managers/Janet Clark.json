@@ -1,0 +1,29 @@
+{
+  "id": "Janet Clark",
+  "name": "Janet Clark",
+  "background": "Former Executive Vice President and CFO of Marathon Oil Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Texas Instruments Incorporated",
+      "ticker": "TXN",
+      "exchange": "NASDAQ",
+      "website": "https://www.ti.com",
+      "title": "Independent Director",
+      "startDate": "2015-01-01",
+      "endDate": null,
+      "formattedStartDate": "2015 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Governance and Stockholder Relations Committee"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

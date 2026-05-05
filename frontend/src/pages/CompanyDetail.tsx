@@ -16,6 +16,7 @@ interface CompanyDetail {
   country?: string;
   type?: string;
   investment_theses?: InvestmentThesis[];
+  tabs?: { label: string; content: string }[];
 }
 
 const CompanyDetail: React.FC = () => {
@@ -23,6 +24,7 @@ const CompanyDetail: React.FC = () => {
   const navigate = useNavigate();
   const [company, setCompany] = useState<CompanyDetail | null>(null);
   const [loading, setLoading] = useState(true);
+  const [activeTab, setActiveTab] = useState('Company');
 
   useEffect(() => {
     if (id) {
@@ -55,6 +57,10 @@ const CompanyDetail: React.FC = () => {
 
   if (loading) return <div style={{ padding: '24px' }}>Loading...</div>;
   if (!company) return <div style={{ padding: '24px' }}>Company not found.</div>;
+
+  const currentTabContent = activeTab === 'Company' 
+    ? company.content 
+    : company.tabs?.find(t => t.label === activeTab)?.content || '';
 
   return (
     <div style={{ padding: '24px', maxWidth: '900px', margin: '0 auto', textAlign: 'left' }}>
@@ -121,9 +127,41 @@ const CompanyDetail: React.FC = () => {
         )}
       </div>
 
+      {company.tabs && company.tabs.length > 0 && (
+        <div style={{ 
+          display: 'flex', 
+          borderBottom: '2px solid #eee', 
+          marginBottom: '32px', 
+          gap: '12px',
+          paddingBottom: '0px'
+        }}>
+          {['Company', ...company.tabs.map(t => t.label)].map(tabLabel => (
+            <button
+              key={tabLabel}
+              onClick={() => setActiveTab(tabLabel)}
+              style={{
+                padding: '12px 24px',
+                border: 'none',
+                background: activeTab === tabLabel ? '#f0f0f0' : 'none',
+                cursor: 'pointer',
+                fontSize: '1rem',
+                fontWeight: activeTab === tabLabel ? 'bold' : '500',
+                color: activeTab === tabLabel ? '#000' : '#666',
+                borderBottom: activeTab === tabLabel ? '3px solid #000' : '3px solid transparent',
+                marginBottom: '-2px',
+                borderRadius: '8px 8px 0 0',
+                transition: 'all 0.2s ease'
+              }}
+            >
+              {tabLabel}
+            </button>
+          ))}
+        </div>
+      )}
+
       <div 
         className="company-content" 
-        dangerouslySetInnerHTML={{ __html: company.content }} 
+        dangerouslySetInnerHTML={{ __html: currentTabContent }} 
         style={{ lineHeight: '1.6', fontSize: '1.1rem' }}
         onClick={handleContentClick}
       />

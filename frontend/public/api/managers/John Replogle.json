@@ -1,0 +1,30 @@
+{
+  "id": "John Replogle",
+  "name": "John Replogle",
+  "background": "John B. Replogle has served as a director since 2014. He is a partner at Raleigh Group and previously served as CEO of Seventh Generation, Inc. and Burt's Bees.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Wolfspeed, Inc.",
+      "ticker": "WOLF",
+      "exchange": "NYSE",
+      "website": "https://www.wolfspeed.com",
+      "title": "Independent Director",
+      "startDate": "2014-01-01",
+      "endDate": null,
+      "formattedStartDate": "2014 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

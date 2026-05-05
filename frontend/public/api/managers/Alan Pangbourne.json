@@ -1,0 +1,29 @@
+{
+  "id": "Alan Pangbourne",
+  "name": "Alan Pangbourne",
+  "background": "Mr. Pangbourne has over 35 years of experience in the mining industry, including senior executive roles at Guyanese Gold Corp and Kinross Gold Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC",
+      "exchange": "TSX",
+      "website": "https://oceanagold.com",
+      "title": "Independent Director",
+      "startDate": "2023-10-01",
+      "endDate": null,
+      "formattedStartDate": "2023 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Governance and Nominating Committee",
+    "Sustainability Committee (Chair)"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

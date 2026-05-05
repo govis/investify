@@ -1,0 +1,28 @@
+{
+  "id": "Graham Downs",
+  "name": "Graham Downs",
+  "background": "Mr. Downs has over 25 years of experience in the mineral exploration industry and is currently the CEO of Cascadia Minerals Ltd.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Stallion Uranium Corp.",
+      "ticker": "STUD",
+      "exchange": "TSX",
+      "website": "https://stallionuranium.com",
+      "title": "Independent Director",
+      "startDate": "2023-08-01",
+      "endDate": null,
+      "formattedStartDate": "2023 August",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 50,
+  "ageYear": 2024
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Raymond Polman",
+  "name": "Raymond Polman",
+  "background": "Mr. Polman is a CPA with over 30 years of public accounting and corporate finance experience. He was previously the CFO of First Majestic Silver Corp.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "First Mining Gold Corp.",
+      "ticker": "FF",
+      "exchange": "TSX",
+      "website": "https://firstmininggold.com",
+      "title": "Director",
+      "startDate": "2015-03-30",
+      "endDate": null,
+      "formattedStartDate": "2015 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Elliott Pew",
+  "name": "Elliott Pew",
+  "background": "Former Chairman of Enerplus Corporation and co-founder of Common Resources.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Franco-Nevada Corporation",
+      "ticker": "FNV",
+      "exchange": "NYSE",
+      "website": "https://www.franco-nevada.com",
+      "title": "Independent Director",
+      "startDate": "2019-05-01",
+      "endDate": null,
+      "formattedStartDate": "2019 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "ESG Committee"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

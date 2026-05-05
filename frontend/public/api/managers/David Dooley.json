@@ -1,0 +1,29 @@
+{
+  "id": "David Dooley",
+  "name": "David Dooley",
+  "background": "Former President of Savant Systems and former executive at Whirlpool Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Generac Holdings Inc.",
+      "ticker": "GNRC",
+      "exchange": "NYSE",
+      "website": "https://www.generac.com",
+      "title": "Independent Director",
+      "startDate": "2015-01-01",
+      "endDate": null,
+      "formattedStartDate": "2015 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 67,
+  "ageYear": 2024
+}

@@ -1,0 +1,38 @@
+{
+  "id": "Ryan O'Connor",
+  "name": "Ryan O'Connor",
+  "background": "Chief Executive Officer of Global X Management Company LLC since April 2024. Previously held various leadership roles at Goldman Sachs Asset Management.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Global X Lithium & Battery Tech ETF",
+      "ticker": "LIT",
+      "exchange": "NYSE",
+      "website": "https://www.globalxetfs.com/funds/lit/",
+      "title": "Chief Executive Officer",
+      "startDate": "2024-04-08",
+      "endDate": null,
+      "formattedStartDate": "2024 April",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Global X Uranium ETF",
+      "ticker": "URA",
+      "exchange": "NYSE",
+      "website": "https://www.globalxetfs.com/funds/ura/",
+      "title": "Chief Executive Officer",
+      "startDate": "2024-04-08",
+      "endDate": null,
+      "formattedStartDate": "2024 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 40,
+  "ageYear": 2024
+}

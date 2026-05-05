@@ -1,0 +1,29 @@
+{
+  "id": "Patrick de Saint-Aignan",
+  "name": "Patrick de Saint-Aignan",
+  "background": "Patrick de Saint-Aignan has over 40 years of experience in the financial services industry, primarily at Morgan Stanley.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "TSX",
+      "website": "https://www.endeavourmining.com",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "formattedStartDate": "2024 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Remuneration Committee"
+  ],
+  "age": 75,
+  "ageYear": 2024
+}

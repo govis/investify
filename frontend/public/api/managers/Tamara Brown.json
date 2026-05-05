@@ -1,0 +1,29 @@
+{
+  "id": "Tamara Brown",
+  "name": "Tamara Brown",
+  "background": "Ms. Brown is a mining professional with over 25 years of experience in finance and business development.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Orla Mining Ltd.",
+      "ticker": "OLA",
+      "exchange": "TSX",
+      "website": "https://www.orlamining.com",
+      "title": "Independent Director",
+      "startDate": "2022-04-01",
+      "endDate": null,
+      "formattedStartDate": "2022 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee (Chair)",
+    "Environmental, Sustainability, Health & Safety Committee"
+  ],
+  "age": 52,
+  "ageYear": 2024
+}

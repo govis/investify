@@ -1,0 +1,26 @@
+{
+  "id": "Walter Storm",
+  "name": "Walter Storm",
+  "background": "Mr. Storm is a successful entrepreneur with over 50 years of experience in the mining and oil and gas industries. He was a co-founder of Osisko Mining and has been involved in several major resource discoveries.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Tudor Gold Corp.",
+      "ticker": "TUD",
+      "exchange": "TSX",
+      "website": "https://tudor-gold.com/",
+      "title": "Executive Chairman",
+      "startDate": "2016-01-01",
+      "endDate": null,
+      "formattedStartDate": "2016 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 94,
+  "ageYear": 2024
+}

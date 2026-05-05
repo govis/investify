@@ -1,0 +1,29 @@
+{
+  "id": "Victoria Harker",
+  "name": "Victoria Harker",
+  "background": "Victoria D. Harker served as Executive Vice President and Chief Financial Officer of TEGNA Inc. and previously as CFO of AES Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Huntington Ingalls Industries, Inc.",
+      "ticker": "HII",
+      "exchange": "NYSE",
+      "website": "https://www.hii.com",
+      "title": "Director",
+      "startDate": "2012-01-01",
+      "endDate": null,
+      "formattedStartDate": "2012 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 59,
+  "ageYear": 2024
+}

@@ -1,0 +1,29 @@
+{
+  "id": "John Doerr",
+  "name": "John Doerr",
+  "background": "L. John Doerr has been a director since 1999. He is the Chairman of Kleiner Perkins, a venture capital firm.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Alphabet Inc.",
+      "ticker": "GOOGL",
+      "exchange": "NASDAQ",
+      "website": "https://abc.xyz",
+      "title": "Director",
+      "startDate": "1999-05-01",
+      "endDate": null,
+      "formattedStartDate": "1999 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Leadership Development, Inclusion and Compensation Committee"
+  ],
+  "age": 72,
+  "ageYear": 2024
+}

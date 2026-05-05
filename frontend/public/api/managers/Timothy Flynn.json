@@ -1,0 +1,30 @@
+{
+  "id": "Timothy Flynn",
+  "name": "Timothy Flynn",
+  "background": "Retired Chairman of KPMG International.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "ticker": "JPM",
+      "exchange": "NYSE",
+      "website": "https://www.jpmorganchase.com",
+      "title": "Independent Director",
+      "startDate": "2012-05-15",
+      "endDate": null,
+      "formattedStartDate": "2012 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Corporate Governance & Nominating Committee"
+  ],
+  "age": 67,
+  "ageYear": 2024
+}

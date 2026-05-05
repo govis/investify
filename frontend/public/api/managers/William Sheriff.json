@@ -1,0 +1,37 @@
+{
+  "id": "William Sheriff",
+  "name": "William Sheriff",
+  "background": "Mr. Sheriff is the Executive Chairman of the Company. He has over 30 years of experience in the minerals industry and was a co-founder of Energy Metals Corp. and served as its Chairman and CEO.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "enCore Energy Corp.",
+      "ticker": "EU",
+      "exchange": "NASDAQ",
+      "website": "https://encoreuranium.com",
+      "title": "Executive Chairman",
+      "startDate": "2017-10-30",
+      "endDate": null,
+      "formattedStartDate": "2017 October",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "enCore Energy Corp.",
+      "ticker": "EU",
+      "exchange": "TSX",
+      "website": "https://encoreuranium.com",
+      "title": "Executive Chairman",
+      "startDate": "2014-10-30",
+      "endDate": null,
+      "formattedStartDate": "2014 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 68,
+  "ageYear": 2024
+}

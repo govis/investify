@@ -1,0 +1,26 @@
+{
+  "id": "Jason Simpson",
+  "name": "Jason Simpson",
+  "background": "Mr. Simpson has over 25 years of experience in the mining industry. Prior to joining Orla, he was Chief Operating Officer of Torex Gold Resources Inc. and has held senior roles at G Mining Services and Vale.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Orla Mining Ltd.",
+      "ticker": "OLA",
+      "exchange": "TSX",
+      "website": "https://www.orlamining.com",
+      "title": "Director, President and Chief Executive Officer",
+      "startDate": "2018-11-12",
+      "endDate": null,
+      "formattedStartDate": "2018 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 51,
+  "ageYear": 2024
+}

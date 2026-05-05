@@ -1,0 +1,51 @@
+{
+  "id": "Varinder Bhathal",
+  "name": "Varinder Bhathal",
+  "background": "Ms. Bhathal is the Chief Financial Officer of Sprott Asset Management LP and a Managing Director of Sprott Inc. She has over 20 years of experience in the financial services industry, specializing in investment funds and corporate finance.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sprott Physical Gold Trust",
+      "ticker": "PHYS",
+      "exchange": "NYSE",
+      "website": "https://sprott.com/investment-strategies/physical-bullion-trusts/gold/",
+      "title": "Chief Financial Officer",
+      "startDate": "2017-01-01",
+      "endDate": null,
+      "formattedStartDate": "2017 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sprott Energy Transition Materials ETF",
+      "ticker": "SETM",
+      "exchange": "NASDAQ",
+      "website": "https://www.sprottetfs.com/setm-sprott-energy-transition-materials-etf/",
+      "title": "Treasurer and Chief Financial Officer",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sprott Uranium Miners ETF",
+      "ticker": "URNM",
+      "exchange": "NYSE",
+      "website": "https://sprottetfs.com/urnm-sprott-uranium-miners-etf/",
+      "title": "Treasurer and Chief Financial Officer",
+      "startDate": "2018-01-01",
+      "endDate": null,
+      "formattedStartDate": "2018 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold",
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 53,
+  "ageYear": 2024
+}

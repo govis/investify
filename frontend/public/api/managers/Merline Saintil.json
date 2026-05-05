@@ -1,0 +1,29 @@
+{
+  "id": "Merline Saintil",
+  "name": "Merline Saintil",
+  "background": "Ms. Saintil has served as a member of the Board since 2021. She is an experienced technology executive and board member, having held leadership roles at Intuit, Yahoo!, and PayPal.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Rocket Lab USA, Inc.",
+      "ticker": "RKLB",
+      "exchange": "NASDAQ",
+      "website": "https://www.rocketlabusa.com",
+      "title": "Independent Director",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 47,
+  "ageYear": 2024
+}

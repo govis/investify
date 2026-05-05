@@ -1,0 +1,26 @@
+{
+  "id": "Tetsuji Ohashi",
+  "name": "Tetsuji Ohashi",
+  "background": "Former President and CEO of Komatsu Ltd. (2013-2019). Joined the company in 1977.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Komatsu Ltd.",
+      "ticker": "KMTUY",
+      "exchange": "OTC",
+      "website": "https://www.komatsu.jp",
+      "title": "Chairman of the Board",
+      "startDate": "2019-04-01",
+      "endDate": null,
+      "formattedStartDate": "2019 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 70,
+  "ageYear": 2024
+}

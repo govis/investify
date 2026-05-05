@@ -1,0 +1,26 @@
+{
+  "id": "Peter Sharpe",
+  "name": "Peter Sharpe",
+  "background": "Mr. Sharpe joined OceanaGold in 2022. He is a mining executive with over 25 years of experience in the resources industry, including senior leadership roles at Newcrest Mining and BHP.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC",
+      "exchange": "ASX",
+      "website": "https://oceanagold.com",
+      "title": "Chief Operating Officer",
+      "startDate": "2022-10-01",
+      "endDate": null,
+      "formattedStartDate": "2022 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 53,
+  "ageYear": 2024
+}

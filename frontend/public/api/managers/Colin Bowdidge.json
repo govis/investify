@@ -1,0 +1,29 @@
+{
+  "id": "Colin Bowdidge",
+  "name": "Colin Bowdidge",
+  "background": "Dr. Bowdidge is a professional geologist with over 50 years of experience in mineral exploration and management.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "New Age Metals Inc.",
+      "ticker": "NAM",
+      "exchange": "TSXV",
+      "website": "https://newagemetals.com",
+      "title": "Independent Director",
+      "startDate": "2010-01-01",
+      "endDate": null,
+      "formattedStartDate": "2010 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 78,
+  "ageYear": 2024
+}

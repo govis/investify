@@ -1,0 +1,37 @@
+{
+  "id": "Grant Isaac",
+  "name": "Grant Isaac",
+  "background": "Grant Isaac is Executive Vice-President and Chief Financial Officer. He joined Cameco in 2009 and has held various executive roles including Senior Vice-President, Corporate Strategy and Vice-President, Corporate Strategy and Business Development. Before joining Cameco, he was the Dean of the Edwards School of Business at the University of Saskatchewan.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCJ",
+      "exchange": "NYSE",
+      "website": "https://www.cameco.com",
+      "title": "Executive Vice-President and Chief Financial Officer",
+      "startDate": "2011-07-01",
+      "endDate": null,
+      "formattedStartDate": "2011 July",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCO",
+      "exchange": "TSX",
+      "website": "https://www.cameco.com",
+      "title": "Executive Vice-President and Chief Financial Officer",
+      "startDate": "2011-07-01",
+      "endDate": null,
+      "formattedStartDate": "2011 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2023
+}

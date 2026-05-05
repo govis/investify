@@ -1,0 +1,29 @@
+{
+  "id": "Anne Giardini",
+  "name": "Anne Giardini",
+  "background": "Ms. Giardini is a lawyer and executive with over 30 years of experience in the resource sector. She was previously President of Weyerhaeuser Company Limited and serves on several boards.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "K92 Mining Inc.",
+      "ticker": "KNT",
+      "exchange": "TSX",
+      "website": "https://k92mining.com",
+      "title": "Independent Director",
+      "startDate": "2021-06-01",
+      "endDate": null,
+      "formattedStartDate": "2021 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

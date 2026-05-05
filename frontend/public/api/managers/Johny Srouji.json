@@ -1,0 +1,31 @@
+{
+  "id": "Johny Srouji",
+  "name": "Johny Srouji",
+  "background": "Johny Srouji is Apple’s senior vice president of Hardware Technologies, reporting to CEO Tim Cook. Johny built one of the world’s strongest and most innovative teams of silicon and technology engineers, overseeing breakthrough custom silicon and hardware technologies.",
+  "pictureUrl": "https://static.digit.in/Johny-Srouji.png",
+  "companies": [
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "exchange": "NASDAQ",
+      "website": "https://www.apple.com",
+      "title": "Senior Vice President, Hardware Technologies",
+      "startDate": "2015-12-17",
+      "endDate": null,
+      "formattedStartDate": "2015 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/johny-srouji-1b7a944"
+    }
+  ],
+  "committees": [],
+  "age": 60,
+  "ageYear": 2024
+}

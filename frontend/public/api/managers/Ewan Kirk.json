@@ -1,0 +1,29 @@
+{
+  "id": "Ewan Kirk",
+  "name": "Ewan Kirk",
+  "background": "Ewan is a technology entrepreneur and was the co-founder of Cantab Capital Partners. He brings deep expertise in technology, data science, and mathematics.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "BAE Systems plc",
+      "ticker": "BA",
+      "exchange": "LSE",
+      "website": "https://www.baesystems.com",
+      "title": "Non-Executive Director",
+      "startDate": "2023-06-01",
+      "endDate": null,
+      "formattedStartDate": "2023 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominations Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

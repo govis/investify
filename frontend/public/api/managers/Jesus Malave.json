@@ -1,0 +1,26 @@
+{
+  "id": "Jesus Malave",
+  "name": "Jesus Malave",
+  "background": "Mr. Malave has served as Chief Financial Officer since February 2022. He previously served as Senior Vice President and Chief Financial Officer of L3Harris Technologies, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lockheed Martin Corporation",
+      "ticker": "LMT",
+      "exchange": "NYSE",
+      "website": "https://www.lockheedmartin.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2022-02-01",
+      "endDate": null,
+      "formattedStartDate": "2022 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

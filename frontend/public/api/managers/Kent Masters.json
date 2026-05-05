@@ -1,0 +1,27 @@
+{
+  "id": "Kent Masters",
+  "name": "Kent Masters",
+  "background": "Mr. Masters has served as Chairman, President and Chief Executive Officer of Albemarle since April 2020. He was previously a non-employee director of Albemarle from 2015 to 2020. Prior to joining Albemarle, he served as an Operating Partner of Advent International and as Chief Executive Officer of Foster Wheeler AG.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Albemarle Corporation",
+      "ticker": "ALB",
+      "exchange": "NYSE",
+      "website": "https://www.albemarle.com",
+      "title": "Chairman, President and Chief Executive Officer",
+      "startDate": "2020-04-20",
+      "endDate": null,
+      "formattedStartDate": "2020 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 63,
+  "ageYear": 2024
+}

@@ -1,0 +1,28 @@
+{
+  "id": "Niccolo de Masi",
+  "name": "Niccolo de Masi",
+  "background": "Mr. de Masi has served as a member of our board of directors since December 2021. He was previously the CEO of dMY Technology Group, Inc. IV.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Planet Labs PBC",
+      "ticker": "PL",
+      "exchange": "NYSE",
+      "website": "https://www.planet.com",
+      "title": "Director",
+      "startDate": "2021-12-01",
+      "endDate": null,
+      "formattedStartDate": "2021 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 43,
+  "ageYear": 2024
+}

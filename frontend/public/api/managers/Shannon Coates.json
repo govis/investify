@@ -1,0 +1,29 @@
+{
+  "id": "Shannon Coates",
+  "name": "Shannon Coates",
+  "background": "Ms Coates is a qualified lawyer with over 25 years’ experience in corporate law and compliance. she has provided company secretarial and corporate advisory services to numerous ASX-listed companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Bellevue Gold Limited",
+      "ticker": "BGL",
+      "exchange": "ASX",
+      "website": "https://www.bellevuegold.com.au",
+      "title": "Non-Executive Independent Director",
+      "startDate": "2020-05-01",
+      "endDate": null,
+      "formattedStartDate": "2020 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Nomination and Remuneration Committee (Chair)"
+  ],
+  "age": null,
+  "ageYear": null
+}

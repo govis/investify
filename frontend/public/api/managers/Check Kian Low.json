@@ -1,0 +1,29 @@
+{
+  "id": "Check Kian Low",
+  "name": "Check Kian Low",
+  "background": "Mr. Low has served as a director since 2006. He is a co-founder of NewSmith Capital Partners LLP and was previously a partner at Goldman Sachs, where he served as Chairman of Goldman Sachs (Asia).",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Broadcom Inc.",
+      "ticker": "AVGO",
+      "exchange": "NASDAQ",
+      "website": "https://www.broadcom.com",
+      "title": "Independent Director",
+      "startDate": "2006-01-01",
+      "endDate": null,
+      "formattedStartDate": "2006 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

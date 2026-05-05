@@ -1,0 +1,26 @@
+{
+  "id": "Philip Yee",
+  "name": "Philip Yee",
+  "background": "Philip Yee is a Chartered Professional Accountant with over 30 years of experience in corporate finance, financial reporting, and strategic planning in the mining industry. Prior to Eldorado, he was Executive Vice President and Chief Financial Officer at Kirkland Lake Gold.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Eldorado Gold Corporation",
+      "ticker": "EGO",
+      "exchange": "NYSE",
+      "website": "https://www.eldoradogold.com",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2018-09-01",
+      "endDate": null,
+      "formattedStartDate": "2018 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 64,
+  "ageYear": 2024
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Chuck Goodnight",
+  "name": "Chuck Goodnight",
+  "background": "Mr. Goodnight has served as our Chief Operating Officer since January 2024. He previously served as Vice President of Sales and Business Development for NuScale LLC.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NuScale Power Corporation",
+      "ticker": "SMR",
+      "exchange": "NYSE",
+      "website": "https://www.nuscalepower.com",
+      "title": "Chief Operating Officer",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "formattedStartDate": "2024 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 63,
+  "ageYear": 2024
+}

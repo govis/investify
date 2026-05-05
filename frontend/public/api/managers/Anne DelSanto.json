@@ -1,0 +1,29 @@
+{
+  "id": "Anne DelSanto",
+  "name": "Anne DelSanto",
+  "background": "Ms. DelSanto is a former Executive Vice President at Salesforce.com, Inc. She joined the board in 2021.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Juniper Networks, Inc.",
+      "ticker": "JNPR",
+      "exchange": "NYSE",
+      "website": "https://www.juniper.net",
+      "title": "Independent Director",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 59,
+  "ageYear": 2024
+}

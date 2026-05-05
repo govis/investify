@@ -1,0 +1,27 @@
+{
+  "id": "Craig Glidden",
+  "name": "Craig Glidden",
+  "background": "Craig Glidden is Executive Vice President and General Counsel. He joined GM in 2015 from LyondellBasell.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "website": "https://www.gm.com",
+      "title": "Executive Vice President and General Counsel",
+      "startDate": "2015-03-01",
+      "endDate": null,
+      "formattedStartDate": "2015 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 66,
+  "ageYear": 2024
+}

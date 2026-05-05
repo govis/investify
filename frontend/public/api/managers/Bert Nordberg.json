@@ -1,0 +1,41 @@
+{
+  "id": "Bert Nordberg",
+  "name": "Bert Nordberg",
+  "background": "Deputy Chairman. Former Chairman of Vestas Wind Systems and CEO of Sony Mobile Communications.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Saab AB",
+      "ticker": "SAAB-B",
+      "exchange": "STO",
+      "website": "https://www.saab.com",
+      "title": "Deputy Chairman",
+      "startDate": "2021-04-01",
+      "endDate": null,
+      "formattedStartDate": "2021 April",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Saab Aktiebolag",
+      "ticker": "SAAB",
+      "exchange": "STO",
+      "website": "https://www.saab.com",
+      "title": "Deputy Chairman",
+      "startDate": "2021-04-01",
+      "endDate": null,
+      "formattedStartDate": "2021 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Remuneration Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

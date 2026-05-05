@@ -1,0 +1,27 @@
+{
+  "id": "Keith Neumeyer",
+  "name": "Keith Neumeyer",
+  "background": "Mr. Neumeyer has worked in the investment community since 1984. He is the founder and CEO of First Majestic Silver Corp. and was the founding President of First Quantum Minerals Ltd.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "First Mining Gold Corp.",
+      "ticker": "FF",
+      "exchange": "TSX",
+      "website": "https://firstmininggold.com",
+      "title": "Chairman and Director",
+      "startDate": "2015-03-30",
+      "endDate": null,
+      "formattedStartDate": "2015 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 64,
+  "ageYear": 2024
+}

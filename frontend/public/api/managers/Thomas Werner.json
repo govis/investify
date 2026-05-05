@@ -1,0 +1,29 @@
+{
+  "id": "Thomas Werner",
+  "name": "Thomas Werner",
+  "background": "Thomas H. Werner has served as Chairman of the Board since 2023. He was previously the CEO of SunPower Corporation and held leadership roles at Silicon Light Machines and 3Com Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Wolfspeed, Inc.",
+      "ticker": "WOLF",
+      "exchange": "NYSE",
+      "website": "https://www.wolfspeed.com",
+      "title": "Chairman of the Board",
+      "startDate": "2006-03-01",
+      "endDate": null,
+      "formattedStartDate": "2006 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Governance and Nominating Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Robert Hill",
+  "name": "Robert Hill",
+  "background": "Mr. Hill has over 40 years of experience in the nuclear industry, including senior leadership roles at major nuclear engineering firms. He is an expert in nuclear reactor design and safety.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NANO Nuclear Energy Inc.",
+      "ticker": "NNE",
+      "exchange": "NASDAQ",
+      "website": "https://nanonuclearenergy.com",
+      "title": "Independent Director",
+      "startDate": "2023-05-01",
+      "endDate": null,
+      "formattedStartDate": "2023 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

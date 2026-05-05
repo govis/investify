@@ -1,0 +1,35 @@
+{
+  "id": "Tim Cook",
+  "name": "Tim Cook",
+  "background": "Tim Cook is the CEO of Apple and serves on its board of directors. Before being named CEO in August 2011, Tim was Apple’s chief operating officer and was responsible for all of the company’s worldwide sales and operations, including end-to-end management of Apple’s supply chain, sales activities, and service and support in all markets and countries. He also headed Apple’s Macintosh division and played a key role in the continued development of strategic reseller and supplier relationships, ensuring flexibility in response to an increasingly demanding marketplace.",
+  "pictureUrl": "https://assets.entrepreneur.com/content/3x2/2000/1733259737-apple-ceo-tim-cook-1224-g-2171029311.jpg",
+  "companies": [
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "exchange": "NASDAQ",
+      "website": "https://www.apple.com",
+      "title": "Chief Executive Officer, Director",
+      "startDate": "2011-08-24",
+      "endDate": null,
+      "formattedStartDate": "2011 August",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/timhcook"
+    },
+    {
+      "name": "X (Twitter)",
+      "url": "https://x.com/tim_cook"
+    }
+  ],
+  "committees": [],
+  "age": 63,
+  "ageYear": 2024
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Mark Wheatley",
+  "name": "Mark Wheatley",
+  "background": "Mr. Wheatley has over 30 years' experience in the mining industry, including over 15 years in the uranium sector. He has held several executive and non-executive roles in uranium companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lotus Resources Limited",
+      "ticker": "LOT",
+      "exchange": "ASX",
+      "website": "https://lotusresources.com.au/",
+      "title": "Non-Executive Director",
+      "startDate": "2021-02-22",
+      "endDate": null,
+      "formattedStartDate": "2021 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "age": null,
+  "ageYear": null
+}

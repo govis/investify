@@ -1,0 +1,28 @@
+{
+  "id": "Grazia Vittadini",
+  "name": "Grazia Vittadini",
+  "background": "Former CTO of Airbus and Rolls-Royce. Expert in aerospace and technology.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Siemens Aktiengesellschaft",
+      "ticker": "SIEGY",
+      "exchange": "OTC",
+      "website": "https://www.siemens.com",
+      "title": "Member of the Supervisory Board",
+      "startDate": "2021-02-03",
+      "endDate": null,
+      "formattedStartDate": "2021 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Innovation and Finance Committee"
+  ],
+  "age": 54,
+  "ageYear": 2024
+}

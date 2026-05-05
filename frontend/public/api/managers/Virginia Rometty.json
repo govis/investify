@@ -1,0 +1,29 @@
+{
+  "id": "Virginia Rometty",
+  "name": "Virginia Rometty",
+  "background": "Former Chairman, President and CEO of IBM.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "ticker": "JPM",
+      "exchange": "NYSE",
+      "website": "https://www.jpmorganchase.com",
+      "title": "Independent Director",
+      "startDate": "2020-05-19",
+      "endDate": null,
+      "formattedStartDate": "2020 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation & Management Development Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

@@ -1,0 +1,28 @@
+{
+  "id": "Ted O'Connor",
+  "name": "Ted O'Connor",
+  "background": "Mr. O'Connor has over 25 years of experience in the uranium industry, including 19 years with Cameco Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Azincourt Energy Corp.",
+      "ticker": "AAZ",
+      "exchange": "TSX",
+      "website": "https://azincourtenergy.com",
+      "title": "Director",
+      "startDate": "2017-10-01",
+      "endDate": null,
+      "formattedStartDate": "2017 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 54,
+  "ageYear": 2024
+}

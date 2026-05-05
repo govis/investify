@@ -1,0 +1,28 @@
+{
+  "id": "Calum Morrison",
+  "name": "Calum Morrison",
+  "background": "Mr. Morrison is a senior executive with extensive experience in corporate strategy and finance within the mining sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Snowline Gold Corp.",
+      "ticker": "SGD",
+      "exchange": "TSX",
+      "website": "https://snowlinegold.com",
+      "title": "Independent Director",
+      "startDate": "2024-01-15",
+      "endDate": null,
+      "formattedStartDate": "2024 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": null,
+  "ageYear": null
+}

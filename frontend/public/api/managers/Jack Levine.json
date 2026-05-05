@@ -1,0 +1,28 @@
+{
+  "id": "Jack Levine",
+  "name": "Jack Levine",
+  "background": "Mr. Levine has served as a director since 2020. He is a certified public accountant and has over 35 years of experience in financial consulting and corporate governance.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Blink Charging Co.",
+      "ticker": "BLNK",
+      "exchange": "NASDAQ",
+      "website": "https://www.blinkcharging.com",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee (Chair)"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

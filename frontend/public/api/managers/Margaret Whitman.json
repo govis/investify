@@ -1,0 +1,29 @@
+{
+  "id": "Margaret Whitman",
+  "name": "Margaret Whitman",
+  "background": "U.S. Ambassador to Kenya; former CEO of Hewlett Packard Enterprise.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "website": "https://www.gm.com",
+      "title": "Independent Director",
+      "startDate": "2021-02-09",
+      "endDate": null,
+      "formattedStartDate": "2021 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Governance and Corporate Responsibility Committee"
+  ],
+  "age": 67,
+  "ageYear": 2024
+}

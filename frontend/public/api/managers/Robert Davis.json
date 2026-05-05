@@ -1,0 +1,29 @@
+{
+  "id": "Robert Davis",
+  "name": "Robert Davis",
+  "background": "Chairman, Chief Executive Officer and President of Merck & Co., Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Duke Energy Corporation",
+      "ticker": "DUK",
+      "exchange": "NYSE",
+      "website": "https://www.duke-energy.com",
+      "title": "Independent Director",
+      "startDate": "2018-01-01",
+      "endDate": null,
+      "formattedStartDate": "2018 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation and People Development Committee",
+    "Corporate Governance Committee"
+  ],
+  "age": 57,
+  "ageYear": 2024
+}

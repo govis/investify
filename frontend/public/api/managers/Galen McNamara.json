@@ -1,0 +1,26 @@
+{
+  "id": "Galen McNamara",
+  "name": "Galen McNamara",
+  "background": "Mr. McNamara is an entrepreneur and geoscientist with over 15 years of experience. He is the co-founder and CEO of Summa Silver Corp. and was previously the Senior Project Geologist at NexGen Energy Ltd.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NexGold Mining Corp.",
+      "ticker": "NEXG",
+      "exchange": "TSX",
+      "website": "https://www.nexgold.com",
+      "title": "Executive Chairman",
+      "startDate": "2024-07-01",
+      "endDate": null,
+      "formattedStartDate": "2024 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

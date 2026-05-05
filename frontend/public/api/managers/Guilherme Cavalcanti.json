@@ -1,0 +1,26 @@
+{
+  "id": "Guilherme Cavalcanti",
+  "name": "Guilherme Cavalcanti",
+  "background": "Mr. Cavalcanti has extensive experience in the Brazilian mining sector, having worked with major companies in project development and operations.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cabral Gold Inc.",
+      "ticker": "CBR",
+      "exchange": "TSX",
+      "website": "https://cabralgold.com",
+      "title": "Vice President, Corporate Development",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

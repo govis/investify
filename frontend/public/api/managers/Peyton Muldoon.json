@@ -1,0 +1,30 @@
+{
+  "id": "Peyton Muldoon",
+  "name": "Peyton Muldoon",
+  "background": "Licensed Real Estate Salesperson at Sotheby's International Realty since 2011.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sprott Energy Transition Materials ETF",
+      "ticker": "SETM",
+      "exchange": "NASDAQ",
+      "website": "https://www.sprottetfs.com/setm-sprott-energy-transition-materials-etf/",
+      "title": "Independent Trustee",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Governance Committee"
+  ],
+  "age": 55,
+  "ageYear": 2024
+}

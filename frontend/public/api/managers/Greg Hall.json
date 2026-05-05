@@ -1,0 +1,38 @@
+{
+  "id": "Greg Hall",
+  "name": "Greg Hall",
+  "background": "Greg Hall is a Mining Engineer with over 35 years' experience in the resources sector, specifically in uranium, copper, and gold. He has held senior executive roles at WMC Resources and Rio Tinto, including as Mine Manager of Olympic Dam and Ranger Uranium Mine. He was the founding CEO of Toro Energy Limited and has served as a director of the Australian Uranium Association.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Alligator Energy Limited",
+      "ticker": "AGE",
+      "exchange": "ASX",
+      "website": "https://www.alligatorenergy.com.au",
+      "title": "Chief Executive Officer, Managing Director",
+      "startDate": "2015-05-01",
+      "endDate": null,
+      "formattedStartDate": "2015 May",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Platinum Group Metals Ltd.",
+      "ticker": "PTM",
+      "exchange": "NYSE",
+      "website": "https://www.platinumgroupmetals.net",
+      "title": "Chief Financial Officer",
+      "startDate": "2022-04-01",
+      "endDate": null,
+      "formattedStartDate": "2022 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

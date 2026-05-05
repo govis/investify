@@ -1,0 +1,26 @@
+{
+  "id": "Robert Klein",
+  "name": "Robert Klein",
+  "background": "Mr. Klein has over 20 years of experience in the financial services industry. He previously served as a Vice President at Stifel Nicolaus and has significant experience in capital markets and corporate finance.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Western Uranium & Vanadium Corp.",
+      "ticker": "WUC",
+      "exchange": "TSX",
+      "website": "https://western-uranium.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2016-06-15",
+      "endDate": null,
+      "formattedStartDate": "2016 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 56,
+  "ageYear": 2024
+}

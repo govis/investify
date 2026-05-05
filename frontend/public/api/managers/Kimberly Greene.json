@@ -1,0 +1,26 @@
+{
+  "id": "Kimberly Greene",
+  "name": "Kimberly Greene",
+  "background": "Ms. Greene is chairman, president and CEO of Georgia Power. She previously served as chairman, president and CEO of Southern Company Gas and as Southern Company's chief operating officer.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "The Southern Company",
+      "ticker": "SO",
+      "exchange": "NYSE",
+      "website": "https://www.southerncompany.com",
+      "title": "Chairman, President and CEO of Georgia Power",
+      "startDate": "2023-03-31",
+      "endDate": null,
+      "formattedStartDate": "2023 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 57,
+  "ageYear": 2024
+}

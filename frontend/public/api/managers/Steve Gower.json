@@ -1,0 +1,27 @@
+{
+  "id": "Steve Gower",
+  "name": "Steve Gower",
+  "background": "Mr. Gower has over 30 years of experience in the financial services and mining industries. He has served as a director and officer of several public mining companies and has been involved in the financing and development of numerous mineral projects.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sitka Gold Corp.",
+      "ticker": "SIG",
+      "exchange": "TSX",
+      "website": "https://sitkagoldcorp.com",
+      "title": "Chief Financial Officer, Director",
+      "startDate": "2015-01-13",
+      "endDate": null,
+      "formattedStartDate": "2015 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 64,
+  "ageYear": 2024
+}

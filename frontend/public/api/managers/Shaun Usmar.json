@@ -1,0 +1,40 @@
+{
+  "id": "Shaun Usmar",
+  "name": "Shaun Usmar",
+  "background": "Mr. Usmar is the Founder and CEO of Triple Flag Precious Metals Corp. and was previously CFO of Barrick Gold Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Alamos Gold Inc.",
+      "ticker": "AGI",
+      "exchange": "NYSE",
+      "website": "https://www.alamosgold.com",
+      "title": "Director",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "formattedStartDate": "2022 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Triple Flag Precious Metals Corp.",
+      "ticker": "TFPM",
+      "exchange": "NYSE",
+      "website": "https://www.tripleflagpm.com",
+      "title": "Chief Executive Officer, Director",
+      "startDate": "2016-04-01",
+      "endDate": null,
+      "formattedStartDate": "2016 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Technical and Sustainability Committee"
+  ],
+  "age": 54,
+  "ageYear": 2024
+}

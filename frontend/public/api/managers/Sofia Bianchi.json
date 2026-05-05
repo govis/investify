@@ -1,0 +1,30 @@
+{
+  "id": "Sofia Bianchi",
+  "name": "Sofia Bianchi",
+  "background": "Sofia has over 30 years of experience in finance and investment. She was previously Head of Special Situations at BlueCrest Capital Management and has held senior roles at the EBRD and Emerging Markets Partnership.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Yellow Cake plc",
+      "ticker": "YCA",
+      "exchange": "LSE",
+      "website": "https://www.yellowcakeplc.com",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2018-06-01",
+      "endDate": null,
+      "formattedStartDate": "2018 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Nomination Committee",
+    "Remuneration Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

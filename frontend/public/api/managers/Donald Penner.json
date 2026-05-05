@@ -1,0 +1,27 @@
+{
+  "id": "Donald Penner",
+  "name": "Donald Penner",
+  "background": "Mr. Penner is a Professional Geologist with over 40 years of experience in the mineral exploration industry. He has worked for both major and junior mining companies and has been involved in the discovery and development of several mineral deposits. He has served as a director and officer of several public mining companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sitka Gold Corp.",
+      "ticker": "SIG",
+      "exchange": "TSX",
+      "website": "https://sitkagoldcorp.com",
+      "title": "Director, Exploration, Vice President",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "formattedStartDate": "2024 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 71,
+  "ageYear": 2024
+}

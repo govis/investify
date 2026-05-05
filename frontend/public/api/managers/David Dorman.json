@@ -1,0 +1,29 @@
+{
+  "id": "David Dorman",
+  "name": "David Dorman",
+  "background": "Former Chairman and CEO of AT&T Corp. and former Chairman of CVS Health Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Dell Technologies Inc.",
+      "ticker": "DELL",
+      "exchange": "NYSE",
+      "website": "https://www.dell.com",
+      "title": "Independent Director",
+      "startDate": "2016-01-01",
+      "endDate": null,
+      "formattedStartDate": "2016 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Governance and Nominating Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

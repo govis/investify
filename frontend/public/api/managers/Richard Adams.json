@@ -1,0 +1,30 @@
+{
+  "id": "Richard Adams",
+  "name": "Richard Adams",
+  "background": "Mr. Adams has over 40 years of experience in the financial services industry, specializing in investment banking and corporate finance.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Global Atomic Corporation",
+      "ticker": "GLO",
+      "exchange": "TSX",
+      "website": "https://globalatomiccorp.com",
+      "title": "Independent Director",
+      "startDate": "2017-12-22",
+      "endDate": null,
+      "formattedStartDate": "2017 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 72,
+  "ageYear": 2024
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Jack Miller",
+  "name": "Jack Miller",
+  "background": "Mr. Miller is the retired Chairman and CEO of North American Coffee Partnership. He has served on the board since 2016.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Vistra Corp.",
+      "ticker": "VST",
+      "exchange": "NYSE",
+      "website": "https://www.vistracorp.com",
+      "title": "Independent Director",
+      "startDate": "2016-10-01",
+      "endDate": null,
+      "formattedStartDate": "2016 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating and Governance Committee",
+    "Social Responsibility and Compensation Committee"
+  ],
+  "age": 73,
+  "ageYear": 2024
+}

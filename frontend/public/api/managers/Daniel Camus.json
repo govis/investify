@@ -1,0 +1,41 @@
+{
+  "id": "Daniel Camus",
+  "name": "Daniel Camus",
+  "background": "Daniel Camus is the former Group CFO and Head of Strategy and International Activities of Electricité de France (EDF). He has significant experience in the global energy sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCJ",
+      "exchange": "NYSE",
+      "website": "https://www.cameco.com",
+      "title": "Independent Director",
+      "startDate": "2011-01-01",
+      "endDate": null,
+      "formattedStartDate": "2011 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCO",
+      "exchange": "TSX",
+      "website": "https://www.cameco.com",
+      "title": "Director",
+      "startDate": "2011-01-01",
+      "endDate": null,
+      "formattedStartDate": "2011 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Audit and Finance Committee",
+    "Human Resources and Compensation Committee"
+  ],
+  "age": 71,
+  "ageYear": 2023
+}

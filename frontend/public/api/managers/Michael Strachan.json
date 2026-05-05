@@ -1,0 +1,28 @@
+{
+  "id": "Michael Strachan",
+  "name": "Michael Strachan",
+  "background": "Former Partner at Ernst & Young LLP.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Marvell Technology, Inc.",
+      "ticker": "MRVL",
+      "exchange": "NASDAQ",
+      "website": "https://www.marvell.com",
+      "title": "Director",
+      "startDate": "2016-05-01",
+      "endDate": null,
+      "formattedStartDate": "2016 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

@@ -1,0 +1,40 @@
+{
+  "id": "Scott Emerson",
+  "name": "Scott Emerson",
+  "background": "Mr. Emerson has over 30 years of experience in the capital markets and has served as a director and officer of several public companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "GoldHaven Resources Corp.",
+      "ticker": "GOH",
+      "exchange": "CSE",
+      "website": "https://goldhavenresources.com",
+      "title": "Director",
+      "startDate": "2019-05-22",
+      "endDate": null,
+      "formattedStartDate": "2019 May",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "GoldHaven Resources Corp.",
+      "ticker": "GOH",
+      "exchange": "TSX",
+      "website": "https://goldhavenresources.com/",
+      "title": "Director",
+      "startDate": "2019-05-22",
+      "endDate": null,
+      "formattedStartDate": "2019 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

@@ -1,0 +1,41 @@
+{
+  "id": "Mark Garrett",
+  "name": "Mark Garrett",
+  "background": "Former Executive Vice President and CFO of Adobe Systems Incorporated.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "website": "https://www.cisco.com",
+      "title": "Independent Director",
+      "startDate": "2018-05-01",
+      "endDate": null,
+      "formattedStartDate": "2018 May",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Snowflake Inc.",
+      "ticker": "SNOW",
+      "exchange": "NYSE",
+      "website": "https://www.snowflake.com",
+      "title": "Independent Director",
+      "startDate": "2018-05-01",
+      "endDate": null,
+      "formattedStartDate": "2018 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Finance Committee",
+    "Nominating and Governance Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

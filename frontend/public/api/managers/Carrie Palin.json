@@ -1,0 +1,28 @@
+{
+  "id": "Carrie Palin",
+  "name": "Carrie Palin",
+  "background": "Carrie Palin has been a member of our Board since February 2021. She is currently the Senior Vice President and Chief Marketing Officer of Cisco Systems, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NetApp, Inc.",
+      "ticker": "NTAP",
+      "exchange": "NASDAQ",
+      "website": "https://www.netapp.com",
+      "title": "Director",
+      "startDate": "2021-02-01",
+      "endDate": null,
+      "formattedStartDate": "2021 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 53,
+  "ageYear": 2024
+}

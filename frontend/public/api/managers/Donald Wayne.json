@@ -1,0 +1,27 @@
+{
+  "id": "Donald Wayne",
+  "name": "Donald Wayne",
+  "background": "Mr. Wayne has served as Executive Vice President and General Counsel since 2017. Prior to joining Quanta, he served as Senior Vice President and General Counsel of Archrock, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Quanta Services, Inc.",
+      "ticker": "PWR",
+      "exchange": "NYSE",
+      "website": "https://www.quantaservices.com",
+      "title": "Executive Vice President and General Counsel",
+      "startDate": "2017-01-01",
+      "endDate": null,
+      "formattedStartDate": "2017 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 57,
+  "ageYear": 2024
+}

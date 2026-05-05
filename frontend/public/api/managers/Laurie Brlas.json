@@ -1,0 +1,41 @@
+{
+  "id": "Laurie Brlas",
+  "name": "Laurie Brlas",
+  "background": "Former Executive Vice President and Chief Financial Officer of Newmont Mining Corporation. Former CFO of Cliffs Natural Resources.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Constellation Energy Corporation",
+      "ticker": "CEG",
+      "exchange": "NASDAQ",
+      "website": "https://www.constellationenergy.com",
+      "title": "Independent Director",
+      "startDate": "2022-02-01",
+      "endDate": null,
+      "formattedStartDate": "2022 February",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Constellation Energy Corporation",
+      "ticker": "CEG",
+      "exchange": "NYSE",
+      "website": "https://www.constellationenergy.com",
+      "title": "Independent Director",
+      "startDate": "2022-02-01",
+      "endDate": null,
+      "formattedStartDate": "2022 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Audit Committee (Chair)",
+    "Finance Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

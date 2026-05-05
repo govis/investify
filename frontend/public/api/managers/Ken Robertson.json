@@ -1,0 +1,30 @@
+{
+  "id": "Ken Robertson",
+  "name": "Ken Robertson",
+  "background": "Former partner at EY with over 35 years of experience in public accounting and the mining sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Gold Royalty Corp.",
+      "ticker": "GROY",
+      "exchange": "NYSE",
+      "website": "https://www.goldroyalty.com",
+      "title": "Independent Director",
+      "startDate": "2020-06-23",
+      "endDate": null,
+      "formattedStartDate": "2020 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 68,
+  "ageYear": 2023
+}

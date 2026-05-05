@@ -1,0 +1,28 @@
+{
+  "id": "Titi Cole",
+  "name": "Titi Cole",
+  "background": "CEO of Legacy Franchises at Citigroup. Previously held executive roles at Wells Fargo and Bank of America.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Datadog, Inc.",
+      "ticker": "DDOG",
+      "exchange": "NASDAQ",
+      "website": "https://www.datadoghq.com",
+      "title": "Director",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "formattedStartDate": "2022 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 53,
+  "ageYear": 2024
+}

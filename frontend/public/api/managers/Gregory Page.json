@@ -1,0 +1,43 @@
+{
+  "id": "Gregory Page",
+  "name": "Gregory Page",
+  "background": "Former Chairman and CEO of Cargill, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Deere & Company",
+      "ticker": "DE",
+      "exchange": "NYSE",
+      "website": "https://www.deere.com",
+      "title": "Independent Director",
+      "startDate": "2013-01-01",
+      "endDate": null,
+      "formattedStartDate": "2013 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Eaton Corporation plc",
+      "ticker": "ETN",
+      "exchange": "NYSE",
+      "website": "https://www.eaton.com",
+      "title": "Lead Director",
+      "startDate": "2003-01-01",
+      "endDate": null,
+      "formattedStartDate": "2003 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Finance",
+    "Finance Committee",
+    "Governance"
+  ],
+  "age": 72,
+  "ageYear": 2024
+}

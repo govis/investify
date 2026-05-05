@@ -1,0 +1,42 @@
+{
+  "id": "Brad Buss",
+  "name": "Brad Buss",
+  "background": "Former CFO of SolarCity and Cypress Semiconductor. Director at Tesla and Advance Auto Parts.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Marvell Technology, Inc.",
+      "ticker": "MRVL",
+      "exchange": "NASDAQ",
+      "website": "https://www.marvell.com",
+      "title": "Director",
+      "startDate": "2016-05-01",
+      "endDate": null,
+      "formattedStartDate": "2016 May",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "QuantumScape Corporation",
+      "ticker": "QS",
+      "exchange": "NYSE",
+      "website": "https://www.quantumscape.com",
+      "title": "Independent Director",
+      "startDate": "2020-11-01",
+      "endDate": null,
+      "formattedStartDate": "2020 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Executive Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

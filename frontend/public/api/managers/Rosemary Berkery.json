@@ -1,0 +1,30 @@
+{
+  "id": "Rosemary Berkery",
+  "name": "Rosemary Berkery",
+  "background": "Former Chairman of UBS Bank USA and Vice Chairman of UBS Wealth Management Americas.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Fluor Corporation",
+      "ticker": "FLR",
+      "exchange": "NYSE",
+      "website": "https://www.fluor.com",
+      "title": "Independent Director",
+      "startDate": "2010-01-01",
+      "endDate": null,
+      "formattedStartDate": "2010 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Governance Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

@@ -1,0 +1,40 @@
+{
+  "id": "Jean Luc Roy",
+  "name": "Jean Luc Roy",
+  "background": "Mr. Roy has over 30 years of experience in the mining industry, primarily in Africa.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "CanAlaska Uranium Ltd.",
+      "ticker": "CVV",
+      "exchange": "TSX",
+      "website": "https://canalaska.com/",
+      "title": "Director",
+      "startDate": "2007-01-01",
+      "endDate": null,
+      "formattedStartDate": "2007 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "CanAlaska Uranium Ltd.",
+      "ticker": "CVV",
+      "exchange": "TSXV",
+      "website": "https://canalaska.com/",
+      "title": "Independent Director",
+      "startDate": "2007-01-01",
+      "endDate": null,
+      "formattedStartDate": "2007 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

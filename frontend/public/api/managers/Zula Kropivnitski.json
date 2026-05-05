@@ -1,0 +1,27 @@
+{
+  "id": "Zula Kropivnitski",
+  "name": "Zula Kropivnitski",
+  "background": "Ms. Kropivnitski has over 15 years of experience in financial reporting and corporate compliance. She has served as CFO for several public companies listed on the TSX Venture Exchange and the CSE. She is a Certified Professional Accountant (CPA, CGA).",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "EagleOne Metals Corp.",
+      "ticker": "EAGL",
+      "exchange": "CSE",
+      "website": "https://eagleonemetals.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2023-06-01",
+      "endDate": null,
+      "formattedStartDate": "2023 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 54,
+  "ageYear": 2024
+}

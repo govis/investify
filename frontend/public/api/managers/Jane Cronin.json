@@ -1,0 +1,28 @@
+{
+  "id": "Jane Cronin",
+  "name": "Jane Cronin",
+  "background": "Former Senior Vice President, Corporate Controller of Sherwin-Williams Company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "TransDigm Group Incorporated",
+      "ticker": "TDG",
+      "exchange": "NYSE",
+      "website": "https://www.transdigm.com",
+      "title": "Independent Director",
+      "startDate": "2021-06-01",
+      "endDate": null,
+      "formattedStartDate": "2021 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 56,
+  "ageYear": 2024
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Michael Cannon",
+  "name": "Michael Cannon",
+  "background": "Mr. Cannon has been a director since 2011. He was President of Global Operations at Dell Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lam Research Corporation",
+      "ticker": "LRCX",
+      "exchange": "NASDAQ",
+      "website": "https://www.lamresearch.com",
+      "title": "Director",
+      "startDate": "2011-01-01",
+      "endDate": null,
+      "formattedStartDate": "2011 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation and Human Resources Committee"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

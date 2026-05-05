@@ -1,0 +1,30 @@
+{
+  "id": "Kathy Walker",
+  "name": "Kathy Walker",
+  "background": "Ms. Walker is the President and CEO of Elm Street Resources Inc. and has over 35 years of experience in the energy industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Ur-Energy Inc.",
+      "ticker": "URG",
+      "exchange": "NYSE",
+      "website": "https://www.ur-energy.com",
+      "title": "Independent Director",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Governance and Nominating Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

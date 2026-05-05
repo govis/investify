@@ -1,0 +1,31 @@
+{
+  "id": "William Helman IV",
+  "name": "William Helman IV",
+  "background": "General Partner, Greylock Partners.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "website": "https://www.ford.com",
+      "title": "Independent Director",
+      "startDate": "2011-01-01",
+      "endDate": null,
+      "formattedStartDate": "2011 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Finance Committee",
+    "Nominating and Governance Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

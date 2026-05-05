@@ -1,0 +1,29 @@
+{
+  "id": "Diane Garrett",
+  "name": "Diane Garrett",
+  "background": "Dr. Garrett has more than 25 years of experience in the mining industry. She is currently the President and CEO of Hycroft Mining Holding Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NOVAGOLD RESOURCES INC.",
+      "ticker": "NG",
+      "exchange": "NYSE",
+      "website": "https://www.novagold.com",
+      "title": "Independent Director",
+      "startDate": "2018-01-01",
+      "endDate": null,
+      "formattedStartDate": "2018 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

@@ -1,0 +1,26 @@
+{
+  "id": "John Ketchum",
+  "name": "John Ketchum",
+  "background": "Mr. Ketchum is Chairman, President and Chief Executive Officer of NextEra Energy and chairman of NextEra Energy Partners, LP. He previously served as president and CEO of NextEra Energy Resources, LLC and as CFO of NextEra Energy.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NextEra Energy, Inc.",
+      "ticker": "NEE",
+      "exchange": "NYSE",
+      "website": "https://www.nexteraenergy.com",
+      "title": "Chairman, President and Chief Executive Officer",
+      "startDate": "2022-03-01",
+      "endDate": null,
+      "formattedStartDate": "2022 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 53,
+  "ageYear": 2024
+}

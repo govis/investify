@@ -1,0 +1,26 @@
+{
+  "id": "John Belanger",
+  "name": "John Belanger",
+  "background": "Chief Operating Officer of Global X Management Company LLC since 2020. Previously served as Head of Product at Global X.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Global X Lithium & Battery Tech ETF",
+      "ticker": "LIT",
+      "exchange": "NYSE",
+      "website": "https://www.globalxetfs.com/funds/lit/",
+      "title": "Chief Operating Officer",
+      "startDate": "2020-01-01",
+      "endDate": null,
+      "formattedStartDate": "2020 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 53,
+  "ageYear": 2024
+}

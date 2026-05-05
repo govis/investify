@@ -1,0 +1,34 @@
+{
+  "id": "Thomas Gorman",
+  "name": "Thomas Gorman",
+  "background": "Former CEO of Brambles Limited.",
+  "pictureUrl": "https://ledger.americanprecision.org/wp-content/uploads/Tom-Gorman.jpg",
+  "companies": [
+    {
+      "name": "Alcoa Corporation",
+      "ticker": "AA",
+      "exchange": "NYSE",
+      "website": "https://www.alcoa.com",
+      "title": "Independent Director",
+      "startDate": "2017-05-01",
+      "endDate": null,
+      "formattedStartDate": "2017 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "url": "https://au.linkedin.com/in/tom-gorman-32b60018",
+      "name": "LinkedIn"
+    }
+  ],
+  "committees": [
+    "Compensation and Benefits Committee",
+    "Safety, Sustainability and Public Issues Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

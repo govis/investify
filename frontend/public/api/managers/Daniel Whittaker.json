@@ -1,0 +1,29 @@
+{
+  "id": "Daniel Whittaker",
+  "name": "Daniel Whittaker",
+  "background": "Mr. Whittaker has over 30 years of experience in the resource sector, including senior management roles in exploration and development companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "GoldHaven Resources Corp.",
+      "ticker": "GOH",
+      "exchange": "TSX",
+      "website": "https://goldhavenresources.com/",
+      "title": "Director",
+      "startDate": "2021-06-30",
+      "endDate": null,
+      "formattedStartDate": "2021 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Sherry Barrat",
+  "name": "Sherry Barrat",
+  "background": "Retired vice chairman of Northern Trust Corporation. Director since 1998.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NextEra Energy, Inc.",
+      "ticker": "NEE",
+      "exchange": "NYSE",
+      "website": "https://www.nexteraenergy.com",
+      "title": "Independent Director",
+      "startDate": "1998-01-01",
+      "endDate": null,
+      "formattedStartDate": "1998 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Finance & Investment",
+    "Governance & Nominating (Chair)"
+  ],
+  "age": 74,
+  "ageYear": 2024
+}

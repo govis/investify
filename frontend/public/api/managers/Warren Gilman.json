@@ -1,0 +1,54 @@
+{
+  "id": "Warren Gilman",
+  "name": "Warren Gilman",
+  "background": "Chairman and CEO of Queen’s Road Capital Investment Ltd. Former Chairman and CEO of CEF Holdings.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Gold Royalty Corp.",
+      "ticker": "GROY",
+      "exchange": "NYSE",
+      "website": "https://www.goldroyalty.com",
+      "title": "Independent Director",
+      "startDate": "2020-06-23",
+      "endDate": null,
+      "formattedStartDate": "2020 June",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "NexGen Energy Ltd.",
+      "ticker": "NXE",
+      "exchange": "NYSE",
+      "website": "https://www.nexgenenergy.ca",
+      "title": "Independent Director",
+      "startDate": "2017-01-01",
+      "endDate": null,
+      "formattedStartDate": "2017 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "NexGen Energy Ltd.",
+      "ticker": "NXE",
+      "exchange": "TSX",
+      "website": "https://www.nexgenenergy.ca",
+      "title": "Independent Director",
+      "startDate": "2017-05-01",
+      "endDate": null,
+      "formattedStartDate": "2017 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Governance Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 64,
+  "ageYear": 2023
+}

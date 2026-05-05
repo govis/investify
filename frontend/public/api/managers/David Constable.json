@@ -1,0 +1,27 @@
+{
+  "id": "David Constable",
+  "name": "David Constable",
+  "background": "Mr. Constable has served as Chairman and Chief Executive Officer of Fluor since January 2021. He previously served as Chief Executive Officer of Sasol Ltd from 2011 to 2016. He was also a director of ABB Ltd and Rio Tinto.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Fluor Corporation",
+      "ticker": "FLR",
+      "exchange": "NYSE",
+      "website": "https://www.fluor.com",
+      "title": "Chairman and Chief Executive Officer",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 62,
+  "ageYear": 2024
+}

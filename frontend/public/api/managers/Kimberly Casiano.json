@@ -1,0 +1,30 @@
+{
+  "id": "Kimberly Casiano",
+  "name": "Kimberly Casiano",
+  "background": "Former President and COO of Casiano Communications, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "website": "https://www.ford.com",
+      "title": "Independent Director",
+      "startDate": "2003-01-01",
+      "endDate": null,
+      "formattedStartDate": "2003 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Sustainability, Innovation and Policy Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

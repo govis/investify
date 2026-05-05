@@ -1,0 +1,29 @@
+{
+  "id": "Norma Clayton",
+  "name": "Norma Clayton",
+  "background": "Former Vice President for Learning, Training and Development at The Boeing Company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Nucor Corporation",
+      "ticker": "NUE",
+      "exchange": "NYSE",
+      "website": "https://nucor.com",
+      "title": "Independent Director",
+      "startDate": "2021-09-01",
+      "endDate": null,
+      "formattedStartDate": "2021 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Governance and Nominating"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

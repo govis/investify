@@ -1,0 +1,28 @@
+{
+  "id": "Kelly Kramer",
+  "name": "Kelly Kramer",
+  "background": "Former EVP and CFO of Cisco Systems, Inc. Former executive at GE.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Snowflake Inc.",
+      "ticker": "SNOW",
+      "exchange": "NYSE",
+      "website": "https://www.snowflake.com",
+      "title": "Independent Director",
+      "startDate": "2020-01-01",
+      "endDate": null,
+      "formattedStartDate": "2020 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 57,
+  "ageYear": 2024
+}

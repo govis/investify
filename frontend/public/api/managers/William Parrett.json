@@ -1,0 +1,29 @@
+{
+  "id": "William Parrett",
+  "name": "William Parrett",
+  "background": "Former CEO of Deloitte Touche Tohmatsu.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Oracle Corporation",
+      "ticker": "ORCL",
+      "exchange": "NYSE",
+      "website": "https://www.oracle.com",
+      "title": "Independent Director",
+      "startDate": "2018-06-01",
+      "endDate": null,
+      "formattedStartDate": "2018 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 79,
+  "ageYear": 2024
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Alexander Karp",
+  "name": "Alexander Karp",
+  "background": "Dr. Karp is one of our co-founders and has served as our Chief Executive Officer since 2004 and as a member of our Board since 2003. Dr. Karp holds a B.A. from Haverford College, a J.D. from Stanford University, and a Ph.D. from Goethe University in Frankfurt, Germany.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Palantir Technologies Inc.",
+      "ticker": "PLTR",
+      "exchange": "NYSE",
+      "website": "https://www.palantir.com",
+      "title": "Chief Executive Officer, Director",
+      "startDate": "2004-01-01",
+      "endDate": null,
+      "formattedStartDate": "2004 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 56,
+  "ageYear": 2024
+}

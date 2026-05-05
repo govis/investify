@@ -1,0 +1,31 @@
+{
+  "id": "Jan Tighe",
+  "name": "Jan Tighe",
+  "background": "Retired Vice Admiral, United States Navy.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "ticker": "GS",
+      "exchange": "NYSE",
+      "website": "https://www.goldmansachs.com",
+      "title": "Independent Director",
+      "startDate": "2018-12-01",
+      "endDate": null,
+      "formattedStartDate": "2018 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Governance",
+    "Risk"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

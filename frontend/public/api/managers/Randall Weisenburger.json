@@ -1,0 +1,29 @@
+{
+  "id": "Randall Weisenburger",
+  "name": "Randall Weisenburger",
+  "background": "Mr. Weisenburger is the Managing Member of Mile 26 Capital LLC. He was previously the CFO of Omnicom Group Inc. and a founding member of Wasserstein Perella & Co.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "MP Materials Corp.",
+      "ticker": "MP",
+      "exchange": "NYSE",
+      "website": "https://mpmaterials.com",
+      "title": "Independent Director",
+      "startDate": "2020-11-17",
+      "endDate": null,
+      "formattedStartDate": "2020 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

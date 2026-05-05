@@ -1,0 +1,40 @@
+{
+  "id": "Cathia Lawson-Hall",
+  "name": "Cathia Lawson-Hall",
+  "background": "Cathia Lawson-Hall has over 25 years of experience in the financial sector, specifically in investment banking and corporate finance in Africa.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "LSE",
+      "website": "https://www.endeavourmining.com",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2023-05-23",
+      "endDate": null,
+      "formattedStartDate": "2023 May",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "TSX",
+      "website": "https://www.endeavourmining.com",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2022-09-29",
+      "endDate": null,
+      "formattedStartDate": "2022 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "ESG Committee"
+  ],
+  "age": 52,
+  "ageYear": 2024
+}

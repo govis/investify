@@ -1,0 +1,29 @@
+{
+  "id": "Dev Ittycheria",
+  "name": "Dev Ittycheria",
+  "background": "President and CEO of MongoDB, Inc. Previously co-founder and CEO of BladeLogic.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Datadog, Inc.",
+      "ticker": "DDOG",
+      "exchange": "NASDAQ",
+      "website": "https://www.datadoghq.com",
+      "title": "Director",
+      "startDate": "2014-01-01",
+      "endDate": null,
+      "formattedStartDate": "2014 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 57,
+  "ageYear": 2024
+}

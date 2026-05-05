@@ -1,0 +1,29 @@
+{
+  "id": "Arcilia Acosta",
+  "name": "Arcilia Acosta",
+  "background": "Ms. Acosta is the President and CEO of CARCON Industries and Construction. She has served on the board since 2020.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Vistra Corp.",
+      "ticker": "VST",
+      "exchange": "NYSE",
+      "website": "https://www.vistracorp.com",
+      "title": "Independent Director",
+      "startDate": "2020-02-01",
+      "endDate": null,
+      "formattedStartDate": "2020 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Social Responsibility and Compensation Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

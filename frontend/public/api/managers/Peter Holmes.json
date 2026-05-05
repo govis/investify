@@ -1,0 +1,26 @@
+{
+  "id": "Peter Holmes",
+  "name": "Peter Holmes",
+  "background": "Mr. Holmes is a mining engineer with over 30 years' experience in the gold industry. He has held senior roles with Barrick Gold and Placer Dome, with significant experience in project studies and operations.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "De Grey Mining Limited",
+      "ticker": "DEG",
+      "exchange": "ASX",
+      "website": "https://degreymining.com.au",
+      "title": "Project Director",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Shiela Hochhauser",
+  "name": "Shiela Hochhauser",
+  "background": "Former Managing Director at Goldman Sachs. Director since 2012.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "J.B. Hunt Transport Services, Inc.",
+      "ticker": "JBHT",
+      "exchange": "NASDAQ",
+      "website": "https://www.jbhunt.com",
+      "title": "Independent Director",
+      "startDate": "2012-01-01",
+      "endDate": null,
+      "formattedStartDate": "2012 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

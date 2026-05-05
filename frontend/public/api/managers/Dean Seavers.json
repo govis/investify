@@ -1,0 +1,30 @@
+{
+  "id": "Dean Seavers",
+  "name": "Dean Seavers",
+  "background": "Former President and Executive Director of National Grid plc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Albemarle Corporation",
+      "ticker": "ALB",
+      "exchange": "NYSE",
+      "website": "https://www.albemarle.com",
+      "title": "Independent Director",
+      "startDate": "2018-01-01",
+      "endDate": null,
+      "formattedStartDate": "2018 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Capital Investment Committee",
+    "Executive Compensation Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

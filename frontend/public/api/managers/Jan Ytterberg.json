@@ -1,0 +1,26 @@
+{
+  "id": "Jan Ytterberg",
+  "name": "Jan Ytterberg",
+  "background": "Senior Advisor. Previously CFO of AB Volvo and Scania. Member of the Group Executive Board since 2018.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AB Volvo",
+      "ticker": "VOLV-B",
+      "exchange": "STO",
+      "website": "https://www.volvogroup.com",
+      "title": "Senior Advisor",
+      "startDate": "2023-06-16",
+      "endDate": null,
+      "formattedStartDate": "2023 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 63,
+  "ageYear": 2024
+}

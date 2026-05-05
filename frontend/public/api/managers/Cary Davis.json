@@ -1,0 +1,30 @@
+{
+  "id": "Cary Davis",
+  "name": "Cary Davis",
+  "background": "Managing Director at Warburg Pincus. Former executive at Dell Computer.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "CrowdStrike Holdings, Inc.",
+      "ticker": "CRWD",
+      "exchange": "NASDAQ",
+      "website": "https://www.crowdstrike.com",
+      "title": "Director",
+      "startDate": "2011-11-01",
+      "endDate": null,
+      "formattedStartDate": "2011 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 57,
+  "ageYear": 2024
+}

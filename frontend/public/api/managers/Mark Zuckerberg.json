@@ -1,0 +1,26 @@
+{
+  "id": "Mark Zuckerberg",
+  "name": "Mark Zuckerberg",
+  "background": "Mark Zuckerberg is the founder, Chairman, and CEO of Meta. He founded the company in 2004 and has served as CEO since its inception.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Meta Platforms, Inc.",
+      "ticker": "META",
+      "exchange": "NASDAQ",
+      "website": "https://about.meta.com",
+      "title": "Founder, Chairman, and Chief Executive Officer",
+      "startDate": "2004-02-04",
+      "endDate": null,
+      "formattedStartDate": "2004 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 39,
+  "ageYear": 2024
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Caio de Moraes",
+  "name": "Caio de Moraes",
+  "background": "Extensive experience in mining operations and project management in Brazil.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sigma Lithium Corporation",
+      "ticker": "SGML",
+      "exchange": "NASDAQ",
+      "website": "https://www.sigmalithiumresources.com",
+      "title": "Chief Operating Officer",
+      "startDate": "2023-06-01",
+      "endDate": null,
+      "formattedStartDate": "2023 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 45,
+  "ageYear": 2024
+}

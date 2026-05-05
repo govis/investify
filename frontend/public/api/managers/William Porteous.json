@@ -1,0 +1,29 @@
+{
+  "id": "William Porteous",
+  "name": "William Porteous",
+  "background": "Mr. Porteous has served as a member of our board of directors since 2014. He is a General Partner at RRE Ventures.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Spire Global, Inc.",
+      "ticker": "SPIR",
+      "exchange": "NYSE",
+      "website": "https://spire.com",
+      "title": "Director",
+      "startDate": "2014-01-01",
+      "endDate": null,
+      "formattedStartDate": "2014 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 52,
+  "ageYear": 2024
+}

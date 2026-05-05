@@ -1,0 +1,26 @@
+{
+  "id": "Jay Shrewder",
+  "name": "Jay Shrewder",
+  "background": "Mr. Shrewder is a Chartered Professional Accountant with extensive experience in financial reporting and corporate finance for junior exploration companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Stallion Uranium Corp.",
+      "ticker": "STUD",
+      "exchange": "TSX",
+      "website": "https://stallionuranium.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2022-06-15",
+      "endDate": null,
+      "formattedStartDate": "2022 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 45,
+  "ageYear": 2024
+}

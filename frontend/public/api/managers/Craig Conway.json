@@ -1,0 +1,28 @@
+{
+  "id": "Craig Conway",
+  "name": "Craig Conway",
+  "background": "Former President and CEO of PeopleSoft, Inc. He has served as a Director since 2005.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Salesforce, Inc.",
+      "ticker": "CRM",
+      "exchange": "NYSE",
+      "website": "https://www.salesforce.com",
+      "title": "Independent Director",
+      "startDate": "2005-10-01",
+      "endDate": null,
+      "formattedStartDate": "2005 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

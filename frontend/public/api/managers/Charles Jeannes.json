@@ -1,0 +1,41 @@
+{
+  "id": "Charles Jeannes",
+  "name": "Charles Jeannes",
+  "background": "Mr. Jeannes is a mining industry veteran, formerly the President and CEO of Goldcorp Inc. from 2008 to 2016.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Orla Mining Ltd.",
+      "ticker": "OLA",
+      "exchange": "TSX",
+      "website": "https://www.orlamining.com",
+      "title": "Chairman and Independent Director",
+      "startDate": "2016-12-06",
+      "endDate": null,
+      "formattedStartDate": "2016 December",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Wheaton Precious Metals Corp.",
+      "ticker": "WPM",
+      "exchange": "NYSE",
+      "website": "https://www.wheatonpm.com",
+      "title": "Independent Director",
+      "startDate": "2016-11-01",
+      "endDate": null,
+      "formattedStartDate": "2016 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Environmental, Sustainability, Health & Safety Committee",
+    "Governance and Nominating Committee",
+    "Sustainability Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

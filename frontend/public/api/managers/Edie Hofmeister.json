@@ -1,0 +1,42 @@
+{
+  "id": "Edie Hofmeister",
+  "name": "Edie Hofmeister",
+  "background": "Ms. Hofmeister is an attorney with over 25 years of experience in legal and ESG matters in the mining industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Osisko Gold Royalties Ltd",
+      "ticker": "OR",
+      "exchange": "NYSE",
+      "website": "https://osiskogr.com",
+      "title": "Independent Director",
+      "startDate": "2022-05-01",
+      "endDate": null,
+      "formattedStartDate": "2022 May",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Wesdome Gold Mines Ltd.",
+      "ticker": "WDO",
+      "exchange": "TSX",
+      "website": "https://www.wesdome.com",
+      "title": "Independent Director",
+      "startDate": "2022-05-01",
+      "endDate": null,
+      "formattedStartDate": "2022 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Environmental and Sustainability Committee",
+    "Governance and Nominating Committee (Chair)",
+    "Human Resources Committee",
+    "Sustainability Committee"
+  ],
+  "age": 59,
+  "ageYear": 2024
+}

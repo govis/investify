@@ -1,0 +1,42 @@
+{
+  "id": "Elizabeth McGregor",
+  "name": "Elizabeth McGregor",
+  "background": "Ms. McGregor was previously the CFO of Tahoe Resources Inc. and is a Chartered Professional Accountant.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Kinross Gold Corporation",
+      "ticker": "KGC",
+      "exchange": "NYSE",
+      "website": "https://www.kinross.com",
+      "title": "Director",
+      "startDate": "2021-11-01",
+      "endDate": null,
+      "formattedStartDate": "2021 November",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Orla Mining Ltd.",
+      "ticker": "OLA",
+      "exchange": "TSX",
+      "website": "https://www.orlamining.com",
+      "title": "Independent Director",
+      "startDate": "2019-11-05",
+      "endDate": null,
+      "formattedStartDate": "2019 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Audit and Risk Committee",
+    "Corporate Governance & Nominating Committee",
+    "Corporate Governance Committee"
+  ],
+  "age": 51,
+  "ageYear": 2024
+}

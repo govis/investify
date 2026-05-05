@@ -1,0 +1,28 @@
+{
+  "id": "Salma Seetaroo",
+  "name": "Salma Seetaroo",
+  "background": "Ms. Seetaroo is an investment banker and lawyer with over 20 years of experience in the natural resources sector in Africa. She is the co-founder and CEO of Cashew Coast and has held senior roles at several investment firms.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "GoviEx Uranium Inc.",
+      "ticker": "GXU",
+      "exchange": "TSXV",
+      "website": "https://www.goviex.com",
+      "title": "Independent Director",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "formattedStartDate": "2022 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 48,
+  "ageYear": 2024
+}

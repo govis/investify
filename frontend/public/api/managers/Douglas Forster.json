@@ -1,0 +1,29 @@
+{
+  "id": "Douglas Forster",
+  "name": "Douglas Forster",
+  "background": "Mr. Forster has over 35 years of experience in the mining industry. He was the President and CEO of Newmarket Gold and has served on several public company boards.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Calibre Mining Corp.",
+      "ticker": "CXB",
+      "exchange": "TSX",
+      "website": "https://calibremining.com",
+      "title": "Director",
+      "startDate": "2019-10-15",
+      "endDate": null,
+      "formattedStartDate": "2019 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

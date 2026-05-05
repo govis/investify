@@ -1,0 +1,28 @@
+{
+  "id": "Brad Wall",
+  "name": "Brad Wall",
+  "background": "Mr. Wall served as the 14th Premier of Saskatchewan from 2007 to 2018. He has extensive experience in economic development and the energy sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NexGen Energy Ltd.",
+      "ticker": "NXE",
+      "exchange": "NYSE",
+      "website": "https://www.nexgenenergy.ca",
+      "title": "Independent Director",
+      "startDate": "2019-01-01",
+      "endDate": null,
+      "formattedStartDate": "2019 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Sustainability Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

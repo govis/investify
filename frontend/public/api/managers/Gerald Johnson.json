@@ -1,0 +1,28 @@
+{
+  "id": "Gerald Johnson",
+  "name": "Gerald Johnson",
+  "background": "Executive Vice President, Global Manufacturing, General Motors Company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Caterpillar Inc.",
+      "ticker": "CAT",
+      "exchange": "NYSE",
+      "website": "https://www.caterpillar.com",
+      "title": "Independent Director",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Public Policy and Sustainability Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

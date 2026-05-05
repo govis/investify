@@ -1,0 +1,29 @@
+{
+  "id": "Sherman Tuan",
+  "name": "Sherman Tuan",
+  "background": "Founder and CEO of PurpleComm, Inc. Previously founded FVC.com. Extensive experience in the technology industry and corporate strategy.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Super Micro Computer, Inc.",
+      "ticker": "SMCI",
+      "exchange": "NASDAQ",
+      "website": "https://www.supermicro.com",
+      "title": "Independent Director",
+      "startDate": "2007-02-01",
+      "endDate": null,
+      "formattedStartDate": "2007 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 70,
+  "ageYear": 2023
+}

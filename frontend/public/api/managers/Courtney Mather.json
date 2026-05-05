@@ -1,0 +1,29 @@
+{
+  "id": "Courtney Mather",
+  "name": "Courtney Mather",
+  "background": "Portfolio Manager at Icahn Capital LP.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cheniere Energy, Inc.",
+      "ticker": "LNG",
+      "exchange": "NYSE",
+      "website": "https://www.cheniere.com",
+      "title": "Independent Director",
+      "startDate": "2015-12-28",
+      "endDate": null,
+      "formattedStartDate": "2015 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Governance and Nominating Committee"
+  ],
+  "age": 47,
+  "ageYear": 2024
+}

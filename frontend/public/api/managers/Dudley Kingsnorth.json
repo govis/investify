@@ -1,0 +1,30 @@
+{
+  "id": "Dudley Kingsnorth",
+  "name": "Dudley Kingsnorth",
+  "background": "Professor Kingsnorth is a metallurgist with over 50 years of experience in the international mining industry. He is a globally recognized expert in the rare earths industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Oreterra Limited",
+      "ticker": "ORE",
+      "exchange": "ASX",
+      "website": "https://oreterra.com.au",
+      "title": "Non-Executive Director",
+      "startDate": "2023-11-01",
+      "endDate": null,
+      "formattedStartDate": "2023 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "age": null,
+  "ageYear": null
+}

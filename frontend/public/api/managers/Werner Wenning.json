@@ -1,0 +1,30 @@
+{
+  "id": "Werner Wenning",
+  "name": "Werner Wenning",
+  "background": "Second Deputy Chairman of the Supervisory Board. Former Chairman of the Board of Management of Bayer AG.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Siemens Aktiengesellschaft",
+      "ticker": "SIEGY",
+      "exchange": "OTC",
+      "website": "https://www.siemens.com",
+      "title": "Second Deputy Chairman",
+      "startDate": "2013-10-01",
+      "endDate": null,
+      "formattedStartDate": "2013 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Chairman's Committee",
+    "Nominating Committee"
+  ],
+  "age": 77,
+  "ageYear": 2024
+}

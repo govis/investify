@@ -1,0 +1,29 @@
+{
+  "id": "Nanette Bulger",
+  "name": "Nanette Bulger",
+  "background": "Ms. Bulger has over 30 years of experience in strategic planning, marketing, and business development. She has held executive roles in various industries including technology and resources.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "K92 Mining Inc.",
+      "ticker": "KNT",
+      "exchange": "TSX",
+      "website": "https://k92mining.com",
+      "title": "Independent Director",
+      "startDate": "2023-05-01",
+      "endDate": null,
+      "formattedStartDate": "2023 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee (Chair)"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

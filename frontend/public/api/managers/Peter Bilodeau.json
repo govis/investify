@@ -1,0 +1,29 @@
+{
+  "id": "Peter Bilodeau",
+  "name": "Peter Bilodeau",
+  "background": "Mr. Bilodeau has over 35 years of experience in the financial services industry and has served on several public company boards.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Western Magnesium Corporation",
+      "ticker": "WMG",
+      "exchange": "TSX",
+      "website": "https://westernmagnesium.com",
+      "title": "Director",
+      "startDate": "2019-01-01",
+      "endDate": null,
+      "formattedStartDate": "2019 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 65,
+  "ageYear": 2023
+}

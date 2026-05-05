@@ -1,0 +1,37 @@
+{
+  "id": "Darryl Clark",
+  "name": "Darryl Clark",
+  "background": "Dr. Clark is an exploration geologist with over 25 years of experience in the mining industry, including senior roles at Cameco and Rio Tinto.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "IsoEnergy Ltd.",
+      "ticker": "ISO",
+      "exchange": "TSX",
+      "website": "https://www.isoenergy.ca",
+      "title": "Executive Vice President, Exploration and Strategy",
+      "startDate": "2023-12-05",
+      "endDate": null,
+      "formattedStartDate": "2023 December",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "IsoEnergy Ltd.",
+      "ticker": "ISO",
+      "exchange": "TSXV",
+      "website": "https://www.isoenergy.ca",
+      "title": "Executive Vice President, Exploration and Development",
+      "startDate": "2023-12-05",
+      "endDate": null,
+      "formattedStartDate": "2023 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

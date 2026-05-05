@@ -1,0 +1,26 @@
+{
+  "id": "Richard Heron",
+  "name": "Richard Heron",
+  "background": "Richard Heron is Chief Financial Officer of Cisco. He joined Cisco in 2024. Previously, he served as CFO of Luminar Technologies and held various senior finance roles at other technology companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "website": "https://www.cisco.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "formattedStartDate": "2024 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 53,
+  "ageYear": 2024
+}

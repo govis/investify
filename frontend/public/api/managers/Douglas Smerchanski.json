@@ -1,0 +1,28 @@
+{
+  "id": "Douglas Smerchanski",
+  "name": "Douglas Smerchanski",
+  "background": "Mr. Smerchanski has over 20 years of experience in the mining industry and has held senior positions at several public companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Anfield Energy Inc.",
+      "ticker": "AEC",
+      "exchange": "TSX",
+      "website": "https://anfieldenergy.com/",
+      "title": "Director",
+      "startDate": "2015-01-01",
+      "endDate": null,
+      "formattedStartDate": "2015 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 50,
+  "ageYear": 2024
+}

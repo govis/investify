@@ -1,0 +1,28 @@
+{
+  "id": "Andrew Brown",
+  "name": "Andrew Brown",
+  "background": "Mr. Brown has served as a member of our Board since 2015. He previously served as CEO of SandVideo and held executive positions at Zoran Corporation and Cadence Design Systems.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Pure Storage, Inc.",
+      "ticker": "PSTG",
+      "exchange": "NYSE",
+      "website": "https://www.purestorage.com",
+      "title": "Independent Director",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

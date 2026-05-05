@@ -1,0 +1,38 @@
+{
+  "id": "Kevin Hibbert",
+  "name": "Kevin Hibbert",
+  "background": "Mr. Hibbert is the Chief Financial Officer of Sprott Inc. and has extensive experience in financial reporting and regulatory compliance within the asset management sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sprott Physical Gold Trust",
+      "ticker": "PHYS",
+      "exchange": "NYSE",
+      "website": "https://sprott.com/investment-strategies/physical-bullion-trusts/gold/",
+      "title": "Director",
+      "startDate": "2017-01-01",
+      "endDate": null,
+      "formattedStartDate": "2017 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sprott Physical Uranium Trust",
+      "ticker": "U",
+      "exchange": "UN.TSX",
+      "website": "https://sprott.com/investment-strategies/physical-commodity-funds/uranium/",
+      "title": "Chief Financial Officer",
+      "startDate": "2021-07-19",
+      "endDate": null,
+      "formattedStartDate": "2021 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 52,
+  "ageYear": 2024
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Linda Broughton",
+  "name": "Linda Broughton",
+  "background": "Ms. Broughton is a senior environmental and mining professional with over 30 years of experience in risk management and sustainability.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC",
+      "exchange": "ASX",
+      "website": "https://oceanagold.com",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2022-05-01",
+      "endDate": null,
+      "formattedStartDate": "2022 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Sustainability Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

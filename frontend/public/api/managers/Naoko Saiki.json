@@ -1,0 +1,29 @@
+{
+  "id": "Naoko Saiki",
+  "name": "Naoko Saiki",
+  "background": "Former Director-General of the Economic Affairs Bureau, Ministry of Foreign Affairs of Japan.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Komatsu Ltd.",
+      "ticker": "KMTUY",
+      "exchange": "OTC",
+      "website": "https://www.komatsu.jp",
+      "title": "Outside Director",
+      "startDate": "2023-06-01",
+      "endDate": null,
+      "formattedStartDate": "2023 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nomination Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

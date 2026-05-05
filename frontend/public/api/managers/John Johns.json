@@ -1,0 +1,30 @@
+{
+  "id": "John Johns",
+  "name": "John Johns",
+  "background": "Retired Chairman and CEO of Protective Life Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "The Southern Company",
+      "ticker": "SO",
+      "exchange": "NYSE",
+      "website": "https://www.southerncompany.com",
+      "title": "Independent Director",
+      "startDate": "2015-01-01",
+      "endDate": null,
+      "formattedStartDate": "2015 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Compensation and Management Succession",
+    "Finance (Chair)"
+  ],
+  "age": 72,
+  "ageYear": 2024
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Raja Maharajh",
+  "name": "Raja Maharajh",
+  "background": "Raja Maharajh is Chief Legal Officer and Corporate Secretary of RTX.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "RTX Corporation",
+      "ticker": "RTX",
+      "exchange": "NYSE",
+      "website": "https://www.rtx.com",
+      "title": "Chief Legal Officer",
+      "startDate": "2022-12-01",
+      "endDate": null,
+      "formattedStartDate": "2022 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 56,
+  "ageYear": 2024
+}

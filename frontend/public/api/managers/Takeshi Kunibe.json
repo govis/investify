@@ -1,0 +1,29 @@
+{
+  "id": "Takeshi Kunibe",
+  "name": "Takeshi Kunibe",
+  "background": "Chairman of the Board of Sumitomo Mitsui Financial Group, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Komatsu Ltd.",
+      "ticker": "KMTUY",
+      "exchange": "OTC",
+      "website": "https://www.komatsu.jp",
+      "title": "Outside Director",
+      "startDate": "2022-06-01",
+      "endDate": null,
+      "formattedStartDate": "2022 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nomination Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

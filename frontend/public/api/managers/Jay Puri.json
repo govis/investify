@@ -1,0 +1,28 @@
+{
+  "id": "Jay Puri",
+  "name": "Jay Puri",
+  "background": "Jay Puri joined NVIDIA in 2005 and serves as Executive Vice President, Worldwide Field Operations. Prior to NVIDIA, Mr. Puri spent 22 years at Sun Microsystems, Inc., where he held various senior sales, marketing, and general management positions. Mr. Puri holds a B.S. degree in Electrical Engineering from the University of Minnesota, an M.S. degree in Electrical Engineering from the California Institute of Technology, and an M.B.A. degree from Harvard Business School.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "exchange": "NASDAQ",
+      "website": "https://www.nvidia.com",
+      "title": "Executive Vice President, Worldwide Field Operations",
+      "startDate": "2005-01-01",
+      "endDate": null,
+      "formattedStartDate": "2005 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 69,
+  "ageYear": 2024
+}

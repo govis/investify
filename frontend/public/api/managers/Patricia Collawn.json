@@ -1,0 +1,41 @@
+{
+  "id": "Patricia Collawn",
+  "name": "Patricia Collawn",
+  "background": "Patricia K. Collawn has served as a member of our Board since July 2021. She is the Chairman and CEO of PNM Resources, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "EVgo Inc.",
+      "ticker": "EVGO",
+      "exchange": "NASDAQ",
+      "website": "https://www.evgo.com",
+      "title": "Director",
+      "startDate": "2021-07-01",
+      "endDate": null,
+      "formattedStartDate": "2021 July",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cheniere Energy, Inc.",
+      "ticker": "LNG",
+      "exchange": "NYSE",
+      "website": "https://www.cheniere.com",
+      "title": "Independent Director",
+      "startDate": "2021-07-12",
+      "endDate": null,
+      "formattedStartDate": "2021 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

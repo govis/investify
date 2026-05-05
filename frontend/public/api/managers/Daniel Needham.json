@@ -1,0 +1,26 @@
+{
+  "id": "Daniel Needham",
+  "name": "Daniel Needham",
+  "background": "Mr. Needham has served as Executive Vice President since 2021. He previously served as Vice President from 2019 to 2021. He has been with Nucor since 1993.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Nucor Corporation",
+      "ticker": "NUE",
+      "exchange": "NYSE",
+      "website": "https://nucor.com",
+      "title": "Executive Vice President",
+      "startDate": "2021-02-01",
+      "endDate": null,
+      "formattedStartDate": "2021 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 58,
+  "ageYear": 2024
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Bernard Fried",
+  "name": "Bernard Fried",
+  "background": "Mr. Fried is the former Executive Chairman and CEO of SRA International, Inc. He has a background in government contracting and finance.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Quanta Services, Inc.",
+      "ticker": "PWR",
+      "exchange": "NYSE",
+      "website": "https://www.quantaservices.com",
+      "title": "Independent Director",
+      "startDate": "2004-01-01",
+      "endDate": null,
+      "formattedStartDate": "2004 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Investment Committee"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

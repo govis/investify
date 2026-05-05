@@ -1,0 +1,29 @@
+{
+  "id": "Gillian Winckler",
+  "name": "Gillian Winckler",
+  "background": "Ms. Winckler is a former mining executive and investment banker with over 25 years of experience in the metals and mining industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Capstone Copper Corp.",
+      "ticker": "CS",
+      "exchange": "TSX",
+      "website": "https://capstonecopper.com",
+      "title": "Independent Director",
+      "startDate": "2022-03-23",
+      "endDate": null,
+      "formattedStartDate": "2022 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Human Resources and Compensation Committee",
+    "Technical and Operational Performance Committee"
+  ],
+  "age": 51,
+  "ageYear": 2024
+}

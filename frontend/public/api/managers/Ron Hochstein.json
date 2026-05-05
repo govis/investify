@@ -1,0 +1,52 @@
+{
+  "id": "Ron Hochstein",
+  "name": "Ron Hochstein",
+  "background": "Mr. Hochstein is the Chair of the Board. He is currently the President and CEO of Lundin Gold Inc. and has over 30 years of experience in the mining industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Denison Mines Corp.",
+      "ticker": "DNN",
+      "exchange": "NYSE",
+      "website": "https://denisonmines.com",
+      "title": "Chair of the Board",
+      "startDate": "2015-01-01",
+      "endDate": null,
+      "formattedStartDate": "2015 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Denison Mines Corp.",
+      "ticker": "DNN",
+      "exchange": "TSX",
+      "website": "https://denisonmines.com",
+      "title": "Chair of the Board",
+      "startDate": "2015-01-01",
+      "endDate": null,
+      "formattedStartDate": "2015 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Lundin Gold Inc.",
+      "ticker": "LUG",
+      "exchange": "TSX",
+      "website": "https://lundingold.com",
+      "title": "Director, President and Chief Executive Officer",
+      "startDate": "2014-11-01",
+      "endDate": null,
+      "formattedStartDate": "2014 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

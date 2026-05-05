@@ -1,0 +1,26 @@
+{
+  "id": "John Beck",
+  "name": "John Beck",
+  "background": "Mr. Beck is the Founder and Chairman of Aecon Group Inc. He has been a director of Aecon or its predecessors since 1963. He is a graduate of the University of British Columbia in Civil Engineering.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Aecon Group Inc.",
+      "ticker": "ARE",
+      "exchange": "TSX",
+      "website": "https://www.aecon.com",
+      "title": "Chairman",
+      "startDate": "1963-01-01",
+      "endDate": null,
+      "formattedStartDate": "1963 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 82,
+  "ageYear": 2024
+}

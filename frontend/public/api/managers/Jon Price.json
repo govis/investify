@@ -1,0 +1,26 @@
+{
+  "id": "Jon Price",
+  "name": "Jon Price",
+  "background": "Mr Price is a mining engineer with over 30 years’ experience in the resources sector. He has held senior management and operational roles with several ASX-listed companies, including Phoenix Gold and Horizon Minerals. He has extensive experience in project development and operations management.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Paladin Energy Ltd",
+      "ticker": "PDN",
+      "exchange": "ASX",
+      "website": "https://www.paladinenergy.com.au",
+      "title": "Chief Operating Officer",
+      "startDate": "2021-06-01",
+      "endDate": null,
+      "formattedStartDate": "2021 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

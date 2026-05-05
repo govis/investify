@@ -1,0 +1,27 @@
+{
+  "id": "Nicole Brewster",
+  "name": "Nicole Brewster",
+  "background": "Ms. Brewster is the President and CEO of Canadian Silver Hunter Inc. and has extensive experience in mineral exploration and project management.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Onyx Gold Corp.",
+      "ticker": "ONYX",
+      "exchange": "TSX",
+      "website": "https://onyxgold.com",
+      "title": "Vice President, Corporate Development",
+      "startDate": "2023-06-01",
+      "endDate": null,
+      "formattedStartDate": "2023 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 49,
+  "ageYear": 2024
+}

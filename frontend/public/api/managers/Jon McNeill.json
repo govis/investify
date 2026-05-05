@@ -1,0 +1,28 @@
+{
+  "id": "Jon McNeill",
+  "name": "Jon McNeill",
+  "background": "Mr. McNeill has served as a member of the Board since 2021. He is the CEO and co-founder of DVx Ventures and previously served as the COO of Lyft and President of Global Sales, Delivery and Service at Tesla.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Rocket Lab USA, Inc.",
+      "ticker": "RKLB",
+      "exchange": "NASDAQ",
+      "website": "https://www.rocketlabusa.com",
+      "title": "Independent Director",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 56,
+  "ageYear": 2024
+}

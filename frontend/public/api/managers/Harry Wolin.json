@@ -1,0 +1,26 @@
+{
+  "id": "Harry Wolin",
+  "name": "Harry Wolin",
+  "background": "Mr. Wolin is AMD’s Senior Vice President, General Counsel and Corporate Secretary. He has been with AMD since 2000 and was appointed General Counsel in 2003.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Advanced Micro Devices, Inc.",
+      "ticker": "AMD",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "title": "Senior Vice President, General Counsel and Corporate Secretary",
+      "startDate": "2003-01-01",
+      "endDate": null,
+      "formattedStartDate": "2003 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

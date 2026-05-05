@@ -1,0 +1,29 @@
+{
+  "id": "Christopher Hill",
+  "name": "Christopher Hill",
+  "background": "Mr. Hill has over 30 years of experience in the mining industry, primarily in financial and corporate development roles. He was previously Treasurer of Kinross Gold Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Victoria Gold Corp.",
+      "ticker": "VGCX",
+      "exchange": "TSX",
+      "website": "https://vgcx.com",
+      "title": "Independent Director",
+      "startDate": "2007-07-31",
+      "endDate": null,
+      "formattedStartDate": "2007 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

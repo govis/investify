@@ -1,0 +1,30 @@
+{
+  "id": "Gerard Arpey",
+  "name": "Gerard Arpey",
+  "background": "Former Chairman and CEO of AMR Corporation and American Airlines, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Fluor Corporation",
+      "ticker": "FLR",
+      "exchange": "NYSE",
+      "website": "https://www.fluor.com",
+      "title": "Independent Director",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "formattedStartDate": "2023 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Governance Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

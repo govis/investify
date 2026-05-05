@@ -1,0 +1,26 @@
+{
+  "id": "York Ragen",
+  "name": "York Ragen",
+  "background": "Mr. Ragen has served as Chief Financial Officer since 2008. He joined Generac in 2005 and served as Vice President of Finance and Controller from 2005 to 2008. Prior to joining Generac, he was a director of financial reporting at a large public company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Generac Holdings Inc.",
+      "ticker": "GNRC",
+      "exchange": "NYSE",
+      "website": "https://www.generac.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2008-01-01",
+      "endDate": null,
+      "formattedStartDate": "2008 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 53,
+  "ageYear": 2024
+}

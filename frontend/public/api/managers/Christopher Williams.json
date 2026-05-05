@@ -1,0 +1,29 @@
+{
+  "id": "Christopher Williams",
+  "name": "Christopher Williams",
+  "background": "Chairman of Siebert Williams Shank & Co., LLC.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Union Pacific Corporation",
+      "ticker": "UNP",
+      "exchange": "NYSE",
+      "website": "https://www.up.com",
+      "title": "Independent Director",
+      "startDate": "2019-01-01",
+      "endDate": null,
+      "formattedStartDate": "2019 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation and Benefits Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

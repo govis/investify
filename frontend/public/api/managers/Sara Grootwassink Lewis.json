@@ -1,0 +1,30 @@
+{
+  "id": "Sara Grootwassink Lewis",
+  "name": "Sara Grootwassink Lewis",
+  "background": "Founder and CEO of Lewis Advisors. Former CFO of Washington Real Estate Investment Trust.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Freeport-McMoRan Inc.",
+      "ticker": "FCX",
+      "exchange": "NYSE",
+      "website": "https://www.fcx.com",
+      "title": "Director",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Governance"
+  ],
+  "age": 56,
+  "ageYear": 2024
+}

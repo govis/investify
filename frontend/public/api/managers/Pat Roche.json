@@ -1,0 +1,26 @@
+{
+  "id": "Pat Roche",
+  "name": "Pat Roche",
+  "background": "Mr. Roche became Chief Executive Officer on February 1, 2023. He previously served as Chief Operating Officer from 2021 to 2023 and as President of the Industrial Systems segment from 2015 to 2021. He joined Moog in 1986.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Moog Inc.",
+      "ticker": "MOG",
+      "exchange": "A.NYSE",
+      "website": "https://www.moog.com",
+      "title": "Chief Executive Officer, Director",
+      "startDate": "2023-02-01",
+      "endDate": null,
+      "formattedStartDate": "2023 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 59,
+  "ageYear": 2024
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Janet Wolfenbarger",
+  "name": "Janet Wolfenbarger",
+  "background": "Janet Wolfenbarger is a retired General of the U.S. Air Force and was the first woman to achieve the rank of four-star general in the Air Force.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AECOM",
+      "ticker": "ACM",
+      "exchange": "NYSE",
+      "website": "https://aecom.com",
+      "title": "Independent Director",
+      "startDate": "2015-01-01",
+      "endDate": null,
+      "formattedStartDate": "2015 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Governance Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

@@ -1,0 +1,28 @@
+{
+  "id": "David Farr",
+  "name": "David Farr",
+  "background": "David N. Farr was Chairman and CEO of Emerson Electric Co.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "International Business Machines Corporation",
+      "ticker": "IBM",
+      "exchange": "NYSE",
+      "website": "https://www.ibm.com",
+      "title": "Independent Director",
+      "startDate": "2012-01-01",
+      "endDate": null,
+      "formattedStartDate": "2012 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

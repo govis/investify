@@ -1,0 +1,29 @@
+{
+  "id": "Mary Little",
+  "name": "Mary Little",
+  "background": "Geologist with over 30 years of experience in the mining industry, including positions with WMC, Newmont, and Cyprus Amax.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sandstorm Gold Ltd.",
+      "ticker": "SAND",
+      "exchange": "NYSE",
+      "website": "https://www.sandstormgold.com",
+      "title": "Independent Director",
+      "startDate": "2017-01-01",
+      "endDate": null,
+      "formattedStartDate": "2017 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

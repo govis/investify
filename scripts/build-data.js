@@ -6,9 +6,21 @@ const MarkdownIt = require('markdown-it');
 const md = new MarkdownIt();
 const THESES_DIR = path.join(__dirname, '../Theses');
 const COMPANIES_DIR = path.join(__dirname, '../Companies');
+const MANAGERS_DIR = path.join(__dirname, '../Managers');
 const OUTPUT_DIR = path.join(__dirname, '../frontend/public/api');
 const ASSETS_DIR = path.join(__dirname, '../frontend/public/theses-assets');
 const COMPANIES_ASSETS_DIR = path.join(__dirname, '../frontend/public/companies-assets');
+
+// Helper to format date
+function formatTenureDate(dateStr) {
+  if (!dateStr) return '';
+  const parts = dateStr.split('-');
+  if (parts.length < 2) return '';
+  const year = parts[0];
+  const month = parseInt(parts[1], 10);
+  const months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+  return `${year} ${months[month - 1]}`;
+}
 
 // Create output directories if they don't exist
 if (!fs.existsSync(OUTPUT_DIR)) fs.mkdirSync(OUTPUT_DIR, { recursive: true });
@@ -18,7 +30,11 @@ if (!fs.existsSync(COMPANIES_ASSETS_DIR)) fs.mkdirSync(COMPANIES_ASSETS_DIR, { r
 const COMPANIES_OUTPUT_DIR = path.join(OUTPUT_DIR, 'companies');
 if (!fs.existsSync(COMPANIES_OUTPUT_DIR)) fs.mkdirSync(COMPANIES_OUTPUT_DIR, { recursive: true });
 
+const MANAGERS_OUTPUT_DIR = path.join(OUTPUT_DIR, 'managers');
+if (!fs.existsSync(MANAGERS_OUTPUT_DIR)) fs.mkdirSync(MANAGERS_OUTPUT_DIR, { recursive: true });
+
 const companiesList = [];
+const companyWebsites = {}; // Added to track websites for manager linking
 
 // 1. Process Companies
 async function processCompanies() {
@@ -65,6 +81,7 @@ async function processCompanies() {
           }
 
           website = profile.website || '';
+          companyWebsites[folderName] = website; // Store website mapping
           country = profile.country_of_domicile || '';
           description = profile.description || '';
           investment_theses = profile.investment_theses || [];
@@ -78,6 +95,70 @@ async function processCompanies() {
       }
 
       if (name) {
+        const tabs = [];
+        const managementPath = path.join(COMPANIES_DIR, folderName, 'Management.json');
+        if (fs.existsSync(managementPath)) {
+          try {
+            const management = JSON.parse(fs.readFileSync(managementPath, 'utf8'));
+            let managementHtml = '';
+            
+            if (management.executives && management.executives.length > 0) {
+              managementHtml += '<h2 style="margin-top: 0; margin-bottom: 24px;">Officers</h2>';
+              management.executives.forEach(exec => {
+                const startDate = (exec.tenure_dates && exec.tenure_dates.length > 0) ? exec.tenure_dates[0].start_date : null;
+                const formattedDate = formatTenureDate(startDate);
+                
+                managementHtml += `<div style="margin-bottom: 32px; padding: 20px; background-color: #f9f9f9; border-radius: 12px; border: 1px solid #eee;">`;
+                managementHtml += `<h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.25rem;"><a href="/manager/${encodeURIComponent(exec.name)}" style="color: inherit; text-decoration: none; border-bottom: 1px dashed #0066cc;">${exec.name}</a>${formattedDate ? `<span style="color: #666; font-weight: normal; font-size: 1rem; margin-left: 8px;">(Date: ${formattedDate})</span>` : ''}</h3>`;
+                if (exec.tenure_dates && exec.tenure_dates.length > 0) {
+                  managementHtml += `<p style="margin-top: 0; margin-bottom: 12px; color: #0066cc; font-weight: 600;">${exec.tenure_dates[0].title}</p>`;
+                }
+                managementHtml += `<p style="margin-bottom: 0; line-height: 1.6; font-size: 1rem; color: #333;">${exec.background}</p>`;
+                managementHtml += `</div>`;
+              });
+            }
+
+            if (management.board_of_directors && management.board_of_directors.length > 0) {
+              managementHtml += '<h2 style="margin-top: 40px; margin-bottom: 24px;">Directors</h2>';
+              management.board_of_directors.forEach(dir => {
+                const startDate = (dir.tenure_dates && dir.tenure_dates.length > 0) ? dir.tenure_dates[0].start_date : null;
+                const formattedDate = formatTenureDate(startDate);
+
+                managementHtml += `<div style="margin-bottom: 32px; padding: 20px; background-color: #f9f9f9; border-radius: 12px; border: 1px solid #eee;">`;
+                managementHtml += `<h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.25rem;"><a href="/manager/${encodeURIComponent(dir.name)}" style="color: inherit; text-decoration: none; border-bottom: 1px dashed #0066cc;">${dir.name}</a>${formattedDate ? `<span style="color: #666; font-weight: normal; font-size: 1rem; margin-left: 8px;">(Date: ${formattedDate})</span>` : ''}</h3>`;
+                if (dir.tenure_dates && dir.tenure_dates.length > 0) {
+                  managementHtml += `<p style="margin-top: 0; margin-bottom: 12px; color: #0066cc; font-weight: 600;">${dir.tenure_dates[0].role || dir.tenure_dates[0].title}</p>`;
+                }
+                managementHtml += `<p style="margin-bottom: 0; line-height: 1.6; font-size: 1rem; color: #333;">${dir.background}</p>`;
+                managementHtml += `</div>`;
+              });
+            }
+
+            if (management.sources && management.sources.length > 0) {
+              managementHtml += '<h2 style="margin-top: 40px; margin-bottom: 16px;">Sources</h2>';
+              managementHtml += '<ul style="padding-left: 20px; line-height: 1.6;">';
+              management.sources.forEach(src => {
+                managementHtml += `<li style="margin-bottom: 8px; color: #333;">`;
+                managementHtml += `<a href="${src.source_url}" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none;">${src.source_description}</a>`;
+                if (src.as_of_date) {
+                  managementHtml += `<span style="color: #666; font-size: 0.9rem; margin-left: 8px;">(As of: ${src.as_of_date})</span>`;
+                }
+                managementHtml += `</li>`;
+              });
+              managementHtml += '</ul>';
+            }
+
+            if (managementHtml) {
+              tabs.push({
+                label: 'Management',
+                content: managementHtml
+              });
+            }
+          } catch (e) {
+            console.error(`Error parsing ${managementPath}:`, e.message);
+          }
+        }
+
         const detail = {
           id: folderName,
           name,
@@ -87,7 +168,8 @@ async function processCompanies() {
           country,
           type,
           investment_theses,
-          content: md.render(description)
+          content: md.render(description),
+          tabs: tabs.length > 0 ? tabs : undefined
         };
         fs.writeFileSync(path.join(COMPANIES_OUTPUT_DIR, `${folderName}.json`), JSON.stringify(detail, null, 2));
         console.log(`Successfully generated company ${folderName}.json`);
@@ -112,7 +194,79 @@ async function processCompanies() {
   }
 }
 
-// 2. Helper to parse thesis file
+// 2. Process Managers
+async function processManagers() {
+  const managersList = [];
+  if (fs.existsSync(MANAGERS_DIR)) {
+    const managerFolders = fs.readdirSync(MANAGERS_DIR).filter(f => {
+      return fs.statSync(path.join(MANAGERS_DIR, f)).isDirectory();
+    });
+
+    for (const folderName of managerFolders) {
+      const profileJsonPath = path.join(MANAGERS_DIR, folderName, 'Profile.json');
+      
+      if (fs.existsSync(profileJsonPath)) {
+        try {
+          const profile = JSON.parse(fs.readFileSync(profileJsonPath, 'utf8'));
+          
+          // The source key is misspelled as "commpanies"
+          const companies = profile.commpanies || [];
+          
+          const managerData = {
+            id: folderName,
+            name: profile.name,
+            background: profile.background,
+            pictureUrl: profile.picture_url,
+            companies: companies.map(c => {
+              const companyId = `${c.ticker}.${c.exchange}`;
+              return {
+                name: c.name,
+                ticker: c.ticker,
+                exchange: c.exchange,
+                website: companyWebsites[companyId] || null,
+                title: c.title_or_role,
+                startDate: c.start_date,
+                endDate: c.end_date,
+                formattedStartDate: formatTenureDate(c.start_date),
+                formattedEndDate: formatTenureDate(c.end_date)
+              };
+            }),
+            investmentTheses: profile.investment_theses || [],
+            socials: profile.socials || [],
+            committees: profile.committees || [],
+            age: profile.age,
+            ageYear: profile.age_year
+          };
+
+          fs.writeFileSync(path.join(MANAGERS_OUTPUT_DIR, `${folderName}.json`), JSON.stringify(managerData, null, 2));
+          console.log(`Successfully generated manager ${folderName}.json`);
+
+          managersList.push({
+            name: profile.name,
+            first_name: profile.first_name,
+            last_name: profile.last_name,
+            companies: companies.map(c => ({
+              name: c.name,
+              ticker: c.ticker,
+              exchange: c.exchange,
+              role: c.title_or_role
+            })),
+            investment_theses: profile.investment_theses || []
+          });
+        } catch (e) {
+          console.error(`Error parsing manager ${profileJsonPath}:`, e.message);
+        }
+      }
+    }
+    
+    // Sort managers by name
+    managersList.sort((a, b) => a.name.localeCompare(b.name));
+    fs.writeFileSync(path.join(OUTPUT_DIR, 'managers.json'), JSON.stringify(managersList, null, 2));
+    console.log('Successfully generated managers.json');
+  }
+}
+
+// 3. Helper to parse thesis file
 const parseThesis = (folderName) => {
   const folderPath = path.join(THESES_DIR, folderName);
   const shortMdPath = path.join(folderPath, 'Short.md');
@@ -169,6 +323,7 @@ const parseThesis = (folderName) => {
 async function main() {
   try {
     await processCompanies();
+    await processManagers();
 
     const folders = fs.readdirSync(THESES_DIR).filter(f => {
       return fs.statSync(path.join(THESES_DIR, f)).isDirectory();

@@ -1,0 +1,30 @@
+{
+  "id": "Susie Corlett",
+  "name": "Susie Corlett",
+  "background": "Susie Corlett was appointed to the Board in June 2020. She is a geologist with over 25 years’ experience in exploration, mining operations and investment banking.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Iluka Resources Limited",
+      "ticker": "ILU",
+      "exchange": "ASX",
+      "website": "https://www.iluka.com",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2020-06-01",
+      "endDate": null,
+      "formattedStartDate": "2020 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Nominations Committee",
+    "Sustainability Committee (Chair)"
+  ],
+  "age": 53,
+  "ageYear": 2023
+}

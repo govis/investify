@@ -1,0 +1,26 @@
+{
+  "id": "Andrea Betti",
+  "name": "Andrea Betti",
+  "background": "Andrea Betti is an accounting and corporate governance professional with over 20 years' experience in the resources sector. she has acted as Company Secretary for several ASX-listed companies and has experience in corporate advisory and financial management.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Alligator Energy Limited",
+      "ticker": "AGE",
+      "exchange": "ASX",
+      "website": "https://www.alligatorenergy.com.au",
+      "title": "Company Secretary",
+      "startDate": "2023-10-01",
+      "endDate": null,
+      "formattedStartDate": "2023 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

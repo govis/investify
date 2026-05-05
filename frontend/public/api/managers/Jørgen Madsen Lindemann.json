@@ -1,0 +1,44 @@
+{
+  "id": "Jørgen Madsen Lindemann",
+  "name": "Jørgen Madsen Lindemann",
+  "background": "Jørgen Madsen Lindemann is the CEO of SAS. He was previously the President and CEO of Modern Times Group (MTG).",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "A.P. Møller - Mærsk A/S",
+      "ticker": "AMKBY",
+      "exchange": "OTC",
+      "website": "https://www.maersk.com",
+      "title": "Member of the Board",
+      "startDate": "2022-03-15",
+      "endDate": null,
+      "formattedStartDate": "2022 March",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Rolls-Royce Holdings plc",
+      "ticker": "RR",
+      "exchange": "LSE",
+      "website": "https://www.rolls-royce.com",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2022-03-01",
+      "endDate": null,
+      "formattedStartDate": "2022 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Member of the Nomination Committee",
+    "Member of the Remuneration Committee",
+    "Nominations & Governance Committee",
+    "Remuneration Committee (Chair)"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Ronnie Beevor",
+  "name": "Ronnie Beevor",
+  "background": "Ronnie Beevor is an experienced investment banker and mining executive. He was previously Head of Investment Banking at NM Rothschild & Sons (Australia) and has served on the boards of numerous mining companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Bannerman Energy Ltd",
+      "ticker": "BMN",
+      "exchange": "ASX",
+      "website": "https://bannermanenergy.com",
+      "title": "Non-Executive Chairman",
+      "startDate": "2014-07-27",
+      "endDate": null,
+      "formattedStartDate": "2014 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

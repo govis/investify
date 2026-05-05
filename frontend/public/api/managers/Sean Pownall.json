@@ -1,0 +1,28 @@
+{
+  "id": "Sean Pownall",
+  "name": "Sean Pownall",
+  "background": "Mr. Pownall has been involved in the mineral exploration industry for over 30 years. He is the owner of More Core Diamond Drilling Services Ltd., which operates in North America and internationally.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Tudor Gold Corp.",
+      "ticker": "TUD",
+      "exchange": "TSX",
+      "website": "https://tudor-gold.com/",
+      "title": "Independent Director",
+      "startDate": "2017-01-01",
+      "endDate": null,
+      "formattedStartDate": "2017 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 56,
+  "ageYear": 2024
+}

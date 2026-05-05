@@ -1,0 +1,26 @@
+{
+  "id": "Joe Graziano",
+  "name": "Joe Graziano",
+  "background": "Mr Graziano is a qualified Chartered Accountant with over 30 years of experience in corporate advisory and financial management. He has served as a director and company secretary for several ASX-listed companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Atomic Eagle Limited",
+      "ticker": "AEU",
+      "exchange": "ASX",
+      "website": "https://atomiceagle.com.au",
+      "title": "Non-Executive Director",
+      "startDate": "2024-05-24",
+      "endDate": null,
+      "formattedStartDate": "2024 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

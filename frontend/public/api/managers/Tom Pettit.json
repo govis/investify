@@ -1,0 +1,26 @@
+{
+  "id": "Tom Pettit",
+  "name": "Tom Pettit",
+  "background": "Mr. Pettit has served as Chief Operations Officer since 2020. Prior to joining Generac, he held senior leadership roles at several global manufacturing companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Generac Holdings Inc.",
+      "ticker": "GNRC",
+      "exchange": "NYSE",
+      "website": "https://www.generac.com",
+      "title": "Chief Operations Officer",
+      "startDate": "2020-01-01",
+      "endDate": null,
+      "formattedStartDate": "2020 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 54,
+  "ageYear": 2024
+}

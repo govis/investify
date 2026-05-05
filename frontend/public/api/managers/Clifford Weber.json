@@ -1,0 +1,41 @@
+{
+  "id": "Clifford Weber",
+  "name": "Clifford Weber",
+  "background": "Independent Trustee. CEO of New York Digital Assets Group. Former Executive Vice President at the American Stock Exchange.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Global X Lithium & Battery Tech ETF",
+      "ticker": "LIT",
+      "exchange": "NYSE",
+      "website": "https://www.globalxetfs.com/funds/lit/",
+      "title": "Independent Trustee",
+      "startDate": "2008-01-01",
+      "endDate": null,
+      "formattedStartDate": "2008 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Global X Uranium ETF",
+      "ticker": "URA",
+      "exchange": "NYSE",
+      "website": "https://www.globalxetfs.com/funds/ura/",
+      "title": "Independent Trustee",
+      "startDate": "2008-01-01",
+      "endDate": null,
+      "formattedStartDate": "2008 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Governance Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

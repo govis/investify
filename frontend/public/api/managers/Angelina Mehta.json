@@ -1,0 +1,28 @@
+{
+  "id": "Angelina Mehta",
+  "name": "Angelina Mehta",
+  "background": "Ms. Mehta is an engineer with over 20 years of experience in the mining industry, including roles in operations, investment banking, and private equity.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lundin Gold Inc.",
+      "ticker": "LUG",
+      "exchange": "TSX",
+      "website": "https://lundingold.com",
+      "title": "Independent Director",
+      "startDate": "2023-05-01",
+      "endDate": null,
+      "formattedStartDate": "2023 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Health, Safety, Environment and Sustainability Committee"
+  ],
+  "age": 45,
+  "ageYear": 2024
+}

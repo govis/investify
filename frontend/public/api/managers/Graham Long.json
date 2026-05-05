@@ -1,0 +1,26 @@
+{
+  "id": "Graham Long",
+  "name": "Graham Long",
+  "background": "Mr. Long is a finance professional with experience in the mining sector, previously serving as CFO of Consolidated Uranium Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "IsoEnergy Ltd.",
+      "ticker": "ISO",
+      "exchange": "TSX",
+      "website": "https://www.isoenergy.ca",
+      "title": "Chief Financial Officer",
+      "startDate": "2023-12-05",
+      "endDate": null,
+      "formattedStartDate": "2023 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

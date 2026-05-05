@@ -1,0 +1,26 @@
+{
+  "id": "Murray Hill",
+  "name": "Murray Hill",
+  "background": "Mr Hill is a highly experienced mining executive with over 35 years' experience in the mining industry. He is a metallurgist and has extensive experience in the design, construction and operation of mining projects. He has held senior executive roles with several ASX listed companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Elevate Uranium Limited",
+      "ticker": "EL8",
+      "exchange": "ASX",
+      "website": "https://www.elevateuranium.com.au",
+      "title": "Managing Director and Chief Executive Officer",
+      "startDate": "2012-05-01",
+      "endDate": null,
+      "formattedStartDate": "2012 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

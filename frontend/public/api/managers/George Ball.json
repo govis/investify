@@ -1,0 +1,29 @@
+{
+  "id": "George Ball",
+  "name": "George Ball",
+  "background": "Chairman of Sanders Morris Harris. He has served on our board since 2012.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Parsons Corporation",
+      "ticker": "PSN",
+      "exchange": "NYSE",
+      "website": "https://www.parsons.com",
+      "title": "Independent Director",
+      "startDate": "2012",
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation and Management Development Committee"
+  ],
+  "age": 85,
+  "ageYear": 2024
+}

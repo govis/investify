@@ -1,0 +1,28 @@
+{
+  "id": "Geoff Gay",
+  "name": "Geoff Gay",
+  "background": "Mr. Gay is the CEO of Athabasca Basin Development, an investment company owned by the seven communities in Northern Saskatchewan's Athabasca Basin.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "CanAlaska Uranium Ltd.",
+      "ticker": "CVV",
+      "exchange": "TSXV",
+      "website": "https://canalaska.com/",
+      "title": "Independent Director",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

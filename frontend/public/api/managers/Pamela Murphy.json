@@ -1,0 +1,29 @@
+{
+  "id": "Pamela Murphy",
+  "name": "Pamela Murphy",
+  "background": "Chief Executive Officer, Opportunity Network.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Rockwell Automation, Inc.",
+      "ticker": "ROK",
+      "exchange": "NYSE",
+      "website": "https://www.rockwellautomation.com",
+      "title": "Independent Director",
+      "startDate": "2019-06-01",
+      "endDate": null,
+      "formattedStartDate": "2019 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Technology Committee"
+  ],
+  "age": 51,
+  "ageYear": 2024
+}

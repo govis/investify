@@ -1,0 +1,29 @@
+{
+  "id": "Victoria McMillan",
+  "name": "Victoria McMillan",
+  "background": "Ms. McMillan is a finance professional with over 20 years of experience in the mining industry. She is currently the CFO of several junior exploration companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lahontan Gold Corp.",
+      "ticker": "LG",
+      "exchange": "TSX",
+      "website": "https://lahontangoldcorp.com/",
+      "title": "Director",
+      "startDate": "2023-06-15",
+      "endDate": null,
+      "formattedStartDate": "2023 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 45,
+  "ageYear": 2024
+}

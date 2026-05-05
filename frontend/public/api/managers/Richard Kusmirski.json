@@ -1,0 +1,29 @@
+{
+  "id": "Richard Kusmirski",
+  "name": "Richard Kusmirski",
+  "background": "Mr. Kusmirski has over 45 years of experience in the exploration industry and was formerly the President of JNR Resources Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "F3 Uranium Corp.",
+      "ticker": "FUU",
+      "exchange": "TSX",
+      "website": "https://f3uranium.com",
+      "title": "Independent Director",
+      "startDate": "2022-11-01",
+      "endDate": null,
+      "formattedStartDate": "2022 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Technical Committee"
+  ],
+  "age": 72,
+  "ageYear": 2024
+}

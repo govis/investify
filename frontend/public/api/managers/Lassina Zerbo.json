@@ -1,0 +1,30 @@
+{
+  "id": "Lassina Zerbo",
+  "name": "Lassina Zerbo",
+  "background": "Dr. Zerbo is the former Executive Secretary of the Comprehensive Nuclear-Test-Ban Treaty Organization (CTBTO) and has served as the Prime Minister of Burkina Faso. He is a renowned expert in nuclear non-proliferation and international diplomacy.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NANO Nuclear Energy Inc.",
+      "ticker": "NNE",
+      "exchange": "NASDAQ",
+      "website": "https://nanonuclearenergy.com",
+      "title": "Independent Director",
+      "startDate": "2023-05-01",
+      "endDate": null,
+      "formattedStartDate": "2023 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

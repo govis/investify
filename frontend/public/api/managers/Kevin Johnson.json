@@ -1,0 +1,31 @@
+{
+  "id": "Kevin Johnson",
+  "name": "Kevin Johnson",
+  "background": "Former President and CEO of Starbucks Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "ticker": "GS",
+      "exchange": "NYSE",
+      "website": "https://www.goldmansachs.com",
+      "title": "Independent Director",
+      "startDate": "2022-10-01",
+      "endDate": null,
+      "formattedStartDate": "2022 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation",
+    "Governance",
+    "Risk"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

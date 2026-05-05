@@ -1,0 +1,28 @@
+{
+  "id": "Pol Soler",
+  "name": "Pol Soler",
+  "background": "Mr. Soler is the CEO of Quadis, a leading Spanish car dealership network. He has served as a non-executive director since 2021.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Wallbox N.V.",
+      "ticker": "WBX",
+      "exchange": "NYSE",
+      "website": "https://wallbox.com",
+      "title": "Non-Executive Director",
+      "startDate": "2021-10-01",
+      "endDate": null,
+      "formattedStartDate": "2021 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 40,
+  "ageYear": 2024
+}

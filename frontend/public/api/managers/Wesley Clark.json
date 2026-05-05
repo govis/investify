@@ -1,0 +1,29 @@
+{
+  "id": "Wesley Clark",
+  "name": "Wesley Clark",
+  "background": "Retired General, US Army. Former Supreme Allied Commander Europe of NATO. Extensive experience in strategic leadership.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Equinox Gold Corp.",
+      "ticker": "EQX",
+      "exchange": "NYSE",
+      "website": "https://www.equinoxgold.com",
+      "title": "Independent Director",
+      "startDate": "2020-03-10",
+      "endDate": null,
+      "formattedStartDate": "2020 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Governance and Nominating Committee",
+    "Social Responsibility and ESG Committee"
+  ],
+  "age": 79,
+  "ageYear": 2024
+}

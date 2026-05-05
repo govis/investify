@@ -1,0 +1,29 @@
+{
+  "id": "Andrew Pollard",
+  "name": "Andrew Pollard",
+  "background": "Mr. Pollard is the founder of Mining Plus and has extensive experience in the mining sector, specifically in corporate development and capital markets.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Western Uranium & Vanadium Corp.",
+      "ticker": "WUC",
+      "exchange": "TSX",
+      "website": "https://western-uranium.com",
+      "title": "Independent Director",
+      "startDate": "2021-11-01",
+      "endDate": null,
+      "formattedStartDate": "2021 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 40,
+  "ageYear": 2024
+}

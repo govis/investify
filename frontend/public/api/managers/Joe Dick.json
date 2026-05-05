@@ -1,0 +1,26 @@
+{
+  "id": "Joe Dick",
+  "name": "Joe Dick",
+  "background": "Joe Dick has over 35 years of experience in the mining industry. He previously served as Executive Vice President and Chief Operating Officer at Eldorado before transitioning to a strategic role.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Eldorado Gold Corporation",
+      "ticker": "EGO",
+      "exchange": "NYSE",
+      "website": "https://www.eldoradogold.com",
+      "title": "Executive Vice President, Strategic Projects",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "formattedStartDate": "2024 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 62,
+  "ageYear": 2024
+}

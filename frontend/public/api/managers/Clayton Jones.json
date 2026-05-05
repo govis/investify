@@ -1,0 +1,29 @@
+{
+  "id": "Clayton Jones",
+  "name": "Clayton Jones",
+  "background": "Former Chairman and CEO of Rockwell Collins, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Deere & Company",
+      "ticker": "DE",
+      "exchange": "NYSE",
+      "website": "https://www.deere.com",
+      "title": "Independent Director",
+      "startDate": "2007-01-01",
+      "endDate": null,
+      "formattedStartDate": "2007 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Corporate Governance Committee"
+  ],
+  "age": 74,
+  "ageYear": 2024
+}

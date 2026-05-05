@@ -1,0 +1,29 @@
+{
+  "id": "John Friedery",
+  "name": "John Friedery",
+  "background": "Mr. Friedery served as Senior Vice President of Ball Corporation and President of Metal Beverage Packaging, Americas and Asia from 2008 to 2010.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Flowserve Corporation",
+      "ticker": "FLS",
+      "exchange": "NYSE",
+      "website": "https://www.flowserve.com",
+      "title": "Independent Director",
+      "startDate": "2007-01-01",
+      "endDate": null,
+      "formattedStartDate": "2007 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Finance Committee",
+    "Organization & Compensation Committee"
+  ],
+  "age": 67,
+  "ageYear": 2024
+}

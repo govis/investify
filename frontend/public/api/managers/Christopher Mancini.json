@@ -1,0 +1,28 @@
+{
+  "id": "Christopher Mancini",
+  "name": "Christopher Mancini",
+  "background": "Mr. Mancini is a research analyst at Gabelli Funds with over 30 years of experience in the investment industry, focusing on the metals and mining sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NOVAGOLD RESOURCES INC.",
+      "ticker": "NG",
+      "exchange": "NYSE",
+      "website": "https://www.novagold.com",
+      "title": "Independent Director",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "formattedStartDate": "2023 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

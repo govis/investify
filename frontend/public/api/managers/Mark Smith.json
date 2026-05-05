@@ -1,0 +1,29 @@
+{
+  "id": "Mark Smith",
+  "name": "Mark Smith",
+  "background": "Mr. Smith is a professional engineer with over 35 years of experience in the mining industry. He has served as CEO and Director of several public companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cabral Gold Inc.",
+      "ticker": "CBR",
+      "exchange": "TSX",
+      "website": "https://cabralgold.com",
+      "title": "Director",
+      "startDate": "2018-06-21",
+      "endDate": null,
+      "formattedStartDate": "2018 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

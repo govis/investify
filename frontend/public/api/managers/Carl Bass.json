@@ -1,0 +1,28 @@
+{
+  "id": "Carl Bass",
+  "name": "Carl Bass",
+  "background": "Mr. Bass has served as a member of our board of directors since December 2021. Mr. Bass served as the President and Chief Executive Officer of Autodesk, Inc. from 2006 to 2017.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Planet Labs PBC",
+      "ticker": "PL",
+      "exchange": "NYSE",
+      "website": "https://www.planet.com",
+      "title": "Director",
+      "startDate": "2021-12-01",
+      "endDate": null,
+      "formattedStartDate": "2021 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Bruce Scott",
+  "name": "Bruce Scott",
+  "background": "Mr. Scott is a lawyer with over 30 years of experience in corporate and securities law. He has served as General Counsel for Seabridge since 2011.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Seabridge Gold Inc.",
+      "ticker": "SA",
+      "exchange": "NYSE",
+      "website": "https://www.seabridgegold.com",
+      "title": "Vice President, General Counsel and Corporate Secretary",
+      "startDate": "2011-01-01",
+      "endDate": null,
+      "formattedStartDate": "2011 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 56,
+  "ageYear": 2024
+}

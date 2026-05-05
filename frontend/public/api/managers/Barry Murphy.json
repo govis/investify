@@ -1,0 +1,26 @@
+{
+  "id": "Barry Murphy",
+  "name": "Barry Murphy",
+  "background": "Mr. Murphy is a seasoned mining professional with over 30 years of experience in project development and operations, formerly with Anglo American.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Aclara Resources Inc.",
+      "ticker": "ARA",
+      "exchange": "TSX",
+      "website": "https://www.aclara.com",
+      "title": "Chief Operating Officer",
+      "startDate": "2022-03-01",
+      "endDate": null,
+      "formattedStartDate": "2022 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 58,
+  "ageYear": 2024
+}

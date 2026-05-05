@@ -1,0 +1,29 @@
+{
+  "id": "Robert Blair",
+  "name": "Robert Blair",
+  "background": "Former President and CEO of ESS Technology. Extensive experience in the semiconductor industry and executive management.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Super Micro Computer, Inc.",
+      "ticker": "SMCI",
+      "exchange": "NASDAQ",
+      "website": "https://www.supermicro.com",
+      "title": "Independent Director",
+      "startDate": "2021-09-01",
+      "endDate": null,
+      "formattedStartDate": "2021 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee (Chair)",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 65,
+  "ageYear": 2023
+}

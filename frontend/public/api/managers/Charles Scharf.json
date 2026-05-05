@@ -1,0 +1,29 @@
+{
+  "id": "Charles Scharf",
+  "name": "Charles Scharf",
+  "background": "CEO and President of Wells Fargo & Company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "https://www.microsoft.com",
+      "title": "Independent Director",
+      "startDate": "2014-10-01",
+      "endDate": null,
+      "formattedStartDate": "2014 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 59,
+  "ageYear": 2024
+}

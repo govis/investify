@@ -1,0 +1,29 @@
+{
+  "id": "Chadwick Williams",
+  "name": "Chadwick Williams",
+  "background": "Mr. Williams is the founder and President of Red Cloud Securities Inc. He has extensive experience in mining finance and capital markets.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Karora Resources Inc.",
+      "ticker": "KRR",
+      "exchange": "TSX",
+      "website": "https://www.karoraresources.com",
+      "title": "Independent Director",
+      "startDate": "2020-06-18",
+      "endDate": null,
+      "formattedStartDate": "2020 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee (Chair)"
+  ],
+  "age": 48,
+  "ageYear": 2024
+}

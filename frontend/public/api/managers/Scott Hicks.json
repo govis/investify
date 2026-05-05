@@ -1,0 +1,28 @@
+{
+  "id": "Scott Hicks",
+  "name": "Scott Hicks",
+  "background": "Mr. Hicks is a corporate director with over 15 years of experience in the resource sector, specifically in corporate finance and M&A.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sprott Physical Uranium Trust",
+      "ticker": "U",
+      "exchange": "UN.TSX",
+      "website": "https://sprott.com/investment-strategies/physical-commodity-funds/uranium/",
+      "title": "Independent Trustee",
+      "startDate": "2021-07-19",
+      "endDate": null,
+      "formattedStartDate": "2021 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 45,
+  "ageYear": 2024
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Vina Celina",
+  "name": "Vina Celina",
+  "background": "Ms. Celina is a Chartered Professional Accountant with over 15 years of experience in financial reporting and corporate governance.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Uranium Royalty Corp.",
+      "ticker": "UROY",
+      "exchange": "TSX",
+      "website": "https://www.uraniumroyalty.com/",
+      "title": "Independent Director",
+      "startDate": "2019-10-01",
+      "endDate": null,
+      "formattedStartDate": "2019 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 45,
+  "ageYear": 2024
+}

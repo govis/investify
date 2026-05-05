@@ -1,0 +1,29 @@
+{
+  "id": "Jim Askew",
+  "name": "Jim Askew",
+  "background": "Mr. Askew is a mining engineer with over 40 years’ experience as a Director and Chief Executive Officer of Australian and international publicly listed mining companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Evolution Mining Limited",
+      "ticker": "EVN",
+      "exchange": "ASX",
+      "website": "https://evolutionmining.com.au",
+      "title": "Non-Executive Director",
+      "startDate": "2011-10-01",
+      "endDate": null,
+      "formattedStartDate": "2011 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Nomination and Remuneration Committee",
+    "Risk and Sustainability Committee (Chair)"
+  ],
+  "age": 76,
+  "ageYear": 2024
+}

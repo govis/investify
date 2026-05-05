@@ -1,0 +1,29 @@
+{
+  "id": "Ross McDonald",
+  "name": "Ross McDonald",
+  "background": "Mr. McDonald is a Chartered Professional Accountant with over 40 years of experience in public accounting and financial management.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Orion Copper Mining Corp.",
+      "ticker": "ORION",
+      "exchange": "TSX",
+      "website": "https://orioncmc.com",
+      "title": "Independent Director",
+      "startDate": "2021-05-15",
+      "endDate": null,
+      "formattedStartDate": "2021 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Compensation Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

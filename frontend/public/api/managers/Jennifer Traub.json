@@ -1,0 +1,29 @@
+{
+  "id": "Jennifer Traub",
+  "name": "Jennifer Traub",
+  "background": "Ms. Traub is a partner at the law firm Cassels Brock & Blackwell LLP, where she co-chairs the Mining Group. She has extensive experience in corporate finance and M&A in the resource sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Denison Mines Corp.",
+      "ticker": "DNN",
+      "exchange": "NYSE",
+      "website": "https://denisonmines.com",
+      "title": "Independent Director",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "formattedStartDate": "2022 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 48,
+  "ageYear": 2024
+}

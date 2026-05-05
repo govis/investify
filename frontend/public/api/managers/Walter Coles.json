@@ -1,0 +1,37 @@
+{
+  "id": "Walter Coles",
+  "name": "Walter Coles",
+  "background": "Mr. Coles was a co-founder of Skeena and has served as Executive Chairman since 2023. He previously served as President and CEO from 2013 to 2023. Before Skeena, he was an analyst and portfolio manager at Cadence Investment Partners and held roles at UBS Investment Bank and Anthracite Capital.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Skeena Resources Limited",
+      "ticker": "SKE",
+      "exchange": "NYSE",
+      "website": "https://skeenaresources.com",
+      "title": "Executive Chairman",
+      "startDate": "2023-02-01",
+      "endDate": null,
+      "formattedStartDate": "2023 February",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Skeena Resources Limited",
+      "ticker": "SKE",
+      "exchange": "TSX",
+      "website": "https://skeenaresources.com",
+      "title": "Executive Chairman",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "formattedStartDate": "2023 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 51,
+  "ageYear": 2024
+}

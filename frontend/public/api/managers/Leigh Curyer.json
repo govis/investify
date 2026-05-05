@@ -1,0 +1,62 @@
+{
+  "id": "Leigh Curyer",
+  "name": "Leigh Curyer",
+  "background": "Mr. Curyer is the founder, President, and CEO of NexGen Energy Ltd. He has over 20 years of experience in the resources sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "IsoEnergy Ltd.",
+      "ticker": "ISO",
+      "exchange": "TSX",
+      "website": "https://www.isoenergy.ca",
+      "title": "Director",
+      "startDate": "2016-02-02",
+      "endDate": null,
+      "formattedStartDate": "2016 February",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "IsoEnergy Ltd.",
+      "ticker": "ISO",
+      "exchange": "TSXV",
+      "website": "https://www.isoenergy.ca",
+      "title": "Chairman",
+      "startDate": "2016-02-02",
+      "endDate": null,
+      "formattedStartDate": "2016 February",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "NexGen Energy Ltd.",
+      "ticker": "NXE",
+      "exchange": "NYSE",
+      "website": "https://www.nexgenenergy.ca",
+      "title": "Chief Executive Officer, Director, President",
+      "startDate": "2011-12-01",
+      "endDate": null,
+      "formattedStartDate": "2011 December",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "NexGen Energy Ltd.",
+      "ticker": "NXE",
+      "exchange": "TSX",
+      "website": "https://www.nexgenenergy.ca",
+      "title": "Chief Executive Officer, Director",
+      "startDate": "2011-12-01",
+      "endDate": null,
+      "formattedStartDate": "2011 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 52,
+  "ageYear": 2024
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Thomas Kaplan",
+  "name": "Thomas Kaplan",
+  "background": "Dr. Kaplan is the Chairman of the Board and has been a director since 2008. He is an entrepreneur and investor in the natural resources sector and is the Chairman and CEO of The Electrum Group LLC.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NOVAGOLD RESOURCES INC.",
+      "ticker": "NG",
+      "exchange": "NYSE",
+      "website": "https://www.novagold.com",
+      "title": "Chairman of the Board",
+      "startDate": "2008-01-01",
+      "endDate": null,
+      "formattedStartDate": "2008 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

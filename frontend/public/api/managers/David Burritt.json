@@ -1,0 +1,41 @@
+{
+  "id": "David Burritt",
+  "name": "David Burritt",
+  "background": "President and CEO of United States Steel Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lockheed Martin Corporation",
+      "ticker": "LMT",
+      "exchange": "NYSE",
+      "website": "https://www.lockheedmartin.com",
+      "title": "Independent Director",
+      "startDate": "2008-01-01",
+      "endDate": null,
+      "formattedStartDate": "2008 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "United States Steel Corporation",
+      "ticker": "X",
+      "exchange": "NYSE",
+      "website": "https://www.ussteel.com",
+      "title": "Director, President and Chief Executive Officer",
+      "startDate": "2017-05-01",
+      "endDate": null,
+      "formattedStartDate": "2017 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Strategic Affairs Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

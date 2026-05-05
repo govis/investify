@@ -1,0 +1,26 @@
+{
+  "id": "Doug Reddy",
+  "name": "Doug Reddy",
+  "background": "Mr. Reddy is a professional geologist with over 35 years of experience in the mining industry. He has held senior roles at Endeavour Mining and Endeavour Financial.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Equinox Gold Corp.",
+      "ticker": "EQX",
+      "exchange": "NYSE",
+      "website": "https://www.equinoxgold.com",
+      "title": "Chief Operating Officer",
+      "startDate": "2020-09-01",
+      "endDate": null,
+      "formattedStartDate": "2020 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

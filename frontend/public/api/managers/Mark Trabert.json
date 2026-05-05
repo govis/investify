@@ -1,0 +1,26 @@
+{
+  "id": "Mark Trabert",
+  "name": "Mark Trabert",
+  "background": "Mr. Trabert has served as President of the Aircraft Controls segment since 2015. He joined Moog in 1984.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Moog Inc.",
+      "ticker": "MOG",
+      "exchange": "A.NYSE",
+      "website": "https://www.moog.com",
+      "title": "President, Aircraft Controls",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 63,
+  "ageYear": 2024
+}

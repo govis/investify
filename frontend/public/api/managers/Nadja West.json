@@ -1,0 +1,29 @@
+{
+  "id": "Nadja West",
+  "name": "Nadja West",
+  "background": "Retired Lieutenant General in the United States Army and 44th Surgeon General of the U.S. Army.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Nucor Corporation",
+      "ticker": "NUE",
+      "exchange": "NYSE",
+      "website": "https://nucor.com",
+      "title": "Independent Director",
+      "startDate": "2019-12-01",
+      "endDate": null,
+      "formattedStartDate": "2019 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Governance and Nominating"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

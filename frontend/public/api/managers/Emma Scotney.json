@@ -1,0 +1,28 @@
+{
+  "id": "Emma Scotney",
+  "name": "Emma Scotney",
+  "background": "Ms. Scotney is a lawyer and strategic business advisor with over 25 years' experience in the resources, agricultural, and property sectors.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "De Grey Mining Limited",
+      "ticker": "DEG",
+      "exchange": "ASX",
+      "website": "https://degreymining.com.au",
+      "title": "Non-Executive Director",
+      "startDate": "2023-01-09",
+      "endDate": null,
+      "formattedStartDate": "2023 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee"
+  ],
+  "age": null,
+  "ageYear": null
+}

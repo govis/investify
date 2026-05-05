@@ -1,0 +1,30 @@
+{
+  "id": "Sandra Peterson",
+  "name": "Sandra Peterson",
+  "background": "Operating Partner at Clayton, Dubilier & Rice. Former Group Worldwide Chairman of Johnson & Johnson.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "https://www.microsoft.com",
+      "title": "Lead Independent Director, Independent Director",
+      "startDate": "2021-12-01",
+      "endDate": null,
+      "formattedStartDate": "2021 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Governance and Nominating Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

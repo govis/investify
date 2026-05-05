@@ -1,0 +1,29 @@
+{
+  "id": "Fiona Robertson",
+  "name": "Fiona Robertson",
+  "background": "Ms Robertson has over 40 years’ experience in corporate finance, investment banking, and the resource sector. She has held senior roles at Chase Manhattan Bank and Delta Gold.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Bellevue Gold Limited",
+      "ticker": "BGL",
+      "exchange": "ASX",
+      "website": "https://www.bellevuegold.com.au",
+      "title": "Non-Executive Independent Director",
+      "startDate": "2020-05-01",
+      "endDate": null,
+      "formattedStartDate": "2020 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee (Chair)",
+    "Nomination and Remuneration Committee"
+  ],
+  "age": null,
+  "ageYear": null
+}

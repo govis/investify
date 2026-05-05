@@ -1,0 +1,41 @@
+{
+  "id": "Steven Gomo",
+  "name": "Steven Gomo",
+  "background": "Steven Gomo has served as a director since March 2011. He was Executive Vice President and Chief Financial Officer of NetApp, Inc. from 2002 to 2011. He also serves on the boards of Micron Technology and Nutanix.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Enphase Energy, Inc.",
+      "ticker": "ENPH",
+      "exchange": "NASDAQ",
+      "website": "https://enphase.com",
+      "title": "Chair of the Board",
+      "startDate": "2011-03-01",
+      "endDate": null,
+      "formattedStartDate": "2011 March",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Micron Technology, Inc.",
+      "ticker": "MU",
+      "exchange": "NASDAQ",
+      "website": "https://www.micron.com",
+      "title": "Independent Director",
+      "startDate": "2018-01-01",
+      "endDate": null,
+      "formattedStartDate": "2018 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

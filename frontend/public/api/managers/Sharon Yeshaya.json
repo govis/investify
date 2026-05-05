@@ -1,0 +1,26 @@
+{
+  "id": "Sharon Yeshaya",
+  "name": "Sharon Yeshaya",
+  "background": "Ms. Yeshaya has served as Executive Vice President and Chief Financial Officer since June 2021. She previously served as Head of Investor Relations.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Morgan Stanley",
+      "ticker": "MS",
+      "exchange": "NYSE",
+      "website": "https://www.morganstanley.com",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2021-06-01",
+      "endDate": null,
+      "formattedStartDate": "2021 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 44,
+  "ageYear": 2024
+}

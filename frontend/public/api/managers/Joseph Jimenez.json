@@ -1,0 +1,30 @@
+{
+  "id": "Joseph Jimenez",
+  "name": "Joseph Jimenez",
+  "background": "Former CEO of Novartis AG.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "website": "https://www.gm.com",
+      "title": "Independent Director",
+      "startDate": "2015-06-09",
+      "endDate": null,
+      "formattedStartDate": "2015 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Finance Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

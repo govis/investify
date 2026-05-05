@@ -1,0 +1,28 @@
+{
+  "id": "Frank Lindenberg",
+  "name": "Frank Lindenberg",
+  "background": "Mr. Lindenberg has served as a director since 2021. He previously served as CFO of Mercedes-Benz Cars and CFO of Daimler Trucks. He is a member of the board of directors of various private companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lucid Group, Inc.",
+      "ticker": "LCID",
+      "exchange": "NASDAQ",
+      "website": "https://www.lucidmotors.com",
+      "title": "Director",
+      "startDate": "2021-02-01",
+      "endDate": null,
+      "formattedStartDate": "2021 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

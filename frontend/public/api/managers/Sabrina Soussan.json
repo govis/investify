@@ -1,0 +1,29 @@
+{
+  "id": "Sabrina Soussan",
+  "name": "Sabrina Soussan",
+  "background": "Chairman and CEO of Suez SA. Former CEO of Swisslog and Co-CEO of Siemens Mobility.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "The Boeing Company",
+      "ticker": "BA",
+      "exchange": "NYSE",
+      "website": "https://www.boeing.com",
+      "title": "Director",
+      "startDate": "2023-04-18",
+      "endDate": null,
+      "formattedStartDate": "2023 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Aerospace Safety",
+    "Finance"
+  ],
+  "age": 54,
+  "ageYear": 2024
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Maybank Hagood",
+  "name": "Maybank Hagood",
+  "background": "Chief Executive Officer of Southern States Packaging Company. Director since 2019.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Dominion Energy, Inc.",
+      "ticker": "D",
+      "exchange": "NYSE",
+      "website": "https://www.dominionenergy.com",
+      "title": "Independent Director",
+      "startDate": "2019-01-01",
+      "endDate": null,
+      "formattedStartDate": "2019 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Sustainability and Corporate Responsibility Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

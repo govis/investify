@@ -1,0 +1,28 @@
+{
+  "id": "César Ruipérez",
+  "name": "César Ruipérez",
+  "background": "Mr. Ruipérez is a Director at Iberdrola and has extensive experience in investment banking and corporate development. He joined the board in 2023.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Wallbox N.V.",
+      "ticker": "WBX",
+      "exchange": "NYSE",
+      "website": "https://wallbox.com",
+      "title": "Non-Executive Director",
+      "startDate": "2023-06-01",
+      "endDate": null,
+      "formattedStartDate": "2023 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 45,
+  "ageYear": 2024
+}

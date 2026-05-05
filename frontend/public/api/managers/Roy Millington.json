@@ -1,0 +1,30 @@
+{
+  "id": "Roy Millington",
+  "name": "Roy Millington",
+  "background": "Mr. Millington is a retired lawyer with extensive experience in corporate governance and the mining industry, having served as Corporate Secretary for major mining firms.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Delta Resources Limited",
+      "ticker": "DLTA",
+      "exchange": "TSX",
+      "website": "https://deltaresources.ca",
+      "title": "Independent Director",
+      "startDate": "2020-06-15",
+      "endDate": null,
+      "formattedStartDate": "2020 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Compensation Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

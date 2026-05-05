@@ -1,0 +1,29 @@
+{
+  "id": "Edith Cooper",
+  "name": "Edith Cooper",
+  "background": "Co-founder of Medley and former Global Head of Human Capital Management at Goldman Sachs.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Amazon.com, Inc.",
+      "ticker": "AMZN",
+      "exchange": "NASDAQ",
+      "website": "https://www.amazon.com",
+      "title": "Director",
+      "startDate": "2021-09-01",
+      "endDate": null,
+      "formattedStartDate": "2021 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Leadership Development and Compensation Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

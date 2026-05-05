@@ -1,0 +1,28 @@
+{
+  "id": "Gregory Boyce",
+  "name": "Gregory Boyce",
+  "background": "Mr. Boyce has served as Chair of the Board since 2021. He was previously the Executive Chairman of Peabody Energy Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Newmont Corporation",
+      "ticker": "NEM",
+      "exchange": "NYSE",
+      "website": "https://www.newmont.com",
+      "title": "Chair of the Board",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Governance and Nominating Committee"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

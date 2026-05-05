@@ -1,0 +1,26 @@
+{
+  "id": "Paul Geddes",
+  "name": "Paul Geddes",
+  "background": "Mr. Geddes is a professional geologist with over 25 years of experience in mineral exploration and development.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Skeena Resources Limited",
+      "ticker": "SKE",
+      "exchange": "TSX",
+      "website": "https://skeenaresources.com",
+      "title": "Senior Vice President, Exploration & Resource Development",
+      "startDate": "2017-01-01",
+      "endDate": null,
+      "formattedStartDate": "2017 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 51,
+  "ageYear": 2024
+}

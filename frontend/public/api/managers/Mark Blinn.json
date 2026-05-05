@@ -1,0 +1,29 @@
+{
+  "id": "Mark Blinn",
+  "name": "Mark Blinn",
+  "background": "Former President and CEO of Flowserve Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Texas Instruments Incorporated",
+      "ticker": "TXN",
+      "exchange": "NASDAQ",
+      "website": "https://www.ti.com",
+      "title": "Independent Director",
+      "startDate": "2017-01-01",
+      "endDate": null,
+      "formattedStartDate": "2017 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Governance and Stockholder Relations Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

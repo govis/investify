@@ -1,0 +1,26 @@
+{
+  "id": "Willem Meintjes",
+  "name": "Willem Meintjes",
+  "background": "Mr. Meintjes has served as our Chief Financial Officer since January 2023. He previously served as our Chief Accounting Officer from June 2016 to January 2023 and as our Treasurer from March 2018 to January 2023. Before joining Marvell, he was Vice President and Corporate Controller at Newport Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Marvell Technology, Inc.",
+      "ticker": "MRVL",
+      "exchange": "NASDAQ",
+      "website": "https://www.marvell.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "formattedStartDate": "2023 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 48,
+  "ageYear": 2024
+}

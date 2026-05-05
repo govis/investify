@@ -1,0 +1,29 @@
+{
+  "id": "Simon Fish",
+  "name": "Simon Fish",
+  "background": "Independent Director. Former General Counsel of BMO Financial Group and Vale S.A.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "SSR Mining Inc.",
+      "ticker": "SSRM",
+      "exchange": "NASDAQ",
+      "website": "https://www.ssrmining.com",
+      "title": "Independent Director",
+      "startDate": "2020-09-16",
+      "endDate": null,
+      "formattedStartDate": "2020 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee",
+    "Environmental, Health, Safety and Sustainability Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

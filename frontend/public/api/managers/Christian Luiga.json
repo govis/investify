@@ -1,0 +1,38 @@
+{
+  "id": "Christian Luiga",
+  "name": "Christian Luiga",
+  "background": "CFO and Deputy CEO. Joined Saab in 2020. Previously acting CEO and CFO at Telia Company. Holds a B.Sc. in Business Administration and Economics.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Saab AB",
+      "ticker": "SAAB-B",
+      "exchange": "STO",
+      "website": "https://www.saab.com",
+      "title": "CFO and Deputy CEO",
+      "startDate": "2020-09-16",
+      "endDate": null,
+      "formattedStartDate": "2020 September",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Saab Aktiebolag",
+      "ticker": "SAAB",
+      "exchange": "STO",
+      "website": "https://www.saab.com",
+      "title": "CFO and Deputy CEO",
+      "startDate": "2020-09-16",
+      "endDate": null,
+      "formattedStartDate": "2020 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 56,
+  "ageYear": 2024
+}

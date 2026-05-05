@@ -1,0 +1,29 @@
+{
+  "id": "Peter Watson",
+  "name": "Peter Watson",
+  "background": "Mr Watson is a chemical engineer with over 40 years’ experience in the resources and engineering sectors. He has held senior executive and board positions with several ASX-listed companies, including Sedgman and GR Engineering Services. He has extensive experience in project development and operations.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Paladin Energy Ltd",
+      "ticker": "PDN",
+      "exchange": "ASX",
+      "website": "https://www.paladinenergy.com.au",
+      "title": "Non-Executive Director",
+      "startDate": "2019-12-11",
+      "endDate": null,
+      "formattedStartDate": "2019 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and Nomination Committee (Chair)"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

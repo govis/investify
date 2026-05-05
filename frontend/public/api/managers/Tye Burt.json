@@ -1,0 +1,29 @@
+{
+  "id": "Tye Burt",
+  "name": "Tye Burt",
+  "background": "Mr. Burt has over 30 years of experience in the global mining industry. He was President and CEO of Kinross Gold Corporation from 2005 to 2012 and has held senior roles at Barrick Gold and in investment banking.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "K92 Mining Inc.",
+      "ticker": "KNT",
+      "exchange": "TSX",
+      "website": "https://k92mining.com",
+      "title": "Chairman and Independent Director",
+      "startDate": "2020-05-01",
+      "endDate": null,
+      "formattedStartDate": "2020 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

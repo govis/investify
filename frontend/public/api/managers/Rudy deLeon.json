@@ -1,0 +1,29 @@
+{
+  "id": "Rudy deLeon",
+  "name": "Rudy deLeon",
+  "background": "Senior Fellow at the Center for American Progress. Former Deputy Secretary of Defense.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "General Dynamics Corporation",
+      "ticker": "GD",
+      "exchange": "NYSE",
+      "website": "https://www.gd.com",
+      "title": "Director",
+      "startDate": "2014-01-01",
+      "endDate": null,
+      "formattedStartDate": "2014 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Sustainability"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

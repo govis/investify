@@ -1,0 +1,27 @@
+{
+  "id": "Christoph Schell",
+  "name": "Christoph Schell",
+  "background": "Christoph Schell is Executive Vice President and Chief Commercial Officer. He joined Intel in 2022 from HP Inc., where he was Chief Commercial Officer. He has over 25 years of experience in the technology industry, including roles at Philips and Procter & Gamble.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "title": "Executive Vice President and Chief Commercial Officer",
+      "startDate": "2022-03-14",
+      "endDate": null,
+      "formattedStartDate": "2022 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 53,
+  "ageYear": 2024
+}

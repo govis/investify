@@ -1,0 +1,30 @@
+{
+  "id": "Karri Howlett",
+  "name": "Karri Howlett",
+  "background": "President of Karri Howlett Consulting. Over 20 years of experience in corporate strategy and risk management.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Gold Royalty Corp.",
+      "ticker": "GROY",
+      "exchange": "NYSE",
+      "website": "https://www.goldroyalty.com",
+      "title": "Independent Director",
+      "startDate": "2022-03-31",
+      "endDate": null,
+      "formattedStartDate": "2022 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 47,
+  "ageYear": 2023
+}

@@ -1,0 +1,29 @@
+{
+  "id": "David Gitlin",
+  "name": "David Gitlin",
+  "background": "Chairman and CEO of Carrier Global Corporation. Former President of Collins Aerospace.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "The Boeing Company",
+      "ticker": "BA",
+      "exchange": "NYSE",
+      "website": "https://www.boeing.com",
+      "title": "Director",
+      "startDate": "2022-06-21",
+      "endDate": null,
+      "formattedStartDate": "2022 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Finance"
+  ],
+  "age": 54,
+  "ageYear": 2024
+}

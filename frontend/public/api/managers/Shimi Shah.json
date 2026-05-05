@@ -1,0 +1,30 @@
+{
+  "id": "Shimi Shah",
+  "name": "Shimi Shah",
+  "background": "Venture capitalist and entrepreneur with over 20 years of experience in investing and corporate finance across various sectors.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Clean Air Metals Inc.",
+      "ticker": "AIR",
+      "exchange": "TSXV",
+      "website": "https://cleanairmetals.ca",
+      "title": "Independent Director",
+      "startDate": "2021-06-01",
+      "endDate": null,
+      "formattedStartDate": "2021 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee (Chair)"
+  ],
+  "age": 52,
+  "ageYear": 2024
+}

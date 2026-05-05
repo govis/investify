@@ -1,0 +1,26 @@
+{
+  "id": "Akash Patel",
+  "name": "Akash Patel",
+  "background": "Mr. Patel has over 10 years of experience in corporate finance and accounting. He has served as a director and officer of several public companies in the resource and technology sectors.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Atha Energy Corp.",
+      "ticker": "SASK",
+      "exchange": "TSX",
+      "website": "https://www.athaenergy.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2023-01-12",
+      "endDate": null,
+      "formattedStartDate": "2023 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 38,
+  "ageYear": 2024
+}

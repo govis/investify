@@ -1,0 +1,57 @@
+{
+  "id": "David Abney",
+  "name": "David Abney",
+  "background": "Former Executive Chairman and CEO of United Parcel Service, Inc. (UPS).",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Freeport-McMoRan Inc.",
+      "ticker": "FCX",
+      "exchange": "NYSE",
+      "website": "https://www.fcx.com",
+      "title": "Director",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "website": "https://www.northropgrumman.com",
+      "title": "Independent Director",
+      "startDate": "2020-01-01",
+      "endDate": null,
+      "formattedStartDate": "2020 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "The Southern Company",
+      "ticker": "SO",
+      "exchange": "NYSE",
+      "website": "https://www.southerncompany.com",
+      "title": "Independent Director",
+      "startDate": "2020-10-01",
+      "endDate": null,
+      "formattedStartDate": "2020 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Electrification",
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Audit Committee",
+    "Compensation",
+    "Compensation and Management Development Committee",
+    "Compensation and Management Succession"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

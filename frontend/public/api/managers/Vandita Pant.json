@@ -1,0 +1,38 @@
+{
+  "id": "Vandita Pant",
+  "name": "Vandita Pant",
+  "background": "Vandita Pant was appointed Chief Financial Officer in March 2024. She previously served as Chief Commercial Officer and has extensive experience in banking and finance across Asia and Europe.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX",
+      "website": "https://www.bhp.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2024-03-01",
+      "endDate": null,
+      "formattedStartDate": "2024 March",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "NYSE",
+      "website": "https://www.bhp.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2024-03-01",
+      "endDate": null,
+      "formattedStartDate": "2024 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 54,
+  "ageYear": 2024
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Thomas Branson",
+  "name": "Thomas Branson",
+  "background": "Mr. Branson is a professional geologist with over 25 years of experience in mineral exploration and development. He has held senior management positions with several exploration companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Snowline Gold Corp.",
+      "ticker": "SGD",
+      "exchange": "TSX",
+      "website": "https://snowlinegold.com",
+      "title": "Vice President, Exploration",
+      "startDate": "2023-05-01",
+      "endDate": null,
+      "formattedStartDate": "2023 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

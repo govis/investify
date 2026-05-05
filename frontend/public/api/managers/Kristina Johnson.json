@@ -1,0 +1,28 @@
+{
+  "id": "Kristina Johnson",
+  "name": "Kristina Johnson",
+  "background": "Former President of The Ohio State University. Former Chancellor of the State University of New York.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "website": "https://www.cisco.com",
+      "title": "Independent Director",
+      "startDate": "2012-08-01",
+      "endDate": null,
+      "formattedStartDate": "2012 August",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Nomination and Governance Committee"
+  ],
+  "age": 67,
+  "ageYear": 2024
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Phil Jasper",
+  "name": "Phil Jasper",
+  "background": "Phil Jasper is President of Raytheon. He previously served as President of Mission Systems at Collins Aerospace.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "RTX Corporation",
+      "ticker": "RTX",
+      "exchange": "NYSE",
+      "website": "https://www.rtx.com",
+      "title": "President, Raytheon",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "formattedStartDate": "2024 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

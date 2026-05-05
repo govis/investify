@@ -1,0 +1,41 @@
+{
+  "id": "Ian Reid",
+  "name": "Ian Reid",
+  "background": "Mr. Reid is a former senior executive at Caterpillar Inc. with extensive experience in global mining equipment and technology.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC",
+      "exchange": "ASX",
+      "website": "https://oceanagold.com",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2018-06-01",
+      "endDate": null,
+      "formattedStartDate": "2018 June",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC",
+      "exchange": "TSX",
+      "website": "https://oceanagold.com",
+      "title": "Independent Director",
+      "startDate": "2018-06-01",
+      "endDate": null,
+      "formattedStartDate": "2018 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Audit and Risk Committee (Chair)",
+    "Remuneration and People Committee"
+  ],
+  "age": 67,
+  "ageYear": 2024
+}

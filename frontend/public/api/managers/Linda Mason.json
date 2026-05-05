@@ -1,0 +1,29 @@
+{
+  "id": "Linda Mason",
+  "name": "Linda Mason",
+  "background": "Chair and Founder of Bright Horizons Family Solutions. Former Chair of Mercy Corps.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Thomson Reuters Corporation",
+      "ticker": "TRI",
+      "exchange": "NYSE",
+      "website": "https://www.thomsonreuters.com",
+      "title": "Independent Director",
+      "startDate": "2014-05-01",
+      "endDate": null,
+      "formattedStartDate": "2014 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance Committee"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

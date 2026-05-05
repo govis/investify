@@ -1,0 +1,26 @@
+{
+  "id": "Alison White",
+  "name": "Alison White",
+  "background": "Ms. White was appointed Executive Vice President and Chief Financial Officer in 2021. She has over 25 years of experience in finance and accounting, including roles at Newmont Corporation and ConocoPhillips.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "SSR Mining Inc.",
+      "ticker": "SSRM",
+      "exchange": "NASDAQ",
+      "website": "https://www.ssrmining.com",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2021-03-22",
+      "endDate": null,
+      "formattedStartDate": "2021 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 52,
+  "ageYear": 2024
+}

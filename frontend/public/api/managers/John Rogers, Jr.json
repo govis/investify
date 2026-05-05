@@ -1,0 +1,29 @@
+{
+  "id": "John Rogers, Jr",
+  "name": "John Rogers, Jr.",
+  "background": "Chairman, Co-CEO and Chief Investment Officer of Ariel Investments, LLC. He founded Ariel in 1983.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Constellation Energy Corporation",
+      "ticker": "CEG",
+      "exchange": "NASDAQ",
+      "website": "https://www.constellationenergy.com",
+      "title": "Independent Director",
+      "startDate": "2022-02-01",
+      "endDate": null,
+      "formattedStartDate": "2022 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Corporate Governance Committee (Chair)"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

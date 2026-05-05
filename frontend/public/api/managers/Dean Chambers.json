@@ -1,0 +1,30 @@
+{
+  "id": "Dean Chambers",
+  "name": "Dean Chambers",
+  "background": "Professional Engineer and financial executive with over 35 years of experience. Former CFO of Sherritt International Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Clean Air Metals Inc.",
+      "ticker": "AIR",
+      "exchange": "TSXV",
+      "website": "https://cleanairmetals.ca",
+      "title": "Independent Director",
+      "startDate": "2020-01-01",
+      "endDate": null,
+      "formattedStartDate": "2020 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Compensation Committee"
+  ],
+  "age": 67,
+  "ageYear": 2024
+}

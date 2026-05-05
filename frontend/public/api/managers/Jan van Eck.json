@@ -1,0 +1,38 @@
+{
+  "id": "Jan van Eck",
+  "name": "Jan van Eck",
+  "background": "President and Chief Executive Officer of Van Eck Associates Corporation, Van Eck Securities Corporation, and Van Eck Absolute Return Advisers, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "VanEck Uranium and Nuclear Energy ETF",
+      "ticker": "NLR",
+      "exchange": "NYSE",
+      "website": "https://www.vaneck.com/us/en/investments/uranium-nuclear-energy-etf-nlr/",
+      "title": "Chief Executive Officer, Interested Trustee, President and Trustee",
+      "startDate": "2001-01-01",
+      "endDate": null,
+      "formattedStartDate": "2001 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "VanEck Rare Earth/Strategic Metals ETF",
+      "ticker": "SETM",
+      "exchange": "NYSE",
+      "website": "https://www.vaneck.com/us/en/investments/rare-earth-strategic-metals-etf-remx/",
+      "title": "President and Chief Executive Officer, Trustee",
+      "startDate": "2010",
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

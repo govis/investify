@@ -1,0 +1,29 @@
+{
+  "id": "Fiona Morgan",
+  "name": "Fiona Morgan",
+  "background": "Ms. Morgan is a chartered engineer with over 25 years of experience in the mining industry, including project management and executive leadership roles.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Regis Resources Limited",
+      "ticker": "RRL",
+      "exchange": "ASX",
+      "website": "https://regisresources.com.au",
+      "title": "Non-Executive Director",
+      "startDate": "2016-02-22",
+      "endDate": null,
+      "formattedStartDate": "2016 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "age": 54,
+  "ageYear": 2024
+}

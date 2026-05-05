@@ -1,0 +1,29 @@
+{
+  "id": "Leanne Caret",
+  "name": "Leanne Caret",
+  "background": "Former Executive Vice President of The Boeing Company and President and CEO of Boeing Defense, Space & Security.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Deere & Company",
+      "ticker": "DE",
+      "exchange": "NYSE",
+      "website": "https://www.deere.com",
+      "title": "Independent Director",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance Committee"
+  ],
+  "age": 57,
+  "ageYear": 2024
+}

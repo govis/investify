@@ -1,0 +1,29 @@
+{
+  "id": "Andrea Hall",
+  "name": "Andrea Hall",
+  "background": "Ms. Hall is a Chartered Accountant with over 30 years’ experience in the financial services and mining sectors. She was a partner at KPMG for 12 years.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Evolution Mining Limited",
+      "ticker": "EVN",
+      "exchange": "ASX",
+      "website": "https://evolutionmining.com.au",
+      "title": "Non-Executive Director",
+      "startDate": "2017-10-01",
+      "endDate": null,
+      "formattedStartDate": "2017 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Risk and Sustainability Committee"
+  ],
+  "age": 57,
+  "ageYear": 2024
+}

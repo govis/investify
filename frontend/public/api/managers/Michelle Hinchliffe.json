@@ -1,0 +1,42 @@
+{
+  "id": "Michelle Hinchliffe",
+  "name": "Michelle Hinchliffe",
+  "background": "Michelle Hinchliffe was a partner at KPMG for 36 years, where she held several leadership roles including UK Chair of Audit. She has extensive experience in auditing and financial services.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX",
+      "website": "https://www.bhp.com",
+      "title": "Non-executive Director",
+      "startDate": "2022-03-01",
+      "endDate": null,
+      "formattedStartDate": "2022 March",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "NYSE",
+      "website": "https://www.bhp.com",
+      "title": "Independent Non-executive Director",
+      "startDate": "2022-03-01",
+      "endDate": null,
+      "formattedStartDate": "2022 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Nomination and Governance Committee",
+    "Remuneration Committee",
+    "Risk and Audit Committee"
+  ],
+  "age": 59,
+  "ageYear": 2024
+}

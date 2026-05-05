@@ -1,0 +1,30 @@
+{
+  "id": "Michelle Howard",
+  "name": "Michelle Howard",
+  "background": "Retired Admiral of the United States Navy. Former Commander of U.S. Naval Forces Europe and U.S. Naval Forces Africa.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Curtiss-Wright Corporation",
+      "ticker": "CW",
+      "exchange": "NYSE",
+      "website": "https://www.curtisswright.com",
+      "title": "Independent Director",
+      "startDate": "2020-01-01",
+      "endDate": null,
+      "formattedStartDate": "2020 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Committee on Corporate Governance",
+    "Finance Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Darren Hazelwood",
+  "name": "Darren Hazelwood",
+  "background": "Mr. Hazelwood has over 20 years of experience in the mining industry, focusing on project management and corporate development.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Stallion Uranium Corp.",
+      "ticker": "STUD",
+      "exchange": "TSX",
+      "website": "https://stallionuranium.com",
+      "title": "Vice President, Corporate Development",
+      "startDate": "2023-01-10",
+      "endDate": null,
+      "formattedStartDate": "2023 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 52,
+  "ageYear": 2024
+}

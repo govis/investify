@@ -1,0 +1,29 @@
+{
+  "id": "John Batten",
+  "name": "John Batten",
+  "background": "Mr. Batten has served as a member of our Board since December 2021. He is the President and Chief Executive Officer of Twin Disc, Inc., a manufacturer of power transmission equipment.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Solid Power, Inc.",
+      "ticker": "SLDP",
+      "exchange": "NASDAQ",
+      "website": "https://www.solidpowerbattery.com",
+      "title": "Independent Director",
+      "startDate": "2021-12-01",
+      "endDate": null,
+      "formattedStartDate": "2021 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 57,
+  "ageYear": 2024
+}

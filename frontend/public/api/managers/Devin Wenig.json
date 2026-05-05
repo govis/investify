@@ -1,0 +1,29 @@
+{
+  "id": "Devin Wenig",
+  "name": "Devin Wenig",
+  "background": "Former President and CEO of eBay Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "website": "https://www.gm.com",
+      "title": "Independent Director",
+      "startDate": "2018-06-12",
+      "endDate": null,
+      "formattedStartDate": "2018 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 57,
+  "ageYear": 2024
+}

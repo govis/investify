@@ -1,0 +1,26 @@
+{
+  "id": "Bob McKnight",
+  "name": "Bob McKnight",
+  "background": "Mr. McKnight is a professional engineer with over 35 years of experience in the mining industry, specializing in project evaluation, financial analysis, and corporate development.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Orion Copper Mining Corp.",
+      "ticker": "ORION",
+      "exchange": "TSX",
+      "website": "https://orioncmc.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2022-02-01",
+      "endDate": null,
+      "formattedStartDate": "2022 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 65,
+  "ageYear": 2024
+}

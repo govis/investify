@@ -1,0 +1,28 @@
+{
+  "id": "Blayne Johnson",
+  "name": "Blayne Johnson",
+  "background": "Mr. Johnson has over 30 years of experience in the capital markets and mining sector. He was a founder of Newmarket Gold and has been involved in numerous successful mining ventures.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Calibre Mining Corp.",
+      "ticker": "CXB",
+      "exchange": "TSX",
+      "website": "https://calibremining.com",
+      "title": "Chairman and Director",
+      "startDate": "2019-10-15",
+      "endDate": null,
+      "formattedStartDate": "2019 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 59,
+  "ageYear": 2024
+}

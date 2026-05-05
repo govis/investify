@@ -1,0 +1,37 @@
+{
+  "id": "Peter Luthiger",
+  "name": "Peter Luthiger",
+  "background": "Mr. Luthiger is the Chief Operating Officer of the Company. He has over 35 years of experience in the uranium industry, specializing in in-situ recovery (ISR) operations.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "enCore Energy Corp.",
+      "ticker": "EU",
+      "exchange": "NASDAQ",
+      "website": "https://encoreuranium.com",
+      "title": "Chief Operating Officer",
+      "startDate": "2022-03-01",
+      "endDate": null,
+      "formattedStartDate": "2022 March",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "enCore Energy Corp.",
+      "ticker": "EU",
+      "exchange": "TSX",
+      "website": "https://encoreuranium.com",
+      "title": "Chief Operating Officer",
+      "startDate": "2022-03-01",
+      "endDate": null,
+      "formattedStartDate": "2022 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 63,
+  "ageYear": 2024
+}

@@ -1,0 +1,37 @@
+{
+  "id": "Tim Gitzel",
+  "name": "Tim Gitzel",
+  "background": "Tim Gitzel is President and Chief Executive Officer of Cameco. He has more than 30 years of experience in the Canadian and international uranium mining industry. He joined Cameco in 2007 as Senior Vice-President and Chief Operating Officer and was appointed President in 2010 and CEO in 2011. Prior to joining Cameco, he was Executive Vice-President, mining business unit for AREVA in Paris, France.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCJ",
+      "exchange": "NYSE",
+      "website": "https://www.cameco.com",
+      "title": "President and Chief Executive Officer",
+      "startDate": "2011-07-01",
+      "endDate": null,
+      "formattedStartDate": "2011 July",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCO",
+      "exchange": "TSX",
+      "website": "https://www.cameco.com",
+      "title": "Director, President and Chief Executive Officer",
+      "startDate": "2011-07-01",
+      "endDate": null,
+      "formattedStartDate": "2011 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2023
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Dustan McCoy",
+  "name": "Dustan McCoy",
+  "background": "Former Chairman and CEO of Brunswick Corporation. Lead Independent Director of FCX.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Freeport-McMoRan Inc.",
+      "ticker": "FCX",
+      "exchange": "NYSE",
+      "website": "https://www.fcx.com",
+      "title": "Lead Independent Director, Director",
+      "startDate": "2021-02-01",
+      "endDate": null,
+      "formattedStartDate": "2021 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Responsibility",
+    "Governance"
+  ],
+  "age": 74,
+  "ageYear": 2024
+}

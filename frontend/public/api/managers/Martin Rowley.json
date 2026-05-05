@@ -1,0 +1,28 @@
+{
+  "id": "Martin Rowley",
+  "name": "Martin Rowley",
+  "background": "Mr. Rowley was a co-founder of First Quantum Minerals Ltd. and served as its Executive Director until 2017. He is currently the Chairman of Forsys Metals Corp. and has extensive experience in the mining industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Forsys Metals Corp.",
+      "ticker": "FSY",
+      "exchange": "TSX",
+      "website": "https://forsysmetals.com",
+      "title": "Chairman",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

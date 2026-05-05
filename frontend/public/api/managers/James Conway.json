@@ -1,0 +1,29 @@
+{
+  "id": "James Conway",
+  "name": "James Conway",
+  "background": "Retired General, U.S. Marine Corps. Served as the 34th Commandant of the Marine Corps from 2006 to 2010.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Textron Inc.",
+      "ticker": "TXT",
+      "exchange": "NYSE",
+      "website": "https://www.textron.com",
+      "title": "Director",
+      "startDate": "2011-01-01",
+      "endDate": null,
+      "formattedStartDate": "2011 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 76,
+  "ageYear": 2024
+}

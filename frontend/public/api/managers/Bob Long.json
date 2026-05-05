@@ -1,0 +1,29 @@
+{
+  "id": "Bob Long",
+  "name": "Bob Long",
+  "background": "Mr. Long has over 40 years of experience in the mining and finance industries. He was previously CEO of Lydian International and has held senior roles at the International Finance Corporation (IFC).",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Faraday Copper Corp.",
+      "ticker": "FDY",
+      "exchange": "TSX",
+      "website": "https://faradaycopper.com",
+      "title": "Director",
+      "startDate": "2022-04-21",
+      "endDate": null,
+      "formattedStartDate": "2022 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation and Nominating Committee",
+    "Technical Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

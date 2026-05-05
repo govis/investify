@@ -1,0 +1,29 @@
+{
+  "id": "Craig Parry",
+  "name": "Craig Parry",
+  "background": "Geologist and co-founder of Inventa Capital. Former CEO of IsoEnergy and co-founder of NexGen Energy.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Skeena Resources Limited",
+      "ticker": "SKE",
+      "exchange": "NYSE",
+      "website": "https://skeenaresources.com",
+      "title": "Independent Director",
+      "startDate": "2017-01-01",
+      "endDate": null,
+      "formattedStartDate": "2017 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 48,
+  "ageYear": 2024
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Patrick Lord",
+  "name": "Patrick Lord",
+  "background": "Dr. Lord has been our Executive Vice President and Chief Operating Officer since September 2023. He previously served as Executive Vice President, Customer Support Business Group and Global Operations from 2020 to 2023, and as Senior Vice President and General Manager of various business units since joining Lam in 2012.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lam Research Corporation",
+      "ticker": "LRCX",
+      "exchange": "NASDAQ",
+      "website": "https://www.lamresearch.com",
+      "title": "Executive Vice President and Chief Operating Officer",
+      "startDate": "2023-09-01",
+      "endDate": null,
+      "formattedStartDate": "2023 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 58,
+  "ageYear": 2024
+}

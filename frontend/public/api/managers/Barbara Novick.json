@@ -1,0 +1,29 @@
+{
+  "id": "Barbara Novick",
+  "name": "Barbara Novick",
+  "background": "Barbara G. Novick has been a director since 2022. She is a co-founder of BlackRock, Inc. and served as Vice Chairman until 2021.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "title": "Independent Director",
+      "startDate": "2022-12-01",
+      "endDate": null,
+      "formattedStartDate": "2022 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit & Finance Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Holli Ladhani",
+  "name": "Holli Ladhani",
+  "background": "Ms. Ladhani was formerly the President and CEO of Select Energy Services, Inc. She has significant experience in the energy services industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Quanta Services, Inc.",
+      "ticker": "PWR",
+      "exchange": "NYSE",
+      "website": "https://www.quantaservices.com",
+      "title": "Independent Director",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Investment Committee"
+  ],
+  "age": 53,
+  "ageYear": 2024
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Nancy Gioia",
+  "name": "Nancy Gioia",
+  "background": "Ms. Gioia has served as a director since 2021. She retired from Ford Motor Company in 2014 after 33 years, where she served as Director of Global Electrification. She also serves on the board of Brady Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lucid Group, Inc.",
+      "ticker": "LCID",
+      "exchange": "NASDAQ",
+      "website": "https://www.lucidmotors.com",
+      "title": "Director",
+      "startDate": "2021-02-01",
+      "endDate": null,
+      "formattedStartDate": "2021 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Garett Macdonald",
+  "name": "Garett Macdonald",
+  "background": "Mr. Macdonald is a professional engineer with over 25 years of experience in mine development and operations. He is currently the President and CEO of Maritime Resources Corp.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Electra Battery Materials Corporation",
+      "ticker": "ELBM",
+      "exchange": "TSX",
+      "website": "https://electrabmc.com",
+      "title": "Independent Director",
+      "startDate": "2018-11-01",
+      "endDate": null,
+      "formattedStartDate": "2018 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee (Chair)",
+    "Technical Committee"
+  ],
+  "age": 49,
+  "ageYear": 2024
+}

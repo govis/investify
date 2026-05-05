@@ -1,0 +1,38 @@
+{
+  "id": "Elizabeth Freele",
+  "name": "Elizabeth Freele",
+  "background": "Ms. Freele is the Vice President, Sustainability and Chief ESG Officer. She is a sustainability professional with over 15 years of experience in the natural resources sector, specializing in ESG strategy, risk management, and stakeholder engagement.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Denison Mines Corp.",
+      "ticker": "DNN",
+      "exchange": "NYSE",
+      "website": "https://denisonmines.com",
+      "title": "Vice President, Sustainability and Chief ESG Officer",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Denison Mines Corp.",
+      "ticker": "DNN",
+      "exchange": "TSX",
+      "website": "https://denisonmines.com",
+      "title": "Chief Sustainability Officer",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "formattedStartDate": "2023 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 38,
+  "ageYear": 2024
+}

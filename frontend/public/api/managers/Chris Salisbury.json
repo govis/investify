@@ -1,0 +1,29 @@
+{
+  "id": "Chris Salisbury",
+  "name": "Chris Salisbury",
+  "background": "Mr. Salisbury is a highly experienced mining executive with over 30 years' experience across senior operational and strategic leadership roles. He was previously Chief Executive of Rio Tinto Iron Ore.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Deep Yellow Limited",
+      "ticker": "DYL",
+      "exchange": "ASX",
+      "website": "https://deepyellow.com.au",
+      "title": "Non-Executive Chairman",
+      "startDate": "2021-05-12",
+      "endDate": null,
+      "formattedStartDate": "2021 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Remuneration Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

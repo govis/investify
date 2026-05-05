@@ -1,0 +1,29 @@
+{
+  "id": "William Gipson",
+  "name": "William Gipson",
+  "background": "Retired President, Enterprise Packaging Transformation, The Procter & Gamble Company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Rockwell Automation, Inc.",
+      "ticker": "ROK",
+      "exchange": "NYSE",
+      "website": "https://www.rockwellautomation.com",
+      "title": "Independent Director",
+      "startDate": "2020-11-01",
+      "endDate": null,
+      "formattedStartDate": "2020 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Technology Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

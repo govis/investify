@@ -1,0 +1,27 @@
+{
+  "id": "Heath Monesmith",
+  "name": "Heath Monesmith",
+  "background": "Heath Monesmith is President and Chief Operating Officer, Electrical Sector. He was appointed to this role in 2022. Previously, he served as President and Chief Operating Officer, Industrial Sector, and as Executive Vice President and General Counsel.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Eaton Corporation plc",
+      "ticker": "ETN",
+      "exchange": "NYSE",
+      "website": "https://www.eaton.com",
+      "title": "President and Chief Operating Officer, Electrical Sector",
+      "startDate": "2022-07-01",
+      "endDate": null,
+      "formattedStartDate": "2022 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 53,
+  "ageYear": 2024
+}

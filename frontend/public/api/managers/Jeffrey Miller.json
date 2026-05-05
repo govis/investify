@@ -1,0 +1,29 @@
+{
+  "id": "Jeffrey Miller",
+  "name": "Jeffrey Miller",
+  "background": "President and CEO of JAMM Ventures.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "ServiceNow, Inc.",
+      "ticker": "NOW",
+      "exchange": "NYSE",
+      "website": "https://www.servicenow.com",
+      "title": "Independent Director",
+      "startDate": "2011-02-01",
+      "endDate": null,
+      "formattedStartDate": "2011 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Leadership Development and Compensation Committee",
+    "Nominating and Governance Committee"
+  ],
+  "age": 67,
+  "ageYear": 2024
+}

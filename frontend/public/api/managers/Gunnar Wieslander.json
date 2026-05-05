@@ -1,0 +1,27 @@
+{
+  "id": "Gunnar Wieslander",
+  "name": "Gunnar Wieslander",
+  "background": "Head of Business Area Kockums. Joined Saab in 2015. Former Rear Admiral in the Swedish Navy and State Secretary.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Saab Aktiebolag",
+      "ticker": "SAAB",
+      "exchange": "STO",
+      "website": "https://www.saab.com",
+      "title": "Head of Business Area Kockums",
+      "startDate": "2015-09-01",
+      "endDate": null,
+      "formattedStartDate": "2015 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 60,
+  "ageYear": 2024
+}

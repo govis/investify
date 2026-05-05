@@ -1,0 +1,26 @@
+{
+  "id": "Tim Campbell",
+  "name": "Tim Campbell",
+  "background": "Mr. Campbell has over 25 years of experience in the mining sector, focusing on corporate development, regulatory compliance, and investor relations.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Global Atomic Corporation",
+      "ticker": "GLO",
+      "exchange": "TSX",
+      "website": "https://globalatomiccorp.com",
+      "title": "Vice President, ESG and Corporate Secretary",
+      "startDate": "2017-12-22",
+      "endDate": null,
+      "formattedStartDate": "2017 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

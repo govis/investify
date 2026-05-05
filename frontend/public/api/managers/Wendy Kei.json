@@ -1,0 +1,42 @@
+{
+  "id": "Wendy Kei",
+  "name": "Wendy Kei",
+  "background": "Ms. Kei is a corporate director and was formerly the CFO of Dominion Diamond Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Centerra Gold Inc.",
+      "ticker": "CGAU",
+      "exchange": "NYSE",
+      "website": "https://www.centerragold.com",
+      "title": "Independent Director",
+      "startDate": "2022-05-01",
+      "endDate": null,
+      "formattedStartDate": "2022 May",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Karora Resources Inc.",
+      "ticker": "KRR",
+      "exchange": "TSX",
+      "website": "https://www.karoraresources.com",
+      "title": "Independent Director",
+      "startDate": "2021-06-15",
+      "endDate": null,
+      "formattedStartDate": "2021 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Audit Committee (Chair)",
+    "Corporate Governance and Nominating Committee",
+    "Sustainable Development Committee"
+  ],
+  "age": 51,
+  "ageYear": 2024
+}

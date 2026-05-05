@@ -1,0 +1,29 @@
+{
+  "id": "Steven Sonnenberg",
+  "name": "Steven Sonnenberg",
+  "background": "Former Chairman of Emerson Process Management.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Steel Dynamics, Inc.",
+      "ticker": "STLD",
+      "exchange": "NASDAQ",
+      "website": "https://www.steeldynamics.com",
+      "title": "Independent Director",
+      "startDate": "2018-05",
+      "endDate": null,
+      "formattedStartDate": "2018 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

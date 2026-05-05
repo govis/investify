@@ -1,0 +1,30 @@
+{
+  "id": "Dorothy Thompson",
+  "name": "Dorothy Thompson",
+  "background": "Retired Chief Executive Officer of Drax Group plc. She served as CEO from 2005 to 2017.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Eaton Corporation plc",
+      "ticker": "ETN",
+      "exchange": "NYSE",
+      "website": "https://www.eaton.com",
+      "title": "Independent Director",
+      "startDate": "2016-01-01",
+      "endDate": null,
+      "formattedStartDate": "2016 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Finance"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

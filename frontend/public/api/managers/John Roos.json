@@ -1,0 +1,28 @@
+{
+  "id": "John Roos",
+  "name": "John Roos",
+  "background": "Former U.S. Ambassador to Japan. He has served as a Director since 2013.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Salesforce, Inc.",
+      "ticker": "CRM",
+      "exchange": "NYSE",
+      "website": "https://www.salesforce.com",
+      "title": "Independent Director",
+      "startDate": "2013-09-01",
+      "endDate": null,
+      "formattedStartDate": "2013 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

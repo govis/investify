@@ -1,0 +1,26 @@
+{
+  "id": "Francois Motte",
+  "name": "Francois Motte",
+  "background": "Mr. Motte has over 15 years of experience in financial management and corporate finance, previously serving in senior roles at Hochschild Mining.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Aclara Resources Inc.",
+      "ticker": "ARA",
+      "exchange": "TSX",
+      "website": "https://www.aclara.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2021-10-01",
+      "endDate": null,
+      "formattedStartDate": "2021 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 45,
+  "ageYear": 2024
+}

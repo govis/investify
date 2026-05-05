@@ -1,0 +1,26 @@
+{
+  "id": "Brad Greve",
+  "name": "Brad Greve",
+  "background": "Brad joined the Company in 2019 and was appointed Group Finance Director in 2020. He has extensive experience in the oil and gas industry, having held senior roles at Schlumberger.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "BAE Systems plc",
+      "ticker": "BA",
+      "exchange": "LSE",
+      "website": "https://www.baesystems.com",
+      "title": "Group Finance Director",
+      "startDate": "2020-04-01",
+      "endDate": null,
+      "formattedStartDate": "2020 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 56,
+  "ageYear": 2024
+}

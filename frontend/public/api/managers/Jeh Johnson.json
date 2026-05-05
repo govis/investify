@@ -1,0 +1,29 @@
+{
+  "id": "Jeh Johnson",
+  "name": "Jeh Johnson",
+  "background": "Partner at Paul, Weiss, Rifkind, Wharton & Garrison LLP and former U.S. Secretary of Homeland Security.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lockheed Martin Corporation",
+      "ticker": "LMT",
+      "exchange": "NYSE",
+      "website": "https://www.lockheedmartin.com",
+      "title": "Independent Director",
+      "startDate": "2018-01-01",
+      "endDate": null,
+      "formattedStartDate": "2018 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Classified Business and Security Committee",
+    "Ethics and Sustainability Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

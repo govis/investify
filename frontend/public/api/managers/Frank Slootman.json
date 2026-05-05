@@ -1,0 +1,26 @@
+{
+  "id": "Frank Slootman",
+  "name": "Frank Slootman",
+  "background": "Frank Slootman has served as Chairman of our board of directors since 2019. He served as our Chief Executive Officer from 2019 to February 2024. Previously, he was Chairman and CEO of ServiceNow and Data Domain.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Snowflake Inc.",
+      "ticker": "SNOW",
+      "exchange": "NYSE",
+      "website": "https://www.snowflake.com",
+      "title": "Chairman of the Board",
+      "startDate": "2019-04-26",
+      "endDate": null,
+      "formattedStartDate": "2019 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 65,
+  "ageYear": 2024
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Sandra Dodds",
+  "name": "Sandra Dodds",
+  "background": "Ms. Dodds has over 25 years of experience in operational and financial roles across various industries including infrastructure and mining services.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC",
+      "exchange": "TSX",
+      "website": "https://oceanagold.com",
+      "title": "Independent Director",
+      "startDate": "2022-09-01",
+      "endDate": null,
+      "formattedStartDate": "2022 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and People Committee"
+  ],
+  "age": 56,
+  "ageYear": 2024
+}

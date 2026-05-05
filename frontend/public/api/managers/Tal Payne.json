@@ -1,0 +1,28 @@
+{
+  "id": "Tal Payne",
+  "name": "Tal Payne",
+  "background": "Ms. Payne has served as a director since 2015. She is the Chief Financial and Operations Officer of Check Point Software Technologies Ltd.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "SolarEdge Technologies, Inc.",
+      "ticker": "SEDG",
+      "exchange": "NASDAQ",
+      "website": "https://www.solaredge.com",
+      "title": "Director",
+      "startDate": "2015-02-01",
+      "endDate": null,
+      "formattedStartDate": "2015 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 52,
+  "ageYear": 2024
+}

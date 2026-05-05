@@ -1,0 +1,26 @@
+{
+  "id": "Miles Thompson",
+  "name": "Miles Thompson",
+  "background": "Mr. Thompson is a geologist with over 30 years of experience in the mining industry. He is the founder and Chairman of Lara Exploration Ltd. and has been involved in the discovery and development of several mineral deposits.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Forsys Metals Corp.",
+      "ticker": "FSY",
+      "exchange": "TSX",
+      "website": "https://forsysmetals.com",
+      "title": "Director",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 58,
+  "ageYear": 2024
+}

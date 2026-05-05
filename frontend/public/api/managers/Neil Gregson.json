@@ -1,0 +1,41 @@
+{
+  "id": "Neil Gregson",
+  "name": "Neil Gregson",
+  "background": "Mr. Gregson has over 30 years of experience in the investment management industry, specializing in the mining and energy sectors. He was previously a portfolio manager at J.P. Morgan Asset Management.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Uranium Royalty Corp.",
+      "ticker": "UROY",
+      "exchange": "NASDAQ",
+      "website": "https://www.uraniumroyalty.com",
+      "title": "Independent Director",
+      "startDate": "2021-10-01",
+      "endDate": null,
+      "formattedStartDate": "2021 October",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Uranium Royalty Corp.",
+      "ticker": "UROY",
+      "exchange": "TSX",
+      "website": "https://www.uraniumroyalty.com/",
+      "title": "Independent Director",
+      "startDate": "2019-10-01",
+      "endDate": null,
+      "formattedStartDate": "2019 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

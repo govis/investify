@@ -1,0 +1,29 @@
+{
+  "id": "Neil Woodyer",
+  "name": "Neil Woodyer",
+  "background": "CEO of Aris Mining. Founder and former CEO of Endeavour Mining and Leagold Mining.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Equinox Gold Corp.",
+      "ticker": "EQX",
+      "exchange": "NYSE",
+      "website": "https://www.equinoxgold.com",
+      "title": "Independent Director",
+      "startDate": "2020-03-10",
+      "endDate": null,
+      "formattedStartDate": "2020 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Governance and Nominating Committee (Chair)"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

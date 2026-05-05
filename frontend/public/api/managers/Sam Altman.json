@@ -1,0 +1,26 @@
+{
+  "id": "Sam Altman",
+  "name": "Sam Altman",
+  "background": "Sam Altman served as the Chief Executive Officer and a director of AltC. He is the Chief Executive Officer and a member of the board of directors of OpenAI. He was previously the President of Y Combinator.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Oklo Inc.",
+      "ticker": "OKLO",
+      "exchange": "NYSE",
+      "website": "https://oklo.com",
+      "title": "Chairman",
+      "startDate": "2021-07-01",
+      "endDate": null,
+      "formattedStartDate": "2021 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 39,
+  "ageYear": 2024
+}

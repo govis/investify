@@ -1,0 +1,29 @@
+{
+  "id": "Vanessa Wittman",
+  "name": "Vanessa Wittman",
+  "background": "Vanessa Wittman has served as a member of our board of directors since May 2021. Ms. Wittman served as the Chief Financial Officer of Glossier, Inc. from April 2019 to May 2022.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Fastly, Inc.",
+      "ticker": "FSLY",
+      "exchange": "NYSE",
+      "website": "https://www.fastly.com",
+      "title": "Director",
+      "startDate": "2021-05-01",
+      "endDate": null,
+      "formattedStartDate": "2021 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 56,
+  "ageYear": 2024
+}

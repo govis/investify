@@ -1,0 +1,30 @@
+{
+  "id": "Jeffery Scott",
+  "name": "Jeffery Scott",
+  "background": "Mr. Scott has over 30 years of experience in the energy and resource sectors. He has served as a director and officer of numerous public and private companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Atha Energy Corp.",
+      "ticker": "SASK",
+      "exchange": "TSX",
+      "website": "https://www.athaenergy.com",
+      "title": "Independent Director",
+      "startDate": "2023-01-12",
+      "endDate": null,
+      "formattedStartDate": "2023 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

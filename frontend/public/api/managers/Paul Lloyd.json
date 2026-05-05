@@ -1,0 +1,41 @@
+{
+  "id": "Paul Lloyd",
+  "name": "Paul Lloyd",
+  "background": "Paul Lloyd is a Chartered Accountant with over 30 years' experience in corporate finance and the resources industry. He has been involved in the listing of several exploration and mining companies on the ASX and has served as a director and chairman of various listed entities.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Alligator Energy Limited",
+      "ticker": "AGE",
+      "exchange": "ASX",
+      "website": "https://www.alligatorenergy.com.au",
+      "title": "Non-Executive Chairman",
+      "startDate": "2010-10-15",
+      "endDate": null,
+      "formattedStartDate": "2010 October",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Critical Metals Corp.",
+      "ticker": "CRML",
+      "exchange": "NASDAQ",
+      "website": "https://criticalmetalscorp.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2024-02-27",
+      "endDate": null,
+      "formattedStartDate": "2024 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "age": 54,
+  "ageYear": 2024
+}

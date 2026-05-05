@@ -1,0 +1,31 @@
+{
+  "name": "Dana Rao",
+  "first_name": "Dana",
+  "last_name": "Rao",
+  "age": 54,
+  "age_year": 2024,
+  "background": "Mr. Rao has served as Executive Vice President, General Counsel and Chief Trust Officer since June 2018. He joined Adobe in 2012.",
+  "picture_url": "https://www.thomsonreuters.com/en-us/posts/wp-content/uploads/sites/20/2021/10/Dana-Rao_Adobe-scaled.jpg",
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dana-rao"
+    }
+  ],
+  "committees": [],
+  "companies": [
+    {
+      "name": "Adobe Inc.",
+      "ticker": "ADBE",
+      "exchange": "NASDAQ",
+      "title_or_role": "Executive Vice President, General Counsel and Chief Trust Officer",
+      "start_date": "2018-06-01",
+      "end_date": null
+    }
+  ],
+  "picture_local": "Picture.jpg",
+  "enrichment_status": "success"
+}

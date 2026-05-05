@@ -1,0 +1,28 @@
+{
+  "id": "Susan Carter",
+  "name": "Susan Carter",
+  "background": "Susan K. Carter has served as a director since 2020. She previously served as Senior Vice President and Chief Financial Officer of Ingersoll Rand plc from 2013 to 2020.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "ON Semiconductor Corporation",
+      "ticker": "ON",
+      "exchange": "NASDAQ",
+      "website": "https://www.onsemi.com",
+      "title": "Independent Director",
+      "startDate": "2020-10-01",
+      "endDate": null,
+      "formattedStartDate": "2020 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

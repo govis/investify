@@ -1,0 +1,39 @@
+{
+  "id": "Teresa Briggs",
+  "name": "Teresa Briggs",
+  "background": "Former Vice Chair and West Region Managing Partner of Deloitte LLP.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "ServiceNow, Inc.",
+      "ticker": "NOW",
+      "exchange": "NYSE",
+      "website": "https://www.servicenow.com",
+      "title": "Independent Director",
+      "startDate": "2019-03-01",
+      "endDate": null,
+      "formattedStartDate": "2019 March",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Snowflake Inc.",
+      "ticker": "SNOW",
+      "exchange": "NYSE",
+      "website": "https://www.snowflake.com",
+      "title": "Independent Director",
+      "startDate": "2020-03-01",
+      "endDate": null,
+      "formattedStartDate": "2020 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

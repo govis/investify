@@ -1,0 +1,30 @@
+{
+  "id": "Richard Beyer",
+  "name": "Richard Beyer",
+  "background": "Mr. Beyer was the Chairman and CEO of Freescale Semiconductor, Inc. and has held executive roles at Intersil Corporation and Elantec Semiconductor.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Micron Technology, Inc.",
+      "ticker": "MU",
+      "exchange": "NASDAQ",
+      "website": "https://www.micron.com",
+      "title": "Independent Director",
+      "startDate": "2013-01-01",
+      "endDate": null,
+      "formattedStartDate": "2013 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Governance and Sustainability Committee"
+  ],
+  "age": 75,
+  "ageYear": 2023
+}

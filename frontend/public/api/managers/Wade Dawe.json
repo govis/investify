@@ -1,0 +1,30 @@
+{
+  "id": "Wade Dawe",
+  "name": "Wade Dawe",
+  "background": "Mr. Dawe is an experienced entrepreneur and financier based in Halifax, Nova Scotia. He has founded and served as an executive and director of several successful companies in the mining and technology sectors.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Fortune Bay Corp.",
+      "ticker": "FOR",
+      "exchange": "TSX",
+      "website": "https://fortunebaycorp.com",
+      "title": "Chairman",
+      "startDate": "2016-02-04",
+      "endDate": null,
+      "formattedStartDate": "2016 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 54,
+  "ageYear": 2024
+}

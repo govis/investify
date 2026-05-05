@@ -1,0 +1,30 @@
+{
+  "id": "Judy Bruner",
+  "name": "Judy Bruner",
+  "background": "Judy Bruner was Executive Vice President and Chief Financial Officer of SanDisk Corporation from 2004 until its acquisition by Western Digital in 2016.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Applied Materials, Inc.",
+      "ticker": "AMAT",
+      "exchange": "NASDAQ",
+      "website": "https://www.appliedmaterials.com",
+      "title": "Independent Director",
+      "startDate": "2016-01-01",
+      "endDate": null,
+      "formattedStartDate": "2016 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

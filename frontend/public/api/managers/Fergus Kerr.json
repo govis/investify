@@ -1,0 +1,26 @@
+{
+  "id": "Fergus Kerr",
+  "name": "Fergus Kerr",
+  "background": "Mr. Kerr is a Professional Engineer with over 40 years of experience in the mining industry, specializing in underground mining operations.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Global Atomic Corporation",
+      "ticker": "GLO",
+      "exchange": "TSX",
+      "website": "https://globalatomiccorp.com",
+      "title": "Vice President, Operations",
+      "startDate": "2017-12-22",
+      "endDate": null,
+      "formattedStartDate": "2017 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 71,
+  "ageYear": 2024
+}

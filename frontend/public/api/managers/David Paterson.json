@@ -1,0 +1,26 @@
+{
+  "id": "David Paterson",
+  "name": "David Paterson",
+  "background": "David Paterson is a qualified chartered accountant and graduate of the University of Queensland. He has been involved in the corporate sector for over 40 years, with experience in corporate advisory, financial management, and the mining industry. He has held various directorships in listed and unlisted companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Latrobe Magnesium Limited",
+      "ticker": "LMG",
+      "exchange": "ASX",
+      "website": "https://www.latrobemagnesium.com",
+      "title": "Chief Executive Officer, Executive Director",
+      "startDate": "2002-08-23",
+      "endDate": null,
+      "formattedStartDate": "2002 August",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 68,
+  "ageYear": 2024
+}

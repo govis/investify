@@ -1,0 +1,27 @@
+{
+  "id": "Bradford Smith",
+  "name": "Bradford Smith",
+  "background": "Brad Smith is Microsoft’s vice chair and president. He leads a team of more than 1,500 business, legal and corporate affairs professionals located in 54 countries and operating in more than 120 nations.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "https://www.microsoft.com",
+      "title": "Vice Chair and President",
+      "startDate": "2021-09-01",
+      "endDate": null,
+      "formattedStartDate": "2021 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 65,
+  "ageYear": 2024
+}

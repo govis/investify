@@ -1,0 +1,26 @@
+{
+  "id": "Chris Reynolds",
+  "name": "Chris Reynolds",
+  "background": "Mr. Reynolds has over 30 years of experience in the mining industry. He joined Seabridge in 2007 and has served as Vice President, Finance and Chief Financial Officer since that time.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Seabridge Gold Inc.",
+      "ticker": "SA",
+      "exchange": "NYSE",
+      "website": "https://www.seabridgegold.com",
+      "title": "Vice President, Finance and Chief Financial Officer",
+      "startDate": "2007-01-01",
+      "endDate": null,
+      "formattedStartDate": "2007 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

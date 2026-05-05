@@ -1,0 +1,29 @@
+{
+  "id": "George Oliver",
+  "name": "George Oliver",
+  "background": "Chairman and CEO of Johnson Controls International plc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "RTX Corporation",
+      "ticker": "RTX",
+      "exchange": "NYSE",
+      "website": "https://www.rtx.com",
+      "title": "Independent Director",
+      "startDate": "2020-04-03",
+      "endDate": null,
+      "formattedStartDate": "2020 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Governance & Nominating",
+    "Human Capital & Compensation"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

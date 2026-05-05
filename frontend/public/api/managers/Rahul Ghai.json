@@ -1,0 +1,27 @@
+{
+  "id": "Rahul Ghai",
+  "name": "Rahul Ghai",
+  "background": "Mr. Ghai has served as Senior Vice President and CFO of GE since September 2023, and CFO of GE Aerospace since August 2022. He previously served as CFO of Otis Worldwide Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "General Electric Company",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "website": "https://www.geaerospace.com",
+      "title": "Senior Vice President and Chief Financial Officer, CFO, GE Aerospace",
+      "startDate": "2023-09-01",
+      "endDate": null,
+      "formattedStartDate": "2023 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 52,
+  "ageYear": 2024
+}

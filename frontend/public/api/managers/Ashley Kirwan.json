@@ -1,0 +1,27 @@
+{
+  "id": "Ashley Kirwan",
+  "name": "Ashley Kirwan",
+  "background": "Ms. Kirwan is a professional geologist with over 15 years of experience. She is the co-founder, President, and CEO of Orix Geoscience Inc. She has worked with numerous exploration and mining companies globally.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Dryden Gold Corp.",
+      "ticker": "DRY",
+      "exchange": "TSX",
+      "website": "https://drydengold.com",
+      "title": "Vice President, Exploration, Director",
+      "startDate": "2022-10-01",
+      "endDate": null,
+      "formattedStartDate": "2022 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 38,
+  "ageYear": 2024
+}

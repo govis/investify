@@ -1,0 +1,29 @@
+{
+  "id": "James Askew",
+  "name": "James Askew",
+  "background": "James Askew is a mining engineer with over 40 years of experience in the resources industry. He has served as a director and executive for numerous international mining companies and has extensive experience in technical and corporate management.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Syrah Resources Limited",
+      "ticker": "SYR",
+      "exchange": "ASX",
+      "website": "https://www.syrahresources.com.au",
+      "title": "Non-Executive Chairman",
+      "startDate": "2014-10-01",
+      "endDate": null,
+      "formattedStartDate": "2014 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "age": 76,
+  "ageYear": 2023
+}

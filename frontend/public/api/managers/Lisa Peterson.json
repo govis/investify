@@ -1,0 +1,27 @@
+{
+  "id": "Lisa Peterson",
+  "name": "Lisa Peterson",
+  "background": "Ms. Peterson is a CPA with over 15 years of experience in financial management and reporting. She previously served as Chief Financial Officer of several junior mining companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "First Mining Gold Corp.",
+      "ticker": "FF",
+      "exchange": "TSX",
+      "website": "https://firstmininggold.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2022-09-16",
+      "endDate": null,
+      "formattedStartDate": "2022 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 46,
+  "ageYear": 2024
+}

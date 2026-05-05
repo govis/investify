@@ -1,0 +1,28 @@
+{
+  "id": "Janet Wong",
+  "name": "Janet Wong",
+  "background": "Ms. Wong has served as a director since 2021. She is a retired partner with KPMG LLP. She also serves on the boards of Lumentum Holdings Inc. and Enviva Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lucid Group, Inc.",
+      "ticker": "LCID",
+      "exchange": "NASDAQ",
+      "website": "https://www.lucidmotors.com",
+      "title": "Director",
+      "startDate": "2021-02-01",
+      "endDate": null,
+      "formattedStartDate": "2021 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

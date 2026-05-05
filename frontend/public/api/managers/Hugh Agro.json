@@ -1,0 +1,26 @@
+{
+  "id": "Hugh Agro",
+  "name": "Hugh Agro",
+  "background": "Mr. Agro is a mining executive with over 30 years of experience in the mining industry. He was previously Executive Vice President, Strategic Development with Kinross Gold Corporation. Prior to Kinross, Mr. Agro was a mining investment banker with Deutsche Bank and a management consultant with Placer Dome. He is a Director of Fortitude Gold Corp. and a former Director of Victoria Gold Corp.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Revival Gold Inc.",
+      "ticker": "RVG",
+      "exchange": "TSX",
+      "website": "https://revival-gold.com",
+      "title": "President, Chief Executive Officer and Director",
+      "startDate": "2017-01-01",
+      "endDate": null,
+      "formattedStartDate": "2017 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 56,
+  "ageYear": 2024
+}

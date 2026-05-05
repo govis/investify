@@ -1,0 +1,30 @@
+{
+  "id": "Stephen Burke",
+  "name": "Stephen Burke",
+  "background": "Former CEO of NBCUniversal and former COO of Comcast Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "ticker": "JPM",
+      "exchange": "NYSE",
+      "website": "https://www.jpmorganchase.com",
+      "title": "Lead Independent Director",
+      "startDate": "2004-01-01",
+      "endDate": null,
+      "formattedStartDate": "2004 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation & Management Development Committee (Chair)",
+    "Corporate Governance & Nominating Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

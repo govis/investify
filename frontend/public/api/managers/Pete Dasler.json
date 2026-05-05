@@ -1,0 +1,29 @@
+{
+  "id": "Pete Dasler",
+  "name": "Pete Dasler",
+  "background": "Mr. Dasler is a Professional Geologist with over 40 years of experience in the mineral exploration and mining industry. He has served as a director and officer of several public mining companies and was the President and CEO of Canex Metals Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sitka Gold Corp.",
+      "ticker": "SIG",
+      "exchange": "TSX",
+      "website": "https://sitkagoldcorp.com",
+      "title": "Director",
+      "startDate": "2020-06-22",
+      "endDate": null,
+      "formattedStartDate": "2020 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

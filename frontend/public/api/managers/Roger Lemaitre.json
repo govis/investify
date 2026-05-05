@@ -1,0 +1,27 @@
+{
+  "id": "Roger Lemaitre",
+  "name": "Roger Lemaitre",
+  "background": "Mr. Lemaitre is a Professional Engineer and Geologist with more than 30 years of experience in the mining industry. He has held senior positions with several mining companies, including serving as President and CEO of UEX Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Consolidated Lithium Metals Inc.",
+      "ticker": "CLM",
+      "exchange": "TSXV",
+      "website": "https://consolidatedlithium.com/",
+      "title": "Vice President, Exploration",
+      "startDate": "2023-09-01",
+      "endDate": null,
+      "formattedStartDate": "2023 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Maura Kolb",
+  "name": "Maura Kolb",
+  "background": "Ms. Kolb is a professional geologist with over 15 years of experience in the mining industry. She previously served as the Director of Exploration for Treasury Metals and held various roles at Newmont's Musselwhite Mine. She holds a Master of Science in Geology.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Dryden Gold Corp.",
+      "ticker": "DRY",
+      "exchange": "TSX",
+      "website": "https://drydengold.com",
+      "title": "President",
+      "startDate": "2023-08-01",
+      "endDate": null,
+      "formattedStartDate": "2023 August",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 39,
+  "ageYear": 2024
+}

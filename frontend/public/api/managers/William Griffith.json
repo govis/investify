@@ -1,0 +1,27 @@
+{
+  "id": "William Griffith",
+  "name": "William Griffith",
+  "background": "Mr. Griffith has served as Senior Vice President and Chief Accounting Officer since 2021. He previously served as Vice President and Corporate Controller.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Jacobs Solutions Inc.",
+      "ticker": "J",
+      "exchange": "NYSE",
+      "website": "https://www.jacobs.com",
+      "title": "Senior Vice President and Chief Accounting Officer",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 52,
+  "ageYear": 2024
+}

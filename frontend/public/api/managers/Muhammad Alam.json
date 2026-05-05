@@ -1,0 +1,27 @@
+{
+  "id": "Muhammad Alam",
+  "name": "Muhammad Alam",
+  "background": "Muhammad Alam is a member of the Executive Board of SAP SE, leading SAP Product Engineering. He joined SAP in 2022 from Microsoft.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "SAP SE",
+      "ticker": "SAP",
+      "exchange": "NYSE",
+      "website": "https://www.sap.com",
+      "title": "Member of the Executive Board, SAP Product Engineering",
+      "startDate": "2024-04-01",
+      "endDate": null,
+      "formattedStartDate": "2024 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 50,
+  "ageYear": 2024
+}

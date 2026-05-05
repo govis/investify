@@ -1,0 +1,29 @@
+{
+  "id": "Robert Work",
+  "name": "Robert Work",
+  "background": "Former U.S. Deputy Secretary of Defense.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "RTX Corporation",
+      "ticker": "RTX",
+      "exchange": "NYSE",
+      "website": "https://www.rtx.com",
+      "title": "Independent Director",
+      "startDate": "2020-04-03",
+      "endDate": null,
+      "formattedStartDate": "2020 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Human Capital & Compensation",
+    "Public Policy & Corporate Responsibility"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

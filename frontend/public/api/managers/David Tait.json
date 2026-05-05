@@ -1,0 +1,26 @@
+{
+  "id": "David Tait",
+  "name": "David Tait",
+  "background": "Mr. Tait is the Chief Executive Officer of the World Gold Council and serves as a Director of the Sponsor. He has extensive experience in the financial services industry, including roles at Credit Suisse and UBS.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "SPDR Gold Trust",
+      "ticker": "GLD",
+      "exchange": "NYSE",
+      "website": "https://www.spdrgoldshares.com",
+      "title": "Director",
+      "startDate": "2018-11-01",
+      "endDate": null,
+      "formattedStartDate": "2018 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

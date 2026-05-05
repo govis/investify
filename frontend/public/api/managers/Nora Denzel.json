@@ -1,0 +1,29 @@
+{
+  "id": "Nora Denzel",
+  "name": "Nora Denzel",
+  "background": "Former Interim CEO of Outerwall Inc. and former executive at Intuit and HP. Director since 2014.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Advanced Micro Devices, Inc.",
+      "ticker": "AMD",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "title": "Independent Director",
+      "startDate": "2014-01-01",
+      "endDate": null,
+      "formattedStartDate": "2014 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation and Leadership Resources Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

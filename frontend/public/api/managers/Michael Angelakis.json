@@ -1,0 +1,29 @@
+{
+  "id": "Michael Angelakis",
+  "name": "Michael Angelakis",
+  "background": "Chairman and CEO of Atairos Group Inc. and former Vice Chairman and CFO of Comcast Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Exxon Mobil Corporation",
+      "ticker": "XOM",
+      "exchange": "NYSE",
+      "website": "https://www.exxonmobil.com",
+      "title": "Independent Director",
+      "startDate": "2021-03-01",
+      "endDate": null,
+      "formattedStartDate": "2021 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Finance Committee",
+    "Public Issues and Contributions Committee"
+  ],
+  "age": 59,
+  "ageYear": 2024
+}

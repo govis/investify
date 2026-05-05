@@ -1,0 +1,27 @@
+{
+  "id": "Daniel Pinto",
+  "name": "Daniel Pinto",
+  "background": "Mr. Pinto has been President and Chief Operating Officer since January 2022. He was Co-President and Co-Chief Operating Officer from 2018 to 2021 and CEO of the Corporate & Investment Bank from 2014 to 2024.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "ticker": "JPM",
+      "exchange": "NYSE",
+      "website": "https://www.jpmorganchase.com",
+      "title": "President and Chief Operating Officer",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "formattedStartDate": "2022 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

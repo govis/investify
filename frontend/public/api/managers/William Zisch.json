@@ -1,0 +1,29 @@
+{
+  "id": "William Zisch",
+  "name": "William Zisch",
+  "background": "Mr. Zisch has served as a director since 2020. He has over 40 years of experience in the mining industry, including roles at Newmont and Argonaut Gold.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Contango Ore, Inc.",
+      "ticker": "CTGO",
+      "exchange": "NYSE",
+      "website": "https://www.contangoore.com",
+      "title": "Independent Director",
+      "startDate": "2020-11-01",
+      "endDate": null,
+      "formattedStartDate": "2020 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 65,
+  "ageYear": 2023
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Forbes Gemmell",
+  "name": "Forbes Gemmell",
+  "background": "Mr. Gemmell has over 15 years of experience in the capital markets and mining industry. He previously served as Vice President, Corporate Development and Investor Relations at Discovery Silver. Prior to joining the company, he worked in equity research and investment banking focused on the mining sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Discovery Silver Corp.",
+      "ticker": "DSV",
+      "exchange": "TSX",
+      "website": "https://discoverysilver.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2023-09-01",
+      "endDate": null,
+      "formattedStartDate": "2023 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 42,
+  "ageYear": 2024
+}

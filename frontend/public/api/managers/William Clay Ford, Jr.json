@@ -1,0 +1,27 @@
+{
+  "id": "William Clay Ford, Jr",
+  "name": "William Clay Ford, Jr.",
+  "background": "Bill Ford is Executive Chair of Ford Motor Company. He has been a member of the Board since 1988 and served as CEO from 2001 to 2006.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "website": "https://www.ford.com",
+      "title": "Executive Chair",
+      "startDate": "2006-09-01",
+      "endDate": null,
+      "formattedStartDate": "2006 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 66,
+  "ageYear": 2024
+}

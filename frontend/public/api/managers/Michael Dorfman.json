@@ -1,0 +1,26 @@
+{
+  "id": "Michael Dorfman",
+  "name": "Michael Dorfman",
+  "background": "Mr. Dorfman is the Senior Vice President, Corporate Development. He has extensive experience in investment banking and corporate development within the mining sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Dundee Precious Metals Inc.",
+      "ticker": "DPM",
+      "exchange": "TSX",
+      "website": "https://www.dundeeprecious.com",
+      "title": "Senior Vice President, Corporate Development",
+      "startDate": "2018-01-01",
+      "endDate": null,
+      "formattedStartDate": "2018 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Jennifer Walter",
+  "name": "Jennifer Walter",
+  "background": "Ms. Walter was appointed Chief Financial Officer in 2018. She previously served as Vice President and Corporate Controller from 2013 to 2018. She joined the company in 2000.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Moog Inc.",
+      "ticker": "MOG",
+      "exchange": "A.NYSE",
+      "website": "https://www.moog.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 54,
+  "ageYear": 2024
+}

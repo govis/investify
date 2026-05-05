@@ -1,0 +1,27 @@
+{
+  "id": "Shyam Sankar",
+  "name": "Shyam Sankar",
+  "background": "Mr. Sankar has served as our Chief Technology Officer since 2022. He previously served as our Chief Operating Officer from 2010 to 2022. Mr. Sankar joined Palantir in 2006. Mr. Sankar holds a B.S. in Electrical and Computer Engineering from Cornell University and an M.S. in Management Science and Engineering from Stanford University.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Palantir Technologies Inc.",
+      "ticker": "PLTR",
+      "exchange": "NYSE",
+      "website": "https://www.palantir.com",
+      "title": "Chief Technology Officer",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "formattedStartDate": "2022 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 42,
+  "ageYear": 2024
+}

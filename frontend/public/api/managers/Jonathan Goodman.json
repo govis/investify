@@ -1,0 +1,26 @@
+{
+  "id": "Jonathan Goodman",
+  "name": "Jonathan Goodman",
+  "background": "Mr. Goodman is the Executive Chair of the Board. He has over 30 years of experience in the resource and investment sectors. He is also the President and CEO of Dundee Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Dundee Precious Metals Inc.",
+      "ticker": "DPM",
+      "exchange": "TSX",
+      "website": "https://www.dundeeprecious.com",
+      "title": "Executive Chair",
+      "startDate": "2013-01-01",
+      "endDate": null,
+      "formattedStartDate": "2013 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Andrew Murphy",
+  "name": "Andrew Murphy",
+  "background": "Vice President of Van Eck Associates Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "VanEck Uranium and Nuclear Energy ETF",
+      "ticker": "NLR",
+      "exchange": "NYSE",
+      "website": "https://www.vaneck.com/us/en/investments/uranium-nuclear-energy-etf-nlr/",
+      "title": "Secretary, Vice President",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "formattedStartDate": "2022 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 44,
+  "ageYear": 2024
+}

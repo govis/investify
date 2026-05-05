@@ -1,0 +1,26 @@
+{
+  "id": "Michael Eastwood",
+  "name": "Michael Eastwood",
+  "background": "Chief Financial Officer of Thomson Reuters since March 2020. Previously served as Senior Vice President and Head of Corporate Finance.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Thomson Reuters Corporation",
+      "ticker": "TRI",
+      "exchange": "NYSE",
+      "website": "https://www.thomsonreuters.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2020-03-15",
+      "endDate": null,
+      "formattedStartDate": "2020 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

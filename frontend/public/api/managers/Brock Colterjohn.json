@@ -1,0 +1,27 @@
+{
+  "id": "Brock Colterjohn",
+  "name": "Brock Colterjohn",
+  "background": "Mr. Colterjohn has over 10 years of experience in the mining industry, including roles in corporate development and investor relations. He was previously with HighGold Mining Inc. and has a background in capital markets.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Onyx Gold Corp.",
+      "ticker": "ONYX",
+      "exchange": "TSX",
+      "website": "https://onyxgold.com",
+      "title": "Director, President and Chief Executive Officer",
+      "startDate": "2023-06-01",
+      "endDate": null,
+      "formattedStartDate": "2023 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 38,
+  "ageYear": 2024
+}

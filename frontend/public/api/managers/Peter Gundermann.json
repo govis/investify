@@ -1,0 +1,29 @@
+{
+  "id": "Peter Gundermann",
+  "name": "Peter Gundermann",
+  "background": "Mr. Gundermann is the President and CEO of Astronics Corporation. He has served as a director since 2014.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Moog Inc.",
+      "ticker": "MOG",
+      "exchange": "A.NYSE",
+      "website": "https://www.moog.com",
+      "title": "Independent Director",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Executive Compensation Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

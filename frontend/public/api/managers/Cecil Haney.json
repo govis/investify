@@ -1,0 +1,29 @@
+{
+  "id": "Cecil Haney",
+  "name": "Cecil Haney",
+  "background": "Admiral, U.S. Navy (Retired). Former Commander, U.S. Strategic Command.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "General Dynamics Corporation",
+      "ticker": "GD",
+      "exchange": "NYSE",
+      "website": "https://www.gd.com",
+      "title": "Director",
+      "startDate": "2019-01-01",
+      "endDate": null,
+      "formattedStartDate": "2019 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation",
+    "Finance"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

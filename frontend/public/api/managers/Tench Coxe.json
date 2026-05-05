@@ -1,0 +1,30 @@
+{
+  "id": "Tench Coxe",
+  "name": "Tench Coxe",
+  "background": "Former Managing Director of Sutter Hill Ventures.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "exchange": "NASDAQ",
+      "website": "https://www.nvidia.com",
+      "title": "Independent Director",
+      "startDate": "1993-01-01",
+      "endDate": null,
+      "formattedStartDate": "1993 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

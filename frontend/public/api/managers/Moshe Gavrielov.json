@@ -1,0 +1,30 @@
+{
+  "id": "Moshe Gavrielov",
+  "name": "Moshe Gavrielov",
+  "background": "Moshe Gavrielov is an Independent Director. He was the President and CEO of Xilinx, Inc. from 2008 to 2018. He has over 40 years of experience in the semiconductor industry, including roles at Cadence Design Systems and LSI Logic.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Taiwan Semiconductor Manufacturing Company Limited",
+      "ticker": "TSM",
+      "exchange": "NYSE",
+      "website": "https://www.tsmc.com",
+      "title": "Independent Director",
+      "startDate": "2018-06-05",
+      "endDate": null,
+      "formattedStartDate": "2018 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

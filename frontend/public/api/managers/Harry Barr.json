@@ -1,0 +1,27 @@
+{
+  "id": "Harry Barr",
+  "name": "Harry Barr",
+  "background": "Mr. Barr has been the Chairman and CEO of the Company since its inception. He has over 40 years of experience in the mining industry and has guided several companies from inception to production.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "New Age Metals Inc.",
+      "ticker": "NAM",
+      "exchange": "TSXV",
+      "website": "https://newagemetals.com",
+      "title": "Chairman and Chief Executive Officer",
+      "startDate": "1996-01-01",
+      "endDate": null,
+      "formattedStartDate": "1996 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 67,
+  "ageYear": 2024
+}

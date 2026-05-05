@@ -1,0 +1,26 @@
+{
+  "id": "Tiago Vaz",
+  "name": "Tiago Vaz",
+  "background": "Mr. Vaz is responsible for the company's operations and has a strong background in mining engineering and project management.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Aura Minerals Inc.",
+      "ticker": "AUGO",
+      "exchange": "TSX",
+      "website": "https://auraminerals.com/",
+      "title": "Chief Operating Officer",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "formattedStartDate": "2022 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 42,
+  "ageYear": 2024
+}

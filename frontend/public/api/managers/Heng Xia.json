@@ -1,0 +1,26 @@
+{
+  "id": "Heng Xia",
+  "name": "Heng Xia",
+  "background": "Mr. Xia is our co-founder and executive director. Prior to founding our company, Mr. Xia worked at the research and development center of Guangzhou Automobile Group Co., Ltd., where he was responsible for the development of control systems for electric vehicles and smart cars.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "XPeng Inc.",
+      "ticker": "XPEV",
+      "exchange": "NYSE",
+      "website": "https://www.xiaopeng.com",
+      "title": "Executive Director",
+      "startDate": "2015-01-01",
+      "endDate": null,
+      "formattedStartDate": "2015 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 40,
+  "ageYear": 2024
+}

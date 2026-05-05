@@ -1,0 +1,26 @@
+{
+  "id": "William Plummer",
+  "name": "William Plummer",
+  "background": "William B. Plummer has served as Executive Vice President and Chief Financial Officer since December 2008. He previously held senior finance roles at Dow Jones & Company and Alcoa.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "United Rentals, Inc.",
+      "ticker": "URI",
+      "exchange": "NYSE",
+      "website": "https://www.unitedrentals.com",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2008-12-01",
+      "endDate": null,
+      "formattedStartDate": "2008 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 65,
+  "ageYear": 2024
+}

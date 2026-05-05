@@ -1,0 +1,27 @@
+{
+  "id": "Alexander Bradley",
+  "name": "Alexander Bradley",
+  "background": "Mr. Bradley has served as our Chief Financial Officer since July 2016. He joined First Solar in 2008 and has held various roles in finance and corporate development.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "First Solar, Inc.",
+      "ticker": "FSLR",
+      "exchange": "NASDAQ",
+      "website": "https://www.firstsolar.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2016-07-01",
+      "endDate": null,
+      "formattedStartDate": "2016 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 47,
+  "ageYear": 2024
+}

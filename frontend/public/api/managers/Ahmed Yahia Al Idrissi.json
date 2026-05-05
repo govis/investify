@@ -1,0 +1,28 @@
+{
+  "id": "Ahmed Yahia Al Idrissi",
+  "name": "Ahmed Yahia Al Idrissi",
+  "background": "Chairman of the Board. He is the CEO of Direct Investments at Mubadala Investment Company. He has been a director since 2009.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "GlobalFoundries Inc.",
+      "ticker": "GFS",
+      "exchange": "NASDAQ",
+      "website": "https://gf.com",
+      "title": "Chairman",
+      "startDate": "2009-03-01",
+      "endDate": null,
+      "formattedStartDate": "2009 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Strategy Committee"
+  ],
+  "age": 57,
+  "ageYear": 2024
+}

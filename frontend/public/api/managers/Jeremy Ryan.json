@@ -1,0 +1,26 @@
+{
+  "id": "Jeremy Ryan",
+  "name": "Jeremy Ryan",
+  "background": "Mr Ryan is a legal professional with over 20 years’ experience in corporate and commercial law. He has held senior legal and company secretarial roles with several ASX-listed companies in the resources sector. He is a member of the Law Society of Western Australia.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Paladin Energy Ltd",
+      "ticker": "PDN",
+      "exchange": "ASX",
+      "website": "https://www.paladinenergy.com.au",
+      "title": "General Counsel and Company Secretary",
+      "startDate": "2021-08-23",
+      "endDate": null,
+      "formattedStartDate": "2021 August",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 45,
+  "ageYear": 2024
+}

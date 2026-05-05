@@ -1,0 +1,26 @@
+{
+  "id": "Matthew Roma",
+  "name": "Matthew Roma",
+  "background": "Mr. Roma is a Chartered Professional Accountant (CPA) with over 10 years of experience in financial reporting and corporate finance. He has served as CFO for several publicly traded companies in the resource sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Snowline Gold Corp.",
+      "ticker": "SGD",
+      "exchange": "TSX",
+      "website": "https://snowlinegold.com",
+      "title": "Chief Financial Officer and Corporate Secretary",
+      "startDate": "2021-02-25",
+      "endDate": null,
+      "formattedStartDate": "2021 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 36,
+  "ageYear": 2024
+}

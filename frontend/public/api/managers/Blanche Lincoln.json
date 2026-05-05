@@ -1,0 +1,29 @@
+{
+  "id": "Blanche Lincoln",
+  "name": "Blanche Lincoln",
+  "background": "Founder and Principal of Lincoln Policy Group. Former U.S. Senator from Arkansas.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Entergy Corporation",
+      "ticker": "ETR",
+      "exchange": "NYSE",
+      "website": "https://www.entergy.com",
+      "title": "Independent Director",
+      "startDate": "2011-01-01",
+      "endDate": null,
+      "formattedStartDate": "2011 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance",
+    "Finance"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

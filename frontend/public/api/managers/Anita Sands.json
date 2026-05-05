@@ -1,0 +1,54 @@
+{
+  "id": "Anita Sands",
+  "name": "Anita Sands",
+  "background": "Former Group Managing Director and Head of Change Leadership at UBS Financial Services. She joined the board in 2020.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "First Solar, Inc.",
+      "ticker": "FSLR",
+      "exchange": "NASDAQ",
+      "website": "https://www.firstsolar.com",
+      "title": "Independent Director",
+      "startDate": "2020-01-01",
+      "endDate": null,
+      "formattedStartDate": "2020 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "ServiceNow, Inc.",
+      "ticker": "NOW",
+      "exchange": "NYSE",
+      "website": "https://www.servicenow.com",
+      "title": "Independent Director",
+      "startDate": "2014-07-01",
+      "endDate": null,
+      "formattedStartDate": "2014 July",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Pure Storage, Inc.",
+      "ticker": "PSTG",
+      "exchange": "NYSE",
+      "website": "https://www.purestorage.com",
+      "title": "Independent Director",
+      "startDate": "2015-07",
+      "endDate": null,
+      "formattedStartDate": "2015 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee",
+    "Technology Committee"
+  ],
+  "age": 47,
+  "ageYear": 2024
+}

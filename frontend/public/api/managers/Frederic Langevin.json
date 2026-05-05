@@ -1,0 +1,26 @@
+{
+  "id": "Frederic Langevin",
+  "name": "Frederic Langevin",
+  "background": "Mr. Langevin is a mining engineer with over 15 years of experience in underground mining operations. He previously held roles at Goldcorp and Glencore.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Wesdome Gold Mines Ltd.",
+      "ticker": "WDO",
+      "exchange": "TSX",
+      "website": "https://www.wesdome.com",
+      "title": "Chief Operating Officer",
+      "startDate": "2023-09-01",
+      "endDate": null,
+      "formattedStartDate": "2023 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 43,
+  "ageYear": 2024
+}

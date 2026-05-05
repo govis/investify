@@ -1,0 +1,29 @@
+{
+  "id": "Ian Gibbs",
+  "name": "Ian Gibbs",
+  "background": "Mr. Gibbs is a Canadian Chartered Professional Accountant with over 25 years of experience in the resource sector. He has served as CFO for several public companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lundin Gold Inc.",
+      "ticker": "LUG",
+      "exchange": "TSX",
+      "website": "https://lundingold.com",
+      "title": "Independent Director",
+      "startDate": "2014-11-01",
+      "endDate": null,
+      "formattedStartDate": "2014 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 57,
+  "ageYear": 2024
+}

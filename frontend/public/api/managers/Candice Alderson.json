@@ -1,0 +1,26 @@
+{
+  "id": "Candice Alderson",
+  "name": "Candice Alderson",
+  "background": "Ms. Alderson is a lawyer with over 20 years of experience. She was previously the Senior Vice President, Infrastructure Strategy at Ledcor Group.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Artemis Gold Inc.",
+      "ticker": "ARTG",
+      "exchange": "TSX",
+      "website": "https://www.artemisgoldinc.com",
+      "title": "Senior Vice President, Corporate Affairs",
+      "startDate": "2021-06-01",
+      "endDate": null,
+      "formattedStartDate": "2021 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 49,
+  "ageYear": 2024
+}

@@ -1,0 +1,29 @@
+{
+  "id": "John Budreski",
+  "name": "John Budreski",
+  "background": "Executive Chairman of EnWave Corporation and former Managing Director and Head of Investment Banking for Cormark Securities Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sandstorm Gold Ltd.",
+      "ticker": "SAND",
+      "exchange": "NYSE",
+      "website": "https://www.sandstormgold.com",
+      "title": "Independent Director",
+      "startDate": "2013-01-01",
+      "endDate": null,
+      "formattedStartDate": "2013 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

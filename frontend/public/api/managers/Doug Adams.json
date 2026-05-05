@@ -1,0 +1,29 @@
+{
+  "id": "Doug Adams",
+  "name": "Doug Adams",
+  "background": "Mr. Adams has over 25 years of experience in the investment industry, specializing in the resource sector. He has held senior positions at several Canadian investment dealers.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Atha Energy Corp.",
+      "ticker": "SASK",
+      "exchange": "TSX",
+      "website": "https://www.athaenergy.com",
+      "title": "Independent Director",
+      "startDate": "2023-01-12",
+      "endDate": null,
+      "formattedStartDate": "2023 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 52,
+  "ageYear": 2024
+}

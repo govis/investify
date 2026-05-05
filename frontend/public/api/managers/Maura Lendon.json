@@ -1,0 +1,29 @@
+{
+  "id": "Maura Lendon",
+  "name": "Maura Lendon",
+  "background": "Ms. Lendon is a legal executive with over 30 years of experience. She was previously Chief General Counsel and Senior Vice President with Hudbay Minerals Inc. and held senior roles with Primero Mining Corp.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Revival Gold Inc.",
+      "ticker": "RVG",
+      "exchange": "TSX",
+      "website": "https://revival-gold.com",
+      "title": "Independent Director",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation, Governance and Nominating Committee"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

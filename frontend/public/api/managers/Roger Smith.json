@@ -1,0 +1,26 @@
+{
+  "id": "Roger Smith",
+  "name": "Roger Smith",
+  "background": "Mr. Smith has served as Chief Financial Officer since 2007 and as Chief Administrative Officer since 2011. He has over 35 years of experience in finance and accounting, primarily in the mining industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Ur-Energy Inc.",
+      "ticker": "URG",
+      "exchange": "NYSE",
+      "website": "https://www.ur-energy.com",
+      "title": "Chief Financial Officer, Chief Administrative Officer",
+      "startDate": "2007-05-01",
+      "endDate": null,
+      "formattedStartDate": "2007 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 63,
+  "ageYear": 2024
+}

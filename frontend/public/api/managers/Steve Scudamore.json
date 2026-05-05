@@ -1,0 +1,43 @@
+{
+  "id": "Steve Scudamore",
+  "name": "Steve Scudamore",
+  "background": "Steve Scudamore is an experienced non-executive director with a background in chartered accounting. He was a partner at KPMG for 28 years and specializes in audit, risk management, and corporate governance.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Pilbara Minerals Limited",
+      "ticker": "PLS",
+      "exchange": "ASX",
+      "website": "https://www.pilbaraminerals.com.au",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2016-07-18",
+      "endDate": null,
+      "formattedStartDate": "2016 July",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Regis Resources Limited",
+      "ticker": "RRL",
+      "exchange": "ASX",
+      "website": "https://regisresources.com.au",
+      "title": "Non-Executive Director",
+      "startDate": "2019-07-01",
+      "endDate": null,
+      "formattedStartDate": "2019 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Audit and Risk Committee (Chair)",
+    "People and Culture Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

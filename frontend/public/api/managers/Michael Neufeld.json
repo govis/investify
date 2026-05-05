@@ -1,0 +1,30 @@
+{
+  "id": "Michael Neufeld",
+  "name": "Michael Neufeld",
+  "background": "Extensive experience in corporate finance and strategic planning within the natural resources industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "United States Antimony Corporation",
+      "ticker": "USAR",
+      "exchange": "NYSE",
+      "website": "https://www.usantimony.com",
+      "title": "Independent Director",
+      "startDate": "2023-08-01",
+      "endDate": null,
+      "formattedStartDate": "2023 August",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

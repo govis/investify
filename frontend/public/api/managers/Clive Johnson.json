@@ -1,0 +1,26 @@
+{
+  "id": "Clive Johnson",
+  "name": "Clive Johnson",
+  "background": "Mr. Johnson is a founding director of B2Gold and has been the President and Chief Executive Officer since the company's inception in 2007. He was previously a founder of Bema Gold Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "B2Gold Corp.",
+      "ticker": "BTG",
+      "exchange": "NYSE",
+      "website": "https://www.b2gold.com",
+      "title": "Director, President and Chief Executive Officer",
+      "startDate": "2007-11-30",
+      "endDate": null,
+      "formattedStartDate": "2007 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 66,
+  "ageYear": 2024
+}

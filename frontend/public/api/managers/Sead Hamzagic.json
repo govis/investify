@@ -1,0 +1,38 @@
+{
+  "id": "Sead Hamzagic",
+  "name": "Sead Hamzagic",
+  "background": "Mr. Hamzagic is a Chartered Professional Accountant with over 30 years of experience in public practice and financial management for public companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "GoldHaven Resources Corp.",
+      "ticker": "GOH",
+      "exchange": "CSE",
+      "website": "https://goldhavenresources.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2020-02-20",
+      "endDate": null,
+      "formattedStartDate": "2020 February",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "GoldHaven Resources Corp.",
+      "ticker": "GOH",
+      "exchange": "TSX",
+      "website": "https://goldhavenresources.com/",
+      "title": "Chief Financial Officer",
+      "startDate": "2020-02-12",
+      "endDate": null,
+      "formattedStartDate": "2020 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 65,
+  "ageYear": 2024
+}

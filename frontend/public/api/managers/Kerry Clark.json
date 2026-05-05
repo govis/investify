@@ -1,0 +1,29 @@
+{
+  "id": "Kerry Clark",
+  "name": "Kerry Clark",
+  "background": "Retired Chairman and Chief Executive Officer of Cardinal Health, Inc. Former Vice Chairman of the Board of The Procter & Gamble Company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Textron Inc.",
+      "ticker": "TXT",
+      "exchange": "NYSE",
+      "website": "https://www.textron.com",
+      "title": "Director",
+      "startDate": "2003-01-01",
+      "endDate": null,
+      "formattedStartDate": "2003 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

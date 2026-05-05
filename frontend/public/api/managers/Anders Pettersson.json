@@ -1,0 +1,29 @@
+{
+  "id": "Anders Pettersson",
+  "name": "Anders Pettersson",
+  "background": "Mr. Pettersson has served as a non-executive director since 2021. He was previously the CEO of Thule Group and has held various board positions at companies like ZetaDisplay AB and Purem GmbH.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Wallbox N.V.",
+      "ticker": "WBX",
+      "exchange": "NYSE",
+      "website": "https://wallbox.com",
+      "title": "Non-Executive Director",
+      "startDate": "2021-10-01",
+      "endDate": null,
+      "formattedStartDate": "2021 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

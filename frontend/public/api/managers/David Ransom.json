@@ -1,0 +1,28 @@
+{
+  "id": "David Ransom",
+  "name": "David Ransom",
+  "background": "Dr. Ransom has over 45 years of experience in the mining industry as a geologist and consultant.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Perseus Mining Limited",
+      "ticker": "PRU",
+      "exchange": "ASX",
+      "website": "https://perseusmining.com/",
+      "title": "Non-Executive Director",
+      "startDate": "2019-11-29",
+      "endDate": null,
+      "formattedStartDate": "2019 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Technical Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

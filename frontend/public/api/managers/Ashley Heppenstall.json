@@ -1,0 +1,29 @@
+{
+  "id": "Ashley Heppenstall",
+  "name": "Ashley Heppenstall",
+  "background": "Mr. Heppenstall has over 30 years of experience in the oil and gas and resource sectors. He was the President and CEO of Lundin Petroleum AB from 2002 to 2015.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lundin Gold Inc.",
+      "ticker": "LUG",
+      "exchange": "TSX",
+      "website": "https://lundingold.com",
+      "title": "Independent Director",
+      "startDate": "2015-01-01",
+      "endDate": null,
+      "formattedStartDate": "2015 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

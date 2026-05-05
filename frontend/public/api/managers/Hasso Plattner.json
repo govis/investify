@@ -1,0 +1,27 @@
+{
+  "id": "Hasso Plattner",
+  "name": "Hasso Plattner",
+  "background": "Hasso Plattner is a co-founder of SAP and served as Chairman of the Supervisory Board until May 2024.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "SAP SE",
+      "ticker": "SAP",
+      "exchange": "NYSE",
+      "website": "https://www.sap.com",
+      "title": "Unknown Role",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 80,
+  "ageYear": 2024
+}

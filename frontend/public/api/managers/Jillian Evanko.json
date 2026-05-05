@@ -1,0 +1,28 @@
+{
+  "id": "Jillian Evanko",
+  "name": "Jillian Evanko",
+  "background": "President and Chief Executive Officer of Chart Industries, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Parker-Hannifin Corporation",
+      "ticker": "PH",
+      "exchange": "NYSE",
+      "website": "https://www.parker.com",
+      "title": "Independent Director",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "formattedStartDate": "2023 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 46,
+  "ageYear": 2024
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Kent Walker",
+  "name": "Kent Walker",
+  "background": "Kent Walker has served as President, Global Affairs and Chief Legal Officer of Alphabet and Google since 2021. He joined Google in 2006 and has held various roles, including Senior Vice President, Global Affairs and General Counsel.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Alphabet Inc.",
+      "ticker": "GOOGL",
+      "exchange": "NASDAQ",
+      "website": "https://abc.xyz",
+      "title": "President, Global Affairs and Chief Legal Officer",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 63,
+  "ageYear": 2024
+}

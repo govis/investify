@@ -1,0 +1,30 @@
+{
+  "id": "David Grain",
+  "name": "David Grain",
+  "background": "Founder and CEO of Grain Management, LLC. Former Lead Independent Director of Southern Company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "The Southern Company",
+      "ticker": "SO",
+      "exchange": "NYSE",
+      "website": "https://www.southerncompany.com",
+      "title": "Independent Director",
+      "startDate": "2012-01-01",
+      "endDate": null,
+      "formattedStartDate": "2012 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation and Management Succession (Chair)",
+    "Finance",
+    "Governance"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

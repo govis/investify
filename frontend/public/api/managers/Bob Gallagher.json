@@ -1,0 +1,29 @@
+{
+  "id": "Bob Gallagher",
+  "name": "Bob Gallagher",
+  "background": "Mr. Gallagher has over 40 years of experience in the mining industry. He was previously the President and CEO of New Gold Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Capstone Copper Corp.",
+      "ticker": "CS",
+      "exchange": "TSX",
+      "website": "https://capstonecopper.com",
+      "title": "Independent Director",
+      "startDate": "2016-01-01",
+      "endDate": null,
+      "formattedStartDate": "2016 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Human Resources and Compensation Committee",
+    "Technical and Operational Performance Committee"
+  ],
+  "age": 72,
+  "ageYear": 2024
+}

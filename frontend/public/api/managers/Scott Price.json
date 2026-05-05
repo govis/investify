@@ -1,0 +1,29 @@
+{
+  "id": "Scott Price",
+  "name": "Scott Price",
+  "background": "Mr. Price has over 25 years of experience in the mining industry, with a focus on project management and development. He has served as a director and officer of several public mining companies and has been involved in the development of several mineral projects in North America.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sitka Gold Corp.",
+      "ticker": "SIG",
+      "exchange": "TSX",
+      "website": "https://sitkagoldcorp.com",
+      "title": "Director",
+      "startDate": "2018-05-15",
+      "endDate": null,
+      "formattedStartDate": "2018 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

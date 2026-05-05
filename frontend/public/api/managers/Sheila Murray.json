@@ -1,0 +1,28 @@
+{
+  "id": "Sheila Murray",
+  "name": "Sheila Murray",
+  "background": "Sheila Murray is the Chair of the Board of Teck. She was previously President of CI Financial Corp. and is a corporate lawyer by training.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Teck Resources Limited",
+      "ticker": "TECK",
+      "exchange": "NYSE",
+      "website": "https://www.teck.com",
+      "title": "Chair of the Board",
+      "startDate": "2018-04-25",
+      "endDate": null,
+      "formattedStartDate": "2018 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

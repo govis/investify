@@ -1,0 +1,29 @@
+{
+  "id": "Michael Boskin",
+  "name": "Michael Boskin",
+  "background": "Tully M. Friedman Professor of Economics and Senior Fellow, Hoover Institution, Stanford University.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Oracle Corporation",
+      "ticker": "ORCL",
+      "exchange": "NYSE",
+      "website": "https://www.oracle.com",
+      "title": "Independent Director",
+      "startDate": "1994-04-01",
+      "endDate": null,
+      "formattedStartDate": "1994 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Nomination and Governance Committee"
+  ],
+  "age": 78,
+  "ageYear": 2024
+}

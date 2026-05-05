@@ -1,0 +1,30 @@
+{
+  "id": "John Stanton",
+  "name": "John Stanton",
+  "background": "Chairman of Trilogy Search Partners. Former Chairman and CEO of Western Wireless.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "https://www.microsoft.com",
+      "title": "Independent Director",
+      "startDate": "2014-07-01",
+      "endDate": null,
+      "formattedStartDate": "2014 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Governance and Nominating Committee"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

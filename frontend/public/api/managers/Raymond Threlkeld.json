@@ -1,0 +1,29 @@
+{
+  "id": "Raymond Threlkeld",
+  "name": "Raymond Threlkeld",
+  "background": "Mr. Threlkeld has over 40 years of experience in the mining industry. He was previously the President and CEO of Rainy River Resources and held senior roles at Barrick Gold.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Calibre Mining Corp.",
+      "ticker": "CXB",
+      "exchange": "TSX",
+      "website": "https://calibremining.com",
+      "title": "Director",
+      "startDate": "2019-10-15",
+      "endDate": null,
+      "formattedStartDate": "2019 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee (Chair)",
+    "Health, Safety, Environmental and Sustainability Committee"
+  ],
+  "age": 76,
+  "ageYear": 2024
+}

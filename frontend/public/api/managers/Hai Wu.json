@@ -1,0 +1,30 @@
+{
+  "id": "Hai Wu",
+  "name": "Hai Wu",
+  "background": "Managing director of Temasek Holdings Advisors (Beijing) Co., Ltd. since 2014. Former CEO of United Medical Systems and managing director of CITIC Private Equity Funds Management.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NIO Inc.",
+      "ticker": "NIO",
+      "exchange": "NYSE",
+      "website": "https://www.nio.com",
+      "title": "Independent Director",
+      "startDate": "2018-09-01",
+      "endDate": null,
+      "formattedStartDate": "2018 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 55,
+  "ageYear": 2024
+}

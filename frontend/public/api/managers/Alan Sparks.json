@@ -1,0 +1,28 @@
+{
+  "id": "Alan Sparks",
+  "name": "Alan Sparks",
+  "background": "Mr. Sparks is a Chartered Accountant with over 30 years of experience in the mining industry, including senior financial roles at Deloittes and various mining companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC",
+      "exchange": "ASX",
+      "website": "https://oceanagold.com",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2024-02-01",
+      "endDate": null,
+      "formattedStartDate": "2024 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

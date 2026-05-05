@@ -1,0 +1,28 @@
+{
+  "id": "Neal Wolkoff",
+  "name": "Neal Wolkoff",
+  "background": "Mr. Wolkoff is an Independent Director of the Sponsor. He is the former CEO of the American Stock Exchange and the New York Board of Trade.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "SPDR Gold Trust",
+      "ticker": "GLD",
+      "exchange": "NYSE",
+      "website": "https://www.spdrgoldshares.com",
+      "title": "Independent Director",
+      "startDate": "2013-01-01",
+      "endDate": null,
+      "formattedStartDate": "2013 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

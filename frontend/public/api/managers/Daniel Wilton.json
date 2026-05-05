@@ -1,0 +1,27 @@
+{
+  "id": "Daniel Wilton",
+  "name": "Daniel Wilton",
+  "background": "Mr. Wilton has 30 years of experience in the mining sector. He was previously a Partner at Pacific Road Capital Management and has held senior roles at CIBC World Markets and Goldman Sachs.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "First Mining Gold Corp.",
+      "ticker": "FF",
+      "exchange": "TSX",
+      "website": "https://firstmininggold.com",
+      "title": "Chief Executive Officer and Director",
+      "startDate": "2019-01-07",
+      "endDate": null,
+      "formattedStartDate": "2019 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 54,
+  "ageYear": 2024
+}

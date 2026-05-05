@@ -1,0 +1,29 @@
+{
+  "id": "David Stephens",
+  "name": "David Stephens",
+  "background": "Mr. Stephens is the VP of Corporate Development at Agnico Eagle Mines Limited.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Orla Mining Ltd.",
+      "ticker": "OLA",
+      "exchange": "TSX",
+      "website": "https://www.orlamining.com",
+      "title": "Independent Director",
+      "startDate": "2016-12-06",
+      "endDate": null,
+      "formattedStartDate": "2016 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 48,
+  "ageYear": 2024
+}

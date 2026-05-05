@@ -1,0 +1,26 @@
+{
+  "id": "Zachary Flood",
+  "name": "Zachary Flood",
+  "background": "Mr. Flood is a professional geologist with over 15 years of experience in mineral exploration. He is a co-founder of Kenorland Minerals Ltd. and has worked with Ivanhoe Mines and Rio Tinto.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Faraday Copper Corp.",
+      "ticker": "FDY",
+      "exchange": "TSX",
+      "website": "https://faradaycopper.com",
+      "title": "Vice President, Exploration and Director",
+      "startDate": "2021-03-01",
+      "endDate": null,
+      "formattedStartDate": "2021 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 40,
+  "ageYear": 2024
+}

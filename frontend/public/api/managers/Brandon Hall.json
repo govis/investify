@@ -1,0 +1,26 @@
+{
+  "id": "Brandon Hall",
+  "name": "Brandon Hall",
+  "background": "Mr. Hall is the Principal Financial and Accounting Officer of the Sponsor. He joined the World Gold Council in 2019 and was previously a Director at BlackRock.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "SPDR Gold Trust",
+      "ticker": "GLD",
+      "exchange": "NYSE",
+      "website": "https://www.spdrgoldshares.com",
+      "title": "Principal Financial and Accounting Officer",
+      "startDate": "2021-04-01",
+      "endDate": null,
+      "formattedStartDate": "2021 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 45,
+  "ageYear": 2024
+}

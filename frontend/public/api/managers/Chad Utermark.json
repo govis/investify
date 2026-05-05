@@ -1,0 +1,26 @@
+{
+  "id": "Chad Utermark",
+  "name": "Chad Utermark",
+  "background": "Mr. Utermark has served as Executive Vice President since 2014. He has been with Nucor since 1992.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Nucor Corporation",
+      "ticker": "NUE",
+      "exchange": "NYSE",
+      "website": "https://nucor.com",
+      "title": "Executive Vice President",
+      "startDate": "2014-05-01",
+      "endDate": null,
+      "formattedStartDate": "2014 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

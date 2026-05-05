@@ -1,0 +1,29 @@
+{
+  "id": "Catherine Reynolds",
+  "name": "Catherine Reynolds",
+  "background": "Chairman and CEO of the Catherine B. Reynolds Foundation. Former CEO of Educap Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "General Dynamics Corporation",
+      "ticker": "GD",
+      "exchange": "NYSE",
+      "website": "https://www.gd.com",
+      "title": "Director",
+      "startDate": "2004-01-01",
+      "endDate": null,
+      "formattedStartDate": "2004 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation",
+    "Governance"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

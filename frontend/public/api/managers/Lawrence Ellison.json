@@ -1,0 +1,27 @@
+{
+  "id": "Lawrence Ellison",
+  "name": "Lawrence Ellison",
+  "background": "Mr. Ellison has been Oracle’s Chairman of the Board and Chief Technology Officer since September 2014. He served as Oracle’s Chief Executive Officer from June 1977, when he founded Oracle, until September 2014.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Oracle Corporation",
+      "ticker": "ORCL",
+      "exchange": "NYSE",
+      "website": "https://www.oracle.com",
+      "title": "Chairman of the Board and Chief Technology Officer",
+      "startDate": "2014-09-01",
+      "endDate": null,
+      "formattedStartDate": "2014 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 80,
+  "ageYear": 2024
+}

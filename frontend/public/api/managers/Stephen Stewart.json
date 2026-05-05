@@ -1,0 +1,28 @@
+{
+  "id": "Stephen Stewart",
+  "name": "Stephen Stewart",
+  "background": "Mr. Stewart is the Chairman of the Orefinders Resources and Mistango River Resources. He has over 15 years of experience in the resource sector, focusing on corporate development and capital markets. He is also the founder of the Young Mining Professionals.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Baselode Energy Corp.",
+      "ticker": "FIND",
+      "exchange": "TSX",
+      "website": "https://baselode.com",
+      "title": "Chairman and Director",
+      "startDate": "2020-06-01",
+      "endDate": null,
+      "formattedStartDate": "2020 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 44,
+  "ageYear": 2024
+}

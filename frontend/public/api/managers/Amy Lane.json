@@ -1,0 +1,29 @@
+{
+  "id": "Amy Lane",
+  "name": "Amy Lane",
+  "background": "Retired managing director of Merrill Lynch & Co., Inc. Director since 2015.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NextEra Energy, Inc.",
+      "ticker": "NEE",
+      "exchange": "NYSE",
+      "website": "https://www.nexteraenergy.com",
+      "title": "Independent Director",
+      "startDate": "2015-01-01",
+      "endDate": null,
+      "formattedStartDate": "2015 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Finance & Investment (Chair)"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

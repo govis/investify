@@ -1,0 +1,29 @@
+{
+  "id": "John Donovan",
+  "name": "John Donovan",
+  "background": "Former CEO of AT&T Communications, LLC. He has served on our board since September 2021.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Palo Alto Networks, Inc.",
+      "ticker": "PANW",
+      "exchange": "NASDAQ",
+      "website": "https://www.paloaltonetworks.com",
+      "title": "Lead Independent Director",
+      "startDate": "2021-09-01",
+      "endDate": null,
+      "formattedStartDate": "2021 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

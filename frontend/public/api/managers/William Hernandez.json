@@ -1,0 +1,29 @@
+{
+  "id": "William Hernandez",
+  "name": "William Hernandez",
+  "background": "Former Senior Vice President and Chief Financial Officer of PPG Industries, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "website": "https://www.northropgrumman.com",
+      "title": "Independent Director",
+      "startDate": "2013-01-01",
+      "endDate": null,
+      "formattedStartDate": "2013 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Governance, Nominating and Sustainability Committee"
+  ],
+  "age": 75,
+  "ageYear": 2024
+}

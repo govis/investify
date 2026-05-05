@@ -1,0 +1,29 @@
+{
+  "id": "Stephen Page",
+  "name": "Stephen Page",
+  "background": "Mr. Page has served as a director since 2013. He previously served as Vice Chairman and Chief Financial Officer of United Technologies Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AeroVironment, Inc.",
+      "ticker": "AVAV",
+      "exchange": "NASDAQ",
+      "website": "https://www.avinc.com",
+      "title": "Director",
+      "startDate": "2013-01-01",
+      "endDate": null,
+      "formattedStartDate": "2013 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 84,
+  "ageYear": 2024
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Curtis Moore",
+  "name": "Curtis Moore",
+  "background": "Mr. Moore has served as the Senior Vice President of Marketing and Corporate Development since 2012. He is responsible for uranium and vanadium sales and marketing.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Energy Fuels Inc.",
+      "ticker": "UUUU",
+      "exchange": "NYSE",
+      "website": "https://www.energyfuels.com",
+      "title": "Senior Vice President of Marketing and Corporate Development",
+      "startDate": "2012-01-01",
+      "endDate": null,
+      "formattedStartDate": "2012 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 53,
+  "ageYear": 2024
+}

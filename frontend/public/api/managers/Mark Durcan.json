@@ -1,0 +1,43 @@
+{
+  "id": "Mark Durcan",
+  "name": "Mark Durcan",
+  "background": "Former CEO of Micron Technology, Inc. Director since 2017.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Advanced Micro Devices, Inc.",
+      "ticker": "AMD",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "title": "Independent Director",
+      "startDate": "2017-01-01",
+      "endDate": null,
+      "formattedStartDate": "2017 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "ASML Holding N.V.",
+      "ticker": "ASML",
+      "exchange": "NASDAQ",
+      "website": "https://www.asml.com",
+      "title": "Member of the Supervisory Board",
+      "startDate": "2020-04-22",
+      "endDate": null,
+      "formattedStartDate": "2020 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Compensation and Leadership Resources Committee",
+    "Remuneration Committee",
+    "Technology Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

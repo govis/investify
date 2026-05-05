@@ -1,0 +1,30 @@
+{
+  "id": "Catherine Lesjak",
+  "name": "Catherine Lesjak",
+  "background": "Former CFO of HP Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "General Electric Company",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "website": "https://www.geaerospace.com",
+      "title": "Independent Director",
+      "startDate": "2019-01-01",
+      "endDate": null,
+      "formattedStartDate": "2019 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Finance and Capital Allocation Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

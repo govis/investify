@@ -1,0 +1,41 @@
+{
+  "id": "Robert Lawless",
+  "name": "Robert Lawless",
+  "background": "Former Chairman, President and CEO of McCormick & Company, Inc. He served as Chairman of the Board of McCormick from 1997 to 2009.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Constellation Energy Corporation",
+      "ticker": "CEG",
+      "exchange": "NASDAQ",
+      "website": "https://www.constellationenergy.com",
+      "title": "Chairman of the Board",
+      "startDate": "2022-02-01",
+      "endDate": null,
+      "formattedStartDate": "2022 February",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Constellation Energy Corporation",
+      "ticker": "CEG",
+      "exchange": "NYSE",
+      "website": "https://www.constellationenergy.com",
+      "title": "Chairman of the Board",
+      "startDate": "2022-02-01",
+      "endDate": null,
+      "formattedStartDate": "2022 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Corporate Governance Committee",
+    "Executive Committee"
+  ],
+  "age": 77,
+  "ageYear": 2024
+}

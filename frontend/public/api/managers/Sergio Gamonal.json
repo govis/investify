@@ -1,0 +1,26 @@
+{
+  "id": "Sergio Gamonal",
+  "name": "Sergio Gamonal",
+  "background": "Mr. Gamonal has over 15 years of experience in the mining industry, specializing in project management and corporate development.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Snowline Gold Corp.",
+      "ticker": "SGD",
+      "exchange": "TSX",
+      "website": "https://snowlinegold.com",
+      "title": "Vice President, Corporate Development",
+      "startDate": "2023-09-01",
+      "endDate": null,
+      "formattedStartDate": "2023 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Stephen Arnette",
+  "name": "Stephen Arnette",
+  "background": "Mr. Arnette has served as a Director since 2024. He is currently the President of the Critical Mission Solutions business at Jacobs.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Jacobs Solutions Inc.",
+      "ticker": "J",
+      "exchange": "NYSE",
+      "website": "https://www.jacobs.com",
+      "title": "Director",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "formattedStartDate": "2024 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 54,
+  "ageYear": 2024
+}

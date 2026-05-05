@@ -1,0 +1,37 @@
+{
+  "id": "Kenneth Bedingfield",
+  "name": "Kenneth Bedingfield",
+  "background": "Mr. Bedingfield has served as Senior Vice President and Chief Financial Officer since April 2024. Prior to joining L3Harris, he served as President and Chief Operating Officer of Epirus, Inc. and previously as CFO of Northrop Grumman Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "L3Harris Technologies, Inc.",
+      "ticker": "LHX",
+      "exchange": "NYSE",
+      "website": "https://www.l3harris.com",
+      "title": "Senior Vice President and Chief Financial Officer",
+      "startDate": "2024-04-08",
+      "endDate": null,
+      "formattedStartDate": "2024 April",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "website": "https://www.northropgrumman.com",
+      "title": "Corporate Vice President and Chief Financial Officer",
+      "startDate": "2015-01-01",
+      "endDate": null,
+      "formattedStartDate": "2015 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 51,
+  "ageYear": 2024
+}

@@ -1,0 +1,26 @@
+{
+  "id": "John McConnell",
+  "name": "John McConnell",
+  "background": "Mr. McConnell has over 35 years of experience in the mining industry. He has been the President and CEO of Victoria Gold since 2010. Previously, he was President and CEO of Western Keltic Mines Inc. and held senior positions with De Beers Canada and Breakwater Resources Ltd.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Victoria Gold Corp.",
+      "ticker": "VGCX",
+      "exchange": "TSX",
+      "website": "https://vgcx.com",
+      "title": "Director, President & Chief Executive Officer",
+      "startDate": "2010-01-01",
+      "endDate": null,
+      "formattedStartDate": "2010 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 66,
+  "ageYear": 2024
+}

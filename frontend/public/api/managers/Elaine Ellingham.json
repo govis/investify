@@ -1,0 +1,29 @@
+{
+  "id": "Elaine Ellingham",
+  "name": "Elaine Ellingham",
+  "background": "Ms. Ellingham is a geologist with over 30 years of experience in the mining industry. She has held senior positions with the Toronto Stock Exchange.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Alamos Gold Inc.",
+      "ticker": "AGI",
+      "exchange": "NYSE",
+      "website": "https://www.alamosgold.com",
+      "title": "Director",
+      "startDate": "2018-01-01",
+      "endDate": null,
+      "formattedStartDate": "2018 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee",
+    "Technical and Sustainability Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

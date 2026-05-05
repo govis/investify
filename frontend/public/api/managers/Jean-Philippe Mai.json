@@ -1,0 +1,29 @@
+{
+  "id": "Jean-Philippe Mai",
+  "name": "Jean-Philippe Mai",
+  "background": "Mr. Mai is a Professional Geologist with over 15 years of experience in the mining industry. He is currently the President and CEO of Kanadario Gold Inc. and has held senior positions with several other mining companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Consolidated Lithium Metals Inc.",
+      "ticker": "CLM",
+      "exchange": "TSXV",
+      "website": "https://consolidatedlithium.com/",
+      "title": "Director",
+      "startDate": "2021-06-01",
+      "endDate": null,
+      "formattedStartDate": "2021 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 42,
+  "ageYear": 2024
+}

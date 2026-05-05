@@ -1,0 +1,39 @@
+{
+  "id": "Charles Giancarlo",
+  "name": "Charles Giancarlo",
+  "background": "Chairman and CEO of Pure Storage, Inc. Former Managing Director at Silver Lake Partners and Executive Vice President at Cisco Systems.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Arista Networks, Inc.",
+      "ticker": "ANET",
+      "exchange": "NYSE",
+      "website": "https://www.arista.com",
+      "title": "Independent Director",
+      "startDate": "2013-04-01",
+      "endDate": null,
+      "formattedStartDate": "2013 April",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Pure Storage, Inc.",
+      "ticker": "PSTG",
+      "exchange": "NYSE",
+      "website": "https://www.purestorage.com",
+      "title": "Chief Executive Officer, Chairman of the Board",
+      "startDate": "2017-08",
+      "endDate": null,
+      "formattedStartDate": "2017 August",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

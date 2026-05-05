@@ -1,0 +1,42 @@
+{
+  "id": "James Goetz",
+  "name": "James Goetz",
+  "background": "James J. Goetz has been a director since 2019. He is a Partner at Sequoia Capital, a venture capital firm, which he joined in 2004. He previously held leadership positions at Entrust and VitalSigns Software.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "title": "Independent Director",
+      "startDate": "2019-11-01",
+      "endDate": null,
+      "formattedStartDate": "2019 November",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Palo Alto Networks, Inc.",
+      "ticker": "PANW",
+      "exchange": "NASDAQ",
+      "website": "https://www.paloaltonetworks.com",
+      "title": "Independent Director",
+      "startDate": "2005-04-01",
+      "endDate": null,
+      "formattedStartDate": "2005 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Governance and Nominating Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

@@ -1,0 +1,30 @@
+{
+  "id": "James Murdoch",
+  "name": "James Murdoch",
+  "background": "James Murdoch has been a member of the Board since July 2017. He is the founder and CEO of Lupa Systems, an investment holding company, and former CEO of 21st Century Fox.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Tesla, Inc.",
+      "ticker": "TSLA",
+      "exchange": "NASDAQ",
+      "website": "https://www.tesla.com",
+      "title": "Independent Director",
+      "startDate": "2017-07-01",
+      "endDate": null,
+      "formattedStartDate": "2017 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee (Chair)"
+  ],
+  "age": 51,
+  "ageYear": 2024
+}

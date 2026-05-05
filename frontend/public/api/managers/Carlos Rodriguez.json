@@ -1,0 +1,29 @@
+{
+  "id": "Carlos Rodriguez",
+  "name": "Carlos Rodriguez",
+  "background": "Executive Chair of ADP, Inc. Former CEO of ADP.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "https://www.microsoft.com",
+      "title": "Independent Director",
+      "startDate": "2021-11-01",
+      "endDate": null,
+      "formattedStartDate": "2021 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

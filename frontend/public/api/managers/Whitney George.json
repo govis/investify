@@ -1,0 +1,26 @@
+{
+  "id": "Whitney George",
+  "name": "Whitney George",
+  "background": "CEO of Sprott Inc. and has over 30 years of experience in the investment industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sprott Physical Gold Trust",
+      "ticker": "PHYS",
+      "exchange": "NYSE",
+      "website": "https://sprott.com/investment-strategies/physical-bullion-trusts/gold/",
+      "title": "Director",
+      "startDate": "2019-01-01",
+      "endDate": null,
+      "formattedStartDate": "2019 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 66,
+  "ageYear": 2024
+}

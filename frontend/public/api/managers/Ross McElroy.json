@@ -1,0 +1,26 @@
+{
+  "id": "Ross McElroy",
+  "name": "Ross McElroy",
+  "background": "Mr. McElroy is a professional geologist with over 35 years of experience in the mining industry. He has been instrumental in several major uranium discoveries, including the Triple R deposit. He previously held positions with Cameco Corp., Areva, and BHP Billiton.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Fission Uranium Corp.",
+      "ticker": "FCU",
+      "exchange": "TSX",
+      "website": "https://fissionuranium.com",
+      "title": "Chief Executive Officer, Director, President",
+      "startDate": "2013-02-13",
+      "endDate": null,
+      "formattedStartDate": "2013 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 58,
+  "ageYear": 2024
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Roger Ferguson, Jr",
+  "name": "Roger Ferguson, Jr.",
+  "background": "Roger W. Ferguson, Jr. has been a director since 2016. He was the President and CEO of TIAA from 2008 to 2021 and served as Vice Chairman of the Board of Governors of the Federal Reserve System.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Alphabet Inc.",
+      "ticker": "GOOGL",
+      "exchange": "NASDAQ",
+      "website": "https://abc.xyz",
+      "title": "Director",
+      "startDate": "2016-06-01",
+      "endDate": null,
+      "formattedStartDate": "2016 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Compliance Committee"
+  ],
+  "age": 72,
+  "ageYear": 2024
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Mark Widmar",
+  "name": "Mark Widmar",
+  "background": "Mr. Widmar has served as our Chief Executive Officer since July 2016 and as a member of our board of directors since joining the company in 2011. He previously served as our Chief Financial Officer from 2011 to 2016.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "First Solar, Inc.",
+      "ticker": "FSLR",
+      "exchange": "NASDAQ",
+      "website": "https://www.firstsolar.com",
+      "title": "Chief Executive Officer, Director",
+      "startDate": "2016-07-01",
+      "endDate": null,
+      "formattedStartDate": "2016 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 58,
+  "ageYear": 2024
+}

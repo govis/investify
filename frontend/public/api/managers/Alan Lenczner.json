@@ -1,0 +1,29 @@
+{
+  "id": "Alan Lenczner",
+  "name": "Alan Lenczner",
+  "background": "Mr. Lenczner is a founding partner of Lenczner Slaght Royce Smith Griffin LLP and is recognized as one of Canada's leading litigators. He has served as a Commissioner of the Ontario Securities Commission.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Faraday Copper Corp.",
+      "ticker": "FDY",
+      "exchange": "TSX",
+      "website": "https://faradaycopper.com",
+      "title": "Director",
+      "startDate": "2022-04-21",
+      "endDate": null,
+      "formattedStartDate": "2022 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation and Nominating Committee",
+    "Health, Safety, Environmental and Sustainability Committee"
+  ],
+  "age": 81,
+  "ageYear": 2024
+}

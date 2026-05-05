@@ -1,0 +1,50 @@
+{
+  "id": "Amir Adnani",
+  "name": "Amir Adnani",
+  "background": "Mr. Adnani is an entrepreneur and the founder of several public companies in the resource sector. He is the founder and CEO of Uranium Energy Corp and the Chairman of GoldMining Inc. He has extensive experience in capital markets and corporate development.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "EagleOne Metals Corp.",
+      "ticker": "EAGL",
+      "exchange": "CSE",
+      "website": "https://eagleonemetals.com",
+      "title": "Chief Executive Officer, Director",
+      "startDate": "2023-06-01",
+      "endDate": null,
+      "formattedStartDate": "2023 June",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Uranium Royalty Corp.",
+      "ticker": "UROY",
+      "exchange": "NASDAQ",
+      "website": "https://www.uraniumroyalty.com",
+      "title": "Chairman",
+      "startDate": "2017-08-01",
+      "endDate": null,
+      "formattedStartDate": "2017 August",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Uranium Royalty Corp.",
+      "ticker": "UROY",
+      "exchange": "TSX",
+      "website": "https://www.uraniumroyalty.com/",
+      "title": "Chairman",
+      "startDate": "2017-08-23",
+      "endDate": null,
+      "formattedStartDate": "2017 August",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 46,
+  "ageYear": 2024
+}

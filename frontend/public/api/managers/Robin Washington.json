@@ -1,0 +1,43 @@
+{
+  "id": "Robin Washington",
+  "name": "Robin Washington",
+  "background": "Former EVP and CFO of Gilead Sciences, Inc. She has served as a Director since 2013.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Salesforce, Inc.",
+      "ticker": "CRM",
+      "exchange": "NYSE",
+      "website": "https://www.salesforce.com",
+      "title": "Lead Independent Director",
+      "startDate": "2013-09-01",
+      "endDate": null,
+      "formattedStartDate": "2013 September",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Alphabet Inc.",
+      "ticker": "GOOGL",
+      "exchange": "NASDAQ",
+      "website": "https://abc.xyz",
+      "title": "Director",
+      "startDate": "2019-04-01",
+      "endDate": null,
+      "formattedStartDate": "2019 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Audit and Compliance Committee",
+    "Leadership Development, Inclusion and Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

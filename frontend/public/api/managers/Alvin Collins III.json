@@ -1,0 +1,28 @@
+{
+  "id": "Alvin Collins III",
+  "name": "Alvin Collins III",
+  "background": "Mr. Collins has served as a member of our Board since May 2022. He is a retired executive from Fluor Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NuScale Power Corporation",
+      "ticker": "SMR",
+      "exchange": "NYSE",
+      "website": "https://www.nuscalepower.com",
+      "title": "Director",
+      "startDate": "2022-05-01",
+      "endDate": null,
+      "formattedStartDate": "2022 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 57,
+  "ageYear": 2024
+}

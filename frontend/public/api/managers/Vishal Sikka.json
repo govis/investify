@@ -1,0 +1,27 @@
+{
+  "id": "Vishal Sikka",
+  "name": "Vishal Sikka",
+  "background": "Founder and CEO of Vianai Systems, Inc. and former CEO of Infosys Limited.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Oracle Corporation",
+      "ticker": "ORCL",
+      "exchange": "NYSE",
+      "website": "https://www.oracle.com",
+      "title": "Independent Director",
+      "startDate": "2019-12-01",
+      "endDate": null,
+      "formattedStartDate": "2019 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 57,
+  "ageYear": 2024
+}

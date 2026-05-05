@@ -1,0 +1,38 @@
+{
+  "id": "David Cates",
+  "name": "David Cates",
+  "background": "Mr. Cates is the President and Chief Executive Officer of Denison and serves on the Board of Directors. He is a Chartered Professional Accountant (CPA, CA) and holds a Master of Accounting (MAcc) and a Bachelor of Arts (BA) degree from the University of Waterloo. Prior to his appointment as President and CEO, he served as Denison's Vice President Finance and Chief Financial Officer.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Denison Mines Corp.",
+      "ticker": "DNN",
+      "exchange": "NYSE",
+      "website": "https://denisonmines.com",
+      "title": "Director, President and Chief Executive Officer",
+      "startDate": "2015-01-01",
+      "endDate": null,
+      "formattedStartDate": "2015 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Denison Mines Corp.",
+      "ticker": "DNN",
+      "exchange": "TSX",
+      "website": "https://denisonmines.com",
+      "title": "Director, President and Chief Executive Officer",
+      "startDate": "2015-01-01",
+      "endDate": null,
+      "formattedStartDate": "2015 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 42,
+  "ageYear": 2024
+}

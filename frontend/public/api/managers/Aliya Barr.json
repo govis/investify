@@ -1,0 +1,27 @@
+{
+  "id": "Aliya Barr",
+  "name": "Aliya Barr",
+  "background": "Ms. Barr has over 10 years of experience in corporate communications and investor relations within the mining sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "New Age Metals Inc.",
+      "ticker": "NAM",
+      "exchange": "TSXV",
+      "website": "https://newagemetals.com",
+      "title": "Corporate Secretary",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 34,
+  "ageYear": 2024
+}

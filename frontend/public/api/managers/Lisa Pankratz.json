@@ -1,0 +1,29 @@
+{
+  "id": "Lisa Pankratz",
+  "name": "Lisa Pankratz",
+  "background": "Ms. Pankratz has over 30 years of experience in the investment management and financial services industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "B2Gold Corp.",
+      "ticker": "BTG",
+      "exchange": "NYSE",
+      "website": "https://www.b2gold.com",
+      "title": "Director",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "formattedStartDate": "2023 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

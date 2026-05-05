@@ -1,0 +1,30 @@
+{
+  "id": "Stuart Levenick",
+  "name": "Stuart Levenick",
+  "background": "Former Group President of Caterpillar Inc. Lead Independent Director of Entergy.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Entergy Corporation",
+      "ticker": "ETR",
+      "exchange": "NYSE",
+      "website": "https://www.entergy.com",
+      "title": "Lead Independent Director",
+      "startDate": "2005-01-01",
+      "endDate": null,
+      "formattedStartDate": "2005 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance",
+    "Executive",
+    "Personnel"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

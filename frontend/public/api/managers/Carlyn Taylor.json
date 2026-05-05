@@ -1,0 +1,29 @@
+{
+  "id": "Carlyn Taylor",
+  "name": "Carlyn Taylor",
+  "background": "Ms. Taylor is a Global Co-Leader of Corporate Finance & Restructuring at FTI Consulting, Inc. and has served in various leadership roles there since 2002.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Flowserve Corporation",
+      "ticker": "FLS",
+      "exchange": "NYSE",
+      "website": "https://www.flowserve.com",
+      "title": "Independent Director",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "formattedStartDate": "2023 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Finance Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

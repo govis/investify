@@ -1,0 +1,27 @@
+{
+  "id": "Georges Antoun",
+  "name": "Georges Antoun",
+  "background": "Mr. Antoun has served as our Chief Commercial Officer since July 2016. He joined First Solar in 2012 and previously served as Chief Operating Officer.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "First Solar, Inc.",
+      "ticker": "FSLR",
+      "exchange": "NASDAQ",
+      "website": "https://www.firstsolar.com",
+      "title": "Chief Commercial Officer",
+      "startDate": "2016-07-01",
+      "endDate": null,
+      "formattedStartDate": "2016 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

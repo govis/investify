@@ -1,0 +1,37 @@
+{
+  "id": "Josephine Man",
+  "name": "Josephine Man",
+  "background": "Ms. Man has over 20 years of experience in finance and accounting. She has served as the Chief Financial Officer of several publicly traded companies in the mining and technology sectors.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Uranium Royalty Corp.",
+      "ticker": "UROY",
+      "exchange": "NASDAQ",
+      "website": "https://www.uraniumroyalty.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2018-08-01",
+      "endDate": null,
+      "formattedStartDate": "2018 August",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Uranium Royalty Corp.",
+      "ticker": "UROY",
+      "exchange": "TSX",
+      "website": "https://www.uraniumroyalty.com/",
+      "title": "Chief Financial Officer",
+      "startDate": "2018-08-01",
+      "endDate": null,
+      "formattedStartDate": "2018 August",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 49,
+  "ageYear": 2024
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Sheryl Sandberg",
+  "name": "Sheryl Sandberg",
+  "background": "Former Chief Operating Officer of Meta Platforms, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Meta Platforms, Inc.",
+      "ticker": "META",
+      "exchange": "NASDAQ",
+      "website": "https://about.meta.com",
+      "title": "Director",
+      "startDate": "2012-06-01",
+      "endDate": null,
+      "formattedStartDate": "2012 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 54,
+  "ageYear": 2024
+}

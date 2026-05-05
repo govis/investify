@@ -1,0 +1,29 @@
+{
+  "id": "Naomi Seligman",
+  "name": "Naomi Seligman",
+  "background": "Senior Partner at Oritani Advisors and co-founder of Research Board, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Oracle Corporation",
+      "ticker": "ORCL",
+      "exchange": "NYSE",
+      "website": "https://www.oracle.com",
+      "title": "Independent Director",
+      "startDate": "2005-11-01",
+      "endDate": null,
+      "formattedStartDate": "2005 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Nomination and Governance Committee"
+  ],
+  "age": 86,
+  "ageYear": 2024
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Maria Sastre",
+  "name": "Maria Sastre",
+  "background": "Former President and Chief Operating Officer of Signature Flight Support. Former Vice President, International Sales and Marketing of Royal Caribbean Cruises.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Textron Inc.",
+      "ticker": "TXT",
+      "exchange": "NYSE",
+      "website": "https://www.textron.com",
+      "title": "Director",
+      "startDate": "2020-01-01",
+      "endDate": null,
+      "formattedStartDate": "2020 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating and Corporate Governance Committee",
+    "Organization and Compensation Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

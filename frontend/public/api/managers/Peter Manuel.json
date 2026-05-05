@@ -1,0 +1,26 @@
+{
+  "id": "Peter Manuel",
+  "name": "Peter Manuel",
+  "background": "Mr. Manuel is a Chartered Professional Accountant with over 25 years of experience in financial reporting, corporate finance, and strategic planning. He has served as CFO for several public companies in the resource sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Ucore Rare Metals Inc.",
+      "ticker": "UCU",
+      "exchange": "TSX",
+      "website": "https://ucore.com",
+      "title": "Vice President and Chief Financial Officer",
+      "startDate": "2006-06-01",
+      "endDate": null,
+      "formattedStartDate": "2006 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Vincent Foster",
+  "name": "Vincent Foster",
+  "background": "Mr. Foster is the Executive Chairman of Main Street Capital Corporation. He has significant financial and investment expertise.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Quanta Services, Inc.",
+      "ticker": "PWR",
+      "exchange": "NYSE",
+      "website": "https://www.quantaservices.com",
+      "title": "Independent Director",
+      "startDate": "2015-01-01",
+      "endDate": null,
+      "formattedStartDate": "2015 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 67,
+  "ageYear": 2024
+}

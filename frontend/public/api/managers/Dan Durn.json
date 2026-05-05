@@ -1,0 +1,26 @@
+{
+  "id": "Dan Durn",
+  "name": "Dan Durn",
+  "background": "Mr. Durn has served as Executive Vice President and Chief Financial Officer since October 2021. Prior to joining Adobe, he was Senior Vice President and Chief Financial Officer of Applied Materials, Inc. from 2017 to 2021.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Adobe Inc.",
+      "ticker": "ADBE",
+      "exchange": "NASDAQ",
+      "website": "https://www.adobe.com",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2021-10-01",
+      "endDate": null,
+      "formattedStartDate": "2021 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 57,
+  "ageYear": 2024
+}

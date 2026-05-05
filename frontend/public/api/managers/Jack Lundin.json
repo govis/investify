@@ -1,0 +1,38 @@
+{
+  "id": "Jack Lundin",
+  "name": "Jack Lundin",
+  "background": "Mr. Lundin is the Chair of the Board. He is currently the President and CEO of Lundin Mining Corporation. He has extensive experience in the resource industry and holds a Master of Engineering degree.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lundin Gold Inc.",
+      "ticker": "LUG",
+      "exchange": "TSX",
+      "website": "https://lundingold.com",
+      "title": "Chair of the Board",
+      "startDate": "2022-11-01",
+      "endDate": null,
+      "formattedStartDate": "2022 November",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Lundin Mining Corporation",
+      "ticker": "LUN",
+      "exchange": "TSX",
+      "website": "https://www.lundinmining.com",
+      "title": "Director, President and Chief Executive Officer",
+      "startDate": "2023-12-04",
+      "endDate": null,
+      "formattedStartDate": "2023 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 35,
+  "ageYear": 2024
+}

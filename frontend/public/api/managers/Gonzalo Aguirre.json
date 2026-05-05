@@ -1,0 +1,26 @@
+{
+  "id": "Gonzalo Aguirre",
+  "name": "Gonzalo Aguirre",
+  "background": "Mr. Aguirre joined the Company in 1994. He has served as our Executive Vice President of Iodine and Industrial Chemicals since 2018. He is a Chilean citizen and holds a degree in industrial engineering from the Pontificia Universidad Católica de Chile.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sociedad Química y Minera de Chile S.A.",
+      "ticker": "SQM",
+      "exchange": "NYSE",
+      "website": "https://www.sqm.com",
+      "title": "Executive Vice President of Iodine and Industrial Chemicals",
+      "startDate": "2018-01-01",
+      "endDate": null,
+      "formattedStartDate": "2018 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 58,
+  "ageYear": 2024
+}

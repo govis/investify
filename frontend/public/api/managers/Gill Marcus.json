@@ -1,0 +1,41 @@
+{
+  "id": "Gill Marcus",
+  "name": "Gill Marcus",
+  "background": "Gill Marcus was the Governor of the South African Reserve Bank and a former member of the South African Parliament.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Glencore plc",
+      "ticker": "GLEN",
+      "exchange": "LSE",
+      "website": "https://www.glencore.com",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2018-01-01",
+      "endDate": null,
+      "formattedStartDate": "2018 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Glencore plc",
+      "ticker": "GLNCY",
+      "exchange": "OTC",
+      "website": "https://www.glencore.com",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2018-01-01",
+      "endDate": null,
+      "formattedStartDate": "2018 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "ECC Committee"
+  ],
+  "age": 74,
+  "ageYear": 2024
+}

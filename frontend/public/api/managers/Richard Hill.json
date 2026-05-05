@@ -1,0 +1,28 @@
+{
+  "id": "Richard Hill",
+  "name": "Richard Hill",
+  "background": "Former Chairman and CEO of Novellus Systems. Former Chairman of Marvell (2016-2021).",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Marvell Technology, Inc.",
+      "ticker": "MRVL",
+      "exchange": "NASDAQ",
+      "website": "https://www.marvell.com",
+      "title": "Director",
+      "startDate": "2016-05-01",
+      "endDate": null,
+      "formattedStartDate": "2016 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Executive Compensation Committee"
+  ],
+  "age": 72,
+  "ageYear": 2024
+}

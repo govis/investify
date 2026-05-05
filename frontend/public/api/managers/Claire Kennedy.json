@@ -1,0 +1,29 @@
+{
+  "id": "Claire Kennedy",
+  "name": "Claire Kennedy",
+  "background": "Ms. Kennedy is Senior Advisor, Clients and Industries at Bennett Jones LLP and is a professional engineer.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Alamos Gold Inc.",
+      "ticker": "AGI",
+      "exchange": "NYSE",
+      "website": "https://www.alamosgold.com",
+      "title": "Director",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee",
+    "Human Resources and Compensation Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

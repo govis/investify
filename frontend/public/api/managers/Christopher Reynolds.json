@@ -1,0 +1,30 @@
+{
+  "id": "Christopher Reynolds",
+  "name": "Christopher Reynolds",
+  "background": "Mr. Reynolds has over 30 years of experience in the mining industry, specifically in the areas of corporate finance and administration. He is currently the CFO of Seabridge Gold Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lahontan Gold Corp.",
+      "ticker": "LG",
+      "exchange": "TSX",
+      "website": "https://lahontangoldcorp.com/",
+      "title": "Director",
+      "startDate": "2022-04-06",
+      "endDate": null,
+      "formattedStartDate": "2022 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 56,
+  "ageYear": 2024
+}

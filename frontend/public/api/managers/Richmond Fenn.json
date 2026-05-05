@@ -1,0 +1,29 @@
+{
+  "id": "Richmond Fenn",
+  "name": "Richmond Fenn",
+  "background": "Mr. Fenn has over 40 years of experience in the mining industry, including senior roles at Freeport-McMoRan.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Aura Minerals Inc.",
+      "ticker": "AUGO",
+      "exchange": "TSX",
+      "website": "https://auraminerals.com/",
+      "title": "Independent Director",
+      "startDate": "2018-01-01",
+      "endDate": null,
+      "formattedStartDate": "2018 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Technical Committee"
+  ],
+  "age": 76,
+  "ageYear": 2024
+}

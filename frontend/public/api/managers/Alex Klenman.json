@@ -1,0 +1,26 @@
+{
+  "id": "Alex Klenman",
+  "name": "Alex Klenman",
+  "background": "Mr. Klenman is an experienced junior mining executive whose career spans over 30 years in the private and public sectors. Over the past decade he has held a number of senior management and board positions in the public markets.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Azincourt Energy Corp.",
+      "ticker": "AAZ",
+      "exchange": "TSX",
+      "website": "https://azincourtenergy.com",
+      "title": "Chief Executive Officer, Director, President",
+      "startDate": "2017-10-01",
+      "endDate": null,
+      "formattedStartDate": "2017 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 58,
+  "ageYear": 2024
+}

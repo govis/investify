@@ -1,0 +1,55 @@
+{
+  "id": "Lydia Kennard",
+  "name": "Lydia Kennard",
+  "background": "Lydia Kennard is the President and CEO of KDG Construction Consulting. She previously served as the Executive Director of Los Angeles World Airports.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AECOM",
+      "ticker": "ACM",
+      "exchange": "NYSE",
+      "website": "https://aecom.com",
+      "title": "Independent Director",
+      "startDate": "2011-01-01",
+      "endDate": null,
+      "formattedStartDate": "2011 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Freeport-McMoRan Inc.",
+      "ticker": "FCX",
+      "exchange": "NYSE",
+      "website": "https://www.fcx.com",
+      "title": "Director",
+      "startDate": "2013-01-01",
+      "endDate": null,
+      "formattedStartDate": "2013 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Prologis, Inc.",
+      "ticker": "PLD",
+      "exchange": "NYSE",
+      "website": "https://www.prologis.com",
+      "title": "Independent Director",
+      "startDate": "2011-01-01",
+      "endDate": null,
+      "formattedStartDate": "2011 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Corporate Responsibility",
+    "Governance Committee (Chair)",
+    "Governance and Nomination Committee",
+    "Talent and Compensation Committee"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

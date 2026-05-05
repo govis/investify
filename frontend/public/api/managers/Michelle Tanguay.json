@@ -1,0 +1,29 @@
+{
+  "id": "Michelle Tanguay",
+  "name": "Michelle Tanguay",
+  "background": "Ms. Tanguay has over 25 years of experience in environmental management and regulatory affairs in the mining industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Orion Copper Mining Corp.",
+      "ticker": "ORION",
+      "exchange": "TSX",
+      "website": "https://orioncmc.com",
+      "title": "Independent Director",
+      "startDate": "2023-06-20",
+      "endDate": null,
+      "formattedStartDate": "2023 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee (Chair)"
+  ],
+  "age": 55,
+  "ageYear": 2024
+}

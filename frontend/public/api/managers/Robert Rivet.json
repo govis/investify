@@ -1,0 +1,30 @@
+{
+  "id": "Robert Rivet",
+  "name": "Robert Rivet",
+  "background": "Former Executive Vice President, Chief Operations and Administrative Officer of Advanced Micro Devices, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Curtiss-Wright Corporation",
+      "ticker": "CW",
+      "exchange": "NYSE",
+      "website": "https://www.curtisswright.com",
+      "title": "Independent Director",
+      "startDate": "2011-01-01",
+      "endDate": null,
+      "formattedStartDate": "2011 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Executive Compensation Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

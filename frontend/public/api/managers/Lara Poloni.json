@@ -1,0 +1,26 @@
+{
+  "id": "Lara Poloni",
+  "name": "Lara Poloni",
+  "background": "Lara Poloni is the President of AECOM. She previously served as Chief Executive of AECOM’s Europe, Middle East, and Africa (EMEA) region from 2017 to 2020 and as Chief Executive of the Australia-New Zealand region from 2014 to 2017. She has been with AECOM for over 25 years.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AECOM",
+      "ticker": "ACM",
+      "exchange": "NYSE",
+      "website": "https://aecom.com",
+      "title": "President",
+      "startDate": "2020-10-01",
+      "endDate": null,
+      "formattedStartDate": "2020 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

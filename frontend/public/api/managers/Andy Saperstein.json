@@ -1,0 +1,26 @@
+{
+  "id": "Andy Saperstein",
+  "name": "Andy Saperstein",
+  "background": "Mr. Saperstein has served as Co-President of Morgan Stanley since January 2024 and Head of Wealth Management.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Morgan Stanley",
+      "ticker": "MS",
+      "exchange": "NYSE",
+      "website": "https://www.morganstanley.com",
+      "title": "Co-President",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "formattedStartDate": "2024 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 57,
+  "ageYear": 2024
+}

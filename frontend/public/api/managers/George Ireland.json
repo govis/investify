@@ -1,0 +1,42 @@
+{
+  "id": "George Ireland",
+  "name": "George Ireland",
+  "background": "Mr. Ireland has over 40 years of experience in the mining and financial sectors. He is the founder, CEO and CIO of Geologic Resource Partners LLC.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Capstone Copper Corp.",
+      "ticker": "CS",
+      "exchange": "TSX",
+      "website": "https://capstonecopper.com",
+      "title": "Chair and Independent Director",
+      "startDate": "2011-05-01",
+      "endDate": null,
+      "formattedStartDate": "2011 May",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Lithium Americas Corp.",
+      "ticker": "LAC",
+      "exchange": "NYSE",
+      "website": "https://www.lithiumamericas.com",
+      "title": "Chair of the Board",
+      "startDate": "2023-10-04",
+      "endDate": null,
+      "formattedStartDate": "2023 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Governance and Nominating Committee",
+    "Governance and Nomination Committee"
+  ],
+  "age": 67,
+  "ageYear": 2024
+}

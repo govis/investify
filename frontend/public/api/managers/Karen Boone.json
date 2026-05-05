@@ -1,0 +1,29 @@
+{
+  "id": "Karen Boone",
+  "name": "Karen Boone",
+  "background": "Ms. Boone has served as a member of our Board since 2020. She previously served as President and Chief Financial Officer of Restoration Hardware (RH).",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Rivian Automotive, Inc.",
+      "ticker": "RIVN",
+      "exchange": "NASDAQ",
+      "website": "https://rivian.com",
+      "title": "Lead Independent Director",
+      "startDate": "2020-01-01",
+      "endDate": null,
+      "formattedStartDate": "2020 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Governance Committee"
+  ],
+  "age": 49,
+  "ageYear": 2024
+}

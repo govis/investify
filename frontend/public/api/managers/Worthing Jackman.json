@@ -1,0 +1,30 @@
+{
+  "id": "Worthing Jackman",
+  "name": "Worthing Jackman",
+  "background": "Mr. Jackman is the President and CEO of Waste Connections, Inc. He brings extensive operational and financial experience.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Quanta Services, Inc.",
+      "ticker": "PWR",
+      "exchange": "NYSE",
+      "website": "https://www.quantaservices.com",
+      "title": "Independent Director",
+      "startDate": "2019-01-01",
+      "endDate": null,
+      "formattedStartDate": "2019 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Governance and Nominating Committee"
+  ],
+  "age": 59,
+  "ageYear": 2024
+}

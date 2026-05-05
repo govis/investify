@@ -1,0 +1,42 @@
+{
+  "id": "Martin Craighead",
+  "name": "Martin Craighead",
+  "background": "Former Chairman and CEO of Baker Hughes Incorporated.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Emerson Electric Co.",
+      "ticker": "EMR",
+      "exchange": "NYSE",
+      "website": "https://www.emerson.com",
+      "title": "Independent Director",
+      "startDate": "2019-01-01",
+      "endDate": null,
+      "formattedStartDate": "2019 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Texas Instruments Incorporated",
+      "ticker": "TXN",
+      "exchange": "NASDAQ",
+      "website": "https://www.ti.com",
+      "title": "Independent Director",
+      "startDate": "2016-01-01",
+      "endDate": null,
+      "formattedStartDate": "2016 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Compensation",
+    "Compensation Committee",
+    "Governance and Stockholder Relations Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

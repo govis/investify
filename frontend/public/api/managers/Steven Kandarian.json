@@ -1,0 +1,29 @@
+{
+  "id": "Steven Kandarian",
+  "name": "Steven Kandarian",
+  "background": "Former Chairman, President, and CEO of MetLife, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Exxon Mobil Corporation",
+      "ticker": "XOM",
+      "exchange": "NYSE",
+      "website": "https://www.exxonmobil.com",
+      "title": "Independent Director",
+      "startDate": "2018-02-01",
+      "endDate": null,
+      "formattedStartDate": "2018 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Governance Committee"
+  ],
+  "age": 72,
+  "ageYear": 2024
+}

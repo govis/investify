@@ -1,0 +1,29 @@
+{
+  "id": "Stephen Mann",
+  "name": "Stephen Mann",
+  "background": "Mr Mann is a geologist with over 45 years' experience in the mining industry. He has held senior executive roles with several ASX listed companies, including as Managing Director of Areva Resources Australia.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Elevate Uranium Limited",
+      "ticker": "EL8",
+      "exchange": "ASX",
+      "website": "https://www.elevateuranium.com.au",
+      "title": "Non-Executive Director",
+      "startDate": "2021-06-01",
+      "endDate": null,
+      "formattedStartDate": "2021 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "age": null,
+  "ageYear": null
+}

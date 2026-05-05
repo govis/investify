@@ -1,0 +1,42 @@
+{
+  "id": "Xiaoqun Clever",
+  "name": "Xiaoqun Clever",
+  "background": "Xiaoqun Clever has over 20 years' experience in technology and digital transformation. She has held senior executive roles at SAP SE and Ringier AG.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX",
+      "website": "https://www.bhp.com",
+      "title": "Non-executive Director",
+      "startDate": "2020-10-01",
+      "endDate": null,
+      "formattedStartDate": "2020 October",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "NYSE",
+      "website": "https://www.bhp.com",
+      "title": "Independent Non-executive Director",
+      "startDate": "2020-10-01",
+      "endDate": null,
+      "formattedStartDate": "2020 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Remuneration Committee",
+    "Risk and Audit Committee",
+    "Sustainability Committee"
+  ],
+  "age": 53,
+  "ageYear": 2024
+}

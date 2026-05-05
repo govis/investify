@@ -1,0 +1,43 @@
+{
+  "id": "Audra Walsh",
+  "name": "Audra Walsh",
+  "background": "Ms. Walsh is a professional engineer with over 25 years of experience in the mining industry. She has held executive roles at Minas de Aguas Teñidas and Newmont.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Calibre Mining Corp.",
+      "ticker": "CXB",
+      "exchange": "TSX",
+      "website": "https://calibremining.com",
+      "title": "Director",
+      "startDate": "2021-06-16",
+      "endDate": null,
+      "formattedStartDate": "2021 June",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Faraday Copper Corp.",
+      "ticker": "FDY",
+      "exchange": "TSX",
+      "website": "https://faradaycopper.com",
+      "title": "Director",
+      "startDate": "2022-04-21",
+      "endDate": null,
+      "formattedStartDate": "2022 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Health, Safety, Environmental and Sustainability Committee (Chair)",
+    "Technical Committee"
+  ],
+  "age": 55,
+  "ageYear": 2024
+}

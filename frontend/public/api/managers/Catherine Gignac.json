@@ -1,0 +1,55 @@
+{
+  "id": "Catherine Gignac",
+  "name": "Catherine Gignac",
+  "background": "Catherine Gignac is a corporate director with more than 30 years of experience in capital markets and the mining industry as a mining equity research analyst and geologist.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCO",
+      "exchange": "TSX",
+      "website": "https://www.cameco.com",
+      "title": "Director",
+      "startDate": "2014-01-01",
+      "endDate": null,
+      "formattedStartDate": "2014 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC",
+      "exchange": "ASX",
+      "website": "https://oceanagold.com",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2019-08-01",
+      "endDate": null,
+      "formattedStartDate": "2019 August",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC",
+      "exchange": "TSX",
+      "website": "https://oceanagold.com",
+      "title": "Independent Director",
+      "startDate": "2019-08-01",
+      "endDate": null,
+      "formattedStartDate": "2019 August",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Finance Committee",
+    "Audit and Risk Committee",
+    "Governance and Nominating Committee (Chair)",
+    "Governance and Nomination Committee",
+    "Nominating, Corporate Governance and Risk Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Elif Lévesque",
+  "name": "Elif Lévesque",
+  "background": "Ms. Lévesque is a Chartered Professional Accountant with over 20 years of experience in finance and the mining industry. She was a founder of Nomad Royalty Company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "G Mining Ventures Corp.",
+      "ticker": "GMIN",
+      "exchange": "TSX",
+      "website": "https://www.gminingventures.com",
+      "title": "Independent Director",
+      "startDate": "2022-06-22",
+      "endDate": null,
+      "formattedStartDate": "2022 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 51,
+  "ageYear": 2024
+}

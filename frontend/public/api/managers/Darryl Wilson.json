@@ -1,0 +1,29 @@
+{
+  "id": "Darryl Wilson",
+  "name": "Darryl Wilson",
+  "background": "Founder, chairman and president of The Wilson Collective. Director since 2022.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NextEra Energy, Inc.",
+      "ticker": "NEE",
+      "exchange": "NYSE",
+      "website": "https://www.nexteraenergy.com",
+      "title": "Independent Director",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "formattedStartDate": "2022 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation",
+    "Nuclear"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

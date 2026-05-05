@@ -1,0 +1,29 @@
+{
+  "id": "Patricia Stonesifer",
+  "name": "Patricia Stonesifer",
+  "background": "Former CEO of Martha's Table and former CEO of the Bill & Melinda Gates Foundation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Amazon.com, Inc.",
+      "ticker": "AMZN",
+      "exchange": "NASDAQ",
+      "website": "https://www.amazon.com",
+      "title": "Director",
+      "startDate": "1997-02-01",
+      "endDate": null,
+      "formattedStartDate": "1997 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 67,
+  "ageYear": 2024
+}

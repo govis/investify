@@ -1,0 +1,29 @@
+{
+  "id": "Lawrence Kellner",
+  "name": "Lawrence Kellner",
+  "background": "President of Emerald Creek Group, LLC and former Chairman and CEO of Continental Airlines, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Exxon Mobil Corporation",
+      "ticker": "XOM",
+      "exchange": "NYSE",
+      "website": "https://www.exxonmobil.com",
+      "title": "Independent Director",
+      "startDate": "2023-05-01",
+      "endDate": null,
+      "formattedStartDate": "2023 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Finance Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

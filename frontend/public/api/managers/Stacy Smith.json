@@ -1,0 +1,29 @@
+{
+  "id": "Stacy Smith",
+  "name": "Stacy Smith",
+  "background": "Stacy J. Smith joined the board in 2023. He previously served as Executive Chairman of Autodesk, Inc. and was the CFO of Intel Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Wolfspeed, Inc.",
+      "ticker": "WOLF",
+      "exchange": "NYSE",
+      "website": "https://www.wolfspeed.com",
+      "title": "Independent Director",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "formattedStartDate": "2023 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Rein Lehari",
+  "name": "Rein Lehari",
+  "background": "Mr. Lehari is a Chartered Professional Accountant and was formerly a partner with PricewaterhouseCoopers LLP. He has over 30 years of experience in the mining industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Global Atomic Corporation",
+      "ticker": "GLO",
+      "exchange": "TSX",
+      "website": "https://globalatomiccorp.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2017-12-22",
+      "endDate": null,
+      "formattedStartDate": "2017 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 68,
+  "ageYear": 2024
+}

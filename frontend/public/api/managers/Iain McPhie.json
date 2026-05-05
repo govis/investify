@@ -1,0 +1,26 @@
+{
+  "id": "Iain McPhie",
+  "name": "Iain McPhie",
+  "background": "Mr. McPhie has over 25 years of experience in the mining industry, specializing in corporate development and legal affairs.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Osisko Gold Royalties Ltd",
+      "ticker": "OR",
+      "exchange": "NYSE",
+      "website": "https://osiskogr.com",
+      "title": "Vice President, Corporate Development",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "formattedStartDate": "2022 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 51,
+  "ageYear": 2024
+}

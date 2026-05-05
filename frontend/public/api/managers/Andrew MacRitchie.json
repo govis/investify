@@ -1,0 +1,26 @@
+{
+  "id": "Andrew MacRitchie",
+  "name": "Andrew MacRitchie",
+  "background": "Mr. MacRitchie is a Chartered Professional Accountant with over 20 years of experience in the mining industry. He has served as CFO of Skeena since 2017 and was previously CFO of several other public mining companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Skeena Resources Limited",
+      "ticker": "SKE",
+      "exchange": "NYSE",
+      "website": "https://skeenaresources.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2017-01-01",
+      "endDate": null,
+      "formattedStartDate": "2017 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 52,
+  "ageYear": 2024
+}

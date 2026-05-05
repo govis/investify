@@ -1,0 +1,29 @@
+{
+  "id": "Todd Combs",
+  "name": "Todd Combs",
+  "background": "Investment Officer at Berkshire Hathaway Inc. and CEO of GEICO.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "ticker": "JPM",
+      "exchange": "NYSE",
+      "website": "https://www.jpmorganchase.com",
+      "title": "Independent Director",
+      "startDate": "2016-09-19",
+      "endDate": null,
+      "formattedStartDate": "2016 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Directors' Risk Policy Committee"
+  ],
+  "age": 53,
+  "ageYear": 2024
+}

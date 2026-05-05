@@ -1,0 +1,26 @@
+{
+  "id": "Lee Banks",
+  "name": "Lee Banks",
+  "background": "Former Vice Chairman and President of Parker-Hannifin Corporation. He served as President and Chief Operating Officer from 2015 to 2022.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Parker-Hannifin Corporation",
+      "ticker": "PH",
+      "exchange": "NYSE",
+      "website": "https://www.parker.com",
+      "title": "Director",
+      "startDate": "2015-01-01",
+      "endDate": null,
+      "formattedStartDate": "2015 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

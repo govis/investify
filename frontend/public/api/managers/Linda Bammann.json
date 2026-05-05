@@ -1,0 +1,30 @@
+{
+  "id": "Linda Bammann",
+  "name": "Linda Bammann",
+  "background": "Retired Deputy Head of Risk Management at JPMorgan Chase. Former Vice Chair of Bank One Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "ticker": "JPM",
+      "exchange": "NYSE",
+      "website": "https://www.jpmorganchase.com",
+      "title": "Independent Director",
+      "startDate": "2013-09-16",
+      "endDate": null,
+      "formattedStartDate": "2013 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Directors' Risk Policy Committee (Chair)",
+    "Regulatory Compliance & Public Responsibility Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

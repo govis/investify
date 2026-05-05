@@ -1,0 +1,29 @@
+{
+  "id": "James Nevels",
+  "name": "James Nevels",
+  "background": "Founder and Chairman of The Swarthmore Group.",
+  "pictureUrl": "https://www.inquirer.com/resizer/v2/YDBT7VCH5NEZ5MFGKHF7VIWCVY.jpg?auth=319eb243c77300fd79fe7503664d24dc66cb24448540f7ee9e21abbd539a8a67&width=760&height=507&smart=true",
+  "companies": [
+    {
+      "name": "Alcoa Corporation",
+      "ticker": "AA",
+      "exchange": "NYSE",
+      "website": "https://www.alcoa.com",
+      "title": "Independent Director",
+      "startDate": "2016-11-01",
+      "endDate": null,
+      "formattedStartDate": "2016 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Governance and Nominating Committee"
+  ],
+  "age": 72,
+  "ageYear": 2024
+}

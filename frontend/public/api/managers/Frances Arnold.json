@@ -1,0 +1,29 @@
+{
+  "id": "Frances Arnold",
+  "name": "Frances Arnold",
+  "background": "Frances H. Arnold has been a director since 2019. She is the Linus Pauling Professor of Chemical Engineering, Bioengineering and Biochemistry at the California Institute of Technology and a Nobel Laureate in Chemistry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Alphabet Inc.",
+      "ticker": "GOOGL",
+      "exchange": "NASDAQ",
+      "website": "https://abc.xyz",
+      "title": "Director",
+      "startDate": "2019-12-01",
+      "endDate": null,
+      "formattedStartDate": "2019 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 67,
+  "ageYear": 2024
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Mellody Hobson",
+  "name": "Mellody Hobson",
+  "background": "Co-CEO and President of Ariel Investments, LLC. Chair of Starbucks Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "ticker": "JPM",
+      "exchange": "NYSE",
+      "website": "https://www.jpmorganchase.com",
+      "title": "Independent Director",
+      "startDate": "2018-03-12",
+      "endDate": null,
+      "formattedStartDate": "2018 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance & Nominating Committee",
+    "Regulatory Compliance & Public Responsibility Committee (Chair)"
+  ],
+  "age": 55,
+  "ageYear": 2024
+}

@@ -1,0 +1,41 @@
+{
+  "id": "Livia Mahler",
+  "name": "Livia Mahler",
+  "background": "Livia Mahler has over 30 years of experience in the venture capital and investment sectors.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "LSE",
+      "website": "https://www.endeavourmining.com",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2016-10-11",
+      "endDate": null,
+      "formattedStartDate": "2016 October",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "TSX",
+      "website": "https://www.endeavourmining.com",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2016-10-11",
+      "endDate": null,
+      "formattedStartDate": "2016 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nomination and Governance Committee",
+    "Remuneration Committee (Chair)"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

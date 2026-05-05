@@ -1,0 +1,26 @@
+{
+  "id": "David Thomson",
+  "name": "David Thomson",
+  "background": "Chairman of Thomson Reuters and Chairman of Woodbridge. He is a director of several other companies and active in the arts.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Thomson Reuters Corporation",
+      "ticker": "TRI",
+      "exchange": "NYSE",
+      "website": "https://www.thomsonreuters.com",
+      "title": "Chairman",
+      "startDate": "2008-04-17",
+      "endDate": null,
+      "formattedStartDate": "2008 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 66,
+  "ageYear": 2024
+}

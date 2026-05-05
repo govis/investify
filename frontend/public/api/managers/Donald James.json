@@ -1,0 +1,30 @@
+{
+  "id": "Donald James",
+  "name": "Donald James",
+  "background": "Retired Chairman and CEO of Vulcan Materials Company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "The Southern Company",
+      "ticker": "SO",
+      "exchange": "NYSE",
+      "website": "https://www.southerncompany.com",
+      "title": "Independent Director",
+      "startDate": "1999-01-01",
+      "endDate": null,
+      "formattedStartDate": "1999 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation and Management Succession",
+    "Finance",
+    "Governance (Chair)"
+  ],
+  "age": 75,
+  "ageYear": 2024
+}

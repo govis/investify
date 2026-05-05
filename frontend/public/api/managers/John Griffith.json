@@ -1,0 +1,26 @@
+{
+  "id": "John Griffith",
+  "name": "John Griffith",
+  "background": "Mr. Griffith has served as our Chief Development Officer since September 2020. He has over 25 years of experience in the mining sector, including senior roles in investment banking at Merrill Lynch and HSBC.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Gold Royalty Corp.",
+      "ticker": "GROY",
+      "exchange": "NYSE",
+      "website": "https://www.goldroyalty.com",
+      "title": "Chief Development Officer",
+      "startDate": "2020-09-01",
+      "endDate": null,
+      "formattedStartDate": "2020 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 54,
+  "ageYear": 2023
+}

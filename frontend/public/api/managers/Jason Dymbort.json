@@ -1,0 +1,27 @@
+{
+  "id": "Jason Dymbort",
+  "name": "Jason Dymbort",
+  "background": "Mr. Dymbort has served as our General Counsel and Secretary since 2019. He joined First Solar in 2008.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "First Solar, Inc.",
+      "ticker": "FSLR",
+      "exchange": "NASDAQ",
+      "website": "https://www.firstsolar.com",
+      "title": "General Counsel and Secretary",
+      "startDate": "2019-01-01",
+      "endDate": null,
+      "formattedStartDate": "2019 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 45,
+  "ageYear": 2024
+}

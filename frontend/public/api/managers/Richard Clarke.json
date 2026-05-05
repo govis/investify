@@ -1,0 +1,29 @@
+{
+  "id": "Richard Clarke",
+  "name": "Richard Clarke",
+  "background": "General, U.S. Army (Retired). Former Commander, U.S. Special Operations Command.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "General Dynamics Corporation",
+      "ticker": "GD",
+      "exchange": "NYSE",
+      "website": "https://www.gd.com",
+      "title": "Director",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "formattedStartDate": "2023 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Finance"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

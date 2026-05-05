@@ -1,0 +1,26 @@
+{
+  "id": "Jonathan Whyte",
+  "name": "Jonathan Whyte",
+  "background": "Mr. Whyte is a Chartered Accountant with over 25 years of experience in the resources sector. He has held various company secretarial and financial management roles.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Peninsula Energy Limited",
+      "ticker": "PEN",
+      "exchange": "ASX",
+      "website": "https://www.pel.net.au",
+      "title": "Joint Company Secretary",
+      "startDate": "2014-04-01",
+      "endDate": null,
+      "formattedStartDate": "2014 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

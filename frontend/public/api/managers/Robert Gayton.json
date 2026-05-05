@@ -1,0 +1,29 @@
+{
+  "id": "Robert Gayton",
+  "name": "Robert Gayton",
+  "background": "Dr. Gayton is a Chartered Professional Accountant and has directed several public mining companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "B2Gold Corp.",
+      "ticker": "BTG",
+      "exchange": "NYSE",
+      "website": "https://www.b2gold.com",
+      "title": "Director",
+      "startDate": "2007-11-30",
+      "endDate": null,
+      "formattedStartDate": "2007 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 76,
+  "ageYear": 2024
+}

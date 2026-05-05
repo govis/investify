@@ -1,0 +1,29 @@
+{
+  "id": "Kay Priestly",
+  "name": "Kay Priestly",
+  "background": "Independent Director. Former CEO of Turquoise Hill Resources Ltd. and executive at Rio Tinto.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "SSR Mining Inc.",
+      "ticker": "SSRM",
+      "exchange": "NASDAQ",
+      "website": "https://www.ssrmining.com",
+      "title": "Independent Director",
+      "startDate": "2020-09-16",
+      "endDate": null,
+      "formattedStartDate": "2020 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

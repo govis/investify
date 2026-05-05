@@ -1,0 +1,29 @@
+{
+  "id": "Sohail Ahmed",
+  "name": "Sohail Ahmed",
+  "background": "Mr. Ahmed has been a director since 2019. He was Senior Vice President and General Manager of the Technology and Manufacturing Group at Intel Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lam Research Corporation",
+      "ticker": "LRCX",
+      "exchange": "NASDAQ",
+      "website": "https://www.lamresearch.com",
+      "title": "Director",
+      "startDate": "2019-01-01",
+      "endDate": null,
+      "formattedStartDate": "2019 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Jake Klein",
+  "name": "Jake Klein",
+  "background": "Mr. Klein was the founding Executive Chairman of Evolution Mining. He has over 25 years’ experience in the mining industry. He was previously President and CEO of Sino Gold Mining Limited.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Evolution Mining Limited",
+      "ticker": "EVN",
+      "exchange": "ASX",
+      "website": "https://evolutionmining.com.au",
+      "title": "Executive Chair",
+      "startDate": "2011-10-01",
+      "endDate": null,
+      "formattedStartDate": "2011 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 63,
+  "ageYear": 2024
+}

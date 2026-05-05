@@ -1,0 +1,30 @@
+{
+  "id": "Peter Bonfield",
+  "name": "Peter Bonfield",
+  "background": "Sir Peter Bonfield is an Independent Director. He was formerly the CEO of British Telecommunications and Chairman and CEO of ICL plc. He has extensive experience in the international technology and telecommunications industries.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Taiwan Semiconductor Manufacturing Company Limited",
+      "ticker": "TSM",
+      "exchange": "NYSE",
+      "website": "https://www.tsmc.com",
+      "title": "Independent Director",
+      "startDate": "2005-02-22",
+      "endDate": null,
+      "formattedStartDate": "2005 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 80,
+  "ageYear": 2024
+}

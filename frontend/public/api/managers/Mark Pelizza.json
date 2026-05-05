@@ -1,0 +1,42 @@
+{
+  "id": "Mark Pelizza",
+  "name": "Mark Pelizza",
+  "background": "Mr. Pelizza has over 40 years of experience in the uranium industry, specifically in ISR uranium production and licensing.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "enCore Energy Corp.",
+      "ticker": "EU",
+      "exchange": "NASDAQ",
+      "website": "https://encoreuranium.com",
+      "title": "Independent Director",
+      "startDate": "2017-10-30",
+      "endDate": null,
+      "formattedStartDate": "2017 October",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "enCore Energy Corp.",
+      "ticker": "EU",
+      "exchange": "TSX",
+      "website": "https://encoreuranium.com",
+      "title": "Independent Director",
+      "startDate": "2017-02-15",
+      "endDate": null,
+      "formattedStartDate": "2017 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee",
+    "Technical Committee"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

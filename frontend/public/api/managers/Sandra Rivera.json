@@ -1,0 +1,28 @@
+{
+  "id": "Sandra Rivera",
+  "name": "Sandra Rivera",
+  "background": "Sandra Rivera is the CEO of Altera, an Intel Company. She previously served as Executive Vice President at Intel.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Equinix, Inc.",
+      "ticker": "EQIX",
+      "exchange": "NASDAQ",
+      "website": "https://www.equinix.com",
+      "title": "Independent Director",
+      "startDate": "2019-01-01",
+      "endDate": null,
+      "formattedStartDate": "2019 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Governance Committee"
+  ],
+  "age": 59,
+  "ageYear": 2024
+}

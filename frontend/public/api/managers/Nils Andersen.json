@@ -1,0 +1,30 @@
+{
+  "id": "Nils Andersen",
+  "name": "Nils Andersen",
+  "background": "Nils Andersen was appointed to the Supervisory Board in 2023 and became Chairman in 2024. He is the former CEO of A.P. Moller-Maersk and Carlsberg.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "ASML Holding N.V.",
+      "ticker": "ASML",
+      "exchange": "NASDAQ",
+      "website": "https://www.asml.com",
+      "title": "Chairman of the Supervisory Board",
+      "startDate": "2024-04-24",
+      "endDate": null,
+      "formattedStartDate": "2024 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Selection and Nomination Committee (Chair)",
+    "Technology Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

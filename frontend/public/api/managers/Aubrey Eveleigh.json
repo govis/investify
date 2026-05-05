@@ -1,0 +1,27 @@
+{
+  "id": "Aubrey Eveleigh",
+  "name": "Aubrey Eveleigh",
+  "background": "Mr. Eveleigh has over 30 years of experience in the mineral exploration industry. He was a co-founder of the predecessor Lithium Americas Corp. and has served in various executive capacities.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lithium Americas Corp.",
+      "ticker": "LAC",
+      "exchange": "NYSE",
+      "website": "https://www.lithiumamericas.com",
+      "title": "Vice President, Exploration",
+      "startDate": "2023-10-04",
+      "endDate": null,
+      "formattedStartDate": "2023 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

@@ -1,0 +1,28 @@
+{
+  "id": "Cristina Bita",
+  "name": "Cristina Bita",
+  "background": "Vice President of Finance at Google. Expert in finance and technology operations.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Prologis, Inc.",
+      "ticker": "PLD",
+      "exchange": "NYSE",
+      "website": "https://www.prologis.com",
+      "title": "Independent Director",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "formattedStartDate": "2022 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 49,
+  "ageYear": 2024
+}

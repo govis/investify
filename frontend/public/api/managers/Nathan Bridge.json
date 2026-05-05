@@ -1,0 +1,26 @@
+{
+  "id": "Nathan Bridge",
+  "name": "Nathan Bridge",
+  "background": "Mr. Bridge is a professional geologist with experience in uranium exploration in the Athabasca Basin.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "CanAlaska Uranium Ltd.",
+      "ticker": "CVV",
+      "exchange": "TSX",
+      "website": "https://canalaska.com/",
+      "title": "Vice President, Exploration",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

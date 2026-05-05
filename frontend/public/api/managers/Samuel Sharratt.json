@@ -1,0 +1,26 @@
+{
+  "id": "Samuel Sharratt",
+  "name": "Samuel Sharratt",
+  "background": "Mr. Sharratt has experience in corporate development and investor relations within the mining sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Uranium Royalty Corp.",
+      "ticker": "UROY",
+      "exchange": "TSX",
+      "website": "https://www.uraniumroyalty.com/",
+      "title": "Vice President, Corporate Development",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "formattedStartDate": "2023 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

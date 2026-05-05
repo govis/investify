@@ -1,0 +1,39 @@
+{
+  "id": "Tufan Erginbilgic",
+  "name": "Tufan Erginbilgic",
+  "background": "Tufan Erginbilgic joined Rolls-Royce as Chief Executive Officer in January 2023. He previously spent over 20 years at BP, including as CEO of BP's Downstream business. He has held several non-executive directorships in heavy industry and manufacturing companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Rolls-Royce Holdings plc",
+      "ticker": "RR",
+      "exchange": ".LSE",
+      "website": "https://www.rolls-royce.com",
+      "title": "Chief Executive Officer",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "formattedStartDate": "2023 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Rolls-Royce Holdings plc",
+      "ticker": "RR",
+      "exchange": "LSE",
+      "website": "https://www.rolls-royce.com",
+      "title": "Chief Executive Officer, Executive Director",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "formattedStartDate": "2023 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Electrification",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 64,
+  "ageYear": 2023
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Tony Sage",
+  "name": "Tony Sage",
+  "background": "Mr. Sage has over 35 years of experience in the fields of corporate advisory services, funds management, and capital markets. He is the Executive Chairman of European Lithium Ltd and has served as a director of several ASX-listed companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Critical Metals Corp.",
+      "ticker": "CRML",
+      "exchange": "NASDAQ",
+      "website": "https://criticalmetalscorp.com",
+      "title": "Chief Executive Officer and Executive Chairman",
+      "startDate": "2024-02-27",
+      "endDate": null,
+      "formattedStartDate": "2024 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 63,
+  "ageYear": 2024
+}

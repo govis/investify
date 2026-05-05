@@ -1,0 +1,39 @@
+{
+  "id": "Thomas Ulrich",
+  "name": "Thomas Ulrich",
+  "background": "Managing Director, General Counsel and Chief Compliance Officer of Sprott Asset Management LP since 2012.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sprott Energy Transition Materials ETF",
+      "ticker": "SETM",
+      "exchange": "NASDAQ",
+      "website": "https://www.sprottetfs.com/setm-sprott-energy-transition-materials-etf/",
+      "title": "Secretary and Chief Compliance Officer",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sprott Uranium Miners ETF",
+      "ticker": "URNM",
+      "exchange": "NYSE",
+      "website": "https://sprottetfs.com/urnm-sprott-uranium-miners-etf/",
+      "title": "Secretary and Chief Compliance Officer",
+      "startDate": "2018-01-01",
+      "endDate": null,
+      "formattedStartDate": "2018 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Mahi Reddy",
+  "name": "Mahi Reddy",
+  "background": "Mr. Reddy has served as a director since 2022. He is the founder and former CEO of SemaConnect, which was acquired by Blink in 2022.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Blink Charging Co.",
+      "ticker": "BLNK",
+      "exchange": "NASDAQ",
+      "website": "https://www.blinkcharging.com",
+      "title": "Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 59,
+  "ageYear": 2024
+}

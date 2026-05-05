@@ -1,0 +1,29 @@
+{
+  "id": "Kevin Bullock",
+  "name": "Kevin Bullock",
+  "background": "Mr. Bullock is a registered Professional Mining Engineer and CEO of Signal Gold Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "B2Gold Corp.",
+      "ticker": "BTG",
+      "exchange": "NYSE",
+      "website": "https://www.b2gold.com",
+      "title": "Director",
+      "startDate": "2013-01-01",
+      "endDate": null,
+      "formattedStartDate": "2013 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Health, Safety, Environmental & Social Advisory Committee"
+  ],
+  "age": 59,
+  "ageYear": 2024
+}

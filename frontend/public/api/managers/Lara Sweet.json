@@ -1,0 +1,28 @@
+{
+  "id": "Lara Sweet",
+  "name": "Lara Sweet",
+  "background": "Lara Sweet has served as a member of our board of directors since March 2024. Ms. Sweet served as the Chief Financial Officer of Snap Inc. from May 2019 to March 2021.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Fastly, Inc.",
+      "ticker": "FSLY",
+      "exchange": "NYSE",
+      "website": "https://www.fastly.com",
+      "title": "Director",
+      "startDate": "2024-03-01",
+      "endDate": null,
+      "formattedStartDate": "2024 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 49,
+  "ageYear": 2024
+}

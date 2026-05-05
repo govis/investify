@@ -1,0 +1,27 @@
+{
+  "id": "Gareth Thomas",
+  "name": "Gareth Thomas",
+  "background": "Mr. Thomas has over 18 years of experience in the mining industry, specializing in project development and operations. He was previously with Wesdome Gold Mines Ltd. and has held various technical and management roles.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Fortune Bay Corp.",
+      "ticker": "FOR",
+      "exchange": "TSX",
+      "website": "https://fortunebaycorp.com",
+      "title": "President",
+      "startDate": "2023-05-01",
+      "endDate": null,
+      "formattedStartDate": "2023 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 45,
+  "ageYear": 2024
+}

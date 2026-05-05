@@ -1,0 +1,26 @@
+{
+  "id": "Tom Arseneault",
+  "name": "Tom Arseneault",
+  "background": "Tom is President and CEO of BAE Systems, Inc. and an Executive Director of BAE Systems plc. He has held various senior leadership positions within the US business.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "BAE Systems plc",
+      "ticker": "BA",
+      "exchange": "LSE",
+      "website": "https://www.baesystems.com",
+      "title": "President and CEO, BAE Systems, Inc.",
+      "startDate": "2020-04-01",
+      "endDate": null,
+      "formattedStartDate": "2020 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 63,
+  "ageYear": 2024
+}

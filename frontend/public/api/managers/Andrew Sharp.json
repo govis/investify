@@ -1,0 +1,26 @@
+{
+  "id": "Andrew Sharp",
+  "name": "Andrew Sharp",
+  "background": "Mr. Sharp is a mining engineer with over 35 years of experience in the industry. He joined Skeena in 2021 and was appointed CFO in 2022.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Skeena Resources Limited",
+      "ticker": "SKE",
+      "exchange": "TSX",
+      "website": "https://skeenaresources.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "formattedStartDate": "2022 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 59,
+  "ageYear": 2024
+}

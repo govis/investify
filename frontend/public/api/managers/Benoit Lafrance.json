@@ -1,0 +1,30 @@
+{
+  "id": "Benoit Lafrance",
+  "name": "Benoit Lafrance",
+  "background": "Dr. Lafrance is a geologist with over 25 years of experience in mineral exploration and academia. He is currently a Professor at Laurentian University and has served on the boards of several exploration companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Dryden Gold Corp.",
+      "ticker": "DRY",
+      "exchange": "TSX",
+      "website": "https://drydengold.com",
+      "title": "Independent Director",
+      "startDate": "2023-05-01",
+      "endDate": null,
+      "formattedStartDate": "2023 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 52,
+  "ageYear": 2024
+}

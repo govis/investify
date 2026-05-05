@@ -1,0 +1,26 @@
+{
+  "id": "Jean Hu",
+  "name": "Jean Hu",
+  "background": "Ms. Hu is AMD’s Executive Vice President, Chief Financial Officer and Treasurer. She joined AMD in January 2023. Previously, she served as Executive Vice President and Chief Financial Officer of Marvell Technology, Inc. from 2016 to 2023. She also held senior financial leadership roles at Qlogic and Conexant Systems.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Advanced Micro Devices, Inc.",
+      "ticker": "AMD",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "title": "Executive Vice President, Chief Financial Officer and Treasurer",
+      "startDate": "2023-01-23",
+      "endDate": null,
+      "formattedStartDate": "2023 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 60,
+  "ageYear": 2024
+}

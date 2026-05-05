@@ -1,0 +1,28 @@
+{
+  "id": "Patrick Walta",
+  "name": "Patrick Walta",
+  "background": "Mr. Walta is a qualified metallurgist and mineral economist with over 20 years of experience in the mining industry. He was the Managing Director of Newcrest Mining Limited.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Newmont Corporation",
+      "ticker": "NEM",
+      "exchange": "NYSE",
+      "website": "https://www.newmont.com",
+      "title": "Independent Director",
+      "startDate": "2023-11-01",
+      "endDate": null,
+      "formattedStartDate": "2023 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Safety and Sustainability Committee"
+  ],
+  "age": 42,
+  "ageYear": 2024
+}

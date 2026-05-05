@@ -1,0 +1,29 @@
+{
+  "id": "Wyatt Buck",
+  "name": "Wyatt Buck",
+  "background": "Mr. Buck is a mining executive with over 35 years’ experience in the mining industry, specifically in uranium. He held senior roles at Cameco Corporation, including General Manager of the McArthur River uranium mine.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Boss Energy Limited",
+      "ticker": "BOE",
+      "exchange": "ASX",
+      "website": "https://www.bossenergy.com",
+      "title": "Non-Executive Chairman",
+      "startDate": "2021-11-01",
+      "endDate": null,
+      "formattedStartDate": "2021 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "age": null,
+  "ageYear": null
+}

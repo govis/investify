@@ -1,0 +1,29 @@
+{
+  "id": "Mark Malcolm",
+  "name": "Mark Malcolm",
+  "background": "Former President and CEO of Tower International, Inc. Former executive at Ford Motor Company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "General Dynamics Corporation",
+      "ticker": "GD",
+      "exchange": "NYSE",
+      "website": "https://www.gd.com",
+      "title": "Director",
+      "startDate": "2015-01-01",
+      "endDate": null,
+      "formattedStartDate": "2015 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Compensation"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

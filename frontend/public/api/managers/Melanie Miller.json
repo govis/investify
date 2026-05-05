@@ -1,0 +1,29 @@
+{
+  "id": "Melanie Miller",
+  "name": "Melanie Miller",
+  "background": "Ms. Miller has over 25 years of experience in the mining and financial sectors. She is currently an independent consultant.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Seabridge Gold Inc.",
+      "ticker": "SA",
+      "exchange": "NYSE",
+      "website": "https://www.seabridgegold.com",
+      "title": "Director",
+      "startDate": "2020-01-01",
+      "endDate": null,
+      "formattedStartDate": "2020 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Governance Committee"
+  ],
+  "age": 52,
+  "ageYear": 2024
+}

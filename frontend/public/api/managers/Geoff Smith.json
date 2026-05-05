@@ -1,0 +1,26 @@
+{
+  "id": "Geoff Smith",
+  "name": "Geoff Smith",
+  "background": "Mr. Smith is the Vice President, Corporate Development & Commercial. He is a lawyer by training and has extensive experience in corporate finance, mergers and acquisitions, and commercial negotiations within the mining industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Denison Mines Corp.",
+      "ticker": "DNN",
+      "exchange": "TSX",
+      "website": "https://denisonmines.com",
+      "title": "Vice President, Corporate Development & Commercial",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 45,
+  "ageYear": 2024
+}

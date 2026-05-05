@@ -1,0 +1,26 @@
+{
+  "id": "Christopher Raymond",
+  "name": "Christopher Raymond",
+  "background": "Mr. Raymond is President and CEO of Boeing Global Services. He previously served as Boeing's Chief Sustainability Officer.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "The Boeing Company",
+      "ticker": "BA",
+      "exchange": "NYSE",
+      "website": "https://www.boeing.com",
+      "title": "President and CEO, Boeing Global Services",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "formattedStartDate": "2024 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 59,
+  "ageYear": 2024
+}

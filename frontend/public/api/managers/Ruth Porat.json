@@ -1,0 +1,27 @@
+{
+  "id": "Ruth Porat",
+  "name": "Ruth Porat",
+  "background": "Ruth Porat has served as the President and Chief Investment Officer of Alphabet and Google since September 2023, and as the Chief Financial Officer of Alphabet and Google since May 2015. Prior to joining Google, she was at Morgan Stanley, where she served as Executive Vice President and Chief Financial Officer from 2010 to 2015.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Alphabet Inc.",
+      "ticker": "GOOGL",
+      "exchange": "NASDAQ",
+      "website": "https://abc.xyz",
+      "title": "President and Chief Investment Officer, Chief Financial Officer",
+      "startDate": "2023-09-01",
+      "endDate": null,
+      "formattedStartDate": "2023 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 66,
+  "ageYear": 2024
+}

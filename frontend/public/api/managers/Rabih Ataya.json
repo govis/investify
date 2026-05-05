@@ -1,0 +1,28 @@
+{
+  "id": "Rabih Ataya",
+  "name": "Rabih Ataya",
+  "background": "Mr. Ataya has extensive experience in international business development and project management.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Western Magnesium Corporation",
+      "ticker": "WMG",
+      "exchange": "TSX",
+      "website": "https://westernmagnesium.com",
+      "title": "Director",
+      "startDate": "2018-01-01",
+      "endDate": null,
+      "formattedStartDate": "2018 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 57,
+  "ageYear": 2023
+}

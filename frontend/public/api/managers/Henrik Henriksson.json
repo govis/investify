@@ -1,0 +1,40 @@
+{
+  "id": "Henrik Henriksson",
+  "name": "Henrik Henriksson",
+  "background": "CEO of H2 Green Steel. Former CEO of Scania.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Saab AB",
+      "ticker": "SAAB-B",
+      "exchange": "STO",
+      "website": "https://www.saab.com",
+      "title": "Member of the Board",
+      "startDate": "2021-04-13",
+      "endDate": null,
+      "formattedStartDate": "2021 April",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Saab Aktiebolag",
+      "ticker": "SAAB",
+      "exchange": "STO",
+      "website": "https://www.saab.com",
+      "title": "Member of the Board",
+      "startDate": "2021-04-13",
+      "endDate": null,
+      "formattedStartDate": "2021 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Remuneration Committee"
+  ],
+  "age": 54,
+  "ageYear": 2024
+}

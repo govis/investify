@@ -1,0 +1,26 @@
+{
+  "id": "John McCluskey",
+  "name": "John McCluskey",
+  "background": "Mr. McCluskey is the President and Chief Executive Officer of Alamos Gold Inc. and has been a Director since February 2003. He was a co-founder of the Company. Previously, he was the President and CEO of Grayd Resource Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Alamos Gold Inc.",
+      "ticker": "AGI",
+      "exchange": "NYSE",
+      "website": "https://www.alamosgold.com",
+      "title": "Director, President and Chief Executive Officer",
+      "startDate": "2003-02-01",
+      "endDate": null,
+      "formattedStartDate": "2003 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 63,
+  "ageYear": 2024
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Marshall Koval",
+  "name": "Marshall Koval",
+  "background": "CEO of Lumina Gold Corp. Over 35 years of experience in executive and technical roles in the mining industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Equinox Gold Corp.",
+      "ticker": "EQX",
+      "exchange": "NYSE",
+      "website": "https://www.equinoxgold.com",
+      "title": "Independent Director",
+      "startDate": "2017-12-22",
+      "endDate": null,
+      "formattedStartDate": "2017 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Technical Committee (Chair)"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

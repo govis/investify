@@ -1,0 +1,29 @@
+{
+  "id": "Wayne Hubert",
+  "name": "Wayne Hubert",
+  "background": "Mr. Hubert is a mining executive with over 30 years of experience. He was previously CEO of Andean Resources Ltd. and held senior roles with Meridian Gold Inc. He is currently Chairman of Cassiar Gold Corp. and a Director of Inmet Mining.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Revival Gold Inc.",
+      "ticker": "RVG",
+      "exchange": "TSX",
+      "website": "https://revival-gold.com",
+      "title": "Non-Executive Chairman",
+      "startDate": "2017-01-01",
+      "endDate": null,
+      "formattedStartDate": "2017 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation, Governance and Nominating Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

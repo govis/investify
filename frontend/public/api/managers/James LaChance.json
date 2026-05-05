@@ -1,0 +1,29 @@
+{
+  "id": "James LaChance",
+  "name": "James LaChance",
+  "background": "Founder and CEO of Discovery Capital Management. He has over 25 years of experience in investment management and corporate restructuring.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Terran Orbital Corporation",
+      "ticker": "LLAP",
+      "exchange": "NYSE",
+      "website": "https://terranorbital.com",
+      "title": "Independent Director",
+      "startDate": "2022-03-01",
+      "endDate": null,
+      "formattedStartDate": "2022 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

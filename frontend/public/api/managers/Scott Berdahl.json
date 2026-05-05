@@ -1,0 +1,26 @@
+{
+  "id": "Scott Berdahl",
+  "name": "Scott Berdahl",
+  "background": "Mr. Berdahl is a professional geologist with over 15 years of experience in the mineral exploration industry. He has been involved in the discovery and development of several mineral deposits in the Yukon and elsewhere in Canada. He holds a B.Sc. in Geology from the University of British Columbia and an M.Sc. in Earth Science from the University of Waterloo.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Snowline Gold Corp.",
+      "ticker": "SGD",
+      "exchange": "TSX",
+      "website": "https://snowlinegold.com",
+      "title": "Chief Executive Officer and Director",
+      "startDate": "2020-11-27",
+      "endDate": null,
+      "formattedStartDate": "2020 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 38,
+  "ageYear": 2024
+}

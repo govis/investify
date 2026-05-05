@@ -1,0 +1,29 @@
+{
+  "id": "Renée James",
+  "name": "Renée James",
+  "background": "Founder, Chairman and CEO of Ampere Computing and former President of Intel Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Oracle Corporation",
+      "ticker": "ORCL",
+      "exchange": "NYSE",
+      "website": "https://www.oracle.com",
+      "title": "Independent Director",
+      "startDate": "2015-12-01",
+      "endDate": null,
+      "formattedStartDate": "2015 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

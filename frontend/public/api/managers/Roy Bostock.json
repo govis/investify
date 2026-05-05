@@ -1,0 +1,29 @@
+{
+  "id": "Roy Bostock",
+  "name": "Roy Bostock",
+  "background": "Chairman of the Partnership for New York City and former Chairman of Yahoo! Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Duke Energy Corporation",
+      "ticker": "DUK",
+      "exchange": "NYSE",
+      "website": "https://www.duke-energy.com",
+      "title": "Independent Director",
+      "startDate": "2012-01-01",
+      "endDate": null,
+      "formattedStartDate": "2012 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance Committee",
+    "Finance and Risk Management Committee"
+  ],
+  "age": 83,
+  "ageYear": 2024
+}

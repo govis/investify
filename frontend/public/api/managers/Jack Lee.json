@@ -1,0 +1,28 @@
+{
+  "id": "Jack Lee",
+  "name": "Jack Lee",
+  "background": "Mr. Lee is the President of Lee-Side Management Ltd. and has extensive experience in the energy and resource sectors.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sprott Physical Uranium Trust",
+      "ticker": "U",
+      "exchange": "UN.TSX",
+      "website": "https://sprott.com/investment-strategies/physical-commodity-funds/uranium/",
+      "title": "Chair and Independent Trustee",
+      "startDate": "2021-07-19",
+      "endDate": null,
+      "formattedStartDate": "2021 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 76,
+  "ageYear": 2024
+}

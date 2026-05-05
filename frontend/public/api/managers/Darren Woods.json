@@ -1,0 +1,26 @@
+{
+  "id": "Darren Woods",
+  "name": "Darren Woods",
+  "background": "Chairman of the Board and Chief Executive Officer since 2017. Joined ExxonMobil in 1992 and held various senior leadership positions in the refining, supply, and chemicals businesses.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Exxon Mobil Corporation",
+      "ticker": "XOM",
+      "exchange": "NYSE",
+      "website": "https://www.exxonmobil.com",
+      "title": "Chairman and CEO",
+      "startDate": "2017-01-01",
+      "endDate": null,
+      "formattedStartDate": "2017 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 59,
+  "ageYear": 2024
+}

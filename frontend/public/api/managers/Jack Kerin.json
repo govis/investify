@@ -1,0 +1,26 @@
+{
+  "id": "Jack Kerin",
+  "name": "Jack Kerin",
+  "background": "Mr. Kerin has served as our Chief Financial Officer since September 2023. Prior to joining the Company, he served as the Corporate Controller for NovaGold Resources Inc. from 2018 to 2023.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Contango Ore, Inc.",
+      "ticker": "CTGO",
+      "exchange": "NYSE",
+      "website": "https://www.contangoore.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2023-09-01",
+      "endDate": null,
+      "formattedStartDate": "2023 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 42,
+  "ageYear": 2023
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Gary Brown",
+  "name": "Gary Brown",
+  "background": "Mr. Brown has over 30 years of experience in the mining sector and joined Wheaton in 2008. He previously held senior finance roles at Canico Resource Corp. and Zebra Environmental Corp.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Wheaton Precious Metals Corp.",
+      "ticker": "WPM",
+      "exchange": "NYSE",
+      "website": "https://www.wheatonpm.com",
+      "title": "Senior Vice President and Chief Financial Officer",
+      "startDate": "2008-06-01",
+      "endDate": null,
+      "formattedStartDate": "2008 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 64,
+  "ageYear": 2024
+}

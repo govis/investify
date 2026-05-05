@@ -1,0 +1,30 @@
+{
+  "id": "Doyle Beneby",
+  "name": "Doyle Beneby",
+  "background": "Mr. Beneby is the former President and CEO of CPS Energy. He has extensive experience in the energy and utility sectors.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Quanta Services, Inc.",
+      "ticker": "PWR",
+      "exchange": "NYSE",
+      "website": "https://www.quantaservices.com",
+      "title": "Independent Director",
+      "startDate": "2016-01-01",
+      "endDate": null,
+      "formattedStartDate": "2016 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Investment Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

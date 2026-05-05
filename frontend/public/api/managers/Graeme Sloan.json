@@ -1,0 +1,26 @@
+{
+  "id": "Graeme Sloan",
+  "name": "Graeme Sloan",
+  "background": "Mr. Sloan is a mining engineer with over 35 years of experience in project development and operations. He was previously Managing Director of Karora and has held senior roles at several Australian mining companies including Tanami Gold NL and Herencia Resources PLC.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Karora Resources Inc.",
+      "ticker": "KRR",
+      "exchange": "TSX",
+      "website": "https://www.karoraresources.com",
+      "title": "Managing Director, Australian Operations",
+      "startDate": "2019-02-01",
+      "endDate": null,
+      "formattedStartDate": "2019 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 63,
+  "ageYear": 2024
+}

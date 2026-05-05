@@ -1,0 +1,29 @@
+{
+  "id": "Mark Jensen",
+  "name": "Mark Jensen",
+  "background": "Managing Partner at M. Jensen Investment Management. Former partner at Deloitte.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Li-Cycle Holdings Corp.",
+      "ticker": "LICY",
+      "exchange": "NYSE",
+      "website": "https://li-cycle.com",
+      "title": "Independent Director",
+      "startDate": "2021-08-01",
+      "endDate": null,
+      "formattedStartDate": "2021 August",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 54,
+  "ageYear": 2024
+}

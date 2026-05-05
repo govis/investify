@@ -1,0 +1,26 @@
+{
+  "id": "Michael Dell",
+  "name": "Michael Dell",
+  "background": "Michael S. Dell is the Chairman of the Board and Chief Executive Officer of Dell Technologies. He has served as Chairman of the Board since Dell's inception in 1984 and as Chief Executive Officer since 2004. Mr. Dell also served as CEO from 1984 to 2004.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Dell Technologies Inc.",
+      "ticker": "DELL",
+      "exchange": "NYSE",
+      "website": "https://www.dell.com",
+      "title": "Chairman of the Board, Chief Executive Officer",
+      "startDate": "1984-01-01",
+      "endDate": null,
+      "formattedStartDate": "1984 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 59,
+  "ageYear": 2024
+}

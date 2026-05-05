@@ -1,0 +1,28 @@
+{
+  "id": "Simon Lill",
+  "name": "Simon Lill",
+  "background": "Mr. Lill has over 35 years' experience in stockbroking, capital raising, management, and business development in the manufacturing and resources sectors. He has been a Director of several ASX listed companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "De Grey Mining Limited",
+      "ticker": "DEG",
+      "exchange": "ASX",
+      "website": "https://degreymining.com.au",
+      "title": "Non-Executive Chairman",
+      "startDate": "2013-10-03",
+      "endDate": null,
+      "formattedStartDate": "2013 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Remuneration and Nomination Committee"
+  ],
+  "age": null,
+  "ageYear": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Derek Evans",
+  "name": "Derek Evans",
+  "background": "CEO of MEG Energy Corp. and former CEO of Pengrowth Energy Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Franco-Nevada Corporation",
+      "ticker": "FNV",
+      "exchange": "NYSE",
+      "website": "https://www.franco-nevada.com",
+      "title": "Independent Director",
+      "startDate": "2008-05-01",
+      "endDate": null,
+      "formattedStartDate": "2008 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

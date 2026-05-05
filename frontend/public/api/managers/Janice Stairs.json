@@ -1,0 +1,29 @@
+{
+  "id": "Janice Stairs",
+  "name": "Janice Stairs",
+  "background": "Ms. Stairs is a lawyer with over 30 years of experience in the mining industry. She is currently the Chair of the Board of Trilogy Metals Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Artemis Gold Inc.",
+      "ticker": "ARTG",
+      "exchange": "TSX",
+      "website": "https://www.artemisgoldinc.com",
+      "title": "Independent Director",
+      "startDate": "2019-01-10",
+      "endDate": null,
+      "formattedStartDate": "2019 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Governance and Nomination Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Clive Jones",
+  "name": "Clive Jones",
+  "background": "Clive Jones has over 30 years of experience in mineral exploration and management. He has been involved in the discovery and development of numerous mineral deposits and has served as a director of several ASX-listed companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Bannerman Energy Ltd",
+      "ticker": "BMN",
+      "exchange": "ASX",
+      "website": "https://bannermanenergy.com",
+      "title": "Non-Executive Director",
+      "startDate": "2007-01-12",
+      "endDate": null,
+      "formattedStartDate": "2007 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Remuneration and Nomination Committee (Chair)"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

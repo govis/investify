@@ -1,0 +1,30 @@
+{
+  "id": "Benoit La Salle",
+  "name": "Benoit La Salle",
+  "background": "Mr. La Salle is a Chartered Professional Accountant and has over 25 years of experience in the mining industry. He is the founder of SEMAFO Inc. and has extensive experience in developing mining projects in Africa.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "GoviEx Uranium Inc.",
+      "ticker": "GXU",
+      "exchange": "TSXV",
+      "website": "https://www.goviex.com",
+      "title": "Independent Director",
+      "startDate": "2017-01-01",
+      "endDate": null,
+      "formattedStartDate": "2017 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

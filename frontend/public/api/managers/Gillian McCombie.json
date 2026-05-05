@@ -1,0 +1,26 @@
+{
+  "id": "Gillian McCombie",
+  "name": "Gillian McCombie",
+  "background": "Ms. McCombie has over 25 years of experience in human resources and corporate operations, previously holding senior roles at various mining companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NexGen Energy Ltd.",
+      "ticker": "NXE",
+      "exchange": "TSX",
+      "website": "https://www.nexgenenergy.ca",
+      "title": "Chief People Officer",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "formattedStartDate": "2022 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 50,
+  "ageYear": 2024
+}

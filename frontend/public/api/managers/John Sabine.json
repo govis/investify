@@ -1,0 +1,29 @@
+{
+  "id": "John Sabine",
+  "name": "John Sabine",
+  "background": "Mr. Sabine is a lawyer with over 40 years of experience in mining law and corporate finance.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Seabridge Gold Inc.",
+      "ticker": "SA",
+      "exchange": "NYSE",
+      "website": "https://www.seabridgegold.com",
+      "title": "Director",
+      "startDate": "2014-01-01",
+      "endDate": null,
+      "formattedStartDate": "2014 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Governance Committee"
+  ],
+  "age": 74,
+  "ageYear": 2024
+}

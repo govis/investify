@@ -1,0 +1,26 @@
+{
+  "id": "Scott Davis",
+  "name": "Scott Davis",
+  "background": "Mr. Davis is a partner of Cross Davis & Company LLP, a firm focused on providing accounting and management services to publicly listed companies. He has over 20 years of experience in the financial sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Tudor Gold Corp.",
+      "ticker": "TUD",
+      "exchange": "TSX",
+      "website": "https://tudor-gold.com/",
+      "title": "Chief Financial Officer",
+      "startDate": "2016-01-01",
+      "endDate": null,
+      "formattedStartDate": "2016 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 51,
+  "ageYear": 2024
+}

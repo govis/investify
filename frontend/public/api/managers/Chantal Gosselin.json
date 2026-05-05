@@ -1,0 +1,29 @@
+{
+  "id": "Chantal Gosselin",
+  "name": "Chantal Gosselin",
+  "background": "Ms. Gosselin is a corporate director with over 25 years of experience in the mining industry and financial services.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Wheaton Precious Metals Corp.",
+      "ticker": "WPM",
+      "exchange": "NYSE",
+      "website": "https://www.wheatonpm.com",
+      "title": "Independent Director",
+      "startDate": "2014-05-01",
+      "endDate": null,
+      "formattedStartDate": "2014 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Sustainability Committee"
+  ],
+  "age": 56,
+  "ageYear": 2024
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Yvonne Wassenaar",
+  "name": "Yvonne Wassenaar",
+  "background": "Former CEO of Puppet. Former executive at Airware, New Relic, and VMware. Director at Forrester Research and JFrog.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Arista Networks, Inc.",
+      "ticker": "ANET",
+      "exchange": "NYSE",
+      "website": "https://www.arista.com",
+      "title": "Independent Director",
+      "startDate": "2022-12-01",
+      "endDate": null,
+      "formattedStartDate": "2022 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 55,
+  "ageYear": 2024
+}

@@ -1,0 +1,26 @@
+{
+  "id": "James Marsh",
+  "name": "James Marsh",
+  "background": "Mr. Marsh is a qualified industrial chemist with over 30 years’ experience in the mining and mineral processing industry. He has held senior positions with several major global companies including Rio Tinto and WMC Resources.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Boss Energy Limited",
+      "ticker": "BOE",
+      "exchange": "ASX",
+      "website": "https://www.bossenergy.com",
+      "title": "General Manager - Operations",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "formattedStartDate": "2023 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

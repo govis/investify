@@ -1,0 +1,41 @@
+{
+  "id": "Richard Patricio",
+  "name": "Richard Patricio",
+  "background": "Mr. Patricio is the President and CEO of Mega Uranium Ltd. and has over 20 years of experience in the mining sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NexGen Energy Ltd.",
+      "ticker": "NXE",
+      "exchange": "TSX",
+      "website": "https://www.nexgenenergy.ca",
+      "title": "Independent Director",
+      "startDate": "2013-02-01",
+      "endDate": null,
+      "formattedStartDate": "2013 February",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Toro Energy Limited",
+      "ticker": "TOE",
+      "exchange": "ASX",
+      "website": "https://www.toroenergy.com.au",
+      "title": "Non-Executive Director",
+      "startDate": "2015-12-01",
+      "endDate": null,
+      "formattedStartDate": "2015 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Audit and Risk Committee",
+    "Governance Committee"
+  ],
+  "age": 51,
+  "ageYear": 2024
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Amy Banse",
+  "first_name": "Amy",
+  "last_name": "Banse",
+  "age": 64,
+  "age_year": 2024,
+  "background": "Former Managing Director and Head of Funds for Comcast Ventures. Director since 2012.",
+  "picture_url": "https://www.adobe.com/content/dam/cc/en/leaders/images/Banse-Amy-450x650.jpg.img.jpg",
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "url": "https://www.linkedin.com/in/amybanse",
+      "name": "LinkedIn"
+    },
+    {
+      "url": "https://x.com/abanse2",
+      "name": "X (Twitter)"
+    }
+  ],
+  "committees": [
+    "Executive Committee",
+    "Governance and Sustainability Committee"
+  ],
+  "companies": [
+    {
+      "name": "Adobe Inc.",
+      "ticker": "ADBE",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "start_date": "2012-05-01",
+      "end_date": null
+    }
+  ],
+  "picture_local": null,
+  "enrichment_status": "success"
+}

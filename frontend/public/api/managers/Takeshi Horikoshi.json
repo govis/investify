@@ -1,0 +1,26 @@
+{
+  "id": "Takeshi Horikoshi",
+  "name": "Takeshi Horikoshi",
+  "background": "Joined Komatsu in 1985. Extensive experience in finance and accounting. Previously served as General Manager of Corporate Controlling Department.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Komatsu Ltd.",
+      "ticker": "KMTUY",
+      "exchange": "OTC",
+      "website": "https://www.komatsu.jp",
+      "title": "Senior Executive Officer and Chief Financial Officer, Director",
+      "startDate": "2022-04-01",
+      "endDate": null,
+      "formattedStartDate": "2022 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 63,
+  "ageYear": 2024
+}

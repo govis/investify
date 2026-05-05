@@ -1,0 +1,27 @@
+{
+  "id": "Kevin McCoy",
+  "name": "Kevin McCoy",
+  "background": "Vice Admiral McCoy (Ret.) has served as President of BWXT Government Operations since 2022. He previously served as President of Irving Shipbuilding Inc. and had a 36-year career in the U.S. Navy.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "BWX Technologies, Inc.",
+      "ticker": "BWXT",
+      "exchange": "NYSE",
+      "website": "https://www.bwxt.com",
+      "title": "President, BWXT Government Operations",
+      "startDate": "2022-03-01",
+      "endDate": null,
+      "formattedStartDate": "2022 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 63,
+  "ageYear": 2024
+}

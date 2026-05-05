@@ -1,0 +1,27 @@
+{
+  "id": "F.C. Tseng",
+  "name": "F.C. Tseng",
+  "background": "Dr. F.C. Tseng is a Director and former Vice Chairman of TSMC. He was one of the co-founders of TSMC and served as President from 1998 to 2005. He holds a Ph.D. in Electrical Engineering from National Cheng Kung University.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Taiwan Semiconductor Manufacturing Company Limited",
+      "ticker": "TSM",
+      "exchange": "NYSE",
+      "website": "https://www.tsmc.com",
+      "title": "Director",
+      "startDate": "1987-02-21",
+      "endDate": null,
+      "formattedStartDate": "1987 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 77,
+  "ageYear": 2024
+}

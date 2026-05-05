@@ -1,0 +1,28 @@
+{
+  "id": "Susan Wojcicki",
+  "name": "Susan Wojcicki",
+  "background": "Former CEO of YouTube. She has served as a Director since 2014.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Salesforce, Inc.",
+      "ticker": "CRM",
+      "exchange": "NYSE",
+      "website": "https://www.salesforce.com",
+      "title": "Independent Director",
+      "startDate": "2014-12-01",
+      "endDate": null,
+      "formattedStartDate": "2014 December",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 55,
+  "ageYear": 2024
+}

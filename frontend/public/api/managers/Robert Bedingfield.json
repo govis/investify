@@ -1,0 +1,28 @@
+{
+  "id": "Robert Bedingfield",
+  "name": "Robert Bedingfield",
+  "background": "Former Senior Partner at Ernst & Young LLP. He has extensive experience in financial reporting, audit, and risk management for major corporations.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Science Applications International Corporation",
+      "ticker": "SAIC",
+      "exchange": "NASDAQ",
+      "website": "https://www.saic.com",
+      "title": "Independent Director",
+      "startDate": "2013-09-27",
+      "endDate": null,
+      "formattedStartDate": "2013 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee (Chair)"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

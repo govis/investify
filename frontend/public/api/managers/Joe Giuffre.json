@@ -1,0 +1,29 @@
+{
+  "id": "Joe Giuffre",
+  "name": "Joe Giuffre",
+  "background": "Mr. Giuffre is a lawyer with over 30 years of experience in corporate and securities law. He is currently a partner at a law firm in Vancouver.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Victoria Gold Corp.",
+      "ticker": "VGCX",
+      "exchange": "TSX",
+      "website": "https://vgcx.com",
+      "title": "Independent Director",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee (Chair)",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

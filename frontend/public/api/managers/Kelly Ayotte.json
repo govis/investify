@@ -1,0 +1,29 @@
+{
+  "id": "Kelly Ayotte",
+  "name": "Kelly Ayotte",
+  "background": "Former U.S. Senator for New Hampshire and former Attorney General of New Hampshire.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Caterpillar Inc.",
+      "ticker": "CAT",
+      "exchange": "NYSE",
+      "website": "https://www.caterpillar.com",
+      "title": "Independent Director",
+      "startDate": "2017-01-01",
+      "endDate": null,
+      "formattedStartDate": "2017 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Public Policy and Sustainability Committee"
+  ],
+  "age": 55,
+  "ageYear": 2024
+}

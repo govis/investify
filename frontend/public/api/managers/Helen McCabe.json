@@ -1,0 +1,39 @@
+{
+  "id": "Helen McCabe",
+  "name": "Helen McCabe",
+  "background": "Helen McCabe joined Rolls-Royce as Chief Financial Officer in September 2023. She was previously Senior Vice President, Finance for BP's Customer & Products division and has extensive experience in senior finance roles within the energy sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Rolls-Royce Holdings plc",
+      "ticker": "RR",
+      "exchange": ".LSE",
+      "website": "https://www.rolls-royce.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2023-09-01",
+      "endDate": null,
+      "formattedStartDate": "2023 September",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Rolls-Royce Holdings plc",
+      "ticker": "RR",
+      "exchange": "LSE",
+      "website": "https://www.rolls-royce.com",
+      "title": "Chief Financial Officer, Executive Director",
+      "startDate": "2023-09-01",
+      "endDate": null,
+      "formattedStartDate": "2023 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Electrification",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 54,
+  "ageYear": 2023
+}

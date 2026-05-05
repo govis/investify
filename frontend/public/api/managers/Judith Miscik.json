@@ -1,0 +1,30 @@
+{
+  "id": "Judith Miscik",
+  "name": "Judith Miscik",
+  "background": "Former CEO and Vice Chairman of Kissinger Associates, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "website": "https://www.gm.com",
+      "title": "Independent Director",
+      "startDate": "2018-10-08",
+      "endDate": null,
+      "formattedStartDate": "2018 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Finance Committee",
+    "Governance and Corporate Responsibility Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

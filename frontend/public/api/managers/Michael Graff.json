@@ -1,0 +1,29 @@
+{
+  "id": "Michael Graff",
+  "name": "Michael Graff",
+  "background": "Managing Director of Warburg Pincus LLC.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "TransDigm Group Incorporated",
+      "ticker": "TDG",
+      "exchange": "NYSE",
+      "website": "https://www.transdigm.com",
+      "title": "Independent Director",
+      "startDate": "2003-07-01",
+      "endDate": null,
+      "formattedStartDate": "2003 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 72,
+  "ageYear": 2024
+}

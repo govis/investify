@@ -1,0 +1,28 @@
+{
+  "id": "Laurence Chapman",
+  "name": "Laurence Chapman",
+  "background": "Former Chief Financial Officer of Goodrich Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Digital Realty Trust, Inc.",
+      "ticker": "DLR",
+      "exchange": "NYSE",
+      "website": "https://www.digitalrealty.com",
+      "title": "Director",
+      "startDate": "2004-10-01",
+      "endDate": null,
+      "formattedStartDate": "2004 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

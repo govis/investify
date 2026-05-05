@@ -1,0 +1,29 @@
+{
+  "id": "Murray John",
+  "name": "Murray John",
+  "background": "Mr. John is a mining engineer with over 35 years of experience in the resource sector. He was formerly the President and CEO of Dundee Resources Limited and served as a director of several mining companies including Osisko Gold Royalties Ltd. and Alamos Gold Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Discovery Silver Corp.",
+      "ticker": "DSV",
+      "exchange": "TSX",
+      "website": "https://discoverysilver.com",
+      "title": "Chairman",
+      "startDate": "2017-05-15",
+      "endDate": null,
+      "formattedStartDate": "2017 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

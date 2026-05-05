@@ -1,0 +1,28 @@
+{
+  "id": "Tim Warman",
+  "name": "Tim Warman",
+  "background": "Mr. Warman is a geologist with over 30 years of experience. He was previously CEO of Fiore Gold Ltd. and held senior roles with Dalradian Resources Inc. and Aurelian Resources Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Revival Gold Inc.",
+      "ticker": "RVG",
+      "exchange": "TSX",
+      "website": "https://revival-gold.com",
+      "title": "Independent Director",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "formattedStartDate": "2022 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Technical and Health, Safety, Environmental and Social Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

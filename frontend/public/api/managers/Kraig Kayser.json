@@ -1,0 +1,29 @@
+{
+  "id": "Kraig Kayser",
+  "name": "Kraig Kayser",
+  "background": "Mr. Kayser is the retired President and CEO of Seneca Foods Corporation. He has served as a director since 2011.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Moog Inc.",
+      "ticker": "MOG",
+      "exchange": "A.NYSE",
+      "website": "https://www.moog.com",
+      "title": "Independent Director",
+      "startDate": "2011",
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Governance Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

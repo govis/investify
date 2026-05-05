@@ -1,0 +1,27 @@
+{
+  "id": "Jeffrey Henley",
+  "name": "Jeffrey Henley",
+  "background": "Mr. Henley has been Vice Chairman of the Board since September 2014. He served as Chairman of the Board from 2004 to 2014 and as Executive Vice President and Chief Financial Officer from 1991 to 2004.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Oracle Corporation",
+      "ticker": "ORCL",
+      "exchange": "NYSE",
+      "website": "https://www.oracle.com",
+      "title": "Vice Chairman",
+      "startDate": "2014-09-01",
+      "endDate": null,
+      "formattedStartDate": "2014 September",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 79,
+  "ageYear": 2024
+}

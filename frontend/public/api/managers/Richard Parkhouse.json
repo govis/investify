@@ -1,0 +1,26 @@
+{
+  "id": "Richard Parkhouse",
+  "name": "Richard Parkhouse",
+  "background": "Mr. Parkhouse has over 30 years of experience in the financial services and resource sectors. He has held various senior management roles and has extensive experience in corporate finance and investor relations.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Forsys Metals Corp.",
+      "ticker": "FSY",
+      "exchange": "TSX",
+      "website": "https://forsysmetals.com",
+      "title": "Director, Business Development, Director",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 63,
+  "ageYear": 2024
+}

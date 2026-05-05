@@ -1,0 +1,27 @@
+{
+  "id": "Stacy MacDiarmid",
+  "name": "Stacy MacDiarmid",
+  "background": "Ms. MacDiarmid has served as Chief Human Resources Officer since January 2021. She has been with Fluor since 1998.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Fluor Corporation",
+      "ticker": "FLR",
+      "exchange": "NYSE",
+      "website": "https://www.fluor.com",
+      "title": "Chief Human Resources Officer",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 51,
+  "ageYear": 2024
+}

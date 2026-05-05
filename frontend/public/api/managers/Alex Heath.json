@@ -1,0 +1,27 @@
+{
+  "id": "Alex Heath",
+  "name": "Alex Heath",
+  "background": "Mr. Heath has over 15 years of experience in the financial services and mining industries. He previously served as President and CEO of Ethos Gold Corp. (now Prospector Metals). He has also worked in investment banking with a focus on the mining sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Prospector Metals Corp.",
+      "ticker": "PPP",
+      "exchange": "TSX",
+      "website": "https://prospectormetalscorp.com",
+      "title": "Director",
+      "startDate": "2021-04-01",
+      "endDate": null,
+      "formattedStartDate": "2021 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

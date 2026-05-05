@@ -1,0 +1,41 @@
+{
+  "id": "Ann Mather",
+  "name": "Ann Mather",
+  "background": "Former CFO of Pixar. Director at Alphabet Inc., Netflix, and Bumble. Former director at Glu Mobile and MGM Holdings.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Arista Networks, Inc.",
+      "ticker": "ANET",
+      "exchange": "NYSE",
+      "website": "https://www.arista.com",
+      "title": "Independent Director",
+      "startDate": "2013-06-01",
+      "endDate": null,
+      "formattedStartDate": "2013 June",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Alphabet Inc.",
+      "ticker": "GOOGL",
+      "exchange": "NASDAQ",
+      "website": "https://abc.xyz",
+      "title": "Director",
+      "startDate": "2005-11-01",
+      "endDate": null,
+      "formattedStartDate": "2005 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Audit and Compliance Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

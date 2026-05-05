@@ -1,0 +1,37 @@
+{
+  "id": "Ian Cockerill",
+  "name": "Ian Cockerill",
+  "background": "Ian Cockerill has over 45 years of experience in the global natural resources industry. He previously served as CEO of Gold Fields and Anglo Coal, and was a non-executive director of Endeavour since 2019 before being appointed CEO.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "LSE",
+      "website": "https://www.endeavourmining.com",
+      "title": "Chief Executive Officer, Executive Director",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "formattedStartDate": "2024 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "TSX",
+      "website": "https://www.endeavourmining.com",
+      "title": "Chief Executive Officer, Executive Director",
+      "startDate": "2024-01-04",
+      "endDate": null,
+      "formattedStartDate": "2024 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 70,
+  "ageYear": 2024
+}

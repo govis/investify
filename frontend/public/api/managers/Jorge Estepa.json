@@ -1,0 +1,26 @@
+{
+  "id": "Jorge Estepa",
+  "name": "Jorge Estepa",
+  "background": "Mr. Estepa is a corporate secretary and administrator with over 25 years of experience in the administration of publicly traded companies. He has served as an officer and director of several resource companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Forsys Metals Corp.",
+      "ticker": "FSY",
+      "exchange": "TSX",
+      "website": "https://forsysmetals.com",
+      "title": "Corporate Secretary",
+      "startDate": "2004-01-01",
+      "endDate": null,
+      "formattedStartDate": "2004 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 56,
+  "ageYear": 2024
+}

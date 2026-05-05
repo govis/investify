@@ -1,0 +1,26 @@
+{
+  "id": "Joe St. Julian",
+  "name": "Joe St. Julian",
+  "background": "Joe St. Julian is President, Nuclear. He joined the company in 2022 from Worley, where he was Executive Vice President.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AtkinsRéalis Group Inc.",
+      "ticker": "ATRL",
+      "exchange": "TSX",
+      "website": "https://www.atkinsrealis.com",
+      "title": "President, Nuclear",
+      "startDate": "2022-04-01",
+      "endDate": null,
+      "formattedStartDate": "2022 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 54,
+  "ageYear": 2024
+}

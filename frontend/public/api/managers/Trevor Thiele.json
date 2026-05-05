@@ -1,0 +1,41 @@
+{
+  "id": "Trevor Thiele",
+  "name": "Trevor Thiele",
+  "background": "Mr. Thiele has over 30 years of experience in senior financial roles. He was the CFO of several major Australian resource companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NexGen Energy Ltd.",
+      "ticker": "NXE",
+      "exchange": "NYSE",
+      "website": "https://www.nexgenenergy.ca",
+      "title": "Independent Director",
+      "startDate": "2013-01-01",
+      "endDate": null,
+      "formattedStartDate": "2013 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "NexGen Energy Ltd.",
+      "ticker": "NXE",
+      "exchange": "TSX",
+      "website": "https://www.nexgenenergy.ca",
+      "title": "Independent Director",
+      "startDate": "2013-02-01",
+      "endDate": null,
+      "formattedStartDate": "2013 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Audit Committee (Chair)",
+    "Compensation Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

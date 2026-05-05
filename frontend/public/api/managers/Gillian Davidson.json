@@ -1,0 +1,29 @@
+{
+  "id": "Gillian Davidson",
+  "name": "Gillian Davidson",
+  "background": "Dr. Davidson is a sustainability advisor with over 20 years of experience in the extractives sector. She was previously Head of Mining & Metals at the World Economic Forum.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lundin Gold Inc.",
+      "ticker": "LUG",
+      "exchange": "TSX",
+      "website": "https://lundingold.com",
+      "title": "Independent Director",
+      "startDate": "2021-05-01",
+      "endDate": null,
+      "formattedStartDate": "2021 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee",
+    "Health, Safety, Environment and Sustainability Committee"
+  ],
+  "age": 53,
+  "ageYear": 2024
+}

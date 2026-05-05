@@ -1,0 +1,37 @@
+{
+  "id": "Guy Young",
+  "name": "Guy Young",
+  "background": "Guy Young joined Endeavour in 2023. He was previously CFO of Anglo American Platinum and has held various senior financial roles within the Anglo American Group.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "LSE",
+      "website": "https://www.endeavourmining.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2023-03-01",
+      "endDate": null,
+      "formattedStartDate": "2023 March",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "TSX",
+      "website": "https://www.endeavourmining.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2023-03-01",
+      "endDate": null,
+      "formattedStartDate": "2023 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 54,
+  "ageYear": 2024
+}

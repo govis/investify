@@ -1,0 +1,29 @@
+{
+  "id": "Bryan Murphy",
+  "name": "Bryan Murphy",
+  "background": "Mr. Murphy is a seasoned executive with over 30 years of experience in investment banking and corporate finance. He has held senior positions at several major financial institutions.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Western Uranium & Vanadium Corp.",
+      "ticker": "WUC",
+      "exchange": "TSX",
+      "website": "https://western-uranium.com",
+      "title": "Chairman of the Board and Independent Director",
+      "startDate": "2014-11-20",
+      "endDate": null,
+      "formattedStartDate": "2014 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

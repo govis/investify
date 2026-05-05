@@ -1,0 +1,38 @@
+{
+  "id": "Micael Johansson",
+  "name": "Micael Johansson",
+  "background": "President and CEO since 2019. Joined Saab in 1985. Previously Senior Vice President and Deputy CEO. Holds a B.Sc. in Mathematics and Computer Science.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Saab AB",
+      "ticker": "SAAB-B",
+      "exchange": "STO",
+      "website": "https://www.saab.com",
+      "title": "Member of the Board, President and CEO",
+      "startDate": "2019-10-23",
+      "endDate": null,
+      "formattedStartDate": "2019 October",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Saab Aktiebolag",
+      "ticker": "SAAB",
+      "exchange": "STO",
+      "website": "https://www.saab.com",
+      "title": "Member of the Board, President and CEO",
+      "startDate": "2019-10-23",
+      "endDate": null,
+      "formattedStartDate": "2019 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 64,
+  "ageYear": 2024
+}

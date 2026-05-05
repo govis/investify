@@ -1,0 +1,26 @@
+{
+  "id": "Drew Zimmerman",
+  "name": "Drew Zimmerman",
+  "background": "Mr. Zimmerman has over 15 years of experience in the financial services and resource sectors. He previously served as a derivatives trader and has been involved in various capacities with public resource companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Stallion Uranium Corp.",
+      "ticker": "STUD",
+      "exchange": "TSX",
+      "website": "https://stallionuranium.com",
+      "title": "Chief Executive Officer, Director",
+      "startDate": "2021-04-01",
+      "endDate": null,
+      "formattedStartDate": "2021 April",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 39,
+  "ageYear": 2024
+}

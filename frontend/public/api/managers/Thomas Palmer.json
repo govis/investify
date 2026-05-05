@@ -1,0 +1,26 @@
+{
+  "id": "Thomas Palmer",
+  "name": "Thomas Palmer",
+  "background": "Mr. Palmer has served as President and Chief Executive Officer since October 2019 and as President since June 2019. Previously, he served as First Vice President and Chief Operating Officer from 2016 to 2019 and Senior Vice President, Asia Pacific from 2015 to 2016.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Newmont Corporation",
+      "ticker": "NEM",
+      "exchange": "NYSE",
+      "website": "https://www.newmont.com",
+      "title": "President and Chief Executive Officer",
+      "startDate": "2019-10-01",
+      "endDate": null,
+      "formattedStartDate": "2019 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 57,
+  "ageYear": 2024
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Dennis Gibson",
+  "name": "Dennis Gibson",
+  "background": "Mr. Gibson is a CPA with over 30 years of experience in senior financial positions. He has been the CFO of Laramide since 2006.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Laramide Resources Ltd.",
+      "ticker": "LAM",
+      "exchange": "TSX",
+      "website": "https://laramide.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2006-01-01",
+      "endDate": null,
+      "formattedStartDate": "2006 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 70,
+  "ageYear": 2024
+}

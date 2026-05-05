@@ -1,0 +1,29 @@
+{
+  "id": "Michael Capellas",
+  "name": "Michael Capellas",
+  "background": "Founder and CEO of Capellas Strategic Partners. Former Chairman and CEO of First Data Corporation and Compaq Computer Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "website": "https://www.cisco.com",
+      "title": "Lead Independent Director",
+      "startDate": "2006-01-01",
+      "endDate": null,
+      "formattedStartDate": "2006 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Finance Committee",
+    "Nomination and Governance Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

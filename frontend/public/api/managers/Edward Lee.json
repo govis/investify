@@ -1,0 +1,26 @@
+{
+  "id": "Edward Lee",
+  "name": "Edward Lee",
+  "background": "Mr. Lee is a Chartered Professional Accountant with over 25 years of experience in financial reporting and corporate finance for public companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Western Magnesium Corporation",
+      "ticker": "WMG",
+      "exchange": "TSX",
+      "website": "https://westernmagnesium.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2021-05-01",
+      "endDate": null,
+      "formattedStartDate": "2021 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2023
+}

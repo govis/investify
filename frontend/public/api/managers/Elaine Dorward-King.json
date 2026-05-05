@@ -1,0 +1,43 @@
+{
+  "id": "Elaine Dorward-King",
+  "name": "Elaine Dorward-King",
+  "background": "Dr. Dorward-King has over 30 years of experience in the mining and chemical industries, with a focus on sustainability and environmental strategy. She previously held senior roles at Newmont and Rio Tinto.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NOVAGOLD RESOURCES INC.",
+      "ticker": "NG",
+      "exchange": "NYSE",
+      "website": "https://www.novagold.com",
+      "title": "Independent Director",
+      "startDate": "2020-01-01",
+      "endDate": null,
+      "formattedStartDate": "2020 January",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sibanye Stillwater Limited",
+      "ticker": "SBSW",
+      "exchange": "NYSE",
+      "website": "https://www.sibanyestillwater.com",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2020-03-27",
+      "endDate": null,
+      "formattedStartDate": "2020 March",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee",
+    "Health, Safety, Environment and Sustainability Committee",
+    "Safety and Health Committee",
+    "Social, Ethics and Sustainability Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

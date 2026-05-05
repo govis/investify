@@ -1,0 +1,26 @@
+{
+  "id": "Gaurav Kapoor",
+  "name": "Gaurav Kapoor",
+  "background": "Gaurav Kapoor is the Chief Financial Officer of AECOM. He previously served as Chief Accounting Officer and Global Controller. Before joining AECOM in 2016, he held various senior financial roles at Ernst & Young.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AECOM",
+      "ticker": "ACM",
+      "exchange": "NYSE",
+      "website": "https://aecom.com",
+      "title": "Chief Financial Officer",
+      "startDate": "2020-10-01",
+      "endDate": null,
+      "formattedStartDate": "2020 October",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 45,
+  "ageYear": 2024
+}

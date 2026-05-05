@@ -1,0 +1,26 @@
+{
+  "id": "James Gorman",
+  "name": "James Gorman",
+  "background": "Mr. Gorman is the Executive Chairman of Morgan Stanley. He served as Chief Executive Officer from 2010 through 2023. He joined the Firm in 2006.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Morgan Stanley",
+      "ticker": "MS",
+      "exchange": "NYSE",
+      "website": "https://www.morganstanley.com",
+      "title": "Executive Chairman",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "formattedStartDate": "2024 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 65,
+  "ageYear": 2024
+}

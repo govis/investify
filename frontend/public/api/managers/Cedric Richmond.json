@@ -1,0 +1,28 @@
+{
+  "id": "Cedric Richmond",
+  "name": "Cedric Richmond",
+  "background": "Mr. Richmond has served as a director since 2023. He previously served as a Senior Advisor to President Joe Biden and was a member of the U.S. House of Representatives from 2011 to 2021.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Blink Charging Co.",
+      "ticker": "BLNK",
+      "exchange": "NASDAQ",
+      "website": "https://www.blinkcharging.com",
+      "title": "Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating and Corporate Governance Committee (Chair)"
+  ],
+  "age": 50,
+  "ageYear": 2024
+}

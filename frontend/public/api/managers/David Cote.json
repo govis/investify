@@ -1,0 +1,27 @@
+{
+  "id": "David Cote",
+  "name": "David Cote",
+  "background": "David Cote is the Executive Chairman of the Board of Vertiv. He is the former Chairman and CEO of Honeywell. He also served as a Class B Director to the Federal Reserve Bank of New York.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Vertiv Holdings Co",
+      "ticker": "VRT",
+      "exchange": "NYSE",
+      "website": "https://www.vertiv.com",
+      "title": "Executive Chairman",
+      "startDate": "2020-02-01",
+      "endDate": null,
+      "formattedStartDate": "2020 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 71,
+  "ageYear": 2024
+}

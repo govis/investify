@@ -1,0 +1,29 @@
+{
+  "id": "Jerry Korpan",
+  "name": "Jerry Korpan",
+  "background": "Mr. Korpan was formerly Executive Director of Yorkton Securities in London.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "B2Gold Corp.",
+      "ticker": "BTG",
+      "exchange": "NYSE",
+      "website": "https://www.b2gold.com",
+      "title": "Director",
+      "startDate": "2007-11-30",
+      "endDate": null,
+      "formattedStartDate": "2007 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

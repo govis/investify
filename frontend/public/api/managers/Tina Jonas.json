@@ -1,0 +1,29 @@
+{
+  "id": "Tina Jonas",
+  "name": "Tina Jonas",
+  "background": "Former Under Secretary of Defense (Comptroller) and CFO for the Department of Defense. She has held senior positions at United Technologies and Lumina Analytics.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Centrus Energy Corp.",
+      "ticker": "LEU",
+      "exchange": "NYSE",
+      "website": "https://www.centrusenergy.com",
+      "title": "Independent Director",
+      "startDate": "2020-01-01",
+      "endDate": null,
+      "formattedStartDate": "2020 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Governance Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

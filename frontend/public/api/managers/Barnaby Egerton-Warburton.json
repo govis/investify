@@ -1,0 +1,30 @@
+{
+  "id": "Barnaby Egerton-Warburton",
+  "name": "Barnaby Egerton-Warburton",
+  "background": "Mr. Egerton-Warburton has over 25 years of experience in investment banking, international investment, and market experience. He has held positions at various investment banks including JP Morgan and BNP Paribas.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Oreterra Limited",
+      "ticker": "ORE",
+      "exchange": "ASX",
+      "website": "https://oreterra.com.au",
+      "title": "Non-Executive Chairman",
+      "startDate": "2023-11-01",
+      "endDate": null,
+      "formattedStartDate": "2023 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "age": null,
+  "ageYear": null
+}

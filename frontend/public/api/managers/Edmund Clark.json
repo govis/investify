@@ -1,0 +1,29 @@
+{
+  "id": "Edmund Clark",
+  "name": "Edmund Clark",
+  "background": "Former President and CEO of TD Bank Group. Member of the Order of Canada.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Thomson Reuters Corporation",
+      "ticker": "TRI",
+      "exchange": "NYSE",
+      "website": "https://www.thomsonreuters.com",
+      "title": "Independent Director",
+      "startDate": "2015-05-01",
+      "endDate": null,
+      "formattedStartDate": "2015 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance Committee",
+    "Human Resources Committee (Chair)"
+  ],
+  "age": 76,
+  "ageYear": 2024
+}

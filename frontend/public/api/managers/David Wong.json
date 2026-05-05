@@ -1,0 +1,26 @@
+{
+  "id": "David Wong",
+  "name": "David Wong",
+  "background": "Chief Product Officer since 2021. Previously held product leadership roles at Facebook and Microsoft.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Thomson Reuters Corporation",
+      "ticker": "TRI",
+      "exchange": "NYSE",
+      "website": "https://www.thomsonreuters.com",
+      "title": "Chief Product Officer",
+      "startDate": "2021-07-01",
+      "endDate": null,
+      "formattedStartDate": "2021 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 49,
+  "ageYear": 2024
+}

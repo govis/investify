@@ -1,0 +1,30 @@
+{
+  "id": "Tracy Stevenson",
+  "name": "Tracy Stevenson",
+  "background": "Mr. Stevenson is a senior mining executive with over 40 years of experience. He was a founding partner of Bedrock Resources and SOS Investors and held various senior positions at Rio Tinto.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Vista Gold Corp.",
+      "ticker": "VGZ",
+      "exchange": "NYSE",
+      "website": "https://www.vistagold.com",
+      "title": "Independent Director",
+      "startDate": "2007-11-01",
+      "endDate": null,
+      "formattedStartDate": "2007 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 73,
+  "ageYear": 2024
+}

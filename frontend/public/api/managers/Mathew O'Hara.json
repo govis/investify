@@ -1,0 +1,26 @@
+{
+  "id": "Mathew O'Hara",
+  "name": "Mathew O'Hara",
+  "background": "Mr. O'Hara is a Chartered Accountant with over 15 years’ experience in corporate finance, accounting and governance. He has held senior positions with several ASX-listed companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Boss Energy Limited",
+      "ticker": "BOE",
+      "exchange": "ASX",
+      "website": "https://www.bossenergy.com",
+      "title": "Chief Financial Officer and Company Secretary",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "formattedStartDate": "2023 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

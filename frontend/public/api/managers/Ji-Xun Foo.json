@@ -1,0 +1,29 @@
+{
+  "id": "Ji-Xun Foo",
+  "name": "Ji-Xun Foo",
+  "background": "Managing partner of GGV Capital. He has served as a director of our company since 2018.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "XPeng Inc.",
+      "ticker": "XPEV",
+      "exchange": "NYSE",
+      "website": "https://www.xiaopeng.com",
+      "title": "Non-executive Director",
+      "startDate": "2018-01-01",
+      "endDate": null,
+      "formattedStartDate": "2018 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 55,
+  "ageYear": 2024
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Tom Earl",
+  "name": "Tom Earl",
+  "background": "Tom Earl is the Chief Commercial Officer of Venture Global LNG, responsible for the company's commercial strategy and LNG marketing.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Venture Global LNG, Inc.",
+      "ticker": "VG",
+      "exchange": "NYSE",
+      "website": "https://venturegloballng.com",
+      "title": "Chief Commercial Officer",
+      "startDate": "2017-01-01",
+      "endDate": null,
+      "formattedStartDate": "2017 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

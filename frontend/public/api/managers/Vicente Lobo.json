@@ -1,0 +1,28 @@
+{
+  "id": "Vicente Lobo",
+  "name": "Vicente Lobo",
+  "background": "Former Secretary of Geology, Mining and Mineral Processing of Brazil.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sigma Lithium Corporation",
+      "ticker": "SGML",
+      "exchange": "NASDAQ",
+      "website": "https://www.sigmalithiumresources.com",
+      "title": "Independent Director",
+      "startDate": "2021-07-01",
+      "endDate": null,
+      "formattedStartDate": "2021 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Technical Committee"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Mark Sedwill",
+  "name": "Mark Sedwill",
+  "background": "Mark was formerly Cabinet Secretary and National Security Adviser. He has extensive experience in national security, international relations, and public policy.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "BAE Systems plc",
+      "ticker": "BA",
+      "exchange": "LSE",
+      "website": "https://www.baesystems.com",
+      "title": "Non-Executive Director",
+      "startDate": "2022-11-01",
+      "endDate": null,
+      "formattedStartDate": "2022 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "ESG Committee",
+    "Nominations Committee"
+  ],
+  "age": 59,
+  "ageYear": 2024
+}

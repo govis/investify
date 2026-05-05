@@ -1,0 +1,27 @@
+{
+  "id": "John Fees",
+  "name": "John Fees",
+  "background": "Mr. Fees has served as the non-executive Chairman of the Board since 2010. He was previously the Chief Executive Officer of McDermott International, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "BWX Technologies, Inc.",
+      "ticker": "BWXT",
+      "exchange": "NYSE",
+      "website": "https://www.bwxt.com",
+      "title": "Chairman of the Board",
+      "startDate": "2010-07-01",
+      "endDate": null,
+      "formattedStartDate": "2010 July",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 66,
+  "ageYear": 2024
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Russell Lawrence",
+  "name": "Russell Lawrence",
+  "background": "Mr. Lawrence has served as President of the company's antimony operations and was previously the CEO of the company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "United States Antimony Corporation",
+      "ticker": "USAR",
+      "exchange": "NYSE",
+      "website": "https://www.usantimony.com",
+      "title": "President of Antimony Operations",
+      "startDate": "2024-02-01",
+      "endDate": null,
+      "formattedStartDate": "2024 February",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 65,
+  "ageYear": 2024
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Joanne Ferstman",
+  "name": "Joanne Ferstman",
+  "background": "Ms. Ferstman is a corporate director with over 20 years of experience in the financial services sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Osisko Gold Royalties Ltd",
+      "ticker": "OR",
+      "exchange": "NYSE",
+      "website": "https://osiskogr.com",
+      "title": "Independent Director",
+      "startDate": "2014-06-01",
+      "endDate": null,
+      "formattedStartDate": "2014 June",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Governance and Nomination Committee"
+  ],
+  "age": 57,
+  "ageYear": 2024
+}

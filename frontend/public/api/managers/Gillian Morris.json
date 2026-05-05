@@ -1,0 +1,26 @@
+{
+  "id": "Gillian Morris",
+  "name": "Gillian Morris",
+  "background": "Ms. Morris has over 20 years of experience in human resources and corporate operations. She previously held senior HR roles at various mining and resource companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NexGen Energy Ltd.",
+      "ticker": "NXE",
+      "exchange": "NYSE",
+      "website": "https://www.nexgenenergy.ca",
+      "title": "Vice President, Corporate and People",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "2021 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 45,
+  "ageYear": 2024
+}

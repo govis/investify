@@ -1,0 +1,26 @@
+{
+  "id": "Jack Hamilton",
+  "name": "Jack Hamilton",
+  "background": "Mr. Hamilton has over 40 years of experience in the mining industry, including senior executive roles with major mining companies. He previously served as President and CEO of several exploration and development companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Orion Copper Mining Corp.",
+      "ticker": "ORION",
+      "exchange": "TSX",
+      "website": "https://orioncmc.com",
+      "title": "Director, President and Chief Executive Officer",
+      "startDate": "2021-05-15",
+      "endDate": null,
+      "formattedStartDate": "2021 May",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 68,
+  "ageYear": 2024
+}

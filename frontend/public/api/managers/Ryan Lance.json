@@ -1,0 +1,30 @@
+{
+  "id": "Ryan Lance",
+  "name": "Ryan Lance",
+  "background": "Chairman and CEO of ConocoPhillips.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Freeport-McMoRan Inc.",
+      "ticker": "FCX",
+      "exchange": "NYSE",
+      "website": "https://www.fcx.com",
+      "title": "Director",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "formattedStartDate": "2023 January",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation",
+    "Governance"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

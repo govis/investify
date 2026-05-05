@@ -1,0 +1,29 @@
+{
+  "id": "Mary-Ann Bell",
+  "name": "Mary-Ann Bell",
+  "background": "Corporate director and former executive at Bell Aliant Regional Communications.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AtkinsRéalis Group Inc.",
+      "ticker": "ATRL",
+      "exchange": "TSX",
+      "website": "https://www.atkinsrealis.com",
+      "title": "Director",
+      "startDate": "2019-08-01",
+      "endDate": null,
+      "formattedStartDate": "2019 August",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Human Resources Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

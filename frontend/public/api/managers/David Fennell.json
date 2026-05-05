@@ -1,0 +1,29 @@
+{
+  "id": "David Fennell",
+  "name": "David Fennell",
+  "background": "Mr. Fennell has been involved in the mining industry for over 35 years. He was the founder of Golden Star Resources Ltd. and has served on numerous boards of public mining companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "G Mining Ventures Corp.",
+      "ticker": "GMIN",
+      "exchange": "TSX",
+      "website": "https://www.gminingventures.com",
+      "title": "Independent Director",
+      "startDate": "2020-11-25",
+      "endDate": null,
+      "formattedStartDate": "2020 November",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Governance and Nominating Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}
