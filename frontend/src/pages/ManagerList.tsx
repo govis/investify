@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { ChevronLeft, User, Briefcase } from 'lucide-react';
+import { User } from 'lucide-react';
 import Navigation from '../components/Navigation';
 
 interface ManagerCompany {

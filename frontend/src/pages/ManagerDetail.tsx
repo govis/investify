@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { ChevronLeft, User, ExternalLink, Calendar, Building, Briefcase } from 'lucide-react';
+import { ChevronLeft, User, ExternalLink, Calendar, Briefcase } from 'lucide-react';
 
 interface ManagerCompany {
   name: string;
