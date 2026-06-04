@@ -2,16 +2,35 @@ import React, { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { ChevronLeft, User, ExternalLink, Calendar, Briefcase } from 'lucide-react';
 
+const LinkedInIcon = ({ size = 28 }: { size?: number }) => (
+  <svg 
+    xmlns="http://www.w3.org/2000/svg" 
+    viewBox="0 0 72 72" 
+    width={size} 
+    height={size}
+    style={{ display: 'block' }}
+  >
+    <path fill="#0077b5" d="M8 0h56c4.4 0 8 3.6 8 8v56c0 4.4-3.6 8-8 8H8c-4.4 0-8-3.6-8-8V8c0-4.4 3.6-8 8-8z"/>
+    <path fill="#fff" d="M22.2 57.3h-9.5V27.1h9.5v30.2zM17.5 23c-3 0-5.5-2.5-5.5-5.5s2.5-5.5 5.5-5.5 5.5 2.5 5.5 5.5-2.5 5.5-5.5 5.5zM59.8 57.3h-9.5V42.4c0-3.6-.1-8.1-5-8.1s-5.7 3.9-5.7 7.9v15.1h-9.5V27.1h9.1v4.1h.1c1.3-2.4 4.4-5 9.1-5 9.7 0 11.5 6.4 11.5 14.7v16.4z"/>
+  </svg>
+);
+
 interface ManagerCompany {
   name: string;
   ticker: string;
   exchange: string;
   website: string | null;
+  logoUrl: string | null;
   title: string;
   startDate: string;
   endDate: string | null;
   formattedStartDate: string;
   formattedEndDate: string | null;
+}
+
+interface ManagerSocial {
+  name: string;
+  url: string;
 }
 
 interface ManagerDetailData {
@@ -21,7 +40,7 @@ interface ManagerDetailData {
   pictureUrl: string | null;
   companies: ManagerCompany[];
   investmentTheses: string[];
-  socials: any[];
+  socials: ManagerSocial[];
   committees: string[];
   age: number | null;
   ageYear: number | null;
@@ -55,6 +74,8 @@ const ManagerDetail: React.FC = () => {
   if (loading) return <div style={{ padding: '24px' }}>Loading...</div>;
   if (!manager) return <div style={{ padding: '24px' }}>Manager not found.</div>;
 
+  const linkedIn = manager.socials?.find(s => s.name === 'LinkedIn');
+
   return (
     <div style={{ padding: '24px', maxWidth: '900px', margin: '0 auto', textAlign: 'left' }}>
       <Link to="/managers" style={{ display: 'flex', alignItems: 'center', color: '#666', marginBottom: '24px', textDecoration: 'none' }}>
@@ -64,15 +85,28 @@ const ManagerDetail: React.FC = () => {
 
       <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', marginBottom: '40px' }}>
         <div style={{ flex: 1 }}>
-          <h1 style={{ 
-            textAlign: 'left', 
-            marginBottom: '16px', 
-            fontSize: '36px', 
-            lineHeight: '1.2', 
-            letterSpacing: '-0.02em' 
-          }}>
-            {manager.name}
-          </h1>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '16px', marginBottom: '16px' }}>
+            <h1 style={{ 
+              textAlign: 'left', 
+              margin: 0, 
+              fontSize: '36px', 
+              lineHeight: '1.2', 
+              letterSpacing: '-0.02em' 
+            }}>
+              {manager.name}
+            </h1>
+            {linkedIn && (
+              <a 
+                href={linkedIn.url} 
+                target="_blank" 
+                rel="noopener noreferrer" 
+                style={{ color: '#0077b5', display: 'flex', alignItems: 'center' }}
+                title="LinkedIn Profile"
+              >
+                <LinkedInIcon size={28} />
+              </a>
+            )}
+          </div>
           
           <div style={{ display: 'flex', flexWrap: 'wrap', gap: '20px', color: '#666', fontSize: '1.1rem' }}>
             {manager.age && (
@@ -150,7 +184,8 @@ const ManagerDetail: React.FC = () => {
                 border: '1px solid #eee',
                 display: 'flex',
                 justifyContent: 'space-between',
-                alignItems: 'flex-start'
+                alignItems: 'center',
+                gap: '24px'
               }}>
                 <div>
                   <div style={{ display: 'flex', alignItems: 'center', gap: '16px', marginBottom: '8px' }}>
@@ -191,10 +226,32 @@ const ManagerDetail: React.FC = () => {
                   <div style={{ display: 'flex', alignItems: 'center', gap: '8px', color: '#666', fontSize: '0.95rem' }}>
                     <Calendar size={16} />
                     <span>
-                      {company.formattedStartDate} – {company.formattedEndDate || 'Present'}
+                      {company.formattedStartDate ? (
+                        <>
+                          {company.formattedStartDate} – {company.formattedEndDate || 'Present'}
+                        </>
+                      ) : (
+                        company.formattedEndDate || ''
+                      )}
                     </span>
                   </div>
                 </div>
+                {company.logoUrl && (
+                  <div style={{ 
+                    width: '60px', 
+                    height: '60px', 
+                    display: 'flex', 
+                    alignItems: 'center', 
+                    justifyContent: 'center', 
+                    backgroundColor: '#fff', 
+                    borderRadius: '8px', 
+                    border: '1px solid #eee',
+                    padding: '4px',
+                    flexShrink: 0
+                  }}>
+                    <img src={company.logoUrl} alt={company.name} style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'contain' }} />
+                  </div>
+                )}
               </div>
             ))}
           </div>

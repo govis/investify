@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
-import { Link } from 'react-router-dom';
-import { User } from 'lucide-react';
+import { Link, useSearchParams } from 'react-router-dom';
+import { User, ChevronLeft, ChevronRight } from 'lucide-react';
 import Navigation from '../components/Navigation';
 
 interface ManagerCompany {
@@ -14,6 +14,7 @@ interface Manager {
   name: string;
   first_name: string;
   last_name: string;
+  pictureUrl?: string;
   companies: ManagerCompany[];
   investment_theses: string[];
 }
@@ -21,6 +22,10 @@ interface Manager {
 const ManagerList: React.FC = () => {
   const [managers, setManagers] = useState<Manager[]>([]);
   const [loading, setLoading] = useState(true);
+  const [searchParams, setSearchParams] = useSearchParams();
+
+  const page = parseInt(searchParams.get('page') || '1', 10);
+  const pageSize = parseInt(searchParams.get('pageSize') || '50', 10);
 
   useEffect(() => {
     document.title = "Investify - Officers and Directors";
@@ -38,20 +43,56 @@ const ManagerList: React.FC = () => {
 
   if (loading) return <div style={{ padding: '24px' }}>Loading...</div>;
 
+  const totalPages = Math.ceil(managers.length / pageSize);
+  const paginatedManagers = managers.slice((page - 1) * pageSize, page * pageSize);
+
+  const goToPage = (newPage: number) => {
+    setSearchParams({ page: newPage.toString(), pageSize: pageSize.toString() });
+    window.scrollTo(0, 0);
+  };
+
+  const handlePageSizeChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
+    setSearchParams({ page: '1', pageSize: e.target.value });
+    window.scrollTo(0, 0);
+  };
+
   return (
     <div style={{ padding: '24px', maxWidth: '1200px', margin: '0 auto', textAlign: 'left' }}>
       <Navigation />
 
-      <h1 style={{ 
-        textAlign: 'left', 
-        marginBottom: '48px', 
-        fontSize: '36px', 
-        lineHeight: '1.2', 
-        letterSpacing: '-0.02em',
-        marginTop: '64px'
-      }}>
-        All Officers and Directors
-      </h1>
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end', marginBottom: '48px', marginTop: '64px' }}>
+        <h1 style={{ 
+          textAlign: 'left', 
+          margin: 0, 
+          fontSize: '36px', 
+          lineHeight: '1.2', 
+          letterSpacing: '-0.02em'
+        }}>
+          All Officers and Directors
+        </h1>
+
+        <div style={{ display: 'flex', alignItems: 'center', gap: '12px', color: '#666', fontSize: '0.95rem' }}>
+          <span>Show:</span>
+          <select 
+            value={pageSize} 
+            onChange={handlePageSizeChange}
+            style={{
+              padding: '6px 12px',
+              borderRadius: '8px',
+              border: '1px solid #ddd',
+              backgroundColor: '#fff',
+              cursor: 'pointer',
+              fontSize: '0.95rem',
+              color: '#333',
+              outline: 'none'
+            }}
+          >
+            <option value="50">50 per page</option>
+            <option value="100">100 per page</option>
+            <option value="200">200 per page</option>
+          </select>
+        </div>
+      </div>
 
       <div style={{ overflowX: 'auto' }}>
         <table style={{ width: '100%', borderCollapse: 'collapse', marginTop: '24px' }}>
@@ -64,11 +105,25 @@ const ManagerList: React.FC = () => {
             </tr>
           </thead>
           <tbody>
-            {managers.map((manager, idx) => (
+            {paginatedManagers.map((manager, idx) => (
               <tr key={idx} style={{ borderBottom: '1px solid #f5f5f5' }}>
                 <td style={{ padding: '12px', width: '60px' }}>
-                  <div style={{ width: '40px', height: '40px', borderRadius: '50%', backgroundColor: '#f0f0f0', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-                    <User size={20} color="#ccc" />
+                  <div style={{ 
+                    width: '40px', 
+                    height: '40px', 
+                    borderRadius: '50%', 
+                    backgroundColor: '#f0f0f0', 
+                    display: 'flex', 
+                    alignItems: 'center', 
+                    justifyContent: 'center',
+                    overflow: 'hidden',
+                    border: '1px solid #eee'
+                  }}>
+                    {manager.pictureUrl ? (
+                      <img src={manager.pictureUrl} alt={manager.name} style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+                    ) : (
+                      <User size={20} color="#ccc" />
+                    )}
                   </div>
                 </td>
                 <td style={{ padding: '12px' }}>
@@ -115,6 +170,57 @@ const ManagerList: React.FC = () => {
             ))}
           </tbody>
         </table>
+      </div>
+
+      <div style={{ 
+        display: 'flex', 
+        justifyContent: 'center', 
+        alignItems: 'center', 
+        marginTop: '48px', 
+        gap: '16px',
+        padding: '24px 0'
+      }}>
+        <button 
+          onClick={() => goToPage(page - 1)} 
+          disabled={page <= 1}
+          style={{
+            display: 'flex',
+            alignItems: 'center',
+            padding: '8px 16px',
+            borderRadius: '8px',
+            border: '1px solid #ddd',
+            backgroundColor: page <= 1 ? '#f5f5f5' : '#fff',
+            cursor: page <= 1 ? 'not-allowed' : 'pointer',
+            color: page <= 1 ? '#999' : '#333',
+            fontSize: '0.95rem'
+          }}
+        >
+          <ChevronLeft size={18} />
+          Previous
+        </button>
+
+        <span style={{ fontSize: '1rem', color: '#666' }}>
+          Page <strong>{page}</strong> of <strong>{totalPages}</strong>
+        </span>
+
+        <button 
+          onClick={() => goToPage(page + 1)} 
+          disabled={page >= totalPages}
+          style={{
+            display: 'flex',
+            alignItems: 'center',
+            padding: '8px 16px',
+            borderRadius: '8px',
+            border: '1px solid #ddd',
+            backgroundColor: page >= totalPages ? '#f5f5f5' : '#fff',
+            cursor: page >= totalPages ? 'not-allowed' : 'pointer',
+            color: page >= totalPages ? '#999' : '#333',
+            fontSize: '0.95rem'
+          }}
+        >
+          Next
+          <ChevronRight size={18} />
+        </button>
       </div>
     </div>
   );

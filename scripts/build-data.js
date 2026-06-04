@@ -10,22 +10,50 @@ const MANAGERS_DIR = path.join(__dirname, '../Managers');
 const OUTPUT_DIR = path.join(__dirname, '../frontend/public/api');
 const ASSETS_DIR = path.join(__dirname, '../frontend/public/theses-assets');
 const COMPANIES_ASSETS_DIR = path.join(__dirname, '../frontend/public/companies-assets');
+const MANAGERS_ASSETS_DIR = path.join(__dirname, '../frontend/public/managers-assets');
 
 // Helper to format date
 function formatTenureDate(dateStr) {
   if (!dateStr) return '';
-  const parts = dateStr.split('-');
-  if (parts.length < 2) return '';
-  const year = parts[0];
-  const month = parseInt(parts[1], 10);
+  
+  const cleanDate = dateStr.trim();
+  if (['Unknown', '~', 'None', 'N/A', 'null', 'undefined'].includes(cleanDate)) return '';
+  
+  // Handle YYYY-MM-DD or YYYY-MM
+  if (cleanDate.includes('-')) {
+    const parts = dateStr.split('-');
+    const year = parts[0];
+    const month = parseInt(parts[1], 10);
+    const months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+    if (month >= 1 && month <= 12) {
+      return `${months[month - 1]} ${year}`;
+    }
+    return year;
+  }
+
+  // Handle "Month YYYY"
   const months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
-  return `${year} ${months[month - 1]}`;
+  const monthMatch = dateStr.match(new RegExp(`(${months.join('|')})\\s+(\\d{4})`, 'i'));
+  if (monthMatch) {
+    const month = monthMatch[1];
+    const year = monthMatch[2];
+    const capitalizedMonth = month.charAt(0).toUpperCase() + month.slice(1).toLowerCase();
+    return `${capitalizedMonth} ${year}`;
+  }
+
+  // If it's just YYYY
+  if (/^\d{4}$/.test(dateStr)) {
+    return dateStr;
+  }
+
+  return dateStr;
 }
 
 // Create output directories if they don't exist
 if (!fs.existsSync(OUTPUT_DIR)) fs.mkdirSync(OUTPUT_DIR, { recursive: true });
 if (!fs.existsSync(ASSETS_DIR)) fs.mkdirSync(ASSETS_DIR, { recursive: true });
 if (!fs.existsSync(COMPANIES_ASSETS_DIR)) fs.mkdirSync(COMPANIES_ASSETS_DIR, { recursive: true });
+if (!fs.existsSync(MANAGERS_ASSETS_DIR)) fs.mkdirSync(MANAGERS_ASSETS_DIR, { recursive: true });
 
 const COMPANIES_OUTPUT_DIR = path.join(OUTPUT_DIR, 'companies');
 if (!fs.existsSync(COMPANIES_OUTPUT_DIR)) fs.mkdirSync(COMPANIES_OUTPUT_DIR, { recursive: true });
@@ -35,6 +63,7 @@ if (!fs.existsSync(MANAGERS_OUTPUT_DIR)) fs.mkdirSync(MANAGERS_OUTPUT_DIR, { rec
 
 const companiesList = [];
 const companyWebsites = {}; // Added to track websites for manager linking
+const companyLogos = {}; // Added to track logos for manager linking
 
 // 1. Process Companies
 async function processCompanies() {
@@ -82,6 +111,7 @@ async function processCompanies() {
 
           website = profile.website || '';
           companyWebsites[folderName] = website; // Store website mapping
+          companyLogos[folderName] = logoUrl; // Store logo mapping
           country = profile.country_of_domicile || '';
           description = profile.description || '';
           investment_theses = profile.investment_theses || [];
@@ -109,7 +139,7 @@ async function processCompanies() {
                 const formattedDate = formatTenureDate(startDate);
                 
                 managementHtml += `<div style="margin-bottom: 32px; padding: 20px; background-color: #f9f9f9; border-radius: 12px; border: 1px solid #eee;">`;
-                managementHtml += `<h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.25rem;"><a href="/manager/${encodeURIComponent(exec.name)}" style="color: inherit; text-decoration: none; border-bottom: 1px dashed #0066cc;">${exec.name}</a>${formattedDate ? `<span style="color: #666; font-weight: normal; font-size: 1rem; margin-left: 8px;">(Date: ${formattedDate})</span>` : ''}</h3>`;
+                managementHtml += `<h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.25rem;"><a href="/manager/${encodeURIComponent(exec.name)}" style="color: inherit; text-decoration: none; border-bottom: 1px dashed #0066cc;">${exec.name}</a>${formattedDate ? `<span style="color: #666; font-weight: normal; font-size: 1rem; margin-left: 8px;">${formattedDate}</span>` : ''}</h3>`;
                 if (exec.tenure_dates && exec.tenure_dates.length > 0) {
                   managementHtml += `<p style="margin-top: 0; margin-bottom: 12px; color: #0066cc; font-weight: 600;">${exec.tenure_dates[0].title}</p>`;
                 }
@@ -125,7 +155,7 @@ async function processCompanies() {
                 const formattedDate = formatTenureDate(startDate);
 
                 managementHtml += `<div style="margin-bottom: 32px; padding: 20px; background-color: #f9f9f9; border-radius: 12px; border: 1px solid #eee;">`;
-                managementHtml += `<h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.25rem;"><a href="/manager/${encodeURIComponent(dir.name)}" style="color: inherit; text-decoration: none; border-bottom: 1px dashed #0066cc;">${dir.name}</a>${formattedDate ? `<span style="color: #666; font-weight: normal; font-size: 1rem; margin-left: 8px;">(Date: ${formattedDate})</span>` : ''}</h3>`;
+                managementHtml += `<h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.25rem;"><a href="/manager/${encodeURIComponent(dir.name)}" style="color: inherit; text-decoration: none; border-bottom: 1px dashed #0066cc;">${dir.name}</a>${formattedDate ? `<span style="color: #666; font-weight: normal; font-size: 1rem; margin-left: 8px;">${formattedDate}</span>` : ''}</h3>`;
                 if (dir.tenure_dates && dir.tenure_dates.length > 0) {
                   managementHtml += `<p style="margin-top: 0; margin-bottom: 12px; color: #0066cc; font-weight: 600;">${dir.tenure_dates[0].role || dir.tenure_dates[0].title}</p>`;
                 }
@@ -209,14 +239,28 @@ async function processManagers() {
         try {
           const profile = JSON.parse(fs.readFileSync(profileJsonPath, 'utf8'));
           
-          // The source key is misspelled as "commpanies"
-          const companies = profile.commpanies || [];
+          let pictureUrl = profile.picture_url || null;
+          
+          // Handle local picture
+          if (profile.picture_local) {
+            const localPicturePath = path.join(MANAGERS_DIR, folderName, profile.picture_local);
+            if (fs.existsSync(localPicturePath)) {
+              const extension = path.extname(profile.picture_local);
+              const targetPictureName = `${folderName}${extension}`;
+              const targetPicturePath = path.join(MANAGERS_ASSETS_DIR, targetPictureName);
+              fs.copyFileSync(localPicturePath, targetPicturePath);
+              pictureUrl = `/managers-assets/${targetPictureName}`;
+            }
+          }
+
+          // Filter for validated affiliations
+          const companies = (profile.company_affiliations || []).filter(c => c.validated === true);
           
           const managerData = {
             id: folderName,
             name: profile.name,
             background: profile.background,
-            pictureUrl: profile.picture_url,
+            pictureUrl: pictureUrl,
             companies: companies.map(c => {
               const companyId = `${c.ticker}.${c.exchange}`;
               return {
@@ -224,6 +268,7 @@ async function processManagers() {
                 ticker: c.ticker,
                 exchange: c.exchange,
                 website: companyWebsites[companyId] || null,
+                logoUrl: companyLogos[companyId] || null,
                 title: c.title_or_role,
                 startDate: c.start_date,
                 endDate: c.end_date,
@@ -241,11 +286,26 @@ async function processManagers() {
           fs.writeFileSync(path.join(MANAGERS_OUTPUT_DIR, `${folderName}.json`), JSON.stringify(managerData, null, 2));
           console.log(`Successfully generated manager ${folderName}.json`);
 
+          // Sort companies for the summary list: current roles first, then by start date descending
+          const sortedCompanies = [...companies].sort((a, b) => {
+            const aIsCurrent = !a.end_date || a.end_date === 'Present';
+            const bIsCurrent = !b.end_date || b.end_date === 'Present';
+            
+            if (aIsCurrent && !bIsCurrent) return -1;
+            if (!aIsCurrent && bIsCurrent) return 1;
+            
+            // If both are current or both are past, sort by start date descending
+            const aStart = a.start_date || '';
+            const bStart = b.start_date || '';
+            return bStart.localeCompare(aStart);
+          });
+
           managersList.push({
             name: profile.name,
             first_name: profile.first_name,
             last_name: profile.last_name,
-            companies: companies.map(c => ({
+            pictureUrl: pictureUrl,
+            companies: sortedCompanies.slice(0, 2).map(c => ({
               name: c.name,
               ticker: c.ticker,
               exchange: c.exchange,
