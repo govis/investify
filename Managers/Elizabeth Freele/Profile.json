@@ -6,28 +6,45 @@
   "age_year": 2024,
   "background": "Ms. Freele is the Vice President, Sustainability and Chief ESG Officer. She is a sustainability professional with over 15 years of experience in the natural resources sector, specializing in ESG strategy, risk management, and stakeholder engagement.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Denison Mines Corp.",
-      "ticker": "DNN",
-      "exchange": "NYSE",
-      "title_or_role": "Vice President, Sustainability and Chief ESG Officer",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "ticker": "DML",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://www.denisonmines.com",
+      "start_date": "2021-05",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Denison Mines Corp.",
       "ticker": "DNN",
       "exchange": "TSX",
       "title_or_role": "Chief Sustainability Officer",
+      "website": "https://denisonmines.com",
       "start_date": "2023-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/efreele",
+      "person_name": "Elizabeth Freele",
+      "company_name": "Denison Mines Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/C5603AQGa1frjMQ3n4A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1540832090931?e=2147483647&v=beta&t=lXzWUTzWV3EcqALNsoycRSSCDNxWodcR4Mnu4owTqAw",
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

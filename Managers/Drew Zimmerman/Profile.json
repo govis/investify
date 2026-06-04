@@ -6,19 +6,45 @@
   "age_year": 2024,
   "background": "Mr. Zimmerman has over 15 years of experience in the financial services and resource sectors. He previously served as a derivatives trader and has been involved in various capacities with public resource companies.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Stallion Uranium Corp.",
       "ticker": "STUD",
-      "exchange": "TSX",
-      "title_or_role": "Chief Executive Officer, Director",
-      "start_date": "2021-04-01",
-      "end_date": null
+      "exchange": "TSXV",
+      "title_or_role": "CEO",
+      "website": "https://stallionuranium.com/",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Noble Plains Uranium Corp.",
+      "ticker": "NOBL",
+      "exchange": "TSXV",
+      "website": "https://nobleplains.com/",
+      "title_or_role": "CEO and Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/drew-zimmerman-cfa-892a885b",
+      "person_name": "Drew Zimmerman",
+      "company_name": "Stallion Uranium Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

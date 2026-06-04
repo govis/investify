@@ -9,10 +9,11 @@
       "ticker": "NVDA",
       "exchange": "NASDAQ",
       "website": "https://www.nvidia.com",
-      "title": "Independent Director",
-      "startDate": "1993-01-01",
+      "logoUrl": "/companies-assets/NVDA.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "1993",
       "endDate": null,
-      "formattedStartDate": "1993 January",
+      "formattedStartDate": "1993",
       "formattedEndDate": ""
     }
   ],
@@ -21,7 +22,18 @@
     "Defense",
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/harvey-c-jones",
+      "person_name": "Harvey Jones",
+      "company_name": "NVIDIA Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

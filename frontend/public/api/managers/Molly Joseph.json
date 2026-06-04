@@ -9,18 +9,42 @@
       "ticker": "FSLR",
       "exchange": "NASDAQ",
       "website": "https://www.firstsolar.com",
-      "title": "Independent Director",
-      "startDate": "2021-01-01",
+      "logoUrl": "/companies-assets/FSLR.NASDAQ.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2017",
       "endDate": null,
-      "formattedStartDate": "2021 January",
+      "formattedStartDate": "2017",
       "formattedEndDate": ""
+    },
+    {
+      "name": "UnitedHealth Group Incorporated",
+      "ticker": "UNH",
+      "exchange": "NYSE",
+      "website": "https://www.unitedhealthgroup.com",
+      "logoUrl": "/companies-assets/UNH.NYSE.svg",
+      "title": "CEO, UnitedHealthcare Global / Executive Vice President, Global",
+      "startDate": "2014",
+      "endDate": "2020",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2020"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mollyjoseph",
+      "person_name": "Molly Joseph",
+      "company_name": "First Solar, Inc. / UnitedHealth Group",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

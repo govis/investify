@@ -9,11 +9,60 @@
       "ticker": "JPM",
       "exchange": "NYSE",
       "website": "https://www.jpmorganchase.com",
-      "title": "Lead Independent Director",
-      "startDate": "2004-01-01",
+      "logoUrl": "/companies-assets/JPM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2004",
       "endDate": null,
-      "formattedStartDate": "2004 January",
+      "formattedStartDate": "2004",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Comcast Corporation",
+      "ticker": "CMCSA",
+      "exchange": "NASDAQ",
+      "website": "comcastcorporation.com",
+      "logoUrl": "/companies-assets/CMCSA.NASDAQ.svg",
+      "title": "Senior Executive Vice President (formerly COO and CEO of NBCUniversal)",
+      "startDate": "1998",
+      "endDate": null,
+      "formattedStartDate": "1998",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Berkshire Hathaway Inc.",
+      "ticker": "BRK.B",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2009",
+      "endDate": null,
+      "formattedStartDate": "2009",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "The Walt Disney Company",
+      "ticker": "DIS",
+      "exchange": "NYSE",
+      "website": "https://thewaltdisneycompany.com",
+      "logoUrl": "/companies-assets/DIS.NYSE.svg",
+      "title": "President of ABC Broadcasting",
+      "startDate": "1986",
+      "endDate": "1998",
+      "formattedStartDate": "1986",
+      "formattedEndDate": "1998"
+    },
+    {
+      "name": "Bank One Corporation",
+      "ticker": "ONE",
+      "exchange": "NYSE",
+      "website": "jpmorganchase.com",
+      "logoUrl": "/companies-assets/ONE.NYSE.svg",
+      "title": "Director",
+      "startDate": "2003",
+      "endDate": "2004",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2004"
     }
   ],
   "investmentTheses": [

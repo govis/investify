@@ -6,6 +6,39 @@
   "age_year": 2024,
   "background": "Former Executive Vice President and CFO of Supervalu Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Deere & Company",
+      "ticker": "DE",
+      "exchange": "NYSE",
+      "title_or_role": "Member of the Board of Directors (Lead Director)",
+      "website": "https://www.deere.com",
+      "start_date": "2011",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Piper Sandler Companies",
+      "ticker": "PIPR",
+      "exchange": "NYSE",
+      "website": "https://www.pipersandler.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": null,
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Anywhere Real Estate Inc.",
+      "ticker": "HOUS",
+      "exchange": "NYSE",
+      "website": "https://anywhere.re",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2014",
+      "end_date": "2025",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -14,14 +47,6 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Deere & Company",
-      "ticker": "DE",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2011-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

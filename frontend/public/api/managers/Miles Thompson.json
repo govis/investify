@@ -9,17 +9,65 @@
       "ticker": "FSY",
       "exchange": "TSX",
       "website": "https://forsysmetals.com",
+      "logoUrl": "/companies-assets/FSY.TSX.svg",
       "title": "Director",
-      "startDate": "2021-01-01",
+      "startDate": "2017",
       "endDate": null,
-      "formattedStartDate": "2021 January",
+      "formattedStartDate": "2017",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Lara Exploration Ltd.",
+      "ticker": "LRA",
+      "exchange": "TSXV",
+      "website": "https://laraexploration.com",
+      "logoUrl": "/companies-assets/LRA.TSXV.png",
+      "title": "Chairman, President & CEO",
+      "startDate": "2003",
+      "endDate": null,
+      "formattedStartDate": "2003",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Reservoir Capital Corp.",
+      "ticker": "REO",
+      "exchange": "TSXV",
+      "website": "http://www.reservoircapitalcorp.com",
+      "logoUrl": "/companies-assets/REO.TSXV.svg",
+      "title": "Chairman",
+      "startDate": "2005",
+      "endDate": "2016",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Reservoir Minerals Inc.",
+      "ticker": "RMC",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": "/companies-assets/RMC.TSXV.svg",
+      "title": "President & CEO",
+      "startDate": "2009",
+      "endDate": "2016",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2016"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/miles-thompson-0a6863a",
+      "person_name": "Miles Thompson",
+      "company_name": "Lara Exploration Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 58,
   "ageYear": 2024

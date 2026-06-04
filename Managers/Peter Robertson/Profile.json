@@ -6,6 +6,29 @@
   "age_year": 2024,
   "background": "Mr. Robertson has served as a Director since 2009. He is the former Vice Chairman of the Board of Chevron Corporation.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Jacobs Solutions Inc.",
+      "ticker": "J",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.jacobs.com",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Chevron Corporation",
+      "ticker": "CVX",
+      "exchange": "NYSE",
+      "website": "https://www.chevron.com",
+      "title_or_role": "Vice Chairman of the Board of Directors",
+      "start_date": "1973",
+      "end_date": "2009",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Nuclear",
     "Reshoring"
@@ -15,14 +38,6 @@
     "Human Resource and Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Jacobs Solutions Inc.",
-      "ticker": "J",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2009-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

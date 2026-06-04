@@ -9,10 +9,23 @@
       "ticker": "LDOS",
       "exchange": "NYSE",
       "website": "https://www.leidos.com",
-      "title": "President, Defense Systems Sector",
-      "startDate": "2024-01-01",
+      "logoUrl": "/companies-assets/LDOS.NYSE.svg",
+      "title": "Executive Vice President and Chief Growth Officer",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2024 January",
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "V2X, Inc.",
+      "ticker": "VVX",
+      "exchange": "NYSE",
+      "website": "https://gov2x.com",
+      "logoUrl": "/companies-assets/VVX.NYSE.svg",
+      "title": "Director",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
       "formattedEndDate": ""
     }
   ],

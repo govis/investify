@@ -9,10 +9,23 @@
       "ticker": "J",
       "exchange": "NYSE",
       "website": "https://www.jacobs.com",
-      "title": "Executive Vice President and Chief People and Communications Officer",
-      "startDate": "2023-01-01",
+      "logoUrl": "/companies-assets/J.NYSE.svg",
+      "title": "Executive Vice President, General Counsel and Corporate Secretary",
+      "startDate": null,
+      "endDate": "January 2026",
+      "formattedStartDate": "",
+      "formattedEndDate": "January 2026"
+    },
+    {
+      "name": "Vistra Corp.",
+      "ticker": "VST",
+      "exchange": "NYSE",
+      "website": "https://www.vistracorp.com",
+      "logoUrl": "/companies-assets/VST.NYSE.svg",
+      "title": "Senior Counsel",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],

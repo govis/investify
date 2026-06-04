@@ -6,21 +6,67 @@
   "age_year": 2024,
   "background": "Mr. Pownall has been involved in the mineral exploration industry for over 30 years. He is the owner of More Core Diamond Drilling Services Ltd., which operates in North America and internationally.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Tudor Gold Corp.",
       "ticker": "TUD",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2017-01-01",
-      "end_date": null
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "https://tudor-gold.com",
+      "start_date": null,
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Affinity Metals Corp.",
+      "ticker": "AFF",
+      "exchange": "TSXV",
+      "website": "https://www.affinity-metals.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Stinger Resources Inc.",
+      "ticker": "STNG",
+      "exchange": "CSE",
+      "website": "https://stingerresources.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "American Creek Resources Ltd.",
+      "ticker": "AMK",
+      "exchange": "TSXV",
+      "website": "https://www.americancreek.com",
+      "title_or_role": "Director",
+      "start_date": "2004",
+      "end_date": "2021",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/sean-pownall-44226443",
+      "person_name": "Sean Pownall",
+      "company_name": "More Core Diamond Drilling Services Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -9,17 +9,77 @@
       "ticker": "AMD",
       "exchange": "NASDAQ",
       "website": "https://www.amd.com",
-      "title": "Executive Vice President, Chief Financial Officer and Treasurer",
-      "startDate": "2023-01-23",
+      "logoUrl": "/companies-assets/AMD.NASDAQ.svg",
+      "title": "Executive Vice President, CFO and Treasurer",
+      "startDate": "2023-01",
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "January 2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Fortinet, Inc.",
+      "ticker": "FTNT",
+      "exchange": "NASDAQ",
+      "website": "fortinet.com",
+      "logoUrl": "/companies-assets/FTNT.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2019-10",
+      "endDate": null,
+      "formattedStartDate": "October 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Marvell Technology, Inc.",
+      "ticker": "MRVL",
+      "exchange": "NASDAQ",
+      "website": "https://www.marvell.com",
+      "logoUrl": "/companies-assets/MRVL.NASDAQ.svg",
+      "title": "Executive Vice President and CFO",
+      "startDate": "2016-08",
+      "endDate": "2023-01",
+      "formattedStartDate": "August 2016",
+      "formattedEndDate": "January 2023"
+    },
+    {
+      "name": "QLogic Corporation",
+      "ticker": "QLGC",
+      "exchange": "NASDAQ",
+      "website": "https://www.qlogic.com",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Logo_of_QLogic_Corporation.svg",
+      "title": "Senior Vice President and CFO",
+      "startDate": "2011-04",
+      "endDate": "2016-08",
+      "formattedStartDate": "April 2011",
+      "formattedEndDate": "August 2016"
+    },
+    {
+      "name": "Conexant Systems, Inc.",
+      "ticker": "CNXT",
+      "exchange": "NASDAQ",
+      "website": "conexant.com",
+      "logoUrl": "/companies-assets/CNXT.NASDAQ.png",
+      "title": "CFO",
+      "startDate": "Prior to 2011",
+      "endDate": "2011",
+      "formattedStartDate": "Prior to 2011",
+      "formattedEndDate": "2011"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jean-hu-179836",
+      "person_name": "Jean Hu",
+      "company_name": "Advanced Micro Devices, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 60,
   "ageYear": 2024

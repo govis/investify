@@ -7,19 +7,31 @@
     {
       "name": "OceanaGold Corporation",
       "ticker": "OGC",
-      "exchange": "TSX",
+      "exchange": "ASX",
       "website": "https://oceanagold.com",
-      "title": "Executive Vice President, General Counsel and Company Secretary",
-      "startDate": "2009-01-01",
+      "logoUrl": "/companies-assets/OGC.ASX.svg",
+      "title": "Executive Vice President, General Counsel & Company Secretary",
+      "startDate": "2016",
       "endDate": null,
-      "formattedStartDate": "2009 January",
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/liang-tang-26514b46",
+      "person_name": "Liang Tang",
+      "company_name": "OceanaGold Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 48,
   "ageYear": 2024

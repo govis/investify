@@ -9,11 +9,24 @@
       "ticker": "ORCL",
       "exchange": "NYSE",
       "website": "https://www.oracle.com",
-      "title": "Independent Director",
-      "startDate": "2015-01-01",
+      "logoUrl": "/companies-assets/ORCL.NYSE.svg",
+      "title": "Director",
+      "startDate": "2015-02-02",
       "endDate": null,
-      "formattedStartDate": "2015 January",
+      "formattedStartDate": "February 2015",
       "formattedEndDate": ""
+    },
+    {
+      "name": "New York Stock Exchange (NYSE)",
+      "ticker": "ICE",
+      "exchange": "NYSE",
+      "website": "https://www.nyse.com",
+      "logoUrl": "/companies-assets/ICE.NYSE.png",
+      "title": "Director",
+      "startDate": "1997",
+      "endDate": "2003",
+      "formattedStartDate": "1997",
+      "formattedEndDate": "2003"
     }
   ],
   "investmentTheses": [

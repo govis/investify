@@ -9,17 +9,29 @@
       "ticker": "OKLO",
       "exchange": "NYSE",
       "website": "https://oklo.com",
-      "title": "Chairman",
-      "startDate": "2021-07-01",
-      "endDate": null,
-      "formattedStartDate": "2021 July",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/OKLO.NYSE.svg",
+      "title": "Chairman of the Board",
+      "startDate": "2015",
+      "endDate": "April 2025",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "April 2025"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/samaltman",
+      "person_name": "Sam Altman",
+      "company_name": "OpenAI",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 39,
   "ageYear": 2024

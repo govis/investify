@@ -9,10 +9,11 @@
       "ticker": "GOOGL",
       "exchange": "NASDAQ",
       "website": "https://abc.xyz",
-      "title": "Senior Vice President, Chief Business Officer",
-      "startDate": "2015-08-01",
+      "logoUrl": "/companies-assets/GOOGL.NASDAQ.svg",
+      "title": "Senior Vice President and Chief Business Officer",
+      "startDate": "2005",
       "endDate": null,
-      "formattedStartDate": "2015 August",
+      "formattedStartDate": "2005",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +21,18 @@
     "AI",
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/philipp-schindler-12531a94",
+      "person_name": "Philipp Schindler",
+      "company_name": "Google",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 53,
   "ageYear": 2024

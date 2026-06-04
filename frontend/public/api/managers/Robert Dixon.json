@@ -9,11 +9,24 @@
       "ticker": "GNRC",
       "exchange": "NYSE",
       "website": "https://www.generac.com",
-      "title": "Independent Director",
-      "startDate": "2012-01-01",
+      "logoUrl": "/companies-assets/GNRC.NYSE.svg",
+      "title": "Director (Member of the Board of Directors)",
+      "startDate": "2012-03-14",
       "endDate": null,
-      "formattedStartDate": "2012 January",
+      "formattedStartDate": "March 2012",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Air Products and Chemicals, Inc.",
+      "ticker": "APD",
+      "exchange": "NYSE",
+      "website": "https://www.airproducts.com",
+      "logoUrl": "/companies-assets/APD.NYSE.png",
+      "title": "Senior Vice President & General Manager (Merchant Gases)",
+      "startDate": "1983",
+      "endDate": "2012",
+      "formattedStartDate": "1983",
+      "formattedEndDate": "2012"
     }
   ],
   "investmentTheses": [

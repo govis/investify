@@ -6,19 +6,24 @@
   "age_year": 2024,
   "background": "Mr. Heissenbuttel has served as President and Chief Executive Officer since January 2020. He previously served as Chief Financial Officer and Vice President Strategy from 2018 to 2020, and Vice President Corporate Development from 2007 to 2018. He joined Royal Gold in 2006.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Royal Gold, Inc.",
+      "ticker": "RGLD",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chief Financial Officer and Vice President, Strategy",
+      "website": "https://www.royalgold.com",
+      "start_date": "2007-01-01",
+      "end_date": "2019-12-31",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Royal Gold, Inc.",
-      "ticker": "RGLD",
-      "exchange": "NASDAQ",
-      "title_or_role": "Director, President and Chief Executive Officer",
-      "start_date": "2020-01-02",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

@@ -6,23 +6,68 @@
   "age_year": 2024,
   "background": "Chairman and CEO of Accor. He brings significant international business and hospitality experience.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense",
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Governance and Public Affairs Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "General Electric Company",
       "ticker": "GE",
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
+      "website": "https://www.geaerospace.com",
       "start_date": "2016-01-01",
       "end_date": null
+    },
+    {
+      "name": "Accor SA",
+      "ticker": "AC",
+      "exchange": "Euronext Paris",
+      "website": "https://group.accor.com/",
+      "title_or_role": "Director (2005\u20132013); Chairman and CEO (2013\u2013Present)",
+      "start_date": "2005",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Edenred SE",
+      "ticker": "EDEN",
+      "exchange": "Euronext Paris",
+      "website": "https://www.edenred.com/",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Carrefour SA",
+      "ticker": "CA",
+      "exchange": "Euronext Paris",
+      "website": "https://www.carrefour.com/",
+      "title_or_role": "Director",
+      "start_date": "2008",
+      "end_date": "2013",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sebastien-bazin-4a5b2a1",
+      "person_name": "S\u00e9bastien Bazin",
+      "company_name": "Accor",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Governance and Public Affairs Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

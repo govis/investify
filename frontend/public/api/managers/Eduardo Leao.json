@@ -7,19 +7,31 @@
     {
       "name": "G Mining Ventures Corp.",
       "ticker": "GMIN",
-      "exchange": "TSX",
-      "website": "https://www.gminingventures.com",
-      "title": "Vice President, Sustainability & Brazil Country Manager",
-      "startDate": "2022-09-01",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice President, Sustainability",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2022 September",
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/eleao",
+      "person_name": "Eduardo Leao",
+      "company_name": "G Mining Ventures Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": null,
   "ageYear": null

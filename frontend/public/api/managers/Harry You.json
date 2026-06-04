@@ -9,17 +9,113 @@
       "ticker": "AVGO",
       "exchange": "NASDAQ",
       "website": "https://www.broadcom.com",
-      "title": "Independent Director",
-      "startDate": "2019-01-01",
+      "logoUrl": "/companies-assets/AVGO.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "January 2019",
       "endDate": null,
-      "formattedStartDate": "2019 January",
+      "formattedStartDate": "January 2019",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Genius Sports Ltd.",
+      "ticker": "GENI",
+      "exchange": "NYSE",
+      "website": "https://www.geniussports.com",
+      "logoUrl": "/companies-assets/GENI.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "April 2021",
+      "endDate": null,
+      "formattedStartDate": "April 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "GTY Technology Holdings, Inc.",
+      "ticker": "GTYH",
+      "exchange": "NASDAQ",
+      "website": "https://www.gtytechnology.com",
+      "logoUrl": "/companies-assets/GTYH.NASDAQ.svg",
+      "title": "Co-founder, President, and CFO",
+      "startDate": "2016",
+      "endDate": "2018",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "dMY Technology Group, Inc. III",
+      "ticker": "DMYI",
+      "exchange": "NYSE",
+      "website": "https://www.dmytechnology.com",
+      "logoUrl": "/companies-assets/DMYI.NYSE.png",
+      "title": "Chairman of the Board and CFO",
+      "startDate": "2020",
+      "endDate": "2021",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "dMY Technology Group, Inc. II",
+      "ticker": "DMYD",
+      "exchange": "NYSE",
+      "website": "https://www.dmytechnology.com",
+      "logoUrl": "/companies-assets/DMYD.NYSE.png",
+      "title": "Director",
+      "startDate": "June 2020",
+      "endDate": "April 2021",
+      "formattedStartDate": "June 2020",
+      "formattedEndDate": "April 2021"
+    },
+    {
+      "name": "Oracle Corporation",
+      "ticker": "ORCL",
+      "exchange": "NYSE",
+      "website": "https://www.oracle.com",
+      "logoUrl": "/companies-assets/ORCL.NYSE.svg",
+      "title": "Executive Vice President and CFO; Member of the Board of Directors (Oracle Japan)",
+      "startDate": "2004",
+      "endDate": "2005",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2005"
+    },
+    {
+      "name": "Xura, Inc.",
+      "ticker": "MESG",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Xura_logo.svg/1200px-Xura_logo.svg.png",
+      "title": "Member of the Board of Directors and Audit Committee",
+      "startDate": "November 2015",
+      "endDate": "August 2016",
+      "formattedStartDate": "November 2015",
+      "formattedEndDate": "August 2016"
+    },
+    {
+      "name": "EMC Corporation",
+      "ticker": "EMC",
+      "exchange": "NYSE",
+      "website": "https://www.dell.com",
+      "logoUrl": "/companies-assets/EMC.NYSE.png",
+      "title": "Executive Vice President (Office of the Chairman)",
+      "startDate": "2008",
+      "endDate": "2016",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2016"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/harry-you-56930144",
+      "person_name": "Harry You",
+      "company_name": "Broadcom Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

@@ -3,19 +3,7 @@
   "name": "Jeff Lord",
   "background": "Former CEO of various technology companies. Director since 2008.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "Adobe Inc.",
-      "ticker": "ADBE",
-      "exchange": "NASDAQ",
-      "website": "https://www.adobe.com",
-      "title": "Independent Director",
-      "startDate": "2008-01-01",
-      "endDate": null,
-      "formattedStartDate": "2008 January",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "AI"
   ],

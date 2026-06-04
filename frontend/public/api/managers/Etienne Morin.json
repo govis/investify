@@ -9,17 +9,41 @@
       "ticker": "OLA",
       "exchange": "TSX",
       "website": "https://www.orlamining.com",
+      "logoUrl": "/companies-assets/OLA.TSX.svg",
       "title": "Chief Financial Officer",
-      "startDate": "2020-05-04",
+      "startDate": "2018",
       "endDate": null,
-      "formattedStartDate": "2020 May",
+      "formattedStartDate": "2018",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Goldcorp Inc.",
+      "ticker": "G",
+      "exchange": "TSX",
+      "website": "https://www.newmont.com",
+      "logoUrl": "/companies-assets/G.TSX.svg",
+      "title": "Various finance and operations capacities",
+      "startDate": "2007",
+      "endDate": "2018",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2018"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/etienne-morin-0b20b94",
+      "person_name": "Etienne Morin",
+      "company_name": "Orla Mining Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 43,
   "ageYear": 2024

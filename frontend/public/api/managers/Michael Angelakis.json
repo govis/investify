@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Exxon Mobil Corporation",
-      "ticker": "XOM",
+      "name": "American Express Company",
+      "ticker": "AXP",
       "exchange": "NYSE",
-      "website": "https://www.exxonmobil.com",
-      "title": "Independent Director",
-      "startDate": "2021-03-01",
+      "website": "americanexpress.com",
+      "logoUrl": "/companies-assets/AXP.NYSE.svg",
+      "title": "Director",
+      "startDate": "2025-03-03",
       "endDate": null,
-      "formattedStartDate": "2021 March",
+      "formattedStartDate": "March 2025",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Comcast Corporation",
+      "ticker": "CMCSA",
+      "exchange": "NASDAQ",
+      "website": "comcastcorporation.com",
+      "logoUrl": "/companies-assets/CMCSA.NASDAQ.svg",
+      "title": "Chief Financial Officer and Vice Chairman",
+      "startDate": "2007",
+      "endDate": "2015",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2015"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michael-angelakis-00872710",
+      "person_name": "Michael Angelakis",
+      "company_name": "Atairos",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Finance Committee",
     "Public Issues and Contributions Committee"

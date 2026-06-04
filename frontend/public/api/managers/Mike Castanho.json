@@ -5,21 +5,33 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Atha Energy Corp.",
-      "ticker": "SASK",
-      "exchange": "TSX",
-      "website": "https://www.athaenergy.com",
-      "title": "Director, President",
-      "startDate": "2023-01-12",
+      "name": "ATHA Energy Corp.",
+      "ticker": "ATHA",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "March 2023",
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "March 2023",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mike-castanho-4a5b2a12",
+      "person_name": "Mike Castanho",
+      "company_name": "ATHA Energy Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 45,
   "ageYear": 2024

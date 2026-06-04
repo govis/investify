@@ -9,17 +9,53 @@
       "ticker": "TXT",
       "exchange": "NYSE",
       "website": "https://www.textron.com",
-      "title": "Executive Vice President, General Counsel and Secretary",
-      "startDate": "2012-02-01",
+      "logoUrl": "/companies-assets/TXT.NYSE.svg",
+      "title": "Executive Vice President, General Counsel, Secretary and Chief Compliance Officer",
+      "startDate": "February 2012",
       "endDate": null,
-      "formattedStartDate": "2012 February",
+      "formattedStartDate": "February 2012",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Price Communications Corporation",
+      "ticker": "PRCE",
+      "exchange": "NASDAQ",
+      "website": "N/A",
+      "logoUrl": "https://companiesbio.com/images/logo/price-communications-corp.png",
+      "title": "Vice President and General Counsel",
+      "startDate": "Prior to 1999",
+      "endDate": "1999",
+      "formattedStartDate": "Prior to 1999",
+      "formattedEndDate": "1999"
+    },
+    {
+      "name": "Siemens AG",
+      "ticker": "SIEGY",
+      "exchange": "OTC",
+      "website": "https://www.siemens.com",
+      "logoUrl": "/companies-assets/SIEGY.OTC.svg",
+      "title": "Senior Vice President and General Counsel (Siemens Corporation U.S.); General Counsel for the Americas (Siemens AG)",
+      "startDate": "1999",
+      "endDate": "2012",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2012"
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/e-robert-lupone-0a42678a",
+      "person_name": "Robert Lupone",
+      "company_name": "Textron Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 59,
   "ageYear": 2024

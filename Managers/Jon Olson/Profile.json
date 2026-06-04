@@ -6,21 +6,67 @@
   "age_year": 2024,
   "background": "Former CFO of Xilinx, Inc. Joined AMD board following the Xilinx acquisition in 2022.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit and Risk Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Advanced Micro Devices, Inc.",
       "ticker": "AMD",
       "exchange": "NASDAQ",
       "title_or_role": "Independent Director",
-      "start_date": "2022-02-14",
-      "end_date": null
+      "website": "https://www.amd.com",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rocket Lab USA, Inc.",
+      "ticker": "RKLB",
+      "exchange": "NASDAQ",
+      "website": "https://www.rocketlabusa.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kulicke & Soffa Industries, Inc.",
+      "ticker": "KLIC",
+      "exchange": "NASDAQ",
+      "website": "https://www.kns.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Xilinx, Inc.",
+      "ticker": "XLNX",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "title_or_role": "Chief Financial Officer (CFO)",
+      "start_date": "2005",
+      "end_date": "2016",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jon-olson-4a5a2a1",
+      "person_name": "Jon Olson",
+      "company_name": "Advanced Micro Devices, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

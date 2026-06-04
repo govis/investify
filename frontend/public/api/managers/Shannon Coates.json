@@ -9,11 +9,36 @@
       "ticker": "BGL",
       "exchange": "ASX",
       "website": "https://www.bellevuegold.com.au",
-      "title": "Non-Executive Independent Director",
-      "startDate": "2020-05-01",
+      "logoUrl": "/companies-assets/BGL.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2020 May",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Flinders Mines Limited",
+      "ticker": "FMS",
+      "exchange": "ASX",
+      "website": "flindersmines.com.au",
+      "logoUrl": "https://www.flindersmines.com.au/wp-content/uploads/2021/05/Flinders-Mines-Logo.png",
+      "title": "Company Secretary",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Barton Gold Holdings Limited",
+      "ticker": "BGD",
+      "exchange": "ASX",
+      "website": "bartongold.com.au",
+      "logoUrl": "/companies-assets/BGD.ASX.png",
+      "title": "Company Secretary",
+      "startDate": "2021",
+      "endDate": "2024-11-29",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "November 2024"
     }
   ],
   "investmentTheses": [

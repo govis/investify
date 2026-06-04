@@ -5,14 +5,87 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "CrowdStrike Holdings, Inc.",
-      "ticker": "CRWD",
-      "exchange": "NASDAQ",
-      "website": "https://www.crowdstrike.com",
+      "name": "Target Corporation",
+      "ticker": "TGT",
+      "exchange": "NYSE",
+      "website": "https://www.target.com",
+      "logoUrl": "/companies-assets/TGT.NYSE.svg",
       "title": "Director",
-      "startDate": "2018-07-01",
+      "startDate": "2002",
+      "endDate": "2020",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Teledyne Technologies Incorporated",
+      "ticker": "TDY",
+      "exchange": "NYSE",
+      "website": "https://www.teledyne.com",
+      "logoUrl": "/companies-assets/TDY.NYSE.svg",
+      "title": "Director",
+      "startDate": "2006",
+      "endDate": "2021",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Ericsson",
+      "ticker": "ERIC",
+      "exchange": "NASDAQ",
+      "website": "https://www.ericsson.com",
+      "logoUrl": "/companies-assets/ERIC.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2008",
+      "endDate": "2016",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Abbott Laboratories",
+      "ticker": "ABT",
+      "exchange": "NYSE",
+      "website": "https://www.abbott.com",
+      "logoUrl": "/companies-assets/ABT.NYSE.svg",
+      "title": "Director",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2018 July",
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "AbbVie Inc.",
+      "ticker": "ABBV",
+      "exchange": "NYSE",
+      "website": "https://www.abbvie.com",
+      "logoUrl": "/companies-assets/ABBV.NYSE.svg",
+      "title": "Lead Independent Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Freshworks Inc.",
+      "ticker": "FRSH",
+      "exchange": "NASDAQ",
+      "website": "https://www.freshworks.com",
+      "logoUrl": "/companies-assets/FRSH.NASDAQ.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Verizon Communications Inc.",
+      "ticker": "VZ",
+      "exchange": "NYSE",
+      "website": "https://www.verizon.com",
+      "logoUrl": "/companies-assets/VZ.NYSE.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +93,18 @@
     "AI",
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/roxanne-austin-634604104",
+      "person_name": "Roxanne Austin",
+      "company_name": "Austin Investment Advisors",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

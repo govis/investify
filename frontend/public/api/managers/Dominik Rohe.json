@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "iShares Gold Trust",
-      "ticker": "IAU",
+      "name": "BlackRock, Inc.",
+      "ticker": "BLK",
       "exchange": "NYSE",
-      "website": "https://www.ishares.com/us/products/239561/ishares-gold-trust-fund",
-      "title": "Director, President and Chief Executive Officer of the Sponsor",
-      "startDate": "2019-03-01",
+      "website": "https://www.blackrock.com",
+      "logoUrl": "/companies-assets/BLK.NYSE.svg",
+      "title": "Senior Managing Director",
+      "startDate": "2010",
       "endDate": null,
-      "formattedStartDate": "2019 March",
+      "formattedStartDate": "2010",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "iShares Trust",
+      "ticker": "Various",
+      "exchange": "NASDAQ/NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "President",
+      "startDate": "2023-03-30",
+      "endDate": null,
+      "formattedStartDate": "March 2023",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/dominikrohe",
+      "person_name": "Dominik Rohe",
+      "company_name": "BlackRock",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 50,
   "ageYear": 2024

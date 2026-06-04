@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Arm Holdings plc",
-      "ticker": "ARM",
-      "exchange": "NASDAQ",
-      "website": "https://www.arm.com",
-      "title": "Independent Director",
-      "startDate": "2022-01-01",
+      "name": "Zurn Elkay Water Solutions Corporation",
+      "ticker": "ZWS",
+      "exchange": "NYSE",
+      "website": "https://www.zurnelkay.com/",
+      "logoUrl": "/companies-assets/ZWS.NYSE.svg",
+      "title": "Director",
+      "startDate": "2019",
       "endDate": null,
-      "formattedStartDate": "2022 January",
+      "formattedStartDate": "2019",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Cloudera, Inc.",
+      "ticker": "CLDR",
+      "exchange": "NYSE",
+      "website": "https://www.cloudera.com/",
+      "logoUrl": "/companies-assets/CLDR.NYSE.png",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": "2021",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2021"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rosemary-schooler-4a5a1a1/",
+      "person_name": "Rosemary Schooler",
+      "company_name": "Arm Holdings plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

@@ -5,15 +5,40 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "JPMorgan Chase & Co.",
-      "ticker": "JPM",
-      "exchange": "NYSE",
-      "website": "https://www.jpmorganchase.com",
-      "title": "Independent Director",
-      "startDate": "2018-03-12",
+      "name": "Starbucks Corporation",
+      "ticker": "SBUX",
+      "exchange": "NASDAQ",
+      "website": "https://www.starbucks.com",
+      "logoUrl": "/companies-assets/SBUX.NASDAQ.svg",
+      "title": "Vice Chair",
+      "startDate": "2018",
       "endDate": null,
-      "formattedStartDate": "2018 March",
+      "formattedStartDate": "2018",
       "formattedEndDate": ""
+    },
+    {
+      "name": "The Estée Lauder Companies Inc.",
+      "ticker": "EL",
+      "exchange": "NYSE",
+      "website": "elcompanies.com",
+      "logoUrl": "/companies-assets/EL.NYSE.svg",
+      "title": "Director",
+      "startDate": "2005",
+      "endDate": "2018",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "DreamWorks Animation SKG, Inc.",
+      "ticker": "DWA",
+      "exchange": "NASDAQ",
+      "website": "dreamworks.com",
+      "logoUrl": "/companies-assets/DWA.NASDAQ.jpg",
+      "title": "Chairman of the Board",
+      "startDate": null,
+      "endDate": "2016",
+      "formattedStartDate": "",
+      "formattedEndDate": "2016"
     }
   ],
   "investmentTheses": [

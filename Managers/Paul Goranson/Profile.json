@@ -6,27 +6,64 @@
   "age_year": 2024,
   "background": "Mr. Goranson is the Chief Executive Officer and a Director of the Company. He has over 30 years of experience in the uranium industry, including roles at Energy Fuels Inc. and Cameco Resources.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "enCore Energy Corp.",
       "ticker": "EU",
-      "exchange": "NASDAQ",
-      "title_or_role": "Chief Executive Officer, Director",
-      "start_date": "2020-10-01",
-      "end_date": null
+      "exchange": "TSX.V",
+      "title_or_role": "CEO and Director",
+      "website": "https://www.encoreenergycorp.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "enCore Energy Corp.",
       "ticker": "EU",
       "exchange": "TSX",
       "title_or_role": "Chief Executive Officer, Director",
+      "website": "https://encoreuranium.com",
       "start_date": "2020-10-01",
       "end_date": null
+    },
+    {
+      "name": "Energy Fuels Inc.",
+      "ticker": "UUUU",
+      "exchange": "NYSE American",
+      "website": "https://www.energyfuels.com",
+      "title_or_role": "Chief Operating Officer",
+      "start_date": "2012",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Uranerz Energy Corp.",
+      "ticker": "URZ",
+      "exchange": "NYSE American",
+      "website": "http://www.uranerz.com",
+      "title_or_role": "President, Chief Operating Officer, and Director",
+      "start_date": "2013",
+      "end_date": "2015",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/paul-goranson-p-e-nacd-dc-a19b0938",
+      "person_name": "Paul Goranson",
+      "company_name": "enCore Energy Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

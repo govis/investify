@@ -9,17 +9,29 @@
       "ticker": "RTX",
       "exchange": "NYSE",
       "website": "https://www.rtx.com",
+      "logoUrl": "/companies-assets/RTX.NYSE.svg",
       "title": "President, Collins Aerospace",
-      "startDate": "2020-02-01",
-      "endDate": null,
-      "formattedStartDate": "2020 February",
-      "formattedEndDate": ""
+      "startDate": "2020",
+      "endDate": "2024",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2024"
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/steve-timm",
+      "person_name": "Stephen Timm",
+      "company_name": "Collins Aerospace",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 55,
   "ageYear": 2024

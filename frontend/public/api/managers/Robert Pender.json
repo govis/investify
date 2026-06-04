@@ -5,14 +5,15 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Venture Global LNG, Inc.",
+      "name": "Venture Global, Inc.",
       "ticker": "VG",
-      "exchange": "NYSE",
-      "website": "https://venturegloballng.com",
-      "title": "Executive Co-Chairman",
-      "startDate": "2013-01-01",
+      "exchange": "NASDAQ",
+      "website": "https://www.venturegloballng.com/",
+      "logoUrl": "https://www.venturegloballng.com/wp-content/themes/ventureglobal/assets/images/logo.svg",
+      "title": "Executive Co-Chairman and Co-Founder",
+      "startDate": "2013",
       "endDate": null,
-      "formattedStartDate": "2013 January",
+      "formattedStartDate": "2013",
       "formattedEndDate": ""
     }
   ],

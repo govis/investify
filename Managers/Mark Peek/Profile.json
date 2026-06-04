@@ -6,21 +6,67 @@
   "age_year": 2024,
   "background": "Mr. Peek has served as a Managing Director of Workday Ventures since 2018. He previously served as Co-President and CFO of Workday, Inc. and as CFO of VMware, Inc.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "SentinelOne, Inc.",
       "ticker": "S",
       "exchange": "NYSE",
       "title_or_role": "Director",
-      "start_date": "2021-04-01",
-      "end_date": null
+      "website": "https://www.sentinelone.com",
+      "start_date": "September 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Workday, Inc.",
+      "ticker": "WDAY",
+      "exchange": "NASDAQ",
+      "website": "https://www.workday.com",
+      "title_or_role": "Executive Vice President / Managing Director and Co-Head of Workday Ventures",
+      "start_date": "2018",
+      "end_date": "May 2025",
+      "validated": true
+    },
+    {
+      "name": "Trimble Inc.",
+      "ticker": "TRMB",
+      "exchange": "NASDAQ",
+      "website": "https://www.trimble.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Workiva Inc.",
+      "ticker": "WK",
+      "exchange": "NYSE",
+      "website": "https://www.workiva.com",
+      "title_or_role": "Director",
+      "start_date": "March 2026",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/markpeek",
+      "person_name": "Mark Peek",
+      "company_name": "Workday, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

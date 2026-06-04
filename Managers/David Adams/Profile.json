@@ -6,20 +6,35 @@
   "age_year": 2024,
   "background": "Former Chairman and CEO of Curtiss-Wright Corporation. He retired as CEO in 2021 and as Chairman in 2022.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Curtiss-Wright Corporation",
+      "ticker": "CW",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Chairman (formerly Chairman and CEO)",
+      "website": "https://www.curtisswright.com",
+      "start_date": "2005",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Snap-on Incorporated",
+      "ticker": "SNA",
+      "exchange": "NYSE",
+      "website": "https://www.snapon.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Defense",
     "Nuclear"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Curtiss-Wright Corporation",
-      "ticker": "CW",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2013-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

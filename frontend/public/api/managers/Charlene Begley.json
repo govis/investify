@@ -5,15 +5,64 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "SentinelOne, Inc.",
-      "ticker": "S",
+      "name": "General Electric Company",
+      "ticker": "GE",
       "exchange": "NYSE",
-      "website": "https://www.sentinelone.com",
+      "website": "https://www.geaerospace.com",
+      "logoUrl": "/companies-assets/GE.NYSE.svg",
+      "title": "Senior Vice President and Chief Information Officer (and various other executive roles)",
+      "startDate": "1988",
+      "endDate": "2013",
+      "formattedStartDate": "1988",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Nasdaq, Inc.",
+      "ticker": "NDAQ",
+      "exchange": "NASDAQ",
+      "website": "https://www.nasdaq.com",
+      "logoUrl": "/companies-assets/NDAQ.NASDAQ.svg",
       "title": "Director",
-      "startDate": "2021-04-01",
+      "startDate": "2011",
       "endDate": null,
-      "formattedStartDate": "2021 April",
+      "formattedStartDate": "2011",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Hilton Worldwide Holdings, Inc.",
+      "ticker": "HLT",
+      "exchange": "NYSE",
+      "website": "https://www.hilton.com",
+      "logoUrl": "/companies-assets/HLT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Red Hat, Inc.",
+      "ticker": "RHT",
+      "exchange": "NYSE",
+      "website": "https://www.redhat.com",
+      "logoUrl": "/companies-assets/RHT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2014",
+      "endDate": "2019",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "WPP plc",
+      "ticker": "WPP",
+      "exchange": "NYSE",
+      "website": "wpp.com",
+      "logoUrl": "/companies-assets/WPP.NYSE.png",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": "2017",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2017"
     }
   ],
   "investmentTheses": [

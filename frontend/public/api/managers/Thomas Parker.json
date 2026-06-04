@@ -7,13 +7,26 @@
     {
       "name": "Ur-Energy Inc.",
       "ticker": "URG",
-      "exchange": "NYSE",
-      "website": "https://www.ur-energy.com",
-      "title": "Independent Director",
-      "startDate": "2007-01-01",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Lead Independent Director",
+      "startDate": "2007",
       "endDate": null,
-      "formattedStartDate": "2007 January",
+      "formattedStartDate": "2007",
       "formattedEndDate": ""
+    },
+    {
+      "name": "High Plains Uranium, Inc.",
+      "ticker": "N/A",
+      "exchange": "TSX-V",
+      "website": null,
+      "logoUrl": null,
+      "title": "President & Chief Executive Officer",
+      "startDate": "2006",
+      "endDate": "2007",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2007"
     }
   ],
   "investmentTheses": [

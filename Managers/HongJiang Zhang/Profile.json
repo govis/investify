@@ -6,22 +6,58 @@
   "age_year": 2024,
   "background": "Former CEO of Kingsoft Group and former managing director of Microsoft Research Asia. He has served as an independent director of our company since 2021.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Nomination and Corporate Governance Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "XPeng Inc.",
       "ticker": "XPEV",
       "exchange": "NYSE",
       "title_or_role": "Independent Non-executive Director",
-      "start_date": "2021-07-01",
-      "end_date": null
+      "website": "https://ir.xiaopeng.com/",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "AAC Technologies Holdings Inc.",
+      "ticker": "2018",
+      "exchange": "HKEX",
+      "website": "https://www.aactechnologies.com/",
+      "title_or_role": "Independent Chairman of the Board",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kingsoft Corporation Limited",
+      "ticker": "3888",
+      "exchange": "HKEX",
+      "website": "https://www.kingsoft.com/",
+      "title_or_role": "CEO and Executive Director",
+      "start_date": "2011",
+      "end_date": "2016",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://sg.linkedin.com/in/hongjiang-zhang-06765a1",
+      "person_name": "HongJiang Zhang",
+      "company_name": "Kingsoft Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Nomination and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

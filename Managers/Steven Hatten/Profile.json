@@ -6,19 +6,35 @@
   "age_year": 2024,
   "background": "Mr. Hatten has served as Chief Operating Officer since 2022. He previously served as Vice President of Operations from 2011 to 2022. He has over 30 years of experience in the uranium industry.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Ur-Energy Inc.",
       "ticker": "URG",
-      "exchange": "NYSE",
+      "exchange": "NYSE American",
       "title_or_role": "Chief Operating Officer",
-      "start_date": "2022-03-01",
-      "end_date": null
+      "website": "https://www.ur-energy.com",
+      "start_date": "Not publicly specified",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/steven-hatten-70787512",
+      "person_name": "Steven Hatten",
+      "company_name": "Ur-Energy Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

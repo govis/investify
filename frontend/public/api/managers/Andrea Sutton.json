@@ -5,21 +5,33 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Iluka Resources Limited",
-      "ticker": "ILU",
+      "name": "Energy Resources of Australia Ltd",
+      "ticker": "ERA",
       "exchange": "ASX",
-      "website": "https://www.iluka.com",
-      "title": "Independent Non-Executive Director",
-      "startDate": "2021-06-01",
-      "endDate": null,
-      "formattedStartDate": "2021 June",
-      "formattedEndDate": ""
+      "website": "https://www.energyres.com.au/",
+      "logoUrl": "/companies-assets/ERA.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2018",
+      "endDate": "2020",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2020"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/andrea-sutton-9a419b16",
+      "person_name": "Andrea Sutton",
+      "company_name": "Iluka Resources Limited",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1
+    }
+  ],
   "committees": [
     "People and Performance Committee (Chair)",
     "Sustainability Committee"

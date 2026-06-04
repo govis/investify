@@ -9,17 +9,53 @@
       "ticker": "SO",
       "exchange": "NYSE",
       "website": "https://www.southerncompany.com",
-      "title": "Chairman, President and Chief Executive Officer",
-      "startDate": "2023-05-24",
+      "logoUrl": "/companies-assets/SO.NYSE.svg",
+      "title": "President and Chief Executive Officer (Director)",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2023 May",
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Invesco Ltd.",
+      "ticker": "IVZ",
+      "exchange": "NYSE",
+      "website": "https://www.invesco.com",
+      "logoUrl": "/companies-assets/IVZ.NYSE.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2021-10-12",
+      "endDate": null,
+      "formattedStartDate": "October 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Essential Utilities, Inc.",
+      "ticker": "WTRG",
+      "exchange": "NYSE",
+      "website": "https://www.essential.co",
+      "logoUrl": "/companies-assets/WTRG.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "2019-05-02",
+      "endDate": "2023",
+      "formattedStartDate": "May 2019",
+      "formattedEndDate": "2023"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/chriscwomack",
+      "person_name": "Christopher Womack",
+      "company_name": "Southern Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 66,
   "ageYear": 2024

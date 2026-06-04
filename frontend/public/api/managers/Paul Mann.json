@@ -9,21 +9,35 @@
       "ticker": "ASPI",
       "exchange": "NASDAQ",
       "website": "https://aspisotopes.com",
-      "title": "Chairman and Chief Executive Officer, Chairman of the Board",
-      "startDate": "2021-09-01",
+      "logoUrl": "/companies-assets/ASPI.NASDAQ.svg",
+      "title": "Founder, Chief Executive Officer, and Executive Chairman",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2021 September",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
     },
     {
-      "name": "ASP Isotopes Inc.",
-      "ticker": "ASPI",
-      "exchange": "NYSE",
-      "website": "https://aspisotopes.com",
-      "title": "Chairman and Chief Executive Officer, Chairman of the Board",
-      "startDate": "2021-09-01",
+      "name": "PolarityTE, Inc.",
+      "ticker": "PTE",
+      "exchange": "NASDAQ",
+      "website": "https://www.polarityte.com",
+      "logoUrl": "/companies-assets/PTE.NASDAQ.png",
+      "title": "Chief Financial Officer",
+      "startDate": "June 2018",
+      "endDate": "2020",
+      "formattedStartDate": "June 2018",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Healthtech Solutions, Inc.",
+      "ticker": "HLTT",
+      "exchange": "OTC",
+      "website": "https://www.healthtechsolutions.com",
+      "logoUrl": "/companies-assets/HLTT.OTC.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2021 September",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
     }
   ],
@@ -31,7 +45,18 @@
     "Nuclear",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/paul-mann-61164619",
+      "person_name": "Paul Mann",
+      "company_name": "ASP Isotopes Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 52,
   "ageYear": 2024

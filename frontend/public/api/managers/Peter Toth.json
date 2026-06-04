@@ -9,17 +9,41 @@
       "ticker": "NEM",
       "exchange": "NYSE",
       "website": "https://www.newmont.com",
-      "title": "Executive Vice President and Chief Strategy and Sustainability Officer",
-      "startDate": "2022-07-01",
+      "logoUrl": "/companies-assets/NEM.NYSE.svg",
+      "title": "Executive Vice President and Chief Sustainability and Development Officer",
+      "startDate": "July 2022",
       "endDate": null,
-      "formattedStartDate": "2022 July",
+      "formattedStartDate": "July 2022",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Rio Tinto PLC",
+      "ticker": "RIO",
+      "exchange": "LSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Group Executive, Strategy and Development",
+      "startDate": "2014",
+      "endDate": "April 2022",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "April 2022"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/petertoth",
+      "person_name": "Peter Toth",
+      "company_name": "Newmont Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 53,
   "ageYear": 2024

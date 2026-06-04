@@ -6,19 +6,75 @@
   "age_year": 2024,
   "background": "Henrik Gerdes has served as our Chief Accounting Officer since May 2022. Prior to that, he served as our Vice President, Corporate Controller from 2020 to 2022. Before joining ChargePoint, he held various accounting roles at 8x8, Inc. and Ernst & Young.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "ChargePoint Holdings, Inc.",
       "ticker": "CHPT",
       "exchange": "NYSE",
       "title_or_role": "Chief Accounting Officer",
-      "start_date": "2022-05-01",
-      "end_date": null
+      "website": "chargepoint.com",
+      "start_date": "2020",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "8x8, Inc.",
+      "ticker": "EGHT",
+      "exchange": "NASDAQ",
+      "website": "8x8.com",
+      "title_or_role": "Chief Accounting Officer",
+      "start_date": "2017",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Rocket Fuel, Inc.",
+      "ticker": "FUEL",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Chief Accounting Officer & Treasurer",
+      "start_date": "2016",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "QuinStreet, Inc.",
+      "ticker": "QNST",
+      "exchange": "NASDAQ",
+      "website": "quinstreet.com",
+      "title_or_role": "Reporting Manager",
+      "start_date": "2010",
+      "end_date": "2011",
+      "validated": true
+    },
+    {
+      "name": "TIBCO Software, Inc.",
+      "ticker": "TIBX",
+      "exchange": "NASDAQ",
+      "website": "tibco.com",
+      "title_or_role": "Finance Director",
+      "start_date": "2011",
+      "end_date": "2014",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/henrik-gerdes-a1987613",
+      "person_name": "Henrik Gerdes",
+      "company_name": "ChargePoint Holdings, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

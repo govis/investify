@@ -5,15 +5,28 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "TransDigm Group Incorporated",
-      "ticker": "TDG",
+      "name": "Perimeter Solutions, Inc.",
+      "ticker": "PRM",
       "exchange": "NYSE",
-      "website": "https://www.transdigm.com",
-      "title": "Independent Director",
-      "startDate": "2006-01-01",
+      "website": "https://ir.perimeter-solutions.com",
+      "logoUrl": "/companies-assets/PRM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021-11-08",
       "endDate": null,
-      "formattedStartDate": "2006 January",
+      "formattedStartDate": "November 2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "The Sherwin-Williams Company",
+      "ticker": "SHW",
+      "exchange": "NYSE",
+      "website": "https://www.sherwin-williams.com",
+      "logoUrl": "/companies-assets/SHW.NYSE.svg",
+      "title": "Senior Vice President - Finance and Chief Financial Officer",
+      "startDate": "2001-01-01",
+      "endDate": "2016-12-31",
+      "formattedStartDate": "January 2001",
+      "formattedEndDate": "December 2016"
     }
   ],
   "investmentTheses": [

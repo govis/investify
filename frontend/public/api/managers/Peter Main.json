@@ -5,14 +5,15 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Paladin Energy Ltd",
+      "name": "Paladin Energy Ltd.",
       "ticker": "PDN",
       "exchange": "ASX",
       "website": "https://www.paladinenergy.com.au",
+      "logoUrl": "/companies-assets/PDN.ASX.svg",
       "title": "Non-Executive Director",
-      "startDate": "2019-12-11",
+      "startDate": "December 2019",
       "endDate": null,
-      "formattedStartDate": "2019 December",
+      "formattedStartDate": "December 2019",
       "formattedEndDate": ""
     }
   ],

@@ -3,19 +3,7 @@
   "name": "Sean Harquail",
   "background": "Mr. Harquail has over 15 years of experience in the mining and finance industries. He is currently a Managing Director at a private investment firm and has served on the boards of several public companies.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "Atha Energy Corp.",
-      "ticker": "SASK",
-      "exchange": "TSX",
-      "website": "https://www.athaenergy.com",
-      "title": "Independent Director",
-      "startDate": "2023-01-12",
-      "endDate": null,
-      "formattedStartDate": "2023 January",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "Nuclear"
   ],

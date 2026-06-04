@@ -9,10 +9,23 @@
       "ticker": "PH",
       "exchange": "NYSE",
       "website": "https://www.parker.com",
+      "logoUrl": "/companies-assets/PH.NYSE.svg",
       "title": "President and Chief Operating Officer",
-      "startDate": "2023-01-01",
+      "startDate": "2024",
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Symbotic Inc.",
+      "ticker": "SYM",
+      "exchange": "NASDAQ",
+      "website": "https://www.symbotic.com",
+      "logoUrl": "/companies-assets/SYM.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "August 26, 2025",
+      "endDate": null,
+      "formattedStartDate": "August 26, 2025",
       "formattedEndDate": ""
     }
   ],

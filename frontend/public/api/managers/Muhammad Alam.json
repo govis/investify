@@ -9,18 +9,42 @@
       "ticker": "SAP",
       "exchange": "NYSE",
       "website": "https://www.sap.com",
-      "title": "Member of the Executive Board, SAP Product Engineering",
-      "startDate": "2024-04-01",
+      "logoUrl": "/companies-assets/SAP.NYSE.svg",
+      "title": "Member of the Executive Board (Head of SAP Product & Engineering)",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2024 April",
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Microsoft Corp.",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "https://www.microsoft.com",
+      "logoUrl": "/companies-assets/MSFT.NASDAQ.svg",
+      "title": "Corporate Vice President, Dynamics 365",
+      "startDate": "2005",
+      "endDate": "2022",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2022"
     }
   ],
   "investmentTheses": [
     "AI",
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/muhammad-s-alam",
+      "person_name": "Muhammad Alam",
+      "company_name": "SAP SE",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 50,
   "ageYear": 2024

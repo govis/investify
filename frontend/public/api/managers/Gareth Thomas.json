@@ -7,12 +7,13 @@
     {
       "name": "Fortune Bay Corp.",
       "ticker": "FOR",
-      "exchange": "TSX",
-      "website": "https://fortunebaycorp.com",
-      "title": "President",
-      "startDate": "2023-05-01",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2016-07-01",
       "endDate": null,
-      "formattedStartDate": "2023 May",
+      "formattedStartDate": "July 2016",
       "formattedEndDate": ""
     }
   ],

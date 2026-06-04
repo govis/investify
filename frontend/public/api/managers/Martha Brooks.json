@@ -5,21 +5,69 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "AB Volvo",
-      "ticker": "VOLV-B",
-      "exchange": "STO",
-      "website": "https://www.volvogroup.com",
+      "name": "Jabil Inc.",
+      "ticker": "JBL",
+      "exchange": "NYSE",
+      "website": "https://www.jabil.com",
+      "logoUrl": "/companies-assets/JBL.NYSE.svg",
       "title": "Director",
-      "startDate": "2016-04-01",
+      "startDate": "March 2011",
       "endDate": null,
-      "formattedStartDate": "2016 April",
+      "formattedStartDate": "March 2011",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Harley-Davidson, Inc.",
+      "ticker": "HOG",
+      "exchange": "NYSE",
+      "website": "harley-davidson.com",
+      "logoUrl": "/companies-assets/HOG.NYSE.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Constellium SE",
+      "ticker": "CSTM",
+      "exchange": "NYSE",
+      "website": "https://www.constellium.com",
+      "logoUrl": "/companies-assets/CSTM.NYSE.svg",
+      "title": "Non-Executive Director",
+      "startDate": "June 2016",
+      "endDate": "2021",
+      "formattedStartDate": "June 2016",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Novelis, Inc.",
+      "ticker": "NVL",
+      "exchange": "NYSE",
+      "website": "https://www.novelis.com",
+      "logoUrl": "/companies-assets/NVL.NYSE.svg",
+      "title": "President and Chief Operating Officer",
+      "startDate": "2005",
+      "endDate": "2007",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2007"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/martha-brooks-475a8334",
+      "person_name": "Martha Brooks",
+      "company_name": "AB Volvo, Jabil Inc., Harley-Davidson, Inc., Constellium SE",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Remuneration Committee"
   ],

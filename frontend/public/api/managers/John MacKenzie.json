@@ -9,17 +9,53 @@
       "ticker": "CS",
       "exchange": "TSX",
       "website": "https://capstonecopper.com",
-      "title": "Chief Executive Officer, Director",
-      "startDate": "2022-03-23",
+      "logoUrl": "/companies-assets/CS.TSX.svg",
+      "title": "CEO and Director (formerly Board Chair)",
+      "startDate": "March 2022",
       "endDate": null,
-      "formattedStartDate": "2022 March",
+      "formattedStartDate": "March 2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Horizonte Minerals Plc",
+      "ticker": "HZM",
+      "exchange": "TSX",
+      "website": "https://horizonteminerals.com",
+      "logoUrl": "/companies-assets/HZM.TSX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "July 2023",
+      "endDate": null,
+      "formattedStartDate": "July 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Gold Fields Limited",
+      "ticker": "GFI",
+      "exchange": "NYSE",
+      "website": "https://www.goldfields.com",
+      "logoUrl": "/companies-assets/GFI.NYSE.svg",
+      "title": "Non-Executive Director",
+      "startDate": "August 1, 2025",
+      "endDate": null,
+      "formattedStartDate": "August 1, 2025",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/john-mackenzie-a9445711",
+      "person_name": "John MacKenzie",
+      "company_name": "Capstone Copper Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 55,
   "ageYear": 2024

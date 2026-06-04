@@ -9,11 +9,48 @@
       "ticker": "URI",
       "exchange": "NYSE",
       "website": "https://www.unitedrentals.com",
-      "title": "Independent Director",
-      "startDate": "2009-01-01",
+      "logoUrl": "/companies-assets/URI.NYSE.svg",
+      "title": "Director",
+      "startDate": "2009",
       "endDate": null,
-      "formattedStartDate": "2009 January",
+      "formattedStartDate": "2009",
       "formattedEndDate": ""
+    },
+    {
+      "name": "The TJX Companies, Inc.",
+      "ticker": "TJX",
+      "exchange": "NYSE",
+      "website": "https://www.tjx.com",
+      "logoUrl": "/companies-assets/TJX.NYSE.svg",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Urban Edge Properties",
+      "ticker": "UE",
+      "exchange": "NYSE",
+      "website": "https://www.uedge.com",
+      "logoUrl": "/companies-assets/UE.NYSE.svg",
+      "title": "Trustee (Board of Trustees)",
+      "startDate": "2015",
+      "endDate": "2022",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "GNC Holdings, Inc.",
+      "ticker": "GNC",
+      "exchange": "NYSE",
+      "website": "https://www.gnc.com",
+      "logoUrl": "/companies-assets/GNC.NYSE.png",
+      "title": "Director",
+      "startDate": "2011",
+      "endDate": "2020",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2020"
     }
   ],
   "investmentTheses": [

@@ -9,10 +9,23 @@
       "ticker": "BA",
       "exchange": "NYSE",
       "website": "https://www.boeing.com",
-      "title": "Unknown Role",
-      "startDate": null,
+      "logoUrl": "/companies-assets/BA.NYSE.svg",
+      "title": "Various senior executive roles, including President and CEO of Boeing Defense, Space & Security (BDS)",
+      "startDate": "2009",
+      "endDate": "2024",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Archer-Daniels-Midland Company",
+      "ticker": "ADM",
+      "exchange": "NYSE",
+      "website": "https://www.adm.com",
+      "logoUrl": "/companies-assets/ADM.NYSE.png",
+      "title": "Member of the Board of Directors",
+      "startDate": "May 2021",
       "endDate": null,
-      "formattedStartDate": "",
+      "formattedStartDate": "May 2021",
       "formattedEndDate": ""
     }
   ],

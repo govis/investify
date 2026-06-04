@@ -6,22 +6,78 @@
   "age_year": 2024,
   "background": "Geologist and co-founder of Inventa Capital. Former CEO of IsoEnergy and co-founder of NexGen Energy.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Skeena Resources Limited",
+      "ticker": "SKE",
+      "exchange": "TSX",
+      "title_or_role": "Lead Director",
+      "website": "skeenaresources.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Vizsla Silver Corp.",
+      "ticker": "VZLA",
+      "exchange": "TSXV",
+      "website": "vizslasilvercorp.ca",
+      "title_or_role": "Chairman",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Vizsla Copper Corp.",
+      "ticker": "VCU",
+      "exchange": "TSXV",
+      "website": "vizslacopper.com",
+      "title_or_role": "Executive Chairman & CEO",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Outback Goldfields Corp.",
+      "ticker": "OZ",
+      "exchange": "CSE",
+      "website": "outbackgoldfields.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NexGen Energy Ltd.",
+      "ticker": "NXE",
+      "exchange": "TSX",
+      "website": "nexgenenergy.ca",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2023",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/craig-parry",
+      "person_name": "Craig Parry",
+      "company_name": "Vizsla Silver Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Skeena Resources Limited",
-      "ticker": "SKE",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2017-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

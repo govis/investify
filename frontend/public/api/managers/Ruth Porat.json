@@ -9,18 +9,54 @@
       "ticker": "GOOGL",
       "exchange": "NASDAQ",
       "website": "https://abc.xyz",
-      "title": "President and Chief Investment Officer, Chief Financial Officer",
-      "startDate": "2023-09-01",
+      "logoUrl": "/companies-assets/GOOGL.NASDAQ.svg",
+      "title": "President & Chief Investment Officer (formerly CFO)",
+      "startDate": "2015-05",
       "endDate": null,
-      "formattedStartDate": "2023 September",
+      "formattedStartDate": "May 2015",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Blackstone Inc.",
+      "ticker": "BX",
+      "exchange": "NYSE",
+      "website": "https://www.blackstone.com/",
+      "logoUrl": "/companies-assets/BX.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2020-06-25",
+      "endDate": null,
+      "formattedStartDate": "June 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Morgan Stanley",
+      "ticker": "MS",
+      "exchange": "NYSE",
+      "website": "https://www.morganstanley.com",
+      "logoUrl": "/companies-assets/MS.NYSE.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2010-01",
+      "endDate": "2015-04",
+      "formattedStartDate": "January 2010",
+      "formattedEndDate": "April 2015"
     }
   ],
   "investmentTheses": [
     "AI",
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ruth-porat-4a5b6a1",
+      "person_name": "Ruth Porat",
+      "company_name": "Alphabet Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 66,
   "ageYear": 2024

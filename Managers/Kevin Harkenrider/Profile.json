@@ -6,19 +6,45 @@
   "age_year": 2024,
   "background": "Kevin Harkenrider has served as Chief Operating Officer since 2021. He joined Viasat in 2006 and has held several executive positions, including President of Broadband Services.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Viasat, Inc.",
       "ticker": "VSAT",
       "exchange": "NASDAQ",
-      "title_or_role": "Chief Operating Officer",
-      "start_date": "2021-05-01",
-      "end_date": null
+      "title_or_role": "Executive Vice President and Chief Corporate Officer",
+      "website": "https://www.viasat.com",
+      "start_date": "2006",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Computer Sciences Corporation",
+      "ticker": "CSC",
+      "exchange": "NYSE",
+      "website": "https://www.dxc.com",
+      "title_or_role": "Account Executive",
+      "start_date": "2002",
+      "end_date": "2006",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kevin-harkenrider-6783176",
+      "person_name": "Kevin Harkenrider",
+      "company_name": "Viasat, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -9,17 +9,53 @@
       "ticker": "AVGO",
       "exchange": "NASDAQ",
       "website": "https://www.broadcom.com",
+      "logoUrl": "/companies-assets/AVGO.NASDAQ.svg",
       "title": "President, Semiconductor Solutions Group",
-      "startDate": "2022-07-01",
+      "startDate": "May 2014",
       "endDate": null,
-      "formattedStartDate": "2022 July",
+      "formattedStartDate": "May 2014",
       "formattedEndDate": ""
+    },
+    {
+      "name": "LSI Corporation",
+      "ticker": "LSI",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Vice President of Sales",
+      "startDate": "January 2010",
+      "endDate": "May 2014",
+      "formattedStartDate": "January 2010",
+      "formattedEndDate": "May 2014"
+    },
+    {
+      "name": "Agere Systems Inc.",
+      "ticker": "AGR",
+      "exchange": "NYSE",
+      "website": "https://www.broadcom.com",
+      "logoUrl": "/companies-assets/AGR.NYSE.jpg",
+      "title": "Director of Marketing, Enterprise Networking Business",
+      "startDate": "2005",
+      "endDate": "2010",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2010"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/charlie-kawwas-phd-4a5a5a1",
+      "person_name": "Charlie Kawwas",
+      "company_name": "Broadcom Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 53,
   "ageYear": 2024

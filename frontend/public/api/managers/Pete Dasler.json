@@ -7,12 +7,37 @@
     {
       "name": "Sitka Gold Corp.",
       "ticker": "SIG",
-      "exchange": "TSX",
-      "website": "https://sitkagoldcorp.com",
+      "exchange": "TSX-V",
+      "website": null,
+      "logoUrl": null,
       "title": "Director",
-      "startDate": "2020-06-22",
+      "startDate": "Unknown",
       "endDate": null,
-      "formattedStartDate": "2020 June",
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "CanAlaska Uranium Ltd.",
+      "ticker": "CVV",
+      "exchange": "TSX-V",
+      "website": null,
+      "logoUrl": null,
+      "title": "President, CEO, and Director",
+      "startDate": "2004",
+      "endDate": null,
+      "formattedStartDate": "2004",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "New Age Metals Inc.",
+      "ticker": "NAM",
+      "exchange": "TSX-V",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice President, Business Development",
+      "startDate": "Unknown",
+      "endDate": "Unknown",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +45,18 @@
     "Gold",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/pete-dasler-4a5b2a12",
+      "person_name": "Pete Dasler",
+      "company_name": "CanAlaska Uranium Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

@@ -5,21 +5,69 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Dell Technologies Inc.",
-      "ticker": "DELL",
+      "name": "MultiPlan Corporation",
+      "ticker": "MPLN",
       "exchange": "NYSE",
-      "website": "https://www.dell.com",
+      "website": "https://www.multiplan.com",
+      "logoUrl": "/companies-assets/MPLN.NYSE.svg",
       "title": "Director",
-      "startDate": "2013-01-01",
-      "endDate": null,
-      "formattedStartDate": "2013 January",
-      "formattedEndDate": ""
+      "startDate": "2020",
+      "endDate": "2023",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "N Brown Group plc",
+      "ticker": "BWNG",
+      "exchange": "LSE",
+      "website": "https://www.nbrown.co.uk",
+      "logoUrl": "/companies-assets/BWNG.LSE.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2015",
+      "endDate": "2017",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "ZPG Plc",
+      "ticker": "ZPG",
+      "exchange": "LSE",
+      "website": "https://www.zpg.co.uk",
+      "logoUrl": "/companies-assets/ZPG.LSE.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2014",
+      "endDate": "2018",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Intelsat S.A.",
+      "ticker": "I",
+      "exchange": "NYSE",
+      "website": "https://www.intelsat.com",
+      "logoUrl": "/companies-assets/I.NYSE.jpg",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": "2020",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2020"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/simon-patterson-a11047a9",
+      "person_name": "Simon Patterson",
+      "company_name": "Silver Lake",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

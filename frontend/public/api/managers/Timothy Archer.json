@@ -5,22 +5,34 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Lam Research Corporation",
-      "ticker": "LRCX",
+      "name": "Novellus Systems, Inc.",
+      "ticker": "NVLS",
       "exchange": "NASDAQ",
-      "website": "https://www.lamresearch.com",
-      "title": "Director, President and Chief Executive Officer",
-      "startDate": "2018-12-01",
-      "endDate": null,
-      "formattedStartDate": "2018 December",
-      "formattedEndDate": ""
+      "website": "N/A",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Novellus_Systems_logo.svg/1200px-Novellus_Systems_logo.svg.png",
+      "title": "Chief Operating Officer; Senior Director-Technology (Novellus Systems Japan)",
+      "startDate": null,
+      "endDate": "2012",
+      "formattedStartDate": "",
+      "formattedEndDate": "2012"
     }
   ],
   "investmentTheses": [
     "AI",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/tim-archer-b7a9aa3",
+      "person_name": "Timothy Archer",
+      "company_name": "Lam Research",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 57,
   "ageYear": 2024

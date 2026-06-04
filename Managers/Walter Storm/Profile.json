@@ -6,19 +6,24 @@
   "age_year": 2024,
   "background": "Mr. Storm is a successful entrepreneur with over 50 years of experience in the mining and oil and gas industries. He was a co-founder of Osisko Mining and has been involved in several major resource discoveries.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Tudor Gold Corp.",
+      "ticker": "TUD",
+      "exchange": "TSXV",
+      "title_or_role": "Founder, CEO, and Chairman of the Board",
+      "website": "https://tudor-gold.com/",
+      "start_date": null,
+      "end_date": "June 2022",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Tudor Gold Corp.",
-      "ticker": "TUD",
-      "exchange": "TSX",
-      "title_or_role": "Executive Chairman",
-      "start_date": "2016-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

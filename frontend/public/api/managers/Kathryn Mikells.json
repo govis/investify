@@ -9,17 +9,101 @@
       "ticker": "XOM",
       "exchange": "NYSE",
       "website": "https://www.exxonmobil.com",
-      "title": "Senior Vice President and CFO",
-      "startDate": "2021-08-09",
+      "logoUrl": "/companies-assets/XOM.NYSE.svg",
+      "title": "Senior Vice President and Chief Financial Officer",
+      "startDate": "2021-08",
       "endDate": null,
-      "formattedStartDate": "2021 August",
+      "formattedStartDate": "August 2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Diageo plc",
+      "ticker": "DEO",
+      "exchange": "NYSE",
+      "website": "diageo.com",
+      "logoUrl": "/companies-assets/DEO.NYSE.svg",
+      "title": "Chief Financial Officer and Executive Director",
+      "startDate": "2015-11",
+      "endDate": "2021-06",
+      "formattedStartDate": "November 2015",
+      "formattedEndDate": "June 2021"
+    },
+    {
+      "name": "The Hartford Financial Services Group, Inc.",
+      "ticker": "HIG",
+      "exchange": "NYSE",
+      "website": "thehartford.com",
+      "logoUrl": "/companies-assets/HIG.NYSE.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": "2021",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Xerox Corporation",
+      "ticker": "XRX",
+      "exchange": "NASDAQ",
+      "website": "https://www.xerox.com",
+      "logoUrl": "/companies-assets/XRX.NASDAQ.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2013-05",
+      "endDate": "2015-11",
+      "formattedStartDate": "May 2013",
+      "formattedEndDate": "November 2015"
+    },
+    {
+      "name": "The ADT Corporation",
+      "ticker": "ADT",
+      "exchange": "NYSE",
+      "website": "https://www.adt.com/",
+      "logoUrl": "/companies-assets/ADT.NYSE.png",
+      "title": "Chief Financial Officer",
+      "startDate": "2012",
+      "endDate": "2013",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Nalco Company",
+      "ticker": "NLC",
+      "exchange": "NYSE",
+      "website": "ecolab.com",
+      "logoUrl": "/companies-assets/NLC.NYSE.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2010",
+      "endDate": "2011",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2011"
+    },
+    {
+      "name": "UAL Corporation (United Airlines)",
+      "ticker": "UAL",
+      "exchange": "NASDAQ",
+      "website": "united.com",
+      "logoUrl": "/companies-assets/UAL.NASDAQ.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "1994",
+      "endDate": "2010",
+      "formattedStartDate": "1994",
+      "formattedEndDate": "2010"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kathrynmikells",
+      "person_name": "Kathryn Mikells",
+      "company_name": "Exxon Mobil Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 58,
   "ageYear": 2024

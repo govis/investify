@@ -9,18 +9,42 @@
       "ticker": "ETN",
       "exchange": "NYSE",
       "website": "https://www.eaton.com",
-      "title": "President and Chief Operating Officer, Industrial Sector",
-      "startDate": "2022-07-01",
-      "endDate": null,
-      "formattedStartDate": "2022 July",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/ETN.NYSE.svg",
+      "title": "President, Hydraulics Group",
+      "startDate": "2019-01-01",
+      "endDate": "2022-07-01",
+      "formattedStartDate": "January 2019",
+      "formattedEndDate": "July 2022"
+    },
+    {
+      "name": "Siemens AG",
+      "ticker": "SIE",
+      "exchange": "Xetra",
+      "website": null,
+      "logoUrl": null,
+      "title": "CEO of Dresser-Rand business",
+      "startDate": "2016-01-01",
+      "endDate": "2019-01-01",
+      "formattedStartDate": "January 2016",
+      "formattedEndDate": "January 2019"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/paulo-ruiz-sternadt",
+      "person_name": "Paulo Ruiz",
+      "company_name": "Eaton",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 50,
   "ageYear": 2024

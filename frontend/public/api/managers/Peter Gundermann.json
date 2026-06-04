@@ -6,13 +6,26 @@
   "companies": [
     {
       "name": "Moog Inc.",
-      "ticker": "MOG",
-      "exchange": "A.NYSE",
+      "ticker": "MOG.A",
+      "exchange": "NYSE",
       "website": "https://www.moog.com",
-      "title": "Independent Director",
-      "startDate": "2014",
+      "logoUrl": "/companies-assets/MOG.A.NYSE.webp",
+      "title": "Director",
+      "startDate": "2019",
       "endDate": null,
-      "formattedStartDate": "",
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Astronics Corporation",
+      "ticker": "ATRO",
+      "exchange": "NASDAQ",
+      "website": "https://www.astronics.com",
+      "logoUrl": "/companies-assets/ATRO.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2001",
+      "endDate": null,
+      "formattedStartDate": "2001",
       "formattedEndDate": ""
     }
   ],

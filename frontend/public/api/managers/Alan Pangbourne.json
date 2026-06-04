@@ -5,21 +5,70 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "OceanaGold Corporation",
-      "ticker": "OGC",
+      "name": "Chesapeake Gold Corp.",
+      "ticker": "CKG",
+      "exchange": "TSXV",
+      "website": "https://chesapeakegold.com/",
+      "logoUrl": "/companies-assets/CKG.TSXV.svg",
+      "title": "President, CEO, and Director",
+      "startDate": "2020",
+      "endDate": "2023",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "TMAC Resources Inc.",
+      "ticker": "TMR",
       "exchange": "TSX",
-      "website": "https://oceanagold.com",
-      "title": "Independent Director",
-      "startDate": "2023-10-01",
-      "endDate": null,
-      "formattedStartDate": "2023 October",
-      "formattedEndDate": ""
+      "website": "https://www.tmacresources.com/",
+      "logoUrl": "https://www.marketscreener.com/images/reuters/2017-05-15T131000Z_1_LYNXMPED4E0O6_RTROPTP_3_TMAC-RESOURCES-INC.JPG",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": "2021",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Kinross Gold Corporation",
+      "ticker": "K",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "VP Projects, South America",
+      "startDate": "2010",
+      "endDate": "2013",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX / NYSE / LSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "President & COO, Nickel Americas",
+      "startDate": "1995",
+      "endDate": "2010",
+      "formattedStartDate": "1995",
+      "formattedEndDate": "2010"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/alan-pangbourne-1a3b832b",
+      "person_name": "Alan Pangbourne",
+      "company_name": "OceanaGold",
+      "potential_picture_url": null,
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/C5603AQExvJt7F7c14w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1638841498668?e=1751587200&v=beta&t=7U1eR1zJ4c-D7OqQGv0l-G283M_1bXyGf_N2zN306Dk",
+      "picture_url_li_search": null,
+      "picture_download_count": 1,
+      "profile_status": "private"
+    }
+  ],
   "committees": [
     "Governance and Nominating Committee",
     "Sustainability Committee (Chair)"

@@ -7,19 +7,43 @@
     {
       "name": "Thomson Reuters Corporation",
       "ticker": "TRI",
-      "exchange": "NYSE",
-      "website": "https://www.thomsonreuters.com",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
       "title": "Chief People Officer",
-      "startDate": "2017-11-01",
+      "startDate": "2017",
       "endDate": null,
-      "formattedStartDate": "2017 November",
+      "formattedStartDate": "2017",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Loblaw Companies Limited",
+      "ticker": "L",
+      "exchange": "TSX",
+      "website": "https://www.loblaw.ca",
+      "logoUrl": "/companies-assets/L.TSX.svg",
+      "title": "Executive Vice President, Human Resources and Labour Relations",
+      "startDate": "2014",
+      "endDate": "2017",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2017"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/mvuicic",
+      "person_name": "Mary Alice Vuicic",
+      "company_name": "Thomson Reuters",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 56,
   "ageYear": 2024

@@ -6,20 +6,32 @@
   "companies": [
     {
       "name": "Moog Inc.",
-      "ticker": "MOG",
-      "exchange": "A.NYSE",
-      "website": "https://www.moog.com",
-      "title": "President, Space and Defense Controls",
-      "startDate": "2017",
-      "endDate": null,
-      "formattedStartDate": "",
-      "formattedEndDate": ""
+      "ticker": "MOG.A / MOG.B",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice President, Group President - Space & Defense",
+      "startDate": "2015",
+      "endDate": "2023",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2023"
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/maureen-athoe-93930b301",
+      "person_name": "Maureen Athoe",
+      "company_name": "Moog Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 62,
   "ageYear": 2024

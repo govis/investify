@@ -9,10 +9,23 @@
       "ticker": "NXT",
       "exchange": "NASDAQ",
       "website": "https://www.nextracker.com",
-      "title": "Independent Director",
-      "startDate": "2023-02-01",
+      "logoUrl": "/companies-assets/NXT.NASDAQ.svg",
+      "title": "Chief Operating Officer (COO)",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2023 February",
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Mainfreight Limited",
+      "ticker": "MFT",
+      "exchange": "NZX",
+      "website": "https://www.mainfreight.com",
+      "logoUrl": "/companies-assets/MFT.NZX.svg",
+      "title": "Branch Manager (Adelaide)",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],

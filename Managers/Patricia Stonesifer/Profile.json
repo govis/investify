@@ -6,22 +6,68 @@
   "age_year": 2024,
   "background": "Former CEO of Martha's Table and former CEO of the Bill & Melinda Gates Foundation.",
   "picture_url": null,
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Nominating and Corporate Governance Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Amazon.com, Inc.",
       "ticker": "AMZN",
       "exchange": "NASDAQ",
       "title_or_role": "Director",
-      "start_date": "1997-02-01",
-      "end_date": null
+      "website": "www.aboutamazon.com",
+      "start_date": "1997-02",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CBS Corporation",
+      "ticker": "PARA",
+      "exchange": "NYSE",
+      "website": "www.paramount.com",
+      "title_or_role": "Director",
+      "start_date": "1999",
+      "end_date": "2005",
+      "validated": true
+    },
+    {
+      "name": "Alaska Air Group, Inc.",
+      "ticker": "ALK",
+      "exchange": "NYSE",
+      "website": "www.alaskaair.com",
+      "title_or_role": "Director",
+      "start_date": "1998",
+      "end_date": "2000",
+      "validated": true
+    },
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "www.microsoft.com",
+      "title_or_role": "Vice President",
+      "start_date": "1988",
+      "end_date": "1997",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/patty-stonesifer-4a5a5a1",
+      "person_name": "Patty Stonesifer",
+      "company_name": "Martha's Table",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

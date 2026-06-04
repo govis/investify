@@ -6,21 +6,66 @@
   "age_year": 2024,
   "background": "Chief People Officer at Skillsoft and former HR executive at Dell Technologies.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Nextracker Inc.",
       "ticker": "NXT",
       "exchange": "NASDAQ",
       "title_or_role": "Independent Director",
+      "website": "https://www.nextracker.com",
       "start_date": "2023-02-01",
       "end_date": null
+    },
+    {
+      "name": "UnitedHealth Group, Inc.",
+      "ticker": "UNH",
+      "exchange": "NYSE",
+      "website": "https://www.unitedhealthgroup.com",
+      "title_or_role": "Chief Talent Officer",
+      "start_date": "2022-11",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nuburu, Inc.",
+      "ticker": "BURU",
+      "exchange": "NYSE",
+      "website": "https://www.nuburu.net",
+      "title_or_role": "Independent Director",
+      "start_date": "2023",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Skillsoft Corp.",
+      "ticker": "SKIL",
+      "exchange": "NYSE",
+      "website": "https://www.skillsoft.com",
+      "title_or_role": "Chief People Officer",
+      "start_date": "2021",
+      "end_date": "2022",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/krhummel",
+      "person_name": "Kristi Hummel",
+      "company_name": "Skillsoft",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

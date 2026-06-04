@@ -6,19 +6,55 @@
   "age_year": 2024,
   "background": "Ms. Swaby has over 35 years' experience in the tertiary education and mining sectors. She has been involved in the uranium industry since 1984. She is a Fellow of the Governance Institute of Australia and the Australian Institute of Company Directors.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Deep Yellow Limited",
       "ticker": "DYL",
       "exchange": "ASX",
       "title_or_role": "Executive Director",
-      "start_date": "2016-10-24",
-      "end_date": null
+      "website": "https://www.deepyellow.com.au/",
+      "start_date": null,
+      "end_date": "2026",
+      "validated": true
+    },
+    {
+      "name": "Comet Ridge Limited",
+      "ticker": "COI",
+      "exchange": "ASX",
+      "website": "https://cometridge.com.au/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2004",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Panoramic Resources Limited",
+      "ticker": "PAN",
+      "exchange": "ASX",
+      "website": "https://panoramicresources.com/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/gillianswaby",
+      "person_name": "Gillian Swaby",
+      "company_name": "Deep Yellow Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -9,17 +9,42 @@
       "ticker": "XOM",
       "exchange": "NYSE",
       "website": "https://www.exxonmobil.com",
-      "title": "Independent Director",
-      "startDate": "2021-06-01",
+      "logoUrl": "/companies-assets/XOM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2021 June",
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Applied Materials, Inc.",
+      "ticker": "AMAT",
+      "exchange": "NASDAQ",
+      "website": "https://www.appliedmaterials.com",
+      "logoUrl": "/companies-assets/AMAT.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2008",
+      "endDate": null,
+      "formattedStartDate": "2008",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/alexanderkarsner",
+      "person_name": "Alexander Karsner",
+      "company_name": "Applied Materials",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1,
+      "profile_status": "private"
+    }
+  ],
   "committees": [
     "Finance Committee",
     "Public Issues and Contributions Committee"

@@ -7,19 +7,103 @@
     {
       "name": "Gold Royalty Corp.",
       "ticker": "GROY",
-      "exchange": "NYSE",
-      "website": "https://www.goldroyalty.com",
-      "title": "Independent Director",
-      "startDate": "2020-06-23",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2020 June",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Silvercorp Metals Inc.",
+      "ticker": "SVM",
+      "exchange": "TSX / NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Uranium Royalty Corp.",
+      "ticker": "URC",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Bear Creek Mining Corporation",
+      "ticker": "BCM",
+      "exchange": "TSXV",
+      "website": "bearcreekmining.com",
+      "logoUrl": "/companies-assets/BCM.TSXV.svg",
+      "title": "Director",
+      "startDate": "September 2019",
+      "endDate": "2023",
+      "formattedStartDate": "September 2019",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Great Panther Mining Limited",
+      "ticker": "GPR",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "April 2020",
+      "endDate": "2022",
+      "formattedStartDate": "April 2020",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Mountain Province Diamonds Inc.",
+      "ticker": "MPVD",
+      "exchange": "TSX",
+      "website": "https://www.mountainprovince.com",
+      "logoUrl": "/companies-assets/MPVD.TSX.jpg",
+      "title": "Director",
+      "startDate": "June 2020",
+      "endDate": "2022",
+      "formattedStartDate": "June 2020",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Avcorp Industries Inc.",
+      "ticker": "AVP",
+      "exchange": "TSX",
+      "website": "https://www.avcorp.com/",
+      "logoUrl": "/companies-assets/AVP.TSX.png",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": "2022",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2022"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/ken-robertson-039a1041",
+      "person_name": "Ken Robertson",
+      "company_name": "Gold Royalty Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee",

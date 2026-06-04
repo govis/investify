@@ -5,15 +5,28 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Sociedad Química y Minera de Chile S.A.",
+      "name": "Sociedad Química y Minera de Chile S.A. (SQM)",
       "ticker": "SQM",
       "exchange": "NYSE",
       "website": "https://www.sqm.com",
-      "title": "Director",
-      "startDate": "2023-04-26",
+      "logoUrl": "/companies-assets/SQM.NYSE.svg",
+      "title": "Director / Member of the Directors' Committee",
+      "startDate": "April 2023",
       "endDate": null,
-      "formattedStartDate": "2023 April",
+      "formattedStartDate": "April 2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Tianqi Lithium Corporation",
+      "ticker": "002466",
+      "exchange": "SZSE",
+      "website": "https://www.tianqilithium.com",
+      "logoUrl": "/companies-assets/002466.SZSE.svg",
+      "title": "Executive (Corporate Development)",
+      "startDate": "2017",
+      "endDate": "April 2023",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "April 2023"
     }
   ],
   "investmentTheses": [

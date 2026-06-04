@@ -9,11 +9,36 @@
       "ticker": "KLAC",
       "exchange": "NASDAQ",
       "website": "https://www.kla.com",
-      "title": "Independent Director",
-      "startDate": "2014-01-01",
+      "logoUrl": "/companies-assets/KLAC.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2014",
       "endDate": null,
-      "formattedStartDate": "2014 January",
+      "formattedStartDate": "2014",
       "formattedEndDate": ""
+    },
+    {
+      "name": "ServiceSource International, Inc.",
+      "ticker": "SREV",
+      "exchange": "NASDAQ",
+      "website": "servicesource.com",
+      "logoUrl": "/companies-assets/SREV.NASDAQ.png",
+      "title": "Executive Chairman & Chief Executive Officer",
+      "startDate": "2018",
+      "endDate": "2022",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "website": "https://www.cisco.com",
+      "logoUrl": "/companies-assets/CSCO.NASDAQ.svg",
+      "title": "President and Chief Operating Officer",
+      "startDate": "2001",
+      "endDate": "2015",
+      "formattedStartDate": "2001",
+      "formattedEndDate": "2015"
     }
   ],
   "investmentTheses": [

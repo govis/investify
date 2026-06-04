@@ -9,10 +9,23 @@
       "ticker": "AVGO",
       "exchange": "NASDAQ",
       "website": "https://www.broadcom.com",
-      "title": "Independent Director",
-      "startDate": "2006-01-01",
+      "logoUrl": "/companies-assets/AVGO.NASDAQ.svg",
+      "title": "Director (Independent)",
+      "startDate": "December 2016",
       "endDate": null,
-      "formattedStartDate": "2006 January",
+      "formattedStartDate": "December 2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Singapore Telecommunications Limited (Singtel)",
+      "ticker": "Z74",
+      "exchange": "SGX",
+      "website": "https://www.singtel.com",
+      "logoUrl": "/companies-assets/Z74.SGX.svg",
+      "title": "Lead Independent Director",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
       "formattedEndDate": ""
     }
   ],

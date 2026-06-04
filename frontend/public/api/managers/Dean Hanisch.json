@@ -5,14 +5,27 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Stria Lithium Inc.",
-      "ticker": "SRA",
+      "name": "Focus Graphite Inc.",
+      "ticker": "FMS",
       "exchange": "TSXV",
-      "website": "https://strialithium.com/",
-      "title": "Chief Executive Officer, Director",
-      "startDate": "2022-06-01",
+      "website": "https://focusgraphite.com/",
+      "logoUrl": "/companies-assets/FMS.TSXV.svg",
+      "title": "Chief Executive Officer",
+      "startDate": "2025-01-07",
       "endDate": null,
-      "formattedStartDate": "2022 June",
+      "formattedStartDate": "January 2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "CTT Pharmaceutical Holdings, Inc.",
+      "ticker": "CTTH",
+      "exchange": "OTC",
+      "website": "https://cttpharma.com/",
+      "logoUrl": "/companies-assets/CTTH.OTC.svg",
+      "title": "President, Secretary, Treasurer and Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +33,18 @@
     "Electrification",
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/dean-hanisch-9b60502",
+      "person_name": "Dean Hanisch",
+      "company_name": "Stria Lithium Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": null,
   "ageYear": null

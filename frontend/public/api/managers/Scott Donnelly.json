@@ -9,10 +9,23 @@
       "ticker": "TXT",
       "exchange": "NYSE",
       "website": "https://www.textron.com",
-      "title": "Chairman, President and Chief Executive Officer",
-      "startDate": "2010-09-01",
+      "logoUrl": "/companies-assets/TXT.NYSE.svg",
+      "title": "Chairman, President, and CEO (2009–2025); Executive Chairman (Effective January 4, 2026)",
+      "startDate": "2008",
       "endDate": null,
-      "formattedStartDate": "2010 September",
+      "formattedStartDate": "2008",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Medtronic plc",
+      "ticker": "MDT",
+      "exchange": "NYSE",
+      "website": "medtronic.com",
+      "logoUrl": "/companies-assets/MDT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
       "formattedEndDate": ""
     }
   ],

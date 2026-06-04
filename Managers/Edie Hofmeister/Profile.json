@@ -6,32 +6,70 @@
   "age_year": 2024,
   "background": "Ms. Hofmeister is an attorney with over 25 years of experience in legal and ESG matters in the mining industry.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Osisko Gold Royalties Ltd",
+      "ticker": "OR",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://osiskogr.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Wesdome Gold Mines Ltd.",
+      "ticker": "WDO",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://www.wesdome.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bitfarms Ltd.",
+      "ticker": "BITF",
+      "exchange": "NASDAQ/TSX",
+      "website": "https://bitfarms.com",
+      "title_or_role": "Director (Chair)",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Tahoe Resources Inc.",
+      "ticker": "TAHO",
+      "exchange": "TSX/NYSE",
+      "website": "https://tahoeresources.com",
+      "title_or_role": "EVP, Corporate Affairs & General Counsel",
+      "start_date": "2010",
+      "end_date": "2019",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/edie-hofmeister-28237113",
+      "person_name": "Edie Hofmeister",
+      "company_name": "Bitfarms Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Environmental and Sustainability Committee",
     "Governance and Nominating Committee (Chair)",
     "Human Resources Committee",
     "Sustainability Committee"
   ],
-  "companies": [
-    {
-      "name": "Osisko Gold Royalties Ltd",
-      "ticker": "OR",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2022-05-01",
-      "end_date": null
-    },
-    {
-      "name": "Wesdome Gold Mines Ltd.",
-      "ticker": "WDO",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2022-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -5,22 +5,58 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Amazon.com, Inc.",
-      "ticker": "AMZN",
+      "name": "VeriSign, Inc.",
+      "ticker": "VRSN",
       "exchange": "NASDAQ",
-      "website": "https://www.amazon.com",
+      "website": "https://www.verisign.com",
+      "logoUrl": "/companies-assets/VRSN.NASDAQ.svg",
       "title": "Director",
-      "startDate": "2012-02-01",
+      "startDate": "January 2015",
       "endDate": null,
-      "formattedStartDate": "2012 February",
+      "formattedStartDate": "January 2015",
       "formattedEndDate": ""
+    },
+    {
+      "name": "United Technologies Corporation (now part of RTX Corporation)",
+      "ticker": "RTX",
+      "exchange": "NYSE",
+      "website": "https://www.rtx.com",
+      "logoUrl": "/companies-assets/RTX.NYSE.svg",
+      "title": "Director",
+      "startDate": "February 2000",
+      "endDate": "December 2014",
+      "formattedStartDate": "February 2000",
+      "formattedEndDate": "December 2014"
+    },
+    {
+      "name": "Schlumberger Limited",
+      "ticker": "SLB",
+      "exchange": "NYSE",
+      "website": "https://www.slb.com",
+      "logoUrl": "/companies-assets/SLB.NYSE.svg",
+      "title": "Director",
+      "startDate": "April 2002",
+      "endDate": "June 2010",
+      "formattedStartDate": "April 2002",
+      "formattedEndDate": "June 2010"
     }
   ],
   "investmentTheses": [
     "AI",
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jamie-gorelick-9b2797287",
+      "person_name": "Jamie Gorelick",
+      "company_name": "WilmerHale",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],

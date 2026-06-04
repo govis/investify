@@ -5,14 +5,27 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Calibre Mining Corp.",
-      "ticker": "CXB",
-      "exchange": "TSX",
-      "website": "https://calibremining.com",
-      "title": "Chairman and Director",
-      "startDate": "2019-10-15",
+      "name": "Newcore Gold Ltd.",
+      "ticker": "NCAU",
+      "exchange": "TSXV",
+      "website": "https://newcoregold.com/",
+      "logoUrl": "/companies-assets/NCAU.TSXV.png",
+      "title": "Lead Director",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2019 October",
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Equinox Gold Corp.",
+      "ticker": "EQX",
+      "exchange": "TSX/NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2025-06-17",
+      "endDate": null,
+      "formattedStartDate": "June 2025",
       "formattedEndDate": ""
     }
   ],

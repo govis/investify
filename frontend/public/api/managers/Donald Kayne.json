@@ -5,26 +5,28 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Cameco Corporation",
-      "ticker": "CCJ",
-      "exchange": "NYSE",
-      "website": "https://www.cameco.com",
-      "title": "Independent Director",
-      "startDate": "2016-01-01",
-      "endDate": null,
-      "formattedStartDate": "2016 January",
-      "formattedEndDate": ""
+      "name": "Canfor Corporation",
+      "ticker": "CFP",
+      "exchange": "TSX",
+      "website": "https://www.canfor.com",
+      "logoUrl": "/companies-assets/CFP.TSX.svg",
+      "title": "President and Chief Executive Officer, Director",
+      "startDate": "2011",
+      "endDate": "2024",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2024"
     },
     {
-      "name": "Cameco Corporation",
-      "ticker": "CCO",
+      "name": "Canfor Pulp Products Inc.",
+      "ticker": "CFX",
       "exchange": "TSX",
-      "website": "https://www.cameco.com",
+      "website": "https://www.canforpulp.com",
+      "logoUrl": "/companies-assets/CFX.TSX.svg",
       "title": "Director",
-      "startDate": "2016-01-01",
-      "endDate": null,
-      "formattedStartDate": "2016 January",
-      "formattedEndDate": ""
+      "startDate": "2012",
+      "endDate": "2022",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2022"
     }
   ],
   "investmentTheses": [

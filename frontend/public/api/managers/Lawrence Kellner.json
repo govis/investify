@@ -5,21 +5,57 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Exxon Mobil Corporation",
-      "ticker": "XOM",
+      "name": "Continental Airlines, Inc.",
+      "ticker": "CAL",
       "exchange": "NYSE",
-      "website": "https://www.exxonmobil.com",
-      "title": "Independent Director",
-      "startDate": "2023-05-01",
-      "endDate": null,
-      "formattedStartDate": "2023 May",
-      "formattedEndDate": ""
+      "website": null,
+      "logoUrl": "/companies-assets/CAL.NYSE.svg",
+      "title": "Chairman and Chief Executive Officer",
+      "startDate": "2004-12",
+      "endDate": "2009-12",
+      "formattedStartDate": "December 2004",
+      "formattedEndDate": "December 2009"
+    },
+    {
+      "name": "The Boeing Company",
+      "ticker": "BA",
+      "exchange": "NYSE",
+      "website": "https://www.boeing.com",
+      "logoUrl": "/companies-assets/BA.NYSE.svg",
+      "title": "Director (including Chairman of the Board)",
+      "startDate": "2011-10",
+      "endDate": "2024-04",
+      "formattedStartDate": "October 2011",
+      "formattedEndDate": "April 2024"
+    },
+    {
+      "name": "Marriott International, Inc.",
+      "ticker": "MAR",
+      "exchange": "NASDAQ",
+      "website": "marriott.com",
+      "logoUrl": "/companies-assets/MAR.NASDAQ.svg",
+      "title": "Director (including Lead Independent Director)",
+      "startDate": "2002",
+      "endDate": "2022-05",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "May 2022"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/lawrence-kellner-4a5b2a12",
+      "person_name": "Lawrence Kellner",
+      "company_name": "Emerald Creek Group, LLC",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Finance Committee"

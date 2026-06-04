@@ -9,17 +9,29 @@
       "ticker": "KTOS",
       "exchange": "NASDAQ",
       "website": "https://www.kratosdefense.com",
+      "logoUrl": "/companies-assets/KTOS.NASDAQ.svg",
       "title": "Director",
-      "startDate": "2012-01-01",
+      "startDate": "January 2011",
       "endDate": null,
-      "formattedStartDate": "2012 January",
+      "formattedStartDate": "January 2011",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jane-judd-32435810",
+      "person_name": "Jane Judd",
+      "company_name": "Kratos Defense & Security Solutions, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee (Chair)"
   ],

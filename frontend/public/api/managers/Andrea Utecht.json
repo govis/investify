@@ -9,17 +9,41 @@
       "ticker": "LTHM",
       "exchange": "NYSE",
       "website": "https://www.livent.com",
-      "title": "Independent Director",
-      "startDate": "2018-05-01",
+      "logoUrl": "/companies-assets/LTHM.NYSE.svg",
+      "title": "Director",
+      "startDate": "October 2018",
+      "endDate": "January 2024",
+      "formattedStartDate": "October 2018",
+      "formattedEndDate": "January 2024"
+    },
+    {
+      "name": "FMC Corporation",
+      "ticker": "FMC",
+      "exchange": "NYSE",
+      "website": "https://www.fmc.com",
+      "logoUrl": "/companies-assets/FMC.NYSE.svg",
+      "title": "EVP, General Counsel & Secretary",
+      "startDate": "January 1, 2011",
       "endDate": null,
-      "formattedStartDate": "2018 May",
+      "formattedStartDate": "January 1, 2011",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/andrea-utecht-25a81830",
+      "person_name": "Andrea Utecht",
+      "company_name": "FMC Corporation",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1
+    }
+  ],
   "committees": [
     "Nominating and Corporate Governance Committee",
     "Sustainability Committee"

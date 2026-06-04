@@ -7,30 +7,44 @@
     {
       "name": "CanAlaska Uranium Ltd.",
       "ticker": "CVV",
-      "exchange": "TSX",
+      "exchange": "TSXV",
       "website": "https://canalaska.com/",
-      "title": "Chairman",
-      "startDate": "2007-01-01",
+      "logoUrl": "/companies-assets/CVV.TSXV.png",
+      "title": "Director and Board Chairman",
+      "startDate": "2005",
       "endDate": null,
-      "formattedStartDate": "2007 January",
+      "formattedStartDate": "2005",
       "formattedEndDate": ""
     },
     {
-      "name": "CanAlaska Uranium Ltd.",
-      "ticker": "CVV",
-      "exchange": "TSXV",
-      "website": "https://canalaska.com/",
-      "title": "Chairman",
-      "startDate": "2007-01-01",
+      "name": "Lightbridge Corporation",
+      "ticker": "LTBR",
+      "exchange": "NASDAQ",
+      "website": "https://www.ltbridge.com",
+      "logoUrl": "/companies-assets/LTBR.NASDAQ.svg",
+      "title": "Chairman Emeritus",
+      "startDate": "2024",
       "endDate": null,
-      "formattedStartDate": "2007 January",
+      "formattedStartDate": "2024",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/thomas-graham-jr-b84451a",
+      "person_name": "Thomas Graham Jr.",
+      "company_name": "CanAlaska Uranium Ltd.",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1,
+      "profile_status": "private"
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"

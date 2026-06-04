@@ -6,6 +6,29 @@
   "age_year": 2024,
   "background": "Mr. Low has served as a director since 2006. He is a co-founder of NewSmith Capital Partners LLP and was previously a partner at Goldman Sachs, where he served as Chairman of Goldman Sachs (Asia).",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Broadcom Inc.",
+      "ticker": "AVGO",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director (Independent)",
+      "website": "https://www.broadcom.com",
+      "start_date": "December 2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Singapore Telecommunications Limited (Singtel)",
+      "ticker": "Z74",
+      "exchange": "SGX",
+      "website": "https://www.singtel.com",
+      "title_or_role": "Lead Independent Director",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -14,14 +37,6 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Broadcom Inc.",
-      "ticker": "AVGO",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2006-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

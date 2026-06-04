@@ -5,14 +5,15 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Royal Gold, Inc.",
-      "ticker": "RGLD",
-      "exchange": "NASDAQ",
-      "website": "https://www.royalgold.com",
-      "title": "Independent Director",
-      "startDate": "2013-01-01",
+      "name": "Ivanhoe Electric Inc.",
+      "ticker": "IE",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2023-06-01",
       "endDate": null,
-      "formattedStartDate": "2013 January",
+      "formattedStartDate": "June 2023",
       "formattedEndDate": ""
     }
   ],

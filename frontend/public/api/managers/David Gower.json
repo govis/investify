@@ -5,14 +5,51 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "EagleOne Metals Corp.",
-      "ticker": "EAGL",
-      "exchange": "CSE",
-      "website": "https://eagleonemetals.com",
+      "name": "Emerita Resources Corp.",
+      "ticker": "EMO",
+      "exchange": "TSXV",
+      "website": "https://www.emeritaresources.com/",
+      "logoUrl": "/companies-assets/EMO.TSXV.png",
+      "title": "CEO and Director",
+      "startDate": "2017",
+      "endDate": "2025",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "Nobel Resources Corp.",
+      "ticker": "NBLC",
+      "exchange": "TSXV",
+      "website": "https://nobelresources.ca/",
+      "logoUrl": "/companies-assets/NBLC.TSXV.svg",
+      "title": "Chief Executive Officer & Non-Independent Director",
+      "startDate": "2021",
+      "endDate": "2024",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Apogee Opportunities, Inc.",
+      "ticker": "APG",
+      "exchange": "TSXV",
+      "website": "N/A",
+      "logoUrl": "/companies-assets/APG.TSXV.svg",
+      "title": "Chief Executive Officer",
+      "startDate": "2007",
+      "endDate": "2011",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2011"
+    },
+    {
+      "name": "Kria Resources Ltd.",
+      "ticker": "KRI",
+      "exchange": "TSXV",
+      "website": "N/A",
+      "logoUrl": "/companies-assets/KRI.TSXV.svg",
       "title": "Director",
-      "startDate": "2023-06-01",
+      "startDate": "2009",
       "endDate": null,
-      "formattedStartDate": "2023 June",
+      "formattedStartDate": "2009",
       "formattedEndDate": ""
     }
   ],

@@ -9,17 +9,53 @@
       "ticker": "UNP",
       "exchange": "NYSE",
       "website": "https://www.up.com",
-      "title": "Chief Executive Officer, Director",
+      "logoUrl": "/companies-assets/UNP.NYSE.svg",
+      "title": "Chief Executive Officer & Director",
       "startDate": "2023-08-14",
       "endDate": null,
-      "formattedStartDate": "2023 August",
+      "formattedStartDate": "August 2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "FedEx Corporation",
+      "ticker": "FDX",
+      "exchange": "NYSE",
+      "website": "https://www.fedex.com",
+      "logoUrl": "/companies-assets/FDX.NYSE.svg",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": "2023",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Canadian National Railway Company",
+      "ticker": "CNR",
+      "exchange": "TSX",
+      "website": "www.cn.ca",
+      "logoUrl": "/companies-assets/CNR.TSX.svg",
+      "title": "Executive Vice President & Chief Operating Officer",
+      "startDate": "1977",
+      "endDate": "2019",
+      "formattedStartDate": "1977",
+      "formattedEndDate": "2019"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jim-vena-5a5b5a1b",
+      "person_name": "Jim Vena",
+      "company_name": "Union Pacific Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 65,
   "ageYear": 2024

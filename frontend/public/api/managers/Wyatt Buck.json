@@ -9,17 +9,41 @@
       "ticker": "BOE",
       "exchange": "ASX",
       "website": "https://www.bossenergy.com",
+      "logoUrl": "/companies-assets/BOE.ASX.svg",
       "title": "Non-Executive Chairman",
-      "startDate": "2021-11-01",
+      "startDate": "2023-03-30",
       "endDate": null,
-      "formattedStartDate": "2021 November",
+      "formattedStartDate": "March 2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Paladin Energy Ltd",
+      "ticker": "PDN",
+      "exchange": "ASX",
+      "website": "https://www.paladinenergy.com.au",
+      "logoUrl": "/companies-assets/PDN.ASX.svg",
+      "title": "Executive General Manager – Operations / Production",
+      "startDate": "2009-09",
+      "endDate": "2011-05",
+      "formattedStartDate": "September 2009",
+      "formattedEndDate": "May 2011"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/wyatt-buck-88b08619",
+      "person_name": "Wyatt Buck",
+      "company_name": "Paladin Energy Ltd",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit and Risk Committee",
     "Remuneration and Nomination Committee"

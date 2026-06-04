@@ -5,15 +5,28 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "VanEck Uranium and Nuclear Energy ETF",
-      "ticker": "NLR",
-      "exchange": "NYSE",
-      "website": "https://www.vaneck.com/us/en/investments/uranium-nuclear-energy-etf-nlr/",
-      "title": "Secretary, Vice President",
-      "startDate": "2022-01-01",
-      "endDate": null,
-      "formattedStartDate": "2022 January",
-      "formattedEndDate": ""
+      "name": "Duos Technologies Group, Inc.",
+      "ticker": "DUOT",
+      "exchange": "NASDAQ",
+      "website": "https://www.duostechnologies.com",
+      "logoUrl": "/companies-assets/DUOT.NASDAQ.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2022-11",
+      "endDate": "2024-04",
+      "formattedStartDate": "November 2022",
+      "formattedEndDate": "April 2024"
+    },
+    {
+      "name": "APR Energy",
+      "ticker": "APR",
+      "exchange": "LSE",
+      "website": "https://www.aprenergy.com",
+      "logoUrl": "/companies-assets/APR.LSE.svg",
+      "title": "Finance and Investor Relations roles",
+      "startDate": "2015",
+      "endDate": "2020",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2020"
     }
   ],
   "investmentTheses": [

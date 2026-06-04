@@ -7,19 +7,55 @@
     {
       "name": "QuantumScape Corporation",
       "ticker": "QS",
-      "exchange": "NYSE",
-      "website": "https://www.quantumscape.com",
-      "title": "Chief Executive Officer, Director",
-      "startDate": "2024-02-15",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "President & CEO",
+      "startDate": "Sept 2023",
       "endDate": null,
-      "formattedStartDate": "2024 February",
+      "formattedStartDate": "Sept 2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Western Digital Corporation",
+      "ticker": "WDC",
+      "exchange": "NASDAQ",
+      "website": "https://www.westerndigital.com",
+      "logoUrl": "/companies-assets/WDC.NASDAQ.svg",
+      "title": "President, Technology and Strategy",
+      "startDate": "May 2016",
+      "endDate": "2023",
+      "formattedStartDate": "May 2016",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "SanDisk Corporation",
+      "ticker": "SNDK",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "/companies-assets/SNDK.NASDAQ.svg",
+      "title": "Executive Vice President, Memory Technology",
+      "startDate": "June 2013",
+      "endDate": "May 2016",
+      "formattedStartDate": "June 2013",
+      "formattedEndDate": "May 2016"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/siva-sivaram-1394ab5b",
+      "person_name": "Siva Sivaram",
+      "company_name": "QuantumScape Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 64,
   "ageYear": 2024

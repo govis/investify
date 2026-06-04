@@ -6,22 +6,78 @@
   "age_year": 2024,
   "background": "Former CEO of Adobe Systems Incorporated.",
   "picture_url": null,
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Oracle Corporation",
       "ticker": "ORCL",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2008-07-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://www.oracle.com",
+      "start_date": "July 2008",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Adobe Inc.",
+      "ticker": "ADBE",
+      "exchange": "NASDAQ",
+      "website": "https://www.adobe.com",
+      "title_or_role": "CEO, President, Director",
+      "start_date": "1994",
+      "end_date": "2008",
+      "validated": true
+    },
+    {
+      "name": "Synopsys, Inc.",
+      "ticker": "SNPS",
+      "exchange": "NASDAQ",
+      "website": "https://www.synopsys.com",
+      "title_or_role": "Director",
+      "start_date": "April 2001",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "ChargePoint Holdings, Inc.",
+      "ticker": "CHPT",
+      "exchange": "NYSE",
+      "website": "https://www.chargepoint.com",
+      "title_or_role": "Director (Chair)",
+      "start_date": "November 2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Informatica Inc.",
+      "ticker": "INFA",
+      "exchange": "NYSE",
+      "website": "https://www.informatica.com",
+      "title_or_role": "Director (Executive Chairman)",
+      "start_date": "August 2015",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/brucechizen",
+      "person_name": "Bruce Chizen",
+      "company_name": "Adobe",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

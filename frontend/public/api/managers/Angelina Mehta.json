@@ -2,24 +2,72 @@
   "id": "Angelina Mehta",
   "name": "Angelina Mehta",
   "background": "Ms. Mehta is an engineer with over 20 years of experience in the mining industry, including roles in operations, investment banking, and private equity.",
-  "pictureUrl": null,
+  "pictureUrl": "/managers-assets/Angelina Mehta.jpg",
   "companies": [
     {
       "name": "Lundin Gold Inc.",
       "ticker": "LUG",
       "exchange": "TSX",
       "website": "https://lundingold.com",
+      "logoUrl": "/companies-assets/LUG.TSX.svg",
       "title": "Independent Director",
-      "startDate": "2023-05-01",
+      "startDate": "2023-04-30",
       "endDate": null,
-      "formattedStartDate": "2023 May",
+      "formattedStartDate": "April 2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Azimut Exploration Inc.",
+      "ticker": "AZM",
+      "exchange": "TSXV",
+      "website": "https://azimut-exploration.com",
+      "logoUrl": "/companies-assets/AZM.TSXV.svg",
+      "title": "Director",
+      "startDate": "2018-02-27",
+      "endDate": null,
+      "formattedStartDate": "February 2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Falco Resources Ltd.",
+      "ticker": "FPC",
+      "exchange": "TSXV",
+      "website": "https://www.falcores.com",
+      "logoUrl": "/companies-assets/FPC.TSXV.svg",
+      "title": "Director",
+      "startDate": "2019-10-14",
+      "endDate": "2021-03-08",
+      "formattedStartDate": "October 2019",
+      "formattedEndDate": "March 2021"
+    },
+    {
+      "name": "Pershimco Resources Inc.",
+      "ticker": "PRO",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": "/companies-assets/PRO.TSXV.svg",
+      "title": "Director",
+      "startDate": "2014",
+      "endDate": "2016",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2016"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/angelinamehta",
+      "person_name": "Angelina Mehta",
+      "company_name": "Lundin Gold Inc., Azimut Exploration Inc., Falco Resources Ltd., Pershimco Resources Inc.",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
   "committees": [
     "Health, Safety, Environment and Sustainability Committee"
   ],

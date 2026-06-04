@@ -5,15 +5,88 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "General Motors Company",
-      "ticker": "GM",
+      "name": "Lucent Technologies",
+      "ticker": "LU",
       "exchange": "NYSE",
-      "website": "https://www.gm.com",
-      "title": "Lead Independent Director",
-      "startDate": "2009-07-24",
-      "endDate": null,
-      "formattedStartDate": "2009 July",
-      "formattedEndDate": ""
+      "website": null,
+      "logoUrl": "/companies-assets/LU.NYSE.svg",
+      "title": "Chief Executive Officer",
+      "startDate": "2002",
+      "endDate": "2006",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "2006"
+    },
+    {
+      "name": "Alcatel-Lucent",
+      "ticker": "ALU",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "/companies-assets/ALU.NYSE.png",
+      "title": "Chief Executive Officer",
+      "startDate": "2006",
+      "endDate": "2008",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2008"
+    },
+    {
+      "name": "Hewlett-Packard Company (HP)",
+      "ticker": "HPQ",
+      "exchange": "NYSE",
+      "website": "hp.com",
+      "logoUrl": "/companies-assets/HPQ.NYSE.jpg",
+      "title": "Member, Board of Directors / Lead Independent Director",
+      "startDate": "2011",
+      "endDate": "2015",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Hewlett Packard Enterprise (HPE)",
+      "ticker": "HPE",
+      "exchange": "NYSE",
+      "website": "https://www.arubanetworks.com",
+      "logoUrl": "https://www.arubanetworks.com/assets/images/logos/Aruba_a_Hewlett_Packard_Enterprise_company-Logo.png",
+      "title": "Chair of the Board of Directors",
+      "startDate": "2015",
+      "endDate": "2020",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Arconic Inc.",
+      "ticker": "ARNC",
+      "exchange": "NYSE",
+      "website": "www.arconic.com",
+      "logoUrl": "/companies-assets/ARNC.NYSE.png",
+      "title": "Member, Board of Directors / Interim Chair",
+      "startDate": "2016",
+      "endDate": "2020",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Merck & Co., Inc.",
+      "ticker": "MRK",
+      "exchange": "NYSE",
+      "website": "https://www.merck.com",
+      "logoUrl": "/companies-assets/MRK.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2008",
+      "endDate": "2023",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "KKR & Co. Inc.",
+      "ticker": "KKR",
+      "exchange": "NYSE",
+      "website": "www.kkr.com",
+      "logoUrl": "/companies-assets/KKR.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2011",
+      "endDate": "2021",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2021"
     }
   ],
   "investmentTheses": [

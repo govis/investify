@@ -9,11 +9,36 @@
       "ticker": "DELL",
       "exchange": "NYSE",
       "website": "https://www.dell.com",
-      "title": "Independent Director",
-      "startDate": "2016-01-01",
+      "logoUrl": "/companies-assets/DELL.NYSE.svg",
+      "title": "Director",
+      "startDate": "2013",
       "endDate": null,
-      "formattedStartDate": "2016 January",
+      "formattedStartDate": "2013",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Accenture plc",
+      "ticker": "ACN",
+      "exchange": "NYSE",
+      "website": "https://www.accenture.com",
+      "logoUrl": "/companies-assets/ACN.NYSE.svg",
+      "title": "CEO (2004–2010), Chairman of the Board (2006–2013)",
+      "startDate": "2004",
+      "endDate": "2013",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "S&P Global Inc.",
+      "ticker": "SPGI",
+      "exchange": "NYSE",
+      "website": "https://www.spglobal.com",
+      "logoUrl": "/companies-assets/SPGI.NYSE.svg",
+      "title": "Director",
+      "startDate": "2011",
+      "endDate": "2023",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2023"
     }
   ],
   "investmentTheses": [

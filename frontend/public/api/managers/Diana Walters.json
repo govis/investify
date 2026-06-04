@@ -6,20 +6,68 @@
   "companies": [
     {
       "name": "Platinum Group Metals Ltd.",
-      "ticker": "PTM",
-      "exchange": "NYSE",
-      "website": "https://www.platinumgroupmetals.net",
-      "title": "Chair of the Board",
-      "startDate": "2014-01-01",
+      "ticker": "PLG",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Chairman / Director",
+      "startDate": "2012",
       "endDate": null,
-      "formattedStartDate": "2014 January",
+      "formattedStartDate": "2012",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "NuScale Power Corporation",
+      "ticker": "SMR",
+      "exchange": "NYSE",
+      "website": "https://www.nuscalepower.com",
+      "logoUrl": "/companies-assets/SMR.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "December 20, 2024",
+      "endDate": null,
+      "formattedStartDate": "December 20, 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Atmos Energy Corporation",
+      "ticker": "ATO",
+      "exchange": "NYSE",
+      "website": "https://www.atmosenergy.com/",
+      "logoUrl": "/companies-assets/ATO.NYSE.png",
+      "title": "Independent Director",
+      "startDate": "November 1, 2018",
+      "endDate": null,
+      "formattedStartDate": "November 1, 2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Trilogy Metals Inc.",
+      "ticker": "TMQ",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Director",
+      "startDate": "2012",
+      "endDate": null,
+      "formattedStartDate": "2012",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/diana-walters-2a7176b",
+      "person_name": "Diana Walters",
+      "company_name": "Platinum Group Metals Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"

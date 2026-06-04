@@ -3,19 +3,7 @@
   "name": "John Stevens",
   "background": "Chief Financial Officer of Global X Management Company LLC. Previously served as a Senior Vice President at Neuberger Berman.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "Global X Uranium ETF",
-      "ticker": "URA",
-      "exchange": "NYSE",
-      "website": "https://www.globalxetfs.com/funds/ura/",
-      "title": "Chief Financial Officer",
-      "startDate": "2018-01-01",
-      "endDate": null,
-      "formattedStartDate": "2018 January",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "Reshoring"
   ],

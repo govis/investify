@@ -9,17 +9,41 @@
       "ticker": "BA",
       "exchange": "NYSE",
       "website": "https://www.boeing.com",
-      "title": "Unknown Role",
-      "startDate": null,
-      "endDate": null,
-      "formattedStartDate": "",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/BA.NYSE.svg",
+      "title": "President and Chief Executive Officer",
+      "startDate": "2015",
+      "endDate": "2019",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Caterpillar Inc.",
+      "ticker": "CAT",
+      "exchange": "NYSE",
+      "website": "https://www.caterpillar.com",
+      "logoUrl": "/companies-assets/CAT.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2011",
+      "endDate": "2020",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2020"
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dennis-muilenburg-5a5b5a1a",
+      "person_name": "Dennis Muilenburg",
+      "company_name": "The Boeing Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 60,
   "ageYear": 2024

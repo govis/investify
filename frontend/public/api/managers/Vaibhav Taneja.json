@@ -9,18 +9,42 @@
       "ticker": "TSLA",
       "exchange": "NASDAQ",
       "website": "https://www.tesla.com",
-      "title": "Chief Financial Officer, Chief Accounting Officer",
-      "startDate": "2023-08-01",
+      "logoUrl": "/companies-assets/TSLA.NASDAQ.svg",
+      "title": "Chief Financial Officer (CFO)",
+      "startDate": "August 2023",
       "endDate": null,
-      "formattedStartDate": "2023 August",
+      "formattedStartDate": "August 2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "SolarCity Corporation",
+      "ticker": "SCTY",
+      "exchange": "NASDAQ",
+      "website": "https://www.tesla.com",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SolarCity_logo.svg/1200px-SolarCity_logo.svg.png",
+      "title": "Corporate Controller",
+      "startDate": "March 2016",
+      "endDate": "2016",
+      "formattedStartDate": "March 2016",
+      "formattedEndDate": "2016"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/vaibhav-taneja-7297003",
+      "person_name": "Vaibhav Taneja",
+      "company_name": "Tesla, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 46,
   "ageYear": 2024

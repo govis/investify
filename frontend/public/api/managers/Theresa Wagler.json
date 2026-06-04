@@ -9,10 +9,23 @@
       "ticker": "STLD",
       "exchange": "NASDAQ",
       "website": "https://www.steeldynamics.com",
-      "title": "Executive Vice President, Chief Financial Officer and Corporate Secretary",
-      "startDate": "2007-05",
+      "logoUrl": "/companies-assets/STLD.NASDAQ.svg",
+      "title": "Executive Vice President, Chief Financial Officer, and Corporate Secretary",
+      "startDate": "May 2007",
       "endDate": null,
-      "formattedStartDate": "2007 May",
+      "formattedStartDate": "May 2007",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "CF Industries Holdings, Inc.",
+      "ticker": "CF",
+      "exchange": "NYSE",
+      "website": "https://www.cfindustries.com",
+      "logoUrl": "/companies-assets/CF.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "2014",
       "formattedEndDate": ""
     }
   ],

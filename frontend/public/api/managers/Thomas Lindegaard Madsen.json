@@ -3,19 +3,7 @@
   "name": "Thomas Lindegaard Madsen",
   "background": "Thomas Lindegaard Madsen is an employee-elected member of the board. He is a Captain at Maersk.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "A.P. Møller - Mærsk A/S",
-      "ticker": "AMKBY",
-      "exchange": "OTC",
-      "website": "https://www.maersk.com",
-      "title": "Employee-elected Member",
-      "startDate": "2022-03-15",
-      "endDate": null,
-      "formattedStartDate": "2022 March",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "Reshoring"
   ],

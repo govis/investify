@@ -9,17 +9,29 @@
       "ticker": "KLAC",
       "exchange": "NASDAQ",
       "website": "https://www.kla.com",
+      "logoUrl": "/companies-assets/KLAC.NASDAQ.svg",
       "title": "Executive Vice President and Chief Financial Officer",
-      "startDate": "2013-08-01",
+      "startDate": "2013",
       "endDate": null,
-      "formattedStartDate": "2013 August",
+      "formattedStartDate": "2013",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bren-higgins-4a5a5a10",
+      "person_name": "Bren Higgins",
+      "company_name": "KLA",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 53,
   "ageYear": 2024

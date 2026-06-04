@@ -6,6 +6,39 @@
   "age_year": 2024,
   "background": "Mr. John is a mining engineer with over 35 years of experience in the resource sector. He was formerly the President and CEO of Dundee Resources Limited and served as a director of several mining companies including Osisko Gold Royalties Ltd. and Alamos Gold Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Discovery Silver Corp.",
+      "ticker": "DSV",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://discoverysilver.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "O3 Mining Inc.",
+      "ticker": "OIII",
+      "exchange": "TSXV",
+      "website": "https://o3mining.com",
+      "title_or_role": "Lead Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Gladiator Metals Corp.",
+      "ticker": "GLAD",
+      "exchange": "TSXV",
+      "website": "https://gladiatormetals.com",
+      "title_or_role": "Board Advisor",
+      "start_date": "2024-09-05",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +47,6 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Discovery Silver Corp.",
-      "ticker": "DSV",
-      "exchange": "TSX",
-      "title_or_role": "Chairman",
-      "start_date": "2017-05-15",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

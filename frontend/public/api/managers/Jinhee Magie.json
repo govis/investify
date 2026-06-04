@@ -7,20 +7,56 @@
     {
       "name": "Lithium Americas Corp.",
       "ticker": "LAC",
-      "exchange": "NYSE",
-      "website": "https://www.lithiumamericas.com",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
       "title": "Director",
-      "startDate": "2023-10-04",
+      "startDate": "June 2021",
       "endDate": null,
-      "formattedStartDate": "2023 October",
+      "formattedStartDate": "June 2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Star Royalties Ltd.",
+      "ticker": "STRR",
+      "exchange": "TSXV",
+      "website": "https://www.starroyalties.com/",
+      "logoUrl": "/companies-assets/STRR.TSXV.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Lundin Mining Corporation",
+      "ticker": "LUN (TSX) / LUMI (STO)",
+      "exchange": "TSX / STO",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director, Finance",
+      "startDate": "September 2008",
+      "endDate": "Prior to Vice President role",
+      "formattedStartDate": "September 2008",
+      "formattedEndDate": "Prior to Vice President role"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/jinhee-magie-8b435512",
+      "person_name": "Jinhee Magie",
+      "company_name": "Lundin Mining Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

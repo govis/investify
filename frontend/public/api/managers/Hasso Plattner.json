@@ -7,13 +7,14 @@
     {
       "name": "SAP SE",
       "ticker": "SAP",
-      "exchange": "NYSE",
-      "website": "https://www.sap.com",
-      "title": "Unknown Role",
-      "startDate": null,
-      "endDate": null,
-      "formattedStartDate": "",
-      "formattedEndDate": ""
+      "exchange": "XETRA (Frankfurt)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Co-Founder, CEO, Chairman of the Supervisory Board",
+      "startDate": "1972",
+      "endDate": "2024",
+      "formattedStartDate": "1972",
+      "formattedEndDate": "2024"
     }
   ],
   "investmentTheses": [

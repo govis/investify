@@ -2,24 +2,84 @@
   "id": "Andrew MacRitchie",
   "name": "Andrew MacRitchie",
   "background": "Mr. MacRitchie is a Chartered Professional Accountant with over 20 years of experience in the mining industry. He has served as CFO of Skeena since 2017 and was previously CFO of several other public mining companies.",
-  "pictureUrl": null,
+  "pictureUrl": "/managers-assets/Andrew MacRitchie.jpg",
   "companies": [
     {
       "name": "Skeena Resources Limited",
       "ticker": "SKE",
-      "exchange": "NYSE",
+      "exchange": "TSX",
       "website": "https://skeenaresources.com",
+      "logoUrl": "/companies-assets/SKE.TSX.svg",
       "title": "Chief Financial Officer",
-      "startDate": "2017-01-01",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2017 January",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Winshear Gold Corp.",
+      "ticker": "WINS",
+      "exchange": "TSXV",
+      "website": "winshear.com",
+      "logoUrl": "/companies-assets/WINS.TSXV.png",
+      "title": "Director",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Virginia Energy Resources Inc.",
+      "ticker": "VUI",
+      "exchange": "TSXV",
+      "website": "virginiaenergyresources.com",
+      "logoUrl": "https://www.virginiaenergyresources.com/i/logos/logo.png",
+      "title": "Chief Financial Officer",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Emergent Metals Corp.",
+      "ticker": "EMR",
+      "exchange": "TSXV",
+      "website": "emergentmetals.com",
+      "logoUrl": "/companies-assets/EMR.TSXV.svg",
+      "title": "Independent Director",
+      "startDate": "2012",
+      "endDate": null,
+      "formattedStartDate": "2012",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "FireFox Gold Corp.",
+      "ticker": "FFOX",
+      "exchange": "TSXV",
+      "website": "firefoxgold.com",
+      "logoUrl": "/companies-assets/FFOX.TSXV.png",
+      "title": "Chief Financial Officer & Secretary",
+      "startDate": "2005",
+      "endDate": "2020",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2020"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/andrew-macritchie-cpa-ca-9495494",
+      "person_name": "Andrew MacRitchie",
+      "company_name": "Skeena Resources Limited",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
   "committees": [],
   "age": 52,
   "ageYear": 2024

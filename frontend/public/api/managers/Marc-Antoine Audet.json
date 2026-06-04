@@ -9,17 +9,41 @@
       "ticker": "GMIN",
       "exchange": "TSX",
       "website": "https://www.gminingventures.com",
-      "title": "Chief Financial Officer",
-      "startDate": "2024-01-01",
+      "logoUrl": "/companies-assets/GMIN.TSX.svg",
+      "title": "Director",
+      "startDate": "Not specified",
       "endDate": null,
-      "formattedStartDate": "2024 January",
+      "formattedStartDate": "Not specified",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sama Resources Inc.",
+      "ticker": "SME",
+      "exchange": "TSXV",
+      "website": "https://samaresources.com/",
+      "logoUrl": "/companies-assets/SME.TSXV.png",
+      "title": "President & CEO",
+      "startDate": "Not specified",
+      "endDate": null,
+      "formattedStartDate": "Not specified",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/marc-antoine-audet-78990241",
+      "person_name": "Marc-Antoine Audet",
+      "company_name": "Sama Resources Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 39,
   "ageYear": 2024

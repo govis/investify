@@ -9,17 +9,89 @@
       "ticker": "HII",
       "exchange": "NYSE",
       "website": "https://www.hii.com",
+      "logoUrl": "/companies-assets/HII.NYSE.svg",
       "title": "Director",
-      "startDate": "2012-01-01",
+      "startDate": "2012",
       "endDate": null,
-      "formattedStartDate": "2012 January",
+      "formattedStartDate": "2012",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Philip Morris International Inc.",
+      "ticker": "PM",
+      "exchange": "NYSE",
+      "website": "https://www.pmi.com",
+      "logoUrl": "/companies-assets/PM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "formattedStartDate": "January 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Xylem Inc.",
+      "ticker": "XYL",
+      "exchange": "NYSE",
+      "website": "https://www.xylem.com",
+      "logoUrl": "/companies-assets/XYL.NYSE.svg",
+      "title": "Director",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Gannett Co., Inc.",
+      "ticker": "GCI",
+      "exchange": "NYSE",
+      "website": "https://www.gannett.com",
+      "logoUrl": "/companies-assets/GCI.NYSE.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2012",
+      "endDate": "2015",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "TEGNA Inc.",
+      "ticker": "TGNA",
+      "exchange": "NYSE",
+      "website": "https://www.tegna.com",
+      "logoUrl": "/companies-assets/TGNA.NYSE.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2015",
+      "endDate": "2016",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "AES Corporation",
+      "ticker": "AES",
+      "exchange": "NYSE",
+      "website": "https://www.aes.com",
+      "logoUrl": "/companies-assets/AES.NYSE.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2006",
+      "endDate": "2012",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2012"
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/victoria-harker-7467479",
+      "person_name": "Victoria Harker",
+      "company_name": "Huntington Ingalls Industries, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"

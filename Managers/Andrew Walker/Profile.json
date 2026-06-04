@@ -6,19 +6,46 @@
   "age_year": 2024,
   "background": "Andrew Walker is the Business Area President for Power Technique. He joined Atlas Copco in 1986 and has held several leadership roles in different business areas and regions.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Atlas Copco AB",
+      "ticker": "ATCOA / ATCOB",
+      "exchange": "Nasdaq Stockholm",
+      "title_or_role": "President, Power Technique Business Area",
+      "website": "https://www.atlascopcogroup.com",
+      "start_date": "2014-09-15",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Unum Group",
+      "ticker": "UNM",
+      "exchange": "NYSE",
+      "website": "https://www.unumgroup.com",
+      "title_or_role": "Chief Customer Operations Officer",
+      "start_date": "2025-07-08",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "socials": [
     {
-      "name": "Atlas Copco AB",
-      "ticker": "ATCO",
-      "exchange": "STO",
-      "title_or_role": "Business Area President Power Technique",
-      "start_date": "2014-01-01",
-      "end_date": null
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/andrew-walker-ba28a11/",
+      "person_name": "Andrew Walker",
+      "company_name": "Atlas Copco",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1
     }
-  ]
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 1
 }

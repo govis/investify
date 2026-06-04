@@ -9,17 +9,41 @@
       "ticker": "BA",
       "exchange": "NYSE",
       "website": "https://www.boeing.com",
+      "logoUrl": "/companies-assets/BA.NYSE.svg",
       "title": "Director",
-      "startDate": "2022-06-21",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2022 June",
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Carrier Global Corporation",
+      "ticker": "CARR",
+      "exchange": "NYSE",
+      "website": "https://www.carrier.com",
+      "logoUrl": "/companies-assets/CARR.NYSE.svg",
+      "title": "Chairman & Chief Executive Officer",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/david--gitlin",
+      "person_name": "David Gitlin",
+      "company_name": "Carrier Global Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit",
     "Finance"

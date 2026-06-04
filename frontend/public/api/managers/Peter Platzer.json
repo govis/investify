@@ -9,17 +9,29 @@
       "ticker": "SPIR",
       "exchange": "NYSE",
       "website": "https://spire.com",
-      "title": "Chief Executive Officer, Director",
-      "startDate": "2012-09-01",
+      "logoUrl": "/companies-assets/SPIR.NYSE.svg",
+      "title": "Co-Founder, Executive Chairman (formerly CEO)",
+      "startDate": "2012",
       "endDate": null,
-      "formattedStartDate": "2012 September",
+      "formattedStartDate": "2012",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/peterbplatzer",
+      "person_name": "Peter Platzer",
+      "company_name": "Spire Global, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 53,
   "ageYear": 2024

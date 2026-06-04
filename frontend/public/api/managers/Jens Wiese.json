@@ -7,19 +7,43 @@
     {
       "name": "QuantumScape Corporation",
       "ticker": "QS",
-      "exchange": "NYSE",
-      "website": "https://www.quantumscape.com",
-      "title": "Director",
-      "startDate": "2020-11-01",
-      "endDate": null,
-      "formattedStartDate": "2020 November",
-      "formattedEndDate": ""
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Director",
+      "startDate": "2021",
+      "endDate": "2024",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Volkswagen AG",
+      "ticker": "VWAGY",
+      "exchange": "OTC",
+      "website": null,
+      "logoUrl": null,
+      "title": "Head of Group M&A, Investment Advisory and Partnerships / Head of Group Battery Strategy",
+      "startDate": "2016",
+      "endDate": "2023",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2023"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jensulrichwiese",
+      "person_name": "Jens Wiese",
+      "company_name": "Volkswagen AG",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 53,
   "ageYear": 2024

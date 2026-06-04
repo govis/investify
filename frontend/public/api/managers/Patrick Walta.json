@@ -5,21 +5,57 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Newmont Corporation",
-      "ticker": "NEM",
-      "exchange": "NYSE",
-      "website": "https://www.newmont.com",
-      "title": "Independent Director",
-      "startDate": "2023-11-01",
+      "name": "Future Metals NL",
+      "ticker": "FME",
+      "exchange": "ASX",
+      "website": "https://future-metals.com.au/",
+      "logoUrl": "/companies-assets/FME.ASX.svg",
+      "title": "Executive Chairman",
+      "startDate": "2023-10",
       "endDate": null,
-      "formattedStartDate": "2023 November",
+      "formattedStartDate": "October 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "New Century Resources Limited",
+      "ticker": "NCZ",
+      "exchange": "ASX",
+      "website": null,
+      "logoUrl": "/companies-assets/NCZ.ASX.svg",
+      "title": "Managing Director",
+      "startDate": "2017-02",
+      "endDate": "2021-02",
+      "formattedStartDate": "February 2017",
+      "formattedEndDate": "February 2021"
+    },
+    {
+      "name": "Broken Hill Mines",
+      "ticker": "BHM",
+      "exchange": "ASX",
+      "website": "https://brokenhillmines.com.au/",
+      "logoUrl": "/companies-assets/BHM.ASX.png",
+      "title": "Executive Chair",
+      "startDate": "2022-09",
+      "endDate": null,
+      "formattedStartDate": "September 2022",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/patrick-walta-742a7136",
+      "person_name": "Patrick Walta",
+      "company_name": "Future Metals NL",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Safety and Sustainability Committee"
   ],

@@ -9,10 +9,23 @@
       "ticker": "CACI",
       "exchange": "NYSE",
       "website": "https://www.caci.com",
+      "logoUrl": "/companies-assets/CACI.NYSE.svg",
       "title": "Director",
-      "startDate": "2013-01-01",
+      "startDate": "2013",
+      "endDate": "2025-12-31",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "December 2025"
+    },
+    {
+      "name": "Choice Hotels International, Inc.",
+      "ticker": "CHH",
+      "exchange": "NYSE",
+      "website": "https://www.choicehotels.com",
+      "logoUrl": "/companies-assets/CHH.NYSE.svg",
+      "title": "Director",
+      "startDate": "2000",
       "endDate": null,
-      "formattedStartDate": "2013 January",
+      "formattedStartDate": "2000",
       "formattedEndDate": ""
     }
   ],

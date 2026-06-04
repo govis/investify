@@ -6,20 +6,36 @@
   "age_year": 2024,
   "background": "Mr. Chow is the Chief Financial Officer of NANO Nuclear Energy Inc. He has over 25 years of experience in finance and accounting, including roles as CFO and Controller for several public and private companies. He is a Certified Public Accountant.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "NANO Nuclear Energy Inc.",
       "ticker": "NNE",
       "exchange": "NASDAQ",
-      "title_or_role": "Chief Financial Officer",
-      "start_date": "2023-01-01",
-      "end_date": null
+      "title_or_role": "Chief Policy Officer and Director",
+      "website": "https://nanonuclearenergy.com/",
+      "start_date": "May 2023",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/chowwinston",
+      "person_name": "Winston Chow",
+      "company_name": "NANO Nuclear Energy Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

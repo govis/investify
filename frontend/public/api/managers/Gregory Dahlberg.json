@@ -9,17 +9,41 @@
       "ticker": "LDOS",
       "exchange": "NYSE",
       "website": "https://www.leidos.com",
-      "title": "Independent Director",
-      "startDate": "2016-01-01",
+      "logoUrl": "/companies-assets/LDOS.NYSE.svg",
+      "title": "Director",
+      "startDate": "2016",
       "endDate": null,
-      "formattedStartDate": "2016 January",
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Lockheed Martin Corporation",
+      "ticker": "LMT",
+      "exchange": "NYSE",
+      "website": "https://www.lockheedmartin.com",
+      "logoUrl": "/companies-assets/LMT.NYSE.svg",
+      "title": "Senior Vice President, Washington Operations",
+      "startDate": "2001",
+      "endDate": "2015",
+      "formattedStartDate": "2001",
+      "formattedEndDate": "2015"
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gregorydahlberg1",
+      "person_name": "Gregory Dahlberg",
+      "company_name": "Leidos Holdings, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Finance Committee"

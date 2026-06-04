@@ -9,17 +9,29 @@
       "ticker": "DYL",
       "exchange": "ASX",
       "website": "https://deepyellow.com.au",
+      "logoUrl": "/companies-assets/DYL.ASX.png",
       "title": "Non-Executive Director",
-      "startDate": "2022-12-01",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2022 December",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/gregmeyerowitz",
+      "person_name": "Greg Meyerowitz",
+      "company_name": "Deep Yellow Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee (Chair)",
     "Remuneration Committee"

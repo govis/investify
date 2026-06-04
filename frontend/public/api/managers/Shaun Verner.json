@@ -9,17 +9,41 @@
       "ticker": "SYR",
       "exchange": "ASX",
       "website": "https://www.syrahresources.com.au",
+      "logoUrl": "/companies-assets/SYR.ASX.png",
       "title": "Managing Director and Chief Executive Officer",
-      "startDate": "2017-02-03",
+      "startDate": "February 2017",
       "endDate": null,
-      "formattedStartDate": "2017 February",
+      "formattedStartDate": "February 2017",
       "formattedEndDate": ""
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX / NYSE / LSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice President, Marketing (Coal and Base Metals)",
+      "startDate": "Prior to 2012",
+      "endDate": "February 2017",
+      "formattedStartDate": "Prior to 2012",
+      "formattedEndDate": "February 2017"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/shaun-verner-854272b",
+      "person_name": "Shaun Verner",
+      "company_name": "Syrah Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 54,
   "ageYear": 2023

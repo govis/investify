@@ -2,24 +2,60 @@
   "id": "Sander van’t Noordende",
   "name": "Sander van’t Noordende",
   "background": "Sander van’t Noordende is the CEO of Randstad N.V. and former Group Chief Executive of the Products Operating Group at Accenture.",
-  "pictureUrl": null,
+  "pictureUrl": "/managers-assets/Sander van’t Noordende.jpg",
   "companies": [
     {
       "name": "AECOM",
       "ticker": "ACM",
       "exchange": "NYSE",
       "website": "https://aecom.com",
-      "title": "Independent Director",
-      "startDate": "2021-01-01",
+      "logoUrl": "/companies-assets/ACM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2021 January",
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Accenture plc",
+      "ticker": "ACN",
+      "exchange": "NYSE",
+      "website": "https://www.accenture.com",
+      "logoUrl": "/companies-assets/ACN.NYSE.svg",
+      "title": "Group Chief Executive (various operating groups including Products and Management Consulting)",
+      "startDate": "1987",
+      "endDate": "2019",
+      "formattedStartDate": "1987",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Randstad N.V.",
+      "ticker": "RAND",
+      "exchange": "Euronext Amsterdam (AMS)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Executive Officer",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sander-van-t-noordende-2a81b6",
+      "person_name": "Sander van't Noordende",
+      "company_name": "Randstad N.V.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee"
   ],

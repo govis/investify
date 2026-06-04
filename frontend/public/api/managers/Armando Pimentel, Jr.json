@@ -9,10 +9,23 @@
       "ticker": "NEE",
       "exchange": "NYSE",
       "website": "https://www.nexteraenergy.com",
-      "title": "President and Chief Executive Officer, Florida Power & Light Company",
-      "startDate": "2023-02-15",
+      "logoUrl": "/companies-assets/NEE.NYSE.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2008",
+      "endDate": "2011",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2011"
+    },
+    {
+      "name": "Ameriprise Financial, Inc.",
+      "ticker": "AMP",
+      "exchange": "NYSE",
+      "website": "https://www.ameriprise.com",
+      "logoUrl": "/companies-assets/AMP.NYSE.svg",
+      "title": "Director",
+      "startDate": "2022-09-12",
       "endDate": null,
-      "formattedStartDate": "2023 February",
+      "formattedStartDate": "September 2022",
       "formattedEndDate": ""
     }
   ],

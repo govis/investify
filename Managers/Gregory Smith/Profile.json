@@ -6,6 +6,47 @@
   "age_year": 2024,
   "background": "Gregory D. Smith has been a director since 2021. He was previously CFO and Executive Vice President of Enterprise Operations at The Boeing Company.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.intel.com",
+      "start_date": "2021-03-01",
+      "end_date": null
+    },
+    {
+      "name": "Teradyne, Inc.",
+      "ticker": "TER",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director, President and Chief Executive Officer",
+      "website": "https://www.teradyne.com",
+      "start_date": "2023-02-01",
+      "end_date": null
+    },
+    {
+      "name": "American Airlines Group Inc.",
+      "ticker": "AAL",
+      "exchange": "NASDAQ",
+      "website": "https://www.aa.com",
+      "title_or_role": "Independent Chairman of the Board of Directors",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Boeing Company",
+      "ticker": "BA",
+      "exchange": "NYSE",
+      "website": "https://www.boeing.com",
+      "title_or_role": "Vice President, Finance and Corporate Controller",
+      "start_date": "2010",
+      "end_date": "2012",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI",
     "Defense",
@@ -16,22 +57,6 @@
   "committees": [
     "Audit & Finance Committee"
   ],
-  "companies": [
-    {
-      "name": "Intel Corporation",
-      "ticker": "INTC",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2021-03-01",
-      "end_date": null
-    },
-    {
-      "name": "Teradyne, Inc.",
-      "ticker": "TER",
-      "exchange": "NASDAQ",
-      "title_or_role": "Director, President and Chief Executive Officer",
-      "start_date": "2023-02-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

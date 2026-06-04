@@ -9,17 +9,29 @@
       "ticker": "CACI",
       "exchange": "NYSE",
       "website": "https://www.caci.com",
-      "title": "Chief Executive, CACI Limited",
-      "startDate": "1985-01-01",
+      "logoUrl": "/companies-assets/CACI.NYSE.svg",
+      "title": "Chief Executive, CACI Limited, and President, U.K. Operations",
+      "startDate": "2016",
       "endDate": null,
-      "formattedStartDate": "1985 January",
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/greg-bradford-4a354a350",
+      "person_name": "Gregory Bradford",
+      "company_name": "CACI International Inc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 75,
   "ageYear": 2024

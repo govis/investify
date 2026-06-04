@@ -6,22 +6,14 @@
   "age_year": 2024,
   "background": "Former Vice Chairman, External Affairs and Chief Legal Officer of AbbVie Inc.",
   "picture_url": null,
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit",
-    "Governance",
-    "Nominating and Corporate Governance Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "CrowdStrike Holdings, Inc.",
       "ticker": "CRWD",
       "exchange": "NASDAQ",
       "title_or_role": "Director",
+      "website": "https://www.crowdstrike.com",
       "start_date": "2023-02-01",
       "end_date": null
     },
@@ -30,8 +22,52 @@
       "ticker": "GD",
       "exchange": "NYSE",
       "title_or_role": "Director",
+      "website": "https://www.gd.com",
       "start_date": "2014-01-01",
       "end_date": null
+    },
+    {
+      "name": "AbbVie Inc.",
+      "ticker": "ABBV",
+      "exchange": "NYSE",
+      "website": "https://www.abbvie.com",
+      "title_or_role": "Vice Chairman, Executive Vice President, General Counsel, and Corporate Secretary",
+      "start_date": "2013",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Abbott Laboratories",
+      "ticker": "ABT",
+      "exchange": "NYSE",
+      "website": "https://www.abbott.com",
+      "title_or_role": "Executive Vice President, General Counsel, and Secretary",
+      "start_date": "1990",
+      "end_date": "2013",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/lauraduboseschumacher",
+      "person_name": "Laura Schumacher",
+      "company_name": "AbbVie",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit",
+    "Governance",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

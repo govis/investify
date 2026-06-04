@@ -6,19 +6,65 @@
   "age_year": 2024,
   "background": "Mr. Harbidge has over 30 years of experience in the mining industry. He was previously President and CEO of GT Gold Corp. and Senior Vice President, Exploration at Goldcorp Inc. He also served as General Manager, Exploration at Randgold Resources.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Faraday Copper Corp.",
       "ticker": "FDY",
       "exchange": "TSX",
-      "title_or_role": "President, Chief Executive Officer and Director",
-      "start_date": "2022-04-21",
-      "end_date": null
+      "title_or_role": "President & CEO",
+      "website": "faradaycopper.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Japan Gold Corp.",
+      "ticker": "JG",
+      "exchange": "TSXV",
+      "website": "japangold.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Fireweed Metals Corp.",
+      "ticker": "FWZ",
+      "exchange": "TSXV",
+      "website": "fireweedmetals.com",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "TSX",
+      "website": "endeavourmining.com",
+      "title_or_role": "Senior Vice President, Exploration",
+      "start_date": "2016",
+      "end_date": "2021",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/paul-harbidge-676b359",
+      "person_name": "Paul Harbidge",
+      "company_name": "Faraday Copper Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

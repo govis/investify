@@ -5,26 +5,28 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Denison Mines Corp.",
-      "ticker": "DNN",
-      "exchange": "NYSE",
-      "website": "https://denisonmines.com",
-      "title": "Independent Director",
-      "startDate": "2005-01-01",
-      "endDate": null,
-      "formattedStartDate": "2005 January",
-      "formattedEndDate": ""
+      "name": "Lundin Mining Corporation",
+      "ticker": "LUN",
+      "exchange": "TSX",
+      "website": "https://www.lundinmining.com",
+      "logoUrl": "/companies-assets/LUN.TSX.svg",
+      "title": "Director",
+      "startDate": "1994",
+      "endDate": "2013",
+      "formattedStartDate": "1994",
+      "formattedEndDate": "2013"
     },
     {
-      "name": "Denison Mines Corp.",
-      "ticker": "DNN",
-      "exchange": "TSX",
-      "website": "https://denisonmines.com",
-      "title": "Director",
-      "startDate": "2005-01-01",
-      "endDate": null,
-      "formattedStartDate": "2005 January",
-      "formattedEndDate": ""
+      "name": "Metalline Mining Company",
+      "ticker": "MMG",
+      "exchange": "OTC",
+      "website": null,
+      "logoUrl": "/companies-assets/MMG.OTC.svg",
+      "title": "President and Chief Executive Officer / Executive Chairman",
+      "startDate": "2005",
+      "endDate": "2011",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2011"
     }
   ],
   "investmentTheses": [

@@ -5,21 +5,57 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Orion Copper Mining Corp.",
-      "ticker": "ORION",
-      "exchange": "TSX",
-      "website": "https://orioncmc.com",
-      "title": "Independent Director",
-      "startDate": "2021-05-15",
+      "name": "P2 Gold Inc.",
+      "ticker": "PGLD",
+      "exchange": "TSXV",
+      "website": "https://www.p2gold.com",
+      "logoUrl": "/companies-assets/PGLD.TSXV.svg",
+      "title": "Chairman, President & CEO",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2021 May",
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Tudor Gold Corp.",
+      "ticker": "TUD",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "President, CEO & Director",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "CopperEx Resources Corp.",
+      "ticker": "CUEX",
+      "exchange": "TSXV",
+      "website": "https://copperexcorp.com",
+      "logoUrl": "/companies-assets/CUEX.TSXV.png",
+      "title": "Director",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/joe-ovsenek-9ab85369",
+      "person_name": "Joe Ovsenek",
+      "company_name": "P2 Gold Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"

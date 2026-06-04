@@ -7,30 +7,67 @@
     {
       "name": "IsoEnergy Ltd.",
       "ticker": "ISO",
-      "exchange": "TSX",
+      "exchange": "TSXV",
       "website": "https://www.isoenergy.ca",
+      "logoUrl": "/companies-assets/ISO.TSXV.svg",
       "title": "Chief Operating Officer",
-      "startDate": "2023-12-05",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2023 December",
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
     },
     {
-      "name": "IsoEnergy Ltd.",
-      "ticker": "ISO",
+      "name": "Green Shift Commodities Ltd.",
+      "ticker": "GCOM",
       "exchange": "TSXV",
-      "website": "https://www.isoenergy.ca",
-      "title": "Chief Operating Officer",
-      "startDate": "2023-12-05",
+      "website": "https://www.greenshiftcommodities.com/",
+      "logoUrl": "/companies-assets/GCOM.TSXV.svg",
+      "title": "Independent Director",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2023 December",
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Premier American Uranium Inc.",
+      "ticker": "PUR",
+      "exchange": "TSXV",
+      "website": "https://www.premieruranium.com/",
+      "logoUrl": "/companies-assets/PUR.TSXV.svg",
+      "title": "Independent Director",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Consolidated Uranium Inc.",
+      "ticker": "CUR",
+      "exchange": "TSXV",
+      "website": "https://www.consolidateduranium.com",
+      "logoUrl": "/companies-assets/CUR.TSXV.svg",
+      "title": "Chief Operating Officer",
+      "startDate": "2021",
+      "endDate": "2023",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2023"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/marty-tunney-p-eng-0507083",
+      "person_name": "Marty Tunney",
+      "company_name": "Consolidated Uranium Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 44,
   "ageYear": 2024

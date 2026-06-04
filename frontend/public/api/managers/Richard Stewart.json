@@ -7,19 +7,31 @@
     {
       "name": "Sibanye Stillwater Limited",
       "ticker": "SBSW",
-      "exchange": "NYSE",
-      "website": "https://www.sibanyestillwater.com",
+      "exchange": "New York Stock Exchange",
+      "website": null,
+      "logoUrl": null,
       "title": "Chief Operating Officer",
-      "startDate": "2020-12-01",
-      "endDate": null,
-      "formattedStartDate": "2020 December",
-      "formattedEndDate": ""
+      "startDate": "December 2020",
+      "endDate": "April 2022",
+      "formattedStartDate": "December 2020",
+      "formattedEndDate": "April 2022"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://za.linkedin.com/in/richard-stewart-8705811b",
+      "person_name": "Richard Stewart",
+      "company_name": "Sibanye Stillwater Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 48,
   "ageYear": 2023

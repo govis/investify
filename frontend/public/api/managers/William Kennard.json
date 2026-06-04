@@ -9,18 +9,102 @@
       "ticker": "F",
       "exchange": "NYSE",
       "website": "https://www.ford.com",
-      "title": "Independent Director",
+      "logoUrl": "/companies-assets/F.NYSE.svg",
+      "title": "Director",
       "startDate": "2015-01-01",
       "endDate": null,
-      "formattedStartDate": "2015 January",
+      "formattedStartDate": "January 2015",
       "formattedEndDate": ""
+    },
+    {
+      "name": "AT&T Inc.",
+      "ticker": "T",
+      "exchange": "NYSE",
+      "website": "https://www.att.com",
+      "logoUrl": "/companies-assets/T.NYSE.svg",
+      "title": "Director (Chairman of the Board as of 2021)",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "MetLife, Inc.",
+      "ticker": "MET",
+      "exchange": "NYSE",
+      "website": "https://www.metlife.com",
+      "logoUrl": "/companies-assets/MET.NYSE.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Duke Energy Corporation",
+      "ticker": "DUK",
+      "exchange": "NYSE",
+      "website": "https://www.duke-energy.com",
+      "logoUrl": "/companies-assets/DUK.NYSE.svg",
+      "title": "Director",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "The New York Times Company",
+      "ticker": "NYT",
+      "exchange": "NYSE",
+      "website": "https://www.nytco.com",
+      "logoUrl": "/companies-assets/NYT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2001",
+      "endDate": "2009",
+      "formattedStartDate": "2001",
+      "formattedEndDate": "2009"
+    },
+    {
+      "name": "Sprint Corporation (formerly Sprint Nextel Corp.)",
+      "ticker": "S (Delisted/Acquired)",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2001",
+      "endDate": "2009",
+      "formattedStartDate": "2001",
+      "formattedEndDate": "2009"
+    },
+    {
+      "name": "Dex Media, Inc.",
+      "ticker": "DXM (Delisted/Acquired)",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2003",
+      "endDate": "2009",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2009"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/william-kennard-07311824",
+      "person_name": "William Kennard",
+      "company_name": "AT&T Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Finance Committee",
     "Nominating and Governance Committee"

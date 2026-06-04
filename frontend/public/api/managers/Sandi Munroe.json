@@ -3,19 +3,7 @@
   "name": "Sandi Munroe",
   "background": "Ms. Munroe is a Chartered Professional Accountant with over 30 years of experience in financial management and corporate governance in the mining sector.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "Clean Air Metals Inc.",
-      "ticker": "AIR",
-      "exchange": "TSXV",
-      "website": "https://cleanairmetals.ca",
-      "title": "Chief Financial Officer",
-      "startDate": "2023-09-01",
-      "endDate": null,
-      "formattedStartDate": "2023 September",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "Electrification",
     "Gold"

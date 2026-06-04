@@ -6,19 +6,45 @@
   "age_year": 2024,
   "background": "Phil Jasper is President of Raytheon. He previously served as President of Mission Systems at Collins Aerospace.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "RTX Corporation",
       "ticker": "RTX",
       "exchange": "NYSE",
-      "title_or_role": "President, Raytheon",
-      "start_date": "2024-01-01",
-      "end_date": null
+      "title_or_role": "President, Raytheon (an RTX business)",
+      "website": "www.rtx.com",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rockwell Collins, Inc.",
+      "ticker": "COL",
+      "exchange": "NYSE",
+      "website": "www.rockwellcollins.com",
+      "title_or_role": "Executive Vice President and Chief Operating Officer, Government Systems",
+      "start_date": "2013",
+      "end_date": "2018",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/philip-jasper",
+      "person_name": "Phil Jasper",
+      "company_name": "RTX Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

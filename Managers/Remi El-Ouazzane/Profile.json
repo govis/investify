@@ -6,19 +6,55 @@
   "age_year": 2023,
   "background": "Remi El-Ouazzane is President, Microcontrollers and Digital ICs Group, a position he has held since 2022. He is a member of ST\u2019s Executive Committee. Prior to joining ST, El-Ouazzane was Chief Operating Officer of Intel\u2019s Artificial Intelligence Products Group. He also served as CEO of Movidius before its acquisition by Intel.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "STMicroelectronics N.V.",
       "ticker": "STM",
       "exchange": "NYSE",
-      "title_or_role": "President, Microcontrollers and Digital ICs Group",
-      "start_date": "2022-01-01",
-      "end_date": null
+      "title_or_role": "President, Microcontrollers and Digital ICs Group (Member of Executive Committee)",
+      "website": "https://www.st.com",
+      "start_date": "January 1, 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "title_or_role": "Vice President and Chief Operating Officer, AI Products Group",
+      "start_date": "2016",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Texas Instruments Incorporated",
+      "ticker": "TXN",
+      "exchange": "NASDAQ",
+      "website": "https://www.ti.com",
+      "title_or_role": "Vice President and Worldwide General Manager, Open Multimedia Applications Platform (OMAP)",
+      "start_date": "1997",
+      "end_date": "2012",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ch.linkedin.com/in/remi-el-ouazzane-6a1111",
+      "person_name": "Remi El-Ouazzane",
+      "company_name": "STMicroelectronics",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -6,26 +6,35 @@
   "age_year": 2024,
   "background": "Mr. Dias has over 20 years of experience in the capital markets and has held senior positions at several investment banks. He has also served as a director and officer of several public companies.",
   "picture_url": "https://dms.licdn.com/playlist/vid/v2/D5605AQGhW1DX0-HA_g/thumbnail-with-play-button-overlay-high/B56ZXStPUWGsDY-/0/1742996837254?e=2147483647&v=beta&t=ZZ0ocwQcOKzF_AEjZLUXGew5R1eyMfXE7lluizN76SE",
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
+    {
+      "name": "Anfield Energy Inc.",
+      "ticker": "ANLDF",
+      "exchange": "OTC",
+      "title_or_role": "Chief Executive Officer, Co-Founder, & Director",
+      "website": "https://anfieldenergy.com/",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
   "socials": [
     {
       "name": "LinkedIn",
-      "url": "https://ca.linkedin.com/in/corey-dias-123156"
+      "url": "https://ca.linkedin.com/in/corey-dias-123156",
+      "person_name": "Corey Dias",
+      "company_name": "Anfield Energy Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
   ],
   "committees": [],
-  "companies": [
-    {
-      "name": "Anfield Energy Inc.",
-      "ticker": "AEC",
-      "exchange": "TSX",
-      "title_or_role": "Chief Executive Officer, Director",
-      "start_date": "2015-01-01",
-      "end_date": null
-    }
-  ],
-  "picture_local": "Picture.jpg",
-  "enrichment_status": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

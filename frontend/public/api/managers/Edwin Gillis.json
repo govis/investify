@@ -5,14 +5,27 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Teradyne, Inc.",
-      "ticker": "TER",
+      "name": "LogMeIn, Inc. (now GoTo)",
+      "ticker": "LOGM",
       "exchange": "NASDAQ",
-      "website": "https://www.teradyne.com",
-      "title": "Independent Director",
-      "startDate": "2006-01-01",
+      "website": "www.goto.com",
+      "logoUrl": "/companies-assets/LOGM.NASDAQ.svg",
+      "title": "Director (Board Member)",
+      "startDate": "2008",
+      "endDate": "2020",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Sprinklr, Inc.",
+      "ticker": "CXM",
+      "exchange": "NYSE",
+      "website": "www.sprinklr.com",
+      "logoUrl": "/companies-assets/CXM.NYSE.svg",
+      "title": "Director (Board Member)",
+      "startDate": "2016-09-13",
       "endDate": null,
-      "formattedStartDate": "2006 January",
+      "formattedStartDate": "September 2016",
       "formattedEndDate": ""
     }
   ],

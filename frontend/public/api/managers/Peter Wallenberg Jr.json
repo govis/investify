@@ -6,20 +6,44 @@
   "companies": [
     {
       "name": "Atlas Copco AB",
-      "ticker": "ATCO",
-      "exchange": "STO",
-      "website": "https://www.atlascopcogroup.com",
-      "title": "Director",
-      "startDate": "2012-01-01",
+      "ticker": "ATCO-A",
+      "exchange": "Nasdaq Stockholm",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Member",
+      "startDate": "2012",
       "endDate": null,
-      "formattedStartDate": "2012 January",
+      "formattedStartDate": "2012",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Scania AB",
+      "ticker": "N/A",
+      "exchange": "Nasdaq Stockholm",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Member",
+      "startDate": "2005",
+      "endDate": "2015",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2015"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/peter-wallenberg-jr-4a5b8a12",
+      "person_name": "Peter Wallenberg Jr",
+      "company_name": "Knut and Alice Wallenberg Foundation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Remuneration Committee"
   ],

@@ -6,22 +6,57 @@
   "age_year": 2024,
   "background": "Director, Chair of Kao Corporation.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Nomination Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Komatsu Ltd.",
       "ticker": "KMTUY",
       "exchange": "OTC",
       "title_or_role": "Outside Director",
+      "website": "https://www.komatsu.jp",
       "start_date": "2024-06-01",
       "end_date": null
+    },
+    {
+      "name": "Kao Corporation",
+      "ticker": "4452",
+      "exchange": "Tokyo Stock Exchange",
+      "website": "https://www.kao.com",
+      "title_or_role": "Senior Advisor",
+      "start_date": "2024-03",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Panasonic Holdings Corporation",
+      "ticker": "6752",
+      "exchange": "Tokyo Stock Exchange",
+      "website": "https://holdings.panasonic",
+      "title_or_role": "Chairperson of the Board",
+      "start_date": "2024-06",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michitaka-sawada-8a5b2a1a",
+      "person_name": "Michitaka Sawada",
+      "company_name": "Kao Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Nomination Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -6,19 +6,65 @@
   "age_year": 2024,
   "background": "George Burns has over 35 years of experience in the mineral sector including executive, operations and project development leadership roles. Prior to joining Eldorado, he was Executive Vice President and Chief Operating Officer at Goldcorp. He has also held positions at Centerra Gold Inc., Asarco LLC, and Cyprus Amax Minerals Company.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Eldorado Gold Corporation",
+      "ticker": "ELD",
+      "exchange": "TSX",
+      "title_or_role": "President and Chief Executive Officer",
+      "website": "https://www.eldoradogold.com",
+      "start_date": "2017-02-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Goldcorp Inc.",
+      "ticker": "GG",
+      "exchange": "NYSE",
+      "website": "https://www.newmont.com",
+      "title_or_role": "Executive Vice President and Chief Operating Officer",
+      "start_date": null,
+      "end_date": "2017-01-31",
+      "validated": true
+    },
+    {
+      "name": "Centerra Gold Inc.",
+      "ticker": "CG",
+      "exchange": "TSX",
+      "website": "https://www.centerragold.com",
+      "title_or_role": "Senior Vice President and Chief Operating Officer",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Turquoise Hill Resources Ltd.",
+      "ticker": "TRQ",
+      "exchange": "NYSE",
+      "website": "https://www.turquoisehill.com",
+      "title_or_role": "Independent Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "socials": [
     {
-      "name": "Eldorado Gold Corporation",
-      "ticker": "EGO",
-      "exchange": "NYSE",
-      "title_or_role": "Director, President and Chief Executive Officer",
-      "start_date": "2017-04-28",
-      "end_date": null
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/georgeburns-eld",
+      "person_name": "George Burns",
+      "company_name": "Eldorado Gold Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
-  ]
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

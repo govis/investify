@@ -6,19 +6,35 @@
   "age_year": 2024,
   "background": "Olga Shevorenkova has served as our Chief Financial Officer since 2019. Prior to joining EVgo, Ms. Shevorenkova was a Vice President at Greentech Capital Advisors. She holds a Master of Science in Management from the Higher School of Economics.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "EVgo Inc.",
       "ticker": "EVGO",
       "exchange": "NASDAQ",
       "title_or_role": "Chief Financial Officer",
-      "start_date": "2019-01-01",
-      "end_date": null
+      "website": "https://www.evgo.com",
+      "start_date": "August 2018",
+      "end_date": "May 31, 2024",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/olga-shevorenkova-8778721b",
+      "person_name": "Olga Shevorenkova",
+      "company_name": "EVgo",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

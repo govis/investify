@@ -6,14 +6,75 @@
   "companies": [
     {
       "name": "Kinross Gold Corporation",
-      "ticker": "KGC",
-      "exchange": "NYSE",
-      "website": "https://www.kinross.com",
+      "ticker": "K",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
       "title": "Director",
-      "startDate": "2016-02-01",
+      "startDate": "2015",
+      "endDate": "2024",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Globex Mining Enterprises Inc.",
+      "ticker": "GMX",
+      "exchange": "TSX",
+      "website": "globexmining.com",
+      "logoUrl": "https://www.globexmining.com/images/logo.png",
+      "title": "Director",
+      "startDate": "Unknown",
       "endDate": null,
-      "formattedStartDate": "2016 February",
+      "formattedStartDate": "",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Wolfden Resources Corporation",
+      "ticker": "WLF",
+      "exchange": "TSXV",
+      "website": "wolfdenresources.com",
+      "logoUrl": "/companies-assets/WLF.TSXV.svg",
+      "title": "Director",
+      "startDate": "Unknown",
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Centerra Gold Inc.",
+      "ticker": "CG",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "President, CEO, Director",
+      "startDate": "2008",
+      "endDate": "2015",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Integra Resources Corp.",
+      "ticker": "ITR",
+      "exchange": "TSX",
+      "website": "integraresources.com",
+      "logoUrl": "/companies-assets/ITR.TSX.svg",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": "2023",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Argonaut Gold Inc.",
+      "ticker": "AR",
+      "exchange": "TSX",
+      "website": "argonautgold.com",
+      "logoUrl": "/companies-assets/AR.TSX.png",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": "2024",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2024"
     }
   ],
   "investmentTheses": [

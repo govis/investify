@@ -9,18 +9,42 @@
       "ticker": "JPM",
       "exchange": "NYSE",
       "website": "https://www.jpmorganchase.com",
-      "title": "Independent Director",
-      "startDate": "2016-09-19",
+      "logoUrl": "/companies-assets/JPM.NYSE.svg",
+      "title": "Head of Strategic Investment Group",
+      "startDate": "2025",
       "endDate": null,
-      "formattedStartDate": "2016 September",
+      "formattedStartDate": "2025",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Berkshire Hathaway Inc.",
+      "ticker": "BRK.B",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Investment Manager",
+      "startDate": "2010",
+      "endDate": "2025",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2025"
     }
   ],
   "investmentTheses": [
     "AI",
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/todd-combs-4a5b6a1",
+      "person_name": "Todd Combs",
+      "company_name": "Berkshire Hathaway Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Directors' Risk Policy Committee"
   ],

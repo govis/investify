@@ -7,19 +7,31 @@
     {
       "name": "Juniper Networks, Inc.",
       "ticker": "JNPR",
-      "exchange": "NYSE",
-      "website": "https://www.juniper.net",
-      "title": "Independent Director",
-      "startDate": "1996-10-01",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "1996",
       "endDate": null,
-      "formattedStartDate": "1996 October",
+      "formattedStartDate": "1996",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/william-stensrud-a9bb981a",
+      "person_name": "William Stensrud",
+      "company_name": "Juniper Networks, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"

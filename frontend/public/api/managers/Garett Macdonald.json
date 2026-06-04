@@ -9,17 +9,77 @@
       "ticker": "ELBM",
       "exchange": "TSX",
       "website": "https://electrabmc.com",
-      "title": "Independent Director",
-      "startDate": "2018-11-01",
+      "logoUrl": "/companies-assets/ELBM.TSX.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": "2023",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Maritime Resources Corp.",
+      "ticker": "MAE",
+      "exchange": "TSXV",
+      "website": "https://maritimeresourcescorp.com",
+      "logoUrl": "/companies-assets/MAE.TSXV.png",
+      "title": "President, CEO & Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2018 November",
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Gungnir Resources Inc.",
+      "ticker": "GUG",
+      "exchange": "TSXV",
+      "website": "https://gungnir-resources.com",
+      "logoUrl": "https://gungnir-resources.com/wp-content/uploads/2018/04/gungnir-logo-300.png",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": "2026",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2026"
+    },
+    {
+      "name": "Aurelius Minerals Inc.",
+      "ticker": "AUL",
+      "exchange": "TSXV",
+      "website": "https://aureliusminerals.com",
+      "logoUrl": "/companies-assets/AUL.TSXV.svg",
+      "title": "Independent Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "US Cobalt Inc.",
+      "ticker": "USCO",
+      "exchange": "TSXV",
+      "website": "https://uscobaltinc.com",
+      "logoUrl": "/companies-assets/USCO.TSXV.png",
+      "title": "Technical Advisor",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/garett-macdonald-940a0a",
+      "person_name": "Garett Macdonald",
+      "company_name": "Maritime Resources Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee (Chair)",
     "Technical Committee"

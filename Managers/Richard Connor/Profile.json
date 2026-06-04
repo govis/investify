@@ -6,6 +6,29 @@
   "age_year": 2024,
   "background": "Mr. Connor is a retired audit partner from KPMG LLP with over 38 years of experience.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Centerra Gold Inc.",
+      "ticker": "CG",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://www.centerragold.com",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "AuRico Gold Inc.",
+      "ticker": "AUQ",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "title_or_role": "Executive Vice President & CFO",
+      "start_date": null,
+      "end_date": "Prior to becoming CEO of AuRico Gold",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +37,6 @@
     "Audit Committee (Chair)",
     "Risk Committee"
   ],
-  "companies": [
-    {
-      "name": "Centerra Gold Inc.",
-      "ticker": "CGAU",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2012-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

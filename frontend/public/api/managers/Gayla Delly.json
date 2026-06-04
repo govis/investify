@@ -5,33 +5,46 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Broadcom Inc.",
-      "ticker": "AVGO",
+      "name": "Littelfuse, Inc.",
+      "ticker": "LFUS",
       "exchange": "NASDAQ",
-      "website": "https://www.broadcom.com",
-      "title": "Independent Director",
-      "startDate": "2017-01-01",
+      "website": "https://www.littelfuse.com",
+      "logoUrl": "/companies-assets/LFUS.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2023-09-28",
       "endDate": null,
-      "formattedStartDate": "2017 January",
+      "formattedStartDate": "September 2023",
       "formattedEndDate": ""
     },
     {
-      "name": "Flowserve Corporation",
-      "ticker": "FLS",
+      "name": "Benchmark Electronics, Inc.",
+      "ticker": "BHE",
       "exchange": "NYSE",
-      "website": "https://www.flowserve.com",
-      "title": "Independent Director",
-      "startDate": "2011-01-01",
-      "endDate": null,
-      "formattedStartDate": "2011 January",
-      "formattedEndDate": ""
+      "website": "https://www.bench.com",
+      "logoUrl": "/companies-assets/BHE.NYSE.svg",
+      "title": "Chief Executive Officer and Director",
+      "startDate": "2012",
+      "endDate": "2016",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2016"
     }
   ],
   "investmentTheses": [
     "AI",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gayla-delly-9673486",
+      "person_name": "Gayla Delly",
+      "company_name": "Benchmark Electronics, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee (Chair)",
     "Finance Committee"

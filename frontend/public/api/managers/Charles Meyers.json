@@ -9,17 +9,41 @@
       "ticker": "EQIX",
       "exchange": "NASDAQ",
       "website": "https://www.equinix.com",
-      "title": "Executive Chairman, Director",
-      "startDate": "2024-06-01",
+      "logoUrl": "/companies-assets/EQIX.NASDAQ.svg",
+      "title": "President of Strategy, Services, and Innovation",
+      "startDate": "2013",
+      "endDate": "2018",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Fastly, Inc.",
+      "ticker": "FSLY",
+      "exchange": "NYSE",
+      "website": "https://www.fastly.com",
+      "logoUrl": "/companies-assets/FSLY.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "2021-07-08",
       "endDate": null,
-      "formattedStartDate": "2024 June",
+      "formattedStartDate": "July 2021",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/charles-meyers-he-him-43b2701",
+      "person_name": "Charles Meyers",
+      "company_name": "Equinix",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 58,
   "ageYear": 2024

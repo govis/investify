@@ -6,21 +6,69 @@
   "companies": [
     {
       "name": "Clean Air Metals Inc.",
-      "ticker": "AIR",
-      "exchange": "TSXV",
-      "website": "https://cleanairmetals.ca",
-      "title": "Independent Director",
-      "startDate": "2020-01-01",
+      "ticker": "TSXV: AIR",
+      "exchange": "TSX Venture Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2020 January",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Mountain Province Diamonds Inc.",
+      "ticker": "TSX: MPVD",
+      "exchange": "Toronto Stock Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "May 2020",
+      "endDate": null,
+      "formattedStartDate": "May 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Global Atomic Corporation",
+      "ticker": "TSX: GLO",
+      "exchange": "Toronto Stock Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "May 10, 2021",
+      "endDate": null,
+      "formattedStartDate": "May 10, 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sherritt International Corporation",
+      "ticker": "TSX: S",
+      "exchange": "Toronto Stock Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "June 2007",
+      "endDate": "2017",
+      "formattedStartDate": "June 2007",
+      "formattedEndDate": "2017"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/dean-chambers-p-eng-icd-d-7315177",
+      "person_name": "Dean Chambers",
+      "company_name": "Clean Air Metals Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee (Chair)",
     "Compensation Committee"

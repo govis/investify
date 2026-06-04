@@ -9,17 +9,65 @@
       "ticker": "LTHM",
       "exchange": "NYSE",
       "website": "https://www.livent.com",
-      "title": "Independent Director",
-      "startDate": "2018-05-01",
+      "logoUrl": "/companies-assets/LTHM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": "2024",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "FMC Corporation",
+      "ticker": "FMC",
+      "exchange": "NYSE",
+      "website": "https://www.fmc.com",
+      "logoUrl": "/companies-assets/FMC.NYSE.svg",
+      "title": "Director",
+      "startDate": "2014",
       "endDate": null,
-      "formattedStartDate": "2018 May",
+      "formattedStartDate": "2014",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Arcadium Lithium plc",
+      "ticker": "ALTM",
+      "exchange": "NYSE",
+      "website": "https://www.arcadiumlithium.com",
+      "logoUrl": "/companies-assets/ALTM.NYSE.png",
+      "title": "Non-Executive Director",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Visteon Corporation",
+      "ticker": "VC",
+      "exchange": "NASDAQ",
+      "website": "visteon.com",
+      "logoUrl": "/companies-assets/VC.NASDAQ.svg",
+      "title": "President, Global Customer Group and Senior Vice President",
+      "startDate": "2008",
+      "endDate": "2013",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2013"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/robert-pallash-054b7a1a1",
+      "person_name": "Robert Pallash",
+      "company_name": "Arcadium Lithium plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation and Organization Committee"

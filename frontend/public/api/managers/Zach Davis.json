@@ -9,17 +9,29 @@
       "ticker": "LNG",
       "exchange": "NYSE",
       "website": "https://www.cheniere.com",
+      "logoUrl": "/companies-assets/LNG.NYSE.svg",
       "title": "Executive Vice President and Chief Financial Officer",
-      "startDate": "2022-02-24",
+      "startDate": "August 2020",
       "endDate": null,
-      "formattedStartDate": "2022 February",
+      "formattedStartDate": "August 2020",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/zadavis",
+      "person_name": "Zach Davis",
+      "company_name": "Cheniere Energy, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 39,
   "ageYear": 2024

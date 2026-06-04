@@ -6,21 +6,56 @@
   "age_year": 2024,
   "background": "T. Michael Nevens has been a member of our Board since December 2009 and was appointed Chairman of the Board in May 2015. He is a retired director of McKinsey & Company, where he led the Global High Tech Practice.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Corporate Governance and Nominating Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "NetApp, Inc.",
       "ticker": "NTAP",
       "exchange": "NASDAQ",
       "title_or_role": "Chairman of the Board, Director",
+      "website": "https://www.netapp.com",
       "start_date": "2015-05-01",
       "end_date": null
+    },
+    {
+      "name": "Ciena Corporation",
+      "ticker": "CIEN",
+      "exchange": "NYSE",
+      "website": "https://www.ciena.com",
+      "title_or_role": "Director",
+      "start_date": "February 4, 2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Altera Corporation",
+      "ticker": "ALTR",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "title_or_role": "Director",
+      "start_date": "November 2009",
+      "end_date": "December 2015",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michael-nevens-a57bb13",
+      "person_name": "Michael Nevens",
+      "company_name": "NetApp, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Corporate Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

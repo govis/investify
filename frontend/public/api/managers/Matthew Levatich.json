@@ -9,11 +9,24 @@
       "ticker": "EMR",
       "exchange": "NYSE",
       "website": "https://www.emerson.com",
-      "title": "Independent Director",
-      "startDate": "2012-01-01",
+      "logoUrl": "/companies-assets/EMR.NYSE.svg",
+      "title": "Director (Member of the Board of Directors)",
+      "startDate": "August 2012",
       "endDate": null,
-      "formattedStartDate": "2012 January",
+      "formattedStartDate": "August 2012",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Harley-Davidson, Inc.",
+      "ticker": "HOG",
+      "exchange": "NYSE",
+      "website": "harley-davidson.com",
+      "logoUrl": "/companies-assets/HOG.NYSE.svg",
+      "title": "President and Chief Executive Officer",
+      "startDate": "May 1, 2015",
+      "endDate": "February 28, 2020",
+      "formattedStartDate": "May 1, 2015",
+      "formattedEndDate": "February 28, 2020"
     }
   ],
   "investmentTheses": [

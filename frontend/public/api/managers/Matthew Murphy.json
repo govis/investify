@@ -5,15 +5,16 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Marvell Technology, Inc.",
-      "ticker": "MRVL",
+      "name": "Maxim Integrated Products, Inc.",
+      "ticker": "MXIM",
       "exchange": "NASDAQ",
-      "website": "https://www.marvell.com",
-      "title": "Chairman, Chairman of the Board, Director, President and Chief Executive Officer",
-      "startDate": "2016-07-01",
-      "endDate": null,
-      "formattedStartDate": "2016 July",
-      "formattedEndDate": ""
+      "website": "https://www.maximintegrated.com",
+      "logoUrl": "/companies-assets/MXIM.NASDAQ.png",
+      "title": "Executive Vice President, Business Units, Sales, and Marketing",
+      "startDate": "1994",
+      "endDate": "2016-07-08",
+      "formattedStartDate": "1994",
+      "formattedEndDate": "July 2016"
     }
   ],
   "investmentTheses": [

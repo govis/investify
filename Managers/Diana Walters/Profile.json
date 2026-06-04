@@ -6,22 +6,68 @@
   "age_year": 2024,
   "background": "Ms. Walters has over 30 years of experience in the natural resources sector. She is currently the Chair of the Board and has held various executive roles in investment and mining companies.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Platinum Group Metals Ltd.",
+      "ticker": "PLG",
+      "exchange": "NYSE American",
+      "title_or_role": "Non-Executive Chairman / Director",
+      "website": "https://www.platinumgroupmetals.net/",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NuScale Power Corporation",
+      "ticker": "SMR",
+      "exchange": "NYSE",
+      "website": "https://www.nuscalepower.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "December 20, 2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Atmos Energy Corporation",
+      "ticker": "ATO",
+      "exchange": "NYSE",
+      "website": "https://www.atmosenergy.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "November 1, 2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Trilogy Metals Inc.",
+      "ticker": "TMQ",
+      "exchange": "NYSE American",
+      "website": "https://www.trilogymetals.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/diana-walters-2a7176b",
+      "person_name": "Diana Walters",
+      "company_name": "Platinum Group Metals Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Platinum Group Metals Ltd.",
-      "ticker": "PTM",
-      "exchange": "NYSE",
-      "title_or_role": "Chair of the Board",
-      "start_date": "2014-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

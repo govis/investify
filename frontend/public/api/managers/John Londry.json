@@ -9,11 +9,24 @@
       "ticker": "NAM",
       "exchange": "TSXV",
       "website": "https://newagemetals.com",
-      "title": "Independent Director",
-      "startDate": "2017-01-01",
-      "endDate": null,
-      "formattedStartDate": "2017 January",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/NAM.TSXV.png",
+      "title": "VP Exploration (2004–2009); Director (2009–2025)",
+      "startDate": "2004",
+      "endDate": "2025-07",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "July 2025"
+    },
+    {
+      "name": "Rockport Capital Corp.",
+      "ticker": "N/A",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": null,
+      "endDate": "2025-07",
+      "formattedStartDate": "",
+      "formattedEndDate": "July 2025"
     }
   ],
   "investmentTheses": [

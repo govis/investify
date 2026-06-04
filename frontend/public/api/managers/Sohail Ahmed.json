@@ -9,11 +9,24 @@
       "ticker": "LRCX",
       "exchange": "NASDAQ",
       "website": "https://www.lamresearch.com",
-      "title": "Director",
-      "startDate": "2019-01-01",
+      "logoUrl": "/companies-assets/LRCX.NASDAQ.svg",
+      "title": "Board Member (Director)",
+      "startDate": "2019",
       "endDate": null,
-      "formattedStartDate": "2019 January",
+      "formattedStartDate": "2019",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "logoUrl": "/companies-assets/INTC.NASDAQ.svg",
+      "title": "Senior Vice President and General Manager, Technology and Manufacturing Group",
+      "startDate": "2016",
+      "endDate": "2018",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2018"
     }
   ],
   "investmentTheses": [

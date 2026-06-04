@@ -6,21 +6,47 @@
   "age_year": 2024,
   "background": "Founder of Olyn and former Minister of Economy and Sustainable Development for the Republic of Georgia.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Sandstorm Gold Ltd.",
+      "ticker": "TSX: SSL / NYSE: SAND",
+      "exchange": "Toronto Stock Exchange / New York Stock Exchange",
+      "title_or_role": "Director",
+      "website": "https://www.sandstormgold.com/",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Arras Minerals Corp.",
+      "ticker": "TSX.V: ARRK / OTCQX: ARRKF",
+      "exchange": "TSX Venture Exchange / OTCQX",
+      "website": "https://www.arrasminerals.com/",
+      "title_or_role": "Director",
+      "start_date": "March 3, 2022",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/vera-kobalia-gcb-d-01ab6976",
+      "person_name": "Vera Kobalia",
+      "company_name": "Sandstorm Gold Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Sandstorm Gold Ltd.",
-      "ticker": "SAND",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2021-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

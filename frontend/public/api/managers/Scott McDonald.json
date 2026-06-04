@@ -9,10 +9,11 @@
       "ticker": "LUG",
       "exchange": "TSX",
       "website": "https://lundingold.com",
-      "title": "Independent Director",
-      "startDate": "2023-05-01",
+      "logoUrl": "/companies-assets/LUG.TSX.svg",
+      "title": "Director",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2023 May",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],

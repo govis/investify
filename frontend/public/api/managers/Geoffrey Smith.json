@@ -6,13 +6,26 @@
   "companies": [
     {
       "name": "Denison Mines Corp.",
-      "ticker": "DNN",
-      "exchange": "NYSE",
-      "website": "https://denisonmines.com",
+      "ticker": "DML",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
       "title": "Vice President, Corporate Development and Commercial",
-      "startDate": "2021-01-01",
+      "startDate": "Not explicitly disclosed",
       "endDate": null,
-      "formattedStartDate": "2021 January",
+      "formattedStartDate": "Not explicitly disclosed",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "EMX Royalty Corporation",
+      "ticker": "EMX",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Director",
+      "startDate": "2022-07-05",
+      "endDate": null,
+      "formattedStartDate": "July 2022",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +33,18 @@
     "Nuclear",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/geoff-smith-cfa-4a5b2a12/",
+      "person_name": "Geoffrey Smith",
+      "company_name": "Denison Mines Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 45,
   "ageYear": 2024

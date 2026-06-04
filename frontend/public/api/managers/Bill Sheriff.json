@@ -7,19 +7,55 @@
     {
       "name": "Stallion Uranium Corp.",
       "ticker": "STUD",
-      "exchange": "TSX",
-      "website": "https://stallionuranium.com",
-      "title": "Chairman",
-      "startDate": "2023-03-20",
+      "exchange": "TSX.V",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2023 March",
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "enCore Energy Corp.",
+      "ticker": "EU",
+      "exchange": "TSX.V / NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Chairman",
+      "startDate": "2011",
+      "endDate": null,
+      "formattedStartDate": "2011",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Golden Predator Mining Corp.",
+      "ticker": "GPY",
+      "exchange": "TSX.V",
+      "website": null,
+      "logoUrl": null,
+      "title": "President & CEO",
+      "startDate": "2009",
+      "endDate": "2021",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2021"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/william-bill-sheriff-10517217",
+      "person_name": "William (Bill) Sheriff",
+      "company_name": "enCore Energy Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

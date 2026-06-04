@@ -2,24 +2,108 @@
   "id": "Ann Fudge",
   "name": "Ann Fudge",
   "background": "Former Chairman and Chief Executive Officer of Young & Rubicam Brands.",
-  "pictureUrl": null,
+  "pictureUrl": "/managers-assets/Ann Fudge.jpg",
   "companies": [
     {
-      "name": "Northrop Grumman Corporation",
-      "ticker": "NOC",
+      "name": "General Electric Company",
+      "ticker": "GE",
       "exchange": "NYSE",
-      "website": "https://www.northropgrumman.com",
-      "title": "Independent Director",
-      "startDate": "2016-01-01",
-      "endDate": null,
-      "formattedStartDate": "2016 January",
-      "formattedEndDate": ""
+      "website": "https://www.geaerospace.com",
+      "logoUrl": "/companies-assets/GE.NYSE.svg",
+      "title": "Director",
+      "startDate": "1999",
+      "endDate": "2015",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Novartis AG",
+      "ticker": "NVS",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2008",
+      "endDate": "2018",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Unilever PLC",
+      "ticker": "UL",
+      "exchange": "NYSE",
+      "website": "https://www.unilever.com",
+      "logoUrl": "/companies-assets/UL.NYSE.svg",
+      "title": "Director",
+      "startDate": "2009",
+      "endDate": "2019",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Infosys Limited",
+      "ticker": "INFY",
+      "exchange": "NYSE",
+      "website": "infosys.com",
+      "logoUrl": "/companies-assets/INFY.NYSE.svg",
+      "title": "Director",
+      "startDate": "2011",
+      "endDate": "2014",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2014"
+    },
+    {
+      "name": "Honeywell International Inc.",
+      "ticker": "HON",
+      "exchange": "NYSE",
+      "website": "honeywell.com",
+      "logoUrl": "/companies-assets/HON.NYSE.svg",
+      "title": "Director",
+      "startDate": "1993",
+      "endDate": "2003",
+      "formattedStartDate": "1993",
+      "formattedEndDate": "2003"
+    },
+    {
+      "name": "Marriott International, Inc.",
+      "ticker": "MAR",
+      "exchange": "NASDAQ",
+      "website": "marriott.com",
+      "logoUrl": "/companies-assets/MAR.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2001",
+      "endDate": "2003",
+      "formattedStartDate": "2001",
+      "formattedEndDate": "2003"
+    },
+    {
+      "name": "WPP plc (Young & Rubicam)",
+      "ticker": "WPP",
+      "exchange": "NYSE",
+      "website": "wpp.com",
+      "logoUrl": "/companies-assets/WPP.NYSE.png",
+      "title": "Chairman & CEO (Y&R)",
+      "startDate": "2003",
+      "endDate": "2006",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2006"
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ann-fudge",
+      "person_name": "Ann Fudge",
+      "company_name": "Young & Rubicam",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
   "committees": [
     "Compensation and Management Development Committee",
     "Governance, Nominating and Sustainability Committee"

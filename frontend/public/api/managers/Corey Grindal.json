@@ -9,10 +9,23 @@
       "ticker": "LNG",
       "exchange": "NYSE",
       "website": "https://www.cheniere.com",
+      "logoUrl": "/companies-assets/LNG.NYSE.svg",
       "title": "Executive Vice President and Chief Operating Officer",
-      "startDate": "2023-01-01",
+      "startDate": "January 2023",
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "January 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cheniere Energy Partners, L.P.",
+      "ticker": "CQP",
+      "exchange": "NYSE",
+      "website": "https://cqpir.cheniere.com/",
+      "logoUrl": "/companies-assets/CQP.NYSE.svg",
+      "title": "Executive Vice President, Chief Operating Officer, and Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
     }
   ],

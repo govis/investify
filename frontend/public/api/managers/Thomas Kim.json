@@ -7,12 +7,13 @@
     {
       "name": "Thomson Reuters Corporation",
       "ticker": "TRI",
-      "exchange": "NYSE",
-      "website": "https://www.thomsonreuters.com",
-      "title": "Chief Legal Officer and Company Secretary",
-      "startDate": "2019-01-01",
+      "exchange": "NYSE / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Legal Officer & Company Secretary",
+      "startDate": "2016",
       "endDate": null,
-      "formattedStartDate": "2019 January",
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
     }
   ],

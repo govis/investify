@@ -7,19 +7,79 @@
     {
       "name": "ServiceNow, Inc.",
       "ticker": "NOW",
-      "exchange": "NYSE",
-      "website": "https://www.servicenow.com",
-      "title": "Director, President and Chief Executive Officer",
-      "startDate": "2019-11-01",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Executive Officer and Director",
+      "startDate": "November 2019",
       "endDate": null,
-      "formattedStartDate": "2019 November",
+      "formattedStartDate": "November 2019",
       "formattedEndDate": ""
+    },
+    {
+      "name": "SAP SE",
+      "ticker": "SAP",
+      "exchange": "NYSE",
+      "website": "https://www.sap.com",
+      "logoUrl": "/companies-assets/SAP.NYSE.svg",
+      "title": "Chief Executive Officer (Co-CEO 2010–2014; CEO 2014–2019)",
+      "startDate": "2010",
+      "endDate": "October 2019",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "October 2019"
+    },
+    {
+      "name": "Zoom Video Communications, Inc.",
+      "ticker": "ZM",
+      "exchange": "NASDAQ",
+      "website": "https://www.zoom.com",
+      "logoUrl": "/companies-assets/ZM.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "June 2022",
+      "endDate": null,
+      "formattedStartDate": "June 2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Under Armour, Inc.",
+      "ticker": "UA / UAA",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": "2020",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Vantiv, Inc. (now Worldpay, Inc.)",
+      "ticker": "VNTV (at the time)",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2014",
+      "endDate": "2017",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2017"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/billrmcdermott/",
+      "person_name": "Bill McDermott",
+      "company_name": "ServiceNow",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 62,
   "ageYear": 2024

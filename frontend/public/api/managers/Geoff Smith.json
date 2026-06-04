@@ -6,20 +6,68 @@
   "companies": [
     {
       "name": "Denison Mines Corp.",
-      "ticker": "DNN",
-      "exchange": "TSX",
-      "website": "https://denisonmines.com",
-      "title": "Vice President, Corporate Development & Commercial",
-      "startDate": "2021-01-01",
+      "ticker": "TSX: DML / NYSE American: DNN",
+      "exchange": "TSX / NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "VP, Corporate Development & Commercial",
+      "startDate": "December 2023",
       "endDate": null,
-      "formattedStartDate": "2021 January",
+      "formattedStartDate": "December 2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Cosa Resources Corp.",
+      "ticker": "TSXV: COSA / OTCQB: COSAF",
+      "exchange": "TSXV / OTCQB",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "January 2025",
+      "endDate": null,
+      "formattedStartDate": "January 2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "EMX Royalty Corp.",
+      "ticker": "NYSE American: EMX / TSXV: EMX",
+      "exchange": "NYSE American / TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Director",
+      "startDate": "July 2022",
+      "endDate": null,
+      "formattedStartDate": "July 2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Carbon Streaming Corp.",
+      "ticker": "NEO: NETZ / OTCQB: OFSTF",
+      "exchange": "NEO / OTCQB",
+      "website": null,
+      "logoUrl": null,
+      "title": "President & Chief Operating Officer",
+      "startDate": "2021",
+      "endDate": "2022",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2022"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/geoffgsmith",
+      "person_name": "Geoff Smith",
+      "company_name": "Denison Mines Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 45,
   "ageYear": 2024

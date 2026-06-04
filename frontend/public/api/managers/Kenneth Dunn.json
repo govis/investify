@@ -9,11 +9,24 @@
       "ticker": "NEE",
       "exchange": "NYSE",
       "website": "https://www.nexteraenergy.com",
-      "title": "Independent Director",
-      "startDate": "2010-01-01",
+      "logoUrl": "/companies-assets/NEE.NYSE.svg",
+      "title": "Director",
+      "startDate": "December 2010",
       "endDate": null,
-      "formattedStartDate": "2010 January",
+      "formattedStartDate": "December 2010",
       "formattedEndDate": ""
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "ticker": "BLK",
+      "exchange": "NYSE",
+      "website": "https://www.blackrock.com",
+      "logoUrl": "/companies-assets/BLK.NYSE.svg",
+      "title": "Director",
+      "startDate": "2005",
+      "endDate": "Not specified",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "Not specified"
     }
   ],
   "investmentTheses": [

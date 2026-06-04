@@ -9,10 +9,23 @@
       "ticker": "RRL",
       "exchange": "ASX",
       "website": "https://regisresources.com.au",
-      "title": "Non-Executive Chairman",
-      "startDate": "2016-02-22",
+      "logoUrl": "/companies-assets/RRL.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2016 February",
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Iluka Resources Limited",
+      "ticker": "ILU",
+      "exchange": "ASX",
+      "website": "https://www.iluka.com",
+      "logoUrl": "/companies-assets/ILU.ASX.svg",
+      "title": "Chair of the Board, Non-Executive Director",
+      "startDate": "May 2024",
+      "endDate": null,
+      "formattedStartDate": "May 2024",
       "formattedEndDate": ""
     }
   ],

@@ -6,20 +6,44 @@
   "companies": [
     {
       "name": "Atlas Copco AB",
-      "ticker": "ATCO",
-      "exchange": "STO",
-      "website": "https://www.atlascopcogroup.com",
-      "title": "Senior Vice President, Chief Human Resources Officer",
-      "startDate": "2017-10-01",
-      "endDate": null,
-      "formattedStartDate": "2017 October",
-      "formattedEndDate": ""
+      "ticker": "ATCO-A.ST",
+      "exchange": "Nasdaq Stockholm",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice President Human Resources (Industrial Technique business area)",
+      "startDate": "2007",
+      "endDate": "2015",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "AstraZeneca PLC",
+      "ticker": "AZN",
+      "exchange": "LSE",
+      "website": "https://www.astrazeneca.com",
+      "logoUrl": "/companies-assets/AZN.LSE.svg",
+      "title": "Human Resources roles",
+      "startDate": "1999",
+      "endDate": "2007",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2007"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/cecilia-sandberg-8a5a5a15/",
+      "person_name": "Cecilia Sandberg",
+      "company_name": "Atlas Copco AB",
+      "profile_status": "not_found",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 56,
   "ageYear": 2024

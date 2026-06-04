@@ -9,10 +9,23 @@
       "ticker": "TDG",
       "exchange": "NYSE",
       "website": "https://www.transdigm.com",
-      "title": "Independent Director",
-      "startDate": "2003-07-01",
+      "logoUrl": "/companies-assets/TDG.NYSE.svg",
+      "title": "Director (Board of Directors)",
+      "startDate": "2010",
       "endDate": null,
-      "formattedStartDate": "2003 July",
+      "formattedStartDate": "2010",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Bombardier Inc.",
+      "ticker": "BBD.B",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and Chief Operating Officer of Bombardier Aerospace",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],

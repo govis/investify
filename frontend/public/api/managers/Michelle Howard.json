@@ -5,14 +5,15 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Curtiss-Wright Corporation",
-      "ticker": "CW",
+      "name": "International Business Machines Corporation",
+      "ticker": "IBM",
       "exchange": "NYSE",
-      "website": "https://www.curtisswright.com",
-      "title": "Independent Director",
-      "startDate": "2020-01-01",
+      "website": "https://www.ibm.com",
+      "logoUrl": "/companies-assets/IBM.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2019-03-01",
       "endDate": null,
-      "formattedStartDate": "2020 January",
+      "formattedStartDate": "March 2019",
       "formattedEndDate": ""
     }
   ],

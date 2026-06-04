@@ -2,24 +2,36 @@
   "id": "Alexis Lê-Quôc",
   "name": "Alexis Lê-Quôc",
   "background": "Alexis Lê-Quôc is our co-founder and has served as our President, Chief Technology Officer and a member of our board of directors since our inception in 2010. Prior to founding Datadog, Mr. Lê-Quôc was a Director of Operations at Wireless Generation. Mr. Lê-Quôc holds an M.S. in Computer Science from the École Centrale Paris.",
-  "pictureUrl": null,
+  "pictureUrl": "/managers-assets/Alexis Lê-Quôc.jpg",
   "companies": [
     {
       "name": "Datadog, Inc.",
       "ticker": "DDOG",
       "exchange": "NASDAQ",
       "website": "https://www.datadoghq.com",
-      "title": "Director, President and Chief Technology Officer",
-      "startDate": "2010-01-01",
+      "logoUrl": "/companies-assets/DDOG.NASDAQ.svg",
+      "title": "Co-Founder, Chief Technology Officer, Director",
+      "startDate": "2010",
       "endDate": null,
-      "formattedStartDate": "2010 January",
+      "formattedStartDate": "2010",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/alexislequoc/",
+      "person_name": "Alexis Lê-Quôc",
+      "company_name": "Datadog",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
   "committees": [],
   "age": 49,
   "ageYear": 2024

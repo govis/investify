@@ -9,17 +9,29 @@
       "ticker": "STLD",
       "exchange": "NASDAQ",
       "website": "https://www.steeldynamics.com",
+      "logoUrl": "/companies-assets/STLD.NASDAQ.svg",
       "title": "President and Chief Operating Officer",
-      "startDate": "2023-03",
+      "startDate": "February 2022",
       "endDate": null,
-      "formattedStartDate": "2023 March",
+      "formattedStartDate": "February 2022",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/barry-schneider-382b2311",
+      "person_name": "Barry Schneider",
+      "company_name": "Steel Dynamics, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 52,
   "ageYear": 2024

@@ -6,19 +6,24 @@
   "age_year": null,
   "background": "Mr. Gay is the CEO of Athabasca Basin Development, an investment company owned by the seven communities in Northern Saskatchewan's Athabasca Basin.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "CanAlaska Uranium Ltd.",
+      "ticker": "CVV",
+      "exchange": "TSX Venture Exchange",
+      "title_or_role": "Director",
+      "website": "https://www.canalaska.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "CanAlaska Uranium Ltd.",
-      "ticker": "CVV",
-      "exchange": "TSX",
-      "title_or_role": "Director",
-      "start_date": "2022-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

@@ -7,30 +7,31 @@
     {
       "name": "Endeavour Mining plc",
       "ticker": "EDV",
-      "exchange": "LSE",
-      "website": "https://www.endeavourmining.com",
+      "exchange": "LSE / TSX",
+      "website": null,
+      "logoUrl": null,
       "title": "Executive Vice President, Corporate Finance and General Counsel",
-      "startDate": "2016-01-01",
+      "startDate": "2011",
       "endDate": null,
-      "formattedStartDate": "2016 January",
-      "formattedEndDate": ""
-    },
-    {
-      "name": "Endeavour Mining plc",
-      "ticker": "EDV",
-      "exchange": "TSX",
-      "website": "https://www.endeavourmining.com",
-      "title": "Executive Vice President, Corporate Finance and General Counsel",
-      "startDate": "2016-01-01",
-      "endDate": null,
-      "formattedStartDate": "2016 January",
+      "formattedStartDate": "2011",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/morgan-carroll-b3389a2",
+      "person_name": "Morgan Carroll",
+      "company_name": "Endeavour Mining plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 51,
   "ageYear": 2024

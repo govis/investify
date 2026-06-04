@@ -5,14 +5,15 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "General Dynamics Corporation",
-      "ticker": "GD",
+      "name": "Tenet Healthcare Corporation",
+      "ticker": "THC",
       "exchange": "NYSE",
-      "website": "https://www.gd.com",
+      "website": "https://www.tenethealth.com",
+      "logoUrl": "/companies-assets/THC.NYSE.svg",
       "title": "Director",
-      "startDate": "2019-01-01",
+      "startDate": "2021-01-08",
       "endDate": null,
-      "formattedStartDate": "2019 January",
+      "formattedStartDate": "January 2021",
       "formattedEndDate": ""
     }
   ],

@@ -5,14 +5,15 @@
   "pictureUrl": "https://www.apple.com/leadership/images/bio/jeff_williams.png.og.jpg?1735956409908",
   "companies": [
     {
-      "name": "Apple Inc.",
-      "ticker": "AAPL",
-      "exchange": "NASDAQ",
-      "website": "https://www.apple.com",
-      "title": "Chief Operating Officer",
-      "startDate": "2015-12-17",
+      "name": "The Walt Disney Company",
+      "ticker": "DIS",
+      "exchange": "NYSE",
+      "website": "https://thewaltdisneycompany.com",
+      "logoUrl": "/companies-assets/DIS.NYSE.svg",
+      "title": "Director Nominee",
+      "startDate": "2025-12-09",
       "endDate": null,
-      "formattedStartDate": "2015 December",
+      "formattedStartDate": "December 2025",
       "formattedEndDate": ""
     }
   ],

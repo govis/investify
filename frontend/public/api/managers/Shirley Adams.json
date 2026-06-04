@@ -2,17 +2,18 @@
   "id": "Shirley Adams",
   "name": "Shirley Adams",
   "background": "Shirley Adams is the Chief Human Resources Officer of AECOM. She joined the company in 2016 and previously served as Senior Vice President of Human Resources for the EMEA region.",
-  "pictureUrl": null,
+  "pictureUrl": "https://media.bizj.us/view/img/12421095/shirley-adams-aecom*900xx7360-4140-0-386.jpg",
   "companies": [
     {
       "name": "AECOM",
       "ticker": "ACM",
       "exchange": "NYSE",
       "website": "https://aecom.com",
-      "title": "Chief Human Resources Officer",
-      "startDate": "2020-10-01",
+      "logoUrl": "/companies-assets/ACM.NYSE.svg",
+      "title": "Senior Vice President of Human Resources (Europe, Middle East and Africa)",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2020 October",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],

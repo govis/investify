@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Palo Alto Networks, Inc.",
-      "ticker": "PANW",
-      "exchange": "NASDAQ",
-      "website": "https://www.paloaltonetworks.com",
-      "title": "Independent Director",
-      "startDate": "2021-02-01",
-      "endDate": null,
-      "formattedStartDate": "2021 February",
-      "formattedEndDate": ""
+      "name": "The Coca-Cola Company",
+      "ticker": "KO",
+      "exchange": "NYSE",
+      "website": "https://www.coca-colacompany.com",
+      "logoUrl": "/companies-assets/KO.NYSE.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": "2024",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Colgate-Palmolive Company",
+      "ticker": "CL",
+      "exchange": "NYSE",
+      "website": "https://www.colgatepalmolive.com",
+      "logoUrl": "/companies-assets/CL.NYSE.svg",
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": "2021",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2021"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/helenegayle",
+      "person_name": "Helene Gayle",
+      "company_name": "Spelman College",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],

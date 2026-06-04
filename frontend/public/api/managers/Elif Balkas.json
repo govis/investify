@@ -7,20 +7,44 @@
     {
       "name": "Wolfspeed, Inc.",
       "ticker": "WOLF",
-      "exchange": "NYSE",
+      "exchange": "NASDAQ",
       "website": "https://www.wolfspeed.com",
+      "logoUrl": "/companies-assets/WOLF.NASDAQ.svg",
       "title": "Chief Technology Officer",
-      "startDate": "2022-01-01",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2022 January",
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Wolfspeed, Inc. (formerly Cree, Inc.)",
+      "ticker": "WOLF (formerly CREE)",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Various roles including Director of Research and Development, Materials",
+      "startDate": "2006",
+      "endDate": "2023",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2023"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/elifbalkas",
+      "person_name": "Elif Balkas",
+      "company_name": "Wolfspeed",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 51,
   "ageYear": 2024

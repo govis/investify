@@ -9,18 +9,54 @@
       "ticker": "INTC",
       "exchange": "NASDAQ",
       "website": "https://www.intel.com",
-      "title": "Chief Executive Officer",
+      "logoUrl": "/companies-assets/INTC.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
       "startDate": "2021-02-15",
-      "endDate": null,
-      "formattedStartDate": "2021 February",
-      "formattedEndDate": ""
+      "endDate": "2024-12-01",
+      "formattedStartDate": "February 2021",
+      "formattedEndDate": "December 2024"
+    },
+    {
+      "name": "VMware, Inc.",
+      "ticker": "VMW",
+      "exchange": "NYSE",
+      "website": "https://www.vmware.com",
+      "logoUrl": "/companies-assets/VMW.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2012-09-01",
+      "endDate": "2021-02-15",
+      "formattedStartDate": "September 2012",
+      "formattedEndDate": "February 2021"
+    },
+    {
+      "name": "EMC Corporation",
+      "ticker": "EMC",
+      "exchange": "NYSE",
+      "website": "https://www.dell.com",
+      "logoUrl": "/companies-assets/EMC.NYSE.png",
+      "title": "President and Chief Operating Officer, Information Infrastructure Products",
+      "startDate": "2009-09-01",
+      "endDate": "2012-08-31",
+      "formattedStartDate": "September 2009",
+      "formattedEndDate": "August 2012"
     }
   ],
   "investmentTheses": [
     "AI",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/patgelsinger",
+      "person_name": "Patrick Gelsinger",
+      "company_name": "Intel Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 63,
   "ageYear": 2024

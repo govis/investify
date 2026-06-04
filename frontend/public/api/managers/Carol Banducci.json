@@ -7,19 +7,55 @@
     {
       "name": "Hudbay Minerals Inc.",
       "ticker": "HBM",
-      "exchange": "NYSE",
-      "website": "https://www.hudbayminerals.com",
-      "title": "Independent Director",
-      "startDate": "2017-05-01",
+      "exchange": "TSX/NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2017 May",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "ARC Resources Ltd.",
+      "ticker": "ARX",
+      "exchange": "TSX",
+      "website": "https://www.arcresources.com",
+      "logoUrl": "/companies-assets/ARX.TSX.svg",
+      "title": "Director",
+      "startDate": "November 4, 2021",
+      "endDate": null,
+      "formattedStartDate": "November 4, 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "IAMGOLD Corporation",
+      "ticker": "IMG",
+      "exchange": "TSX/NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2007",
+      "endDate": "March 31, 2021",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "March 31, 2021"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/carol-banducci-62703012",
+      "person_name": "Carol Banducci",
+      "company_name": "IAMGOLD Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee (Chair)",
     "Corporate Governance and Nominating Committee"

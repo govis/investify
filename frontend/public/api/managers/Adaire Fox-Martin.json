@@ -2,24 +2,48 @@
   "id": "Adaire Fox-Martin",
   "name": "Adaire Fox-Martin",
   "background": "Adaire Fox-Martin has served as our President and Chief Executive Officer since June 2024. Prior to joining Equinix, she served as President of Google Cloud Go-to-Market and Head of Google Ireland from July 2021 to June 2024. Before Google, she had a 13-year career at SAP, where she held various leadership roles, including Executive Board Member and President of Global Customer Success.",
-  "pictureUrl": null,
+  "pictureUrl": "/managers-assets/Adaire Fox-Martin.jpg",
   "companies": [
     {
       "name": "Equinix, Inc.",
       "ticker": "EQIX",
       "exchange": "NASDAQ",
       "website": "https://www.equinix.com",
-      "title": "President and Chief Executive Officer",
-      "startDate": "2024-06-01",
+      "logoUrl": "/companies-assets/EQIX.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2020-01",
       "endDate": null,
-      "formattedStartDate": "2024 June",
+      "formattedStartDate": "January 2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "SAP SE",
+      "ticker": "SAP",
+      "exchange": "NYSE",
+      "website": "https://www.sap.com",
+      "logoUrl": "/companies-assets/SAP.NYSE.svg",
+      "title": "Member of the Executive Board",
+      "startDate": "2017-05",
+      "endDate": "2021-01",
+      "formattedStartDate": "May 2017",
+      "formattedEndDate": "January 2021"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/adairefoxmartin/",
+      "person_name": "Adaire Fox-Martin",
+      "company_name": "Equinix",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "profile_status": "private"
+    }
+  ],
   "committees": [],
   "age": 59,
   "ageYear": 2024

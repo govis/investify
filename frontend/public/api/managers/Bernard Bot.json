@@ -5,15 +5,28 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "A.P. Møller - Mærsk A/S",
-      "ticker": "AMKBY",
-      "exchange": "OTC",
-      "website": "https://www.maersk.com",
-      "title": "Member of the Board",
-      "startDate": "2019-03-28",
-      "endDate": null,
-      "formattedStartDate": "2019 March",
-      "formattedEndDate": ""
+      "name": "Kingfisher plc",
+      "ticker": "KGF",
+      "exchange": "LSE",
+      "website": "kingfisher.com",
+      "logoUrl": "/companies-assets/KGF.LSE.png",
+      "title": "Chief Financial Officer & Executive Director",
+      "startDate": "October 21, 2019",
+      "endDate": "January 2025",
+      "formattedStartDate": "October 21, 2019",
+      "formattedEndDate": "January 2025"
+    },
+    {
+      "name": "Travelport Worldwide Limited",
+      "ticker": "TVPT",
+      "exchange": "NYSE",
+      "website": "https://www.travelport.com",
+      "logoUrl": "/companies-assets/TVPT.NYSE.svg",
+      "title": "Executive Vice President & Chief Financial Officer",
+      "startDate": "January 1, 2016",
+      "endDate": "September 2019",
+      "formattedStartDate": "January 1, 2016",
+      "formattedEndDate": "September 2019"
     }
   ],
   "investmentTheses": [

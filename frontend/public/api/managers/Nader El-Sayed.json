@@ -2,24 +2,36 @@
   "id": "Nader El-Sayed",
   "name": "Nader El-Sayed",
   "background": "Mr El-Sayed is a Certified Practising Accountant and a Director of Multi-Purpose Business Solutions, a boutique accounting and business advisory firm. He has over 20 years of experience in the areas of corporate compliance, financial accounting, and taxation. He is also a Non-Executive Director of several ASX-listed companies.",
-  "pictureUrl": null,
+  "pictureUrl": "/managers-assets/Nader El-Sayed.jpg",
   "companies": [
     {
-      "name": "Atomic Eagle Limited",
-      "ticker": "AEU",
+      "name": "Hammer Metals Limited",
+      "ticker": "HMX",
       "exchange": "ASX",
-      "website": "https://atomiceagle.com.au",
-      "title": "Company Secretary, Non-Executive Director",
-      "startDate": "2024-05-24",
-      "endDate": null,
-      "formattedStartDate": "2024 May",
-      "formattedEndDate": ""
+      "website": "https://www.hammermetals.com.au/",
+      "logoUrl": "/companies-assets/HMX.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2013-06",
+      "endDate": "2014-07",
+      "formattedStartDate": "June 2013",
+      "formattedEndDate": "July 2014"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/nader-el-sayed-9a41447a",
+      "person_name": "Nader El-Sayed",
+      "company_name": "Multi-Purpose Business Solutions",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": null,
   "ageYear": null

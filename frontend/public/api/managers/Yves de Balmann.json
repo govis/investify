@@ -9,28 +9,41 @@
       "ticker": "CEG",
       "exchange": "NASDAQ",
       "website": "https://www.constellationenergy.com",
-      "title": "Independent Director",
-      "startDate": "2022-02-01",
+      "logoUrl": "/companies-assets/CEG.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2022 February",
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
     },
     {
-      "name": "Constellation Energy Corporation",
-      "ticker": "CEG",
+      "name": "Exelon Corporation",
+      "ticker": "EXC",
       "exchange": "NYSE",
-      "website": "https://www.constellationenergy.com",
-      "title": "Independent Director",
-      "startDate": "2022-02-01",
-      "endDate": null,
-      "formattedStartDate": "2022 February",
-      "formattedEndDate": ""
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "July 2003",
+      "endDate": "2022",
+      "formattedStartDate": "July 2003",
+      "formattedEndDate": "2022"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/yves-de-balmann-81431147",
+      "person_name": "Yves de Balmann",
+      "company_name": "Constellation Energy Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee",
     "Compensation Committee (Chair)",

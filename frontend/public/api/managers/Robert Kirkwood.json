@@ -7,13 +7,14 @@
     {
       "name": "Energy Fuels Inc.",
       "ticker": "UUUU",
-      "exchange": "NYSE",
-      "website": "https://www.energyfuels.com",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
       "title": "Independent Director",
-      "startDate": "2012-01-01",
-      "endDate": null,
-      "formattedStartDate": "2012 January",
-      "formattedEndDate": ""
+      "startDate": "2017",
+      "endDate": "October 15, 2025",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "October 15, 2025"
     }
   ],
   "investmentTheses": [

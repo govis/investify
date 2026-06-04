@@ -6,20 +6,14 @@
   "age_year": 2024,
   "background": "Cathia Lawson-Hall has over 25 years of experience in the financial sector, specifically in investment banking and corporate finance in Africa.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "ESG Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Endeavour Mining plc",
       "ticker": "EDV",
       "exchange": "LSE",
       "title_or_role": "Independent Non-Executive Director",
+      "website": "https://www.endeavourmining.com",
       "start_date": "2023-05-23",
       "end_date": null
     },
@@ -28,8 +22,49 @@
       "ticker": "EDV",
       "exchange": "TSX",
       "title_or_role": "Independent Non-Executive Director",
+      "website": "https://www.endeavourmining.com",
       "start_date": "2022-09-29",
       "end_date": null
+    },
+    {
+      "name": "Vivendi SE",
+      "ticker": "VIV",
+      "exchange": "Euronext Paris",
+      "website": "https://www.vivendi.com",
+      "title_or_role": "Member of the Supervisory Board",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Universal Music Group N.V.",
+      "ticker": "UMG",
+      "exchange": "Euronext Amsterdam",
+      "website": "https://www.universalmusic.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Eurazeo SE",
+      "ticker": "RF",
+      "exchange": "Euronext Paris",
+      "website": "https://www.eurazeo.com",
+      "title_or_role": "Member of the Supervisory Board",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "ESG Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

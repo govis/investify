@@ -6,19 +6,35 @@
   "age_year": 2024,
   "background": "Dastan Kosherbayev is the Chief Strategy and Development Officer. He is responsible for strategic planning, M&A, and international projects. He previously worked in the corporate finance department of Samruk-Kazyna.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "National Atomic Company Kazatomprom JSC",
       "ticker": "KAP",
       "exchange": "LSE",
-      "title_or_role": "Chief Strategy and Development Officer",
-      "start_date": "2023-06-23",
-      "end_date": null
+      "title_or_role": "Chief Commercial Officer",
+      "website": "https://www.kazatomprom.kz",
+      "start_date": "2021-01-01",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://kz.linkedin.com/in/dastan-kosherbayev-70614891/en",
+      "person_name": "Dastan Kosherbayev",
+      "company_name": "National Atomic Company Kazatomprom JSC",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

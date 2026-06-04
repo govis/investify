@@ -6,20 +6,56 @@
   "companies": [
     {
       "name": "Eldorado Gold Corporation",
-      "ticker": "EGO",
-      "exchange": "NYSE",
-      "website": "https://www.eldoradogold.com",
-      "title": "Independent Director",
-      "startDate": "2020-04-30",
+      "ticker": "EGO (NYSE), ELD (TSX)",
+      "exchange": "NYSE / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "September 2020",
       "endDate": null,
-      "formattedStartDate": "2020 April",
+      "formattedStartDate": "September 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "BlackRock World Mining Trust plc",
+      "ticker": "BRWM",
+      "exchange": "LSE (London Stock Exchange)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Director",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Galiano Gold Inc.",
+      "ticker": "GAU",
+      "exchange": "TSX (Toronto Stock Exchange)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "January 1, 2020",
+      "endDate": null,
+      "formattedStartDate": "January 1, 2020",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/judith-mosely-126b2830",
+      "person_name": "Judith Mosely",
+      "company_name": "Eldorado Gold Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Corporate Governance and Nominating Committee"

@@ -9,17 +9,29 @@
       "ticker": "PDN",
       "exchange": "ASX",
       "website": "https://www.paladinenergy.com.au",
+      "logoUrl": "/companies-assets/PDN.ASX.svg",
       "title": "Non-Executive Director",
-      "startDate": "2023-05-01",
+      "startDate": "May 2023",
       "endDate": null,
-      "formattedStartDate": "2023 May",
+      "formattedStartDate": "May 2023",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/lesley-adams-3092059",
+      "person_name": "Lesley Adams",
+      "company_name": "Paladin Energy Ltd",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit and Risk Committee",
     "Remuneration and Nomination Committee"

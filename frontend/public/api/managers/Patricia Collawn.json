@@ -5,33 +5,46 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "EVgo Inc.",
-      "ticker": "EVGO",
-      "exchange": "NASDAQ",
-      "website": "https://www.evgo.com",
-      "title": "Director",
-      "startDate": "2021-07-01",
+      "name": "TXNM Energy, Inc.",
+      "ticker": "TXNM",
+      "exchange": "NYSE",
+      "website": "https://www.txnmenergy.com",
+      "logoUrl": "/companies-assets/TXNM.NYSE.png",
+      "title": "Chairman, President & Chief Executive Officer",
+      "startDate": "2007",
       "endDate": null,
-      "formattedStartDate": "2021 July",
+      "formattedStartDate": "2007",
       "formattedEndDate": ""
     },
     {
-      "name": "Cheniere Energy, Inc.",
-      "ticker": "LNG",
+      "name": "Equitrans Midstream Corporation",
+      "ticker": "ETRN",
       "exchange": "NYSE",
-      "website": "https://www.cheniere.com",
-      "title": "Independent Director",
-      "startDate": "2021-07-12",
-      "endDate": null,
-      "formattedStartDate": "2021 July",
-      "formattedEndDate": ""
+      "website": "https://www.equitransmidstream.com",
+      "logoUrl": "/companies-assets/ETRN.NYSE.png",
+      "title": "Member of the Board of Directors",
+      "startDate": "April 2020",
+      "endDate": "2024",
+      "formattedStartDate": "April 2020",
+      "formattedEndDate": "2024"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/patricia-collawn-28280511",
+      "person_name": "Patricia Collawn",
+      "company_name": "PNM Resources",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"

@@ -9,18 +9,90 @@
       "ticker": "ORE",
       "exchange": "ASX",
       "website": "https://oreterra.com.au",
-      "title": "Non-Executive Chairman",
-      "startDate": "2023-11-01",
+      "logoUrl": "/companies-assets/ORE.ASX.svg",
+      "title": "Director",
+      "startDate": "2010",
       "endDate": null,
-      "formattedStartDate": "2023 November",
+      "formattedStartDate": "2010",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Arizona Lithium Limited",
+      "ticker": "AZL",
+      "exchange": "ASX",
+      "website": "https://arizonalithium.com",
+      "logoUrl": "/companies-assets/AZL.ASX.svg",
+      "title": "Chairman",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Lord Resources Limited",
+      "ticker": "LRD",
+      "exchange": "ASX",
+      "website": "https://lordresources.com",
+      "logoUrl": "/companies-assets/LRD.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Pantera Minerals Limited",
+      "ticker": "PFE",
+      "exchange": "ASX",
+      "website": "https://panterali.com",
+      "logoUrl": "/companies-assets/PFE.ASX.png",
+      "title": "Non-Executive Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "NSX Limited",
+      "ticker": "NSX",
+      "exchange": "ASX",
+      "website": "https://www.nsx.com.au",
+      "logoUrl": "/companies-assets/NSX.ASX.png",
+      "title": "Non-Executive Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Hawkstone Mining Limited",
+      "ticker": "HWK",
+      "exchange": "ASX",
+      "website": "https://arizonalithium.com",
+      "logoUrl": "/companies-assets/HWK.ASX.png",
+      "title": "Non-Executive Chair",
+      "startDate": "2019",
+      "endDate": "2021",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2021"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/barnaby-egerton-warburton-a2922914/",
+      "person_name": "Barnaby Egerton-Warburton",
+      "company_name": "Oreterra Limited, Arizona Lithium Limited, Lord Resources Limited, Pantera Minerals Limited, NSX Limited, Hawkstone Mining Limited",
+      "profile_status": "not_found",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit and Risk Committee",
     "Remuneration and Nomination Committee"

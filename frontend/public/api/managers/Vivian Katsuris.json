@@ -2,24 +2,48 @@
   "id": "Vivian Katsuris",
   "name": "Vivian Katsuris",
   "background": "Ms. Katsuris has over 25 years of experience in the brokerage industry and the junior capital markets. She has served as a director and officer of several public companies.",
-  "pictureUrl": null,
+  "pictureUrl": "/managers-assets/Vivian Katsuris.jpg",
   "companies": [
     {
-      "name": "Azincourt Energy Corp.",
-      "ticker": "AAZ",
-      "exchange": "TSX",
-      "website": "https://azincourtenergy.com",
-      "title": "Secretary, Chief Financial Officer",
-      "startDate": "2017-10-01",
+      "name": "Colossus Resources Corp.",
+      "ticker": "CLUS",
+      "exchange": "TSXV",
+      "website": "https://colossusresources.com/",
+      "logoUrl": "/companies-assets/CLUS.TSXV.png",
+      "title": "CFO, Corporate Secretary and Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2017 October",
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Kapa Gold Inc.",
+      "ticker": "KAPA",
+      "exchange": "TSXV",
+      "website": "https://kapagold.com/",
+      "logoUrl": "/companies-assets/KAPA.TSXV.png",
+      "title": "CFO, Secretary and Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/vivian-katsuris-56984361",
+      "person_name": "Vivian Katsuris",
+      "company_name": "Azincourt Energy Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 56,
   "ageYear": 2024

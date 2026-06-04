@@ -7,19 +7,31 @@
     {
       "name": "National Atomic Company Kazatomprom JSC",
       "ticker": "KAP",
-      "exchange": "LSE",
-      "website": "https://www.kazatomprom.kz",
-      "title": "Chief Financial Officer",
-      "startDate": "2023-08-01",
-      "endDate": null,
-      "formattedStartDate": "2023 August",
-      "formattedEndDate": ""
+      "exchange": "London Stock Exchange (LSE)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Financial Officer / Member of the Management Board",
+      "startDate": "2023",
+      "endDate": "August 19, 2024",
+      "formattedStartDate": "2023",
+      "formattedEndDate": "August 19, 2024"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://kz.linkedin.com/in/sultan-temirbayev-54878417",
+      "person_name": "Sultan Temirbayev",
+      "company_name": "National Atomic Company Kazatomprom JSC",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 38,
   "ageYear": 2024

@@ -9,10 +9,11 @@
       "ticker": "NVDA",
       "exchange": "NASDAQ",
       "website": "https://www.nvidia.com",
-      "title": "Director, President and Chief Executive Officer",
-      "startDate": "1993-01-01",
+      "logoUrl": "/companies-assets/NVDA.NASDAQ.svg",
+      "title": "Co-founder, President, Chief Executive Officer, and Member of the Board of Directors",
+      "startDate": "1993",
       "endDate": null,
-      "formattedStartDate": "1993 January",
+      "formattedStartDate": "1993",
       "formattedEndDate": ""
     }
   ],
@@ -21,7 +22,18 @@
     "Defense",
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jensen-huang-6696431",
+      "person_name": "Jensen Huang",
+      "company_name": "NVIDIA",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 61,
   "ageYear": 2024

@@ -6,20 +6,46 @@
   "age_year": 2024,
   "background": "Larry Page co-founded Google in 1998 and served as Alphabet\u2019s CEO from 2015 to 2019. He has been a member of the Board of Directors since 1998.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Alphabet Inc.",
+      "ticker": "GOOG / GOOGL",
+      "exchange": "NASDAQ",
+      "title_or_role": "Co-Founder, Board Member",
+      "website": "https://abc.xyz",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Google Inc.",
+      "ticker": "GOOG",
+      "exchange": "NASDAQ",
+      "website": "https://google.com",
+      "title_or_role": "Co-Founder, CEO",
+      "start_date": "1998",
+      "end_date": "2015",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI",
     "Defense"
   ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "socials": [
     {
-      "name": "Alphabet Inc.",
-      "ticker": "GOOGL",
-      "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "start_date": "1998-09-01",
-      "end_date": null
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/larrypage",
+      "person_name": "Larry Page",
+      "company_name": "Alphabet Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
-  ]
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

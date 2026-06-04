@@ -9,17 +9,77 @@
       "ticker": "EVN",
       "exchange": "ASX",
       "website": "https://evolutionmining.com.au",
-      "title": "Executive Chair",
-      "startDate": "2011-10-01",
+      "logoUrl": "/companies-assets/EVN.ASX.svg",
+      "title": "Non-Executive Chairman",
+      "startDate": "2025-07",
       "endDate": null,
-      "formattedStartDate": "2011 October",
+      "formattedStartDate": "July 2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sino Gold Mining Limited",
+      "ticker": "SGX (Delisted)",
+      "exchange": "ASX",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and Chief Executive Officer",
+      "startDate": "2002",
+      "endDate": "2009",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "2009"
+    },
+    {
+      "name": "Conquest Mining Limited",
+      "ticker": "CQT (Delisted)",
+      "exchange": "ASX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Chairman",
+      "startDate": null,
+      "endDate": "2011-10",
+      "formattedStartDate": "",
+      "formattedEndDate": "October 2011"
+    },
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC",
+      "exchange": "TSX",
+      "website": "https://oceanagold.com",
+      "logoUrl": "/companies-assets/OGC.TSX.svg",
+      "title": "Director",
+      "startDate": "2009",
+      "endDate": "2011",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2011"
+    },
+    {
+      "name": "North Queensland Metals Limited",
+      "ticker": "NQM (Delisted)",
+      "exchange": "ASX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jakejklein",
+      "person_name": "Jake Klein",
+      "company_name": "Evolution Mining Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 63,
   "ageYear": 2024

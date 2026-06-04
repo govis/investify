@@ -6,22 +6,48 @@
   "age_year": 2024,
   "background": "Ms. Lavan is Senior Vice President, General Counsel and Corporate Secretary of Lockheed Martin Corporation. She has held various leadership positions at Lockheed Martin since 1990.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Nominating and Corporate Governance Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "MP Materials Corp.",
       "ticker": "MP",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-11-17",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://mpmaterials.com",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lockheed Martin Corporation",
+      "ticker": "LMT",
+      "exchange": "NYSE",
+      "website": "https://www.lockheedmartin.com",
+      "title_or_role": "Senior Vice President, General Counsel, and Corporate Secretary",
+      "start_date": "2007",
+      "end_date": "January 2025",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/maryanne-lavan-3830836",
+      "person_name": "Maryanne Lavan",
+      "company_name": "Lockheed Martin Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

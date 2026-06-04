@@ -6,19 +6,55 @@
   "age_year": 2024,
   "background": "Mr. Womack is chairman, president and CEO of Southern Company. He previously served as president of Southern Company and chairman, president and CEO of Georgia Power. He has held numerous leadership roles across Southern Company since joining in 1988.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "The Southern Company",
       "ticker": "SO",
       "exchange": "NYSE",
-      "title_or_role": "Chairman, President and Chief Executive Officer",
-      "start_date": "2023-05-24",
-      "end_date": null
+      "title_or_role": "President and Chief Executive Officer (Director)",
+      "website": "https://www.southerncompany.com",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Invesco Ltd.",
+      "ticker": "IVZ",
+      "exchange": "NYSE",
+      "website": "https://www.invesco.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2021-10-12",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Essential Utilities, Inc.",
+      "ticker": "WTRG",
+      "exchange": "NYSE",
+      "website": "https://www.essential.co",
+      "title_or_role": "Independent Director",
+      "start_date": "2019-05-02",
+      "end_date": "2023",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/chriscwomack",
+      "person_name": "Christopher Womack",
+      "company_name": "Southern Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

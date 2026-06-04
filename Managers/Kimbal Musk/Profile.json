@@ -6,20 +6,46 @@
   "age_year": 2024,
   "background": "Kimbal Musk has been a member of the Board since April 2004. He is a co-founder of The Kitchen Restaurant Group and Big Green, a non-profit organization.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Tesla, Inc.",
       "ticker": "TSLA",
       "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "start_date": "2004-04-01",
-      "end_date": null
+      "title_or_role": "Director (Board of Directors)",
+      "website": "https://www.tesla.com",
+      "start_date": "2004",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Chipotle Mexican Grill, Inc.",
+      "ticker": "CMG",
+      "exchange": "NYSE",
+      "website": "https://www.chipotle.com",
+      "title_or_role": "Director (Board of Directors)",
+      "start_date": "2013",
+      "end_date": "2019",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kimbal",
+      "person_name": "Kimbal Musk",
+      "company_name": "Tesla, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

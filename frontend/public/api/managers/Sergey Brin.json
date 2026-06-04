@@ -6,13 +6,14 @@
   "companies": [
     {
       "name": "Alphabet Inc.",
-      "ticker": "GOOGL",
+      "ticker": "GOOG / GOOGL",
       "exchange": "NASDAQ",
-      "website": "https://abc.xyz",
-      "title": "Director",
-      "startDate": "1998-09-01",
+      "website": null,
+      "logoUrl": null,
+      "title": "Co-Founder, Board Member (formerly President)",
+      "startDate": "1998",
       "endDate": null,
-      "formattedStartDate": "1998 September",
+      "formattedStartDate": "1998",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +21,18 @@
     "AI",
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sergeybrin",
+      "person_name": "Sergey Brin",
+      "company_name": "Alphabet Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 50,
   "ageYear": 2024

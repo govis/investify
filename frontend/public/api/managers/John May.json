@@ -9,10 +9,11 @@
       "ticker": "DE",
       "exchange": "NYSE",
       "website": "https://www.deere.com",
-      "title": "Chairman and Chief Executive Officer",
-      "startDate": "2020-05-01",
+      "logoUrl": "/companies-assets/DE.NYSE.svg",
+      "title": "Chairman, CEO, and President",
+      "startDate": "2019",
       "endDate": null,
-      "formattedStartDate": "2020 May",
+      "formattedStartDate": "2019",
       "formattedEndDate": ""
     },
     {
@@ -20,10 +21,11 @@
       "ticker": "F",
       "exchange": "NYSE",
       "website": "https://www.ford.com",
-      "title": "Independent Director",
-      "startDate": "2021-12-01",
+      "logoUrl": "/companies-assets/F.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2021 December",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
     }
   ],

@@ -5,14 +5,27 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Vista Gold Corp.",
-      "ticker": "VGZ",
-      "exchange": "NYSE",
-      "website": "https://www.vistagold.com",
-      "title": "Independent Director",
-      "startDate": "2001-05-01",
+      "name": "Russel Metals Inc.",
+      "ticker": "RUS",
+      "exchange": "TSX",
+      "website": "https://www.russelmetals.com",
+      "logoUrl": "/companies-assets/RUS.TSX.svg",
+      "title": "Director",
+      "startDate": "2019-08-22",
       "endDate": null,
-      "formattedStartDate": "2001 May",
+      "formattedStartDate": "August 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Zephyr Minerals Ltd.",
+      "ticker": "ZPHY",
+      "exchange": "TSXV",
+      "website": "https://www.zephyrminerals.com",
+      "logoUrl": "/companies-assets/ZPHY.TSXV.png",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],

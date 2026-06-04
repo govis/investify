@@ -6,20 +6,25 @@
   "age_year": null,
   "background": "Ms. MacDonald is a CPA, CA with over 15 years of experience in financial reporting and corporate compliance for public companies in the mining industry.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Prospector Metals Corp.",
+      "ticker": "PPP",
+      "exchange": "TSXV",
+      "title_or_role": "Corporate Secretary",
+      "website": "https://prospectormetalscorp.com/",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold",
     "Nuclear"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Prospector Metals Corp.",
-      "ticker": "PPP",
-      "exchange": "TSX",
-      "title_or_role": "Chief Financial Officer",
-      "start_date": "2022-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

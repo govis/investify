@@ -6,22 +6,39 @@
   "age_year": 2024,
   "background": "Senior Investment Manager at Cascade Asset Management Company.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Finance Committee"
-  ],
-  "companies": [
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
     {
       "name": "Deere & Company",
       "ticker": "DE",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2016-01-01",
-      "end_date": null
+      "title_or_role": "Director (Member of the Board of Directors)",
+      "website": "https://www.deere.com",
+      "start_date": "December 2016",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/alan-heuberger-a03906325",
+      "person_name": "Alan Heuberger",
+      "company_name": "Deere & Company",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Finance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 0
 }

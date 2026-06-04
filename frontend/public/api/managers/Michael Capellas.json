@@ -9,17 +9,89 @@
       "ticker": "CSCO",
       "exchange": "NASDAQ",
       "website": "https://www.cisco.com",
-      "title": "Lead Independent Director",
-      "startDate": "2006-01-01",
+      "logoUrl": "/companies-assets/CSCO.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2006",
       "endDate": null,
-      "formattedStartDate": "2006 January",
+      "formattedStartDate": "2006",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Cellebrite DI Ltd.",
+      "ticker": "CLBT",
+      "exchange": "NASDAQ",
+      "website": "https://www.cellebrite.com",
+      "logoUrl": "/companies-assets/CLBT.NASDAQ.png",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Compaq Computer Corporation",
+      "ticker": "CPQ",
+      "exchange": "NYSE",
+      "website": "https://www.hp.com",
+      "logoUrl": "/companies-assets/CPQ.NYSE.svg",
+      "title": "Chairman and CEO",
+      "startDate": "1999",
+      "endDate": "2002",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2002"
+    },
+    {
+      "name": "WorldCom, Inc.",
+      "ticker": "WCOM",
+      "exchange": "NASDAQ",
+      "website": "https://www.verizon.com",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/WorldCom_logo.svg/1200px-WorldCom_logo.svg.png",
+      "title": "CEO",
+      "startDate": "2002",
+      "endDate": "2004",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "2004"
+    },
+    {
+      "name": "First Data Corporation",
+      "ticker": "FDC",
+      "exchange": "NYSE",
+      "website": "https://www.fiserv.com",
+      "logoUrl": "/companies-assets/FDC.NYSE.svg",
+      "title": "Chairman and CEO",
+      "startDate": "2007",
+      "endDate": "2010",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2010"
+    },
+    {
+      "name": "Hewlett-Packard Company",
+      "ticker": "HPQ",
+      "exchange": "NYSE",
+      "website": "hp.com",
+      "logoUrl": "/companies-assets/HPQ.NYSE.jpg",
+      "title": "President",
+      "startDate": "2002",
+      "endDate": "2002",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "2002"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michael-capellas-36104887",
+      "person_name": "Michael Capellas",
+      "company_name": "Capellas Strategic Partners",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Finance Committee",
     "Nomination and Governance Committee"

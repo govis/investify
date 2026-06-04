@@ -9,17 +9,53 @@
       "ticker": "HII",
       "exchange": "NYSE",
       "website": "https://www.hii.com",
-      "title": "Executive Vice President and President, Mission Technologies",
-      "startDate": "2016-01-01",
+      "logoUrl": "/companies-assets/HII.NYSE.svg",
+      "title": "EVP & President, Technical Solutions",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2016 January",
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "IG Group Holdings plc",
+      "ticker": "IGG",
+      "exchange": "LSE",
+      "website": "https://www.iggroup.com",
+      "logoUrl": "/companies-assets/IGG.LSE.svg",
+      "title": "Chairman",
+      "startDate": "2014",
+      "endDate": "2019",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Avanti Communications Group plc",
+      "ticker": "AVN",
+      "exchange": "LSE",
+      "website": "https://www.avanti.space",
+      "logoUrl": "/companies-assets/AVN.LSE.png",
+      "title": "Senior Independent Non-Executive Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/andy-green-6091a14",
+      "person_name": "Andy Green",
+      "company_name": "HII",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1
+    }
+  ],
   "committees": [],
   "age": 53,
   "ageYear": 2024

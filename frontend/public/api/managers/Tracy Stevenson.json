@@ -7,20 +7,56 @@
     {
       "name": "Vista Gold Corp.",
       "ticker": "VGZ",
-      "exchange": "NYSE",
-      "website": "https://www.vistagold.com",
-      "title": "Independent Director",
-      "startDate": "2007-11-01",
+      "exchange": "NYSE American / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director (Chair since April 2023)",
+      "startDate": "2007",
       "endDate": null,
-      "formattedStartDate": "2007 November",
+      "formattedStartDate": "2007",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Quaterra Resources Inc.",
+      "ticker": "QTA",
+      "exchange": "TSX.V",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "July 2007",
+      "endDate": "2014",
+      "formattedStartDate": "July 2007",
+      "formattedEndDate": "2014"
+    },
+    {
+      "name": "Uranium Resources Inc. (now Westwater Resources, Inc.)",
+      "ticker": "WWR",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "December 2013",
+      "endDate": "July 2017",
+      "formattedStartDate": "December 2013",
+      "formattedEndDate": "July 2017"
     }
   ],
   "investmentTheses": [
     "Gold",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/tracy-stevenson-b639272a",
+      "person_name": "Tracy Stevenson",
+      "company_name": "Vista Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"

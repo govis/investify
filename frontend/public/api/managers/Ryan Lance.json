@@ -9,10 +9,23 @@
       "ticker": "FCX",
       "exchange": "NYSE",
       "website": "https://www.fcx.com",
+      "logoUrl": "/companies-assets/FCX.NYSE.svg",
       "title": "Director",
-      "startDate": "2023-01-01",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "ConocoPhillips",
+      "ticker": "COP",
+      "exchange": "NYSE",
+      "website": "conocophillips.com",
+      "logoUrl": "/companies-assets/COP.NYSE.svg",
+      "title": "Chairman and Chief Executive Officer",
+      "startDate": "May 2012",
+      "endDate": null,
+      "formattedStartDate": "May 2012",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +33,18 @@
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ryan-lance",
+      "person_name": "Ryan Lance",
+      "company_name": "ConocoPhillips",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation",
     "Governance"

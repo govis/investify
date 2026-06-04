@@ -2,24 +2,96 @@
   "id": "Anastasia Kelly",
   "name": "Anastasia Kelly",
   "background": "Anastasia D. Kelly is Executive Director, Client Relations at DLA Piper and previously served as Vice Chairman of American International Group (AIG).",
-  "pictureUrl": null,
+  "pictureUrl": "/managers-assets/Anastasia Kelly.jpg",
   "companies": [
     {
       "name": "Huntington Ingalls Industries, Inc.",
       "ticker": "HII",
       "exchange": "NYSE",
       "website": "https://www.hii.com",
+      "logoUrl": "/companies-assets/HII.NYSE.svg",
       "title": "Director",
-      "startDate": "2011-01-01",
+      "startDate": "2013",
       "endDate": null,
-      "formattedStartDate": "2011 January",
+      "formattedStartDate": "2013",
       "formattedEndDate": ""
+    },
+    {
+      "name": "O-I Glass, Inc.",
+      "ticker": "OI",
+      "exchange": "NYSE",
+      "website": "https://o-i.com",
+      "logoUrl": "/companies-assets/OI.NYSE.svg",
+      "title": "Director",
+      "startDate": "2012",
+      "endDate": "2022",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "American International Group, Inc. (AIG)",
+      "ticker": "AIG",
+      "exchange": "NYSE",
+      "website": "https://aig.com",
+      "logoUrl": "/companies-assets/AIG.NYSE.png",
+      "title": "Vice Chairman",
+      "startDate": "2009",
+      "endDate": "2009",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2009"
+    },
+    {
+      "name": "MCI, Inc.",
+      "ticker": "MCI (Delisted)",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "General Counsel",
+      "startDate": "2003",
+      "endDate": "2006",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2006"
+    },
+    {
+      "name": "Sears, Roebuck and Co.",
+      "ticker": "SHLD (Delisted)",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "SVP, General Counsel",
+      "startDate": "1999",
+      "endDate": "2003",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2003"
+    },
+    {
+      "name": "Fannie Mae",
+      "ticker": "FNMA",
+      "exchange": "OTC",
+      "website": "https://fanniemae.com",
+      "logoUrl": "/companies-assets/FNMA.OTC.svg",
+      "title": "SVP, General Counsel, Corporate Secretary",
+      "startDate": "1995",
+      "endDate": "1999",
+      "formattedStartDate": "1995",
+      "formattedEndDate": "1999"
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/stasiakelly/",
+      "person_name": "Stasia Kelly",
+      "company_name": "DLA Piper",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
   "committees": [
     "Compensation Committee",
     "Governance and Policy Committee"

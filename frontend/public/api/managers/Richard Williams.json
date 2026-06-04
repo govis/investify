@@ -7,13 +7,26 @@
     {
       "name": "NOVAGOLD RESOURCES INC.",
       "ticker": "NG",
-      "exchange": "NYSE",
-      "website": "https://www.novagold.com",
-      "title": "Vice President, Engineering and Development",
-      "startDate": "2014-10-01",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice President and Chief Operating Officer",
+      "startDate": "2013-04-01",
       "endDate": null,
-      "formattedStartDate": "2014 October",
+      "formattedStartDate": "April 2013",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Kaminak Gold Corp.",
+      "ticker": "KAM",
+      "exchange": "TSXV",
+      "website": "https://www.kaminak.com",
+      "logoUrl": "/companies-assets/KAM.TSXV.png",
+      "title": "Director",
+      "startDate": "2015-11-16",
+      "endDate": "2016-07-19",
+      "formattedStartDate": "November 2015",
+      "formattedEndDate": "July 2016"
     }
   ],
   "investmentTheses": [

@@ -7,20 +7,44 @@
     {
       "name": "Lithium Americas Corp.",
       "ticker": "LAC",
-      "exchange": "NYSE",
-      "website": "https://www.lithiumamericas.com",
-      "title": "Director, President and Chief Executive Officer",
-      "startDate": "2023-10-04",
+      "exchange": "NYSE/TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and CEO",
+      "startDate": "August 2018",
       "endDate": null,
-      "formattedStartDate": "2023 October",
+      "formattedStartDate": "August 2018",
       "formattedEndDate": ""
+    },
+    {
+      "name": "FMC Corporation",
+      "ticker": "FMC",
+      "exchange": "NYSE",
+      "website": "https://www.fmc.com",
+      "logoUrl": "/companies-assets/FMC.NYSE.svg",
+      "title": "Vice President and General Manager, Lithium Division",
+      "startDate": null,
+      "endDate": "2018",
+      "formattedStartDate": "",
+      "formattedEndDate": "2018"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jonathan-evans-93167712",
+      "person_name": "Jonathan Evans",
+      "company_name": "Lithium Americas Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 54,
   "ageYear": 2024

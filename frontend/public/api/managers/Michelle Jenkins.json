@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Peninsula Energy Limited",
-      "ticker": "PEN",
-      "exchange": "ASX",
-      "website": "https://www.pel.net.au",
-      "title": "Non-Executive Director",
-      "startDate": "2022-06-01",
+      "name": "Kumba Iron Ore Limited",
+      "ticker": "KIO",
+      "exchange": "Johannesburg Stock Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Non-Executive Director",
+      "startDate": "2019-11-01",
       "endDate": null,
-      "formattedStartDate": "2022 June",
+      "formattedStartDate": "November 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Orion Minerals Limited",
+      "ticker": "ORN",
+      "exchange": "Australian Securities Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive - Finance & Administration (South Africa)",
+      "startDate": "Unknown",
+      "endDate": "Unknown",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michelle-jenkins-41a7a0aa",
+      "person_name": "Michelle Jenkins",
+      "company_name": "Orion Minerals Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit and Risk Management Committee (Chair)"
   ],

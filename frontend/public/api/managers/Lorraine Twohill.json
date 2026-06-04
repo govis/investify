@@ -9,17 +9,41 @@
       "ticker": "PANW",
       "exchange": "NASDAQ",
       "website": "https://www.paloaltonetworks.com",
-      "title": "Independent Director",
-      "startDate": "2019-04-01",
+      "logoUrl": "/companies-assets/PANW.NASDAQ.svg",
+      "title": "Board Member",
+      "startDate": "2019",
       "endDate": null,
-      "formattedStartDate": "2019 April",
+      "formattedStartDate": "2019",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Williams-Sonoma, Inc.",
+      "ticker": "WSM",
+      "exchange": "NYSE",
+      "website": "https://www.williams-sonomainc.com",
+      "logoUrl": "/companies-assets/WSM.NYSE.svg",
+      "title": "Board Member",
+      "startDate": "2012",
+      "endDate": "2017",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2017"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/lorraine-twohill-ba3a56185",
+      "person_name": "Lorraine Twohill",
+      "company_name": "Google",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],

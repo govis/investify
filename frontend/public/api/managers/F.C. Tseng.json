@@ -9,10 +9,35 @@
       "ticker": "TSM",
       "exchange": "NYSE",
       "website": "https://www.tsmc.com",
+      "logoUrl": "/companies-assets/TSM.NYSE.svg",
+      "title": "Senior Vice President of Operations",
+      "startDate": null,
+      "endDate": "1996-01",
+      "formattedStartDate": "",
+      "formattedEndDate": "January 1996"
+    },
+    {
+      "name": "Vanguard International Semiconductor Corporation",
+      "ticker": "5347",
+      "exchange": "TWSE",
+      "website": "https://www.vis.com.tw",
+      "logoUrl": "/companies-assets/5347.TWSE.svg",
       "title": "Director",
-      "startDate": "1987-02-21",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "1987 February",
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Acer Inc.",
+      "ticker": "2353",
+      "exchange": "TWSE",
+      "website": "https://www.acer-group.com",
+      "logoUrl": "/companies-assets/2353.TWSE.svg",
+      "title": "Independent Director",
+      "startDate": "2014-06",
+      "endDate": null,
+      "formattedStartDate": "June 2014",
       "formattedEndDate": ""
     }
   ],

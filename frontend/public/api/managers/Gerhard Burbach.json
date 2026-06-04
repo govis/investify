@@ -5,22 +5,46 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "BWX Technologies, Inc.",
-      "ticker": "BWXT",
-      "exchange": "NYSE",
-      "website": "https://www.bwxt.com",
-      "title": "Independent Director",
-      "startDate": "2018-01-01",
-      "endDate": null,
-      "formattedStartDate": "2018 January",
-      "formattedEndDate": ""
+      "name": "Thoratec Corporation",
+      "ticker": "THOR",
+      "exchange": "NASDAQ",
+      "website": "https://www.thoratec.com",
+      "logoUrl": "/companies-assets/THOR.NASDAQ.svg",
+      "title": "President, Chief Executive Officer, and Director",
+      "startDate": "2006",
+      "endDate": "2014",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2014"
+    },
+    {
+      "name": "Standard BioTools Inc.",
+      "ticker": "LAB",
+      "exchange": "NASDAQ",
+      "website": "https://www.standardbio.com/",
+      "logoUrl": "/companies-assets/LAB.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2014",
+      "endDate": "June 14, 2023",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "June 14, 2023"
     }
   ],
   "investmentTheses": [
     "Defense",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gerhard-burbach-4a5a2a1",
+      "person_name": "Gerhard Burbach",
+      "company_name": "BWX Technologies, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee",
     "Governance Committee"

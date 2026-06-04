@@ -9,17 +9,53 @@
       "ticker": "PDN",
       "exchange": "ASX",
       "website": "https://www.paladinenergy.com.au",
-      "title": "Chief Operating Officer",
-      "startDate": "2021-06-01",
+      "logoUrl": "/companies-assets/PDN.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2024",
       "endDate": null,
-      "formattedStartDate": "2021 June",
+      "formattedStartDate": "2024",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Richmond Vanadium Technology Limited",
+      "ticker": "RVT",
+      "exchange": "ASX",
+      "website": "https://richmondvanadium.com.au",
+      "logoUrl": "/companies-assets/RVT.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2022",
+      "endDate": "2023-06-30",
+      "formattedStartDate": "2022",
+      "formattedEndDate": "June 2023"
+    },
+    {
+      "name": "Horizon Minerals Limited",
+      "ticker": "HRZ",
+      "exchange": "ASX",
+      "website": "https://horizonminerals.com.au",
+      "logoUrl": "/companies-assets/HRZ.ASX.webp",
+      "title": "Managing Director",
+      "startDate": "2016-01",
+      "endDate": "2023-06-30",
+      "formattedStartDate": "January 2016",
+      "formattedEndDate": "June 2023"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/jon-price-25503b14a",
+      "person_name": "Jon Price",
+      "company_name": "Horizon Minerals Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 55,
   "ageYear": 2024

@@ -6,30 +6,58 @@
   "age_year": 2024,
   "background": "Mr. Gignac is the President and CEO of G Mining Ventures Corp. and has over 20 years of experience in the mining industry. He holds a degree in mining engineering from McGill University and an MBA from HEC Montreal.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification",
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Consolidated Lithium Metals Inc.",
       "ticker": "CLM",
       "exchange": "TSXV",
       "title_or_role": "Director",
-      "start_date": "2022-11-01",
-      "end_date": null
+      "website": "https://consolidatedlithium.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "G Mining Ventures Corp.",
       "ticker": "GMIN",
+      "exchange": "TSXV",
+      "title_or_role": "Founder, President, CEO & Director",
+      "website": "https://gmin.gold",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Major Drilling Group International Inc.",
+      "ticker": "MDI",
       "exchange": "TSX",
-      "title_or_role": "Director, President & Chief Executive Officer",
-      "start_date": "2020-11-25",
-      "end_date": null
+      "website": "https://www.majordrilling.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/louis-pierre-gignac-a5633116",
+      "person_name": "Louis-Pierre Gignac",
+      "company_name": "G Mining Ventures Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

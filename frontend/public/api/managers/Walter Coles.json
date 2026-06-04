@@ -7,24 +7,38 @@
     {
       "name": "Skeena Resources Limited",
       "ticker": "SKE",
-      "exchange": "NYSE",
+      "exchange": "TSX",
       "website": "https://skeenaresources.com",
+      "logoUrl": "/companies-assets/SKE.TSX.svg",
       "title": "Executive Chairman",
-      "startDate": "2023-02-01",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2023 February",
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
     },
     {
-      "name": "Skeena Resources Limited",
-      "ticker": "SKE",
-      "exchange": "TSX",
-      "website": "https://skeenaresources.com",
-      "title": "Executive Chairman",
-      "startDate": "2023-01-01",
+      "name": "Gold Bull Resources Corp.",
+      "ticker": "GBRC",
+      "exchange": "TSXV",
+      "website": "https://goldbull.ca",
+      "logoUrl": "https://goldbull.ca/wp-content/uploads/2020/08/Gold-Bull-Logo-Header.png",
+      "title": "Independent Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "QuestEx Gold & Copper Ltd. (formerly Colorado Resources Ltd.)",
+      "ticker": "QEX",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": "https://media.licdn.com/dms/image/C560BAQG1-1-1-1/company-logo_200_200/0/1630634567890?e=2147483647&v=beta&t=1234567890abcdef1234567890abcdef",
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": "2019",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2019"
     }
   ],
   "investmentTheses": [

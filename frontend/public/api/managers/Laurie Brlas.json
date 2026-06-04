@@ -5,32 +5,105 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Constellation Energy Corporation",
-      "ticker": "CEG",
-      "exchange": "NASDAQ",
-      "website": "https://www.constellationenergy.com",
-      "title": "Independent Director",
-      "startDate": "2022-02-01",
+      "name": "Albemarle Corporation",
+      "ticker": "ALB",
+      "exchange": "NYSE",
+      "website": "https://www.albemarle.com",
+      "logoUrl": "/companies-assets/ALB.NYSE.svg",
+      "title": "Director",
+      "startDate": "2017",
       "endDate": null,
-      "formattedStartDate": "2022 February",
+      "formattedStartDate": "2017",
       "formattedEndDate": ""
     },
     {
-      "name": "Constellation Energy Corporation",
-      "ticker": "CEG",
+      "name": "Autoliv, Inc.",
+      "ticker": "ALV",
       "exchange": "NYSE",
-      "website": "https://www.constellationenergy.com",
-      "title": "Independent Director",
-      "startDate": "2022-02-01",
+      "website": "https://www.autoliv.com",
+      "logoUrl": "/companies-assets/ALV.NYSE.svg",
+      "title": "Director",
+      "startDate": "2018",
       "endDate": null,
-      "formattedStartDate": "2022 February",
+      "formattedStartDate": "2018",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Graphic Packaging Holding Company",
+      "ticker": "GPK",
+      "exchange": "NYSE",
+      "website": "https://www.graphicpkg.com",
+      "logoUrl": "/companies-assets/GPK.NYSE.svg",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Newmont Corporation",
+      "ticker": "NEM",
+      "exchange": "NYSE",
+      "website": "https://www.newmont.com",
+      "logoUrl": "/companies-assets/NEM.NYSE.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2013",
+      "endDate": "2016",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Cleveland-Cliffs Inc.",
+      "ticker": "CLF",
+      "exchange": "NYSE",
+      "website": "https://www.clevelandcliffs.com",
+      "logoUrl": "/companies-assets/CLF.NYSE.svg",
+      "title": "Executive Vice President and President, Global Operations / CFO",
+      "startDate": "2006",
+      "endDate": "2013",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Perrigo Company plc",
+      "ticker": "PRGO",
+      "exchange": "NYSE",
+      "website": "https://www.perrigo.com",
+      "logoUrl": "/companies-assets/PRGO.NYSE.svg",
+      "title": "Director",
+      "startDate": "2009",
+      "endDate": "2017",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "STERIS plc",
+      "ticker": "STE",
+      "exchange": "NYSE",
+      "website": "https://www.steris.com",
+      "logoUrl": "/companies-assets/STE.NYSE.svg",
+      "title": "Senior Vice President and Chief Financial Officer",
+      "startDate": "2000",
+      "endDate": "2006",
+      "formattedStartDate": "2000",
+      "formattedEndDate": "2006"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/laurie-brlas-50539310",
+      "person_name": "Laurie Brlas",
+      "company_name": "Constellation Energy Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Audit Committee (Chair)",

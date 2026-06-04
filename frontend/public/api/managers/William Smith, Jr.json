@@ -3,19 +3,7 @@
   "name": "William Smith, Jr.",
   "background": "Chairman, President and CEO of Capital City Bank Group, Inc.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "The Southern Company",
-      "ticker": "SO",
-      "exchange": "NYSE",
-      "website": "https://www.southerncompany.com",
-      "title": "Independent Director",
-      "startDate": "2006-01-01",
-      "endDate": null,
-      "formattedStartDate": "2006 January",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "Nuclear"
   ],

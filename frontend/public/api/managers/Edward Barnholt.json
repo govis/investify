@@ -5,21 +5,69 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "KLA Corporation",
-      "ticker": "KLAC",
-      "exchange": "NASDAQ",
-      "website": "https://www.kla.com",
+      "name": "Agilent Technologies, Inc.",
+      "ticker": "A",
+      "exchange": "NYSE",
+      "website": "agilent.com",
+      "logoUrl": "/companies-assets/A.NYSE.svg",
       "title": "Chairman of the Board",
-      "startDate": "1995-01-01",
-      "endDate": null,
-      "formattedStartDate": "1995 January",
-      "formattedEndDate": ""
+      "startDate": "2002",
+      "endDate": "2005",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "2005"
+    },
+    {
+      "name": "Adobe Inc.",
+      "ticker": "ADBE",
+      "exchange": "NASDAQ",
+      "website": "https://www.adobe.com",
+      "logoUrl": "/companies-assets/ADBE.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2005",
+      "endDate": "2020",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "eBay Inc.",
+      "ticker": "EBAY",
+      "exchange": "NASDAQ",
+      "website": "ebay.com",
+      "logoUrl": "/companies-assets/EBAY.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2005",
+      "endDate": "2015",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Hewlett-Packard Company",
+      "ticker": "HPQ",
+      "exchange": "NYSE",
+      "website": "hp.com",
+      "logoUrl": "/companies-assets/HPQ.NYSE.jpg",
+      "title": "Executive Vice President",
+      "startDate": "1996",
+      "endDate": "1999",
+      "formattedStartDate": "1996",
+      "formattedEndDate": "1999"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/edward-barnholt-4a5b2a1",
+      "person_name": "Edward Barnholt",
+      "company_name": "KLA Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Nominating and Governance Committee"
   ],

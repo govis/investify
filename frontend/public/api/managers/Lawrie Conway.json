@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Evolution Mining Limited",
-      "ticker": "EVN",
+      "name": "Aurelia Metals Limited",
+      "ticker": "AMI",
       "exchange": "ASX",
-      "website": "https://evolutionmining.com.au",
-      "title": "Chief Executive Officer and Managing Director",
-      "startDate": "2023-01-01",
+      "website": "https://aureliametals.com/",
+      "logoUrl": "/companies-assets/AMI.ASX.svg",
+      "title": "Non-Executive Director and Chair of the Audit Committee",
+      "startDate": null,
+      "endDate": "2022-08-31",
+      "formattedStartDate": "",
+      "formattedEndDate": "August 2022"
+    },
+    {
+      "name": "Newcrest Mining Limited",
+      "ticker": "NCM",
+      "exchange": "ASX",
+      "website": "https://www.newcrest.com/",
+      "logoUrl": "/companies-assets/NCM.ASX.svg",
+      "title": "Executive General Manager - Commercial & West Africa Operations",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/lawrie-conway-1546032",
+      "person_name": "Lawrie Conway",
+      "company_name": "Evolution Mining Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 55,
   "ageYear": 2024

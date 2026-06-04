@@ -9,17 +9,41 @@
       "ticker": "WBX",
       "exchange": "NYSE",
       "website": "https://wallbox.com",
-      "title": "Chief Financial Officer",
-      "startDate": "2024-05-15",
+      "logoUrl": "/companies-assets/WBX.NYSE.svg",
+      "title": "Chief Financial Officer (CFO)",
+      "startDate": "May 15, 2024",
       "endDate": null,
-      "formattedStartDate": "2024 May",
+      "formattedStartDate": "May 15, 2024",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Fluidra, S.A.",
+      "ticker": "FLUI",
+      "exchange": "BME (Bolsa de Madrid)",
+      "website": null,
+      "logoUrl": null,
+      "title": "IR, Corporate Communications & Business Development Director / CFO for North America",
+      "startDate": "2016",
+      "endDate": "April 2024",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "April 2024"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://es.linkedin.com/in/luisboada/es",
+      "person_name": "Luis Boada",
+      "company_name": "Wallbox N.V.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 42,
   "ageYear": 2024

@@ -6,20 +6,44 @@
   "companies": [
     {
       "name": "Sibanye Stillwater Limited",
-      "ticker": "SBSW",
-      "exchange": "NYSE",
-      "website": "https://www.sibanyestillwater.com",
-      "title": "Chief Executive Officer",
-      "startDate": "2013-01-01",
+      "ticker": "SSW (JSE), SBSW (NYSE)",
+      "exchange": "JSE, NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Executive Officer and Executive Director",
+      "startDate": "2013",
+      "endDate": "September 2025",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "September 2025"
+    },
+    {
+      "name": "Podium Minerals Limited",
+      "ticker": "POD",
+      "exchange": "ASX",
+      "website": "https://podiumminerals.com.au/",
+      "logoUrl": "/companies-assets/POD.ASX.svg",
+      "title": "Non-Executive Chairman",
+      "startDate": "February 2026",
       "endDate": null,
-      "formattedStartDate": "2013 January",
+      "formattedStartDate": "February 2026",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://za.linkedin.com/in/nealfroneman",
+      "person_name": "Neal Froneman",
+      "company_name": "Sibanye-Stillwater",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 64,
   "ageYear": 2023

@@ -6,19 +6,44 @@
   "age_year": 2024,
   "background": "Mr. Sloan is a mining engineer with over 35 years of experience in project development and operations. He was previously Managing Director of Karora and has held senior roles at several Australian mining companies including Tanami Gold NL and Herencia Resources PLC.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Karora Resources Inc.",
+      "ticker": "KRR",
+      "exchange": "TSX",
+      "title_or_role": "Managing Director - Australian Operations",
+      "website": "https://www.karoraresources.com/",
+      "start_date": "2019",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Golden Horse Minerals Ltd.",
+      "ticker": "GHM",
+      "exchange": "ASX",
+      "website": "https://goldenhorseminerals.com/",
+      "title_or_role": "Chairman / Acting CEO",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kali Metals Limited",
+      "ticker": "KM1",
+      "exchange": "ASX",
+      "website": "https://kalimetals.com.au/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Karora Resources Inc.",
-      "ticker": "KRR",
-      "exchange": "TSX",
-      "title_or_role": "Managing Director, Australian Operations",
-      "start_date": "2019-02-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

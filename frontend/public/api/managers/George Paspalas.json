@@ -5,21 +5,57 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Hudbay Minerals Inc.",
-      "ticker": "HBM",
-      "exchange": "NYSE",
-      "website": "https://www.hudbayminerals.com",
-      "title": "Independent Director",
-      "startDate": "2023-06-01",
+      "name": "MAG Silver Corp.",
+      "ticker": "MAG",
+      "exchange": "TSX",
+      "website": "https://magsilver.com",
+      "logoUrl": "/companies-assets/MAG.TSX.png",
+      "title": "President, CEO & Director",
+      "startDate": "2013-09-01",
       "endDate": null,
-      "formattedStartDate": "2023 June",
+      "formattedStartDate": "September 2013",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Kinross Gold Corporation",
+      "ticker": "K",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "formattedStartDate": "January 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Aurizon Mines Ltd.",
+      "ticker": "ARZ",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "/companies-assets/ARZ.TSX.svg",
+      "title": "President & CEO",
+      "startDate": "2011-08-15",
+      "endDate": "2013-06-01",
+      "formattedStartDate": "August 2011",
+      "formattedEndDate": "June 2013"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/george-paspalas-4a5a5a1a",
+      "person_name": "George Paspalas",
+      "company_name": "MAG Silver Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee",
     "Technical Committee"

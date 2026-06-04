@@ -3,23 +3,22 @@
   "name": "Michael Coudriet",
   "background": "Mr. Coudriet joined B2Gold in 2014 and has held various senior management roles. He was appointed Chief Operating Officer in 2023.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "B2Gold Corp.",
-      "ticker": "BTG",
-      "exchange": "NYSE",
-      "website": "https://www.b2gold.com",
-      "title": "Chief Operating Officer",
-      "startDate": "2023-01-01",
-      "endDate": null,
-      "formattedStartDate": "2023 January",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michael-coudriet-462b3312",
+      "person_name": "Michael Coudriet",
+      "company_name": "B2Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 53,
   "ageYear": 2024

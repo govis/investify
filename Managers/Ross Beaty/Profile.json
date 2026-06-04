@@ -6,19 +6,54 @@
   "age_year": 2024,
   "background": "Mr. Beaty is a geologist and resource entrepreneur with over 45 years of experience in the international minerals and renewable energy industries. He founded Pan American Silver Corp. and Alterra Power Corp.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Equinox Gold Corp.",
+      "ticker": "EQX",
+      "exchange": "TSX",
+      "title_or_role": "Chairman of the Board",
+      "website": "https://www.equinoxgold.com/",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Pan American Silver Corp.",
+      "ticker": "PAAS",
+      "exchange": "TSX",
+      "website": "https://www.panamericansilver.com/",
+      "title_or_role": "Founder and Chairman of the Board",
+      "start_date": "1994",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Alterra Power Corp.",
+      "ticker": "AXY",
+      "exchange": "TSX",
+      "website": "https://www.innergex.com/",
+      "title_or_role": "Executive Chairman",
+      "start_date": "2011",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Western Copper and Gold Corporation",
+      "ticker": "WRN",
+      "exchange": "TSX",
+      "website": "https://westerncopperandgold.com/",
+      "title_or_role": "Co-Chairman",
+      "start_date": "2006",
+      "end_date": "2009",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Equinox Gold Corp.",
-      "ticker": "EQX",
-      "exchange": "NYSE",
-      "title_or_role": "Chair",
-      "start_date": "2017-12-22",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

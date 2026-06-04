@@ -6,22 +6,58 @@
   "age_year": 2024,
   "background": "Retired General, US Army. Former Supreme Allied Commander Europe of NATO. Extensive experience in strategic leadership.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Equinox Gold Corp.",
+      "ticker": "EQX",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://www.equinoxgold.com",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Amaya Inc. (now Flutter Entertainment plc)",
+      "ticker": "FLTR",
+      "exchange": "LSE",
+      "website": "https://www.flutter.com",
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "MeadWestvaco Corp. (merged into WestRock)",
+      "ticker": "WRK",
+      "exchange": "NYSE",
+      "website": "https://www.westrock.com",
+      "title_or_role": "Director",
+      "start_date": "2004",
+      "end_date": "2015",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/wesley-clark",
+      "person_name": "Wesley Clark",
+      "company_name": "Wesley K. Clark & Associates",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Governance and Nominating Committee",
     "Social Responsibility and ESG Committee"
   ],
-  "companies": [
-    {
-      "name": "Equinox Gold Corp.",
-      "ticker": "EQX",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-03-10",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

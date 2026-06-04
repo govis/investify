@@ -9,17 +9,29 @@
       "ticker": "CVV",
       "exchange": "TSXV",
       "website": "https://canalaska.com/",
-      "title": "Independent Director",
-      "startDate": "2021-01-01",
+      "logoUrl": "/companies-assets/CVV.TSXV.png",
+      "title": "Director",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2021 January",
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/geoff-gay-b36a8780",
+      "person_name": "Geoff Gay",
+      "company_name": "Athabasca Basin Development",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

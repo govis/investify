@@ -9,11 +9,24 @@
       "ticker": "INTC",
       "exchange": "NASDAQ",
       "website": "https://www.intel.com",
+      "logoUrl": "/companies-assets/INTC.NASDAQ.svg",
       "title": "Executive Vice President and Chief Commercial Officer",
-      "startDate": "2022-03-14",
-      "endDate": null,
-      "formattedStartDate": "2022 March",
-      "formattedEndDate": ""
+      "startDate": "2022",
+      "endDate": "2025",
+      "formattedStartDate": "2022",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "HP Inc.",
+      "ticker": "HPQ",
+      "exchange": "NYSE",
+      "website": "hp.com",
+      "logoUrl": "/companies-assets/HPQ.NYSE.jpg",
+      "title": "President, 3D Printing & Digital Manufacturing",
+      "startDate": "2016",
+      "endDate": "2019",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2019"
     }
   ],
   "investmentTheses": [

@@ -6,20 +6,140 @@
   "companies": [
     {
       "name": "Victoria Gold Corp.",
-      "ticker": "VGCX",
+      "ticker": "VGC",
       "exchange": "TSX",
-      "website": "https://vgcx.com",
-      "title": "Chairman",
-      "startDate": "2007-07-31",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Chairman",
+      "startDate": "2007",
+      "endDate": "2024",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Orezone Gold Corp.",
+      "ticker": "ORE",
+      "exchange": "TSX",
+      "website": "https://orezone.com",
+      "logoUrl": "/companies-assets/ORE.TSX.png",
+      "title": "Non-Executive Chairman",
+      "startDate": "2024",
       "endDate": null,
-      "formattedStartDate": "2007 July",
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Perseus Mining Limited",
+      "ticker": "PRU",
+      "exchange": "ASX/TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Director/Chair",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Serabi Gold plc",
+      "ticker": "SRB",
+      "exchange": "LSE",
+      "website": "https://serabigold.com",
+      "logoUrl": "/companies-assets/SRB.LSE.svg",
+      "title": "Non-Executive Chairman",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sarama Resources Ltd.",
+      "ticker": "SWA",
+      "exchange": "TSXV",
+      "website": "https://saramaresources.com",
+      "logoUrl": "https://saramaresources.com/wp-content/uploads/2021/05/Sarama-Logo-2021.png",
+      "title": "Founder / Non-Executive Chairman",
+      "startDate": "2010",
+      "endDate": "2017",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Orvana Minerals Corp.",
+      "ticker": "ORV",
+      "exchange": "TSX",
+      "website": "https://www.orvana.com",
+      "logoUrl": "/companies-assets/ORV.TSX.jpg",
+      "title": "President and CEO",
+      "startDate": "2005",
+      "endDate": "2006",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2006"
+    },
+    {
+      "name": "TVX Gold, Inc.",
+      "ticker": "TVX",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "https://companieslogo.com/img/orig/TVX.CN-46553835.png",
+      "title": "President and CEO",
+      "startDate": null,
+      "endDate": "2003",
+      "formattedStartDate": "",
+      "formattedEndDate": "2003"
+    },
+    {
+      "name": "Andina Minerals Inc.",
+      "ticker": "ADM",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": "/companies-assets/ADM.TSXV.svg",
+      "title": "Chairman",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Polaris Geothermal Inc.",
+      "ticker": "TSXV",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": "/companies-assets/TSXV.TSXV.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Australian Solomons Gold Limited",
+      "ticker": "TSX",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sean-harvey-4a5a5a12/",
+      "person_name": "Sean Harvey",
+      "company_name": "Victoria Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"

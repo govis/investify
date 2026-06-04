@@ -6,19 +6,45 @@
   "age_year": 2024,
   "background": "Mr. Monash is the Vice President, Business Sustainability. He has over 20 years of experience in the mining sector, focusing on sustainability and corporate affairs. He previously held roles at AngloGold Ashanti and the World Economic Forum.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Lundin Gold Inc.",
       "ticker": "LUG",
       "exchange": "TSX",
       "title_or_role": "Vice President, Business Sustainability",
-      "start_date": "2015-01-01",
-      "end_date": null
+      "website": "https://lundingold.com",
+      "start_date": "April 2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lundin Mining Corporation",
+      "ticker": "LUN",
+      "exchange": "TSX",
+      "website": "https://www.lundinmining.com",
+      "title_or_role": "Vice President, Sustainability",
+      "start_date": "Unknown",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/nathan-monash-0a379b3",
+      "person_name": "Nathan Monash",
+      "company_name": "Lundin Gold Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

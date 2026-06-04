@@ -9,10 +9,47 @@
       "ticker": "WOLF",
       "exchange": "NYSE",
       "website": "https://www.wolfspeed.com",
-      "title": "Executive Vice President and Chief Financial Officer",
-      "startDate": "2018-08-27",
+      "logoUrl": "/companies-assets/WOLF.NYSE.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "August 2018",
       "endDate": null,
-      "formattedStartDate": "2018 August",
+      "formattedStartDate": "August 2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "NXP Semiconductors N.V.",
+      "ticker": "NXPI",
+      "exchange": "NASDAQ",
+      "website": "https://www.nxp.com",
+      "logoUrl": "/companies-assets/NXPI.NASDAQ.svg",
+      "title": "Senior Vice President, Finance, Strategy and Procurement",
+      "startDate": "Prior to 2018",
+      "endDate": "August 2018",
+      "formattedStartDate": "Prior to 2018",
+      "formattedEndDate": "August 2018"
+    },
+    {
+      "name": "General Electric Company",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "website": "https://www.geaerospace.com",
+      "logoUrl": "/companies-assets/GE.NYSE.svg",
+      "title": "Various Senior Financial Roles",
+      "startDate": "Prior to NXP",
+      "endDate": "Prior to NXP",
+      "formattedStartDate": "Prior to NXP",
+      "formattedEndDate": "Prior to NXP"
+    },
+    {
+      "name": "Ralliant",
+      "ticker": "RALL",
+      "exchange": "NYSE",
+      "website": "ralliant.com",
+      "logoUrl": "/companies-assets/RALL.NYSE.jpg",
+      "title": "Chief Financial Officer",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +57,18 @@
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/neill-reynolds-b2842514",
+      "person_name": "Neill Reynolds",
+      "company_name": "Wolfspeed",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 54,
   "ageYear": 2024

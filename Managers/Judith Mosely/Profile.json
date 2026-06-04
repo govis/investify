@@ -6,22 +6,58 @@
   "age_year": 2024,
   "background": "Judith Mosely has over 20 years of experience in the mining finance sector, including senior roles at Soci\u00e9t\u00e9 G\u00e9n\u00e9rale.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Eldorado Gold Corporation",
+      "ticker": "EGO (NYSE), ELD (TSX)",
+      "exchange": "NYSE / TSX",
+      "title_or_role": "Director",
+      "website": "https://www.eldoradogold.com/",
+      "start_date": "September 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "BlackRock World Mining Trust plc",
+      "ticker": "BRWM",
+      "exchange": "LSE (London Stock Exchange)",
+      "website": "https://www.blackrock.com/uk/individual/products/investment-trusts/our-range/blackrock-world-mining-trust-plc",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Galiano Gold Inc.",
+      "ticker": "GAU",
+      "exchange": "TSX (Toronto Stock Exchange)",
+      "website": "https://www.galianogold.com/",
+      "title_or_role": "Director",
+      "start_date": "January 1, 2020",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/judith-mosely-126b2830",
+      "person_name": "Judith Mosely",
+      "company_name": "Eldorado Gold Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "Eldorado Gold Corporation",
-      "ticker": "EGO",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-04-30",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

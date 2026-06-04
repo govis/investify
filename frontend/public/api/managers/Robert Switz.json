@@ -9,10 +9,11 @@
       "ticker": "MRVL",
       "exchange": "NASDAQ",
       "website": "https://www.marvell.com",
+      "logoUrl": "/companies-assets/MRVL.NASDAQ.svg",
       "title": "Director",
-      "startDate": "2016-05-01",
+      "startDate": "2018-01-01",
       "endDate": null,
-      "formattedStartDate": "2016 May",
+      "formattedStartDate": "January 2018",
       "formattedEndDate": ""
     },
     {
@@ -20,22 +21,60 @@
       "ticker": "MU",
       "exchange": "NASDAQ",
       "website": "https://www.micron.com",
-      "title": "Chairman of the Board",
+      "logoUrl": "/companies-assets/MU.NASDAQ.svg",
+      "title": "Director / Chairman of the Board",
       "startDate": "2006-01-01",
-      "endDate": null,
-      "formattedStartDate": "2006 January",
-      "formattedEndDate": ""
+      "endDate": "2025-01-16",
+      "formattedStartDate": "January 2006",
+      "formattedEndDate": "January 2025"
     },
     {
       "name": "SentinelOne, Inc.",
       "ticker": "S",
       "exchange": "NYSE",
       "website": "https://www.sentinelone.com",
+      "logoUrl": "/companies-assets/S.NYSE.svg",
       "title": "Director",
-      "startDate": "2021-04-01",
+      "startDate": "2021-01-01",
       "endDate": null,
-      "formattedStartDate": "2021 April",
+      "formattedStartDate": "January 2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "ADC Telecommunications, Inc.",
+      "ticker": "ADCT",
+      "exchange": "NASDAQ",
+      "website": "https://www.te.com",
+      "logoUrl": "/companies-assets/ADCT.NASDAQ.svg",
+      "title": "Chairman, President, and Chief Executive Officer",
+      "startDate": "2003-08-01",
+      "endDate": "2010-12-31",
+      "formattedStartDate": "August 2003",
+      "formattedEndDate": "December 2010"
+    },
+    {
+      "name": "Broadcom Corporation",
+      "ticker": "BRCM",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2003-01-01",
+      "endDate": "2016-02-01",
+      "formattedStartDate": "January 2003",
+      "formattedEndDate": "February 2016"
+    },
+    {
+      "name": "Hickory Tech Corporation (now Consolidated Communications)",
+      "ticker": "CNSL",
+      "exchange": "NASDAQ",
+      "website": "https://www.consolidated.com",
+      "logoUrl": "/companies-assets/CNSL.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "1999-01-01",
+      "endDate": "2006-12-31",
+      "formattedStartDate": "January 1999",
+      "formattedEndDate": "December 2006"
     }
   ],
   "investmentTheses": [

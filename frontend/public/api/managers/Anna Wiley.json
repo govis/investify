@@ -9,10 +9,11 @@
       "ticker": "BHP",
       "exchange": "ASX",
       "website": "https://www.bhp.com",
-      "title": "President Australia",
-      "startDate": "2024-07-01",
+      "logoUrl": "/companies-assets/BHP.ASX.svg",
+      "title": "Executive",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2024 July",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],

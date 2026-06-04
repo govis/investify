@@ -6,14 +6,15 @@
   "companies": [
     {
       "name": "Seabridge Gold Inc.",
-      "ticker": "SA",
-      "exchange": "NYSE",
-      "website": "https://www.seabridgegold.com",
-      "title": "Vice President, Finance and Chief Financial Officer",
-      "startDate": "2007-01-01",
-      "endDate": null,
-      "formattedStartDate": "2007 January",
-      "formattedEndDate": ""
+      "ticker": "SEA (TSX), SA (NYSE)",
+      "exchange": "TSX, NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Financial Officer (CFO)",
+      "startDate": "2011",
+      "endDate": "March 31, 2026",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "March 31, 2026"
     }
   ],
   "investmentTheses": [

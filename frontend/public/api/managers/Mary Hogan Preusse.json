@@ -9,17 +9,65 @@
       "ticker": "DLR",
       "exchange": "NYSE",
       "website": "https://www.digitalrealty.com",
-      "title": "Chairman, Director",
-      "startDate": "2022-08-01",
+      "logoUrl": "/companies-assets/DLR.NYSE.svg",
+      "title": "Director (Chair)",
+      "startDate": "2017",
       "endDate": null,
-      "formattedStartDate": "2022 August",
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Kimco Realty Corporation",
+      "ticker": "KIM",
+      "exchange": "NYSE",
+      "website": "https://www.kimcorealty.com",
+      "logoUrl": "/companies-assets/KIM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Realty Income Corporation",
+      "ticker": "O",
+      "exchange": "NYSE",
+      "website": "https://www.realtyincome.com",
+      "logoUrl": "/companies-assets/O.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021-11",
+      "endDate": null,
+      "formattedStartDate": "November 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Host Hotels & Resorts, Inc.",
+      "ticker": "HST",
+      "exchange": "NASDAQ",
+      "website": "https://www.hosthotels.com",
+      "logoUrl": "/companies-assets/HST.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mary-hogan-preusse-80445a9",
+      "person_name": "Mary Hogan Preusse",
+      "company_name": "Digital Realty Trust, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],

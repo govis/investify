@@ -9,17 +9,89 @@
       "ticker": "GNRC",
       "exchange": "NYSE",
       "website": "https://www.generac.com",
-      "title": "Independent Director",
-      "startDate": "2019-01-01",
+      "logoUrl": "/companies-assets/GNRC.NYSE.svg",
+      "title": "Board Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2019 January",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Acuity Brands, Inc.",
+      "ticker": "AYI",
+      "exchange": "NYSE",
+      "website": "https://www.acuitybrands.com",
+      "logoUrl": "/companies-assets/AYI.NYSE.svg",
+      "title": "Board Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cornerstone Building Brands, Inc.",
+      "ticker": "CNR",
+      "exchange": "NYSE",
+      "website": "https://www.cornerstonebuildingbrands.com",
+      "logoUrl": "/companies-assets/CNR.NYSE.svg",
+      "title": "Board Director",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Trane Technologies plc",
+      "ticker": "TT",
+      "exchange": "NYSE",
+      "website": "https://www.tranetechnologies.com",
+      "logoUrl": "/companies-assets/TT.NYSE.svg",
+      "title": "EVP, Chief HR, Marketing & Communications Officer",
+      "startDate": "2015",
+      "endDate": "2022",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "GCP Applied Technologies Inc.",
+      "ticker": "GCP",
+      "exchange": "NYSE",
+      "website": "https://www.gcpat.com",
+      "logoUrl": "/companies-assets/GCP.NYSE.png",
+      "title": "Board Director",
+      "startDate": "2016",
+      "endDate": "2022",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Lincoln National Corporation",
+      "ticker": "LNC",
+      "exchange": "NYSE",
+      "website": "https://www.lfg.com",
+      "logoUrl": "/companies-assets/LNC.NYSE.svg",
+      "title": "Board Director",
+      "startDate": "2002",
+      "endDate": "2006",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "2006"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/marcia-avedon-phd-38903a2",
+      "person_name": "Marcia Avedon, PhD",
+      "company_name": "Trane Technologies",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"

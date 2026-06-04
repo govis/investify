@@ -3,19 +3,7 @@
   "name": "Peter Norelli",
   "background": "Peter S. Norelli is Executive Vice President and Chief Operating Officer. He joined Entergy in 2022 from NextEra Energy, where he held various leadership positions in power generation and operations.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "Entergy Corporation",
-      "ticker": "ETR",
-      "exchange": "NYSE",
-      "website": "https://www.entergy.com",
-      "title": "Executive Vice President and Chief Operating Officer",
-      "startDate": "2022-01-01",
-      "endDate": null,
-      "formattedStartDate": "2022 January",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "Nuclear"
   ],

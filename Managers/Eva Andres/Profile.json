@@ -6,19 +6,35 @@
   "age_year": 2024,
   "background": "Ms. Andres has served as our Chief Human Resources Officer since 2019. She previously held HR leadership roles at Virtustream and Dell EMC.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Juniper Networks, Inc.",
       "ticker": "JNPR",
       "exchange": "NYSE",
-      "title_or_role": "Chief Human Resources Officer",
-      "start_date": "2019-01-01",
-      "end_date": null
+      "title_or_role": "Senior Vice President, Chief Human Resources Officer",
+      "website": "https://www.juniper.net",
+      "start_date": "October 2018",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/eva-andres-ortega-5573201",
+      "person_name": "Eva Andres",
+      "company_name": "Juniper Networks",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

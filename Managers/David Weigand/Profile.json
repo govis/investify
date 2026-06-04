@@ -6,19 +6,55 @@
   "age_year": 2023,
   "background": "David Weigand has served as Senior Vice President, Chief Financial Officer since February 2021. He joined Supermicro in 2018 and previously served as Senior Vice President, Chief Compliance Officer. Before joining Supermicro, he held various executive positions at Renesas Electronics America and Integrated Device Technology.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Super Micro Computer, Inc.",
       "ticker": "SMCI",
       "exchange": "NASDAQ",
-      "title_or_role": "Senior Vice President, Chief Financial Officer",
-      "start_date": "2021-02-01",
-      "end_date": null
+      "title_or_role": "Senior Vice President, Chief Financial Officer, Chief Compliance Officer, and Secretary",
+      "website": "https://www.supermicro.com",
+      "start_date": "2018-05",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hewlett Packard Enterprise Company",
+      "ticker": "HPE",
+      "exchange": "NYSE",
+      "website": "https://www.hpe.com",
+      "title_or_role": "Vice President",
+      "start_date": "2016-11",
+      "end_date": "2018-04",
+      "validated": true
+    },
+    {
+      "name": "Renesas Electronics Corporation",
+      "ticker": "RNECY",
+      "exchange": "OTC",
+      "website": "https://www.renesas.com",
+      "title_or_role": "Vice President of Finance, Chief Financial Officer (Renesas Electronics America)",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/david-weigand-07697b6",
+      "person_name": "David Weigand",
+      "company_name": "Super Micro Computer, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

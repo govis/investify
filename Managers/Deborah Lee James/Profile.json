@@ -6,22 +6,48 @@
   "age_year": 2024,
   "background": "Former Secretary of the Air Force. Former President of the Technical and Engineering Sector of Science Applications International Corporation (SAIC).",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Organization and Compensation Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Textron Inc.",
       "ticker": "TXT",
       "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2017-01-01",
-      "end_date": null
+      "title_or_role": "Member, Board of Directors",
+      "website": "https://www.textron.com",
+      "start_date": "July 1, 2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Unisys Corporation",
+      "ticker": "UIS",
+      "exchange": "NYSE",
+      "website": "https://www.unisys.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "August 7, 2017",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/deborah-lee-james-39660732",
+      "person_name": "Deborah Lee James",
+      "company_name": "Textron Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Organization and Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -5,15 +5,40 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "International Business Machines Corporation",
+      "name": "Emerson Electric Co.",
+      "ticker": "EMR",
+      "exchange": "NYSE",
+      "website": "https://www.emerson.com",
+      "logoUrl": "/companies-assets/EMR.NYSE.svg",
+      "title": "Chairman, President, and Chief Executive Officer",
+      "startDate": "1981",
+      "endDate": "2021",
+      "formattedStartDate": "1981",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "International Business Machines Corporation (IBM)",
       "ticker": "IBM",
       "exchange": "NYSE",
       "website": "https://www.ibm.com",
-      "title": "Independent Director",
-      "startDate": "2012-01-01",
+      "logoUrl": "/companies-assets/IBM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2012",
       "endDate": null,
-      "formattedStartDate": "2012 January",
+      "formattedStartDate": "2012",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Delphi Corporation (now Aptiv PLC)",
+      "ticker": "DPH",
+      "exchange": "NYSE",
+      "website": "https://www.aptiv.com",
+      "logoUrl": "/companies-assets/DPH.NYSE.svg",
+      "title": "Director",
+      "startDate": "2005",
+      "endDate": "2009",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2009"
     }
   ],
   "investmentTheses": [

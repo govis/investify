@@ -9,17 +9,65 @@
       "ticker": "GXU",
       "exchange": "TSXV",
       "website": "https://www.goviex.com",
-      "title": "Executive Chairman",
-      "startDate": "2006-01-01",
+      "logoUrl": "/companies-assets/GXU.TSXV.svg",
+      "title": "Director",
+      "startDate": "2011",
       "endDate": null,
-      "formattedStartDate": "2006 January",
+      "formattedStartDate": "2011",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Lifezone Metals Ltd",
+      "ticker": "LZM",
+      "exchange": "NYSE",
+      "website": "https://lifezonemetals.com/",
+      "logoUrl": "/companies-assets/LZM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cordoba Minerals Corp.",
+      "ticker": "CDB",
+      "exchange": "TSXV",
+      "website": "https://cordobaminerals.com/",
+      "logoUrl": "/companies-assets/CDB.TSXV.jpg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sama Resources Inc.",
+      "ticker": "SME",
+      "exchange": "TSXV",
+      "website": "https://samaresources.com/",
+      "logoUrl": "/companies-assets/SME.TSXV.png",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/govind-friedland-832884207",
+      "person_name": "Govind Friedland",
+      "company_name": "GoviEx Uranium Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 49,
   "ageYear": 2024

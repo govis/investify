@@ -5,21 +5,57 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Orion Copper Mining Corp.",
-      "ticker": "ORION",
-      "exchange": "TSX",
-      "website": "https://orioncmc.com",
-      "title": "Independent Director",
-      "startDate": "2023-06-20",
+      "name": "Defense Metals Corp.",
+      "ticker": "DEFN",
+      "exchange": "TSXV",
+      "website": "https://defensemetals.com/",
+      "logoUrl": "/companies-assets/DEFN.TSXV.png",
+      "title": "VP, Environment & Social Performance",
+      "startDate": "January 2025",
       "endDate": null,
-      "formattedStartDate": "2023 June",
+      "formattedStartDate": "January 2025",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Northisle Copper and Gold Inc.",
+      "ticker": "NCX",
+      "exchange": "TSXV",
+      "website": "https://www.northisle.ca",
+      "logoUrl": "/companies-assets/NCX.TSXV.png",
+      "title": "Head of Sustainability and Community Relations",
+      "startDate": "May 1, 2021",
+      "endDate": null,
+      "formattedStartDate": "May 1, 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "GT Gold Corp.",
+      "ticker": "GTT",
+      "exchange": "TSXV",
+      "website": "https://www.newmont.com/",
+      "logoUrl": "/companies-assets/GTT.TSXV.png",
+      "title": "Head of Sustainability, Community and Environment",
+      "startDate": null,
+      "endDate": "May 2021",
+      "formattedStartDate": "",
+      "formattedEndDate": "May 2021"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/michelle-tanguay-7aa45551",
+      "person_name": "Michelle Tanguay",
+      "company_name": "Defense Metals Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee (Chair)"

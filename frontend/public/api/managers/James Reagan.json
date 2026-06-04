@@ -5,32 +5,57 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Leidos Holdings, Inc.",
-      "ticker": "LDOS",
-      "exchange": "NYSE",
-      "website": "https://www.leidos.com",
-      "title": "Executive Vice President and General Counsel",
-      "startDate": "2017-01-01",
-      "endDate": null,
-      "formattedStartDate": "2017 January",
-      "formattedEndDate": ""
+      "name": "Deltek, Inc.",
+      "ticker": "PROJ",
+      "exchange": "NASDAQ",
+      "website": "www.deltek.com",
+      "logoUrl": "/companies-assets/PROJ.NASDAQ.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2005",
+      "endDate": "May 16, 2008",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "May 16, 2008"
     },
     {
-      "name": "Science Applications International Corporation",
-      "ticker": "SAIC",
+      "name": "Vangent, Inc.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Vice President and Chief Financial Officer",
+      "startDate": "2008",
+      "endDate": "2011",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2011"
+    },
+    {
+      "name": "Pacific Architects and Engineers Incorporated (PAE)",
+      "ticker": "PAE",
       "exchange": "NASDAQ",
-      "website": "https://www.saic.com",
-      "title": "Independent Director",
-      "startDate": "2023-12-13",
-      "endDate": null,
-      "formattedStartDate": "2023 December",
-      "formattedEndDate": ""
+      "website": "www.pae.com",
+      "logoUrl": "/companies-assets/PAE.NASDAQ.png",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2012",
+      "endDate": "2012",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2012"
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jim-reagan-7a5a5a10",
+      "person_name": "James Reagan",
+      "company_name": "Science Applications International Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

@@ -2,24 +2,96 @@
   "id": "Alex Klenman",
   "name": "Alex Klenman",
   "background": "Mr. Klenman is an experienced junior mining executive whose career spans over 30 years in the private and public sectors. Over the past decade he has held a number of senior management and board positions in the public markets.",
-  "pictureUrl": null,
+  "pictureUrl": "/managers-assets/Alex Klenman.jpg",
   "companies": [
     {
       "name": "Azincourt Energy Corp.",
       "ticker": "AAZ",
-      "exchange": "TSX",
-      "website": "https://azincourtenergy.com",
-      "title": "Chief Executive Officer, Director, President",
-      "startDate": "2017-10-01",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "CEO & Director",
+      "startDate": "2017",
       "endDate": null,
-      "formattedStartDate": "2017 October",
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Manning Ventures Inc.",
+      "ticker": "MANN",
+      "exchange": "CSE",
+      "website": "manning-ventures.com",
+      "logoUrl": "/companies-assets/MANN.CSE.svg",
+      "title": "CEO & Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cross River Ventures Corp.",
+      "ticker": "CRVC",
+      "exchange": "CSE",
+      "website": "crossriverventures.com",
+      "logoUrl": "/companies-assets/CRVC.CSE.svg",
+      "title": "CEO & Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Tisdale Clean Energy Corp.",
+      "ticker": "TCEC",
+      "exchange": "CSE",
+      "website": "tisdalecleanenergy.com",
+      "logoUrl": "/companies-assets/TCEC.CSE.jpg",
+      "title": "CEO & Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Oberon Uranium Corp.",
+      "ticker": "OBRN",
+      "exchange": "CSE",
+      "website": "oberonuranium.com",
+      "logoUrl": "https://oberonuranium.com/wp-content/uploads/2022/09/Oberon-Uranium-Logo.png",
+      "title": "Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Armory Mining Corp.",
+      "ticker": "ARMY",
+      "exchange": "CSE",
+      "website": "armorymining.com",
+      "logoUrl": "/companies-assets/ARMY.CSE.png",
+      "title": "CEO & Director",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/ajklenman",
+      "person_name": "Alex Klenman",
+      "company_name": "Azincourt Energy Corp.",
+      "profile_status": "success",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 58,
   "ageYear": 2024

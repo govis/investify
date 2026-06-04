@@ -6,6 +6,29 @@
   "age_year": 2024,
   "background": "Mr. Lindenberg has served as a director since 2021. He previously served as CFO of Mercedes-Benz Cars and CFO of Daimler Trucks. He is a member of the board of directors of various private companies.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lucid Group, Inc.",
+      "ticker": "LCID",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Non-Executive Director",
+      "website": "https://www.lucidmotors.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Mercedes-Benz Group AG",
+      "ticker": "MBG",
+      "exchange": "Xetra",
+      "website": "https://group.mercedes-benz.com",
+      "title_or_role": "Head of Finance & Controlling / CFO (Mercedes-Benz AG)",
+      "start_date": "2012",
+      "end_date": "2020",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -13,14 +36,6 @@
   "committees": [
     "Audit Committee"
   ],
-  "companies": [
-    {
-      "name": "Lucid Group, Inc.",
-      "ticker": "LCID",
-      "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "start_date": "2021-02-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

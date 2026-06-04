@@ -5,36 +5,51 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Glencore plc",
-      "ticker": "GLEN",
-      "exchange": "LSE",
-      "website": "https://www.glencore.com",
-      "title": "Chairman",
-      "startDate": "2021-07-30",
+      "name": "Dundee Precious Metals Inc.",
+      "ticker": "DPM",
+      "exchange": "TSX",
+      "website": "https://www.dundeeprecious.com",
+      "logoUrl": "/companies-assets/DPM.TSX.svg",
+      "title": "Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2021 July",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
     },
     {
-      "name": "Glencore plc",
-      "ticker": "GLNCY",
-      "exchange": "OTC",
-      "website": "https://www.glencore.com",
-      "title": "Chairman",
-      "startDate": "2021-07-30",
+      "name": "Trilogy Metals Inc.",
+      "ticker": "TMQ",
+      "exchange": "TSX / NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2021 July",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
     },
     {
-      "name": "NOVAGOLD RESOURCES INC.",
-      "ticker": "NG",
-      "exchange": "NYSE",
-      "website": "https://www.novagold.com",
+      "name": "Capstone Copper Corp.",
+      "ticker": "CS",
+      "exchange": "TSX",
+      "website": "https://capstonecopper.com",
+      "logoUrl": "/companies-assets/CS.TSX.svg",
       "title": "Independent Director",
-      "startDate": "2012-01-01",
+      "startDate": null,
+      "endDate": "2022",
+      "formattedStartDate": "",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Namibia Critical Metals Inc.",
+      "ticker": "NMI",
+      "exchange": "TSXV",
+      "website": "https://namibiacriticalmetals.com",
+      "logoUrl": "/companies-assets/NMI.TSXV.svg",
+      "title": "Chairman",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2012 January",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
@@ -43,7 +58,18 @@
     "Gold",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kalidas-madhavpeddi-828a8746",
+      "person_name": "Kalidas Madhavpeddi",
+      "company_name": "Glencore",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee",
     "Corporate Governance and Nominating Committee",

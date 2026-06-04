@@ -7,19 +7,43 @@
     {
       "name": "Skyharbour Resources Ltd.",
       "ticker": "SYH",
-      "exchange": "TSX",
-      "website": "https://skyharbourltd.com",
-      "title": "Director, President and CEO",
-      "startDate": "2013-06-01",
+      "exchange": "TSXV",
+      "website": "skyharbourltd.com",
+      "logoUrl": "/companies-assets/SYH.TSXV.png",
+      "title": "President, Chief Executive Officer, and Director",
+      "startDate": "2013",
       "endDate": null,
-      "formattedStartDate": "2013 June",
+      "formattedStartDate": "2013",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Bayfield Ventures Corp.",
+      "ticker": "BAV",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": "/companies-assets/BAV.TSXV.png",
+      "title": "Corporate Development Manager",
+      "startDate": "Prior to 2013",
+      "endDate": "2014",
+      "formattedStartDate": "Prior to 2013",
+      "formattedEndDate": "2014"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/jordan-trimble-cfa-a29b4223",
+      "person_name": "Jordan Trimble",
+      "company_name": "Skyharbour Resources Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": null,
   "ageYear": null

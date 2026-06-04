@@ -9,18 +9,78 @@
       "ticker": "JPM",
       "exchange": "NYSE",
       "website": "https://www.jpmorganchase.com",
-      "title": "Independent Director",
-      "startDate": "2012-05-15",
+      "logoUrl": "/companies-assets/JPM.NYSE.svg",
+      "title": "Director",
+      "startDate": "May 2012",
+      "endDate": "May 2024",
+      "formattedStartDate": "May 2012",
+      "formattedEndDate": "May 2024"
+    },
+    {
+      "name": "Walmart Inc.",
+      "ticker": "WMT",
+      "exchange": "NYSE",
+      "website": "walmart.com",
+      "logoUrl": "/companies-assets/WMT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2012",
       "endDate": null,
-      "formattedStartDate": "2012 May",
+      "formattedStartDate": "2012",
       "formattedEndDate": ""
+    },
+    {
+      "name": "UnitedHealth Group Incorporated",
+      "ticker": "UNH",
+      "exchange": "NYSE",
+      "website": "https://www.unitedhealthgroup.com",
+      "logoUrl": "/companies-assets/UNH.NYSE.svg",
+      "title": "Director",
+      "startDate": "January 2017",
+      "endDate": null,
+      "formattedStartDate": "January 2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Alcoa Corporation",
+      "ticker": "AA",
+      "exchange": "NYSE",
+      "website": "https://www.alcoa.com",
+      "logoUrl": "/companies-assets/AA.NYSE.svg",
+      "title": "Director",
+      "startDate": "November 2016",
+      "endDate": "May 2021",
+      "formattedStartDate": "November 2016",
+      "formattedEndDate": "May 2021"
+    },
+    {
+      "name": "The Chubb Corporation",
+      "ticker": "CB",
+      "exchange": "NYSE",
+      "website": "https://www.chubb.com",
+      "logoUrl": "/companies-assets/CB.NYSE.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": "January 2016",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "January 2016"
     }
   ],
   "investmentTheses": [
     "AI",
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/timothy-flynn-60905411",
+      "person_name": "Timothy Flynn",
+      "company_name": "JPMorgan Chase & Co.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee (Chair)",
     "Corporate Governance & Nominating Committee"

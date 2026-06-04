@@ -6,20 +6,36 @@
   "age_year": 2024,
   "background": "Ms. Ann has over 30 years of experience in the mining industry, specializing in corporate finance, project development, and management. She was previously the CEO of Carube Copper Corp. and has held various executive roles in junior mining companies.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lahontan Gold Corp.",
+      "ticker": "LGCXF",
+      "exchange": "OTCQB",
+      "title_or_role": "Founder, CEO, President, Director, Executive Chair",
+      "website": "https://lahontangoldcorp.com/",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold",
     "Nuclear"
   ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "socials": [
     {
-      "name": "Lahontan Gold Corp.",
-      "ticker": "LG",
-      "exchange": "TSX",
-      "title_or_role": "President, Chief Executive Officer and Director",
-      "start_date": "2022-04-06",
-      "end_date": null
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kimberlyann-lahontangoldcorp",
+      "person_name": "Kimberly Ann",
+      "company_name": "Lahontan Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
-  ]
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -9,10 +9,23 @@
       "ticker": "FCX",
       "exchange": "NYSE",
       "website": "https://www.fcx.com",
-      "title": "Chief Executive Officer, Director, President",
-      "startDate": "2021-02-01",
+      "logoUrl": "/companies-assets/FCX.NYSE.svg",
+      "title": "President and Chief Executive Officer (Director)",
+      "startDate": "2024",
       "endDate": null,
-      "formattedStartDate": "2021 February",
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Vulcan Materials Company",
+      "ticker": "VMC",
+      "exchange": "NYSE",
+      "website": "https://www.vulcanmaterials.com",
+      "logoUrl": "/companies-assets/VMC.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "October 2017",
+      "endDate": null,
+      "formattedStartDate": "October 2017",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +33,18 @@
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kathleen-quirk-8a5b2a12",
+      "person_name": "Kathleen Quirk",
+      "company_name": "Freeport-McMoRan Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 60,
   "ageYear": 2024

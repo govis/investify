@@ -6,19 +6,35 @@
   "age_year": 2024,
   "background": "Mr. Xia is our co-founder and executive director. Prior to founding our company, Mr. Xia worked at the research and development center of Guangzhou Automobile Group Co., Ltd., where he was responsible for the development of control systems for electric vehicles and smart cars.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "XPeng Inc.",
+      "ticker": "XPEV / 9868",
+      "exchange": "NYSE / HKEX",
+      "title_or_role": "Co-founder, President, and Director",
+      "website": "https://www.xiaopeng.com/",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "socials": [
     {
-      "name": "XPeng Inc.",
-      "ticker": "XPEV",
-      "exchange": "NYSE",
-      "title_or_role": "Executive Director",
-      "start_date": "2015-01-01",
-      "end_date": null
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/henry-xia-7a5a5a123",
+      "person_name": "Heng Xia",
+      "company_name": "XPeng Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
-  ]
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -9,11 +9,60 @@
       "ticker": "BA",
       "exchange": "LSE",
       "website": "https://www.baesystems.com",
-      "title": "Senior Independent Director, Non-Executive Director",
-      "startDate": "2022-05-01",
+      "logoUrl": "/companies-assets/BA.LSE.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2019",
       "endDate": null,
-      "formattedStartDate": "2022 May",
+      "formattedStartDate": "2019",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Schroders plc",
+      "ticker": "SDR",
+      "exchange": "LSE",
+      "website": "schroders.com",
+      "logoUrl": "/companies-assets/SDR.LSE.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2021-09",
+      "endDate": "2022-04",
+      "formattedStartDate": "September 2021",
+      "formattedEndDate": "April 2022"
+    },
+    {
+      "name": "Allianz Global Investors",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "CEO",
+      "startDate": "2005",
+      "endDate": "2016",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Pearson plc",
+      "ticker": "PSON",
+      "exchange": "LSE",
+      "website": "pearson.com",
+      "logoUrl": "/companies-assets/PSON.LSE.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2014-05-01",
+      "endDate": "2021-12-31",
+      "formattedStartDate": "May 2014",
+      "formattedEndDate": "December 2021"
+    },
+    {
+      "name": "Morgan Stanley",
+      "ticker": "MS",
+      "exchange": "NYSE",
+      "website": "https://www.morganstanley.com",
+      "logoUrl": "/companies-assets/MS.NYSE.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2018-01-01",
+      "endDate": "2022",
+      "formattedStartDate": "January 2018",
+      "formattedEndDate": "2022"
     }
   ],
   "investmentTheses": [

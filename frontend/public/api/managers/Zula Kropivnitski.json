@@ -5,22 +5,82 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "EagleOne Metals Corp.",
-      "ticker": "EAGL",
-      "exchange": "CSE",
-      "website": "https://eagleonemetals.com",
+      "name": "Abraplata Resource Corp.",
+      "ticker": "ABRA",
+      "exchange": "TSXV",
+      "website": "https://www.abraplata.com",
+      "logoUrl": "/companies-assets/ABRA.TSXV.png",
       "title": "Chief Financial Officer",
-      "startDate": "2023-06-01",
+      "startDate": "2016",
+      "endDate": "2019",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Planet Ventures Inc.",
+      "ticker": "PXI",
+      "exchange": "TSXV",
+      "website": "https://planetventuresinc.com",
+      "logoUrl": "/companies-assets/PXI.TSXV.svg",
+      "title": "CFO, Corporate Secretary, and Director",
+      "startDate": "2012-11",
       "endDate": null,
-      "formattedStartDate": "2023 June",
+      "formattedStartDate": "November 2012",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Rockshield Capital Corp.",
+      "ticker": "VALDY",
+      "exchange": "TSXV",
+      "website": "https://valdyinvestments.com",
+      "logoUrl": "https://inx.co/wp-content/uploads/2022/01/INX-Logo-White.png",
+      "title": "Director",
+      "startDate": "2016-11",
+      "endDate": "2017-11",
+      "formattedStartDate": "November 2016",
+      "formattedEndDate": "November 2017"
+    },
+    {
+      "name": "Flying Nickel Mining Corp.",
+      "ticker": "FLYN",
+      "exchange": "TSXV",
+      "website": "https://flynickel.com",
+      "logoUrl": "/companies-assets/FLYN.TSXV.png",
+      "title": "Chief Financial Officer",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sacre-Coeur Minerals Ltd.",
+      "ticker": "SCM",
+      "exchange": "TSXV",
+      "website": "https://www.scminerals.com",
+      "logoUrl": "/companies-assets/SCM.TSXV.svg",
+      "title": "Financial Controller",
+      "startDate": "2008",
+      "endDate": "2011",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2011"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/zula-kropivnitski-962685267",
+      "person_name": "Zula Kropivnitski",
+      "company_name": "EagleOne Metals Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 54,
   "ageYear": 2024

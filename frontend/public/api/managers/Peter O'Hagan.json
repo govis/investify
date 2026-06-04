@@ -6,20 +6,68 @@
   "companies": [
     {
       "name": "IAMGOLD Corporation",
-      "ticker": "IAG",
-      "exchange": "NYSE",
-      "website": "https://www.iamgold.com",
+      "ticker": "IMG",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
       "title": "Independent Director",
-      "startDate": "2022-02-01",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2022 February",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Triple Flag Precious Metals Corp.",
+      "ticker": "TFPM",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Rigel Resource Acquisition Corp.",
+      "ticker": "RRAC",
+      "exchange": "NYSE",
+      "website": "https://www.rigelresource.com",
+      "logoUrl": "/companies-assets/RRAC.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Stillwater Mining Company",
+      "ticker": "SWC",
+      "exchange": "NYSE",
+      "website": "https://www.sibanyestillwater.com/",
+      "logoUrl": "/companies-assets/SWC.NYSE.svg",
+      "title": "Director / Chair of Compensation Committee",
+      "startDate": "2015",
+      "endDate": "2017",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2017"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/peterohagan",
+      "person_name": "Peter O'Hagan",
+      "company_name": "IAMGOLD Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Human Resources and Compensation Committee"

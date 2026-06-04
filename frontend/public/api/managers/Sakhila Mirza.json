@@ -7,12 +7,13 @@
     {
       "name": "Endeavour Mining plc",
       "ticker": "EDV",
-      "exchange": "LSE",
-      "website": "https://www.endeavourmining.com",
+      "exchange": "LSE (London Stock Exchange)",
+      "website": null,
+      "logoUrl": null,
       "title": "Independent Non-Executive Director",
-      "startDate": "2023-05-23",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2023 May",
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
     }
   ],

@@ -5,15 +5,52 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Siemens Aktiengesellschaft",
-      "ticker": "SIEGY",
-      "exchange": "OTC",
-      "website": "https://www.siemens.com",
-      "title": "Second Deputy Chairman",
-      "startDate": "2013-10-01",
-      "endDate": null,
-      "formattedStartDate": "2013 October",
-      "formattedEndDate": ""
+      "name": "Bayer AG",
+      "ticker": "BAYN",
+      "exchange": "Frankfurt Stock Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman of the Supervisory Board",
+      "startDate": "October 1, 2012",
+      "endDate": "2020",
+      "formattedStartDate": "October 1, 2012",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "E.ON SE",
+      "ticker": "EOAN",
+      "exchange": "Frankfurt Stock Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman of the Supervisory Board",
+      "startDate": "2013",
+      "endDate": "2017",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Deutsche Bank AG",
+      "ticker": "DBK",
+      "exchange": "Frankfurt Stock Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Member of the Supervisory Board",
+      "startDate": "2008",
+      "endDate": "2013",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Henkel AG & Co. KGaA",
+      "ticker": "HEN3",
+      "exchange": "Frankfurt Stock Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Member of the Supervisory Board",
+      "startDate": "2006",
+      "endDate": "2017",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2017"
     }
   ],
   "investmentTheses": [

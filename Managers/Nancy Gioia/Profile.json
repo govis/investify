@@ -6,22 +6,77 @@
   "age_year": 2024,
   "background": "Ms. Gioia has served as a director since 2021. She retired from Ford Motor Company in 2014 after 33 years, where she served as Director of Global Electrification. She also serves on the board of Brady Corporation.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Nominating and Corporate Governance Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Lucid Group, Inc.",
       "ticker": "LCID",
       "exchange": "NASDAQ",
       "title_or_role": "Director",
+      "website": "https://www.lucidmotors.com",
       "start_date": "2021-02-01",
       "end_date": null
+    },
+    {
+      "name": "Power Integrations, Inc.",
+      "ticker": "POWI",
+      "exchange": "NASDAQ",
+      "website": "https://www.power.com",
+      "title_or_role": "Director",
+      "start_date": "2023-01-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Brady Corporation",
+      "ticker": "BRC",
+      "exchange": "NYSE",
+      "website": "https://www.bradycorp.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Meggitt PLC",
+      "ticker": "MGGT",
+      "exchange": "LSE",
+      "website": "https://www.meggitt.com",
+      "title_or_role": "Director",
+      "start_date": "2017-06",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Exelon Corporation",
+      "ticker": "EXC",
+      "exchange": "NASDAQ",
+      "website": "https://www.exeloncorp.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2018",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/nancy-gioia-a11390aa",
+      "person_name": "Nancy Gioia",
+      "company_name": "Lucid Group, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

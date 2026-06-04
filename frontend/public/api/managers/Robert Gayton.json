@@ -6,20 +6,68 @@
   "companies": [
     {
       "name": "B2Gold Corp.",
-      "ticker": "BTG",
-      "exchange": "NYSE",
-      "website": "https://www.b2gold.com",
+      "ticker": "BTO",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
       "title": "Director",
-      "startDate": "2007-11-30",
+      "startDate": "2007",
       "endDate": null,
-      "formattedStartDate": "2007 November",
+      "formattedStartDate": "2007",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Amerigo Resources Ltd.",
+      "ticker": "ARG",
+      "exchange": "TSX",
+      "website": "amerigoresources.com",
+      "logoUrl": "/companies-assets/ARG.TSX.svg",
+      "title": "Director",
+      "startDate": "2004",
+      "endDate": null,
+      "formattedStartDate": "2004",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Western Silver Corporation",
+      "ticker": "WTZ",
+      "exchange": "AMEX",
+      "website": null,
+      "logoUrl": "/companies-assets/WTZ.AMEX.svg",
+      "title": "Director",
+      "startDate": "2004",
+      "endDate": "2006",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2006"
+    },
+    {
+      "name": "Silvercorp Metals Inc.",
+      "ticker": "SVM",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2008",
+      "endDate": "2023",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2023"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/robertgayton",
+      "person_name": "Robert Gayton",
+      "company_name": "B2Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"

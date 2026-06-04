@@ -5,21 +5,33 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "United Rentals, Inc.",
-      "ticker": "URI",
+      "name": "Aramark",
+      "ticker": "ARMK",
       "exchange": "NYSE",
-      "website": "https://www.unitedrentals.com",
-      "title": "Independent Director",
-      "startDate": "2018-05-01",
+      "website": "https://www.aramark.com",
+      "logoUrl": "/companies-assets/ARMK.NYSE.svg",
+      "title": "Chief Operating Officer, U.S. Food and Facilities",
+      "startDate": "1993",
       "endDate": null,
-      "formattedStartDate": "2018 May",
+      "formattedStartDate": "1993",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/marc-bruno-662533145",
+      "person_name": "Marc Bruno",
+      "company_name": "Aramark",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

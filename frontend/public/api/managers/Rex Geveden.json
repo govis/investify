@@ -9,10 +9,35 @@
       "ticker": "BWXT",
       "exchange": "NYSE",
       "website": "https://www.bwxt.com",
-      "title": "President and Chief Executive Officer",
-      "startDate": "2017-01-01",
+      "logoUrl": "/companies-assets/BWXT.NYSE.svg",
+      "title": "Chief Operating Officer",
+      "startDate": "2015-10-01",
+      "endDate": "2016-12-31",
+      "formattedStartDate": "October 2015",
+      "formattedEndDate": "December 2016"
+    },
+    {
+      "name": "TTM Technologies, Inc.",
+      "ticker": "TTMI",
+      "exchange": "NASDAQ",
+      "website": "https://www.ttm.com",
+      "logoUrl": "/companies-assets/TTMI.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2018-02-01",
       "endDate": null,
-      "formattedStartDate": "2017 January",
+      "formattedStartDate": "February 2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Teledyne Technologies Inc.",
+      "ticker": "TDY",
+      "exchange": "NYSE",
+      "website": "https://www.teledyne.com",
+      "logoUrl": "/companies-assets/TDY.NYSE.svg",
+      "title": "Executive Vice President",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +45,18 @@
     "Defense",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rex-geveden-4a5b2a12",
+      "person_name": "Rex Geveden",
+      "company_name": "BWX Technologies, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 62,
   "ageYear": 2024

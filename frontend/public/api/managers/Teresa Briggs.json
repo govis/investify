@@ -5,32 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "ServiceNow, Inc.",
-      "ticker": "NOW",
-      "exchange": "NYSE",
-      "website": "https://www.servicenow.com",
-      "title": "Independent Director",
-      "startDate": "2019-03-01",
+      "name": "DocuSign, Inc.",
+      "ticker": "DOCU",
+      "exchange": "NASDAQ",
+      "website": "https://www.docusign.com",
+      "logoUrl": "/companies-assets/DOCU.NASDAQ.svg",
+      "title": "Board of Directors",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2019 March",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
     },
     {
-      "name": "Snowflake Inc.",
-      "ticker": "SNOW",
+      "name": "Warby Parker Inc.",
+      "ticker": "WRBY",
       "exchange": "NYSE",
-      "website": "https://www.snowflake.com",
-      "title": "Independent Director",
-      "startDate": "2020-03-01",
+      "website": "https://www.warbyparker.com",
+      "logoUrl": "/companies-assets/WRBY.NYSE.svg",
+      "title": "Board of Directors",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2020 March",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/teresabriggs",
+      "person_name": "Teresa Briggs",
+      "company_name": "Deloitte",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

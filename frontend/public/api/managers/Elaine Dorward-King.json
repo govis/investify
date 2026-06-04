@@ -5,33 +5,70 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "NOVAGOLD RESOURCES INC.",
-      "ticker": "NG",
-      "exchange": "NYSE",
-      "website": "https://www.novagold.com",
-      "title": "Independent Director",
-      "startDate": "2020-01-01",
+      "name": "Kenmare Resources PLC",
+      "ticker": "KMR",
+      "exchange": "LSE",
+      "website": "https://www.kenmareresources.com/",
+      "logoUrl": "/companies-assets/KMR.LSE.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2019",
       "endDate": null,
-      "formattedStartDate": "2020 January",
+      "formattedStartDate": "2019",
       "formattedEndDate": ""
     },
     {
-      "name": "Sibanye Stillwater Limited",
-      "ticker": "SBSW",
-      "exchange": "NYSE",
-      "website": "https://www.sibanyestillwater.com",
-      "title": "Independent Non-Executive Director",
-      "startDate": "2020-03-27",
+      "name": "Great Lakes Dredge & Dock Corporation",
+      "ticker": "GLDD",
+      "exchange": "NASDAQ",
+      "website": "https://gldd.com/",
+      "logoUrl": "/companies-assets/GLDD.NASDAQ.svg",
+      "title": "Independent Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2020 March",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Nevada Copper Corp.",
+      "ticker": "NCU",
+      "exchange": "TSX",
+      "website": "https://www.nevadacopper.com/",
+      "logoUrl": "https://www.nevadacopper.com/site/assets/files/1/logo.png",
+      "title": "Independent Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Bond Resources Inc.",
+      "ticker": "BJB",
+      "exchange": "CSE",
+      "website": "https://bondresources.ca/",
+      "logoUrl": "/companies-assets/BJB.CSE.webp",
+      "title": "Independent Director",
+      "startDate": "2020",
+      "endDate": "2021",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2021"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/elaine-dorward-king",
+      "person_name": "Elaine Dorward-King",
+      "company_name": "NOVAGOLD RESOURCES INC.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Corporate Governance and Nominating Committee",
     "Health, Safety, Environment and Sustainability Committee",

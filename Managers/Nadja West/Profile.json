@@ -6,22 +6,57 @@
   "age_year": 2024,
   "background": "Retired Lieutenant General in the United States Army and 44th Surgeon General of the U.S. Army.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit",
-    "Governance and Nominating"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Nucor Corporation",
       "ticker": "NUE",
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
+      "website": "https://nucor.com",
       "start_date": "2019-12-01",
       "end_date": null
+    },
+    {
+      "name": "Johnson & Johnson",
+      "ticker": "JNJ",
+      "exchange": "NYSE",
+      "website": "https://www.jnj.com",
+      "title_or_role": "Director",
+      "start_date": "2020-12-03",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Tenet Healthcare Corporation",
+      "ticker": "THC",
+      "exchange": "NYSE",
+      "website": "https://www.tenethealth.com",
+      "title_or_role": "Director",
+      "start_date": "2019-08-19",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/nadja-west-2aa61690",
+      "person_name": "Nadja West",
+      "company_name": "Johnson & Johnson",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit",
+    "Governance and Nominating"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

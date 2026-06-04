@@ -9,10 +9,23 @@
       "ticker": "CAT",
       "exchange": "NYSE",
       "website": "https://www.caterpillar.com",
-      "title": "Independent Director",
-      "startDate": "2021-01-01",
+      "logoUrl": "/companies-assets/CAT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021-04-14",
       "endDate": null,
-      "formattedStartDate": "2021 January",
+      "formattedStartDate": "April 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Ecolab Inc.",
+      "ticker": "ECL",
+      "exchange": "NYSE",
+      "website": "https://www.ecolab.com",
+      "logoUrl": "/companies-assets/ECL.NYSE.svg",
+      "title": "Director (Lead Independent Director)",
+      "startDate": "2015-12-01",
+      "endDate": null,
+      "formattedStartDate": "December 2015",
       "formattedEndDate": ""
     }
   ],

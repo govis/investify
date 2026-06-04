@@ -9,17 +9,77 @@
       "ticker": "PDN",
       "exchange": "ASX",
       "website": "https://www.paladinenergy.com.au",
+      "logoUrl": "/companies-assets/PDN.ASX.svg",
       "title": "Non-Executive Director",
-      "startDate": "2021-12-15",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2021 December",
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Karoon Energy Ltd",
+      "ticker": "KAR",
+      "exchange": "ASX",
+      "website": "karoonenergy.com.au",
+      "logoUrl": "/companies-assets/KAR.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2024-04-19",
+      "endDate": null,
+      "formattedStartDate": "April 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Andromeda Metals Ltd",
+      "ticker": "ADN",
+      "exchange": "ASX",
+      "website": "https://www.andromet.com.au",
+      "logoUrl": "/companies-assets/ADN.ASX.webp",
+      "title": "Non-Executive Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Silex Systems Ltd",
+      "ticker": "SLX",
+      "exchange": "ASX",
+      "website": "silex.com.au",
+      "logoUrl": "/companies-assets/SLX.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "Unknown",
+      "endDate": "2023",
+      "formattedStartDate": "",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Argo Investments Ltd",
+      "ticker": "ARG",
+      "exchange": "ASX",
+      "website": "argoinvestments.com.au",
+      "logoUrl": "/companies-assets/ARG.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2021",
+      "endDate": "2024",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2024"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/melissaholzberger100423",
+      "person_name": "Melissa Holzberger",
+      "company_name": "Paladin Energy Ltd",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit and Risk Committee",
     "Remuneration and Nomination Committee"

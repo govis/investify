@@ -5,15 +5,64 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Fastly, Inc.",
-      "ticker": "FSLY",
+      "name": "American International Group, Inc.",
+      "ticker": "AIG",
       "exchange": "NYSE",
-      "website": "https://www.fastly.com",
+      "website": "https://aig.com",
+      "logoUrl": "/companies-assets/AIG.NYSE.png",
       "title": "Director",
-      "startDate": "2021-05-01",
+      "startDate": "2023-03-16",
       "endDate": null,
-      "formattedStartDate": "2021 May",
+      "formattedStartDate": "March 2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Booking Holdings, Inc.",
+      "ticker": "BKNG",
+      "exchange": "NASDAQ",
+      "website": "https://www.bookingholdings.com",
+      "logoUrl": "/companies-assets/BKNG.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2019-05-22",
+      "endDate": null,
+      "formattedStartDate": "May 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Oscar Health, Inc.",
+      "ticker": "OSCR",
+      "exchange": "NYSE",
+      "website": "www.hioscar.com",
+      "logoUrl": "/companies-assets/OSCR.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021-03-03",
+      "endDate": null,
+      "formattedStartDate": "March 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Marsh & McLennan Companies, Inc.",
+      "ticker": "MMC",
+      "exchange": "NYSE",
+      "website": "https://www.marshmclennan.com",
+      "logoUrl": "/companies-assets/MMC.NYSE.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2008",
+      "endDate": "2011",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2011"
+    },
+    {
+      "name": "Motorola Mobility Holdings, Inc.",
+      "ticker": "MMI",
+      "exchange": "NYSE",
+      "website": "marcusmillichap.com",
+      "logoUrl": "/companies-assets/MMI.NYSE.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2011",
+      "endDate": "2012",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2012"
     }
   ],
   "investmentTheses": [

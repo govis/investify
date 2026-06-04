@@ -5,15 +5,28 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Centerra Gold Inc.",
-      "ticker": "CGAU",
+      "name": "Stillwater Mining Company",
+      "ticker": "SWC",
       "exchange": "NYSE",
-      "website": "https://www.centerragold.com",
-      "title": "Chair of the Board",
-      "startDate": "2014-05-01",
-      "endDate": null,
-      "formattedStartDate": "2014 May",
-      "formattedEndDate": ""
+      "website": "https://www.sibanyestillwater.com/",
+      "logoUrl": "/companies-assets/SWC.NYSE.svg",
+      "title": "Director",
+      "startDate": "2009",
+      "endDate": "2017",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Pengrowth Energy Corporation",
+      "ticker": "PGF",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "https://www.logo.wine/a/logo/Pengrowth_Energy/Pengrowth_Energy-Logo.wine.svg",
+      "title": "Director",
+      "startDate": "2004",
+      "endDate": "2016",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2016"
     }
   ],
   "investmentTheses": [

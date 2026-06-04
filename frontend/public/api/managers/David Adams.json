@@ -9,10 +9,23 @@
       "ticker": "CW",
       "exchange": "NYSE",
       "website": "https://www.curtisswright.com",
-      "title": "Director",
-      "startDate": "2013-01-01",
+      "logoUrl": "/companies-assets/CW.NYSE.svg",
+      "title": "Executive Chairman (formerly Chairman and CEO)",
+      "startDate": "2005",
       "endDate": null,
-      "formattedStartDate": "2013 January",
+      "formattedStartDate": "2005",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Snap-on Incorporated",
+      "ticker": "SNA",
+      "exchange": "NYSE",
+      "website": "https://www.snapon.com",
+      "logoUrl": "/companies-assets/SNA.NYSE.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
     }
   ],

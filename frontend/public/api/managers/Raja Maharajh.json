@@ -9,17 +9,53 @@
       "ticker": "RTX",
       "exchange": "NYSE",
       "website": "https://www.rtx.com",
-      "title": "Chief Legal Officer",
-      "startDate": "2022-12-01",
+      "logoUrl": "/companies-assets/RTX.NYSE.svg",
+      "title": "General Counsel (Executive Vice President)",
+      "startDate": "December 2021",
       "endDate": null,
-      "formattedStartDate": "2022 December",
+      "formattedStartDate": "December 2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Raytheon Technologies (now RTX Corporation)",
+      "ticker": "RTX",
+      "exchange": "NYSE",
+      "website": "https://www.rtx.com",
+      "logoUrl": "/companies-assets/RTX.NYSE.svg",
+      "title": "Chief of Staff",
+      "startDate": "April 2020",
+      "endDate": "December 2021",
+      "formattedStartDate": "April 2020",
+      "formattedEndDate": "December 2021"
+    },
+    {
+      "name": "United Technologies Corporation (merged into RTX Corporation)",
+      "ticker": "N/A",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Various legal roles, including Vice President and Counsel for Pratt & Whitney Commercial Engines",
+      "startDate": "2004",
+      "endDate": "April 2020",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "April 2020"
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/raja-maharajh-4a5b2a12",
+      "person_name": "Raja Maharajh",
+      "company_name": "RTX",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 56,
   "ageYear": 2024

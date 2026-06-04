@@ -5,21 +5,33 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "ServiceNow, Inc.",
-      "ticker": "NOW",
+      "name": "Getty Images Holdings, Inc.",
+      "ticker": "GETY",
       "exchange": "NYSE",
-      "website": "https://www.servicenow.com",
-      "title": "Independent Director",
-      "startDate": "2013-06-01",
-      "endDate": null,
-      "formattedStartDate": "2013 June",
-      "formattedEndDate": ""
+      "website": "https://www.gettyimages.com",
+      "logoUrl": "/companies-assets/GETY.NYSE.svg",
+      "title": "Chief Executive Officer",
+      "startDate": "1995",
+      "endDate": "2015",
+      "formattedStartDate": "1995",
+      "formattedEndDate": "2015"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jonathan-klein-752a3516",
+      "person_name": "Jonathan Klein",
+      "company_name": "Getty Images",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Leadership Development and Compensation Committee"
   ],

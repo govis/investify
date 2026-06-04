@@ -5,22 +5,130 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "General Electric Company",
-      "ticker": "GE",
+      "name": "Fortune Brands Innovations, Inc.",
+      "ticker": "FBIN",
       "exchange": "NYSE",
-      "website": "https://www.geaerospace.com",
-      "title": "Independent Director",
-      "startDate": "2017-10-01",
+      "website": "fbin.com",
+      "logoUrl": "/companies-assets/FBIN.NYSE.svg",
+      "title": "Director",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2017 October",
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
+    },
+    {
+      "name": "The Middleby Corporation",
+      "ticker": "MIDD",
+      "exchange": "NASDAQ",
+      "website": "middleby.com",
+      "logoUrl": "/companies-assets/MIDD.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "ticker": "BK",
+      "exchange": "NYSE",
+      "website": "bnymellon.com",
+      "logoUrl": "/companies-assets/BK.NYSE.png",
+      "title": "Director",
+      "startDate": "2014",
+      "endDate": "2020",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Family Dollar Stores, Inc.",
+      "ticker": "FDO",
+      "exchange": "NYSE",
+      "website": "familydollar.com",
+      "logoUrl": "/companies-assets/FDO.NYSE.png",
+      "title": "Director",
+      "startDate": "2011",
+      "endDate": "2015",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Invesco Ltd.",
+      "ticker": "IVZ",
+      "exchange": "NYSE",
+      "website": "https://www.invesco.com",
+      "logoUrl": "/companies-assets/IVZ.NYSE.svg",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": "2022",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Janus Henderson Group plc",
+      "ticker": "JHG",
+      "exchange": "NYSE",
+      "website": "janushenderson.com",
+      "logoUrl": "/companies-assets/JHG.NYSE.webp",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": "2020",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Legg Mason, Inc.",
+      "ticker": "LM",
+      "exchange": "NYSE",
+      "website": "leggmason.com",
+      "logoUrl": "/companies-assets/LM.NYSE.png",
+      "title": "Director",
+      "startDate": "2009",
+      "endDate": "2014",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2014"
+    },
+    {
+      "name": "Pentair plc",
+      "ticker": "PNR",
+      "exchange": "NYSE",
+      "website": "pentair.com",
+      "logoUrl": "/companies-assets/PNR.NYSE.svg",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": "2022",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "The Wendy’s Company",
+      "ticker": "WEN",
+      "exchange": "NASDAQ",
+      "website": "wendys.com",
+      "logoUrl": "/companies-assets/WEN.NASDAQ.svg",
+      "title": "Executive Vice President",
+      "startDate": "2003",
+      "endDate": "2004",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2004"
     }
   ],
   "investmentTheses": [
     "Defense",
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/edward-garden-4a5b2a1",
+      "person_name": "Edward Garden",
+      "company_name": "Trian Fund Management, L.P.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Finance and Capital Allocation Committee",
     "Management Development and Compensation Committee"

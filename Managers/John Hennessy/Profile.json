@@ -6,6 +6,49 @@
   "age_year": 2024,
   "background": "John L. Hennessy has served as the Chair of the Board of Alphabet since 2018 and as a director since 2004. He was the President of Stanford University from 2000 to 2016.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Alphabet Inc.",
+      "ticker": "GOOGL",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chairman of the Board",
+      "website": "https://abc.xyz",
+      "start_date": "2004",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "website": "https://www.cisco.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2002",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Atheros Communications, Inc.",
+      "ticker": "ATHR",
+      "exchange": "NASDAQ",
+      "website": "https://www.qualcomm.com",
+      "title_or_role": "Co-founder and Member of the Board of Directors",
+      "start_date": "1998",
+      "end_date": "2011",
+      "validated": true
+    },
+    {
+      "name": "MIPS Computer Systems, Inc.",
+      "ticker": "MIPS",
+      "exchange": "NASDAQ",
+      "website": "https://www.mips.com",
+      "title_or_role": "Co-founder",
+      "start_date": "1984",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI",
     "Defense"
@@ -14,14 +57,6 @@
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Alphabet Inc.",
-      "ticker": "GOOGL",
-      "exchange": "NASDAQ",
-      "title_or_role": "Chair of the Board, Director",
-      "start_date": "2018-02-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

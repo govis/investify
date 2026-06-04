@@ -9,17 +9,89 @@
       "ticker": "TXN",
       "exchange": "NASDAQ",
       "website": "https://www.ti.com",
-      "title": "Independent Director",
-      "startDate": "2015-01-01",
+      "logoUrl": "/companies-assets/TXN.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "July 15, 2015",
       "endDate": null,
-      "formattedStartDate": "2015 January",
+      "formattedStartDate": "July 15, 2015",
       "formattedEndDate": ""
+    },
+    {
+      "name": "EOG Resources, Inc.",
+      "ticker": "EOG",
+      "exchange": "NYSE",
+      "website": "https://www.eogresources.com",
+      "logoUrl": "/companies-assets/EOG.NYSE.svg",
+      "title": "Director",
+      "startDate": "January 1, 2014",
+      "endDate": null,
+      "formattedStartDate": "January 1, 2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Marathon Oil Corporation",
+      "ticker": "MRO",
+      "exchange": "NYSE",
+      "website": "https://www.marathonoil.com",
+      "logoUrl": "/companies-assets/MRO.NYSE.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "January 5, 2004",
+      "endDate": "October 1, 2013",
+      "formattedStartDate": "January 5, 2004",
+      "formattedEndDate": "October 1, 2013"
+    },
+    {
+      "name": "Exterran Holdings, Inc.",
+      "ticker": "EXH",
+      "exchange": "NYSE",
+      "website": "https://www.exterran.com",
+      "logoUrl": "/companies-assets/EXH.NYSE.png",
+      "title": "Director",
+      "startDate": "2003",
+      "endDate": "2015",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Goldman Sachs BDC, Inc.",
+      "ticker": "GSBD",
+      "exchange": "NYSE",
+      "website": "https://www.goldmansachsbdc.com",
+      "logoUrl": "/companies-assets/GSBD.NYSE.svg",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": "2021",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Dell Technologies Inc.",
+      "ticker": "DELL",
+      "exchange": "NYSE",
+      "website": "https://www.dell.com",
+      "logoUrl": "/companies-assets/DELL.NYSE.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": "2016",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2016"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/janet-clark",
+      "person_name": "Janet Clark",
+      "company_name": "Texas Instruments Incorporated",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Governance and Stockholder Relations Committee"

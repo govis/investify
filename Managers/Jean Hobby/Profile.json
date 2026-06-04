@@ -6,22 +6,48 @@
   "age_year": 2024,
   "background": "Former Strategy Officer at PricewaterhouseCoopers, LLP.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Governance and Stockholder Relations Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Texas Instruments Incorporated",
       "ticker": "TXN",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2017-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "www.ti.com",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hewlett Packard Enterprise",
+      "ticker": "HPE",
+      "exchange": "NYSE",
+      "website": "www.hpe.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jean-hobby-693b3416",
+      "person_name": "Jean Hobby",
+      "company_name": "Texas Instruments Incorporated",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Governance and Stockholder Relations Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

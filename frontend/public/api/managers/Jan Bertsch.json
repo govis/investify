@@ -9,18 +9,66 @@
       "ticker": "BWXT",
       "exchange": "NYSE",
       "website": "https://www.bwxt.com",
-      "title": "Independent Director",
-      "startDate": "2013-01-01",
+      "logoUrl": "/companies-assets/BWXT.NYSE.svg",
+      "title": "Director (since 2013), Independent Chair of the Board (since 2022)",
+      "startDate": "2013",
       "endDate": null,
-      "formattedStartDate": "2013 January",
+      "formattedStartDate": "2013",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Regal Rexnord Corporation",
+      "ticker": "RRX",
+      "exchange": "NYSE",
+      "website": "https://www.regalrexnord.com",
+      "logoUrl": "/companies-assets/RRX.NYSE.svg",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Axalta Coating Systems, Inc.",
+      "ticker": "AXTA",
+      "exchange": "NYSE",
+      "website": "https://www.axalta.com",
+      "logoUrl": "/companies-assets/AXTA.NYSE.svg",
+      "title": "Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Meritor, Inc.",
+      "ticker": "MTOR",
+      "exchange": "NYSE",
+      "website": "https://www.meritor.com",
+      "logoUrl": "/companies-assets/MTOR.NYSE.png",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": "2022",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2022"
     }
   ],
   "investmentTheses": [
     "Defense",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jan-bertsch-172b9733",
+      "person_name": "Jan Bertsch",
+      "company_name": "BWX Technologies, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Governance Committee"

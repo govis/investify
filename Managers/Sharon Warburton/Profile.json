@@ -6,22 +6,108 @@
   "age_year": 2024,
   "background": "Ms Warburton is a Chartered Accountant with over 25 years\u2019 experience in the resources and infrastructure sectors. She is a Director of Wesfarmers, Worley, and Blackmores.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit and Risk Committee",
-    "Remuneration Committee (Chair)"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Northern Star Resources Limited",
       "ticker": "NST",
       "exchange": "ASX",
       "title_or_role": "Non-Executive Director",
-      "start_date": "2021-09-01",
-      "end_date": null
+      "website": "nstmining.com.au",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Wesfarmers Limited",
+      "ticker": "WES",
+      "exchange": "ASX",
+      "website": "wesfarmers.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "South32 Limited",
+      "ticker": "S32",
+      "exchange": "ASX",
+      "website": "south32.net",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Worley Limited",
+      "ticker": "WOR",
+      "exchange": "ASX",
+      "website": "worley.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2019",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Blackmores Limited",
+      "ticker": "BKL",
+      "exchange": "ASX",
+      "website": "blackmores.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2013",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Gold Road Resources Limited",
+      "ticker": "GOR",
+      "exchange": "ASX",
+      "website": "goldroad.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2016",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Fortescue Metals Group",
+      "ticker": "FMG",
+      "exchange": "ASX",
+      "website": "fortescue.com",
+      "title_or_role": "Non-Executive Director / Co-Deputy Chairman",
+      "start_date": "2013",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "NEXTDC Limited",
+      "ticker": "NXT",
+      "exchange": "ASX",
+      "website": "nextdc.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2013",
+      "end_date": "2017",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/sharon-warburton-43576b23",
+      "person_name": "Sharon Warburton",
+      "company_name": "Northern Star Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration Committee (Chair)"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -9,11 +9,48 @@
       "ticker": "SCCO",
       "exchange": "NYSE",
       "website": "https://www.southerncoppercorp.com",
-      "title": "Independent Director",
-      "startDate": "2004-01-01",
+      "logoUrl": "/companies-assets/SCCO.NYSE.svg",
+      "title": "Director",
+      "startDate": "2017",
       "endDate": null,
-      "formattedStartDate": "2004 January",
+      "formattedStartDate": "2017",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Byline Bancorp, Inc.",
+      "ticker": "BY",
+      "exchange": "NYSE",
+      "website": "bylinebancorp.com",
+      "logoUrl": "/companies-assets/BY.NYSE.svg",
+      "title": "Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sempra",
+      "ticker": "SRE",
+      "exchange": "NYSE",
+      "website": "https://www.sempra.com",
+      "logoUrl": "/companies-assets/SRE.NYSE.svg",
+      "title": "Director",
+      "startDate": "2007",
+      "endDate": "2012",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "IEnova (Infraestructura Energética Nova)",
+      "ticker": "IENOVA",
+      "exchange": "BMV",
+      "website": "ienova.com.mx",
+      "logoUrl": "/companies-assets/IENOVA.BMV.png",
+      "title": "Chairman & CEO",
+      "startDate": "2012",
+      "endDate": "2021",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2021"
     }
   ],
   "investmentTheses": [

@@ -3,23 +3,22 @@
   "name": "Roland Lesch",
   "background": "Managing Director of BlackRock, Inc. since 2011. Head of BlackRock’s Global Product Group for the Americas since 2019. Head of BlackRock’s Global Product Group for EMEA from 2011 to 2019.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "iShares Gold Trust",
-      "ticker": "IAU",
-      "exchange": "NYSE",
-      "website": "https://www.ishares.com/us/products/239561/ishares-gold-trust-fund",
-      "title": "Chief Financial Officer of the Sponsor, Director",
-      "startDate": "2019-03-01",
-      "endDate": null,
-      "formattedStartDate": "2019 March",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/roland-lesch-4a5b2a12",
+      "person_name": "Roland Lesch",
+      "company_name": "BlackRock",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 51,
   "ageYear": 2024

@@ -7,19 +7,31 @@
     {
       "name": "Endeavour Mining plc",
       "ticker": "EDV",
-      "exchange": "LSE",
-      "website": "https://www.endeavourmining.com",
-      "title": "Executive Vice President, Public Affairs, CSR and Security",
-      "startDate": "2012-01-01",
+      "exchange": "LSE / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Vice President, Public Affairs",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2012 January",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ci.linkedin.com/in/pascalbernasconi",
+      "person_name": "Pascal Bernasconi",
+      "company_name": "Endeavour Mining plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 55,
   "ageYear": 2024

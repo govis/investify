@@ -9,17 +9,41 @@
       "ticker": "AVGO",
       "exchange": "NASDAQ",
       "website": "https://www.broadcom.com",
-      "title": "Chairman of the Board",
-      "startDate": "2018-01-01",
+      "logoUrl": "/companies-assets/AVGO.NASDAQ.svg",
+      "title": "Chairman of the Board / Co-Founder",
+      "startDate": "2016",
       "endDate": null,
-      "formattedStartDate": "2018 January",
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Broadcom Corporation (Predecessor)",
+      "ticker": "BRCM",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Co-Founder, Chief Technical Officer, Chairman of the Board",
+      "startDate": "1991",
+      "endDate": "2016",
+      "formattedStartDate": "1991",
+      "formattedEndDate": "2016"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/henry-samueli-4a5a5a1",
+      "person_name": "Henry Samueli",
+      "company_name": "Broadcom Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 69,
   "ageYear": 2024

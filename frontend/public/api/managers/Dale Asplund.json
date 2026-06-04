@@ -9,17 +9,41 @@
       "ticker": "URI",
       "exchange": "NYSE",
       "website": "https://www.unitedrentals.com",
+      "logoUrl": "/companies-assets/URI.NYSE.svg",
       "title": "Executive Vice President and Chief Operating Officer",
-      "startDate": "2019-05-01",
+      "startDate": "2012",
+      "endDate": "September 29, 2023",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "September 29, 2023"
+    },
+    {
+      "name": "BrightView Holdings, Inc.",
+      "ticker": "BV",
+      "exchange": "NYSE",
+      "website": "https://www.brightview.com",
+      "logoUrl": "/companies-assets/BV.NYSE.svg",
+      "title": "President, Chief Executive Officer, and Director",
+      "startDate": "October 1, 2023",
       "endDate": null,
-      "formattedStartDate": "2019 May",
+      "formattedStartDate": "October 1, 2023",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dale-asplund-894b2b3",
+      "person_name": "Dale Asplund",
+      "company_name": "United Rentals, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 56,
   "ageYear": 2024

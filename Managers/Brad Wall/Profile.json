@@ -6,21 +6,47 @@
   "age_year": 2024,
   "background": "Mr. Wall served as the 14th Premier of Saskatchewan from 2007 to 2018. He has extensive experience in economic development and the energy sector.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Sustainability Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "NexGen Energy Ltd.",
       "ticker": "NXE",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2019-01-01",
-      "end_date": null
+      "exchange": "TSX, NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.nexgenenergy.ca/",
+      "start_date": "March 21, 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ag Growth International Inc.",
+      "ticker": "AFN",
+      "exchange": "TSX",
+      "website": "https://www.aggrowth.com/",
+      "title_or_role": "Director",
+      "start_date": "February 3, 2026",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/brad-wall-3772414",
+      "person_name": "Brad Wall",
+      "company_name": "NexGen Energy Ltd., Ag Growth International Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Sustainability Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

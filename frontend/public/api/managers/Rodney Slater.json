@@ -9,11 +9,36 @@
       "ticker": "EVGO",
       "exchange": "NASDAQ",
       "website": "https://www.evgo.com",
+      "logoUrl": "/companies-assets/EVGO.NASDAQ.svg",
       "title": "Director",
-      "startDate": "2021-07-01",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2021 July",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Stagwell Inc.",
+      "ticker": "STGW",
+      "exchange": "NASDAQ",
+      "website": "https://www.stagwellglobal.com/",
+      "logoUrl": "/companies-assets/STGW.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "MDC Partners Inc.",
+      "ticker": "MDCA",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "/companies-assets/MDCA.NASDAQ.png",
+      "title": "Director",
+      "startDate": "2011",
+      "endDate": "2021",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2021"
     }
   ],
   "investmentTheses": [

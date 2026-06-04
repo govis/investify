@@ -9,17 +9,29 @@
       "ticker": "BMN",
       "exchange": "ASX",
       "website": "https://bannermanenergy.com",
+      "logoUrl": "/companies-assets/BMN.ASX.png",
       "title": "Chief Operating Officer",
-      "startDate": "2023-01-01",
-      "endDate": null,
-      "formattedStartDate": "2023 January",
-      "formattedEndDate": ""
+      "startDate": "February 2023",
+      "endDate": "March 2024",
+      "formattedStartDate": "February 2023",
+      "formattedEndDate": "March 2024"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://za.linkedin.com/in/gavin-chamberlain-71a58b6",
+      "person_name": "Gavin Chamberlain",
+      "company_name": "Bannerman Energy Ltd",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 58,
   "ageYear": 2024

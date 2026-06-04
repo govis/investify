@@ -9,11 +9,60 @@
       "ticker": "RGLD",
       "exchange": "NASDAQ",
       "website": "https://www.royalgold.com",
-      "title": "Chief Financial Officer and Treasurer",
-      "startDate": "2020-01-02",
+      "logoUrl": "/companies-assets/RGLD.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2014",
       "endDate": null,
-      "formattedStartDate": "2020 January",
+      "formattedStartDate": "2014",
       "formattedEndDate": ""
+    },
+    {
+      "name": "First Quantum Minerals Ltd.",
+      "ticker": "FM",
+      "exchange": "TSX",
+      "website": "https://first-quantum.com",
+      "logoUrl": "/companies-assets/FM.TSX.svg",
+      "title": "Board Chair, Independent Director",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Tahoe Resources Inc.",
+      "ticker": "THO",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Founder, President, and CEO",
+      "startDate": "2010",
+      "endDate": "2015",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Goldcorp Inc.",
+      "ticker": "G",
+      "exchange": "TSX",
+      "website": "https://www.newmont.com",
+      "logoUrl": "/companies-assets/G.TSX.svg",
+      "title": "President and CEO",
+      "startDate": "2006",
+      "endDate": "2008",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2008"
+    },
+    {
+      "name": "Glamis Gold Ltd.",
+      "ticker": "GLG",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Glamis_Gold_logo.svg/1200px-Glamis_Gold_logo.svg.png",
+      "title": "President and CEO",
+      "startDate": "1999",
+      "endDate": "2006",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2006"
     }
   ],
   "investmentTheses": [

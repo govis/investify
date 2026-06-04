@@ -2,24 +2,84 @@
   "id": "Ross McElroy",
   "name": "Ross McElroy",
   "background": "Mr. McElroy is a professional geologist with over 35 years of experience in the mining industry. He has been instrumental in several major uranium discoveries, including the Triple R deposit. He previously held positions with Cameco Corp., Areva, and BHP Billiton.",
-  "pictureUrl": null,
+  "pictureUrl": "/managers-assets/Ross McElroy.jpg",
   "companies": [
     {
       "name": "Fission Uranium Corp.",
       "ticker": "FCU",
       "exchange": "TSX",
       "website": "https://fissionuranium.com",
-      "title": "Chief Executive Officer, Director, President",
-      "startDate": "2013-02-13",
+      "logoUrl": "/companies-assets/FCU.TSX.svg",
+      "title": "President, CEO, and Director",
+      "startDate": "2013",
+      "endDate": "2025",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "Apollo Silver Corp.",
+      "ticker": "APGO",
+      "exchange": "TSXV",
+      "website": "https://apollosilver.com/",
+      "logoUrl": "/companies-assets/APGO.TSXV.svg",
+      "title": "President and CEO",
+      "startDate": "2025",
       "endDate": null,
-      "formattedStartDate": "2013 February",
+      "formattedStartDate": "2025",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Anfield Energy Inc.",
+      "ticker": "AEC",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Homeland Uranium Corp.",
+      "ticker": "HUC",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2025",
+      "endDate": "2025-10-15",
+      "formattedStartDate": "2025",
+      "formattedEndDate": "October 2025"
+    },
+    {
+      "name": "Fission Energy Corp.",
+      "ticker": "FIS",
+      "exchange": "TSXV",
+      "website": "https://www.fissionuranium.com/",
+      "logoUrl": "/companies-assets/FIS.TSXV.svg",
+      "title": "President, COO, and Director",
+      "startDate": "2007",
+      "endDate": "2013",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2013"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ross-mcelroy-5a550835/",
+      "person_name": "Ross McElroy",
+      "company_name": "Fission Uranium Corp.",
+      "profile_status": "not_found",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": "https://media.licdn.com/dms/image/v2/C4D03AQH7K_e-O_5Rvw/profile-displayphoto-shrink_800_800/0/1516279612046?e=1744243200&v=beta&t=4G099R-XkI_D6G97t2e6Kk5f4p_Ym2o-Lz9C4Bf4W68"
+    }
+  ],
   "committees": [],
   "age": 58,
   "ageYear": 2024

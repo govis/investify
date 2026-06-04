@@ -6,31 +6,58 @@
   "age_year": 2024,
   "background": "Tertius Zongo served as the Prime Minister of Burkina Faso from 2007 to 2011 and has held various senior government and international roles.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "ESG Committee (Chair)",
-    "Nomination and Governance Committee",
-    "Technical, Health & Safety Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Endeavour Mining plc",
       "ticker": "EDV",
-      "exchange": "LSE",
-      "title_or_role": "Independent Non-Executive Director",
-      "start_date": "2021-02-10",
-      "end_date": null
+      "exchange": "LSE / TSX",
+      "title_or_role": "Director",
+      "website": "www.endeavourmining.com",
+      "start_date": "July 1, 2020",
+      "end_date": "2022",
+      "validated": true
     },
     {
       "name": "Endeavour Mining plc",
       "ticker": "EDV",
       "exchange": "TSX",
       "title_or_role": "Independent Non-Executive Director",
+      "website": "https://www.endeavourmining.com",
       "start_date": "2016-10-11",
       "end_date": null
+    },
+    {
+      "name": "SEMAFO Inc.",
+      "ticker": "SMF",
+      "exchange": "TSX",
+      "website": "www.semafo.com",
+      "title_or_role": "Director",
+      "start_date": "May 2012",
+      "end_date": "July 1, 2020",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://be.linkedin.com/in/tertius-zongo-b18a3311b",
+      "person_name": "Tertius Zongo",
+      "company_name": "Endeavour Mining plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "ESG Committee (Chair)",
+    "Nomination and Governance Committee",
+    "Technical, Health & Safety Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

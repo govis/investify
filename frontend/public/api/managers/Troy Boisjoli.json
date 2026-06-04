@@ -7,19 +7,43 @@
     {
       "name": "Atha Energy Corp.",
       "ticker": "SASK",
-      "exchange": "TSX",
-      "website": "https://www.athaenergy.com",
-      "title": "Chief Executive Officer, Director",
-      "startDate": "2023-03-24",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Executive Officer",
+      "startDate": "May 2024",
       "endDate": null,
-      "formattedStartDate": "2023 March",
+      "formattedStartDate": "May 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Murchison Minerals Ltd.",
+      "ticker": "MUR",
+      "exchange": "TSXV",
+      "website": "https://murchisonminerals.ca/",
+      "logoUrl": "/companies-assets/MUR.TSXV.png",
+      "title": "President and CEO",
+      "startDate": "October 2021",
+      "endDate": null,
+      "formattedStartDate": "October 2021",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/troy-boisjoli-2a719a31",
+      "person_name": "Troy Boisjoli",
+      "company_name": "Atha Energy Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 44,
   "ageYear": 2024

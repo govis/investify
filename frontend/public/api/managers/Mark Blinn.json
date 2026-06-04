@@ -9,17 +9,89 @@
       "ticker": "TXN",
       "exchange": "NASDAQ",
       "website": "https://www.ti.com",
-      "title": "Independent Director",
-      "startDate": "2017-01-01",
+      "logoUrl": "/companies-assets/TXN.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2018",
       "endDate": null,
-      "formattedStartDate": "2017 January",
+      "formattedStartDate": "2018",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Flowserve Corporation",
+      "ticker": "FLS",
+      "exchange": "NYSE",
+      "website": "https://www.flowserve.com",
+      "logoUrl": "/companies-assets/FLS.NYSE.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2004-10",
+      "endDate": "2009-10",
+      "formattedStartDate": "October 2004",
+      "formattedEndDate": "October 2009"
+    },
+    {
+      "name": "Emerson Electric Co.",
+      "ticker": "EMR",
+      "exchange": "NYSE",
+      "website": "https://www.emerson.com",
+      "logoUrl": "/companies-assets/EMR.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "2019-11-05",
+      "endDate": "2023",
+      "formattedStartDate": "November 2019",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Globe Life Inc.",
+      "ticker": "GL",
+      "exchange": "NYSE",
+      "website": "https://www.globelifeinsurance.com",
+      "logoUrl": "/companies-assets/GL.NYSE.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Leggett & Platt, Incorporated",
+      "ticker": "LEG",
+      "exchange": "NYSE",
+      "website": "https://www.leggett.com",
+      "logoUrl": "/companies-assets/LEG.NYSE.svg",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Kraton Corporation",
+      "ticker": "KRA",
+      "exchange": "NYSE",
+      "website": "https://www.kraton.com",
+      "logoUrl": "/companies-assets/KRA.NYSE.png",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": "2022",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2022"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/markblinn",
+      "person_name": "Mark Blinn",
+      "company_name": "Flowserve Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Governance and Stockholder Relations Committee"

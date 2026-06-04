@@ -9,17 +9,89 @@
       "ticker": "CAT",
       "exchange": "NYSE",
       "website": "https://www.caterpillar.com",
-      "title": "Independent Director",
-      "startDate": "2011-01-01",
+      "logoUrl": "/companies-assets/CAT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2011",
       "endDate": null,
-      "formattedStartDate": "2011 January",
+      "formattedStartDate": "2011",
       "formattedEndDate": ""
+    },
+    {
+      "name": "The Boeing Company",
+      "ticker": "BA",
+      "exchange": "NYSE",
+      "website": "https://www.boeing.com",
+      "logoUrl": "/companies-assets/BA.NYSE.svg",
+      "title": "Board Member, Chairman, President & CEO",
+      "startDate": "2009",
+      "endDate": "2024",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Nielsen Holdings plc",
+      "ticker": "NLSN",
+      "exchange": "NYSE",
+      "website": "www.nielsen.com",
+      "logoUrl": "/companies-assets/NLSN.NYSE.svg",
+      "title": "CEO, Executive Chairman",
+      "startDate": "2006",
+      "endDate": "2016",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "General Electric Company",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "website": "https://www.geaerospace.com",
+      "logoUrl": "/companies-assets/GE.NYSE.svg",
+      "title": "Vice Chairman; President & CEO of GE Infrastructure",
+      "startDate": "1979",
+      "endDate": "2006",
+      "formattedStartDate": "1979",
+      "formattedEndDate": "2006"
+    },
+    {
+      "name": "The Blackstone Group Inc.",
+      "ticker": "BX",
+      "exchange": "NYSE",
+      "website": "https://www.blackstone.com/",
+      "logoUrl": "/companies-assets/BX.NYSE.svg",
+      "title": "Senior Managing Director and Head of Portfolio Operations",
+      "startDate": "2014",
+      "endDate": "2020",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Gates Industrial Corporation plc",
+      "ticker": "GTES",
+      "exchange": "NYSE",
+      "website": "https://www.gates.com",
+      "logoUrl": "/companies-assets/GTES.NYSE.svg",
+      "title": "Chairman of the Board",
+      "startDate": "2018",
+      "endDate": "2020",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2020"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/davidcalhoun",
+      "person_name": "David Calhoun",
+      "company_name": "The Boeing Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation and Human Capital Committee",
     "Governance and Nominating Committee"

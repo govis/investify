@@ -6,22 +6,58 @@
   "age_year": 2023,
   "background": "Mr. Nearhos was a partner at PricewaterhouseCoopers LLP for over 25 years. He has extensive experience in accounting, auditing, and financial reporting.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Nominating and Governance Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Mercury Systems, Inc.",
       "ticker": "MRCY",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2018-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://www.mrcy.com",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Virtusa Corporation",
+      "ticker": "VRTU",
+      "exchange": "NASDAQ",
+      "website": "https://www.virtusa.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Eastern Bankshares, Inc.",
+      "ticker": "EBC",
+      "exchange": "NASDAQ",
+      "website": "https://www.easternbank.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": "2020",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/barrynearhos",
+      "person_name": "Barry Nearhos",
+      "company_name": "Mercury Systems, Inc., Virtusa Corporation, Eastern Bankshares, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -9,17 +9,53 @@
       "ticker": "VST",
       "exchange": "NYSE",
       "website": "https://www.vistracorp.com",
-      "title": "Independent Director",
-      "startDate": "2023-02-01",
+      "logoUrl": "/companies-assets/VST.NYSE.svg",
+      "title": "Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2023 February",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Fulton Financial Corporation",
+      "ticker": "FULT",
+      "exchange": "NASDAQ",
+      "website": "https://www.fultonbank.com",
+      "logoUrl": "/companies-assets/FULT.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Buckeye Partners, L.P.",
+      "ticker": "BPL",
+      "exchange": "NYSE",
+      "website": "https://www.buckeye.com",
+      "logoUrl": "/companies-assets/BPL.NYSE.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": "2019",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2019"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/lisa-crutchfield-8233996",
+      "person_name": "Lisa Crutchfield",
+      "company_name": "Hudson Strategic Advisers, LLC",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Sustainability and Relevant Public Policy Committee"

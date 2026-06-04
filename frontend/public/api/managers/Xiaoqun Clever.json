@@ -7,31 +7,92 @@
     {
       "name": "BHP Group Limited",
       "ticker": "BHP",
-      "exchange": "ASX",
-      "website": "https://www.bhp.com",
+      "exchange": "ASX / NYSE",
+      "website": null,
+      "logoUrl": null,
       "title": "Non-executive Director",
-      "startDate": "2020-10-01",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2020 October",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
     },
     {
-      "name": "BHP Group Limited",
-      "ticker": "BHP",
-      "exchange": "NYSE",
-      "website": "https://www.bhp.com",
-      "title": "Independent Non-executive Director",
-      "startDate": "2020-10-01",
+      "name": "Amadeus IT Group",
+      "ticker": "AMS",
+      "exchange": "BME (Madrid)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Director",
+      "startDate": "2018",
       "endDate": null,
-      "formattedStartDate": "2020 October",
+      "formattedStartDate": "2018",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Infineon Technologies AG",
+      "ticker": "IFX",
+      "exchange": "XETRA (Frankfurt)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Member of the Supervisory Board",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Straumann Holding AG",
+      "ticker": "STMN",
+      "exchange": "SIX (Swiss)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-executive Director",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Capgemini SE",
+      "ticker": "CAP",
+      "exchange": "Euronext Paris",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "SAP SE",
+      "ticker": "SAP",
+      "exchange": "NYSE / XETRA",
+      "website": null,
+      "logoUrl": null,
+      "title": "EVP, President of Labs China; COO of Tech & Innovation",
+      "startDate": "1997",
+      "endDate": "2013",
+      "formattedStartDate": "1997",
+      "formattedEndDate": "2013"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ch.linkedin.com/in/xiaoqunclever",
+      "person_name": "Xiaoqun Clever",
+      "company_name": "BHP Group Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Remuneration Committee",
     "Risk and Audit Committee",

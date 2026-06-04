@@ -2,18 +2,43 @@
   "id": "Johny Srouji",
   "name": "Johny Srouji",
   "background": "Johny Srouji is Apple’s senior vice president of Hardware Technologies, reporting to CEO Tim Cook. Johny built one of the world’s strongest and most innovative teams of silicon and technology engineers, overseeing breakthrough custom silicon and hardware technologies.",
-  "pictureUrl": "https://static.digit.in/Johny-Srouji.png",
+  "pictureUrl": "/managers-assets/Johny Srouji.jpg",
   "companies": [
     {
       "name": "Apple Inc.",
       "ticker": "AAPL",
       "exchange": "NASDAQ",
       "website": "https://www.apple.com",
-      "title": "Senior Vice President, Hardware Technologies",
-      "startDate": "2015-12-17",
+      "logoUrl": "/companies-assets/AAPL.NASDAQ.svg",
+      "title": "Chief Hardware Officer (formerly SVP, Hardware Technologies)",
+      "startDate": "2008",
       "endDate": null,
-      "formattedStartDate": "2015 December",
+      "formattedStartDate": "2008",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "logoUrl": "/companies-assets/INTC.NASDAQ.svg",
+      "title": "Senior positions (Processor development and design)",
+      "startDate": "1993",
+      "endDate": "2005",
+      "formattedStartDate": "1993",
+      "formattedEndDate": "2005"
+    },
+    {
+      "name": "International Business Machines Corporation (IBM)",
+      "ticker": "IBM",
+      "exchange": "NYSE",
+      "website": "https://www.ibm.com",
+      "logoUrl": "/companies-assets/IBM.NYSE.svg",
+      "title": "Research Engineer / Senior positions",
+      "startDate": "1990",
+      "endDate": "1993",
+      "formattedStartDate": "1990",
+      "formattedEndDate": "1993"
     }
   ],
   "investmentTheses": [
@@ -22,7 +47,13 @@
   "socials": [
     {
       "name": "LinkedIn",
-      "url": "https://www.linkedin.com/in/johny-srouji-1b7a944"
+      "url": "https://www.linkedin.com/in/johny-srouji-1b7a944",
+      "person_name": "Johny Srouji",
+      "company_name": "Apple",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
   ],
   "committees": [],

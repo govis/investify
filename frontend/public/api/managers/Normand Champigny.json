@@ -7,19 +7,67 @@
     {
       "name": "G Mining Ventures Corp.",
       "ticker": "GMIN",
-      "exchange": "TSX",
-      "website": "https://www.gminingventures.com",
-      "title": "Independent Director",
-      "startDate": "2020-11-25",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2020 November",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Québec Precious Metals Corporation",
+      "ticker": "QPM",
+      "exchange": "TSXV",
+      "website": "qpmcorp.ca",
+      "logoUrl": "/companies-assets/QPM.TSXV.svg",
+      "title": "CEO and Director",
+      "startDate": "2018",
+      "endDate": "2022",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Sphinx Resources Ltd.",
+      "ticker": "SFX",
+      "exchange": "TSXV",
+      "website": "https://sphinxresources.ca",
+      "logoUrl": "/companies-assets/SFX.TSXV.png",
+      "title": "President and CEO",
+      "startDate": "2012",
+      "endDate": "2018",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Bonterra Resources Inc.",
+      "ticker": "BTR",
+      "exchange": "TSXV",
+      "website": "https://btrgold.com",
+      "logoUrl": "/companies-assets/BTR.TSXV.png",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": "2020",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2020"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/normandchampigny",
+      "person_name": "Normand Champigny",
+      "company_name": "Québec Precious Metals Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"

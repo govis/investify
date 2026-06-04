@@ -6,21 +6,47 @@
   "age_year": 2024,
   "background": "Former Chief Operating Officer of SunPower Corporation.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Generac Holdings Inc.",
       "ticker": "GNRC",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2022-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://www.generac.com",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SunPower Corporation",
+      "ticker": "SPWR",
+      "exchange": "NASDAQ",
+      "website": "https://us.sunpower.com",
+      "title_or_role": "Executive Vice President",
+      "start_date": "2016",
+      "end_date": "2020",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/nam-nguyen-5a5b2a1",
+      "person_name": "Nam Nguyen",
+      "company_name": "Generac Holdings Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

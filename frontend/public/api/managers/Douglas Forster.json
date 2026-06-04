@@ -5,14 +5,51 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Calibre Mining Corp.",
-      "ticker": "CXB",
-      "exchange": "TSX",
-      "website": "https://calibremining.com",
-      "title": "Director",
-      "startDate": "2019-10-15",
+      "name": "Newcore Gold Ltd.",
+      "ticker": "NCAU",
+      "exchange": "TSXV",
+      "website": "https://newcoregold.com/",
+      "logoUrl": "/companies-assets/NCAU.TSXV.png",
+      "title": "Chairman / Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2019 October",
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Newmarket Gold Inc.",
+      "ticker": "NMI",
+      "exchange": "TSX",
+      "website": "N/A",
+      "logoUrl": "/companies-assets/NMI.TSX.svg",
+      "title": "Founder, President, Chief Executive Officer & Director",
+      "startDate": "2013",
+      "endDate": "2016",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Potash One, Inc.",
+      "ticker": "K",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Founder, Director",
+      "startDate": "2008",
+      "endDate": "2011",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2011"
+    },
+    {
+      "name": "Equinox Gold Corp.",
+      "ticker": "EQX",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "June 2025",
+      "endDate": null,
+      "formattedStartDate": "June 2025",
       "formattedEndDate": ""
     }
   ],

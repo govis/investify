@@ -6,22 +6,58 @@
   "age_year": 2024,
   "background": "Former Vice President for Learning, Training and Development at The Boeing Company.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit",
-    "Governance and Nominating"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Nucor Corporation",
       "ticker": "NUE",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2021-09-01",
-      "end_date": null
+      "title_or_role": "Member, Board of Directors",
+      "website": "https://www.nucor.com",
+      "start_date": "September 1, 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Boeing Company",
+      "ticker": "BA",
+      "exchange": "NYSE",
+      "website": "https://www.boeing.com",
+      "title_or_role": "Vice President, Learning, Training and Development",
+      "start_date": "July 2007",
+      "end_date": "March 2016",
+      "validated": true
+    },
+    {
+      "name": "The Goodyear Tire & Rubber Company",
+      "ticker": "GT",
+      "exchange": "NASDAQ",
+      "website": "https://www.goodyear.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "November 28, 2022",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/norma-clayton-4a5a5a12",
+      "person_name": "Norma Clayton",
+      "company_name": "The Boeing Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit",
+    "Governance and Nominating"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

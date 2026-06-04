@@ -6,19 +6,35 @@
   "age_year": 2024,
   "background": "Co-founder of Steel Dynamics. Chairman of the Board since May 2021, Chief Executive Officer since 2012, and President since 2012. Previously served as President and Chief Operating Officer from 2011 to 2012.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Steel Dynamics, Inc.",
       "ticker": "STLD",
       "exchange": "NASDAQ",
-      "title_or_role": "Chairman, Chairman of the Board, Chief Executive Officer, Director, President",
-      "start_date": "2021-05",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://www.steeldynamics.com",
+      "start_date": "1993",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mark-millett-8363062a",
+      "person_name": "Mark Millett",
+      "company_name": "Steel Dynamics, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

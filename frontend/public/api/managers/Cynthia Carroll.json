@@ -5,25 +5,39 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Glencore plc",
-      "ticker": "GLEN",
+      "name": "Anglo American plc",
+      "ticker": "AAL",
       "exchange": "LSE",
-      "website": "https://www.glencore.com",
-      "title": "Independent Non-Executive Director",
-      "startDate": "2021-02-02",
+      "website": "https://www.angloamerican.com",
+      "logoUrl": "/companies-assets/AAL.LSE.svg",
+      "title": "Chief Executive Officer",
+      "startDate": "2007-03-01",
+      "endDate": "2013-04-01",
+      "formattedStartDate": "March 2007",
+      "formattedEndDate": "April 2013"
+    },
+    {
+      "name": "Baker Hughes Company",
+      "ticker": "BKR",
+      "exchange": "NASDAQ",
+      "website": "https://www.bakerhughes.com",
+      "logoUrl": "/companies-assets/BKR.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2017-07-01",
       "endDate": null,
-      "formattedStartDate": "2021 February",
+      "formattedStartDate": "July 2017",
       "formattedEndDate": ""
     },
     {
-      "name": "Glencore plc",
-      "ticker": "GLNCY",
-      "exchange": "OTC",
-      "website": "https://www.glencore.com",
-      "title": "Independent Non-Executive Director",
-      "startDate": "2021-02-01",
+      "name": "Pembina Pipeline Corporation",
+      "ticker": "PPL",
+      "exchange": "TSX",
+      "website": "https://www.pembina.com",
+      "logoUrl": "/companies-assets/PPL.TSX.svg",
+      "title": "Director",
+      "startDate": "2018-01-01",
       "endDate": null,
-      "formattedStartDate": "2021 February",
+      "formattedStartDate": "January 2018",
       "formattedEndDate": ""
     }
   ],
@@ -31,7 +45,18 @@
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/cynthia-carroll",
+      "person_name": "Cynthia Carroll",
+      "company_name": "Anglo American plc, Glencore plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Health, Safety, Environment and Communities Committee (Chair)",
     "Remuneration Committee"

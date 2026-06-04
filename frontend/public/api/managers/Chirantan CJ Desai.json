@@ -9,17 +9,89 @@
       "ticker": "NOW",
       "exchange": "NYSE",
       "website": "https://www.servicenow.com",
-      "title": "President and Chief Operating Officer",
-      "startDate": "2023-01-01",
+      "logoUrl": "/companies-assets/NOW.NYSE.svg",
+      "title": "President and Chief Operating Officer (previously Chief Product Officer)",
+      "startDate": "December 2016",
+      "endDate": "2024",
+      "formattedStartDate": "December 2016",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "MongoDB, Inc.",
+      "ticker": "MDB",
+      "exchange": "NASDAQ",
+      "website": "https://www.mongodb.com",
+      "logoUrl": "/companies-assets/MDB.NASDAQ.svg",
+      "title": "President and Chief Executive Officer; Member of the Board of Directors",
+      "startDate": "November 2025",
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "November 2025",
       "formattedEndDate": ""
+    },
+    {
+      "name": "MSCI Inc.",
+      "ticker": "MSCI",
+      "exchange": "NYSE",
+      "website": "https://www.msci.com",
+      "logoUrl": "/companies-assets/MSCI.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "March 2024",
+      "endDate": null,
+      "formattedStartDate": "March 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cloudflare, Inc.",
+      "ticker": "NET",
+      "exchange": "NYSE",
+      "website": "https://www.cloudflare.com",
+      "logoUrl": "/companies-assets/NET.NYSE.svg",
+      "title": "President of Product and Engineering",
+      "startDate": "October 2024",
+      "endDate": "November 2025",
+      "formattedStartDate": "October 2024",
+      "formattedEndDate": "November 2025"
+    },
+    {
+      "name": "EMC Corporation",
+      "ticker": "EMC",
+      "exchange": "NYSE",
+      "website": "https://www.dell.com",
+      "logoUrl": "/companies-assets/EMC.NYSE.png",
+      "title": "Senior Executive (President, Emerging Technologies Division)",
+      "startDate": "September 2013",
+      "endDate": "December 2016",
+      "formattedStartDate": "September 2013",
+      "formattedEndDate": "December 2016"
+    },
+    {
+      "name": "Symantec Corporation",
+      "ticker": "GEN",
+      "exchange": "NASDAQ",
+      "website": "https://www.gendigital.com",
+      "logoUrl": "/companies-assets/GEN.NASDAQ.svg",
+      "title": "Senior Executive",
+      "startDate": "Prior to 2013",
+      "endDate": "2013",
+      "formattedStartDate": "Prior to 2013",
+      "formattedEndDate": "2013"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/chirantan-cj-desai-aa346",
+      "person_name": "Chirantan \"CJ\" Desai",
+      "company_name": "Cloudflare, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 53,
   "ageYear": 2024

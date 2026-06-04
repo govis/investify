@@ -9,17 +9,54 @@
       "ticker": "PRU",
       "exchange": "ASX",
       "website": "https://perseusmining.com/",
-      "title": "Non-Executive Director",
-      "startDate": "2021-05-12",
+      "logoUrl": "/companies-assets/PRU.ASX.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2021 May",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "SRG Global Ltd",
+      "ticker": "SRG",
+      "exchange": "ASX",
+      "website": "https://srgglobal.com.au/",
+      "logoUrl": "/companies-assets/SRG.ASX.svg",
+      "title": "Deputy Chairman / Non-Executive Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Worley Limited",
+      "ticker": "WOR",
+      "exchange": "ASX",
+      "website": "https://www.worley.com/",
+      "logoUrl": "/companies-assets/WOR.ASX.svg",
+      "title": "Global Strategy Director / Global Manager of Mergers and Acquisitions",
+      "startDate": "November 1999",
+      "endDate": "July 2021",
+      "formattedStartDate": "November 1999",
+      "formattedEndDate": "July 2021"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/amberbanfield",
+      "person_name": "Amber Banfield",
+      "company_name": "Perseus Mining Limited",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1,
+      "profile_status": "private"
+    }
+  ],
   "committees": [
     "Audit and Risk Committee",
     "Remuneration Committee"

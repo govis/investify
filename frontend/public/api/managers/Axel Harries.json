@@ -9,17 +9,41 @@
       "ticker": "CHPT",
       "exchange": "NYSE",
       "website": "https://www.chargepoint.com",
-      "title": "Independent Director",
-      "startDate": "2021-02-26",
+      "logoUrl": "/companies-assets/CHPT.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2016-10",
       "endDate": null,
-      "formattedStartDate": "2021 February",
+      "formattedStartDate": "October 2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Mercedes-Benz Group AG",
+      "ticker": "MBG",
+      "exchange": "Xetra",
+      "website": "https://group.mercedes-benz.com",
+      "logoUrl": "/companies-assets/MBG.Xetra.svg",
+      "title": "Vice President of Product Management and Sales",
+      "startDate": "1990s",
+      "endDate": null,
+      "formattedStartDate": "1990s",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ar.linkedin.com/in/axel-harries-b010a4157",
+      "person_name": "Axel Harries",
+      "company_name": "Mercedes-Benz Group AG",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

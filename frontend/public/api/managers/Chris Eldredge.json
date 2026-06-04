@@ -5,15 +5,16 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Juniper Networks, Inc.",
-      "ticker": "JNPR",
+      "name": "DuPont Fabros Technology, Inc.",
+      "ticker": "DFT",
       "exchange": "NYSE",
-      "website": "https://www.juniper.net",
-      "title": "Executive Vice President, Chief Customer Officer",
-      "startDate": "2024-01-01",
-      "endDate": null,
-      "formattedStartDate": "2024 January",
-      "formattedEndDate": ""
+      "website": "https://www.dft.com/",
+      "logoUrl": "/companies-assets/DFT.NYSE.svg",
+      "title": "President and Chief Executive Officer",
+      "startDate": "2015-03-02",
+      "endDate": "2017-09-14",
+      "formattedStartDate": "March 2015",
+      "formattedEndDate": "September 2017"
     }
   ],
   "investmentTheses": [

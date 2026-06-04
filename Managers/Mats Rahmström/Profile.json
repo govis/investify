@@ -6,19 +6,65 @@
   "age_year": 2024,
   "background": "Mats Rahmstr\u00f6m was the President and CEO of Atlas Copco Group until April 30, 2024. He remains on the board as a director.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Atlas Copco AB",
+      "ticker": "ATCO A / ATCO B",
+      "exchange": "Nasdaq Stockholm",
+      "title_or_role": "President and CEO",
+      "website": "https://www.atlascopcogroup.com",
+      "start_date": "2017",
+      "end_date": "2024-04-30",
+      "validated": true
+    },
+    {
+      "name": "ABB Ltd",
+      "ticker": "ABBN",
+      "exchange": "SIX Swiss Exchange",
+      "website": "https://global.abb",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Investor AB",
+      "ticker": "INVE B",
+      "exchange": "Nasdaq Stockholm",
+      "website": "https://www.investorab.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "W\u00e4rtsil\u00e4 Oyj Abp",
+      "ticker": "WRT1V",
+      "exchange": "Nasdaq Helsinki",
+      "website": "https://www.wartsila.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "socials": [
     {
-      "name": "Atlas Copco AB",
-      "ticker": "ATCO",
-      "exchange": "STO",
-      "title_or_role": "Director",
-      "start_date": "2017-01-01",
-      "end_date": null
+      "name": "LinkedIn",
+      "url": "https://se.linkedin.com/in/mats-rahmstr\u00f6m-02b75339",
+      "person_name": "Mats Rahmstr\u00f6m",
+      "company_name": "Atlas Copco",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
-  ]
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

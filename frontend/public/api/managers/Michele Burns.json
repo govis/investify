@@ -5,26 +5,64 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Cisco Systems, Inc.",
-      "ticker": "CSCO",
+      "name": "Etsy, Inc.",
+      "ticker": "ETSY",
       "exchange": "NASDAQ",
-      "website": "https://www.cisco.com",
-      "title": "Independent Director",
-      "startDate": "2003-11-01",
+      "website": "https://www.etsy.com",
+      "logoUrl": "/companies-assets/ETSY.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2014-03",
       "endDate": null,
-      "formattedStartDate": "2003 November",
+      "formattedStartDate": "March 2014",
       "formattedEndDate": ""
     },
     {
-      "name": "The Goldman Sachs Group, Inc.",
-      "ticker": "GS",
+      "name": "Walmart Inc.",
+      "ticker": "WMT",
       "exchange": "NYSE",
-      "website": "https://www.goldmansachs.com",
-      "title": "Independent Director",
-      "startDate": "2011-10-01",
-      "endDate": null,
-      "formattedStartDate": "2011 October",
-      "formattedEndDate": ""
+      "website": "walmart.com",
+      "logoUrl": "/companies-assets/WMT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2003",
+      "endDate": "2013",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Alexion Pharmaceuticals, Inc.",
+      "ticker": "ALXN",
+      "exchange": "NASDAQ",
+      "website": "https://www.alexion.com",
+      "logoUrl": "/companies-assets/ALXN.NASDAQ.png",
+      "title": "Director",
+      "startDate": "2014",
+      "endDate": "2018",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Marsh & McLennan Companies, Inc.",
+      "ticker": "MMC",
+      "exchange": "NYSE",
+      "website": "https://www.marshmclennan.com",
+      "logoUrl": "/companies-assets/MMC.NYSE.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2006-03",
+      "endDate": "2006-09",
+      "formattedStartDate": "March 2006",
+      "formattedEndDate": "September 2006"
+    },
+    {
+      "name": "Mirant Corporation",
+      "ticker": "MIR",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "https://seeklogo.com/images/M/mirant-logo-932805481E-seeklogo.com.png",
+      "title": "Chief Financial Officer, Chief Restructuring Officer and Executive Vice President",
+      "startDate": "2004-05",
+      "endDate": "2006-01",
+      "formattedStartDate": "May 2004",
+      "formattedEndDate": "January 2006"
     }
   ],
   "investmentTheses": [
@@ -32,7 +70,18 @@
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/micheleiburns",
+      "person_name": "Michele Burns",
+      "company_name": "Cisco Systems, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit",
     "Audit Committee",

@@ -9,17 +9,53 @@
       "ticker": "XPEV",
       "exchange": "NYSE",
       "website": "https://www.xiaopeng.com",
+      "logoUrl": "/companies-assets/XPEV.NYSE.svg",
       "title": "Non-executive Director",
-      "startDate": "2018-01-01",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2018 January",
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Baidu, Inc.",
+      "ticker": "BIDU",
+      "exchange": "NASDAQ",
+      "website": "https://ir.baidu.com",
+      "logoUrl": "/companies-assets/BIDU.NASDAQ.svg",
+      "title": "Independent Director",
+      "startDate": "July 2019",
+      "endDate": null,
+      "formattedStartDate": "July 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Bombardier Inc.",
+      "ticker": "BBD",
+      "exchange": "TSX",
+      "website": "https://ir.bombardier.com",
+      "logoUrl": "/companies-assets/BBD.TSX.svg",
+      "title": "Director",
+      "startDate": "May 5, 2022",
+      "endDate": null,
+      "formattedStartDate": "May 5, 2022",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jixunfoo",
+      "person_name": "Jixun Foo",
+      "company_name": "GGV Capital",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"

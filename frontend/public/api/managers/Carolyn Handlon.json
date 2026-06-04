@@ -7,13 +7,50 @@
     {
       "name": "Science Applications International Corporation",
       "ticker": "SAIC",
-      "exchange": "NASDAQ",
-      "website": "https://www.saic.com",
-      "title": "Independent Director",
-      "startDate": "2022-03-23",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "Jan 2023",
       "endDate": null,
-      "formattedStartDate": "2022 March",
+      "formattedStartDate": "Jan 2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Apple Hospitality REIT, Inc.",
+      "ticker": "APLE",
+      "exchange": "NYSE",
+      "website": "https://www.applehospitalityreit.com",
+      "logoUrl": "/companies-assets/APLE.NYSE.png",
+      "title": "Director",
+      "startDate": "Mar 2023",
+      "endDate": null,
+      "formattedStartDate": "Mar 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Invesco Mortgage Capital Inc.",
+      "ticker": "IVR",
+      "exchange": "NYSE",
+      "website": "https://www.invescomortgagecapital.com",
+      "logoUrl": "/companies-assets/IVR.NYSE.svg",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Marriott International, Inc.",
+      "ticker": "MAR",
+      "exchange": "NASDAQ",
+      "website": "marriott.com",
+      "logoUrl": "/companies-assets/MAR.NASDAQ.svg",
+      "title": "EVP, Finance & Global Treasurer",
+      "startDate": "~2005",
+      "endDate": "Apr 2022",
+      "formattedStartDate": "~2005",
+      "formattedEndDate": "Apr 2022"
     }
   ],
   "investmentTheses": [

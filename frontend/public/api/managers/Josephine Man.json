@@ -6,31 +6,44 @@
   "companies": [
     {
       "name": "Uranium Royalty Corp.",
-      "ticker": "UROY",
-      "exchange": "NASDAQ",
-      "website": "https://www.uraniumroyalty.com",
+      "ticker": "URC",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
       "title": "Chief Financial Officer",
-      "startDate": "2018-08-01",
-      "endDate": null,
-      "formattedStartDate": "2018 August",
-      "formattedEndDate": ""
+      "startDate": "Prior to 2024",
+      "endDate": "August 1, 2025",
+      "formattedStartDate": "Prior to 2024",
+      "formattedEndDate": "August 1, 2025"
     },
     {
-      "name": "Uranium Royalty Corp.",
-      "ticker": "UROY",
-      "exchange": "TSX",
-      "website": "https://www.uraniumroyalty.com/",
-      "title": "Chief Financial Officer",
-      "startDate": "2018-08-01",
+      "name": "Uranium Energy Corp.",
+      "ticker": "UEC",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Financial Officer, Treasurer, Secretary",
+      "startDate": "October 1, 2024",
       "endDate": null,
-      "formattedStartDate": "2018 August",
+      "formattedStartDate": "October 1, 2024",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/josephine-man-7a6a5543",
+      "person_name": "Josephine Man",
+      "company_name": "Uranium Royalty Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 49,
   "ageYear": 2024

@@ -6,19 +6,45 @@
   "age_year": 2024,
   "background": "President and Chief Executive Officer of Thomson Reuters since March 2020. Previously served as CEO of CAA Global and held senior roles at Nielsen Holdings PLC and McKinsey & Company.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Thomson Reuters Corporation",
       "ticker": "TRI",
       "exchange": "NYSE",
-      "title_or_role": "President and Chief Executive Officer",
+      "title_or_role": "President and CEO",
+      "website": "https://www.thomsonreuters.com",
       "start_date": "2020-03-15",
-      "end_date": null
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nielsen Holdings PLC",
+      "ticker": "NLSN",
+      "exchange": "NYSE",
+      "website": "https://www.nielsen.com",
+      "title_or_role": "Global President and COO",
+      "start_date": "2009",
+      "end_date": "2017",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/stevehasker",
+      "person_name": "Steve Hasker",
+      "company_name": "Thomson Reuters",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

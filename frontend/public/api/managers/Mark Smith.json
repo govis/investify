@@ -7,12 +7,25 @@
     {
       "name": "Cabral Gold Inc.",
       "ticker": "CBR",
-      "exchange": "TSX",
-      "website": "https://cabralgold.com",
-      "title": "Director",
-      "startDate": "2018-06-21",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Chairman",
+      "startDate": "2018-05-07",
+      "endDate": "2024-06-26",
+      "formattedStartDate": "May 2018",
+      "formattedEndDate": "June 2024"
+    },
+    {
+      "name": "Nortec Minerals Corp.",
+      "ticker": "NWT",
+      "exchange": "TSXV",
+      "website": "https://nortecminerals.com/",
+      "logoUrl": "/companies-assets/NWT.TSXV.png",
+      "title": "Independent Director",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2018 June",
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
     }
   ],

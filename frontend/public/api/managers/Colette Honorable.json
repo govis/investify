@@ -9,17 +9,41 @@
       "ticker": "SO",
       "exchange": "NYSE",
       "website": "https://www.southerncompany.com",
-      "title": "Independent Director",
-      "startDate": "2020-10-01",
+      "logoUrl": "/companies-assets/SO.NYSE.svg",
+      "title": "Director (Board Member)",
+      "startDate": "July 31, 2023",
       "endDate": null,
-      "formattedStartDate": "2020 October",
+      "formattedStartDate": "July 31, 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Exelon Corporation",
+      "ticker": "EXC",
+      "exchange": "NASDAQ",
+      "website": "https://www.exeloncorp.com",
+      "logoUrl": "/companies-assets/EXC.NASDAQ.svg",
+      "title": "Executive Vice President, Chief Legal Officer, and Corporate Secretary",
+      "startDate": "September 5, 2023",
+      "endDate": null,
+      "formattedStartDate": "September 5, 2023",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/colette-honorable-7a5a5a15",
+      "person_name": "Colette Honorable",
+      "company_name": "Exelon Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Governance",
     "Operations, Environmental and Safety"

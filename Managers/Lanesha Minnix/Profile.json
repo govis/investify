@@ -6,19 +6,65 @@
   "age_year": 2024,
   "background": "Ms. Minnix has served as Senior Vice President, Chief Legal Officer and Corporate Secretary since June 2023. Prior to joining Flowserve, she served as Senior Vice President, General Counsel and Corporate Secretary of Ecolab Inc. from March 2022 to June 2023.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Flowserve Corporation",
       "ticker": "FLS",
       "exchange": "NYSE",
-      "title_or_role": "Senior Vice President, Chief Legal Officer and Corporate Secretary",
-      "start_date": "2023-06-01",
-      "end_date": null
+      "title_or_role": "Senior Leadership Role",
+      "website": "https://www.flowserve.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Becton, Dickinson and Company",
+      "ticker": "BDX",
+      "exchange": "NYSE",
+      "website": "https://www.bd.com",
+      "title_or_role": "Executive Vice President and General Counsel",
+      "start_date": "March 16, 2026",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Walgreens Boots Alliance, Inc.",
+      "ticker": "WBA",
+      "exchange": "NASDAQ",
+      "website": "https://www.walgreensbootsalliance.com",
+      "title_or_role": "Executive Vice President and Global Chief Legal Officer",
+      "start_date": "April 15, 2024",
+      "end_date": "March 2026",
+      "validated": true
+    },
+    {
+      "name": "Ecolab Inc.",
+      "ticker": "ECL",
+      "exchange": "NYSE",
+      "website": "https://www.ecolab.com",
+      "title_or_role": "Executive Vice President, General Counsel and Corporate Secretary",
+      "start_date": "2022",
+      "end_date": "April 1, 2024",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/laneshaminnix",
+      "person_name": "Lanesha Minnix",
+      "company_name": "Flowserve Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

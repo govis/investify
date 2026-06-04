@@ -9,17 +9,29 @@
       "ticker": "STM",
       "exchange": "NYSE",
       "website": "https://www.st.com",
-      "title": "Chief Financial Officer, President, Finance, Purchasing, ERM and Resilience",
-      "startDate": "2018-01-01",
+      "logoUrl": "/companies-assets/STM.NYSE.svg",
+      "title": "President and Chief Financial Officer (CFO)",
+      "startDate": "2018",
       "endDate": null,
-      "formattedStartDate": "2018 January",
+      "formattedStartDate": "2018",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://it.linkedin.com/in/lorenzo-grandi",
+      "person_name": "Lorenzo Grandi",
+      "company_name": "STMicroelectronics",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 62,
   "ageYear": 2023

@@ -6,19 +6,55 @@
   "age_year": 2024,
   "background": "Mr. Jones has served as our Chief Executive Officer since May 2023 and as a member of our Board since February 2024. He previously served as our President from April 2020 to May 2023. Prior to joining Blink, he was the Chief Operating Officer of Electrify America and held executive positions at Nissan North America.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Blink Charging Co.",
       "ticker": "BLNK",
       "exchange": "NASDAQ",
-      "title_or_role": "Chief Executive Officer, Director",
-      "start_date": "2023-05",
-      "end_date": null
+      "title_or_role": "President and Chief Executive Officer",
+      "website": "https://blinkcharging.com",
+      "start_date": "April 2020",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "NRG Energy, Inc.",
+      "ticker": "NRG",
+      "exchange": "NYSE",
+      "website": "https://www.nrg.com",
+      "title_or_role": "Vice President, Sales and Infrastructure (EVgo)",
+      "start_date": "2014",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Nissan Motor Co., Ltd.",
+      "ticker": "NSANY",
+      "exchange": "OTC",
+      "website": "https://www.nissan-global.com",
+      "title_or_role": "Director, Electric Vehicle Sales and Infrastructure Deployment",
+      "start_date": "1995",
+      "end_date": "2014",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/brendansjones",
+      "person_name": "Brendan Jones",
+      "company_name": "Blink Charging Co.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

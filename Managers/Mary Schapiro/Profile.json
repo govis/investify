@@ -6,22 +6,38 @@
   "age_year": 2024,
   "background": "Former Chair of the U.S. Securities and Exchange Commission.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Nominating and Governance Committee",
-    "Risk Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Morgan Stanley",
       "ticker": "MS",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2018-07-01",
-      "end_date": null
+      "title_or_role": "Member, Board of Directors",
+      "website": "https://www.morganstanley.com",
+      "start_date": "July 1, 2018",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/maryschapiro",
+      "person_name": "Mary Schapiro",
+      "company_name": "Morgan Stanley",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Nominating and Governance Committee",
+    "Risk Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

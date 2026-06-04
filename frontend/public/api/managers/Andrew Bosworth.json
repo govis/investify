@@ -9,17 +9,29 @@
       "ticker": "META",
       "exchange": "NASDAQ",
       "website": "https://about.meta.com",
-      "title": "Chief Technology Officer",
-      "startDate": "2022-01-01",
+      "logoUrl": "/companies-assets/META.NASDAQ.svg",
+      "title": "Chief Technology Officer (Head of Reality Labs)",
+      "startDate": "2006",
       "endDate": null,
-      "formattedStartDate": "2022 January",
+      "formattedStartDate": "2006",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/andrew-bosworth-8247a01/",
+      "person_name": "Andrew Bosworth",
+      "company_name": "Meta",
+      "profile_status": "not_found",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 42,
   "ageYear": 2024

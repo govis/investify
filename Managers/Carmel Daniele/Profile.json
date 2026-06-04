@@ -6,6 +6,29 @@
   "age_year": 2024,
   "background": "Ms. Daniele is the founder and CIO of CD Capital. She has over 25 years of experience in natural resources investment and investment banking.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lundin Gold Inc.",
+      "ticker": "LUG",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://lundingold.com/",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Filo Corp.",
+      "ticker": "FIL",
+      "exchange": "TSX",
+      "website": "https://filocorp.com/",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +37,6 @@
     "Audit Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "Lundin Gold Inc.",
-      "ticker": "LUG",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2014-11-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

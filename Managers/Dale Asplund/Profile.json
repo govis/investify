@@ -6,19 +6,45 @@
   "age_year": 2024,
   "background": "Dale A. Asplund has served as Executive Vice President and Chief Operating Officer since May 2019. He joined United Rentals in 1998 and has held various senior positions in operations and supply chain.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "United Rentals, Inc.",
       "ticker": "URI",
       "exchange": "NYSE",
       "title_or_role": "Executive Vice President and Chief Operating Officer",
-      "start_date": "2019-05-01",
-      "end_date": null
+      "website": "https://www.unitedrentals.com",
+      "start_date": "2012",
+      "end_date": "September 29, 2023",
+      "validated": true
+    },
+    {
+      "name": "BrightView Holdings, Inc.",
+      "ticker": "BV",
+      "exchange": "NYSE",
+      "website": "https://www.brightview.com",
+      "title_or_role": "President, Chief Executive Officer, and Director",
+      "start_date": "October 1, 2023",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dale-asplund-894b2b3",
+      "person_name": "Dale Asplund",
+      "company_name": "United Rentals, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

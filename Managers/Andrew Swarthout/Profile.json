@@ -6,6 +6,29 @@
   "age_year": 2024,
   "background": "Former CEO and Executive Chairman of Bear Creek Mining Corporation.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Sandstorm Gold Ltd.",
+      "ticker": "SAND",
+      "exchange": "NYSE / TSX",
+      "title_or_role": "Director",
+      "website": "https://www.sandstormgold.com/",
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bear Creek Mining Corporation",
+      "ticker": "BCM",
+      "exchange": "TSXV",
+      "website": "https://bearcreekmining.com/",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": "March 2025",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +37,6 @@
     "Compensation Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "Sandstorm Gold Ltd.",
-      "ticker": "SAND",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2015-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

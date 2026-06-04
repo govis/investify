@@ -9,10 +9,35 @@
       "ticker": "OLA",
       "exchange": "TSX",
       "website": "https://www.orlamining.com",
+      "logoUrl": "/companies-assets/OLA.TSX.svg",
       "title": "Chief Operating Officer",
-      "startDate": "2019-01-01",
+      "startDate": "2020-04",
       "endDate": null,
-      "formattedStartDate": "2019 January",
+      "formattedStartDate": "April 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Alamos Gold Inc.",
+      "ticker": "AGI",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice President, Development and Construction",
+      "startDate": "2013",
+      "endDate": "2020",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "AuRico Gold Inc.",
+      "ticker": "AUQ",
+      "exchange": "TSX",
+      "website": "N/A",
+      "logoUrl": "/companies-assets/AUQ.TSX.png",
+      "title": "Project Manager",
+      "startDate": "N/A",
+      "endDate": "N/A",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],

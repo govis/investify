@@ -6,22 +6,98 @@
   "age_year": 2024,
   "background": "Hans Str\u00e5berg is the Chair of the Board. He has extensive experience from leading positions in international industrial companies, including President and CEO of Electrolux.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Atlas Copco AB",
+      "ticker": "ATCO-A",
+      "exchange": "STO",
+      "title_or_role": "Chairman of the Board",
+      "website": "atlascopcogroup.com",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "AB SKF",
+      "ticker": "SKF-A",
+      "exchange": "STO",
+      "website": "skf.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Electrolux AB",
+      "ticker": "ELUX-B",
+      "exchange": "STO",
+      "website": "electroluxgroup.com",
+      "title_or_role": "President and CEO",
+      "start_date": "2002",
+      "end_date": "2010",
+      "validated": true
+    },
+    {
+      "name": "Stora Enso Oyj",
+      "ticker": "STE-A",
+      "exchange": "STO",
+      "website": "storaenso.com",
+      "title_or_role": "Board Member",
+      "start_date": "2009",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Investor AB",
+      "ticker": "INVE-B",
+      "exchange": "STO",
+      "website": "investorab.com",
+      "title_or_role": "Board Member",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Munters Group AB",
+      "ticker": "MTRS",
+      "exchange": "STO",
+      "website": "munters.com",
+      "title_or_role": "Board Member",
+      "start_date": "2017",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Nederman Holding AB",
+      "ticker": "NMAN",
+      "exchange": "STO",
+      "website": "nedermangroup.com",
+      "title_or_role": "Board Member",
+      "start_date": "2011",
+      "end_date": "2018",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/hans-str\u00e5berg-4a5b2a1/",
+      "person_name": "Hans Str\u00e5berg",
+      "company_name": "Atlas Copco AB",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Remuneration Committee"
   ],
-  "companies": [
-    {
-      "name": "Atlas Copco AB",
-      "ticker": "ATCO",
-      "exchange": "STO",
-      "title_or_role": "Chair of the Board",
-      "start_date": "2014-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

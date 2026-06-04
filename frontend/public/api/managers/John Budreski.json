@@ -5,21 +5,57 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Sandstorm Gold Ltd.",
-      "ticker": "SAND",
-      "exchange": "NYSE",
-      "website": "https://www.sandstormgold.com",
-      "title": "Independent Director",
-      "startDate": "2013-01-01",
+      "name": "EnWave Corporation",
+      "ticker": "ENW",
+      "exchange": "TSXV",
+      "website": "https://www.enwave.net/",
+      "logoUrl": "/companies-assets/ENW.TSXV.svg",
+      "title": "Executive Chairman",
+      "startDate": "2014",
       "endDate": null,
-      "formattedStartDate": "2013 January",
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Morien Resources Corp.",
+      "ticker": "MOX",
+      "exchange": "TSXV",
+      "website": "https://morienres.com/",
+      "logoUrl": "/companies-assets/MOX.TSXV.png",
+      "title": "Executive Chairman",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "NuLegacy Gold Corporation",
+      "ticker": "NUG",
+      "exchange": "TSXV",
+      "website": "https://nulegacygold.com/",
+      "logoUrl": "/companies-assets/NUG.TSXV.png",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/john-budreski-2aa2b1b6",
+      "person_name": "John Budreski",
+      "company_name": "EnWave Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"

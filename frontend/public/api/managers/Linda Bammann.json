@@ -5,15 +5,16 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "JPMorgan Chase & Co.",
-      "ticker": "JPM",
-      "exchange": "NYSE",
-      "website": "https://www.jpmorganchase.com",
-      "title": "Independent Director",
-      "startDate": "2013-09-16",
-      "endDate": null,
-      "formattedStartDate": "2013 September",
-      "formattedEndDate": ""
+      "name": "Federal Home Loan Mortgage Corporation (Freddie Mac)",
+      "ticker": "FMCC",
+      "exchange": "OTC",
+      "website": "https://www.freddiemac.com",
+      "logoUrl": "/companies-assets/FMCC.OTC.svg",
+      "title": "Director",
+      "startDate": "2008",
+      "endDate": "2013",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2013"
     }
   ],
   "investmentTheses": [

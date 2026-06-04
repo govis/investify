@@ -9,17 +9,77 @@
       "ticker": "DLR",
       "exchange": "NYSE",
       "website": "https://www.digitalrealty.com",
+      "logoUrl": "/companies-assets/DLR.NYSE.svg",
       "title": "Director",
-      "startDate": "2013-01-01",
+      "startDate": "2017",
       "endDate": null,
-      "formattedStartDate": "2013 January",
+      "formattedStartDate": "2017",
       "formattedEndDate": ""
+    },
+    {
+      "name": "KLA Corporation",
+      "ticker": "KLAC",
+      "exchange": "NASDAQ",
+      "website": "https://www.kla.com",
+      "logoUrl": "/companies-assets/KLAC.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2006",
+      "endDate": null,
+      "formattedStartDate": "2006",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "JDS Uniphase Corporation",
+      "ticker": "JDSU",
+      "exchange": "NASDAQ",
+      "website": "https://www.viavisolutions.com",
+      "logoUrl": "/companies-assets/JDSU.NASDAQ.svg",
+      "title": "CEO and Director",
+      "startDate": "2003",
+      "endDate": "2015",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Rambus Inc.",
+      "ticker": "RMBS",
+      "exchange": "NASDAQ",
+      "website": "https://www.rambus.com",
+      "logoUrl": "/companies-assets/RMBS.NASDAQ.svg",
+      "title": "Chairman and Director",
+      "startDate": "2005",
+      "endDate": "2008",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2008"
+    },
+    {
+      "name": "Quanergy Systems, Inc.",
+      "ticker": "QNGY",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "/companies-assets/QNGY.NYSE.svg",
+      "title": "CEO and Director",
+      "startDate": "2020",
+      "endDate": "2022",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2022"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kevin-kennedy-7b767824",
+      "person_name": "Kevin Kennedy",
+      "company_name": "Digital Realty Trust, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee"
   ],

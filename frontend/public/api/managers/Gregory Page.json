@@ -9,10 +9,11 @@
       "ticker": "DE",
       "exchange": "NYSE",
       "website": "https://www.deere.com",
-      "title": "Independent Director",
-      "startDate": "2013-01-01",
+      "logoUrl": "/companies-assets/DE.NYSE.svg",
+      "title": "Director",
+      "startDate": "2013",
       "endDate": null,
-      "formattedStartDate": "2013 January",
+      "formattedStartDate": "2013",
       "formattedEndDate": ""
     },
     {
@@ -20,10 +21,35 @@
       "ticker": "ETN",
       "exchange": "NYSE",
       "website": "https://www.eaton.com",
-      "title": "Lead Director",
-      "startDate": "2003-01-01",
+      "logoUrl": "/companies-assets/ETN.NYSE.svg",
+      "title": "Non-Executive Chair of the Board",
+      "startDate": "2003",
       "endDate": null,
-      "formattedStartDate": "2003 January",
+      "formattedStartDate": "2003",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "3M Company",
+      "ticker": "MMM",
+      "exchange": "NYSE",
+      "website": "3m.com",
+      "logoUrl": "/companies-assets/MMM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2003",
+      "endDate": "2025-08-11",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "August 2025"
+    },
+    {
+      "name": "Corteva Agriscience",
+      "ticker": "CTVA",
+      "exchange": "NYSE",
+      "website": "corteva.com",
+      "logoUrl": "/companies-assets/CTVA.NYSE.svg",
+      "title": "Non-Executive Chair of the Board",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
       "formattedEndDate": ""
     }
   ],

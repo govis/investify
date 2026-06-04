@@ -9,17 +9,29 @@
       "ticker": "PL",
       "exchange": "NYSE",
       "website": "https://www.planet.com",
-      "title": "Chief Executive Officer, Director",
-      "startDate": "2010-12-01",
+      "logoUrl": "/companies-assets/PL.NYSE.svg",
+      "title": "Co-Founder, Chief Executive Officer, and Chairperson of the Board",
+      "startDate": "2010",
       "endDate": null,
-      "formattedStartDate": "2010 December",
+      "formattedStartDate": "2010",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/will-marshall-planet",
+      "person_name": "Will Marshall",
+      "company_name": "Planet Labs PBC",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 46,
   "ageYear": 2024

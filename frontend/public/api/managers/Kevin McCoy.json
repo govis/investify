@@ -9,18 +9,42 @@
       "ticker": "BWXT",
       "exchange": "NYSE",
       "website": "https://www.bwxt.com",
-      "title": "President, BWXT Government Operations",
-      "startDate": "2022-03-01",
+      "logoUrl": "/companies-assets/BWXT.NYSE.svg",
+      "title": "Chief Nuclear Officer",
+      "startDate": "June 2025",
       "endDate": null,
-      "formattedStartDate": "2022 March",
+      "formattedStartDate": "June 2025",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Australian Unity Limited",
+      "ticker": "AYUPA",
+      "exchange": "ASX",
+      "website": "https://www.australianunity.com.au",
+      "logoUrl": "/companies-assets/AYUPA.ASX.svg",
+      "title": "Chief Executive Officer, Independent and Assisted Living",
+      "startDate": "2018",
+      "endDate": "June 2022",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "June 2022"
     }
   ],
   "investmentTheses": [
     "Defense",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kevinbmccoy",
+      "person_name": "Kevin McCoy",
+      "company_name": "BWX Technologies, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 63,
   "ageYear": 2024

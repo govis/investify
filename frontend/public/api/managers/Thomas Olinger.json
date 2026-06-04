@@ -5,15 +5,16 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Equinix, Inc.",
-      "ticker": "EQIX",
-      "exchange": "NASDAQ",
-      "website": "https://www.equinix.com",
-      "title": "Independent Director",
-      "startDate": "2023-01-01",
-      "endDate": null,
-      "formattedStartDate": "2023 January",
-      "formattedEndDate": ""
+      "name": "Prologis, Inc.",
+      "ticker": "PLD",
+      "exchange": "NYSE",
+      "website": "https://www.prologis.com",
+      "logoUrl": "/companies-assets/PLD.NYSE.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2012",
+      "endDate": "2022",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2022"
     }
   ],
   "investmentTheses": [

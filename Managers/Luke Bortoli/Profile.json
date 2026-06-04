@@ -6,19 +6,45 @@
   "age_year": null,
   "background": "Luke Bortoli joined Pilbara Minerals as CFO in 2023. He was previously the CFO of Afterpay and has extensive experience in financial management, capital markets, and corporate strategy within high-growth environments.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Pilbara Minerals Limited",
       "ticker": "PLS",
       "exchange": "ASX",
       "title_or_role": "Chief Financial Officer",
-      "start_date": "2023-04-11",
-      "end_date": null
+      "website": "https://www.pilbaraminerals.com.au/",
+      "start_date": "April 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Afterpay Limited",
+      "ticker": "APT",
+      "exchange": "ASX",
+      "website": "https://www.afterpay.com/",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2018",
+      "end_date": "2021",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/luke-bortoli",
+      "person_name": "Luke Bortoli",
+      "company_name": "Pilbara Minerals Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

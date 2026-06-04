@@ -9,17 +9,53 @@
       "ticker": "FSLY",
       "exchange": "NYSE",
       "website": "https://www.fastly.com",
+      "logoUrl": "/companies-assets/FSLY.NYSE.svg",
       "title": "Chief Executive Officer",
       "startDate": "2022-09-01",
       "endDate": null,
-      "formattedStartDate": "2022 September",
+      "formattedStartDate": "September 2022",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Arista Networks, Inc.",
+      "ticker": "ANET",
+      "exchange": "NYSE",
+      "website": "https://www.arista.com",
+      "logoUrl": "/companies-assets/ANET.NYSE.svg",
+      "title": "President and Chief Operating Officer",
+      "startDate": "2025-07-01",
+      "endDate": null,
+      "formattedStartDate": "July 2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "website": "https://www.cisco.com",
+      "logoUrl": "/companies-assets/CSCO.NASDAQ.svg",
+      "title": "Executive Vice President and General Manager, Enterprise Networking and Cloud",
+      "startDate": "Prior to 2022",
+      "endDate": "2022",
+      "formattedStartDate": "Prior to 2022",
+      "formattedEndDate": "2022"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/todd-nightingale",
+      "person_name": "Todd Nightingale",
+      "company_name": "Fastly",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 45,
   "ageYear": 2024

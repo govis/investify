@@ -6,21 +6,47 @@
   "age_year": 2024,
   "background": "Dean of the Wharton School of the University of Pennsylvania.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation, Management Development and Succession Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Morgan Stanley",
       "ticker": "MS",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2022-01-01",
-      "end_date": null
+      "title_or_role": "Director (Board of Directors)",
+      "website": "https://www.morganstanley.com",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Momentive Global Inc.",
+      "ticker": "MNTV",
+      "exchange": "NASDAQ",
+      "website": "https://www.momentive.ai",
+      "title_or_role": "Director (Board of Directors)",
+      "start_date": "August 14, 2018",
+      "end_date": "2023",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/erika-james-4a5a5a10",
+      "person_name": "Erika James",
+      "company_name": "Wharton School",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation, Management Development and Succession Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

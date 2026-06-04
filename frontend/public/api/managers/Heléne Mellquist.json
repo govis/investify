@@ -6,14 +6,39 @@
   "companies": [
     {
       "name": "Atlas Copco AB",
-      "ticker": "ATCO",
+      "ticker": "ATCO-A.ST",
       "exchange": "STO",
-      "website": "https://www.atlascopcogroup.com",
-      "title": "Director",
-      "startDate": "2022-01-01",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Member",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2022 January",
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Alimak Group AB",
+      "ticker": "ALIG.ST",
+      "exchange": "STO",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Member",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Thule Group AB",
+      "ticker": "THULE.ST",
+      "exchange": "STO",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Member",
+      "startDate": "2016",
+      "endDate": "2024",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2024"
     }
   ],
   "investmentTheses": [

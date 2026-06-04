@@ -9,17 +9,41 @@
       "ticker": "CAT",
       "exchange": "NYSE",
       "website": "https://www.caterpillar.com",
-      "title": "Independent Director",
-      "startDate": "2023-01-01",
+      "logoUrl": "/companies-assets/CAT.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Waste Management, Inc.",
+      "ticker": "WM",
+      "exchange": "NYSE",
+      "website": "https://www.wm.com",
+      "logoUrl": "/companies-assets/WM.NYSE.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2012",
+      "endDate": "2016",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2016"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/james-fish-jr",
+      "person_name": "James Fish, Jr.",
+      "company_name": "Waste Management, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

@@ -9,17 +9,41 @@
       "ticker": "ARA",
       "exchange": "TSX",
       "website": "https://www.aclara.com",
-      "title": "Chief Operating Officer",
-      "startDate": "2022-03-01",
+      "logoUrl": "/companies-assets/ARA.TSX.svg",
+      "title": "Former Chief Operating Officer",
+      "startDate": "Unknown",
+      "endDate": "2023",
+      "formattedStartDate": "",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Heliostar Metals Ltd.",
+      "ticker": "HSTR",
+      "exchange": "TSXV",
+      "website": "https://www.heliostarmetals.com",
+      "logoUrl": "/companies-assets/HSTR.TSXV.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2022 March",
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/bmurphy-mining-exec",
+      "person_name": "Barry Murphy",
+      "company_name": "Aclara Resources Inc., Heliostar Metals Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 58,
   "ageYear": 2024

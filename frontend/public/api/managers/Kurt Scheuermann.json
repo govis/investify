@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Array Technologies, Inc.",
-      "ticker": "ARRY",
+      "name": "Inseego Corp.",
+      "ticker": "INSG",
       "exchange": "NASDAQ",
-      "website": "https://arraytechinc.com",
-      "title": "Chief Financial Officer",
-      "startDate": "2023-12-11",
+      "website": "https://www.inseego.com",
+      "logoUrl": "/companies-assets/INSG.NASDAQ.svg",
+      "title": "SVP and General Counsel",
+      "startDate": "February 2020",
       "endDate": null,
-      "formattedStartDate": "2023 December",
+      "formattedStartDate": "February 2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Lantronix, Inc.",
+      "ticker": "LTRX",
+      "exchange": "NASDAQ",
+      "website": "https://www.lantronix.com",
+      "logoUrl": "/companies-assets/LTRX.NASDAQ.svg",
+      "title": "VP and General Counsel",
+      "startDate": "~2015",
+      "endDate": "~2017",
+      "formattedStartDate": "~2015",
+      "formattedEndDate": "~2017"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kurtscheuerman",
+      "person_name": "Kurt Scheuermann",
+      "company_name": "Array Technologies, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 51,
   "ageYear": 2024

@@ -5,15 +5,52 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Viasat, Inc.",
-      "ticker": "VSAT",
+      "name": "Impinj, Inc.",
+      "ticker": "PI",
       "exchange": "NASDAQ",
-      "website": "https://www.viasat.com",
-      "title": "Independent Director",
-      "startDate": "2020-01-01",
-      "endDate": null,
-      "formattedStartDate": "2020 January",
-      "formattedEndDate": ""
+      "website": "https://www.impinj.com/",
+      "logoUrl": "/companies-assets/PI.NASDAQ.svg",
+      "title": "Board of Directors",
+      "startDate": "2016-05-18",
+      "endDate": "2021",
+      "formattedStartDate": "May 2016",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Acropolis Infrastructure Acquisition Corp.",
+      "ticker": "ACRO",
+      "exchange": "NYSE",
+      "website": "https://www.acropolis-infrastructure.com/",
+      "logoUrl": "/companies-assets/ACRO.NYSE.png",
+      "title": "Board of Directors",
+      "startDate": "2021",
+      "endDate": "2023",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Delta Air Lines, Inc.",
+      "ticker": "DAL",
+      "exchange": "NYSE",
+      "website": "https://www.delta.com",
+      "logoUrl": "/companies-assets/DAL.NYSE.svg",
+      "title": "Senior Vice President and Chief Information Officer",
+      "startDate": "2008",
+      "endDate": "2016",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Northwest Airlines",
+      "ticker": "NWA",
+      "exchange": "NYSE",
+      "website": "N/A",
+      "logoUrl": "/companies-assets/NWA.NYSE.svg",
+      "title": "Senior Vice President and Chief Information Officer",
+      "startDate": "2001",
+      "endDate": "2008",
+      "formattedStartDate": "2001",
+      "formattedEndDate": "2008"
     }
   ],
   "investmentTheses": [

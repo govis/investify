@@ -6,30 +6,87 @@
   "age_year": 2024,
   "background": "Venkat has over 30 years of experience in the mining sector. He was previously CEO of AngloGold Ashanti and Vedanta Resources.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Nomination and Governance Committee",
-    "Remuneration Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Endeavour Mining plc",
       "ticker": "EDV",
-      "exchange": "LSE",
-      "title_or_role": "Chair, Independent Non-Executive Director",
-      "start_date": "2022-05-24",
-      "end_date": null
+      "exchange": "TSX, LSE",
+      "title_or_role": "Chair of the Board",
+      "website": "https://www.endeavourmining.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Endeavour Mining plc",
       "ticker": "EDV",
       "exchange": "TSX",
       "title_or_role": "Chair, Independent Non-Executive Director",
+      "website": "https://www.endeavourmining.com",
       "start_date": "2024-01-04",
       "end_date": null
+    },
+    {
+      "name": "The Weir Group PLC",
+      "ticker": "WEIR",
+      "exchange": "LSE",
+      "website": "https://www.global.weir",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "January 2021",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "BlackRock World Mining Trust plc",
+      "ticker": "BRWM",
+      "exchange": "LSE",
+      "website": "https://www.blackrock.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "August 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Vedanta Limited",
+      "ticker": "VEDL",
+      "exchange": "NSE/BSE",
+      "website": "https://www.vedantalimited.com",
+      "title_or_role": "CEO and Director",
+      "start_date": "August 31, 2018",
+      "end_date": "April 5, 2020",
+      "validated": true
+    },
+    {
+      "name": "AngloGold Ashanti Limited",
+      "ticker": "AU",
+      "exchange": "NYSE",
+      "website": "https://www.anglogoldashanti.com",
+      "title_or_role": "CEO (previously CFO)",
+      "start_date": "2013",
+      "end_date": "August 2018",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://in.linkedin.com/in/venkatakrishnan-srinivasan-b7745912",
+      "person_name": "Srinivasan Venkatakrishnan",
+      "company_name": "Endeavour Mining plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Nomination and Governance Committee",
+    "Remuneration Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

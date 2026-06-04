@@ -9,17 +9,41 @@
       "ticker": "BLNK",
       "exchange": "NASDAQ",
       "website": "https://www.blinkcharging.com",
+      "logoUrl": "/companies-assets/BLNK.NASDAQ.svg",
       "title": "Chief Financial Officer",
-      "startDate": "2020-02",
-      "endDate": null,
-      "formattedStartDate": "2020 February",
-      "formattedEndDate": ""
+      "startDate": "February 2020",
+      "endDate": "June 2, 2025",
+      "formattedStartDate": "February 2020",
+      "formattedEndDate": "June 2, 2025"
+    },
+    {
+      "name": "NV5 Global, Inc.",
+      "ticker": "NVEE",
+      "exchange": "NASDAQ",
+      "website": "https://www.nv5.com",
+      "logoUrl": "/companies-assets/NVEE.NASDAQ.svg",
+      "title": "Vice President and Chief Financial Officer",
+      "startDate": "2011",
+      "endDate": "February 2020",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "February 2020"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michael-rama-5612599",
+      "person_name": "Michael Rama",
+      "company_name": "Blink Charging Co.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 58,
   "ageYear": 2024

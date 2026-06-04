@@ -5,15 +5,28 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Dominion Energy, Inc.",
-      "ticker": "D",
+      "name": "Pepco Holdings, Inc.",
+      "ticker": "POM",
       "exchange": "NYSE",
-      "website": "https://www.dominionenergy.com",
-      "title": "Independent Director",
-      "startDate": "2017-01-01",
-      "endDate": null,
-      "formattedStartDate": "2017 January",
-      "formattedEndDate": ""
+      "website": "https://www.pepco.com",
+      "logoUrl": "/companies-assets/POM.NYSE.svg",
+      "title": "Chairman, President and Chief Executive Officer",
+      "startDate": "2009-05",
+      "endDate": "2016-03",
+      "formattedStartDate": "May 2009",
+      "formattedEndDate": "March 2016"
+    },
+    {
+      "name": "South Jersey Industries, Inc.",
+      "ticker": "SJI",
+      "exchange": "NYSE",
+      "website": "https://www.sjindustries.com",
+      "logoUrl": "/companies-assets/SJI.NYSE.png",
+      "title": "Director and Non-Executive Chairman",
+      "startDate": "2016-05",
+      "endDate": "2025-02",
+      "formattedStartDate": "May 2016",
+      "formattedEndDate": "February 2025"
     }
   ],
   "investmentTheses": [

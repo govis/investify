@@ -6,23 +6,59 @@
   "age_year": 2024,
   "background": "Former Chairman of UBS Bank USA and Vice Chairman of UBS Wealth Management Americas.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Governance Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Fluor Corporation",
       "ticker": "FLR",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2010-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "fluor.com",
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The TJX Companies, Inc.",
+      "ticker": "TJX",
+      "exchange": "NYSE",
+      "website": "tjx.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "UBS Group AG",
+      "ticker": "UBS",
+      "exchange": "NYSE",
+      "website": "ubs.com",
+      "title_or_role": "Vice Chairman, UBS Wealth Management Americas; Chairman, UBS Bank USA",
+      "start_date": "2010",
+      "end_date": "2018",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rosemary-berkery-4a5a5a12",
+      "person_name": "Rosemary Berkery",
+      "company_name": "Fluor Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

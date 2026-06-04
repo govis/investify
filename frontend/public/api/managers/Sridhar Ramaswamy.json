@@ -9,17 +9,41 @@
       "ticker": "SNOW",
       "exchange": "NYSE",
       "website": "https://www.snowflake.com",
-      "title": "Chief Executive Officer, Director",
-      "startDate": "2024-02-28",
+      "logoUrl": "/companies-assets/SNOW.NYSE.svg",
+      "title": "Chief Executive Officer",
+      "startDate": "February 2024",
       "endDate": null,
-      "formattedStartDate": "2024 February",
+      "formattedStartDate": "February 2024",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Alphabet Inc.",
+      "ticker": "GOOGL",
+      "exchange": "NASDAQ",
+      "website": "https://abc.xyz",
+      "logoUrl": "/companies-assets/GOOGL.NASDAQ.svg",
+      "title": "Senior Vice President, Advertising and Commerce",
+      "startDate": "2003",
+      "endDate": "October 2018",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "October 2018"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sridhar-ramaswamy",
+      "person_name": "Sridhar Ramaswamy",
+      "company_name": "Snowflake",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 57,
   "ageYear": 2024

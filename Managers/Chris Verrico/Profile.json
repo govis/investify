@@ -6,20 +6,86 @@
   "age_year": 2024,
   "background": "Mr. Verrico has over 40 years of experience in the mining and exploration industry. He has served as a director and officer of several public companies, including Xiana Mining Inc. and various junior exploration companies. He has extensive experience in project management and corporate development.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Oreterra Metals Corp.",
+      "ticker": "ORE",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "oreterrametals.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rio Silver Inc.",
+      "ticker": "RYO",
+      "exchange": "TSXV",
+      "website": "riosilverinc.com",
+      "title_or_role": "President, CEO, Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Juggernaut Exploration Ltd.",
+      "ticker": "JUGR",
+      "exchange": "TSXV",
+      "website": "juggernautexploration.com",
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Aguila American Gold Ltd.",
+      "ticker": "AGL",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "CEO",
+      "start_date": null,
+      "end_date": "Nov 2012",
+      "validated": true
+    },
+    {
+      "name": "Lateegra Gold Corp.",
+      "ticker": "LG",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "President, CEO, Director",
+      "start_date": "2010",
+      "end_date": "2011",
+      "validated": true
+    },
+    {
+      "name": "Tru Vision Corp.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "title_or_role": "President, Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": false
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Gold"
   ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "socials": [
     {
-      "name": "Oreterra Metals Corp.",
-      "ticker": "OTMC",
-      "exchange": "TSXV",
-      "title_or_role": "Chief Executive Officer, Director, President",
-      "start_date": "2021-06-01",
-      "end_date": null
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/chris-verrico-6a5b2a1a/",
+      "person_name": "Chris Verrico",
+      "company_name": "Rio Silver Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
-  ]
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -6,22 +6,48 @@
   "age_year": 2024,
   "background": "Frances H. Arnold has been a director since 2019. She is the Linus Pauling Professor of Chemical Engineering, Bioengineering and Biochemistry at the California Institute of Technology and a Nobel Laureate in Chemistry.",
   "picture_url": null,
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Nominating and Corporate Governance Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Alphabet Inc.",
       "ticker": "GOOGL",
       "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "start_date": "2019-12-01",
-      "end_date": null
+      "title_or_role": "Member, Board of Directors",
+      "website": "https://abc.xyz",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Illumina, Inc.",
+      "ticker": "ILMN",
+      "exchange": "NASDAQ",
+      "website": "https://www.illumina.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2016",
+      "end_date": "2026",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/frances-arnold-b4992313",
+      "person_name": "Frances Arnold",
+      "company_name": "California Institute of Technology",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

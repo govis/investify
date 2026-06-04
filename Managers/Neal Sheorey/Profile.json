@@ -6,20 +6,46 @@
   "age_year": 2024,
   "background": "Mr. Sheorey has served as Executive Vice President and Chief Financial Officer since November 2023. Prior to joining Albemarle, he served as Vice President, Finance for Dow Inc.'s Coatings & Performance Monomers and Plastic Additives businesses.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Albemarle Corporation",
       "ticker": "ALB",
       "exchange": "NYSE",
       "title_or_role": "Executive Vice President and Chief Financial Officer",
-      "start_date": "2023-11-06",
-      "end_date": null
+      "website": "https://www.albemarle.com",
+      "start_date": "May 2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Dow Inc.",
+      "ticker": "DOW",
+      "exchange": "NYSE",
+      "website": "https://www.dow.com",
+      "title_or_role": "Various leadership roles, including Vice President of Investor Relations, Senior Director of Corporate Development, and Global Finance Director for the Chemicals business group.",
+      "start_date": "2004",
+      "end_date": "May 2024",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/neal-sheorey-8545b41",
+      "person_name": "Neal Sheorey",
+      "company_name": "Albemarle Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

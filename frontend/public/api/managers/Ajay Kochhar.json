@@ -2,24 +2,37 @@
   "id": "Ajay Kochhar",
   "name": "Ajay Kochhar",
   "background": "Co-founder of Li-Cycle and has served as President, CEO and a director since the company's inception in 2016. Before Li-Cycle, he worked at Hatch in the industrial and clean tech sectors.",
-  "pictureUrl": null,
+  "pictureUrl": "/managers-assets/Ajay Kochhar.jpg",
   "companies": [
     {
       "name": "Li-Cycle Holdings Corp.",
       "ticker": "LICY",
       "exchange": "NYSE",
       "website": "https://li-cycle.com",
-      "title": "President, Chief Executive Officer and Director",
-      "startDate": "2016-01-01",
+      "logoUrl": "/companies-assets/LICY.NYSE.svg",
+      "title": "Co-Founder, President, and Chief Executive Officer; Director",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2016 January",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/akochhar",
+      "person_name": "Ajay Kochhar",
+      "company_name": "Glencore",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
   "committees": [],
   "age": 32,
   "ageYear": 2024

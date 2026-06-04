@@ -5,14 +5,15 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Microsoft Corporation",
-      "ticker": "MSFT",
+      "name": "Netflix, Inc.",
+      "ticker": "NFLX",
       "exchange": "NASDAQ",
-      "website": "https://www.microsoft.com",
-      "title": "Vice Chair and President",
-      "startDate": "2021-09-01",
+      "website": "netflix.com",
+      "logoUrl": "/companies-assets/NFLX.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "March 2015",
       "endDate": null,
-      "formattedStartDate": "2021 September",
+      "formattedStartDate": "March 2015",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +21,18 @@
     "AI",
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bradsmi",
+      "person_name": "Brad Smith",
+      "company_name": "Microsoft",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 65,
   "ageYear": 2024

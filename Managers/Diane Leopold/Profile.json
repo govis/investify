@@ -6,19 +6,65 @@
   "age_year": 2024,
   "background": "Diane Leopold is executive vice president and chief operating officer of Dominion Energy. She has served in this role since October 2020. She joined the company in 1995 and has held various leadership positions in the energy infrastructure and commercial business units.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Dominion Energy, Inc.",
       "ticker": "D",
       "exchange": "NYSE",
       "title_or_role": "Executive Vice President and Chief Operating Officer",
-      "start_date": "2020-10-01",
-      "end_date": null
+      "website": "https://www.dominionenergy.com",
+      "start_date": null,
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Markel Group Inc.",
+      "ticker": "MKL",
+      "exchange": "NYSE",
+      "website": "https://www.mklgroup.com",
+      "title_or_role": "Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "nVent Electric plc",
+      "ticker": "NVT",
+      "exchange": "NYSE",
+      "website": "https://www.nvent.com",
+      "title_or_role": "Director",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CMS Energy Corporation",
+      "ticker": "CMS",
+      "exchange": "NYSE",
+      "website": "https://www.cmsenergy.com",
+      "title_or_role": "Director",
+      "start_date": "2026",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/diane-leopold-35ba46170",
+      "person_name": "Diane Leopold",
+      "company_name": "Dominion Energy",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

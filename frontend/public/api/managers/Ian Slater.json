@@ -7,12 +7,37 @@
     {
       "name": "Onyx Gold Corp.",
       "ticker": "ONYX",
-      "exchange": "TSX",
-      "website": "https://onyxgold.com",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
       "title": "Director",
-      "startDate": "2023-06-01",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2023 June",
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Zacapa Resources Ltd.",
+      "ticker": "ZACA",
+      "exchange": "TSXV",
+      "website": "https://zacaparesources.com/",
+      "logoUrl": "/companies-assets/ZACA.TSXV.png",
+      "title": "Executive Chairman, Chief Executive Officer",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "AUX Resources Corp. (formerly Auramex Resource Corp.)",
+      "ticker": "AUX",
+      "exchange": "TSXV",
+      "website": "https://auxresources.com/",
+      "logoUrl": "/companies-assets/AUX.TSXV.svg",
+      "title": "Chief Executive Officer, President",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
     }
   ],

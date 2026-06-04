@@ -7,12 +7,13 @@
     {
       "name": "Palantir Technologies Inc.",
       "ticker": "PLTR",
-      "exchange": "NYSE",
-      "website": "https://www.palantir.com",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
       "title": "Chief Revenue Officer and Chief Legal Officer",
-      "startDate": "2022-01-01",
+      "startDate": "2010",
       "endDate": null,
-      "formattedStartDate": "2022 January",
+      "formattedStartDate": "2010",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +21,18 @@
     "AI",
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ryan-taylor-67673a4",
+      "person_name": "Ryan Taylor",
+      "company_name": "Palantir Technologies",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 44,
   "ageYear": 2024

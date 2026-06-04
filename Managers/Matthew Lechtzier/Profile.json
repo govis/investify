@@ -6,6 +6,39 @@
   "age_year": 2024,
   "background": "Mr. Lechtzier is a senior advisor with Ivanhoe Capital Corporation and has over 30 years of experience in corporate finance and international business development. He has served on the boards of several public companies.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "GoviEx Uranium Inc.",
+      "ticker": "GXU",
+      "exchange": "TSXV",
+      "title_or_role": "Strategic Advisor",
+      "website": "https://goviex.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sage Potash Corp.",
+      "ticker": "SAGE",
+      "exchange": "TSXV",
+      "website": "https://www.sagepotash.com",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Maple Gold Mines Ltd.",
+      "ticker": "MGM",
+      "exchange": "TSXV",
+      "website": "https://www.maplegoldmines.com",
+      "title_or_role": "Strategic Advisor",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -15,14 +48,6 @@
     "Compensation Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "GoviEx Uranium Inc.",
-      "ticker": "GXU",
-      "exchange": "TSXV",
-      "title_or_role": "Independent Director",
-      "start_date": "2011-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

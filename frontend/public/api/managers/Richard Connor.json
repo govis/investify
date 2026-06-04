@@ -6,14 +6,27 @@
   "companies": [
     {
       "name": "Centerra Gold Inc.",
-      "ticker": "CGAU",
-      "exchange": "NYSE",
-      "website": "https://www.centerragold.com",
-      "title": "Independent Director",
-      "startDate": "2012-05-01",
+      "ticker": "CG",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2016",
       "endDate": null,
-      "formattedStartDate": "2012 May",
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
+    },
+    {
+      "name": "AuRico Gold Inc.",
+      "ticker": "AUQ",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Vice President & CFO",
+      "startDate": null,
+      "endDate": "Prior to becoming CEO of AuRico Gold",
+      "formattedStartDate": "",
+      "formattedEndDate": "Prior to becoming CEO of AuRico Gold"
     }
   ],
   "investmentTheses": [

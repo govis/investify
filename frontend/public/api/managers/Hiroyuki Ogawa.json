@@ -6,13 +6,14 @@
   "companies": [
     {
       "name": "Komatsu Ltd.",
-      "ticker": "KMTUY",
-      "exchange": "OTC",
-      "website": "https://www.komatsu.jp",
-      "title": "President and Chief Executive Officer, Representative Director",
-      "startDate": "2019-04-01",
+      "ticker": "6301",
+      "exchange": "Tokyo Stock Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "President, CEO & Representative Director; Chairman of the Board",
+      "startDate": "June 2019",
       "endDate": null,
-      "formattedStartDate": "2019 April",
+      "formattedStartDate": "June 2019",
       "formattedEndDate": ""
     }
   ],

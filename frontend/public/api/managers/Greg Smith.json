@@ -7,19 +7,31 @@
     {
       "name": "Equinox Gold Corp.",
       "ticker": "EQX",
-      "exchange": "NYSE",
-      "website": "https://www.equinoxgold.com",
-      "title": "Director, President and Chief Executive Officer",
-      "startDate": "2022-09-01",
-      "endDate": null,
-      "formattedStartDate": "2022 September",
-      "formattedEndDate": ""
+      "exchange": "TSX / NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "President & Chief Executive Officer / Director",
+      "startDate": "August 2022",
+      "endDate": "2025",
+      "formattedStartDate": "August 2022",
+      "formattedEndDate": "2025"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/greg-smith-fcpa-fca-4a5a5a1a",
+      "person_name": "Greg Smith",
+      "company_name": "Equinox Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 48,
   "ageYear": 2024

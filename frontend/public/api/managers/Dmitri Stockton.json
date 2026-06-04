@@ -5,21 +5,69 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Deere & Company",
-      "ticker": "DE",
+      "name": "Target Corporation",
+      "ticker": "TGT",
       "exchange": "NYSE",
-      "website": "https://www.deere.com",
-      "title": "Independent Director",
-      "startDate": "2015-01-01",
+      "website": "https://www.target.com",
+      "logoUrl": "/companies-assets/TGT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2018-03-05",
       "endDate": null,
-      "formattedStartDate": "2015 January",
+      "formattedStartDate": "March 2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Ryder System, Inc.",
+      "ticker": "R",
+      "exchange": "NYSE",
+      "website": "ryder.com",
+      "logoUrl": "/companies-assets/R.NYSE.svg",
+      "title": "Director",
+      "startDate": "2018-03-01",
+      "endDate": null,
+      "formattedStartDate": "March 2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Smurfit Westrock plc",
+      "ticker": "SW",
+      "exchange": "NYSE",
+      "website": "smurfitwestrock.com",
+      "logoUrl": "/companies-assets/SW.NYSE.svg",
+      "title": "Director",
+      "startDate": "2022",
+      "endDate": "2025-05-02",
+      "formattedStartDate": "2022",
+      "formattedEndDate": "May 2025"
+    },
+    {
+      "name": "General Electric Company",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "website": "https://www.geaerospace.com",
+      "logoUrl": "/companies-assets/GE.NYSE.svg",
+      "title": "President & CEO, GE Asset Management",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dmitri-stockton-b99a42a4",
+      "person_name": "Dmitri Stockton",
+      "company_name": "General Electric",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Finance Committee"

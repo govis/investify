@@ -3,19 +3,7 @@
   "name": "Loretta Marshall",
   "background": "Loretta Marshall is a senior executive with experience in finance and corporate governance.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "Barrick Gold Corporation",
-      "ticker": "GOLD",
-      "exchange": "NYSE",
-      "website": "https://www.barrick.com",
-      "title": "Independent Director",
-      "startDate": "2020-02-12",
-      "endDate": null,
-      "formattedStartDate": "2020 February",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "Gold"
   ],

@@ -7,19 +7,67 @@
     {
       "name": "Equinox Gold Corp.",
       "ticker": "EQX",
-      "exchange": "NYSE",
-      "website": "https://www.equinoxgold.com",
-      "title": "Independent Director",
-      "startDate": "2017-12-22",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2017",
       "endDate": null,
-      "formattedStartDate": "2017 December",
+      "formattedStartDate": "2017",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Augusta Gold Corp.",
+      "ticker": "G",
+      "exchange": "TSX",
+      "website": "https://www.newmont.com",
+      "logoUrl": "/companies-assets/G.TSX.svg",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "SRHI Inc. (formerly Sprott Resource Holdings Inc.)",
+      "ticker": "SRHI",
+      "exchange": "TSX",
+      "website": "https://www.srhi.ca",
+      "logoUrl": "https://www.srhi.ca/wp-content/uploads/2019/05/SRHI-Logo-Final-01.png",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": "2021",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "NewCastle Gold Ltd.",
+      "ticker": "NCA",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "https://www.equinoxgold.com/wp-content/uploads/2021/03/Equinox-Gold-Logo.png",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": "2017",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2017"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/lenard-boggio-4a5a5a12",
+      "person_name": "Lenard Boggio",
+      "company_name": "Equinox Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee (Chair)",
     "Compensation Committee"

@@ -9,10 +9,23 @@
       "ticker": "LICY",
       "exchange": "NYSE",
       "website": "https://li-cycle.com",
-      "title": "Independent Director",
-      "startDate": "2021-08-01",
+      "logoUrl": "/companies-assets/LICY.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2021 August",
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "American Resources Corporation",
+      "ticker": "AREC",
+      "exchange": "NASDAQ",
+      "website": "https://americanresourcescorp.com",
+      "logoUrl": "/companies-assets/AREC.NASDAQ.png",
+      "title": "Chairman and Chief Executive Officer",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
       "formattedEndDate": ""
     }
   ],

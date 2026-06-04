@@ -5,15 +5,76 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Energy Fuels Inc.",
-      "ticker": "UUUU",
-      "exchange": "NYSE",
-      "website": "https://www.energyfuels.com",
-      "title": "Independent Director",
-      "startDate": "2023-01-01",
+      "name": "Ascot Resources Ltd. (now Cambria Gold Mines Inc.)",
+      "ticker": "AOT",
+      "exchange": "TSX",
+      "website": "https://ascotgold.com/",
+      "logoUrl": "/companies-assets/AOT.TSX.svg",
+      "title": "Non-Executive Chair of the Board",
+      "startDate": "2025-12",
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "December 2025",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Nations Royalty Corp.",
+      "ticker": "NRYCF",
+      "exchange": "OTC",
+      "website": "https://nationsroyalty.com/",
+      "logoUrl": "/companies-assets/NRYCF.OTC.webp",
+      "title": "Independent Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Venerable Ventures Ltd.",
+      "ticker": "VLV.H",
+      "exchange": "TSX Venture Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Deterra Royalties Ltd.",
+      "ticker": "DRR",
+      "exchange": "ASX",
+      "website": "https://www.deterraroyalties.com",
+      "logoUrl": "/companies-assets/DRR.ASX.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Franco-Nevada Corporation",
+      "ticker": "FNV",
+      "exchange": "TSX/NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice President and Chief Financial Officer",
+      "startDate": "2007",
+      "endDate": "2010",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2010"
+    },
+    {
+      "name": "Newmont Mining Corporation",
+      "ticker": "NEM",
+      "exchange": "NYSE",
+      "website": "https://www.newmont.com",
+      "logoUrl": "/companies-assets/NEM.NYSE.svg",
+      "title": "Vice President, Information Technology; Vice President, Operations Services; Group Executive, Operations Services; Group Executive, Internal Audit",
+      "startDate": "2002",
+      "endDate": "2007",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "2007"
     }
   ],
   "investmentTheses": [

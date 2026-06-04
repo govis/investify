@@ -9,17 +9,89 @@
       "ticker": "PEG",
       "exchange": "NYSE",
       "website": "https://www.pseg.com",
-      "title": "Independent Director",
-      "startDate": "2019-01-01",
+      "logoUrl": "/companies-assets/PEG.NYSE.svg",
+      "title": "Director",
+      "startDate": "2018",
       "endDate": null,
-      "formattedStartDate": "2019 January",
+      "formattedStartDate": "2018",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Kinetik Holdings Inc.",
+      "ticker": "KNTK",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Lead Independent Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Murphy Oil Corporation",
+      "ticker": "MUR",
+      "exchange": "NYSE",
+      "website": "murphyoilcorp.com",
+      "logoUrl": "/companies-assets/MUR.NYSE.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "The Williams Companies, Inc.",
+      "ticker": "WMB",
+      "exchange": "NYSE",
+      "website": "williams.com",
+      "logoUrl": "/companies-assets/WMB.NYSE.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": "2016",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Denbury Inc. (formerly Denbury Resources Inc.)",
+      "ticker": "DEN",
+      "exchange": "NYSE",
+      "website": "denbury.com",
+      "logoUrl": "/companies-assets/DEN.NYSE.svg",
+      "title": "Director",
+      "startDate": "2011",
+      "endDate": "2019",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "ConocoPhillips",
+      "ticker": "COP",
+      "exchange": "NYSE",
+      "website": "conocophillips.com",
+      "logoUrl": "/companies-assets/COP.NYSE.svg",
+      "title": "Executive (Various)",
+      "startDate": null,
+      "endDate": "2010",
+      "formattedStartDate": "",
+      "formattedEndDate": "2010"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/laura-sugg-b9697387",
+      "person_name": "Laura Sugg",
+      "company_name": "Public Service Enterprise Group Incorporated",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Executive",
     "Finance (Chair)"

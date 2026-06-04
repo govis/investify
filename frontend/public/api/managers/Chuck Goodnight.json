@@ -9,17 +9,29 @@
       "ticker": "SMR",
       "exchange": "NYSE",
       "website": "https://www.nuscalepower.com",
-      "title": "Chief Operating Officer",
-      "startDate": "2024-01-01",
+      "logoUrl": "/companies-assets/SMR.NYSE.svg",
+      "title": "Vice President of Sales / Vice President of Business Development",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2024 January",
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/chuck-goodnight-5a5a5a5a",
+      "person_name": "Chuck Goodnight",
+      "company_name": "NuScale Power",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 63,
   "ageYear": 2024

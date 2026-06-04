@@ -6,21 +6,57 @@
   "age_year": 2024,
   "background": "Debora Shoquist joined NVIDIA in 2007 and serves as Executive Vice President, Operations. Prior to NVIDIA, Ms. Shoquist served as Executive Vice President of Operations at JDS Uniphase Corp. and Senior Vice President of Operations at Coherent, Inc. She also spent 11 years at Quantum Corp. and 10 years at Hewlett-Packard Company in various engineering and manufacturing management roles. Ms. Shoquist holds a B.S. degree in Electrical Engineering from Kansas State University and a B.S. degree in Biology from Santa Clara University.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "exchange": "NASDAQ",
+      "title_or_role": "Executive Vice President of Operations",
+      "website": "https://www.nvidia.com",
+      "start_date": "2007",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "JDS Uniphase Corporation",
+      "ticker": "JDSU",
+      "exchange": "NASDAQ",
+      "website": "https://www.viavisolutions.com",
+      "title_or_role": "Executive Vice President of Operations",
+      "start_date": "2004",
+      "end_date": "2007",
+      "validated": true
+    },
+    {
+      "name": "Coherent, Inc.",
+      "ticker": "COHR",
+      "exchange": "NYSE",
+      "website": "https://www.coherent.com",
+      "title_or_role": "Senior Vice President and General Manager, Electro-Optics Business",
+      "start_date": "2002",
+      "end_date": "2004",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI",
     "Defense",
     "Electrification"
   ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "socials": [
     {
-      "name": "NVIDIA Corporation",
-      "ticker": "NVDA",
-      "exchange": "NASDAQ",
-      "title_or_role": "Executive Vice President, Operations",
-      "start_date": "2007-01-01",
-      "end_date": null
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/debbie-shoquist-620a813",
+      "person_name": "Debora Shoquist",
+      "company_name": "NVIDIA Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
-  ]
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

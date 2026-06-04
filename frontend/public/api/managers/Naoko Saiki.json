@@ -6,13 +6,26 @@
   "companies": [
     {
       "name": "Komatsu Ltd.",
-      "ticker": "KMTUY",
-      "exchange": "OTC",
-      "website": "https://www.komatsu.jp",
-      "title": "Outside Director",
-      "startDate": "2023-06-01",
+      "ticker": "6301",
+      "exchange": "Tokyo Stock Exchange (TSE)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director (Outside Director)",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2023 June",
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "INPEX CORPORATION",
+      "ticker": "1605",
+      "exchange": "Tokyo Stock Exchange (TSE)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Outside Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
     }
   ],

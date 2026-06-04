@@ -6,14 +6,51 @@
   "companies": [
     {
       "name": "B2Gold Corp.",
-      "ticker": "BTG",
-      "exchange": "NYSE",
-      "website": "https://www.b2gold.com",
-      "title": "Director",
-      "startDate": "2007-11-30",
+      "ticker": "BTO",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Director",
+      "startDate": "2007",
       "endDate": null,
-      "formattedStartDate": "2007 November",
+      "formattedStartDate": "2007",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Perpetua Resources Corp. (formerly Midas Gold Corp.)",
+      "ticker": "MAX",
+      "exchange": "TSX",
+      "website": "https://www.perpetuaresources.com",
+      "logoUrl": "/companies-assets/MAX.TSX.svg",
+      "title": "Director",
+      "startDate": "2011",
+      "endDate": null,
+      "formattedStartDate": "2011",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Bema Gold Corporation",
+      "ticker": "BGO",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "/companies-assets/BGO.TSX.png",
+      "title": "Director",
+      "startDate": "2002",
+      "endDate": "2007",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "2007"
+    },
+    {
+      "name": "Mitra Energy Limited",
+      "ticker": "MEA",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": "/companies-assets/MEA.TSXV.png",
+      "title": "Chairman",
+      "startDate": "2008",
+      "endDate": "2016",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2016"
     }
   ],
   "investmentTheses": [

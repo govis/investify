@@ -5,21 +5,57 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Global X Lithium & Battery Tech ETF",
-      "ticker": "LIT",
+      "name": "Credit Suisse Group AG",
+      "ticker": "CS",
       "exchange": "NYSE",
-      "website": "https://www.globalxetfs.com/funds/lit/",
-      "title": "Chief Operating Officer",
-      "startDate": "2020-01-01",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice President (Product Management for ETN platform)",
+      "startDate": "Not specified",
+      "endDate": "2019",
+      "formattedStartDate": "Not specified",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "IntelePeer, Inc.",
+      "ticker": "N/A",
+      "exchange": "N/A (SEC Reporting)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Vice President of Service Provider Sales",
+      "startDate": "2011",
+      "endDate": "2012",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "Global X ETFs (Global X Lithium & Battery Tech ETF)",
+      "ticker": "LIT",
+      "exchange": "NYSE Arca",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Leadership (Head of Product/Strategy)",
+      "startDate": "2019",
       "endDate": null,
-      "formattedStartDate": "2020 January",
+      "formattedStartDate": "2019",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/john-belanger-cfa-b184a355",
+      "person_name": "John Belanger",
+      "company_name": "Global X ETFs",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 53,
   "ageYear": 2024

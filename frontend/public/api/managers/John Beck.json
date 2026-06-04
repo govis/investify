@@ -9,17 +9,29 @@
       "ticker": "ARE",
       "exchange": "TSX",
       "website": "https://www.aecon.com",
-      "title": "Chairman",
-      "startDate": "1963-01-01",
+      "logoUrl": "/companies-assets/ARE.TSX.svg",
+      "title": "Founder and Chairman (Board of Directors)",
+      "startDate": "1978",
       "endDate": null,
-      "formattedStartDate": "1963 January",
+      "formattedStartDate": "1978",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/john-beck-417a134",
+      "person_name": "John Beck",
+      "company_name": "Aecon Group Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 82,
   "ageYear": 2024

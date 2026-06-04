@@ -6,19 +6,44 @@
   "age_year": 2024,
   "background": "Mr. He is our co-founder, executive director, chairman of the board of directors and chief executive officer. Prior to founding our company, Mr. He served as the president of Alibaba Mobile Business Group and was in charge of the mobile browser, mobile search, and location-based services. He co-founded UCWeb Inc. in 2004 and served as its president.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "XPeng Inc.",
       "ticker": "XPEV",
       "exchange": "NYSE",
       "title_or_role": "Chairman and Chief Executive Officer, Chairman of the Board",
+      "website": "https://www.xiaopeng.com",
       "start_date": "2015-01-01",
       "end_date": null
+    },
+    {
+      "name": "Alibaba Group Holding Limited",
+      "ticker": "BABA",
+      "exchange": "NYSE",
+      "website": "https://www.alibabagroup.com/",
+      "title_or_role": "President of Alibaba Mobile Business Group (also served as President of UCWeb, Chairman of Ali Games, and President of Tudou)",
+      "start_date": "June 2014",
+      "end_date": "August 2017",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://cn.linkedin.com/in/xiaopeng-he-41615484",
+      "person_name": "Xiaopeng He",
+      "company_name": "XPeng Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

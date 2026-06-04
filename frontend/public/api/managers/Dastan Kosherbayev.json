@@ -9,17 +9,29 @@
       "ticker": "KAP",
       "exchange": "LSE",
       "website": "https://www.kazatomprom.kz",
-      "title": "Chief Strategy and Development Officer",
-      "startDate": "2023-06-23",
+      "logoUrl": "/companies-assets/KAP.LSE.svg",
+      "title": "Chief Commercial Officer",
+      "startDate": "2021-01-01",
       "endDate": null,
-      "formattedStartDate": "2023 June",
+      "formattedStartDate": "January 2021",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://kz.linkedin.com/in/dastan-kosherbayev-70614891/en",
+      "person_name": "Dastan Kosherbayev",
+      "company_name": "National Atomic Company Kazatomprom JSC",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 36,
   "ageYear": 2024

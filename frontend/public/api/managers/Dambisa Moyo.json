@@ -5,21 +5,105 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Chevron Corporation",
-      "ticker": "CVX",
-      "exchange": "NYSE",
-      "website": "https://www.chevron.com",
-      "title": "Independent Director",
-      "startDate": "2016-10-01",
+      "name": "Starbucks Corporation",
+      "ticker": "SBUX",
+      "exchange": "NASDAQ",
+      "website": "https://www.starbucks.com",
+      "logoUrl": "/companies-assets/SBUX.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2025",
       "endDate": null,
-      "formattedStartDate": "2016 October",
+      "formattedStartDate": "2025",
       "formattedEndDate": ""
+    },
+    {
+      "name": "3M Company",
+      "ticker": "MMM",
+      "exchange": "NYSE",
+      "website": "3m.com",
+      "logoUrl": "/companies-assets/MMM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": "2023",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Barrick Gold Corporation",
+      "ticker": "GOLD",
+      "exchange": "NYSE",
+      "website": "https://www.barrick.com",
+      "logoUrl": "/companies-assets/GOLD.NYSE.svg",
+      "title": "Director",
+      "startDate": "2011",
+      "endDate": "2020",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Barclays PLC",
+      "ticker": "BCS",
+      "exchange": "NYSE",
+      "website": "https://www.home.barclays",
+      "logoUrl": "/companies-assets/BCS.NYSE.svg",
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": "2017",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "SABMiller PLC",
+      "ticker": "SAB",
+      "exchange": "LSE",
+      "website": "https://www.sabmiller.com",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/SABMiller_logo.svg/1200px-SABMiller_logo.svg.png",
+      "title": "Director",
+      "startDate": "2009",
+      "endDate": "2016",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Seagate Technology Holdings PLC",
+      "ticker": "STX",
+      "exchange": "NASDAQ",
+      "website": "https://www.seagate.com",
+      "logoUrl": "/companies-assets/STX.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": "2015",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Lundin Energy AB",
+      "ticker": "LUNE",
+      "exchange": "STO",
+      "website": "https://www.lundin-energy.com",
+      "logoUrl": "/companies-assets/LUNE.STO.svg",
+      "title": "Director",
+      "startDate": "2009",
+      "endDate": "2012",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2012"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dambisamoyo",
+      "person_name": "Dambisa Moyo",
+      "company_name": "Multiple (including Chevron Corporation, Starbucks Corporation, 3M Company, etc.)",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Public Policy and Sustainability Committee"

@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "De Grey Mining Limited",
-      "ticker": "DEG",
+      "name": "St Barbara Limited",
+      "ticker": "SBM",
       "exchange": "ASX",
-      "website": "https://degreymining.com.au",
-      "title": "Chief Operating Officer",
-      "startDate": "2024-01-01",
-      "endDate": null,
-      "formattedStartDate": "2024 January",
-      "formattedEndDate": ""
+      "website": "https://stbarbara.com.au/",
+      "logoUrl": "/companies-assets/SBM.ASX.png",
+      "title": "Managing Director and Chief Executive Officer",
+      "startDate": "2020-09-01",
+      "endDate": "2022-11-14",
+      "formattedStartDate": "September 2020",
+      "formattedEndDate": "November 2022"
+    },
+    {
+      "name": "Bardoc Gold Limited",
+      "ticker": "BDC",
+      "exchange": "ASX",
+      "website": "https://www.bardocgold.com.au/",
+      "logoUrl": "/companies-assets/BDC.ASX.png",
+      "title": "Director",
+      "startDate": "2022-02-01",
+      "endDate": "2022-04-12",
+      "formattedStartDate": "February 2022",
+      "formattedEndDate": "April 2022"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/craig-jetson-114a6513",
+      "person_name": "Craig Jetson",
+      "company_name": "De Grey Mining Limited, St Barbara Limited, Bardoc Gold Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": null,
   "ageYear": null

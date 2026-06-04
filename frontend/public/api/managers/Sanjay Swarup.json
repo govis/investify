@@ -5,21 +5,33 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Aclara Resources Inc.",
-      "ticker": "ARA",
-      "exchange": "TSX",
-      "website": "https://www.aclara.com",
-      "title": "Independent Director",
-      "startDate": "2021-12-01",
+      "name": "Container Corporation of India Limited",
+      "ticker": "CONCOR",
+      "exchange": "NSE",
+      "website": "https://concorindia.co.in/",
+      "logoUrl": "/companies-assets/CONCOR.NSE.png",
+      "title": "Chairman & Managing Director (CMD)",
+      "startDate": "October 1, 2023",
       "endDate": null,
-      "formattedStartDate": "2021 December",
+      "formattedStartDate": "October 1, 2023",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/sanjaykswarup",
+      "person_name": "Sanjay Swarup",
+      "company_name": "Container Corporation of India Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

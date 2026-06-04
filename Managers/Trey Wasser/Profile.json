@@ -6,20 +6,56 @@
   "age_year": 2024,
   "background": "Mr. Wasser has over 40 years of experience in the financial services and mining industries. He is currently the CEO of Dryden Gold Corp. and was previously the President and CEO of Ely Gold Royalties Inc. until its acquisition by Gold Royalty Corp. in 2021. He has extensive experience in capital markets and corporate development.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Dryden Gold Corp.",
+      "ticker": "DRY",
+      "exchange": "TSXV",
+      "title_or_role": "CEO & Director",
+      "website": "https://drydengold.com/",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Gold Royalty Corp.",
+      "ticker": "GROY",
+      "exchange": "NYSE",
+      "website": "https://www.goldroyalty.com/",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ely Gold Royalties Inc.",
+      "ticker": "ELY",
+      "exchange": "TSXV",
+      "website": "https://elygoldinc.com/",
+      "title_or_role": "President, CEO & Director",
+      "start_date": "2017",
+      "end_date": "2021",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold",
     "Nuclear"
   ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "socials": [
     {
-      "name": "Dryden Gold Corp.",
-      "ticker": "DRY",
-      "exchange": "TSX",
-      "title_or_role": "Chief Executive Officer, Director",
-      "start_date": "2022-10-01",
-      "end_date": null
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/trey-wasser-483a21263",
+      "person_name": "Trey Wasser",
+      "company_name": "Dryden Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
-  ]
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

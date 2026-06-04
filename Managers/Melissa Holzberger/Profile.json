@@ -6,22 +6,78 @@
   "age_year": 2024,
   "background": "Ms Holzberger is a commercial lawyer with over 20 years\u2019 experience in the resources and energy sectors. She has held senior legal and board positions with several ASX-listed companies and government organisations. She has extensive experience in corporate governance and risk management.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit and Risk Committee",
-    "Remuneration and Nomination Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Paladin Energy Ltd",
       "ticker": "PDN",
       "exchange": "ASX",
       "title_or_role": "Non-Executive Director",
-      "start_date": "2021-12-15",
-      "end_date": null
+      "website": "paladinenergy.com.au",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Karoon Energy Ltd",
+      "ticker": "KAR",
+      "exchange": "ASX",
+      "website": "karoonenergy.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2024-04-19",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Andromeda Metals Ltd",
+      "ticker": "ADN",
+      "exchange": "ASX",
+      "website": "andromedametals.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Silex Systems Ltd",
+      "ticker": "SLX",
+      "exchange": "ASX",
+      "website": "silex.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "Unknown",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Argo Investments Ltd",
+      "ticker": "ARG",
+      "exchange": "ASX",
+      "website": "argoinvestments.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2021",
+      "end_date": "2024",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/melissaholzberger100423",
+      "person_name": "Melissa Holzberger",
+      "company_name": "Paladin Energy Ltd",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -7,19 +7,55 @@
     {
       "name": "DLP Resources Inc.",
       "ticker": "DLP",
-      "exchange": "TSX",
-      "website": "https://dlpresourcesinc.com",
-      "title": "Chief Executive Officer, Director, President",
-      "startDate": "2019-11-01",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "President & CEO",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2019 November",
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Spark Energy Minerals Inc.",
+      "ticker": "SPRK",
+      "exchange": "CSE",
+      "website": "https://sparkminerals.co",
+      "logoUrl": "/companies-assets/SPRK.CSE.png",
+      "title": "Technical Advisory Board",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC",
+      "exchange": "TSX",
+      "website": "https://oceanagold.com",
+      "logoUrl": "/companies-assets/OGC.TSX.svg",
+      "title": "Project Generation Manager (North America)",
+      "startDate": "2019",
+      "endDate": "2022",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2022"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/ian-gendall-3aa77344",
+      "person_name": "Ian Gendall",
+      "company_name": "DLP Resources Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 64,
   "ageYear": 2024

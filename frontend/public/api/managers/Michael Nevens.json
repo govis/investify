@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "NetApp, Inc.",
-      "ticker": "NTAP",
-      "exchange": "NASDAQ",
-      "website": "https://www.netapp.com",
-      "title": "Chairman of the Board, Director",
-      "startDate": "2015-05-01",
+      "name": "Ciena Corporation",
+      "ticker": "CIEN",
+      "exchange": "NYSE",
+      "website": "https://www.ciena.com",
+      "logoUrl": "/companies-assets/CIEN.NYSE.svg",
+      "title": "Director",
+      "startDate": "February 4, 2014",
       "endDate": null,
-      "formattedStartDate": "2015 May",
+      "formattedStartDate": "February 4, 2014",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Altera Corporation",
+      "ticker": "ALTR",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "logoUrl": "/companies-assets/ALTR.NASDAQ.png",
+      "title": "Director",
+      "startDate": "November 2009",
+      "endDate": "December 2015",
+      "formattedStartDate": "November 2009",
+      "formattedEndDate": "December 2015"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michael-nevens-a57bb13",
+      "person_name": "Michael Nevens",
+      "company_name": "NetApp, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Corporate Governance and Nominating Committee"
   ],

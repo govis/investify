@@ -9,17 +9,65 @@
       "ticker": "PL",
       "exchange": "NYSE",
       "website": "https://www.planet.com",
-      "title": "President, Product and Business",
-      "startDate": "2021-05-01",
+      "logoUrl": "/companies-assets/PL.NYSE.svg",
+      "title": "President of Product and Business",
+      "startDate": "2018",
+      "endDate": "2024",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "website": "https://www.cisco.com",
+      "logoUrl": "/companies-assets/CSCO.NASDAQ.svg",
+      "title": "Board of Directors",
+      "startDate": "2025",
       "endDate": null,
-      "formattedStartDate": "2021 May",
+      "formattedStartDate": "2025",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Meta Platforms, Inc. (formerly Facebook)",
+      "ticker": "META",
+      "exchange": "NASDAQ",
+      "website": "https://about.meta.com",
+      "logoUrl": "/companies-assets/META.NASDAQ.svg",
+      "title": "VP of Product (Instagram/Novi)",
+      "startDate": "2016",
+      "endDate": "2018",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Twitter, Inc. (now X Corp.)",
+      "ticker": "TWTR (delisted)",
+      "exchange": "NYSE (delisted)",
+      "website": null,
+      "logoUrl": null,
+      "title": "SVP of Product",
+      "startDate": "2009",
+      "endDate": "2016",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2016"
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kevinweil",
+      "person_name": "Kevin Weil",
+      "company_name": "Planet Labs",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 41,
   "ageYear": 2024

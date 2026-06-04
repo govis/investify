@@ -9,17 +9,29 @@
       "ticker": "X",
       "exchange": "NYSE",
       "website": "https://www.ussteel.com",
-      "title": "Senior Vice President and Chief Manufacturing Officer",
-      "startDate": "2021-01-01",
+      "logoUrl": "/companies-assets/X.NYSE.svg",
+      "title": "Senior Vice President / Chief Manufacturing Officer, North American Flat-Rolled (NAFR)",
+      "startDate": "2009",
       "endDate": null,
-      "formattedStartDate": "2021 January",
+      "formattedStartDate": "2009",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/scott-buckiso-63546310",
+      "person_name": "Scott Buckiso",
+      "company_name": "United States Steel Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 57,
   "ageYear": 2024

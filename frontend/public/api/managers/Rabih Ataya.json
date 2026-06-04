@@ -6,20 +6,32 @@
   "companies": [
     {
       "name": "Western Magnesium Corporation",
-      "ticker": "WMG",
-      "exchange": "TSX",
-      "website": "https://westernmagnesium.com",
-      "title": "Director",
-      "startDate": "2018-01-01",
-      "endDate": null,
-      "formattedStartDate": "2018 January",
-      "formattedEndDate": ""
+      "ticker": "WMG.V",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director / Executive Vice President, Special Projects",
+      "startDate": "March 2020",
+      "endDate": "June 1, 2023",
+      "formattedStartDate": "March 2020",
+      "formattedEndDate": "June 1, 2023"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/rabih-ataya-p-eng-69b5b061",
+      "person_name": "Rabih Ataya",
+      "company_name": "Western Magnesium Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

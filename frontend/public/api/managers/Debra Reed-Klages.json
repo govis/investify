@@ -5,15 +5,40 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Caterpillar Inc.",
-      "ticker": "CAT",
+      "name": "Chevron Corporation",
+      "ticker": "CVX",
       "exchange": "NYSE",
-      "website": "https://www.caterpillar.com",
-      "title": "Independent Director",
-      "startDate": "2015-01-01",
+      "website": "https://www.chevron.com",
+      "logoUrl": "/companies-assets/CVX.NYSE.svg",
+      "title": "Director",
+      "startDate": "2018",
       "endDate": null,
-      "formattedStartDate": "2015 January",
+      "formattedStartDate": "2018",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Lockheed Martin Corporation",
+      "ticker": "LMT",
+      "exchange": "NYSE",
+      "website": "https://www.lockheedmartin.com",
+      "logoUrl": "/companies-assets/LMT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sempra Energy",
+      "ticker": "SRE",
+      "exchange": "NYSE",
+      "website": "https://www.sempra.com",
+      "logoUrl": "/companies-assets/SRE.NYSE.svg",
+      "title": "Chairman, President and Chief Executive Officer",
+      "startDate": "2011",
+      "endDate": "2018",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2018"
     }
   ],
   "investmentTheses": [

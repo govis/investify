@@ -6,20 +6,104 @@
   "companies": [
     {
       "name": "Atlas Copco AB",
-      "ticker": "ATCO",
+      "ticker": "ATCO-A",
       "exchange": "STO",
-      "website": "https://www.atlascopcogroup.com",
-      "title": "Chair of the Board",
-      "startDate": "2014-01-01",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman of the Board",
+      "startDate": "2017",
       "endDate": null,
-      "formattedStartDate": "2014 January",
+      "formattedStartDate": "2017",
       "formattedEndDate": ""
+    },
+    {
+      "name": "AB SKF",
+      "ticker": "SKF-A",
+      "exchange": "STO",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman of the Board",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Electrolux AB",
+      "ticker": "ELUX-B",
+      "exchange": "STO",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and CEO",
+      "startDate": "2002",
+      "endDate": "2010",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "2010"
+    },
+    {
+      "name": "Stora Enso Oyj",
+      "ticker": "STE-A",
+      "exchange": "STO",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Member",
+      "startDate": "2009",
+      "endDate": "2021",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Investor AB",
+      "ticker": "INVE-B",
+      "exchange": "STO",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Member",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Munters Group AB",
+      "ticker": "MTRS",
+      "exchange": "STO",
+      "website": "munters.com",
+      "logoUrl": "/companies-assets/MTRS.STO.svg",
+      "title": "Board Member",
+      "startDate": "2017",
+      "endDate": "2023",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Nederman Holding AB",
+      "ticker": "NMAN",
+      "exchange": "STO",
+      "website": "nedermangroup.com",
+      "logoUrl": "/companies-assets/NMAN.STO.svg",
+      "title": "Board Member",
+      "startDate": "2011",
+      "endDate": "2018",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2018"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/hans-stråberg-4a5b2a1/",
+      "person_name": "Hans Stråberg",
+      "company_name": "Atlas Copco AB",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Remuneration Committee"

@@ -9,17 +9,53 @@
       "ticker": "LUG",
       "exchange": "TSX",
       "website": "https://lundingold.com",
-      "title": "Vice President, Legal and Corporate Secretary",
-      "startDate": "2015-01-01",
+      "logoUrl": "/companies-assets/LUG.TSX.svg",
+      "title": "Vice President, Legal and Sustainability & Corporate Secretary",
+      "startDate": "2015",
       "endDate": null,
-      "formattedStartDate": "2015 January",
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Lucara Diamond Corp.",
+      "ticker": "LUC",
+      "exchange": "TSX",
+      "website": "lucaradiamond.com",
+      "logoUrl": "/companies-assets/LUC.TSX.png",
+      "title": "Director (Independent)",
+      "startDate": "May 2024",
+      "endDate": null,
+      "formattedStartDate": "May 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Moneta Gold Inc. (now STLLR Gold Inc.)",
+      "ticker": "STLR",
+      "exchange": "TSX",
+      "website": "https://stllrgold.com",
+      "logoUrl": "/companies-assets/STLR.TSX.png",
+      "title": "Director",
+      "startDate": "December 7, 2022",
+      "endDate": null,
+      "formattedStartDate": "December 7, 2022",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/sheila-colman-llb-icd-d-gcb-d-09399612",
+      "person_name": "Sheila Colman",
+      "company_name": "Lundin Gold Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 54,
   "ageYear": 2024

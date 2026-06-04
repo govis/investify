@@ -9,17 +9,65 @@
       "ticker": "GXU",
       "exchange": "TSXV",
       "website": "https://www.goviex.com",
-      "title": "Independent Director",
-      "startDate": "2017-01-01",
+      "logoUrl": "/companies-assets/GXU.TSXV.svg",
+      "title": "Director",
+      "startDate": "2014-01",
       "endDate": null,
-      "formattedStartDate": "2017 January",
+      "formattedStartDate": "January 2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Aya Gold & Silver Inc.",
+      "ticker": "AYA",
+      "exchange": "TSX",
+      "website": "https://ayagoldsilver.com",
+      "logoUrl": "/companies-assets/AYA.TSX.svg",
+      "title": "President & CEO",
+      "startDate": "2020-04",
+      "endDate": null,
+      "formattedStartDate": "April 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "SEMAFO Inc.",
+      "ticker": "SMF",
+      "exchange": "TSX",
+      "website": "https://semafo.com",
+      "logoUrl": "https://financialreports.eu/companies/semafo-inc/logo.png",
+      "title": "Founder, President & CEO",
+      "startDate": "1995",
+      "endDate": "2012",
+      "formattedStartDate": "1995",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "20-20 Technologies Inc.",
+      "ticker": "TWT",
+      "exchange": "TSX",
+      "website": "https://2020spaces.com",
+      "logoUrl": "/companies-assets/TWT.TSX.jpg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/benoit-la-salle-fcpa-mba-23402310a",
+      "person_name": "Benoit La Salle",
+      "company_name": "Aya Gold & Silver Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee",

@@ -9,17 +9,113 @@
       "ticker": "META",
       "exchange": "NASDAQ",
       "website": "https://about.meta.com",
-      "title": "Independent Director",
-      "startDate": "2020-03-01",
+      "logoUrl": "/companies-assets/META.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "March 2020",
       "endDate": null,
-      "formattedStartDate": "2020 March",
+      "formattedStartDate": "March 2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Certara, Inc.",
+      "ticker": "CERT",
+      "exchange": "NASDAQ",
+      "website": "https://www.certara.com",
+      "logoUrl": "/companies-assets/CERT.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cardinal Health, Inc.",
+      "ticker": "CAH",
+      "exchange": "NYSE",
+      "website": "https://www.cardinalhealth.com",
+      "logoUrl": "/companies-assets/CAH.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2017",
+      "endDate": "2023",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "CSRA Inc.",
+      "ticker": "CSRA",
+      "exchange": "NYSE",
+      "website": "https://www.gd.com",
+      "logoUrl": "/companies-assets/CSRA.NYSE.png",
+      "title": "Member of the Board of Directors (Independent Chair)",
+      "startDate": "2015",
+      "endDate": "2018",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "The Advisory Board Company",
+      "ticker": "ABCO",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "/companies-assets/ABCO.NASDAQ.png",
+      "title": "Member of the Board of Directors",
+      "startDate": "2013",
+      "endDate": "2017",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Computer Sciences Corporation (now DXC Technology)",
+      "ticker": "CSC",
+      "exchange": "NYSE",
+      "website": "https://www.dxc.com",
+      "logoUrl": "/companies-assets/CSC.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2013",
+      "endDate": "2017",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Avon Products, Inc.",
+      "ticker": "AVP",
+      "exchange": "NYSE",
+      "website": "https://www.avonworldwide.com",
+      "logoUrl": "/companies-assets/AVP.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2013",
+      "endDate": "2016",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Taubman Centers, Inc.",
+      "ticker": "TCO",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "/companies-assets/TCO.NYSE.png",
+      "title": "Member of the Board of Directors",
+      "startDate": "2014",
+      "endDate": "2018",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2018"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/nancy-killefer-84130621",
+      "person_name": "Nancy Killefer",
+      "company_name": "Meta Platforms, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Governance Committee"

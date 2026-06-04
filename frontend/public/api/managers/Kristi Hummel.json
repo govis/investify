@@ -5,21 +5,57 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Nextracker Inc.",
-      "ticker": "NXT",
-      "exchange": "NASDAQ",
-      "website": "https://www.nextracker.com",
-      "title": "Independent Director",
-      "startDate": "2023-02-01",
+      "name": "UnitedHealth Group, Inc.",
+      "ticker": "UNH",
+      "exchange": "NYSE",
+      "website": "https://www.unitedhealthgroup.com",
+      "logoUrl": "/companies-assets/UNH.NYSE.svg",
+      "title": "Chief Talent Officer",
+      "startDate": "2022-11",
       "endDate": null,
-      "formattedStartDate": "2023 February",
+      "formattedStartDate": "November 2022",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Nuburu, Inc.",
+      "ticker": "BURU",
+      "exchange": "NYSE",
+      "website": "https://www.nuburu.net",
+      "logoUrl": "/companies-assets/BURU.NYSE.png",
+      "title": "Independent Director",
+      "startDate": "2023",
+      "endDate": "2024",
+      "formattedStartDate": "2023",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Skillsoft Corp.",
+      "ticker": "SKIL",
+      "exchange": "NYSE",
+      "website": "https://www.skillsoft.com",
+      "logoUrl": "/companies-assets/SKIL.NYSE.svg",
+      "title": "Chief People Officer",
+      "startDate": "2021",
+      "endDate": "2022",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2022"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/krhummel",
+      "person_name": "Kristi Hummel",
+      "company_name": "Skillsoft",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee"
   ],

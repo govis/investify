@@ -6,24 +6,14 @@
   "companies": [
     {
       "name": "Denison Mines Corp.",
-      "ticker": "DNN",
-      "exchange": "NYSE",
-      "website": "https://denisonmines.com",
-      "title": "Vice President, Sustainability and Chief ESG Officer",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "formattedStartDate": "2021 January",
-      "formattedEndDate": ""
-    },
-    {
-      "name": "Denison Mines Corp.",
-      "ticker": "DNN",
+      "ticker": "DML",
       "exchange": "TSX",
-      "website": "https://denisonmines.com",
-      "title": "Chief Sustainability Officer",
-      "startDate": "2023-01-01",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2021-05",
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "May 2021",
       "formattedEndDate": ""
     }
   ],
@@ -31,7 +21,18 @@
     "Nuclear",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/efreele",
+      "person_name": "Elizabeth Freele",
+      "company_name": "Denison Mines Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/C5603AQGa1frjMQ3n4A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1540832090931?e=2147483647&v=beta&t=lXzWUTzWV3EcqALNsoycRSSCDNxWodcR4Mnu4owTqAw",
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 38,
   "ageYear": 2024

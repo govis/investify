@@ -5,21 +5,33 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Arm Holdings plc",
-      "ticker": "ARM",
+      "name": "NVIDIA Corporation",
+      "ticker": "NVDA",
       "exchange": "NASDAQ",
-      "website": "https://www.arm.com",
-      "title": "Chief Executive Officer, Director",
-      "startDate": "2022-02-01",
-      "endDate": null,
-      "formattedStartDate": "2022 February",
-      "formattedEndDate": ""
+      "website": "https://www.nvidia.com",
+      "logoUrl": "/companies-assets/NVDA.NASDAQ.svg",
+      "title": "Vice President and General Manager of Computing Products Business Unit",
+      "startDate": "2006",
+      "endDate": "2013",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2013"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rene-haas-91a8691",
+      "person_name": "Rene Haas",
+      "company_name": "Arm",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 62,
   "ageYear": 2024

@@ -7,19 +7,31 @@
     {
       "name": "Ur-Energy Inc.",
       "ticker": "URG",
-      "exchange": "NYSE",
-      "website": "https://www.ur-energy.com",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
       "title": "Chief Operating Officer",
-      "startDate": "2022-03-01",
+      "startDate": "Not publicly specified",
       "endDate": null,
-      "formattedStartDate": "2022 March",
+      "formattedStartDate": "Not publicly specified",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/steven-hatten-70787512",
+      "person_name": "Steven Hatten",
+      "company_name": "Ur-Energy Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 58,
   "ageYear": 2024

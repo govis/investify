@@ -6,22 +6,14 @@
   "age_year": 2024,
   "background": "Ms. MacGibbon is a Chartered Professional Accountant with over 25 years of experience in the mining sector and capital markets.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification",
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee",
-    "Human Resources Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "NorthIsle Copper and Gold Inc.",
       "ticker": "NCX",
       "exchange": "TSX",
       "title_or_role": "Independent Director",
+      "website": "https://www.northisle.ca",
       "start_date": "2023-06-01",
       "end_date": null
     },
@@ -30,8 +22,82 @@
       "ticker": "OR",
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
+      "website": "https://osiskogr.com",
       "start_date": "2021-05-01",
       "end_date": null
+    },
+    {
+      "name": "INV Metals Inc.",
+      "ticker": "INV",
+      "exchange": "TSX",
+      "website": "https://www.invmetals.com/",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2015",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Kinross Gold Corporation",
+      "ticker": "K / KGC",
+      "exchange": "TSX / NYSE",
+      "website": "https://www.kinross.com/",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "TransAlta Corporation",
+      "ticker": "TA / TAC",
+      "exchange": "TSX / NYSE",
+      "website": "https://www.transalta.com/",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Carbon Streaming Corporation",
+      "ticker": "NETZ",
+      "exchange": "NEO/CBOE Canada",
+      "website": "https://www.carbonstreaming.com/",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Conic Metals Corp. (now Nickel 28 Capital Corp.)",
+      "ticker": "NKL",
+      "exchange": "TSXV",
+      "website": "https://www.nickel28.com/",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": "2022",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/candace-macgibbon-7a5a5a12",
+      "person_name": "Candace MacGibbon",
+      "company_name": "Osisko Gold Royalties Ltd",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Human Resources Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

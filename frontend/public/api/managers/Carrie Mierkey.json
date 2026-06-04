@@ -7,30 +7,67 @@
     {
       "name": "enCore Energy Corp.",
       "ticker": "EU",
-      "exchange": "NASDAQ",
-      "website": "https://encoreuranium.com",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
       "title": "Chief Financial Officer",
-      "startDate": "2021-07-01",
+      "startDate": "2021-02-01",
+      "endDate": "2023-12-23",
+      "formattedStartDate": "February 2021",
+      "formattedEndDate": "December 2023"
+    },
+    {
+      "name": "C2C Metals Corp.",
+      "ticker": "CTOC",
+      "exchange": "CSE",
+      "website": "https://c2cmetals.com",
+      "logoUrl": "/companies-assets/CTOC.CSE.png",
+      "title": "Director",
+      "startDate": "2022-06-01",
       "endDate": null,
-      "formattedStartDate": "2021 July",
+      "formattedStartDate": "June 2022",
       "formattedEndDate": ""
     },
     {
-      "name": "enCore Energy Corp.",
-      "ticker": "EU",
-      "exchange": "TSX",
-      "website": "https://encoreuranium.com",
-      "title": "Chief Financial Officer",
-      "startDate": "2021-07-01",
+      "name": "Nuclear Fuels Inc.",
+      "ticker": "NF",
+      "exchange": "CSE",
+      "website": "https://nuclearfuels.com",
+      "logoUrl": "/companies-assets/NF.CSE.png",
+      "title": "Director",
+      "startDate": "2023-07-01",
       "endDate": null,
-      "formattedStartDate": "2021 July",
+      "formattedStartDate": "July 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Scorpio Gold Corporation",
+      "ticker": "SGN",
+      "exchange": "TSXV",
+      "website": "https://scorpiogold.com",
+      "logoUrl": "/companies-assets/SGN.TSXV.svg",
+      "title": "Director",
+      "startDate": "2024-05-01",
+      "endDate": null,
+      "formattedStartDate": "May 2024",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/carrie-mierkey-cpa-bba-5a5a5a1a",
+      "person_name": "Carrie Mierkey",
+      "company_name": "enCore Energy Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 45,
   "ageYear": 2024

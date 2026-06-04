@@ -6,19 +6,45 @@
   "age_year": null,
   "background": "Mr McBride is a Fellow of CPA Australia, a Fellow of Governance Institute of Australia and a Member of the Australian Institute of Company Directors. He has over 40 years' experience in the mining industry in senior management and executive roles.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Elevate Uranium Limited",
       "ticker": "EL8",
       "exchange": "ASX",
-      "title_or_role": "Chief Financial Officer and Company Secretary",
-      "start_date": "2018-11-01",
-      "end_date": null
+      "title_or_role": "CFO & Company Secretary",
+      "website": "https://www.elevateuranium.com.au/",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Marenica Energy Limited (Renamed to Elevate Uranium Limited)",
+      "ticker": "MEY",
+      "exchange": "ASX",
+      "website": "https://www.elevateuranium.com.au/",
+      "title_or_role": "CFO & Company Secretary",
+      "start_date": "2017",
+      "end_date": "2021",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/shane-mcbride-97474618",
+      "person_name": "Shane McBride",
+      "company_name": "Elevate Uranium Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -9,11 +9,60 @@
       "ticker": "AMD",
       "exchange": "NASDAQ",
       "website": "https://www.amd.com",
-      "title": "Independent Director",
-      "startDate": "2019-01-01",
+      "logoUrl": "/companies-assets/AMD.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2019 January",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Smartsheet Inc.",
+      "ticker": "SMAR",
+      "exchange": "NYSE",
+      "website": "https://www.smartsheet.com",
+      "logoUrl": "/companies-assets/SMAR.NYSE.svg",
+      "title": "Director (Chairman of the Board from 2023 to 2025)",
+      "startDate": "2019",
+      "endDate": "2025",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "CA Technologies",
+      "ticker": "CA",
+      "exchange": "NASDAQ",
+      "website": "https://www.broadcom.com",
+      "logoUrl": "/companies-assets/CA.NASDAQ.jpg",
+      "title": "Chief Executive Officer",
+      "startDate": "2013",
+      "endDate": "2018",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Automatic Data Processing, Inc. (ADP)",
+      "ticker": "ADP",
+      "exchange": "NASDAQ",
+      "website": "https://www.adp.com",
+      "logoUrl": "/companies-assets/ADP.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2014",
+      "endDate": "2019",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Taleo Corporation",
+      "ticker": "TLEO",
+      "exchange": "NASDAQ",
+      "website": "https://www.oracle.com",
+      "logoUrl": "https://seeklogo.com/images/T/taleo-talent-management-logo-500193437B-seeklogo.com.png",
+      "title": "President, Chief Executive Officer, and Chairman of the Board",
+      "startDate": "2005",
+      "endDate": "2012",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2012"
     }
   ],
   "investmentTheses": [

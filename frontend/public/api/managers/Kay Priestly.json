@@ -5,21 +5,69 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "SSR Mining Inc.",
-      "ticker": "SSRM",
-      "exchange": "NASDAQ",
-      "website": "https://www.ssrmining.com",
-      "title": "Independent Director",
-      "startDate": "2020-09-16",
+      "name": "TechnipFMC plc",
+      "ticker": "FTI",
+      "exchange": "NYSE",
+      "website": "https://www.technipfmc.com",
+      "logoUrl": "/companies-assets/FTI.NYSE.svg",
+      "title": "Director",
+      "startDate": "2018",
       "endDate": null,
-      "formattedStartDate": "2020 September",
+      "formattedStartDate": "2018",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Turquoise Hill Resources Ltd.",
+      "ticker": "TRQ",
+      "exchange": "NYSE",
+      "website": "https://www.turquoisehill.com",
+      "logoUrl": "/companies-assets/TRQ.NYSE.svg",
+      "title": "Chief Executive Officer",
+      "startDate": "2012-05",
+      "endDate": "2014-12",
+      "formattedStartDate": "May 2012",
+      "formattedEndDate": "December 2014"
+    },
+    {
+      "name": "New Gold Inc.",
+      "ticker": "NGD",
+      "exchange": "TSX",
+      "website": "newgold.com",
+      "logoUrl": "/companies-assets/NGD.TSX.svg",
+      "title": "Director",
+      "startDate": "2015-07",
+      "endDate": null,
+      "formattedStartDate": "July 2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Alacer Gold Corp.",
+      "ticker": "ASR",
+      "exchange": "TSX",
+      "website": "https://www.alacergold.com",
+      "logoUrl": "/companies-assets/ASR.TSX.svg",
+      "title": "Director",
+      "startDate": "2019-08",
+      "endDate": "2020-09",
+      "formattedStartDate": "August 2019",
+      "formattedEndDate": "September 2020"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kay-priestly-a736607a",
+      "person_name": "Kay Priestly",
+      "company_name": "SSR Mining Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Corporate Governance and Nominating Committee"

@@ -7,23 +7,13 @@
     {
       "name": "Saab AB",
       "ticker": "SAAB-B",
-      "exchange": "STO",
-      "website": "https://www.saab.com",
-      "title": "Member of the Board, President and CEO",
+      "exchange": "Nasdaq Stockholm",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and CEO",
       "startDate": "2019-10-23",
       "endDate": null,
-      "formattedStartDate": "2019 October",
-      "formattedEndDate": ""
-    },
-    {
-      "name": "Saab Aktiebolag",
-      "ticker": "SAAB",
-      "exchange": "STO",
-      "website": "https://www.saab.com",
-      "title": "Member of the Board, President and CEO",
-      "startDate": "2019-10-23",
-      "endDate": null,
-      "formattedStartDate": "2019 October",
+      "formattedStartDate": "October 2019",
       "formattedEndDate": ""
     }
   ],
@@ -31,7 +21,18 @@
     "Defense",
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://se.linkedin.com/in/johansson-micael-33b7528",
+      "person_name": "Micael Johansson",
+      "company_name": "Saab",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 64,
   "ageYear": 2024

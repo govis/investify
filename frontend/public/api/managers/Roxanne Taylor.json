@@ -7,19 +7,55 @@
     {
       "name": "Pure Storage, Inc.",
       "ticker": "PSTG",
-      "exchange": "NYSE",
-      "website": "https://www.purestorage.com",
-      "title": "Independent Director",
-      "startDate": "2020",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "February 2019",
       "endDate": null,
-      "formattedStartDate": "",
+      "formattedStartDate": "February 2019",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Unisys Corporation",
+      "ticker": "UIS",
+      "exchange": "NYSE",
+      "website": "https://www.unisys.com",
+      "logoUrl": "/companies-assets/UIS.NYSE.svg",
+      "title": "Director",
+      "startDate": "October 18, 2021",
+      "endDate": null,
+      "formattedStartDate": "October 18, 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Thoughtworks Holding, Inc.",
+      "ticker": "TWKS",
+      "exchange": "NASDAQ",
+      "website": "https://www.thoughtworks.com",
+      "logoUrl": "/companies-assets/TWKS.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "June 16, 2021",
+      "endDate": "2024",
+      "formattedStartDate": "June 16, 2021",
+      "formattedEndDate": "2024"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/roxanne-taylor",
+      "person_name": "Roxanne Taylor",
+      "company_name": "Memorial Sloan Kettering Cancer Center",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee"
   ],

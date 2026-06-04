@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Lucid Group, Inc.",
-      "ticker": "LCID",
-      "exchange": "NASDAQ",
-      "website": "https://www.lucidmotors.com",
-      "title": "Interim Chief Financial Officer",
-      "startDate": "2023-12-01",
+      "name": "Anaplan, Inc.",
+      "ticker": "PLAN",
+      "exchange": "NYSE",
+      "website": "https://www.anaplan.com",
+      "logoUrl": "/companies-assets/PLAN.NYSE.png",
+      "title": "Vice President, Chief Accounting Officer, and Corporate Controller",
+      "startDate": "2020-08-20",
+      "endDate": "2021",
+      "formattedStartDate": "August 2020",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "McKesson Corporation",
+      "ticker": "MCK",
+      "exchange": "NYSE",
+      "website": "https://www.mckesson.com",
+      "logoUrl": "/companies-assets/MCK.NYSE.svg",
+      "title": "Director, Financial Reporting",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2023 December",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gagan-dhingra-gd",
+      "person_name": "Gagan Dhingra",
+      "company_name": "Lucid Group, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 50,
   "ageYear": 2024

@@ -5,21 +5,57 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "General Dynamics Corporation",
-      "ticker": "GD",
+      "name": "Abbott Laboratories",
+      "ticker": "ABT",
       "exchange": "NYSE",
-      "website": "https://www.gd.com",
+      "website": "https://www.abbott.com",
+      "logoUrl": "/companies-assets/ABT.NYSE.svg",
       "title": "Director",
-      "startDate": "2020-01-01",
+      "startDate": "2018",
       "endDate": null,
-      "formattedStartDate": "2020 January",
+      "formattedStartDate": "2018",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Frontier Communications Parent, Inc.",
+      "ticker": "FYBR",
+      "exchange": "NASDAQ",
+      "website": "https://www.frontier.com",
+      "logoUrl": "/companies-assets/FYBR.NASDAQ.svg",
+      "title": "Executive Chairman",
+      "startDate": "April 2021",
+      "endDate": null,
+      "formattedStartDate": "April 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Verizon Communications Inc.",
+      "ticker": "VZ",
+      "exchange": "NYSE",
+      "website": "https://www.verizon.com",
+      "logoUrl": "/companies-assets/VZ.NYSE.svg",
+      "title": "Executive Vice President and President of Global Operations",
+      "startDate": "1993",
+      "endDate": "2018",
+      "formattedStartDate": "1993",
+      "formattedEndDate": "2018"
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/johnstrattonverizon",
+      "person_name": "John Stratton",
+      "company_name": "Verizon Communications Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation",
     "Finance"

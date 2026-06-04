@@ -9,17 +9,65 @@
       "ticker": "PL",
       "exchange": "NYSE",
       "website": "https://www.planet.com",
-      "title": "Director",
-      "startDate": "2021-12-01",
+      "logoUrl": "/companies-assets/PL.NYSE.svg",
+      "title": "Lead Independent Director",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2021 December",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Ouster, Inc.",
+      "ticker": "OUST",
+      "exchange": "NYSE",
+      "website": "https://ouster.com",
+      "logoUrl": "/companies-assets/OUST.NYSE.svg",
+      "title": "Chairman of the Board",
+      "startDate": "2021",
+      "endDate": "2023",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Zendesk, Inc.",
+      "ticker": "ZEN",
+      "exchange": "NYSE",
+      "website": "https://www.zendesk.com",
+      "logoUrl": "/companies-assets/ZEN.NYSE.svg",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": "2022",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Autodesk, Inc.",
+      "ticker": "ADSK",
+      "exchange": "NASDAQ",
+      "website": "https://www.autodesk.com",
+      "logoUrl": "/companies-assets/ADSK.NASDAQ.svg",
+      "title": "CTO / COO / Various Executive Roles",
+      "startDate": "1993",
+      "endDate": "2006",
+      "formattedStartDate": "1993",
+      "formattedEndDate": "2006"
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/carl-bass-4a5a5a1",
+      "person_name": "Carl Bass",
+      "company_name": "Autodesk",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee"
   ],

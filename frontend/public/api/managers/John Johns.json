@@ -9,17 +9,53 @@
       "ticker": "SO",
       "exchange": "NYSE",
       "website": "https://www.southerncompany.com",
-      "title": "Independent Director",
-      "startDate": "2015-01-01",
+      "logoUrl": "/companies-assets/SO.NYSE.svg",
+      "title": "Director",
+      "startDate": "2015",
       "endDate": null,
-      "formattedStartDate": "2015 January",
+      "formattedStartDate": "2015",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Regions Financial Corporation",
+      "ticker": "RF",
+      "exchange": "NYSE",
+      "website": "https://www.regions.com",
+      "logoUrl": "/companies-assets/RF.NYSE.svg",
+      "title": "Director (Chair of the Risk Committee)",
+      "startDate": "2011",
+      "endDate": "2023",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Protective Life Corporation",
+      "ticker": "PL",
+      "exchange": "NYSE",
+      "website": "https://www.planet.com",
+      "logoUrl": "/companies-assets/PL.NYSE.svg",
+      "title": "Chairman, President, and CEO",
+      "startDate": "2002",
+      "endDate": "2017",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "2017"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/john-johns-03605742",
+      "person_name": "John Johns",
+      "company_name": "Protective Life Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit",
     "Compensation and Management Succession",

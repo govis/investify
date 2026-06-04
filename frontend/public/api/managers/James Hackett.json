@@ -5,33 +5,106 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Fluor Corporation",
-      "ticker": "FLR",
+      "name": "Enterprise Products Partners L.P.",
+      "ticker": "EPD",
       "exchange": "NYSE",
-      "website": "https://www.fluor.com",
-      "title": "Independent Director",
-      "startDate": "2016-01-01",
+      "website": "https://www.enterpriseproducts.com/",
+      "logoUrl": "/companies-assets/EPD.NYSE.svg",
+      "title": "Director",
+      "startDate": "April 2014",
       "endDate": null,
-      "formattedStartDate": "2016 January",
+      "formattedStartDate": "April 2014",
       "formattedEndDate": ""
     },
     {
-      "name": "NuScale Power Corporation",
-      "ticker": "SMR",
+      "name": "NOV Inc.",
+      "ticker": "NOV",
       "exchange": "NYSE",
-      "website": "https://www.nuscalepower.com",
-      "title": "Director",
-      "startDate": "2022-05-01",
+      "website": "https://www.nov.com/",
+      "logoUrl": "/companies-assets/NOV.NYSE.svg",
+      "title": "Director (Lead Director)",
+      "startDate": "2016",
+      "endDate": "April 2023",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "April 2023"
+    },
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "website": "https://www.ford.com",
+      "logoUrl": "/companies-assets/F.NYSE.svg",
+      "title": "President and CEO",
+      "startDate": "May 2017",
+      "endDate": "October 2020",
+      "formattedStartDate": "May 2017",
+      "formattedEndDate": "October 2020"
+    },
+    {
+      "name": "Anadarko Petroleum Corporation",
+      "ticker": "APC",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "/companies-assets/APC.NYSE.png",
+      "title": "CEO / Chairman / Executive Chairman",
+      "startDate": "2003",
+      "endDate": "2013",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Cameron International Corporation",
+      "ticker": "CAM",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "/companies-assets/CAM.NYSE.png",
+      "title": "Advisory Director",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2022 May",
+      "formattedStartDate": "",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Fifth Third Bancorp",
+      "ticker": "FITB",
+      "exchange": "NASDAQ",
+      "website": "https://www.53.com/",
+      "logoUrl": "/companies-assets/FITB.NASDAQ.svg",
+      "title": "Non-Executive Independent Chairman",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "La-Z-Boy Incorporated",
+      "ticker": "LZB",
+      "exchange": "NYSE",
+      "website": "https://www.la-z-boy.com/",
+      "logoUrl": "/companies-assets/LZB.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": "2025",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2025"
     }
   ],
   "investmentTheses": [
     "Nuclear",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/james-hackett-45470718",
+      "person_name": "James Hackett",
+      "company_name": "Tessellation Services, LLC",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee",

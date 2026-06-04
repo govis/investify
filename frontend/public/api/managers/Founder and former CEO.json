@@ -5,15 +5,28 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Nextracker Inc.",
+      "name": "Nextpower Inc. (formerly Nextracker Inc.)",
       "ticker": "NXT",
       "exchange": "NASDAQ",
       "website": "https://www.nextracker.com",
-      "title": "Independent Director",
-      "startDate": "2023-02-01",
+      "logoUrl": "/companies-assets/NXT.NASDAQ.svg",
+      "title": "Founder & CEO",
+      "startDate": "2013",
       "endDate": null,
-      "formattedStartDate": "2023 February",
+      "formattedStartDate": "2013",
       "formattedEndDate": ""
+    },
+    {
+      "name": "SunPower Corporation",
+      "ticker": "SPWR",
+      "exchange": "NASDAQ",
+      "website": "https://us.sunpower.com",
+      "logoUrl": "/companies-assets/SPWR.NASDAQ.svg",
+      "title": "President, Systems Division",
+      "startDate": "2007",
+      "endDate": "2009",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2009"
     }
   ],
   "investmentTheses": [

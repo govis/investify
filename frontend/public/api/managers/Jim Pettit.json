@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Skyharbour Resources Ltd.",
-      "ticker": "SYH",
-      "exchange": "TSX",
-      "website": "https://skyharbourltd.com",
-      "title": "Chairman of the Board",
-      "startDate": "2013-06-01",
+      "name": "Aben Resources Ltd.",
+      "ticker": "ABM",
+      "exchange": "TSXV",
+      "website": "abengold.com",
+      "logoUrl": "/companies-assets/ABM.TSXV.svg",
+      "title": "President, Chief Executive Officer, and Director",
+      "startDate": "2002-11",
       "endDate": null,
-      "formattedStartDate": "2013 June",
+      "formattedStartDate": "November 2002",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Surge Copper Corp.",
+      "ticker": "SURG",
+      "exchange": "TSXV",
+      "website": "https://surgecopper.com/",
+      "logoUrl": "/companies-assets/SURG.TSXV.svg",
+      "title": "Director",
+      "startDate": "2003",
+      "endDate": null,
+      "formattedStartDate": "2003",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/james-pettit-6a5b5a1a",
+      "person_name": "James Pettit",
+      "company_name": "Skyharbour Resources Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": null,
   "ageYear": null

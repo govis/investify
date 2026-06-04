@@ -6,22 +6,48 @@
   "age_year": 2024,
   "background": "Executive Chair of ADP, Inc. Former CEO of ADP.",
   "picture_url": null,
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Microsoft Corporation",
       "ticker": "MSFT",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2021-11-01",
-      "end_date": null
+      "title_or_role": "Member of the Board of Directors",
+      "website": "https://www.microsoft.com",
+      "start_date": "December 2021",
+      "end_date": "December 5, 2025",
+      "validated": true
+    },
+    {
+      "name": "Automatic Data Processing, Inc.",
+      "ticker": "ADP",
+      "exchange": "NASDAQ",
+      "website": "https://www.adp.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "November 2011",
+      "end_date": "December 31, 2022",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/crodrigu38",
+      "person_name": "Carlos Rodriguez",
+      "company_name": "Automatic Data Processing, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

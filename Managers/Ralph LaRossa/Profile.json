@@ -6,19 +6,35 @@
   "age_year": 2024,
   "background": "Ralph LaRossa is Chair of the Board, President and Chief Executive Officer of PSEG and Chair of the Board of PSE&G and PSEG Power. He previously served as Chief Operating Officer of PSEG from January 2020 to August 2022 and President and COO of PSEG Power from June 2017 to September 2022. He has been with the company since 1985.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Public Service Enterprise Group Incorporated",
       "ticker": "PEG",
       "exchange": "NYSE",
-      "title_or_role": "Chair of the Board, President and Chief Executive Officer",
-      "start_date": "2022-09-01",
-      "end_date": null
+      "title_or_role": "President and Chief Executive Officer",
+      "website": "https://www.pseg.com",
+      "start_date": "September 1, 2022",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ralph-larossa-aa994011",
+      "person_name": "Ralph LaRossa",
+      "company_name": "Public Service Enterprise Group Incorporated",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -7,19 +7,79 @@
     {
       "name": "Rio Tinto Group",
       "ticker": "RIO",
-      "exchange": "NYSE",
-      "website": "https://www.riotinto.com",
-      "title": "Chief Executive",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "formattedStartDate": "2021 January",
-      "formattedEndDate": ""
+      "exchange": "ASX, LSE, NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Executive Officer (formerly Executive Director and CFO)",
+      "startDate": "2018",
+      "endDate": "2025",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "Equinor ASA (formerly Statoil ASA)",
+      "ticker": "EQNR",
+      "exchange": "OSE",
+      "website": "https://www.equinor.com",
+      "logoUrl": "/companies-assets/EQNR.OSE.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2009",
+      "endDate": "2016",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Woodside Energy Group Ltd (formerly Woodside Petroleum)",
+      "ticker": "WDS",
+      "exchange": "ASX",
+      "website": "https://www.woodside.com",
+      "logoUrl": "/companies-assets/WDS.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2006",
+      "endDate": "2008",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2008"
+    },
+    {
+      "name": "A.P. Møller - Mærsk A/S",
+      "ticker": "MAERSK-B",
+      "exchange": "STO",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Financial Officer",
+      "startDate": "2016",
+      "endDate": "2018",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "ISS A/S",
+      "ticker": "ISS",
+      "exchange": "STO",
+      "website": null,
+      "logoUrl": null,
+      "title": "Group Chief Financial Officer",
+      "startDate": "2008",
+      "endDate": "2011",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2011"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/jakobstausholm",
+      "person_name": "Jakob Stausholm",
+      "company_name": "Rio Tinto",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 55,
   "ageYear": 2023

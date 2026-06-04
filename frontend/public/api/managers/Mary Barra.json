@@ -5,22 +5,46 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "General Motors Company",
-      "ticker": "GM",
+      "name": "General Dynamics Corporation",
+      "ticker": "GD",
       "exchange": "NYSE",
-      "website": "https://www.gm.com",
-      "title": "Chair and Chief Executive Officer",
-      "startDate": "2014-01-15",
-      "endDate": null,
-      "formattedStartDate": "2014 January",
-      "formattedEndDate": ""
+      "website": "https://www.gd.com",
+      "logoUrl": "/companies-assets/GD.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "March 15, 2011",
+      "endDate": "March 2017",
+      "formattedStartDate": "March 15, 2011",
+      "formattedEndDate": "March 2017"
+    },
+    {
+      "name": "The Walt Disney Company",
+      "ticker": "DIS",
+      "exchange": "NYSE",
+      "website": "https://thewaltdisneycompany.com",
+      "logoUrl": "/companies-assets/DIS.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "August 2017",
+      "endDate": "2021",
+      "formattedStartDate": "August 2017",
+      "formattedEndDate": "2021"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mary-barra",
+      "person_name": "Mary Barra",
+      "company_name": "General Motors",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 62,
   "ageYear": 2024

@@ -6,6 +6,58 @@
   "age_year": 2024,
   "background": "Former Executive Vice President and Chief Financial Officer of Public Service Enterprise Group Incorporated.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Duke Energy Corporation",
+      "ticker": "DUK",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.duke-energy.com",
+      "start_date": "2021-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Public Service Enterprise Group, Inc.",
+      "ticker": "PEG",
+      "exchange": "NYSE",
+      "website": "https://www.pseg.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "2009",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Biogen Inc.",
+      "ticker": "BIIB",
+      "exchange": "NASDAQ",
+      "website": "https://www.biogen.com",
+      "title_or_role": "Chair of the Board",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Intellia Therapeutics, Inc.",
+      "ticker": "NTLA",
+      "exchange": "NASDAQ",
+      "website": "https://www.intelliatx.com",
+      "title_or_role": "Board of Directors",
+      "start_date": "2015",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Illumina, Inc.",
+      "ticker": "ILMN",
+      "exchange": "NASDAQ",
+      "website": "https://www.illumina.com",
+      "title_or_role": "Board of Directors",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -14,14 +66,6 @@
     "Audit Committee",
     "Finance and Risk Management Committee"
   ],
-  "companies": [
-    {
-      "name": "Duke Energy Corporation",
-      "ticker": "DUK",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2021-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

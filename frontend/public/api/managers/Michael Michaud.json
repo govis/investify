@@ -9,17 +9,65 @@
       "ticker": "WDO",
       "exchange": "TSX",
       "website": "https://www.wesdome.com",
-      "title": "Vice President, Exploration",
-      "startDate": "2017-05-01",
+      "logoUrl": "/companies-assets/WDO.TSX.svg",
+      "title": "Senior Vice President, Exploration and Resources",
+      "startDate": "2017",
+      "endDate": "2024",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Red Pine Exploration Inc.",
+      "ticker": "RPX",
+      "exchange": "TSXV",
+      "website": "https://redpineexp.com",
+      "logoUrl": "/companies-assets/RPX.TSXV.png",
+      "title": "President, Chief Executive Officer & Director",
+      "startDate": "2024",
       "endDate": null,
-      "formattedStartDate": "2017 May",
+      "formattedStartDate": "2024",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Legacy Gold Mines Ltd.",
+      "ticker": "LEGY",
+      "exchange": "TSXV",
+      "website": "https://legacygoldmines.com",
+      "logoUrl": "/companies-assets/LEGY.TSXV.png",
+      "title": "Independent Director",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Iamgold Corporation",
+      "ticker": "IMG",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Geologist",
+      "startDate": "Prior to 2017",
+      "endDate": "Prior to 2017",
+      "formattedStartDate": "Prior to 2017",
+      "formattedEndDate": "Prior to 2017"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michael-michaud-19543782",
+      "person_name": "Michael Michaud",
+      "company_name": "Wesdome Gold Mines Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 58,
   "ageYear": 2024

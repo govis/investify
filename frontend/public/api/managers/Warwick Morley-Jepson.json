@@ -5,21 +5,57 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Wesdome Gold Mines Ltd.",
-      "ticker": "WDO",
-      "exchange": "TSX",
-      "website": "https://www.wesdome.com",
-      "title": "Chair of the Board",
-      "startDate": "2019-06-01",
+      "name": "Kinross Gold Corporation",
+      "ticker": "KGC",
+      "exchange": "NYSE",
+      "website": "https://www.kinross.com",
+      "logoUrl": "/companies-assets/KGC.NYSE.svg",
+      "title": "Chief Operating Officer",
+      "startDate": "2014-10-01",
+      "endDate": "2016",
+      "formattedStartDate": "October 2014",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Amaroq Minerals Ltd.",
+      "ticker": "AMRQ",
+      "exchange": "LSE",
+      "website": "https://www.amaroqminerals.com",
+      "logoUrl": "/companies-assets/AMRQ.LSE.png",
+      "title": "Director",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2019 June",
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "NexMetals Mining Corp.",
+      "ticker": "NEXM",
+      "exchange": "TSXV",
+      "website": "https://nexmetalsmining.com/",
+      "logoUrl": "/companies-assets/NEXM.TSXV.png",
+      "title": "Director",
+      "startDate": "2026-01-08",
+      "endDate": null,
+      "formattedStartDate": "January 2026",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://za.linkedin.com/in/warwick-morley-jepson-909ba612",
+      "person_name": "Warwick Morley-Jepson",
+      "company_name": "Wesdome Gold Mines Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Governance and Nominating Committee",
     "Technical Committee"

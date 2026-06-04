@@ -6,22 +6,108 @@
   "age_year": 2023,
   "background": "James Askew is a mining engineer with over 40 years of experience in the resources industry. He has served as a director and executive for numerous international mining companies and has extensive experience in technical and corporate management.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit and Risk Committee",
-    "Remuneration and Nomination Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Syrah Resources Limited",
       "ticker": "SYR",
       "exchange": "ASX",
-      "title_or_role": "Non-Executive Chairman",
-      "start_date": "2014-10-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "syrahresources.com.au",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Asian Mineral Resources Limited",
+      "ticker": "ASN",
+      "exchange": "TSXV",
+      "website": "n/a",
+      "title_or_role": "Director / Chairman",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Evolution Mining Limited",
+      "ticker": "EVN",
+      "exchange": "ASX",
+      "website": "evolutionmining.com.au",
+      "title_or_role": "Founding Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sino Gold Mining Limited",
+      "ticker": "SGX",
+      "exchange": "ASX (delisted)",
+      "website": "n/a",
+      "title_or_role": "Founding Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Yamana Resources Inc.",
+      "ticker": "YRI",
+      "exchange": "TSX",
+      "website": "yamana.com",
+      "title_or_role": "Founding Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ausdrill Limited",
+      "ticker": "ASL",
+      "exchange": "ASX",
+      "website": "perenti.com",
+      "title_or_role": "Founding Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "West Wits Mining Limited",
+      "ticker": "WWI",
+      "exchange": "ASX",
+      "website": "westwitsmining.com",
+      "title_or_role": "Founding Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Robex Resources Inc.",
+      "ticker": "RBX",
+      "exchange": "TSXV",
+      "website": "robexgold.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/james-askew",
+      "person_name": "James Askew",
+      "company_name": "Syrah Resources Limited, Asian Mineral Resources Limited, Evolution Mining Limited, Sino Gold Mining Limited, Yamana Resources Inc., Ausdrill Limited, West Wits Mining Limited, Robex Resources Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/C5603AQGIngqwQD3yug/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1626939997554?e=2147483647&v=beta&t=fyblOcfdd_bwlQ_QVZ68S8sz-wz8f3zckRWUJd3xT0E",
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

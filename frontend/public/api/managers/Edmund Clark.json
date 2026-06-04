@@ -7,13 +7,38 @@
     {
       "name": "Thomson Reuters Corporation",
       "ticker": "TRI",
-      "exchange": "NYSE",
-      "website": "https://www.thomsonreuters.com",
-      "title": "Independent Director",
-      "startDate": "2015-05-01",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2015",
       "endDate": null,
-      "formattedStartDate": "2015 May",
+      "formattedStartDate": "2015",
       "formattedEndDate": ""
+    },
+    {
+      "name": "The Toronto-Dominion Bank",
+      "ticker": "TD",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and CEO",
+      "startDate": "2000",
+      "endDate": "2014",
+      "formattedStartDate": "2000",
+      "formattedEndDate": "2014"
+    },
+    {
+      "name": "Canada Trust Financial Services Inc.",
+      "ticker": "CT",
+      "exchange": "TSX (Delisted)",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and CEO",
+      "startDate": "1994",
+      "endDate": "2000",
+      "formattedStartDate": "1994",
+      "formattedEndDate": "2000"
     }
   ],
   "investmentTheses": [

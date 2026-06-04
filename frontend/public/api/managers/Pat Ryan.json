@@ -6,13 +6,14 @@
   "companies": [
     {
       "name": "Ucore Rare Metals Inc.",
-      "ticker": "UCU",
-      "exchange": "TSX",
-      "website": "https://ucore.com",
-      "title": "Chairman and Chief Executive Officer",
-      "startDate": "2020-09-15",
+      "ticker": "UCU (TSXV), UURAF (OTCQX)",
+      "exchange": "TSXV, OTC",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman & Chief Executive Officer",
+      "startDate": "June 2020",
       "endDate": null,
-      "formattedStartDate": "2020 September",
+      "formattedStartDate": "June 2020",
       "formattedEndDate": ""
     }
   ],

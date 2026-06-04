@@ -6,19 +6,45 @@
   "age_year": 2024,
   "background": "Mr. Motte has over 15 years of experience in financial management and corporate finance, previously serving in senior roles at Hochschild Mining.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Aclara Resources Inc.",
       "ticker": "ARA",
       "exchange": "TSX",
       "title_or_role": "Chief Financial Officer",
-      "start_date": "2021-10-01",
-      "end_date": null
+      "website": "https://aclara-re.com/",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hochschild Mining PLC",
+      "ticker": "HOC",
+      "exchange": "LSE",
+      "website": "https://www.hochschildmining.com/",
+      "title_or_role": "Various Financial Positions (Corporate Finance, IR, Business Development)",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/francois-motte-7bb87a70/",
+      "person_name": "Francois Motte",
+      "company_name": "Aclara Resources Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

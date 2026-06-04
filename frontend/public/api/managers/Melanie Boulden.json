@@ -2,24 +2,60 @@
   "id": "Melanie Boulden",
   "name": "Melanie Boulden",
   "background": "Chief Growth Officer of Tyson Foods, Inc. Director since 2022.",
-  "pictureUrl": null,
+  "pictureUrl": "https://www.tysonfoods.com/sites/default/files/2023-11/Melanie+Boulden+_S7A0347+PS+reedited+crop_0.jpg",
   "companies": [
     {
-      "name": "Adobe Inc.",
-      "ticker": "ADBE",
+      "name": "Cal-Maine Foods, Inc.",
+      "ticker": "CALM",
       "exchange": "NASDAQ",
-      "website": "https://www.adobe.com",
+      "website": "https://www.calmainefoods.com",
+      "logoUrl": "/companies-assets/CALM.NASDAQ.svg",
       "title": "Independent Director",
-      "startDate": "2022-10-01",
+      "startDate": "2025-08-11",
       "endDate": null,
-      "formattedStartDate": "2022 October",
+      "formattedStartDate": "August 2025",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Tyson Foods, Inc.",
+      "ticker": "TSN",
+      "exchange": "NYSE",
+      "website": "https://www.tysonfoods.com",
+      "logoUrl": "/companies-assets/TSN.NYSE.svg",
+      "title": "Executive Vice President and Chief Growth Officer",
+      "startDate": "2023-02",
+      "endDate": "2024",
+      "formattedStartDate": "February 2023",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "The Coca-Cola Company",
+      "ticker": "KO",
+      "exchange": "NYSE",
+      "website": "https://www.coca-colacompany.com",
+      "logoUrl": "/companies-assets/KO.NYSE.svg",
+      "title": "Chief Marketing Officer, North America Operating Unit / President, Venturing & Emerging Brands",
+      "startDate": null,
+      "endDate": "2023-02",
+      "formattedStartDate": "",
+      "formattedEndDate": "February 2023"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/melanie-boulden-17b616111",
+      "person_name": "Melanie Boulden",
+      "company_name": "Tyson Foods, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

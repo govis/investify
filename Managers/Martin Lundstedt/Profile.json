@@ -6,19 +6,55 @@
   "age_year": 2024,
   "background": "President and CEO of AB Volvo since 2015. Previously President and CEO of Scania. Member of the Group Executive Board since 2015. Holds an MSc in Industrial Management and Technology.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "AB Volvo",
       "ticker": "VOLV-B",
-      "exchange": "STO",
-      "title_or_role": "Director, President and CEO",
+      "exchange": "STO (Nasdaq Stockholm)",
+      "title_or_role": "President and Chief Executive Officer",
+      "website": "https://www.volvogroup.com",
       "start_date": "2015-10-22",
-      "end_date": null
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Autoliv, Inc.",
+      "ticker": "ALV",
+      "exchange": "NYSE",
+      "website": "https://www.autoliv.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2021",
+      "end_date": "2026-05-07",
+      "validated": true
+    },
+    {
+      "name": "Scania AB",
+      "ticker": "SCV-B",
+      "exchange": "STO (Nasdaq Stockholm)",
+      "website": "https://www.scania.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2012",
+      "end_date": "2015",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://se.linkedin.com/in/martin-lundstedt-b378a492",
+      "person_name": "Martin Lundstedt",
+      "company_name": "AB Volvo",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -6,21 +6,14 @@
   "age_year": 2024,
   "background": "Patricia K. Collawn has served as a member of our Board since July 2021. She is the Chairman and CEO of PNM Resources, Inc.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "EVgo Inc.",
       "ticker": "EVGO",
       "exchange": "NASDAQ",
       "title_or_role": "Director",
+      "website": "https://www.evgo.com",
       "start_date": "2021-07-01",
       "end_date": null
     },
@@ -29,8 +22,51 @@
       "ticker": "LNG",
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
+      "website": "https://www.cheniere.com",
       "start_date": "2021-07-12",
       "end_date": null
+    },
+    {
+      "name": "TXNM Energy, Inc.",
+      "ticker": "TXNM",
+      "exchange": "NYSE",
+      "website": "https://www.txnmenergy.com",
+      "title_or_role": "Chairman, President & Chief Executive Officer",
+      "start_date": "2007",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Equitrans Midstream Corporation",
+      "ticker": "ETRN",
+      "exchange": "NYSE",
+      "website": "https://www.equitransmidstream.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "April 2020",
+      "end_date": "2024",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/patricia-collawn-28280511",
+      "person_name": "Patricia Collawn",
+      "company_name": "PNM Resources",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -6,22 +6,38 @@
   "age_year": 2024,
   "background": "Ms. Planishek has served as a member of our Board since 2022. She was previously the Chief Accounting Officer of GoDaddy Inc. Ms. Planishek holds a B.S. in Accounting from the University of San Francisco.",
   "picture_url": null,
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Palantir Technologies Inc.",
       "ticker": "PLTR",
       "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2022-01-01",
-      "end_date": null
+      "title_or_role": "Chief Accounting Officer",
+      "website": "https://www.palantir.com",
+      "start_date": "Prior to 2025",
+      "end_date": "2025",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/heather-planishek-11a84015",
+      "person_name": "Heather Planishek",
+      "company_name": "Palantir Technologies Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

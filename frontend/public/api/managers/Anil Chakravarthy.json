@@ -2,24 +2,72 @@
   "id": "Anil Chakravarthy",
   "name": "Anil Chakravarthy",
   "background": "Mr. Chakravarthy has served as President, Digital Experience Business since January 2020. Prior to joining Adobe, he was Chief Executive Officer of Informatica LLC from 2016 to 2020.",
-  "pictureUrl": null,
+  "pictureUrl": "/managers-assets/Anil Chakravarthy.jpg",
   "companies": [
     {
       "name": "Adobe Inc.",
       "ticker": "ADBE",
       "exchange": "NASDAQ",
       "website": "https://www.adobe.com",
-      "title": "President, Digital Experience Business",
-      "startDate": "2020-01-01",
+      "logoUrl": "/companies-assets/ADBE.NASDAQ.svg",
+      "title": "Executive Vice President and General Manager, Digital Experience (later President, Customer Experience Orchestration)",
+      "startDate": "January 2020",
       "endDate": null,
-      "formattedStartDate": "2020 January",
+      "formattedStartDate": "January 2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Fidelity National Information Services, Inc. (FIS)",
+      "ticker": "FIS",
+      "exchange": "NYSE",
+      "website": "https://www.fisglobal.com",
+      "logoUrl": "/companies-assets/FIS.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "January 2026",
+      "endDate": null,
+      "formattedStartDate": "January 2026",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "ANSYS, Inc.",
+      "ticker": "ANSS",
+      "exchange": "NASDAQ",
+      "website": "https://www.ansys.com",
+      "logoUrl": "/companies-assets/ANSS.NASDAQ.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Symantec Corporation (now Gen Digital Inc.)",
+      "ticker": "GEN",
+      "exchange": "NASDAQ",
+      "website": "https://www.gendigital.com",
+      "logoUrl": "/companies-assets/GEN.NASDAQ.svg",
+      "title": "Various leadership roles, including Executive Vice President of Information Security, Senior Vice President of Enterprise Security Group, and Senior Vice President of Storage and Availability Management Group",
+      "startDate": "2004",
+      "endDate": "2013",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2013"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/achakravarthy",
+      "person_name": "Anil Chakravarthy",
+      "company_name": "Adobe",
+      "profile_status": "success",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 56,
   "ageYear": 2024

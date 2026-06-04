@@ -6,6 +6,48 @@
   "age_year": 2024,
   "background": "Mr. Charter is a professional director with extensive experience in the mining industry and capital markets. He has served on numerous public company boards.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lundin Mining Corporation",
+      "ticker": "LUN",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://www.lundinmining.com",
+      "start_date": "2015-05-01",
+      "end_date": null
+    },
+    {
+      "name": "International Petroleum Corporation",
+      "ticker": "IPCO",
+      "exchange": "TSX / Nasdaq Stockholm",
+      "website": "https://www.international-petroleum.com/",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Dream Office Real Estate Investment Trust",
+      "ticker": "D.UN",
+      "exchange": "TSX",
+      "website": "https://investors.dream.ca/",
+      "title_or_role": "Independent Lead Trustee",
+      "start_date": "2003",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "IAMGOLD Corporation",
+      "ticker": "IMG",
+      "exchange": "TSX / NYSE",
+      "website": "https://www.iamgold.com/",
+      "title_or_role": "Chairman of the Board / Director",
+      "start_date": "2014",
+      "end_date": "2022",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -14,14 +56,6 @@
     "Audit Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "Lundin Mining Corporation",
-      "ticker": "LUN",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2015-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

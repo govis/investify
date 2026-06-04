@@ -6,14 +6,51 @@
   "companies": [
     {
       "name": "B2Gold Corp.",
-      "ticker": "BTG",
-      "exchange": "NYSE",
-      "website": "https://www.b2gold.com",
-      "title": "Chief Financial Officer",
-      "startDate": "2024-01-01",
+      "ticker": "BTO",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2023-06-21",
       "endDate": null,
-      "formattedStartDate": "2024 January",
+      "formattedStartDate": "June 2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Artemis Gold Inc.",
+      "ticker": "ARTG",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Financial Officer",
+      "startDate": "2024-01-15",
+      "endDate": null,
+      "formattedStartDate": "January 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Pretium Resources Inc.",
+      "ticker": "PVG",
+      "exchange": "TSX",
+      "website": "https://www.pretivm.com",
+      "logoUrl": "https://logos-world.net/wp-content/uploads/2023/08/Pretium-Logo.png",
+      "title": "Vice President, Finance",
+      "startDate": "2011-11-01",
+      "endDate": "2022-03-09",
+      "formattedStartDate": "November 2011",
+      "formattedEndDate": "March 2022"
+    },
+    {
+      "name": "Silver Standard Resources Inc.",
+      "ticker": "SSRM",
+      "exchange": "TSX",
+      "website": "https://www.ssrmining.com",
+      "logoUrl": "/companies-assets/SSRM.TSX.svg",
+      "title": "Corporate Controller",
+      "startDate": "2006-10-01",
+      "endDate": "2011-10-01",
+      "formattedStartDate": "October 2006",
+      "formattedEndDate": "October 2011"
     }
   ],
   "investmentTheses": [

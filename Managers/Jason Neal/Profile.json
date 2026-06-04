@@ -6,22 +6,67 @@
   "age_year": 2024,
   "background": "Mr. Neal was previously the President and CEO of TMAC Resources and Co-Head of Global Metals and Mining at BMO Capital Markets.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Governance and Nominating Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "G Mining Ventures Corp.",
       "ticker": "GMIN",
       "exchange": "TSX",
       "title_or_role": "Independent Director",
+      "website": "https://www.gminingventures.com",
       "start_date": "2021-05-15",
       "end_date": null
+    },
+    {
+      "name": "Deterra Royalties Ltd.",
+      "ticker": "DRR",
+      "exchange": "ASX",
+      "website": "https://www.deterraroyalties.com/",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "TMAC Resources Inc.",
+      "ticker": "TMR",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2018",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Kirkland Lake Gold Ltd.",
+      "ticker": "KL",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "title_or_role": "Executive Vice President",
+      "start_date": "2021",
+      "end_date": "2022",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/jason-neal-264237a1",
+      "person_name": "Jason Neal",
+      "company_name": "G Mining Ventures Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

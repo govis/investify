@@ -9,17 +9,65 @@
       "ticker": "AEE",
       "exchange": "ASX",
       "website": "https://auraenergy.com.au/",
-      "title": "Non-Executive Chairman",
-      "startDate": "2021-12-21",
+      "logoUrl": "/companies-assets/AEE.ASX.svg",
+      "title": "Executive Chairman",
+      "startDate": "November 2021",
       "endDate": null,
-      "formattedStartDate": "2021 December",
+      "formattedStartDate": "November 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cobre Limited",
+      "ticker": "CBE",
+      "exchange": "ASX",
+      "website": "https://www.cobre.com.au/",
+      "logoUrl": "/companies-assets/CBE.ASX.png",
+      "title": "Board Advisor",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Rio Tinto Group",
+      "ticker": "RIO",
+      "exchange": "ASX, LSE, NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Head of Business Development and Strategy; CFO of Rio Tinto Iron Ore",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Anglo American plc",
+      "ticker": "AAL",
+      "exchange": "LSE",
+      "website": "https://www.angloamerican.com",
+      "logoUrl": "/companies-assets/AAL.LSE.svg",
+      "title": "Member of the Executive Committee",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/philliprmitchell",
+      "person_name": "Phillip Mitchell",
+      "company_name": "Aura Energy Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit and Risk Committee",
     "Remuneration and Nomination Committee"

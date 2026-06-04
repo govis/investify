@@ -6,19 +6,54 @@
   "age_year": null,
   "background": "Brian Cothran is the Chief Operating Officer of Venture Global LNG. He joined the company with extensive experience in the energy and industrial sectors, including roles at GE and Baker Hughes.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Venture Global LNG, Inc.",
       "ticker": "VG",
       "exchange": "NYSE",
       "title_or_role": "Chief Operating Officer",
+      "website": "https://venturegloballng.com",
       "start_date": "2021-01-01",
       "end_date": null
+    },
+    {
+      "name": "Baker Hughes Company",
+      "ticker": "BKR",
+      "exchange": "NASDAQ",
+      "website": "https://www.bakerhughes.com",
+      "title_or_role": "Vice President - Global Sales (Oil Field Equipment)",
+      "start_date": "2017",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "General Electric Company",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "website": "https://www.ge.com",
+      "title_or_role": "Various leadership roles (including GE Oil & Gas)",
+      "start_date": "2000",
+      "end_date": "2019",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/becothran",
+      "person_name": "Brian Cothran",
+      "company_name": "Venture Global LNG, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

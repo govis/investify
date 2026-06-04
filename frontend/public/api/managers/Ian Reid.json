@@ -7,24 +7,14 @@
     {
       "name": "OceanaGold Corporation",
       "ticker": "OGC",
-      "exchange": "ASX",
-      "website": "https://oceanagold.com",
-      "title": "Independent Non-Executive Director",
-      "startDate": "2018-06-01",
-      "endDate": null,
-      "formattedStartDate": "2018 June",
-      "formattedEndDate": ""
-    },
-    {
-      "name": "OceanaGold Corporation",
-      "ticker": "OGC",
-      "exchange": "TSX",
-      "website": "https://oceanagold.com",
-      "title": "Independent Director",
-      "startDate": "2018-06-01",
-      "endDate": null,
-      "formattedStartDate": "2018 June",
-      "formattedEndDate": ""
+      "exchange": "TSX (Toronto Stock Exchange)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman of the Board",
+      "startDate": "June 2019",
+      "endDate": "September 2021",
+      "formattedStartDate": "June 2019",
+      "formattedEndDate": "September 2021"
     }
   ],
   "investmentTheses": [

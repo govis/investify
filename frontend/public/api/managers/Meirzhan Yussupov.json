@@ -9,17 +9,29 @@
       "ticker": "KAP",
       "exchange": "LSE",
       "website": "https://www.kazatomprom.kz",
-      "title": "Chief Executive Officer",
+      "logoUrl": "/companies-assets/KAP.LSE.svg",
+      "title": "Chairman of the Management Board / CEO / Director",
       "startDate": "2023-10-02",
       "endDate": null,
-      "formattedStartDate": "2023 October",
+      "formattedStartDate": "October 2023",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/meirzhan-yussupov-4a5a5a1a",
+      "person_name": "Meirzhan Yussupov",
+      "company_name": "National Atomic Company Kazatomprom JSC",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 45,
   "ageYear": 2024

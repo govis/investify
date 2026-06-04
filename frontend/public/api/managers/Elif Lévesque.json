@@ -7,19 +7,67 @@
     {
       "name": "G Mining Ventures Corp.",
       "ticker": "GMIN",
-      "exchange": "TSX",
-      "website": "https://www.gminingventures.com",
-      "title": "Independent Director",
-      "startDate": "2022-06-22",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2024",
       "endDate": null,
-      "formattedStartDate": "2022 June",
+      "formattedStartDate": "2024",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Sandstorm Gold Ltd.",
+      "ticker": "SAND",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "June 9, 2023",
+      "endDate": null,
+      "formattedStartDate": "June 9, 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Nomad Royalty Company Ltd.",
+      "ticker": "NSR",
+      "exchange": "TSX",
+      "website": "https://www.sandstormgold.com",
+      "logoUrl": "/companies-assets/NSR.TSX.svg",
+      "title": "Chief Financial Officer / Co-Founder",
+      "startDate": "2020",
+      "endDate": "2022",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Osisko Gold Royalties Ltd.",
+      "ticker": "OR",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Financial Officer and Vice President, Finance",
+      "startDate": "2014",
+      "endDate": "February 2020",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "February 2020"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/elif-levesque-66004b18",
+      "person_name": "Elif Lévesque",
+      "company_name": "G Mining Ventures Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"

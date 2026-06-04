@@ -5,14 +5,51 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Duke Energy Corporation",
-      "ticker": "DUK",
+      "name": "Public Service Enterprise Group, Inc.",
+      "ticker": "PEG",
       "exchange": "NYSE",
-      "website": "https://www.duke-energy.com",
-      "title": "Independent Director",
-      "startDate": "2021-01-01",
+      "website": "https://www.pseg.com",
+      "logoUrl": "/companies-assets/PEG.NYSE.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2009",
+      "endDate": "2015",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Biogen Inc.",
+      "ticker": "BIIB",
+      "exchange": "NASDAQ",
+      "website": "https://www.biogen.com",
+      "logoUrl": "/companies-assets/BIIB.NASDAQ.svg",
+      "title": "Chair of the Board",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2021 January",
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Intellia Therapeutics, Inc.",
+      "ticker": "NTLA",
+      "exchange": "NASDAQ",
+      "website": "https://www.intelliatx.com",
+      "logoUrl": "/companies-assets/NTLA.NASDAQ.svg",
+      "title": "Board of Directors",
+      "startDate": "2015",
+      "endDate": "2023",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Illumina, Inc.",
+      "ticker": "ILMN",
+      "exchange": "NASDAQ",
+      "website": "https://www.illumina.com",
+      "logoUrl": "/companies-assets/ILMN.NASDAQ.svg",
+      "title": "Board of Directors",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
       "formattedEndDate": ""
     }
   ],

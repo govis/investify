@@ -6,19 +6,35 @@
   "age_year": 2024,
   "background": "Chief Human Resources Officer. Previously held various HR leadership roles within the Volvo Group in Asia. Member of the Group Executive Board since 2019.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "AB Volvo",
+      "ticker": "VOLV B",
+      "exchange": "STO (Nasdaq Stockholm)",
+      "title_or_role": "Executive Vice President, Group Human Resources (Member of the Group Executive Board)",
+      "website": "https://www.volvogroup.com",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "socials": [
     {
-      "name": "AB Volvo",
-      "ticker": "VOLV-B",
-      "exchange": "STO",
-      "title_or_role": "Chief Human Resources Officer",
-      "start_date": "2019-01-01",
-      "end_date": null
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/diana-niu-6a5a5a1a",
+      "person_name": "Diana Niu",
+      "company_name": "AB Volvo",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
-  ]
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

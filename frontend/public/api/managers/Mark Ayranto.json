@@ -9,17 +9,53 @@
       "ticker": "VGCX",
       "exchange": "TSX",
       "website": "https://vgcx.com",
+      "logoUrl": "/companies-assets/VGCX.TSX.svg",
       "title": "Chief Operating Officer",
-      "startDate": "2021-01-01",
+      "startDate": "2018",
       "endDate": null,
-      "formattedStartDate": "2021 January",
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Banyan Gold Corp.",
+      "ticker": "BYN",
+      "exchange": "TSXV",
+      "website": "https://www.banyangold.com",
+      "logoUrl": "/companies-assets/BYN.TSXV.png",
+      "title": "Founder / Former Chair",
+      "startDate": "2011",
+      "endDate": "2018",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Silverco Mining Ltd.",
+      "ticker": "SICO",
+      "exchange": "TSXV",
+      "website": "https://www.silvercomining.com",
+      "logoUrl": "/companies-assets/SICO.TSXV.png",
+      "title": "President, CEO and Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/mark-ayranto-2888aa21",
+      "person_name": "Mark Ayranto",
+      "company_name": "Victoria Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 52,
   "ageYear": 2024

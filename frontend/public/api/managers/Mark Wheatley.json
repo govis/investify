@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Lotus Resources Limited",
-      "ticker": "LOT",
+      "name": "Peninsula Energy Limited",
+      "ticker": "PEN",
       "exchange": "ASX",
-      "website": "https://lotusresources.com.au/",
+      "website": "https://www.pel.net.au",
+      "logoUrl": "/companies-assets/PEN.ASX.svg",
       "title": "Non-Executive Director",
-      "startDate": "2021-02-22",
+      "startDate": "2016",
+      "endDate": "29 July 2025",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "July 2025"
+    },
+    {
+      "name": "Prospect Resources Limited",
+      "ticker": "PSC",
+      "exchange": "ASX",
+      "website": "https://prospectresources.com.au/",
+      "logoUrl": "/companies-assets/PSC.ASX.svg",
+      "title": "Chairman",
+      "startDate": "13 January 2021",
       "endDate": null,
-      "formattedStartDate": "2021 February",
+      "formattedStartDate": "January 2021",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/themarkwheatley",
+      "person_name": "Mark Wheatley",
+      "company_name": "Prospect Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit and Risk Committee",
     "Remuneration and Nomination Committee"

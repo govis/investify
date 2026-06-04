@@ -6,19 +6,65 @@
   "age_year": 2024,
   "background": "Mr. Ashley has over 35 years of experience in the mineral exploration industry. He was formerly the Vice President, Exploration of Fission Uranium Corp. and Fission Energy Corp. He has been involved in several major uranium discoveries in the Athabasca Basin.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "F3 Uranium Corp.",
       "ticker": "FUU",
+      "exchange": "TSXV",
+      "title_or_role": "President and Director (formerly VP Exploration)",
+      "website": "https://f3uranium.com/",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "F4 Uranium Corp.",
+      "ticker": "FUU",
+      "exchange": "CSE",
+      "website": "https://f4uranium.com/",
+      "title_or_role": "CEO",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Fission Uranium Corp.",
+      "ticker": "FCU",
       "exchange": "TSX",
-      "title_or_role": "Director, President",
-      "start_date": "2022-11-01",
-      "end_date": null
+      "website": "https://fissionuranium.com/",
+      "title_or_role": "VP Exploration",
+      "start_date": "2013",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Fission Energy Corp.",
+      "ticker": "FIS",
+      "exchange": "TSXV (Historical)",
+      "website": "N/A",
+      "title_or_role": "VP Exploration",
+      "start_date": "2007",
+      "end_date": "2013",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/raymondashley",
+      "person_name": "Raymond Ashley",
+      "company_name": "F3 Uranium Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

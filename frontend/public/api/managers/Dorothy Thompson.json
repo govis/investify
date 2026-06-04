@@ -5,14 +5,39 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Eaton Corporation plc",
-      "ticker": "ETN",
-      "exchange": "NYSE",
-      "website": "https://www.eaton.com",
-      "title": "Independent Director",
-      "startDate": "2016-01-01",
+      "name": "Drax Group plc",
+      "ticker": "DRX",
+      "exchange": "LSE",
+      "website": "https://www.drax.com",
+      "logoUrl": "/companies-assets/DRX.LSE.svg",
+      "title": "Chief Executive Officer and Director",
+      "startDate": "2005",
+      "endDate": "2017",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Tullow Oil plc",
+      "ticker": "TLW",
+      "exchange": "LSE",
+      "website": "https://www.tullowoil.com",
+      "logoUrl": "/companies-assets/TLW.LSE.jpg",
+      "title": "Non-Executive Chair",
+      "startDate": "2018",
+      "endDate": "2024",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Rotork plc",
+      "ticker": "ROR",
+      "exchange": "LSE",
+      "website": "https://www.rotork.com",
+      "logoUrl": "/companies-assets/ROR.LSE.svg",
+      "title": "Chair",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2016 January",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
     }
   ],

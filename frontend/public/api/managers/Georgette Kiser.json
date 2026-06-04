@@ -9,18 +9,66 @@
       "ticker": "J",
       "exchange": "NYSE",
       "website": "https://www.jacobs.com",
+      "logoUrl": "/companies-assets/J.NYSE.svg",
       "title": "Director",
-      "startDate": "2019-01-01",
+      "startDate": "2019",
       "endDate": null,
-      "formattedStartDate": "2019 January",
+      "formattedStartDate": "2019",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Aflac Incorporated",
+      "ticker": "AFL",
+      "exchange": "NYSE",
+      "website": "https://www.aflac.com",
+      "logoUrl": "/companies-assets/AFL.NYSE.png",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Adtalem Global Education Inc.",
+      "ticker": "ATGE",
+      "exchange": "NYSE",
+      "website": "https://www.adtalem.com",
+      "logoUrl": "/companies-assets/ATGE.NYSE.svg",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "NCR Voyix Corporation",
+      "ticker": "VYX",
+      "exchange": "NYSE",
+      "website": "https://www.ncrvoyix.com",
+      "logoUrl": "/companies-assets/VYX.NYSE.svg",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": "2023",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2023"
     }
   ],
   "investmentTheses": [
     "Nuclear",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/georgette-kiser-5746b175",
+      "person_name": "Georgette Kiser",
+      "company_name": "The Carlyle Group",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Human Resource and Compensation Committee"

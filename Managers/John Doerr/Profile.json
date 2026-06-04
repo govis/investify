@@ -6,22 +6,88 @@
   "age_year": 2024,
   "background": "L. John Doerr has been a director since 1999. He is the Chairman of Kleiner Perkins, a venture capital firm.",
   "picture_url": null,
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Leadership Development, Inclusion and Compensation Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Alphabet Inc.",
       "ticker": "GOOGL",
       "exchange": "NASDAQ",
       "title_or_role": "Director",
-      "start_date": "1999-05-01",
-      "end_date": null
+      "website": "abc.xyz",
+      "start_date": "1999",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Amazon.com, Inc.",
+      "ticker": "AMZN",
+      "exchange": "NASDAQ",
+      "website": "amazon.com",
+      "title_or_role": "Director",
+      "start_date": "1996",
+      "end_date": "2010",
+      "validated": true
+    },
+    {
+      "name": "Intuit Inc.",
+      "ticker": "INTU",
+      "exchange": "NASDAQ",
+      "website": "intuit.com",
+      "title_or_role": "Director",
+      "start_date": "1993",
+      "end_date": "2011",
+      "validated": true
+    },
+    {
+      "name": "Zynga Inc.",
+      "ticker": "ZNGA",
+      "exchange": "NASDAQ",
+      "website": "zynga.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Symantec Corporation",
+      "ticker": "SYMC",
+      "exchange": "NASDAQ",
+      "website": "symantec.com",
+      "title_or_role": "Director",
+      "start_date": "2004",
+      "end_date": "2009",
+      "validated": true
+    },
+    {
+      "name": "DoorDash, Inc.",
+      "ticker": "DASH",
+      "exchange": "NYSE",
+      "website": "doordash.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": "2021",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/john-doerr-03248211",
+      "person_name": "John Doerr",
+      "company_name": "Kleiner Perkins",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Leadership Development, Inclusion and Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

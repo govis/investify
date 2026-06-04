@@ -6,20 +6,56 @@
   "age_year": 2024,
   "background": "Ms. Kirwan is a professional geologist with over 15 years of experience. She is the co-founder, President, and CEO of Orix Geoscience Inc. She has worked with numerous exploration and mining companies globally.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Dryden Gold Corp.",
       "ticker": "DRY",
       "exchange": "TSX",
       "title_or_role": "Vice President, Exploration, Director",
+      "website": "https://drydengold.com",
       "start_date": "2022-10-01",
       "end_date": null
+    },
+    {
+      "name": "EGR Exploration Ltd.",
+      "ticker": "EGR",
+      "exchange": "TSXV",
+      "website": "https://egrexploration.com",
+      "title_or_role": "Director",
+      "start_date": "September 27, 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Transition Metals Corp.",
+      "ticker": "XTM",
+      "exchange": "TSXV",
+      "website": "https://www.transitionmetalscorp.com",
+      "title_or_role": "Independent Director",
+      "start_date": "April 29, 2024",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ashley-kirwan-m-sc-p-geo-icd-d-8b01061b",
+      "person_name": "Ashley Kirwan",
+      "company_name": "Orix Geoscience Inc.",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 1
 }

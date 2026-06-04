@@ -6,23 +6,89 @@
   "age_year": 2024,
   "background": "Founder and CEO of Lewis Advisors. Former CFO of Washington Real Estate Investment Trust.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit",
-    "Governance"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Freeport-McMoRan Inc.",
       "ticker": "FCX",
       "exchange": "NYSE",
       "title_or_role": "Director",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "website": "https://www.fcx.com",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Weyerhaeuser Company",
+      "ticker": "WY",
+      "exchange": "NYSE",
+      "website": "https://www.weyerhaeuser.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Healthpeak Properties, Inc.",
+      "ticker": "PEAK",
+      "exchange": "NYSE",
+      "website": "https://www.healthpeak.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "PS Business Parks, Inc.",
+      "ticker": "PSB",
+      "exchange": "NYSE",
+      "website": "https://www.psbusinessparks.com",
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Plum Creek Timber Company",
+      "ticker": "PCL",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2009",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Washington Real Estate Investment Trust",
+      "ticker": "WRE",
+      "exchange": "NYSE",
+      "website": "https://www.washreit.com",
+      "title_or_role": "EVP and CFO",
+      "start_date": "2002",
+      "end_date": "2009",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sara-grootwassink-lewis-56b06a27",
+      "person_name": "Sara Grootwassink Lewis",
+      "company_name": "Lewis Advisors",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit",
+    "Governance"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

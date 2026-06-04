@@ -9,17 +9,29 @@
       "ticker": "ILU",
       "exchange": "ASX",
       "website": "https://www.iluka.com",
-      "title": "Head of Major Projects and Engineering",
-      "startDate": "2019-01-01",
+      "logoUrl": "/companies-assets/ILU.ASX.svg",
+      "title": "Head of Projects and Sales and Marketing",
+      "startDate": "2004",
       "endDate": null,
-      "formattedStartDate": "2019 January",
+      "formattedStartDate": "2004",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/matthew-blackwell-0378463",
+      "person_name": "Matthew Blackwell",
+      "company_name": "Iluka Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 52,
   "ageYear": 2023

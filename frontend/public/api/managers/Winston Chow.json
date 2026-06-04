@@ -9,10 +9,11 @@
       "ticker": "NNE",
       "exchange": "NASDAQ",
       "website": "https://nanonuclearenergy.com",
-      "title": "Chief Financial Officer",
-      "startDate": "2023-01-01",
+      "logoUrl": "/companies-assets/NNE.NASDAQ.png",
+      "title": "Chief Policy Officer and Director",
+      "startDate": "May 2023",
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "May 2023",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +21,18 @@
     "Nuclear",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/chowwinston",
+      "person_name": "Winston Chow",
+      "company_name": "NANO Nuclear Energy Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 55,
   "ageYear": 2024

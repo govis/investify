@@ -6,22 +6,14 @@
   "age_year": 2024,
   "background": "Liz Hewitt has held senior roles at Smith & Nephew and 3i Group. She is a Chartered Accountant.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee (Chair)",
-    "Nomination Committee",
-    "Remuneration Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Glencore plc",
       "ticker": "GLEN",
       "exchange": "LSE",
       "title_or_role": "Independent Non-Executive Director",
+      "website": "https://www.glencore.com",
       "start_date": "2022-09-01",
       "end_date": null
     },
@@ -30,8 +22,82 @@
       "ticker": "GLNCY",
       "exchange": "OTC",
       "title_or_role": "Independent Non-Executive Director",
+      "website": "https://www.glencore.com",
       "start_date": "2022-09-01",
       "end_date": null
+    },
+    {
+      "name": "Savills plc",
+      "ticker": "SVS",
+      "exchange": "LSE",
+      "website": "https://www.savills.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2014",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Melrose Industries plc",
+      "ticker": "MRO",
+      "exchange": "LSE",
+      "website": "https://www.melroseplc.net",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2013",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Novo Nordisk A/S",
+      "ticker": "NOVO-B",
+      "exchange": "Nasdaq Copenhagen",
+      "website": "https://www.novonordisk.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2012",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Synergy Health plc",
+      "ticker": "SYR",
+      "exchange": "LSE",
+      "website": "https://www.steris.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2011",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "Smith & Nephew plc",
+      "ticker": "SN",
+      "exchange": "LSE",
+      "website": "https://www.smith-nephew.com",
+      "title_or_role": "Group Director, Corporate Affairs",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/liz-hewitt-448b313",
+      "person_name": "Liz Hewitt",
+      "company_name": "Glencore plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Nomination Committee",
+    "Remuneration Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

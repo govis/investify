@@ -9,17 +9,29 @@
       "ticker": "FSY",
       "exchange": "TSX",
       "website": "https://forsysmetals.com",
-      "title": "Director, Business Development, Director",
-      "startDate": "2021-01-01",
+      "logoUrl": "/companies-assets/FSY.TSX.svg",
+      "title": "Executive Director (Investor Relations)",
+      "startDate": "October 8, 2021",
       "endDate": null,
-      "formattedStartDate": "2021 January",
+      "formattedStartDate": "October 8, 2021",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/richard-parkhouse-88a81627",
+      "person_name": "Richard Parkhouse",
+      "company_name": "Forsys Metals Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 63,
   "ageYear": 2024

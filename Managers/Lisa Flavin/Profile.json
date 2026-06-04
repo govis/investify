@@ -6,19 +6,44 @@
   "age_year": 2024,
   "background": "Lisa Flavin is Senior Vice President and Chief Compliance Officer. She joined Emerson in 1998 and has served in her current role since 2011.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Emerson Electric Co.",
       "ticker": "EMR",
       "exchange": "NYSE",
       "title_or_role": "Senior Vice President and Chief Compliance Officer",
+      "website": "https://www.emerson.com",
       "start_date": "2011-01-01",
       "end_date": null
+    },
+    {
+      "name": "Caleres, Inc.",
+      "ticker": "CAL",
+      "exchange": "NYSE",
+      "website": "https://www.caleres.com",
+      "title_or_role": "Director / Chair of the Audit Committee",
+      "start_date": "2019-04-21",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/lisa-flavin-35a19b7",
+      "person_name": "Lisa Flavin",
+      "company_name": "Emerson Electric Co.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

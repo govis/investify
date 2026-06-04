@@ -9,17 +9,41 @@
       "ticker": "AMD",
       "exchange": "NASDAQ",
       "website": "https://www.amd.com",
-      "title": "Independent Director",
-      "startDate": "2022-02-14",
+      "logoUrl": "/companies-assets/AMD.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "February 2022",
       "endDate": null,
-      "formattedStartDate": "2022 February",
+      "formattedStartDate": "February 2022",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Xilinx, Inc.",
+      "ticker": "XLNX",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "logoUrl": "/companies-assets/XLNX.NASDAQ.png",
+      "title": "Director",
+      "startDate": "December 2000",
+      "endDate": "February 2022",
+      "formattedStartDate": "December 2000",
+      "formattedEndDate": "February 2022"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/beth-vanderslice-34a3b49",
+      "person_name": "Elizabeth Vanderslice",
+      "company_name": "Advanced Micro Devices, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation and Leadership Resources Committee",
     "Nominating and Corporate Governance Committee"

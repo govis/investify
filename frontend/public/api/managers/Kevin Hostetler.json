@@ -9,17 +9,41 @@
       "ticker": "ARRY",
       "exchange": "NASDAQ",
       "website": "https://arraytechinc.com",
-      "title": "Chief Executive Officer, Director",
-      "startDate": "2022-04-18",
+      "logoUrl": "/companies-assets/ARRY.NASDAQ.svg",
+      "title": "Chief Executive Officer and Director",
+      "startDate": "2022-04-06",
       "endDate": null,
-      "formattedStartDate": "2022 April",
+      "formattedStartDate": "April 2022",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Rotork plc",
+      "ticker": "ROR",
+      "exchange": "LSE",
+      "website": "https://www.rotork.com",
+      "logoUrl": "/companies-assets/ROR.LSE.svg",
+      "title": "Chief Executive Officer and Director",
+      "startDate": "2018-03-12",
+      "endDate": "2022-03-01",
+      "formattedStartDate": "March 2018",
+      "formattedEndDate": "March 2022"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kevinghostetler",
+      "person_name": "Kevin Hostetler",
+      "company_name": "Array Technologies, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 53,
   "ageYear": 2024

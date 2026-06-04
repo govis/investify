@@ -7,13 +7,26 @@
     {
       "name": "Lithium Americas Corp.",
       "ticker": "LAC",
-      "exchange": "NYSE",
-      "website": "https://www.lithiumamericas.com",
-      "title": "Vice President, Exploration",
-      "startDate": "2023-10-04",
+      "exchange": "TSX/NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2010",
       "endDate": null,
-      "formattedStartDate": "2023 October",
+      "formattedStartDate": "2010",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Zentek Ltd. (formerly Zenyatta Ventures Ltd.)",
+      "ticker": "ZEN",
+      "exchange": "TSXV",
+      "website": "https://www.zentek.com/",
+      "logoUrl": "/companies-assets/ZEN.TSXV.svg",
+      "title": "President and CEO",
+      "startDate": "2011",
+      "endDate": "2016-05",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "May 2016"
     }
   ],
   "investmentTheses": [

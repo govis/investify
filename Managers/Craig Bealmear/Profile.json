@@ -6,19 +6,45 @@
   "age_year": 2024,
   "background": "R. Craig Bealmear has served as Oklo\u2019s Chief Financial Officer since 2024. Prior to joining Oklo, he served as the Chief Financial Officer of Renewable Energy Group, Inc. and spent over 24 years at BP in various finance and leadership roles.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Oklo Inc.",
       "ticker": "OKLO",
       "exchange": "NYSE",
       "title_or_role": "Chief Financial Officer",
-      "start_date": "2024-01-01",
-      "end_date": null
+      "website": "https://oklo.com/",
+      "start_date": "August 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Renewable Energy Group, Inc.",
+      "ticker": "REGI",
+      "exchange": "NASDAQ",
+      "website": "https://www.regi.com/",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "April 19, 2021",
+      "end_date": "December 2022",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/craig-bealmear-a375573",
+      "person_name": "Craig Bealmear",
+      "company_name": "Oklo Inc.",
+      "profile_status": "private",
+      "potential_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQHiNPFtz4Jm4A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1710137379150?e=2147483647&v=beta&t=0aIUm76QAfIIIu3KdYaOUWLf_ugki78rimZJmz2HUZ4",
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/D5603AQHiNPFtz4Jm4A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1710137379150?e=2147483647&v=beta&t=0aIUm76QAfIIIu3KdYaOUWLf_ugki78rimZJmz2HUZ4",
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

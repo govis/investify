@@ -9,11 +9,48 @@
       "ticker": "NUE",
       "exchange": "NYSE",
       "website": "https://nucor.com",
-      "title": "Independent Director",
-      "startDate": "2008-01-01",
+      "logoUrl": "/companies-assets/NUE.NYSE.svg",
+      "title": "Lead Independent Director",
+      "startDate": "2017",
       "endDate": null,
-      "formattedStartDate": "2008 January",
+      "formattedStartDate": "2017",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Otis Worldwide Corporation",
+      "ticker": "OTIS",
+      "exchange": "NYSE",
+      "website": "https://www.otis.com",
+      "logoUrl": "/companies-assets/OTIS.NYSE.svg",
+      "title": "Lead Independent Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "O-I Glass, Inc.",
+      "ticker": "OI",
+      "exchange": "NYSE",
+      "website": "https://o-i.com",
+      "logoUrl": "/companies-assets/OI.NYSE.svg",
+      "title": "Independent Chair of the Board",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Global Brass and Copper Holdings, Inc.",
+      "ticker": "BRSS",
+      "exchange": "NYSE",
+      "website": "n/a",
+      "logoUrl": "/companies-assets/BRSS.NYSE.svg",
+      "title": "Chairman, CEO, Executive Chairman",
+      "startDate": "2007",
+      "endDate": "2019",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2019"
     }
   ],
   "investmentTheses": [

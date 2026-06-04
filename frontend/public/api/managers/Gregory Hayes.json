@@ -9,17 +9,65 @@
       "ticker": "RTX",
       "exchange": "NYSE",
       "website": "https://www.rtx.com",
-      "title": "Executive Chairman",
-      "startDate": "2024-05-02",
+      "logoUrl": "/companies-assets/RTX.NYSE.svg",
+      "title": "CEO & Chairman",
+      "startDate": "2020-04-03",
+      "endDate": "2024-05-01",
+      "formattedStartDate": "April 2020",
+      "formattedEndDate": "May 2024"
+    },
+    {
+      "name": "Phillips 66",
+      "ticker": "PSX",
+      "exchange": "NYSE",
+      "website": "phillips66.com",
+      "logoUrl": "/companies-assets/PSX.NYSE.svg",
+      "title": "Director",
+      "startDate": "2022-07-12",
       "endDate": null,
-      "formattedStartDate": "2024 May",
+      "formattedStartDate": "July 2022",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Becton, Dickinson and Company",
+      "ticker": "BDX",
+      "exchange": "NYSE",
+      "website": "bd.com",
+      "logoUrl": "/companies-assets/BDX.NYSE.svg",
+      "title": "Director",
+      "startDate": "2025-03-26",
+      "endDate": null,
+      "formattedStartDate": "March 2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "United Technologies Corporation",
+      "ticker": "UTX (merged)",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "CEO & Chairman",
+      "startDate": "2016-09-01",
+      "endDate": "2020-04-03",
+      "formattedStartDate": "September 2016",
+      "formattedEndDate": "April 2020"
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gregory-hayes-rtx",
+      "person_name": "Gregory Hayes",
+      "company_name": "RTX Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 63,
   "ageYear": 2024

@@ -5,21 +5,57 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Atlas Copco AB",
-      "ticker": "ATCO",
-      "exchange": "STO",
-      "website": "https://www.atlascopcogroup.com",
-      "title": "Director",
-      "startDate": "2019-01-01",
+      "name": "Schneider Electric SE",
+      "ticker": "SU",
+      "exchange": "Euronext Paris",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Member (Director)",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2019 January",
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Alfa Laval AB",
+      "ticker": "ALFA",
+      "exchange": "Nasdaq Stockholm",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Member (Director)",
+      "startDate": "2017",
+      "endDate": "2020",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "AB Electrolux",
+      "ticker": "ELUX-B",
+      "exchange": "Nasdaq Stockholm",
+      "website": null,
+      "logoUrl": null,
+      "title": "Various Senior Roles (including CFO, EVP, and Head of Business Area Europe)",
+      "startDate": "2001",
+      "endDate": "2023",
+      "formattedStartDate": "2001",
+      "formattedEndDate": "2023"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/anna-ohlsson-leijon-69466917/",
+      "person_name": "Anna Ohlsson-Leijon",
+      "company_name": "Electrolux",
+      "profile_status": "not_found",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

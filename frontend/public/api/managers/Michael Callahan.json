@@ -5,21 +5,69 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Datadog, Inc.",
-      "ticker": "DDOG",
+      "name": "Yahoo! Inc.",
+      "ticker": "YHOO",
       "exchange": "NASDAQ",
-      "website": "https://www.datadoghq.com",
-      "title": "Director",
-      "startDate": "2019-01-01",
+      "website": "yahoo.com",
+      "logoUrl": "/companies-assets/YHOO.NASDAQ.png",
+      "title": "Executive Vice President, General Counsel, and Secretary",
+      "startDate": "1999",
+      "endDate": "2012",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "LinkedIn Corporation",
+      "ticker": "LNKD",
+      "exchange": "NYSE",
+      "website": "https://www.linkedin.com",
+      "logoUrl": "/companies-assets/LNKD.NYSE.svg",
+      "title": "Senior Vice President and General Counsel",
+      "startDate": "2014",
+      "endDate": "2018",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "FiscalNote Holdings, Inc.",
+      "ticker": "NOTE",
+      "exchange": "NYSE",
+      "website": "https://www.fiscalnote.com",
+      "logoUrl": "/companies-assets/NOTE.NYSE.png",
+      "title": "Member of the Board of Directors",
+      "startDate": "2017",
       "endDate": null,
-      "formattedStartDate": "2019 January",
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Rivian Automotive, Inc.",
+      "ticker": "RIVN",
+      "exchange": "NASDAQ",
+      "website": "https://rivian.com",
+      "logoUrl": "/companies-assets/RIVN.NASDAQ.svg",
+      "title": "Chief Legal Officer",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/callahanm",
+      "person_name": "Michael Callahan",
+      "company_name": "Datadog, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],

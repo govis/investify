@@ -9,11 +9,60 @@
       "ticker": "AMD",
       "exchange": "NASDAQ",
       "website": "https://www.amd.com",
-      "title": "Lead Independent Director",
-      "startDate": "2006-01-01",
+      "logoUrl": "/companies-assets/AMD.NASDAQ.svg",
+      "title": "Director / Chairman",
+      "startDate": "2006",
+      "endDate": "2022",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "FARO Technologies, Inc.",
+      "ticker": "FARO",
+      "exchange": "NASDAQ",
+      "website": "faro.com",
+      "logoUrl": "/companies-assets/FARO.NASDAQ.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": "2021",
+      "formattedStartDate": "",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "IAMGOLD Corporation",
+      "ticker": "IAG",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2006 January",
+      "formattedStartDate": "",
       "formattedEndDate": ""
+    },
+    {
+      "name": "SMTC Corporation",
+      "ticker": "SMTX",
+      "exchange": "NASDAQ",
+      "website": "smtc.com",
+      "logoUrl": "/companies-assets/SMTX.NASDAQ.png",
+      "title": "President & CEO / Director",
+      "startDate": "2003",
+      "endDate": null,
+      "formattedStartDate": "2003",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "ATI Technologies Inc.",
+      "ticker": "ATYT",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "/companies-assets/ATYT.NASDAQ.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": "2006",
+      "formattedStartDate": "",
+      "formattedEndDate": "2006"
     }
   ],
   "investmentTheses": [

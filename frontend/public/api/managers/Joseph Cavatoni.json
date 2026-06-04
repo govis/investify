@@ -7,19 +7,43 @@
     {
       "name": "SPDR Gold Trust",
       "ticker": "GLD",
-      "exchange": "NYSE",
-      "website": "https://www.spdrgoldshares.com",
-      "title": "Principal Executive Officer",
-      "startDate": "2017-02-01",
+      "exchange": "NYSE Arca",
+      "website": null,
+      "logoUrl": null,
+      "title": "Principal Executive Officer (World Gold Trust Services, LLC, the Sponsor)",
+      "startDate": "September 2016",
       "endDate": null,
-      "formattedStartDate": "2017 February",
+      "formattedStartDate": "September 2016",
       "formattedEndDate": ""
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "ticker": "BLK",
+      "exchange": "NYSE",
+      "website": "https://www.blackrock.com",
+      "logoUrl": "/companies-assets/BLK.NYSE.svg",
+      "title": "Managing Director, iShares Capital Markets – Americas",
+      "startDate": "Unknown",
+      "endDate": "2016",
+      "formattedStartDate": "",
+      "formattedEndDate": "2016"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/josephcavatoni",
+      "person_name": "Joseph Cavatoni",
+      "company_name": "World Gold Council",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 56,
   "ageYear": 2024

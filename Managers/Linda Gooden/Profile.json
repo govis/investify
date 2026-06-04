@@ -6,23 +6,78 @@
   "age_year": 2024,
   "background": "Former Executive Vice President, Information Systems & Global Solutions of Lockheed Martin Corporation.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Governance and Corporate Responsibility Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "General Motors Company",
       "ticker": "GM",
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
+      "website": "https://www.gm.com",
       "start_date": "2015-02-05",
       "end_date": null
+    },
+    {
+      "name": "Lockheed Martin Corporation",
+      "ticker": "LMT",
+      "exchange": "NYSE",
+      "website": "www.lockheedmartin.com",
+      "title_or_role": "Executive Vice President, Information Systems & Global Solutions",
+      "start_date": "2007",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "The Home Depot, Inc.",
+      "ticker": "HD",
+      "exchange": "NYSE",
+      "website": "www.homedepot.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Automatic Data Processing, Inc. (ADP)",
+      "ticker": "ADP",
+      "exchange": "NASDAQ",
+      "website": "www.adp.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "WGL Holdings, Inc.",
+      "ticker": "WGL",
+      "exchange": "NYSE",
+      "website": "www.wglholdings.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2018",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/linda-gooden-488a4841",
+      "person_name": "Linda Gooden",
+      "company_name": "Lockheed Martin Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Governance and Corporate Responsibility Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

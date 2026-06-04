@@ -9,17 +9,65 @@
       "ticker": "KNT",
       "exchange": "TSX",
       "website": "https://k92mining.com",
-      "title": "Chief Executive Officer and Director",
-      "startDate": "2017-05-01",
+      "logoUrl": "/companies-assets/KNT.TSX.svg",
+      "title": "Chief Operating Officer",
+      "startDate": "2016",
+      "endDate": "2017",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Zacatecas Silver Corp.",
+      "ticker": "ZAC",
+      "exchange": "TSXV",
+      "website": "zacatecassilver.com",
+      "logoUrl": "/companies-assets/ZAC.TSXV.png",
+      "title": "Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2017 May",
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "First Dynasty Mines Ltd.",
+      "ticker": "FDM",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "/companies-assets/FDM.TSX.svg",
+      "title": "Acting President/CEO",
+      "startDate": "05/1999",
+      "endDate": "02/2000",
+      "formattedStartDate": "05/1999",
+      "formattedEndDate": "02/2000"
+    },
+    {
+      "name": "Platinum Australia Limited",
+      "ticker": "PLA",
+      "exchange": "ASX",
+      "website": null,
+      "logoUrl": "https://companieslogo.com/img/orig/PLA.AX-68045688.png",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/john-lewins-58519519",
+      "person_name": "John Lewins",
+      "company_name": "K92 Mining Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 64,
   "ageYear": 2024

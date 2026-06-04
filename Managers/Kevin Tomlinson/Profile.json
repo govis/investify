@@ -6,22 +6,58 @@
   "age_year": null,
   "background": "Mr Tomlinson is a highly experienced mining executive and investment banker with over 35 years\u2019 experience in the global resources sector. He has held directorships with several ASX, TSX, and LSE-listed companies.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit and Risk Committee",
-    "Nomination and Remuneration Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Bellevue Gold Limited",
       "ticker": "BGL",
       "exchange": "ASX",
-      "title_or_role": "Non-Executive Independent Chairman",
-      "start_date": "2017-09-01",
-      "end_date": null
+      "title_or_role": "Non-Executive Chairman",
+      "website": "bellevuegold.com.au",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "FireFly Metals Ltd",
+      "ticker": "FFM",
+      "exchange": "ASX",
+      "website": "fireflymetals.com.au",
+      "title_or_role": "Chairman",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cygnus Metals Ltd",
+      "ticker": "CY5",
+      "exchange": "ASX",
+      "website": "cygnusmetals.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/kevin-tomlinson-a5686736",
+      "person_name": "Kevin Tomlinson",
+      "company_name": "Bellevue Gold Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee",
+    "Nomination and Remuneration Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

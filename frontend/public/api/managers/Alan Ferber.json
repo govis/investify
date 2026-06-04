@@ -2,24 +2,36 @@
   "id": "Alan Ferber",
   "name": "Alan Ferber",
   "background": "Alan Ferber has served as a member of our Board since 2018. He previously served as the Chief Executive Officer of TI Automotive and held various executive roles at US Cellular.",
-  "pictureUrl": null,
+  "pictureUrl": "/managers-assets/Alan Ferber.jpg",
   "companies": [
     {
       "name": "Sunrun Inc.",
       "ticker": "RUN",
       "exchange": "NASDAQ",
       "website": "https://www.sunrun.com",
-      "title": "Independent Director",
-      "startDate": "2018-01-01",
+      "logoUrl": "/companies-assets/RUN.NASDAQ.svg",
+      "title": "Director (Board of Directors)",
+      "startDate": "2015",
       "endDate": null,
-      "formattedStartDate": "2018 January",
+      "formattedStartDate": "2015",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/alan-ferber-b9451026",
+      "person_name": "Alan Ferber",
+      "company_name": "Sunrun Inc.",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"

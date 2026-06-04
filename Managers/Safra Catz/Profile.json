@@ -6,20 +6,56 @@
   "age_year": 2024,
   "background": "Ms. Catz has been Oracle\u2019s Chief Executive Officer since September 2014. She served as Oracle\u2019s President from January 2004 to September 2014 and as Oracle\u2019s Chief Financial Officer from 2011 to 2014 and 2005 to 2008.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Oracle Corporation",
+      "ticker": "ORCL",
+      "exchange": "NASDAQ",
+      "title_or_role": "Member, Board of Directors",
+      "website": "https://www.oracle.com",
+      "start_date": "2001",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "ticker": "HSBA",
+      "exchange": "LSE",
+      "website": "https://www.hsbc.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2008",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "The Walt Disney Company",
+      "ticker": "DIS",
+      "exchange": "NYSE",
+      "website": "https://thewaltdisneycompany.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "February 2018",
+      "end_date": "2023",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI",
     "Defense"
   ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "socials": [
     {
-      "name": "Oracle Corporation",
-      "ticker": "ORCL",
-      "exchange": "NYSE",
-      "title_or_role": "Chief Executive Officer, Director",
-      "start_date": "2014-09-01",
-      "end_date": null
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/safracatz",
+      "person_name": "Safra Catz",
+      "company_name": "Oracle",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
-  ]
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

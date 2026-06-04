@@ -9,11 +9,24 @@
       "ticker": "ETN",
       "exchange": "NYSE",
       "website": "https://www.eaton.com",
+      "logoUrl": "/companies-assets/ETN.NYSE.svg",
       "title": "Independent Director",
-      "startDate": "2004-01-01",
-      "endDate": null,
-      "formattedStartDate": "2004 January",
-      "formattedEndDate": ""
+      "startDate": "2000",
+      "endDate": "2023",
+      "formattedStartDate": "2000",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Continental Airlines, Inc.",
+      "ticker": "CAL",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "/companies-assets/CAL.NYSE.svg",
+      "title": "Senior Vice President, Flight Operations",
+      "startDate": "1999",
+      "endDate": "2005",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2005"
     }
   ],
   "investmentTheses": [

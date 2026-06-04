@@ -7,19 +7,31 @@
     {
       "name": "QuantumScape Corporation",
       "ticker": "QS",
-      "exchange": "NYSE",
-      "website": "https://www.quantumscape.com",
-      "title": "Chief Technology Officer",
-      "startDate": "2010-05-01",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Co-Founder and Chief Technology Officer",
+      "startDate": "January 2011",
       "endDate": null,
-      "formattedStartDate": "2010 May",
+      "formattedStartDate": "January 2011",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/tim-h-battery",
+      "person_name": "Timothy Holme",
+      "company_name": "QuantumScape Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 45,
   "ageYear": 2024

@@ -9,11 +9,36 @@
       "ticker": "DEG",
       "exchange": "ASX",
       "website": "https://degreymining.com.au",
-      "title": "Non-Executive Chairman",
-      "startDate": "2013-10-03",
+      "logoUrl": "/companies-assets/DEG.ASX.svg",
+      "title": "Executive Chairman / Non-Executive Chairman",
+      "startDate": "October 2013",
       "endDate": null,
-      "formattedStartDate": "2013 October",
+      "formattedStartDate": "October 2013",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Kairos Minerals Limited",
+      "ticker": "KAI",
+      "exchange": "ASX",
+      "website": "https://www.kairosminerals.com.au/",
+      "logoUrl": "/companies-assets/KAI.ASX.svg",
+      "title": "Non-Executive Chairman",
+      "startDate": "May 12, 2025",
+      "endDate": null,
+      "formattedStartDate": "May 12, 2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Purifloh Limited",
+      "ticker": "PO3",
+      "exchange": "ASX",
+      "website": "https://purifloh.com/",
+      "logoUrl": "/companies-assets/PO3.ASX.png",
+      "title": "Non-Executive Director / Chairman",
+      "startDate": null,
+      "endDate": "February 2025",
+      "formattedStartDate": "",
+      "formattedEndDate": "February 2025"
     }
   ],
   "investmentTheses": [

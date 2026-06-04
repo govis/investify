@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Stallion Uranium Corp.",
-      "ticker": "STUD",
-      "exchange": "TSX",
-      "website": "https://stallionuranium.com",
-      "title": "Independent Director",
-      "startDate": "2023-08-01",
+      "name": "Cascadia Minerals Ltd.",
+      "ticker": "CAM",
+      "exchange": "TSXV",
+      "website": "https://cascadiaminerals.com",
+      "logoUrl": "/companies-assets/CAM.TSXV.svg",
+      "title": "President, CEO, and Director",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2023 August",
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "ATAC Resources Ltd.",
+      "ticker": "ATC",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": "/companies-assets/ATC.TSXV.png",
+      "title": "President and CEO",
+      "startDate": "2007",
+      "endDate": "2023",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2023"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/graham-downs-744b62148",
+      "person_name": "Graham Downs",
+      "company_name": "Cascadia Minerals Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Faraday Copper Corp.",
-      "ticker": "FDY",
-      "exchange": "TSX",
-      "website": "https://faradaycopper.com",
-      "title": "Director",
-      "startDate": "2022-04-21",
+      "name": "StepStone Group Inc.",
+      "ticker": "STEP",
+      "exchange": "NASDAQ",
+      "website": "https://www.stepstonegroup.com/",
+      "logoUrl": "/companies-assets/STEP.NASDAQ.svg",
+      "title": "CEO of StepStone Private Wealth Solutions",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2022 April",
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "OHA Investment Corporation",
+      "ticker": "OHAI",
+      "exchange": "NASDAQ",
+      "website": "https://www.ohainvestment.com/",
+      "logoUrl": "https://brandfetch.com/oakhilladvisors.com",
+      "title": "CEO",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/boblongstepstone",
+      "person_name": "Bob Long",
+      "company_name": "StepStone Group",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation and Nominating Committee",
     "Technical Committee"

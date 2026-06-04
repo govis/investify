@@ -9,11 +9,36 @@
       "ticker": "GFI",
       "exchange": "NYSE",
       "website": "https://www.goldfields.com",
-      "title": "Independent Non-Executive Director",
-      "startDate": "2009-03-10",
+      "logoUrl": "/companies-assets/GFI.NYSE.svg",
+      "title": "Director / Chair",
+      "startDate": "2009",
       "endDate": null,
-      "formattedStartDate": "2009 March",
+      "formattedStartDate": "2009",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Investec PLC",
+      "ticker": "INVP / ITCFY",
+      "exchange": "LSE / OTC",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Director",
+      "startDate": "Unknown",
+      "endDate": "Unknown",
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Grindrod Limited",
+      "ticker": "GND",
+      "exchange": "JSE",
+      "website": "grindrod.com",
+      "logoUrl": "/companies-assets/GND.JSE.svg",
+      "title": "Chair of the Board",
+      "startDate": "2022",
+      "endDate": "2024",
+      "formattedStartDate": "2022",
+      "formattedEndDate": "2024"
     }
   ],
   "investmentTheses": [

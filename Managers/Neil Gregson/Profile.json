@@ -6,6 +6,48 @@
   "age_year": 2024,
   "background": "Mr. Gregson has over 30 years of experience in the investment management industry, specializing in the mining and energy sectors. He was previously a portfolio manager at J.P. Morgan Asset Management.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Uranium Royalty Corp.",
+      "ticker": "UROY",
+      "exchange": "NASDAQ / TSX",
+      "title_or_role": "Director",
+      "website": "https://www.uraniumroyalty.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Uranium Royalty Corp.",
+      "ticker": "UROY",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://www.uraniumroyalty.com/",
+      "start_date": "2019-10-01",
+      "end_date": null
+    },
+    {
+      "name": "Atalaya Mining Plc",
+      "ticker": "ATYM",
+      "exchange": "LSE",
+      "website": "https://www.atalayamining.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Meridian Mining UK Societas",
+      "ticker": "MNO",
+      "exchange": "TSXV",
+      "website": "https://meridianmining.co",
+      "title_or_role": "Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -15,22 +57,6 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Uranium Royalty Corp.",
-      "ticker": "UROY",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2021-10-01",
-      "end_date": null
-    },
-    {
-      "name": "Uranium Royalty Corp.",
-      "ticker": "UROY",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2019-10-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

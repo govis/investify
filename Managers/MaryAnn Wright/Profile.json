@@ -6,22 +6,68 @@
   "age_year": 2024,
   "background": "Ms. Wright has served as a member of our Board since December 2021. She previously served as Group Vice President of Engineering and Product Development at Johnson Controls International plc.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Nominating and Corporate Governance Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Solid Power, Inc.",
       "ticker": "SLDP",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2021-12-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://www.solidpowerbattery.com/",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Brunswick Corporation",
+      "ticker": "BC",
+      "exchange": "NYSE",
+      "website": "https://www.brunswick.com/",
+      "title_or_role": "Director",
+      "start_date": "June 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Micron Technology, Inc.",
+      "ticker": "MU",
+      "exchange": "NASDAQ",
+      "website": "https://www.micron.com/",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "IDACORP, Inc.",
+      "ticker": "IDA",
+      "exchange": "NYSE",
+      "website": "https://www.idacorpinc.com/",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/maryann-wright-4aa12485",
+      "person_name": "MaryAnn Wright",
+      "company_name": "Solid Power, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

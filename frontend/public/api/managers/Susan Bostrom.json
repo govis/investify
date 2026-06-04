@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "ServiceNow, Inc.",
-      "ticker": "NOW",
+      "name": "Samsara, Inc.",
+      "ticker": "IOT",
       "exchange": "NYSE",
-      "website": "https://www.servicenow.com",
-      "title": "Independent Director",
-      "startDate": "2014-07-01",
+      "website": "https://www.samsara.com",
+      "logoUrl": "/companies-assets/IOT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2014 July",
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Nutanix, Inc.",
+      "ticker": "NTNX",
+      "exchange": "NASDAQ",
+      "website": "https://www.nutanix.com",
+      "logoUrl": "/companies-assets/NTNX.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sue-bostrom-95201332",
+      "person_name": "Susan Bostrom",
+      "company_name": "ServiceNow, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Leadership Development and Compensation Committee",
     "Nominating and Governance Committee"

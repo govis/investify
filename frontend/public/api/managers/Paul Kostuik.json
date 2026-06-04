@@ -9,17 +9,77 @@
       "ticker": "SKE",
       "exchange": "TSX",
       "website": "https://skeenaresources.com",
-      "title": "Independent Director",
-      "startDate": "2020-01-01",
+      "logoUrl": "/companies-assets/SKE.TSX.svg",
+      "title": "Director",
+      "startDate": "2016",
       "endDate": null,
-      "formattedStartDate": "2020 January",
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Aurizon Mines Ltd.",
+      "ticker": "ARZ",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "/companies-assets/ARZ.TSX.svg",
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": "2013",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Kirkland Lake Gold Inc.",
+      "ticker": "KL",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": "2022",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Vulcan Materials Company",
+      "ticker": "VMC",
+      "exchange": "NYSE",
+      "website": "https://www.vulcanmaterials.com",
+      "logoUrl": "/companies-assets/VMC.NYSE.svg",
+      "title": "Executive Vice-President, Construction Materials",
+      "startDate": "1981",
+      "endDate": "1990",
+      "formattedStartDate": "1981",
+      "formattedEndDate": "1990"
+    },
+    {
+      "name": "Denison Mines Ltd.",
+      "ticker": "DML",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "President of Quintette Coal Ltd.",
+      "startDate": "1985",
+      "endDate": "1988",
+      "formattedStartDate": "1985",
+      "formattedEndDate": "1988"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/paul-kostuik-9230029b",
+      "person_name": "Paul Kostuik",
+      "company_name": "Skeena Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee",
     "Technical Committee"

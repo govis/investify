@@ -9,18 +9,90 @@
       "ticker": "MU",
       "exchange": "NASDAQ",
       "website": "https://www.micron.com",
-      "title": "Independent Director",
-      "startDate": "2013-01-01",
+      "logoUrl": "/companies-assets/MU.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2013",
       "endDate": null,
-      "formattedStartDate": "2013 January",
+      "formattedStartDate": "2013",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Freescale Semiconductor, Inc.",
+      "ticker": "FSL",
+      "exchange": "NYSE",
+      "website": "https://www.nxp.com",
+      "logoUrl": "https://www.nxp.com/assets/images/logo/nxp-logo.svg",
+      "title": "Director",
+      "startDate": "2008",
+      "endDate": "2013",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Intersil Corporation",
+      "ticker": "ISIL",
+      "exchange": "NASDAQ",
+      "website": "https://www.intersil.com",
+      "logoUrl": "https://www.intersil.com/etc/designs/intersil/images/logo.png",
+      "title": "President, Chief Executive Officer, and Director",
+      "startDate": "2002",
+      "endDate": "2008",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "2008"
+    },
+    {
+      "name": "Microsemi Corporation",
+      "ticker": "MSCC",
+      "exchange": "NASDAQ",
+      "website": "https://www.microchip.com",
+      "logoUrl": "https://www.microchip.com/etc/designs/microchip/clientlibs/images/logo.svg",
+      "title": "Independent Director",
+      "startDate": null,
+      "endDate": "2018",
+      "formattedStartDate": "",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Analog Devices, Inc.",
+      "ticker": "ADI",
+      "exchange": "NASDAQ",
+      "website": "https://www.analog.com",
+      "logoUrl": "/companies-assets/ADI.NASDAQ.png",
+      "title": "Independent Non-Employee Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "VLSI Technology, Inc.",
+      "ticker": "VLSI",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/VLSI_Technology_logo.svg/1200px-VLSI_Technology_logo.svg.png",
+      "title": "President, Chief Operating Officer, and Director",
+      "startDate": "1996",
+      "endDate": "1998",
+      "formattedStartDate": "1996",
+      "formattedEndDate": "1998"
     }
   ],
   "investmentTheses": [
     "AI",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rich-beyer-99706353",
+      "person_name": "Richard Beyer",
+      "company_name": "Micron Technology, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee",
     "Governance and Sustainability Committee"

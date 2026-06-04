@@ -6,14 +6,15 @@
   "companies": [
     {
       "name": "Sibanye Stillwater Limited",
-      "ticker": "SBSW",
-      "exchange": "NYSE",
-      "website": "https://www.sibanyestillwater.com",
-      "title": "Chief Sustainability Officer",
-      "startDate": "2016-01-01",
-      "endDate": null,
-      "formattedStartDate": "2016 January",
-      "formattedEndDate": ""
+      "ticker": "SSW (JSE), SBSW (NYSE)",
+      "exchange": "JSE, NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Vice President: Corporate Affairs",
+      "startDate": "July 2016",
+      "endDate": "May 2022",
+      "formattedStartDate": "July 2016",
+      "formattedEndDate": "May 2022"
     }
   ],
   "investmentTheses": [

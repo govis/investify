@@ -6,25 +6,14 @@
   "age_year": 2024,
   "background": "Former Chairman and CEO of Mercer LLC. Former CFO of Delta Air Lines, Inc. and Marsh & McLennan Companies, Inc.",
   "picture_url": null,
-  "investment_theses": [
-    "AI",
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit",
-    "Audit Committee",
-    "Governance",
-    "Nomination and Governance Committee",
-    "Risk"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Cisco Systems, Inc.",
       "ticker": "CSCO",
       "exchange": "NASDAQ",
       "title_or_role": "Independent Director",
+      "website": "https://www.cisco.com",
       "start_date": "2003-11-01",
       "end_date": null
     },
@@ -33,8 +22,85 @@
       "ticker": "GS",
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
+      "website": "https://www.goldmansachs.com",
       "start_date": "2011-10-01",
       "end_date": null
+    },
+    {
+      "name": "Etsy, Inc.",
+      "ticker": "ETSY",
+      "exchange": "NASDAQ",
+      "website": "https://www.etsy.com",
+      "title_or_role": "Director",
+      "start_date": "2014-03",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Walmart Inc.",
+      "ticker": "WMT",
+      "exchange": "NYSE",
+      "website": "https://www.walmart.com",
+      "title_or_role": "Director",
+      "start_date": "2003",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Alexion Pharmaceuticals, Inc.",
+      "ticker": "ALXN",
+      "exchange": "NASDAQ",
+      "website": "https://www.alexion.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Marsh & McLennan Companies, Inc.",
+      "ticker": "MMC",
+      "exchange": "NYSE",
+      "website": "https://www.marshmclennan.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2006-03",
+      "end_date": "2006-09",
+      "validated": true
+    },
+    {
+      "name": "Mirant Corporation",
+      "ticker": "MIR",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Chief Financial Officer, Chief Restructuring Officer and Executive Vice President",
+      "start_date": "2004-05",
+      "end_date": "2006-01",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI",
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/micheleiburns",
+      "person_name": "Michele Burns",
+      "company_name": "Cisco Systems, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit",
+    "Audit Committee",
+    "Governance",
+    "Nomination and Governance Committee",
+    "Risk"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

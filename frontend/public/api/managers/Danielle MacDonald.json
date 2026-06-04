@@ -7,12 +7,13 @@
     {
       "name": "Prospector Metals Corp.",
       "ticker": "PPP",
-      "exchange": "TSX",
-      "website": "https://prospectormetalscorp.com",
-      "title": "Chief Financial Officer",
-      "startDate": "2022-05-01",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Corporate Secretary",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2022 May",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],

@@ -5,14 +5,27 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "New Age Metals Inc.",
-      "ticker": "NAM",
+      "name": "Sokoman Minerals Corp.",
+      "ticker": "SIC",
       "exchange": "TSXV",
-      "website": "https://newagemetals.com",
-      "title": "Independent Director",
-      "startDate": "2010-01-01",
+      "website": "sokomanmineralscorp.com",
+      "logoUrl": "/companies-assets/SIC.TSXV.png",
+      "title": "Director",
+      "startDate": null,
+      "endDate": "2025",
+      "formattedStartDate": "",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "Spruce Ridge Resources Ltd.",
+      "ticker": "SHL",
+      "exchange": "TSXV",
+      "website": "spruceridgeresources.com",
+      "logoUrl": "/companies-assets/SHL.TSXV.svg",
+      "title": "VP Exploration & Director",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2010 January",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],

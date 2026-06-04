@@ -5,26 +5,28 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Skeena Resources Limited",
-      "ticker": "SKE",
-      "exchange": "NYSE",
-      "website": "https://skeenaresources.com",
-      "title": "Independent Director",
-      "startDate": "2018-01-01",
+      "name": "Pacific Ridge Exploration Ltd.",
+      "ticker": "PEX",
+      "exchange": "TSXV",
+      "website": "https://pacificridgeexploration.com/",
+      "logoUrl": "/companies-assets/PEX.TSXV.svg",
+      "title": "Director",
+      "startDate": "2021-02-08",
       "endDate": null,
-      "formattedStartDate": "2018 January",
+      "formattedStartDate": "February 2021",
       "formattedEndDate": ""
     },
     {
-      "name": "Skeena Resources Limited",
-      "ticker": "SKE",
-      "exchange": "TSX",
-      "website": "https://skeenaresources.com",
-      "title": "Independent Director",
-      "startDate": "2016-01-01",
-      "endDate": null,
-      "formattedStartDate": "2016 January",
-      "formattedEndDate": ""
+      "name": "Eurasian Minerals Inc. (now EMX Royalty Corporation)",
+      "ticker": "EMX",
+      "exchange": "NYSE",
+      "website": "https://emxroyalty.com/",
+      "logoUrl": "/companies-assets/EMX.NYSE.png",
+      "title": "Director",
+      "startDate": "2005-07-20",
+      "endDate": "2005-07-22",
+      "formattedStartDate": "July 2005",
+      "formattedEndDate": "July 2005"
     }
   ],
   "investmentTheses": [

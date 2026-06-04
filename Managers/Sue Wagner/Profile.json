@@ -6,28 +6,67 @@
   "age_year": 2024,
   "background": "Ms. Wagner is a co-founder of BlackRock, Inc. and served as its Vice Chairman from 2006 to 2012.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "exchange": "NASDAQ",
+      "title_or_role": "Member, Board of Directors",
+      "website": "https://www.apple.com",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "ticker": "BLK",
+      "exchange": "NYSE",
+      "website": "https://www.blackrock.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Swiss Re Ltd",
+      "ticker": "SREN",
+      "exchange": "LSE",
+      "website": "https://www.swissre.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2014",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Affiliated Managers Group, Inc.",
+      "ticker": "AMG",
+      "exchange": "NYSE",
+      "website": "https://www.amg.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2006",
+      "end_date": "2014",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [
     {
       "name": "LinkedIn",
-      "url": "https://www.linkedin.com/in/sue-wagner-a8828615"
+      "url": "https://www.linkedin.com/in/sue-wagner-a8828615",
+      "person_name": "Sue Wagner",
+      "company_name": "BlackRock",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
   ],
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],
-  "picture_local": null,
-  "enrichment_status": "success",
-  "companies": [
-    {
-      "name": "Apple Inc.",
-      "ticker": "AAPL",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2014-07-17",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

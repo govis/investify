@@ -9,17 +9,29 @@
       "ticker": "SO",
       "exchange": "NYSE",
       "website": "https://www.southerncompany.com",
+      "logoUrl": "/companies-assets/SO.NYSE.svg",
       "title": "Independent Director",
-      "startDate": "2018-03-01",
+      "startDate": "February 2018",
       "endDate": null,
-      "formattedStartDate": "2018 March",
+      "formattedStartDate": "February 2018",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ernestmoniz",
+      "person_name": "Ernest Moniz",
+      "company_name": "The Southern Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Operations, Environmental and Safety"
   ],

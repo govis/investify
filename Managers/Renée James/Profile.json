@@ -6,6 +6,49 @@
   "age_year": 2024,
   "background": "Founder, Chairman and CEO of Ampere Computing and former President of Intel Corporation.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Oracle Corporation",
+      "ticker": "ORCL",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.oracle.com",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "title_or_role": "President",
+      "start_date": "2013",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Portland General Electric Company",
+      "ticker": "POR",
+      "exchange": "NYSE",
+      "website": "https://portlandgeneral.com",
+      "title_or_role": "Director",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Vodafone Group Plc",
+      "ticker": "VOD",
+      "exchange": "LSE",
+      "website": "https://www.vodafone.com",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": "2016",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI",
     "Defense"
@@ -14,14 +57,6 @@
   "committees": [
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Oracle Corporation",
-      "ticker": "ORCL",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2015-12-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

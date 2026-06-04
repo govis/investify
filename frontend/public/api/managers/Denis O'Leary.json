@@ -9,11 +9,24 @@
       "ticker": "CRWD",
       "exchange": "NASDAQ",
       "website": "https://www.crowdstrike.com",
+      "logoUrl": "/companies-assets/CRWD.NASDAQ.svg",
       "title": "Director",
-      "startDate": "2012-04-01",
+      "startDate": "December 2011",
       "endDate": null,
-      "formattedStartDate": "2012 April",
+      "formattedStartDate": "December 2011",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Fiserv, Inc.",
+      "ticker": "FI",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director, Lead Director, Chairman of the Board",
+      "startDate": "2008",
+      "endDate": "2022",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2022"
     }
   ],
   "investmentTheses": [

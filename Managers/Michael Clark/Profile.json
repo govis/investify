@@ -6,6 +6,47 @@
   "age_year": 2024,
   "background": "President of B-Filer Inc. since 2012. Formerly Executive Vice President at Northern Trust.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Sprott Energy Transition Materials ETF",
+      "ticker": "SETM",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Trustee",
+      "website": "https://www.sprottetfs.com/setm-sprott-energy-transition-materials-etf/",
+      "start_date": "2018",
+      "end_date": null
+    },
+    {
+      "name": "Sprott Uranium Miners ETF",
+      "ticker": "URNM",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Trustee",
+      "website": "https://sprottetfs.com/urnm-sprott-uranium-miners-etf/",
+      "start_date": "2018-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Sprott Focus Trust, Inc.",
+      "ticker": "FUND",
+      "exchange": "NASDAQ",
+      "website": "https://sprott.com/investment-strategies/sprott-focus-trust/",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Avino Silver & Gold Mines Ltd.",
+      "ticker": "ASM",
+      "exchange": "TSX",
+      "website": "https://www.avinoltd.com/",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Nuclear",
@@ -16,22 +57,6 @@
     "Audit Committee",
     "Nominating and Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Sprott Energy Transition Materials ETF",
-      "ticker": "SETM",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Trustee",
-      "start_date": "2018",
-      "end_date": null
-    },
-    {
-      "name": "Sprott Uranium Miners ETF",
-      "ticker": "URNM",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Trustee",
-      "start_date": "2018-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

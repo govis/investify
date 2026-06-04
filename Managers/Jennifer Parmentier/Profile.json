@@ -6,19 +6,45 @@
   "age_year": 2024,
   "background": "Ms. Parmentier has served as Chief Executive Officer since January 2023 and Chairman of the Board since January 2024. She previously served as Chief Operating Officer from 2021 to 2022 and Vice President and President \u2013 Motion Systems Group from 2019 to 2021.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Parker-Hannifin Corporation",
       "ticker": "PH",
       "exchange": "NYSE",
-      "title_or_role": "Chief Executive Officer, Chairman of the Board",
-      "start_date": "2023-01-01",
-      "end_date": null
+      "title_or_role": "Chairman of the Board and Chief Executive Officer",
+      "website": "https://www.parker.com",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nordson Corporation",
+      "ticker": "NDSN",
+      "exchange": "NASDAQ",
+      "website": "https://www.nordson.com",
+      "title_or_role": "Independent Director",
+      "start_date": "December 2020",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jennifer-parmentier-47720197",
+      "person_name": "Jennifer Parmentier",
+      "company_name": "Parker-Hannifin Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -6,19 +6,35 @@
   "age_year": 2024,
   "background": "Mr. Lawrence has served as President of the company's antimony operations and was previously the CEO of the company.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "United States Antimony Corporation",
+      "ticker": "UAMY",
+      "exchange": "NYSE American",
+      "title_or_role": "President, Director",
+      "website": "https://www.usantimony.com",
+      "start_date": "2007",
+      "end_date": "2023",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "socials": [
     {
-      "name": "United States Antimony Corporation",
-      "ticker": "USAR",
-      "exchange": "NYSE",
-      "title_or_role": "President of Antimony Operations",
-      "start_date": "2024-02-01",
-      "end_date": null
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/russellalawrence",
+      "person_name": "Russell Lawrence",
+      "company_name": "United States Antimony Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
-  ]
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

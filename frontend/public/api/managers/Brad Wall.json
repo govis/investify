@@ -7,19 +7,43 @@
     {
       "name": "NexGen Energy Ltd.",
       "ticker": "NXE",
-      "exchange": "NYSE",
-      "website": "https://www.nexgenenergy.ca",
-      "title": "Independent Director",
-      "startDate": "2019-01-01",
+      "exchange": "TSX, NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "March 21, 2019",
       "endDate": null,
-      "formattedStartDate": "2019 January",
+      "formattedStartDate": "March 21, 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Ag Growth International Inc.",
+      "ticker": "AFN",
+      "exchange": "TSX",
+      "website": "https://www.aggrowth.com/",
+      "logoUrl": "/companies-assets/AFN.TSX.svg",
+      "title": "Director",
+      "startDate": "February 3, 2026",
+      "endDate": null,
+      "formattedStartDate": "February 3, 2026",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/brad-wall-3772414",
+      "person_name": "Brad Wall",
+      "company_name": "NexGen Energy Ltd., Ag Growth International Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Sustainability Committee"
   ],

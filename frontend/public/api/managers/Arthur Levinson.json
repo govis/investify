@@ -5,15 +5,76 @@
   "pictureUrl": null,
   "companies": [
     {
+      "name": "Calico Life Sciences LLC",
+      "ticker": null,
+      "exchange": null,
+      "website": null,
+      "logoUrl": null,
+      "title": "CEO",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    },
+    {
       "name": "Apple Inc.",
       "ticker": "AAPL",
       "exchange": "NASDAQ",
       "website": "https://www.apple.com",
-      "title": "Independent Chairman of the Board",
-      "startDate": "2000-01-01",
+      "logoUrl": "/companies-assets/AAPL.NASDAQ.svg",
+      "title": "Lead Independent Director",
+      "startDate": "2026",
       "endDate": null,
-      "formattedStartDate": "2000 January",
+      "formattedStartDate": "2026",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Genentech, Inc.",
+      "ticker": "DNA (delisted)",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman of the Board",
+      "startDate": "1999",
+      "endDate": "2014",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2014"
+    },
+    {
+      "name": "Google (now Alphabet Inc.)",
+      "ticker": "GOOGL",
+      "exchange": "NASDAQ",
+      "website": "https://abc.xyz",
+      "logoUrl": "/companies-assets/GOOGL.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2004",
+      "endDate": "2009",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2009"
+    },
+    {
+      "name": "NGM Biopharmaceuticals, Inc.",
+      "ticker": "NGM",
+      "exchange": "NASDAQ",
+      "website": "ngmbio.com",
+      "logoUrl": "/companies-assets/NGM.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2009",
+      "endDate": null,
+      "formattedStartDate": "2009",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Amyris, Inc.",
+      "ticker": "AMRSQ",
+      "exchange": "OTC",
+      "website": "amyris.com",
+      "logoUrl": "/companies-assets/AMRSQ.OTC.png",
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": "2012",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2012"
     }
   ],
   "investmentTheses": [

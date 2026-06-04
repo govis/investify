@@ -9,17 +9,29 @@
       "ticker": "PEG",
       "exchange": "NYSE",
       "website": "https://www.pseg.com",
-      "title": "Chair of the Board, President and Chief Executive Officer",
-      "startDate": "2022-09-01",
+      "logoUrl": "/companies-assets/PEG.NYSE.svg",
+      "title": "President and Chief Executive Officer",
+      "startDate": "September 1, 2022",
       "endDate": null,
-      "formattedStartDate": "2022 September",
+      "formattedStartDate": "September 1, 2022",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ralph-larossa-aa994011",
+      "person_name": "Ralph LaRossa",
+      "company_name": "Public Service Enterprise Group Incorporated",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 60,
   "ageYear": 2024

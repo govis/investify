@@ -7,30 +7,67 @@
     {
       "name": "Endeavour Mining plc",
       "ticker": "EDV",
-      "exchange": "LSE",
-      "website": "https://www.endeavourmining.com",
-      "title": "Chief Executive Officer, Executive Director",
-      "startDate": "2024-01-01",
-      "endDate": null,
-      "formattedStartDate": "2024 January",
-      "formattedEndDate": ""
+      "exchange": "LSE/TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Independent Director",
+      "startDate": "2022",
+      "endDate": "2023",
+      "formattedStartDate": "2022",
+      "formattedEndDate": "2023"
     },
     {
-      "name": "Endeavour Mining plc",
-      "ticker": "EDV",
-      "exchange": "TSX",
-      "website": "https://www.endeavourmining.com",
-      "title": "Chief Executive Officer, Executive Director",
-      "startDate": "2024-01-04",
-      "endDate": null,
-      "formattedStartDate": "2024 January",
-      "formattedEndDate": ""
+      "name": "Gold Fields Limited",
+      "ticker": "GFI",
+      "exchange": "NYSE",
+      "website": "https://www.goldfields.com",
+      "logoUrl": "/companies-assets/GFI.NYSE.svg",
+      "title": "Managing Director and COO",
+      "startDate": "1999",
+      "endDate": "2002",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2002"
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX/LSE/NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Director",
+      "startDate": "2019",
+      "endDate": "2024",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Polymetal International plc (now Solidcore Resources)",
+      "ticker": "POLY",
+      "exchange": "LSE",
+      "website": "solidcore-resources.com",
+      "logoUrl": "/companies-assets/POLY.LSE.png",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2019",
+      "endDate": "2024",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2024"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/ian-cockerill-22018230",
+      "person_name": "Ian Cockerill",
+      "company_name": "Endeavour Mining",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 70,
   "ageYear": 2024

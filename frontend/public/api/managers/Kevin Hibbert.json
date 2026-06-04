@@ -9,21 +9,35 @@
       "ticker": "PHYS",
       "exchange": "NYSE",
       "website": "https://sprott.com/investment-strategies/physical-bullion-trusts/gold/",
-      "title": "Director",
-      "startDate": "2017-01-01",
+      "logoUrl": "/companies-assets/PHYS.NYSE.svg",
+      "title": "Officer (CFO)",
+      "startDate": "2014",
       "endDate": null,
-      "formattedStartDate": "2017 January",
+      "formattedStartDate": "2014",
       "formattedEndDate": ""
     },
     {
       "name": "Sprott Physical Uranium Trust",
-      "ticker": "U",
-      "exchange": "UN.TSX",
-      "website": "https://sprott.com/investment-strategies/physical-commodity-funds/uranium/",
-      "title": "Chief Financial Officer",
-      "startDate": "2021-07-19",
+      "ticker": "U.UN",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Officer (CFO)",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2021 July",
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sprott Inc.",
+      "ticker": "SII",
+      "exchange": "TSX",
+      "website": "https://sprott.com/",
+      "logoUrl": "/companies-assets/SII.TSX.svg",
+      "title": "Co-Chief Operating Officer & Chief Financial Officer",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "2014",
       "formattedEndDate": ""
     }
   ],
@@ -31,7 +45,18 @@
     "Gold",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/kevin-hibbert-2087a230",
+      "person_name": "Kevin Hibbert",
+      "company_name": "Sprott Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 52,
   "ageYear": 2024

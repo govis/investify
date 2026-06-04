@@ -6,19 +6,35 @@
   "age_year": 2024,
   "background": "Mr. Hoops is the General Counsel and Secretary of MP Materials. Prior to joining MP Materials, he was Vice President and Deputy General Counsel at Hyatt Hotels Corporation. He previously practiced law at Latham & Watkins LLP and Wolf, Block, Schorr and Solis-Cohen LLP.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "MP Materials Corp.",
       "ticker": "MP",
       "exchange": "NYSE",
       "title_or_role": "General Counsel and Secretary",
-      "start_date": "2022-05-01",
-      "end_date": null
+      "website": "https://mpmaterials.com",
+      "start_date": "May 2021",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/elliot-hoops-5a252b220",
+      "person_name": "Elliot Hoops",
+      "company_name": "MP Materials Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

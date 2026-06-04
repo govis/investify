@@ -9,18 +9,102 @@
       "ticker": "ALB",
       "exchange": "NYSE",
       "website": "https://www.albemarle.com",
-      "title": "Independent Director",
-      "startDate": "2018-01-01",
+      "logoUrl": "/companies-assets/ALB.NYSE.svg",
+      "title": "Director",
+      "startDate": "2013",
       "endDate": null,
-      "formattedStartDate": "2018 January",
+      "formattedStartDate": "2013",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Kimball Electronics, Inc.",
+      "ticker": "KE",
+      "exchange": "NASDAQ",
+      "website": "kimballelectronics.com",
+      "logoUrl": "/companies-assets/KE.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Synthomer plc",
+      "ticker": "SYNT",
+      "exchange": "LSE",
+      "website": "synthomer.com",
+      "logoUrl": "/companies-assets/SYNT.LSE.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Bemis Company, Inc.",
+      "ticker": "BMS",
+      "exchange": "NYSE",
+      "website": "bemis.com",
+      "logoUrl": "/companies-assets/BMS.NYSE.webp",
+      "title": "Director",
+      "startDate": "2007",
+      "endDate": "2019",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Actuant Corporation (now Enerpac Tool Group)",
+      "ticker": "EPAC",
+      "exchange": "NYSE",
+      "website": "enerpactoolgroup.com",
+      "logoUrl": "/companies-assets/EPAC.NYSE.svg",
+      "title": "Director",
+      "startDate": "2009",
+      "endDate": "2019",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Petroleum Geo-Services (PGS)",
+      "ticker": "PGS",
+      "exchange": "OSE",
+      "website": "pgs.com",
+      "logoUrl": "/companies-assets/PGS.OSE.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2011",
+      "endDate": "2018",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Capstone Green Energy (formerly Capstone Turbine)",
+      "ticker": "CGRN",
+      "exchange": "NASDAQ",
+      "website": "capstonegreenenergy.com",
+      "logoUrl": "/companies-assets/CGRN.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2008",
+      "endDate": "2017",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2017"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/holly-van-deursen-a05bb21",
+      "person_name": "Holly Van Deursen",
+      "company_name": "Albemarle Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Executive Compensation Committee"

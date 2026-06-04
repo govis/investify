@@ -7,12 +7,13 @@
     {
       "name": "Fortune Bay Corp.",
       "ticker": "FOR",
-      "exchange": "TSX",
-      "website": "https://fortunebaycorp.com",
-      "title": "Independent Director",
-      "startDate": "2020-06-25",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2020 June",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],

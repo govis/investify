@@ -6,19 +6,34 @@
   "age_year": 2023,
   "background": "Mr. Lee is a Chartered Professional Accountant with over 25 years of experience in financial reporting and corporate finance for public companies.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Western Magnesium Corporation",
+      "ticker": "WMG.H",
+      "exchange": "TSXV",
+      "title_or_role": "Chairman & Chief Executive Officer",
+      "website": "https://www.westernmagnesium.com/",
+      "start_date": "2012",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Adanac Molybdenum Corp.",
+      "ticker": "AUA",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Director & Vice President-Corporate Development",
+      "start_date": "2005",
+      "end_date": "2009",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Western Magnesium Corporation",
-      "ticker": "WMG",
-      "exchange": "TSX",
-      "title_or_role": "Chief Financial Officer",
-      "start_date": "2021-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

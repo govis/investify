@@ -5,21 +5,33 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Emerson Electric Co.",
-      "ticker": "EMR",
+      "name": "Caleres, Inc.",
+      "ticker": "CAL",
       "exchange": "NYSE",
-      "website": "https://www.emerson.com",
-      "title": "Senior Vice President and Chief Compliance Officer",
-      "startDate": "2011-01-01",
+      "website": null,
+      "logoUrl": "/companies-assets/CAL.NYSE.svg",
+      "title": "Director / Chair of the Audit Committee",
+      "startDate": "2019-04-21",
       "endDate": null,
-      "formattedStartDate": "2011 January",
+      "formattedStartDate": "April 2019",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/lisa-flavin-35a19b7",
+      "person_name": "Lisa Flavin",
+      "company_name": "Emerson Electric Co.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 64,
   "ageYear": 2024

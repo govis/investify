@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "GE Vernova Inc.",
-      "ticker": "GEV",
+      "name": "Owens Corning",
+      "ticker": "OC",
       "exchange": "NYSE",
-      "website": "https://www.gevernova.com",
+      "website": "https://www.owenscorning.com",
+      "logoUrl": "/companies-assets/OC.NYSE.svg",
+      "title": "Senior Vice President and Chief Financial Officer",
+      "startDate": "2020-09-08",
+      "endDate": "2023-09-15",
+      "formattedStartDate": "September 2020",
+      "formattedEndDate": "September 2023"
+    },
+    {
+      "name": "Mylan N.V.",
+      "ticker": "MYL",
+      "exchange": "NASDAQ",
+      "website": "https://www.viatris.com",
+      "logoUrl": "/companies-assets/MYL.NASDAQ.png",
       "title": "Chief Financial Officer",
-      "startDate": "2023-10-02",
-      "endDate": null,
-      "formattedStartDate": "2023 October",
-      "formattedEndDate": ""
+      "startDate": "2016-06-01",
+      "endDate": "2020-11-16",
+      "formattedStartDate": "June 2016",
+      "formattedEndDate": "November 2020"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ken-s-parks",
+      "person_name": "Ken Parks",
+      "company_name": "GE Vernova",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 60,
   "ageYear": 2024

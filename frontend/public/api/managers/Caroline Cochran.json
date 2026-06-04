@@ -9,17 +9,29 @@
       "ticker": "OKLO",
       "exchange": "NYSE",
       "website": "https://oklo.com",
-      "title": "Chief Operating Officer, Director",
-      "startDate": "2013-01-01",
+      "logoUrl": "/companies-assets/OKLO.NYSE.svg",
+      "title": "Co-Founder, Chief Operating Officer, and Director",
+      "startDate": "2013",
       "endDate": null,
-      "formattedStartDate": "2013 January",
+      "formattedStartDate": "2013",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/caorilne/",
+      "person_name": "Caroline Cochran",
+      "company_name": "Oklo",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 38,
   "ageYear": 2024

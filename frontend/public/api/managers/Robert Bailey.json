@@ -3,19 +3,7 @@
   "name": "Robert Bailey",
   "background": "Mr. Bailey was the Chairman and CEO of PMC-Sierra, Inc. and served on the board of Entropic Communications.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "Micron Technology, Inc.",
-      "ticker": "MU",
-      "exchange": "NASDAQ",
-      "website": "https://www.micron.com",
-      "title": "Independent Director",
-      "startDate": "2007-01-01",
-      "endDate": null,
-      "formattedStartDate": "2007 January",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "AI",
     "Reshoring"

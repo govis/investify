@@ -9,17 +9,65 @@
       "ticker": "CRM",
       "exchange": "NYSE",
       "website": "https://www.salesforce.com",
-      "title": "Independent Director",
-      "startDate": "2023-01-01",
+      "logoUrl": "/companies-assets/CRM.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "United Airlines Holdings, Inc.",
+      "ticker": "UAL",
+      "exchange": "NASDAQ",
+      "website": "united.com",
+      "logoUrl": "/companies-assets/UAL.NASDAQ.svg",
+      "title": "Executive Chairman",
+      "startDate": "2020",
+      "endDate": "2021",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "CSX Corporation",
+      "ticker": "CSX",
+      "exchange": "NASDAQ",
+      "website": "https://www.csx.com",
+      "logoUrl": "/companies-assets/CSX.NASDAQ.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2010",
+      "endDate": "2015",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Occidental Petroleum Corporation",
+      "ticker": "OXY",
+      "exchange": "NYSE",
+      "website": "https://www.oxy.com",
+      "logoUrl": "/companies-assets/OXY.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2014",
+      "endDate": "2017",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2017"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/oscarmunozua",
+      "person_name": "Oscar Munoz",
+      "company_name": "United Airlines",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

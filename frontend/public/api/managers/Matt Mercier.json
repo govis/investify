@@ -9,17 +9,41 @@
       "ticker": "DLR",
       "exchange": "NYSE",
       "website": "https://www.digitalrealty.com",
-      "title": "Chief Financial Officer",
-      "startDate": "2023-01-01",
-      "endDate": null,
-      "formattedStartDate": "2023 January",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/DLR.NYSE.svg",
+      "title": "Senior Vice President, Global Finance & Accounting",
+      "startDate": "2006",
+      "endDate": "2022",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Equity Office Properties Trust",
+      "ticker": "EOP",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "/companies-assets/EOP.NYSE.svg",
+      "title": "Asset Management role",
+      "startDate": "Prior to 2006",
+      "endDate": "2006",
+      "formattedStartDate": "Prior to 2006",
+      "formattedEndDate": "2006"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mattmercier",
+      "person_name": "Matt Mercier",
+      "company_name": "Digital Realty Trust, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 48,
   "ageYear": 2024

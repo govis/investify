@@ -5,15 +5,16 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Atha Energy Corp.",
+      "name": "ATHA Energy Corp.",
       "ticker": "SASK",
-      "exchange": "TSX",
-      "website": "https://www.athaenergy.com",
-      "title": "Independent Director",
-      "startDate": "2023-01-12",
-      "endDate": null,
-      "formattedStartDate": "2023 January",
-      "formattedEndDate": ""
+      "exchange": "CSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "VP, Exploration",
+      "startDate": null,
+      "endDate": "2024-02-12",
+      "formattedStartDate": "",
+      "formattedEndDate": "February 2024"
     }
   ],
   "investmentTheses": [

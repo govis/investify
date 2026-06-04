@@ -6,20 +6,68 @@
   "companies": [
     {
       "name": "United States Antimony Corporation",
-      "ticker": "USAR",
-      "exchange": "NYSE",
-      "website": "https://www.usantimony.com",
-      "title": "Chairman and Chief Executive Officer, Chairman of the Board",
-      "startDate": "2024-02-01",
+      "ticker": "UAMY",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman and CEO",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2024 February",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Evergreen Sustainable Enterprises, Inc.",
+      "ticker": "EGSE",
+      "exchange": "OTC",
+      "website": "https://www.egsustainable.com",
+      "logoUrl": "/companies-assets/EGSE.OTC.svg",
+      "title": "Chairman and CEO",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Novavax, Inc.",
+      "ticker": "NVAX",
+      "exchange": "NASDAQ",
+      "website": "https://www.novavax.com",
+      "logoUrl": "/companies-assets/NVAX.NASDAQ.svg",
+      "title": "Chairman / Lead Independent Director",
+      "startDate": "1998",
+      "endDate": "2016",
+      "formattedStartDate": "1998",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Magnum Hunter Resources Corp.",
+      "ticker": "MHR",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "/companies-assets/MHR.NYSE.svg",
+      "title": "Chairman and CEO",
+      "startDate": "2009",
+      "endDate": "2016",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2016"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gary-c-evans-5a98811a4",
+      "person_name": "Gary C. Evans",
+      "company_name": "United States Antimony Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 67,
   "ageYear": 2024

@@ -9,11 +9,60 @@
       "ticker": "URI",
       "exchange": "NYSE",
       "website": "https://www.unitedrentals.com",
-      "title": "Chairman of the Board, Director",
-      "startDate": "2022-05-01",
+      "logoUrl": "/companies-assets/URI.NYSE.svg",
+      "title": "Board of Directors",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2022 May",
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "CSW Industrials, Inc.",
+      "ticker": "CSWI",
+      "exchange": "NASDAQ",
+      "website": "https://cswindustrials.com",
+      "logoUrl": "/companies-assets/CSWI.NASDAQ.svg",
+      "title": "Board of Directors",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Rockwell Automation, Inc.",
+      "ticker": "ROK",
+      "exchange": "NYSE",
+      "website": "https://www.rockwellautomation.com",
+      "logoUrl": "/companies-assets/ROK.NYSE.svg",
+      "title": "Chief Diversity, Equity & Inclusion Officer",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "CBRE Group, Inc.",
+      "ticker": "CBRE",
+      "exchange": "NYSE",
+      "website": "https://www.cbre.com",
+      "logoUrl": "/companies-assets/CBRE.NYSE.svg",
+      "title": "Vice President, Diversity and Inclusion",
+      "startDate": "2017",
+      "endDate": "2021",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Flowserve Corporation",
+      "ticker": "FLS",
+      "exchange": "NYSE",
+      "website": "https://www.flowserve.com",
+      "logoUrl": "/companies-assets/FLS.NYSE.svg",
+      "title": "Global Director of Diversity and Inclusion",
+      "startDate": null,
+      "endDate": "2017",
+      "formattedStartDate": "",
+      "formattedEndDate": "2017"
     }
   ],
   "investmentTheses": [

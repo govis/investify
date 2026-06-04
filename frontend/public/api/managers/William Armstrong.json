@@ -5,15 +5,16 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Artemis Gold Inc.",
-      "ticker": "ARTG",
+      "name": "Atlantic Gold Corporation",
+      "ticker": "AGB",
       "exchange": "TSX",
-      "website": "https://www.artemisgoldinc.com",
-      "title": "Independent Director",
-      "startDate": "2019-01-10",
-      "endDate": null,
-      "formattedStartDate": "2019 January",
-      "formattedEndDate": ""
+      "website": "N/A",
+      "logoUrl": "/companies-assets/AGB.TSX.svg",
+      "title": "Director",
+      "startDate": "2015-01-01",
+      "endDate": "2019-07-19",
+      "formattedStartDate": "January 2015",
+      "formattedEndDate": "July 2019"
     }
   ],
   "investmentTheses": [

@@ -9,17 +9,113 @@
       "ticker": "DELL",
       "exchange": "NYSE",
       "website": "https://www.dell.com",
+      "logoUrl": "/companies-assets/DELL.NYSE.svg",
       "title": "Director",
-      "startDate": "2013-01-01",
+      "startDate": "2013",
       "endDate": null,
-      "formattedStartDate": "2013 January",
+      "formattedStartDate": "2013",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Motorola Solutions, Inc.",
+      "ticker": "MSI",
+      "exchange": "NYSE",
+      "website": "https://www.motorolasolutions.com",
+      "logoUrl": "/companies-assets/MSI.NYSE.svg",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "TKO Group Holdings, Inc.",
+      "ticker": "TKO",
+      "exchange": "NYSE",
+      "website": "tkohq.com",
+      "logoUrl": "/companies-assets/TKO.NYSE.png",
+      "title": "Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Unity Software Inc.",
+      "ticker": "U",
+      "exchange": "NYSE",
+      "website": "https://unity.com",
+      "logoUrl": "/companies-assets/U.NYSE.svg",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": "2024",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Endeavor Group Holdings, Inc.",
+      "ticker": "EDR",
+      "exchange": "NYSE",
+      "website": "endeavorco.com",
+      "logoUrl": "/companies-assets/EDR.NYSE.svg",
+      "title": "Chairman of the Board",
+      "startDate": "2012",
+      "endDate": "2025",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "Qualtrics International Inc.",
+      "ticker": "XM",
+      "exchange": "NASDAQ",
+      "website": "qualtrics.com",
+      "logoUrl": "/companies-assets/XM.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": "2023",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Twitter, Inc.",
+      "ticker": "TWTR",
+      "exchange": "NYSE",
+      "website": "twitter.com",
+      "logoUrl": "/companies-assets/TWTR.NYSE.png",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": "2022",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "VMware, Inc.",
+      "ticker": "VMW",
+      "exchange": "NYSE",
+      "website": "https://www.vmware.com",
+      "logoUrl": "/companies-assets/VMW.NYSE.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": "2023",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2023"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/egon-durban-63575819",
+      "person_name": "Egon Durban",
+      "company_name": "Silver Lake",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Executive Committee"
   ],

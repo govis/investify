@@ -9,10 +9,23 @@
       "ticker": "LNG",
       "exchange": "NYSE",
       "website": "https://www.cheniere.com",
+      "logoUrl": "/companies-assets/LNG.NYSE.svg",
       "title": "Executive Vice President and Chief Commercial Officer",
-      "startDate": "2016-09-26",
+      "startDate": "March 2014",
       "endDate": null,
-      "formattedStartDate": "2016 September",
+      "formattedStartDate": "March 2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cheniere Energy Partners, L.P.",
+      "ticker": "CQP",
+      "exchange": "NYSE",
+      "website": "https://cqpir.cheniere.com/",
+      "logoUrl": "/companies-assets/CQP.NYSE.svg",
+      "title": "Director (Cheniere Energy Partners GP, LLC)",
+      "startDate": "October 2024",
+      "endDate": null,
+      "formattedStartDate": "October 2024",
       "formattedEndDate": ""
     }
   ],

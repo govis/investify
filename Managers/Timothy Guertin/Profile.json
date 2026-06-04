@@ -6,23 +6,58 @@
   "age_year": 2024,
   "background": "Timothy E. Guertin has been a director since 2011. He was formerly the President and CEO of Varian Medical Systems, Inc.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense",
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Nominating and Corporate Governance Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Teradyne, Inc.",
       "ticker": "TER",
       "exchange": "NASDAQ",
       "title_or_role": "Independent Director",
+      "website": "https://www.teradyne.com",
       "start_date": "2011-01-01",
       "end_date": null
+    },
+    {
+      "name": "Varex Imaging Corporation",
+      "ticker": "VREX",
+      "exchange": "NASDAQ",
+      "website": "https://www.vareximaging.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Varian Medical Systems, Inc.",
+      "ticker": "VAR",
+      "exchange": "NYSE",
+      "website": "https://www.varian.com",
+      "title_or_role": "Director",
+      "start_date": "2005",
+      "end_date": "2020",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/timothy-guertin-7b849610",
+      "person_name": "Timothy Guertin",
+      "company_name": "Varian Medical Systems, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

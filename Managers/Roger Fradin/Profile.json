@@ -6,23 +6,14 @@
   "age_year": 2024,
   "background": "Former Vice Chairman of Honeywell International Inc. Current Chairman of Resideo Technologies, Inc.",
   "picture_url": null,
-  "investment_theses": [
-    "AI",
-    "Defense",
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Finance Committee",
-    "Nominating and Corporate Governance Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "L3Harris Technologies, Inc.",
       "ticker": "LHX",
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
+      "website": "https://www.l3harris.com",
       "start_date": "2019-06-29",
       "end_date": null
     },
@@ -31,8 +22,93 @@
       "ticker": "VRT",
       "exchange": "NYSE",
       "title_or_role": "Director",
+      "website": "https://www.vertiv.com",
       "start_date": "2020-02-01",
       "end_date": null
+    },
+    {
+      "name": "Janus International Group, Inc.",
+      "ticker": "JBI",
+      "exchange": "NYSE",
+      "website": "https://www.janusintl.com",
+      "title_or_role": "Director, Vice Chairman",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Resideo Technologies, Inc.",
+      "ticker": "REZI",
+      "exchange": "NYSE",
+      "website": "https://www.resideo.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Honeywell International Inc.",
+      "ticker": "HON",
+      "exchange": "NASDAQ",
+      "website": "https://www.honeywell.com",
+      "title_or_role": "President and CEO of Automation and Control Solutions, Vice Chairman",
+      "start_date": "2004",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Pitney Bowes Inc.",
+      "ticker": "PBI",
+      "exchange": "NYSE",
+      "website": "https://www.pitneybowes.com",
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "MSC Industrial Direct Co., Inc.",
+      "ticker": "MSM",
+      "exchange": "NYSE",
+      "website": "https://www.mscdirect.com",
+      "title_or_role": "Director",
+      "start_date": "1998",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Juniper II Corp.",
+      "ticker": "JUN",
+      "exchange": "NYSE",
+      "website": "https://www.juniperii.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2021",
+      "end_date": "2022",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/roger-fradin-b97818131",
+      "person_name": "Roger Fradin",
+      "company_name": "Resideo Technologies, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Finance Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

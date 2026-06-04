@@ -6,23 +6,89 @@
   "age_year": 2024,
   "background": "CEO of HMS Ventures. Former President and CEO of Invensys Process Systems.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Organization and Compensation Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Fluor Corporation",
       "ticker": "FLR",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://www.fluor.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "LPL Financial Holdings Inc.",
+      "ticker": "LPLA",
+      "exchange": "NASDAQ",
+      "website": "https://www.lpl.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Valero Energy Corporation",
+      "ticker": "VLO",
+      "exchange": "NYSE",
+      "website": "https://www.valero.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CDI Corporation",
+      "ticker": "CDI",
+      "exchange": "NYSE",
+      "website": "https://www.cdicorp.com",
+      "title_or_role": "President, Chief Executive Officer and Director",
+      "start_date": "2011",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "Advanced Micro Devices, Inc.",
+      "ticker": "AMD",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "title_or_role": "Director",
+      "start_date": "2006",
+      "end_date": "2011",
+      "validated": true
+    },
+    {
+      "name": "Solectron Corporation",
+      "ticker": "SLR",
+      "exchange": "NYSE",
+      "website": "https://www.solectron.com",
+      "title_or_role": "Director",
+      "start_date": "2007",
+      "end_date": "2007",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/paulett-eberhart-4a5a5a12",
+      "person_name": "Paulett Eberhart",
+      "company_name": "HMS Ventures",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Organization and Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

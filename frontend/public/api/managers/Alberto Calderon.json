@@ -9,17 +9,66 @@
       "ticker": "AU",
       "exchange": "NYSE",
       "website": "https://www.anglogoldashanti.com",
+      "logoUrl": "/companies-assets/AU.NYSE.svg",
       "title": "Chief Executive Officer",
       "startDate": "2021-09-01",
       "endDate": null,
-      "formattedStartDate": "2021 September",
+      "formattedStartDate": "September 2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Orica Limited",
+      "ticker": "ORI",
+      "exchange": "ASX",
+      "website": "https://www.orica.com",
+      "logoUrl": "/companies-assets/ORI.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2013-08-01",
+      "endDate": "2015-03-23",
+      "formattedStartDate": "August 2013",
+      "formattedEndDate": "March 2015"
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Commercial Officer",
+      "startDate": "2006",
+      "endDate": "2006",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2006"
+    },
+    {
+      "name": "Ecopetrol S.A.",
+      "ticker": "EC",
+      "exchange": "NYSE",
+      "website": "https://www.ecopetrol.com.co",
+      "logoUrl": "/companies-assets/EC.NYSE.svg",
+      "title": "President (CEO)",
+      "startDate": "1999",
+      "endDate": "2002",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2002"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/alberto-calderon-90054a10/",
+      "person_name": "Alberto Calderon",
+      "company_name": "AngloGold Ashanti",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1,
+      "profile_status": "private"
+    }
+  ],
   "committees": [],
   "age": 64,
   "ageYear": 2024

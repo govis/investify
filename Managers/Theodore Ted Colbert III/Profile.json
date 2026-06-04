@@ -6,19 +6,34 @@
   "age_year": 2024,
   "background": "Mr. Colbert was Executive Vice President and President and CEO of Boeing Defense, Space & Security. He previously served as CEO of Boeing Global Services and Chief Information Officer.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "The Boeing Company",
+      "ticker": "BA",
+      "exchange": "NYSE",
+      "title_or_role": "Various senior executive roles, including President and CEO of Boeing Defense, Space & Security (BDS)",
+      "website": "https://www.boeing.com",
+      "start_date": "2009",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Archer-Daniels-Midland Company",
+      "ticker": "ADM",
+      "exchange": "NYSE",
+      "website": "https://www.adm.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "May 2021",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "The Boeing Company",
-      "ticker": "BA",
-      "exchange": "NYSE",
-      "title_or_role": "Unknown Role",
-      "start_date": null,
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

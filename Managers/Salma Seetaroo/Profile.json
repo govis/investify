@@ -6,6 +6,29 @@
   "age_year": 2024,
   "background": "Ms. Seetaroo is an investment banker and lawyer with over 20 years of experience in the natural resources sector in Africa. She is the co-founder and CEO of Cashew Coast and has held senior roles at several investment firms.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "GoviEx Uranium Inc.",
+      "ticker": "TSXV: GXU",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "https://goviex.com/",
+      "start_date": "February 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Fortuna Mining Corp. (formerly Fortuna Silver Mines Inc.)",
+      "ticker": "TSX: FVI / NYSE: FSM",
+      "exchange": "TSX / NYSE",
+      "website": "https://fortunasilver.com/",
+      "title_or_role": "Director",
+      "start_date": "June 2022",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -13,14 +36,6 @@
   "committees": [
     "Audit Committee"
   ],
-  "companies": [
-    {
-      "name": "GoviEx Uranium Inc.",
-      "ticker": "GXU",
-      "exchange": "TSXV",
-      "title_or_role": "Independent Director",
-      "start_date": "2022-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

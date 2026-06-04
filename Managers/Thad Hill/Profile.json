@@ -6,21 +6,37 @@
   "age_year": 2024,
   "background": "CEO of Calpine Corporation. Director since 2021.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "J.B. Hunt Transport Services, Inc.",
       "ticker": "JBHT",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "title_or_role": "Member of the Board of Directors",
+      "website": "https://www.jbhunt.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/thadhill",
+      "person_name": "Thad Hill",
+      "company_name": "Calpine Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

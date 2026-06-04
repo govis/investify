@@ -6,20 +6,46 @@
   "age_year": 2024,
   "background": "Michael Sentonas has served as our President since March 2023. Previously, Mr. Sentonas served as our Chief Technology Officer from February 2020 to March 2023 and as our Vice President, Technology Strategy from May 2016 to February 2020. From 1996 to May 2016, Mr. Sentonas served in various roles at McAfee, Inc., including Chief Technology Officer, Asia Pacific and Vice President, Worldwide Sales Engineering.",
   "picture_url": null,
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "CrowdStrike Holdings, Inc.",
       "ticker": "CRWD",
       "exchange": "NASDAQ",
-      "title_or_role": "President",
-      "start_date": "2023-03-01",
-      "end_date": null
+      "title_or_role": "Vice President, Technology Strategy",
+      "website": "https://www.crowdstrike.com",
+      "start_date": "2016",
+      "end_date": "February 2020",
+      "validated": true
+    },
+    {
+      "name": "McAfee",
+      "ticker": "MCFE",
+      "exchange": "NASDAQ",
+      "website": "https://www.mcafee.com",
+      "title_or_role": "Vice President & Chief Technology Officer, Security Connected",
+      "start_date": "Prior to 2014",
+      "end_date": "2016",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michaelsentonas",
+      "person_name": "Michael Sentonas",
+      "company_name": "CrowdStrike",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

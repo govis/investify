@@ -9,10 +9,35 @@
       "ticker": "NIO",
       "exchange": "NYSE",
       "website": "https://www.nio.com",
-      "title": "Chairman of the Board, Chief Executive Officer",
-      "startDate": "2014-11-01",
+      "logoUrl": "/companies-assets/NIO.NYSE.svg",
+      "title": "Founder, Chairman, and Chief Executive Officer",
+      "startDate": "2014",
       "endDate": null,
-      "formattedStartDate": "2014 November",
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Bitauto Holdings Limited",
+      "ticker": "BITA",
+      "exchange": "NYSE",
+      "website": "http://ir.bitauto.com/",
+      "logoUrl": "/companies-assets/BITA.NYSE.png",
+      "title": "Chairman and Chief Executive Officer",
+      "startDate": "2000",
+      "endDate": "2020",
+      "formattedStartDate": "2000",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Yixin Group Limited",
+      "ticker": "2858",
+      "exchange": "HKEX",
+      "website": "http://ir.yixingroup.com/",
+      "logoUrl": "/companies-assets/2858.HKEX.png",
+      "title": "Chairman and Non-executive Director",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "2014",
       "formattedEndDate": ""
     }
   ],

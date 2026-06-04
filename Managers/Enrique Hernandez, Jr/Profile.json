@@ -6,22 +6,88 @@
   "age_year": 2024,
   "background": "Executive Chairman of Inter-Con Security Systems, Inc. Director since 2008.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Board Governance Committee",
-    "Management Compensation Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Chevron Corporation",
       "ticker": "CVX",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2008-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "chevron.com",
+      "start_date": "2008",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Macerich Company",
+      "ticker": "MAC",
+      "exchange": "NYSE",
+      "website": "macerich.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "McDonald's Corporation",
+      "ticker": "MCD",
+      "exchange": "NYSE",
+      "website": "mcdonalds.com",
+      "title_or_role": "Director",
+      "start_date": "1996",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Nordstrom, Inc.",
+      "ticker": "JWN",
+      "exchange": "NYSE",
+      "website": "nordstrom.com",
+      "title_or_role": "Director / Chairman",
+      "start_date": "1997",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Wells Fargo & Company",
+      "ticker": "WFC",
+      "exchange": "NYSE",
+      "website": "wellsfargo.com",
+      "title_or_role": "Director",
+      "start_date": "2003",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Tribune Company",
+      "ticker": "TRBAA",
+      "exchange": "OTC",
+      "website": "tribune.com",
+      "title_or_role": "Director",
+      "start_date": "2001",
+      "end_date": "2007",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/enrique-hernandez-jr-4a5b6712",
+      "person_name": "Enrique Hernandez, Jr.",
+      "company_name": "Inter-Con Security Systems, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Board Governance Committee",
+    "Management Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "NextEra Energy, Inc.",
-      "ticker": "NEE",
+      "name": "Arthur J. Gallagher & Co.",
+      "ticker": "AJG",
       "exchange": "NYSE",
-      "website": "https://www.nexteraenergy.com",
-      "title": "Independent Director",
-      "startDate": "1998-01-01",
-      "endDate": null,
-      "formattedStartDate": "1998 January",
-      "formattedEndDate": ""
+      "website": "https://www.ajg.com",
+      "logoUrl": "/companies-assets/AJG.NYSE.png",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": "May 2026",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "May 2026"
+    },
+    {
+      "name": "Northern Trust Corporation",
+      "ticker": "NTRS",
+      "exchange": "NASDAQ",
+      "website": "https://www.northerntrust.com",
+      "logoUrl": "/companies-assets/NTRS.NASDAQ.svg",
+      "title": "Vice Chairman",
+      "startDate": null,
+      "endDate": "2013",
+      "formattedStartDate": "",
+      "formattedEndDate": "2013"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sherry-barrat-14aab958",
+      "person_name": "Sherry Barrat",
+      "company_name": "Northern Trust Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Finance & Investment",
     "Governance & Nominating (Chair)"

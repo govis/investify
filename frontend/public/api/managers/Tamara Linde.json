@@ -9,17 +9,41 @@
       "ticker": "PEG",
       "exchange": "NYSE",
       "website": "https://www.pseg.com",
+      "logoUrl": "/companies-assets/PEG.NYSE.svg",
       "title": "Executive Vice President and General Counsel",
-      "startDate": "2014-07-01",
+      "startDate": "2010",
       "endDate": null,
-      "formattedStartDate": "2014 July",
+      "formattedStartDate": "2010",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Essential Utilities, Inc.",
+      "ticker": "WTRG",
+      "exchange": "NYSE",
+      "website": "https://www.essential.co",
+      "logoUrl": "/companies-assets/WTRG.NYSE.svg",
+      "title": "Director",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/tamara-linde-15609813",
+      "person_name": "Tamara Linde",
+      "company_name": "Public Service Enterprise Group Incorporated",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 60,
   "ageYear": 2024

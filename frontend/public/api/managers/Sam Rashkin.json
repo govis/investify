@@ -3,19 +3,7 @@
   "name": "Sam Rashkin",
   "background": "Mr. Rashkin is a geologist with over 15 years of experience in the mining industry. He has held various roles in exploration and development, including with major mining companies.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "NorthIsle Copper and Gold Inc.",
-      "ticker": "NCX",
-      "exchange": "TSX",
-      "website": "https://www.northisle.ca",
-      "title": "Director, President and Chief Executive Officer",
-      "startDate": "2020-11-01",
-      "endDate": null,
-      "formattedStartDate": "2020 November",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "Electrification",
     "Gold"

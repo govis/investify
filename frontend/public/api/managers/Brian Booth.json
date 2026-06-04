@@ -7,19 +7,67 @@
     {
       "name": "SSR Mining Inc.",
       "ticker": "SSRM",
-      "exchange": "NASDAQ",
-      "website": "https://www.ssrmining.com",
-      "title": "Independent Director",
-      "startDate": "2020-09-16",
+      "exchange": "TSX/NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2016",
       "endDate": null,
-      "formattedStartDate": "2020 September",
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
+    },
+    {
+      "name": "GFG Resources Inc.",
+      "ticker": "GFG",
+      "exchange": "TSXV",
+      "website": "https://www.gfgresources.com",
+      "logoUrl": "/companies-assets/GFG.TSXV.png",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Peninsula Energy Limited",
+      "ticker": "PEN",
+      "exchange": "ASX",
+      "website": "https://www.pel.net.au",
+      "logoUrl": "/companies-assets/PEN.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Element 29 Resources Inc.",
+      "ticker": "ECU",
+      "exchange": "TSXV",
+      "website": "https://e29copper.com",
+      "logoUrl": "/companies-assets/ECU.TSXV.svg",
+      "title": "President, CEO, Director",
+      "startDate": "2019",
+      "endDate": "2024",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2024"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/brian-booth-7a5b2a1b/",
+      "person_name": "Brian Booth",
+      "company_name": "Element 29 Resources Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Environmental, Health, Safety and Sustainability Committee",
     "Technical Committee"

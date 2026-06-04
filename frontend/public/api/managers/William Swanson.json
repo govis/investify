@@ -9,11 +9,36 @@
       "ticker": "LHX",
       "exchange": "NYSE",
       "website": "https://www.l3harris.com",
-      "title": "Independent Director",
-      "startDate": "2019-06-29",
+      "logoUrl": "/companies-assets/LHX.NYSE.svg",
+      "title": "Director",
+      "startDate": "2023-12-11",
       "endDate": null,
-      "formattedStartDate": "2019 June",
+      "formattedStartDate": "December 2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Raytheon Company (now RTX Corporation)",
+      "ticker": "RTX",
+      "exchange": "NYSE",
+      "website": "https://www.rtx.com",
+      "logoUrl": "/companies-assets/RTX.NYSE.svg",
+      "title": "Chairman and Chief Executive Officer",
+      "startDate": "2004-01-01",
+      "endDate": "2014-09-30",
+      "formattedStartDate": "January 2004",
+      "formattedEndDate": "September 2014"
+    },
+    {
+      "name": "The TJX Companies, Inc.",
+      "ticker": "TJX",
+      "exchange": "NYSE",
+      "website": "https://www.tjx.com",
+      "logoUrl": "/companies-assets/TJX.NYSE.svg",
+      "title": "Director",
+      "startDate": "2015-02-03",
+      "endDate": "2022",
+      "formattedStartDate": "February 2015",
+      "formattedEndDate": "2022"
     }
   ],
   "investmentTheses": [

@@ -5,15 +5,40 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "AtkinsRéalis Group Inc.",
-      "ticker": "ATRL",
-      "exchange": "TSX",
-      "website": "https://www.atkinsrealis.com",
-      "title": "Chair of the Board, Director",
-      "startDate": "2020-09-09",
+      "name": "Autolus Therapeutics plc",
+      "ticker": "AUTL",
+      "exchange": "NASDAQ",
+      "website": "https://www.autolus.com",
+      "logoUrl": "/companies-assets/AUTL.NASDAQ.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2020 September",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Praxis Precision Medicines, Inc.",
+      "ticker": "PRAX",
+      "exchange": "NASDAQ",
+      "website": "https://praxismedicines.com",
+      "logoUrl": "/companies-assets/PRAX.NASDAQ.svg",
+      "title": "Independent Director",
+      "startDate": "December 2016",
+      "endDate": null,
+      "formattedStartDate": "December 2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Theravance Biopharma, Inc.",
+      "ticker": "TBPH",
+      "exchange": "NASDAQ",
+      "website": "https://www.theravance.com",
+      "logoUrl": "/companies-assets/TBPH.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "Prior to 2021",
+      "endDate": "2023",
+      "formattedStartDate": "Prior to 2021",
+      "formattedEndDate": "2023"
     }
   ],
   "investmentTheses": [

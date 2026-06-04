@@ -9,10 +9,11 @@
       "ticker": "FCX",
       "exchange": "NYSE",
       "website": "https://www.fcx.com",
-      "title": "Chairman, Chairman of the Board, Chief Executive Officer, Director",
-      "startDate": "2021-02-01",
+      "logoUrl": "/companies-assets/FCX.NYSE.svg",
+      "title": "Director",
+      "startDate": "2006",
       "endDate": null,
-      "formattedStartDate": "2021 February",
+      "formattedStartDate": "2006",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +21,18 @@
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/richard-adkerson-4a5b2a12",
+      "person_name": "Richard Adkerson",
+      "company_name": "Freeport-McMoRan Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 77,
   "ageYear": 2024

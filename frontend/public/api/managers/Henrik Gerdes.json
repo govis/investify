@@ -9,17 +9,77 @@
       "ticker": "CHPT",
       "exchange": "NYSE",
       "website": "https://www.chargepoint.com",
+      "logoUrl": "/companies-assets/CHPT.NYSE.svg",
       "title": "Chief Accounting Officer",
-      "startDate": "2022-05-01",
-      "endDate": null,
-      "formattedStartDate": "2022 May",
-      "formattedEndDate": ""
+      "startDate": "2020",
+      "endDate": "2024",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "8x8, Inc.",
+      "ticker": "EGHT",
+      "exchange": "NASDAQ",
+      "website": "8x8.com",
+      "logoUrl": "/companies-assets/EGHT.NASDAQ.svg",
+      "title": "Chief Accounting Officer",
+      "startDate": "2017",
+      "endDate": "2019",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Rocket Fuel, Inc.",
+      "ticker": "FUEL",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "/companies-assets/FUEL.NASDAQ.svg",
+      "title": "Chief Accounting Officer & Treasurer",
+      "startDate": "2016",
+      "endDate": "2017",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "QuinStreet, Inc.",
+      "ticker": "QNST",
+      "exchange": "NASDAQ",
+      "website": "quinstreet.com",
+      "logoUrl": "/companies-assets/QNST.NASDAQ.svg",
+      "title": "Reporting Manager",
+      "startDate": "2010",
+      "endDate": "2011",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2011"
+    },
+    {
+      "name": "TIBCO Software, Inc.",
+      "ticker": "TIBX",
+      "exchange": "NASDAQ",
+      "website": "tibco.com",
+      "logoUrl": "/companies-assets/TIBX.NASDAQ.svg",
+      "title": "Finance Director",
+      "startDate": "2011",
+      "endDate": "2014",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2014"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/henrik-gerdes-a1987613",
+      "person_name": "Henrik Gerdes",
+      "company_name": "ChargePoint Holdings, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 45,
   "ageYear": 2024

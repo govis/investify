@@ -6,6 +6,38 @@
   "age_year": 2024,
   "background": "Mr. Perry was formerly the President and CEO of Centerra Gold Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Orla Mining Ltd.",
+      "ticker": "OLA",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://www.orlamining.com",
+      "start_date": "2023-05-11",
+      "end_date": null
+    },
+    {
+      "name": "AuRico Gold Inc.",
+      "ticker": "AUQ",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2011",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Centerra Gold Inc.",
+      "ticker": "CG",
+      "exchange": "TSX",
+      "website": "https://www.centerragold.com",
+      "title_or_role": "Senior Finance Roles",
+      "start_date": "2004",
+      "end_date": "2011",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +46,6 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Orla Mining Ltd.",
-      "ticker": "OLA",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2023-05-11",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

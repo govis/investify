@@ -6,22 +6,48 @@
   "age_year": 2024,
   "background": "Former CEO of UnitedHealthcare Global. She joined the board in 2021.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "First Solar, Inc.",
       "ticker": "FSLR",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "title_or_role": "Member, Board of Directors",
+      "website": "https://www.firstsolar.com",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "UnitedHealth Group Incorporated",
+      "ticker": "UNH",
+      "exchange": "NYSE",
+      "website": "https://www.unitedhealthgroup.com",
+      "title_or_role": "CEO, UnitedHealthcare Global / Executive Vice President, Global",
+      "start_date": "2014",
+      "end_date": "2020",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mollyjoseph",
+      "person_name": "Molly Joseph",
+      "company_name": "First Solar, Inc. / UnitedHealth Group",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -6,19 +6,34 @@
   "age_year": 2024,
   "background": "Director since 2014. Vice President of Administration of Grupo Mexico since 2014.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Southern Copper Corporation",
+      "ticker": "SCCO",
+      "exchange": "NYSE",
+      "title_or_role": "Interim Chief Executive Officer",
+      "website": "https://southerncoppercorp.com",
+      "start_date": "April 16, 2026",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Grupo M\u00e9xico S.A.B. de C.V.",
+      "ticker": "GMBXF",
+      "exchange": "OTC",
+      "website": "https://www.gmexico.com",
+      "title_or_role": "Board Member",
+      "start_date": "Not specified",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Southern Copper Corporation",
-      "ticker": "SCCO",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2014-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

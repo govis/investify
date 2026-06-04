@@ -5,26 +5,69 @@
   "age": 60,
   "age_year": 2024,
   "background": "Luca Maestri is Apple\u2019s senior vice president and Chief Financial Officer reporting to CEO Tim Cook. As CFO, Luca oversees the accounting, business support, financial planning and analysis, treasury, real estate, information systems, internal audit and tax functions at Apple. Luca joined Apple in 2013 as vice president of Finance and corporate controller, and has worked closely with Apple\u2019s senior leadership since his arrival.",
-  "picture_url": "https://photos5.appleinsider.com/archive/gallery/9446-1143-140602-Maestri_Profile-xl.png",
+  "picture_url": "data:image/jpeg;base64,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",
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "exchange": "NASDAQ",
+      "title_or_role": "Corporate Controller",
+      "website": "https://www.apple.com",
+      "start_date": "2013",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "Xerox Holdings Corporation",
+      "ticker": "XRX",
+      "exchange": "NASDAQ",
+      "website": "https://www.xerox.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "February 2011",
+      "end_date": "February 2013",
+      "validated": true
+    },
+    {
+      "name": "Nokia Corporation",
+      "ticker": "NOK",
+      "exchange": "NYSE",
+      "website": "https://www.nokia.com",
+      "title_or_role": "Chief Financial Officer (Nokia Siemens Networks)",
+      "start_date": "2008",
+      "end_date": "2011",
+      "validated": true
+    },
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "website": "https://www.gm.com",
+      "title_or_role": "Various finance and operating roles (including General Motors Europe)",
+      "start_date": "1988",
+      "end_date": "2008",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [
     {
       "name": "LinkedIn",
-      "url": "https://www.linkedin.com/in/luca-maestri-082238"
+      "url": "https://www.linkedin.com/in/luca-maestri-082238",
+      "person_name": "Luca Maestri",
+      "company_name": "Apple",
+      "potential_picture_url": "https://www.apple.com/leadership/images/bio/luca_maestri_image.png.large_2x.png",
+      "picture_url_li_profile": null,
+      "picture_url_li_search": "https://www.apple.com/leadership/images/luca-maestri/bio/luca_maestri_image.png.og.png"
+    },
+    {
+      "name": "Luca Maestri",
+      "url": "https://it.linkedin.com/in/luca-maestri-04b8873b"
     }
   ],
   "committees": [],
-  "enrichment_status": "success",
-  "companies": [
-    {
-      "name": "Apple Inc.",
-      "ticker": "AAPL",
-      "exchange": "NASDAQ",
-      "title_or_role": "Senior Vice President and Chief Financial Officer",
-      "start_date": "2014-05-29",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

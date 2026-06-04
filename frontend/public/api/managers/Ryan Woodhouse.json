@@ -7,19 +7,31 @@
     {
       "name": "F3 Uranium Corp.",
       "ticker": "FUU",
-      "exchange": "TSX",
-      "website": "https://f3uranium.com",
-      "title": "Chief Financial Officer",
-      "startDate": "2022-11-01",
+      "exchange": "TSXV",
+      "website": "https://f3uranium.com/",
+      "logoUrl": "/companies-assets/FUU.TSXV.webp",
+      "title": "Corporate Secretary",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2022 November",
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ryan-woodhouse-13517177",
+      "person_name": "Ryan Woodhouse",
+      "company_name": "F3 Uranium Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 41,
   "ageYear": 2024

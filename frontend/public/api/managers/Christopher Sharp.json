@@ -9,17 +9,41 @@
       "ticker": "DLR",
       "exchange": "NYSE",
       "website": "https://www.digitalrealty.com",
-      "title": "Chief Technology Officer",
-      "startDate": "2015-05-01",
+      "logoUrl": "/companies-assets/DLR.NYSE.svg",
+      "title": "EVP, Chief Technology Officer",
+      "startDate": "2017",
       "endDate": null,
-      "formattedStartDate": "2015 May",
+      "formattedStartDate": "2017",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Equinix, Inc.",
+      "ticker": "EQIX",
+      "exchange": "NASDAQ",
+      "website": "https://www.equinix.com",
+      "logoUrl": "/companies-assets/EQIX.NASDAQ.svg",
+      "title": "Vice President, Cloud Innovation",
+      "startDate": "Unknown",
+      "endDate": "2017",
+      "formattedStartDate": "",
+      "formattedEndDate": "2017"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/chris-sharp-86555a1",
+      "person_name": "Christopher Sharp",
+      "company_name": "Digital Realty",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 49,
   "ageYear": 2024

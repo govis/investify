@@ -9,10 +9,11 @@
       "ticker": "BKSY",
       "exchange": "NYSE",
       "website": "https://www.blacksky.com",
-      "title": "Director",
-      "startDate": "2021-09-01",
+      "logoUrl": "/companies-assets/BKSY.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2021-10-05",
       "endDate": null,
-      "formattedStartDate": "2021 September",
+      "formattedStartDate": "October 2021",
       "formattedEndDate": ""
     },
     {
@@ -20,17 +21,29 @@
       "ticker": "CACI",
       "exchange": "NYSE",
       "website": "https://www.caci.com",
-      "title": "Director",
-      "startDate": "2020-01-01",
+      "logoUrl": "/companies-assets/CACI.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2020-02-12",
       "endDate": null,
-      "formattedStartDate": "2020 January",
+      "formattedStartDate": "February 2020",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/susan-gordon-2a68a31",
+      "person_name": "Susan Gordon",
+      "company_name": "BlackSky Technology Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Nominating and Corporate Governance Committee",

@@ -9,17 +9,41 @@
       "ticker": "OLA",
       "exchange": "TSX",
       "website": "https://www.orlamining.com",
-      "title": "Independent Director",
-      "startDate": "2016-12-06",
+      "logoUrl": "/companies-assets/OLA.TSX.svg",
+      "title": "Director",
+      "startDate": "2018",
       "endDate": null,
-      "formattedStartDate": "2016 December",
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "San Cristobal Mining Inc.",
+      "ticker": "SCMIF",
+      "exchange": "OTC",
+      "website": "https://sancristobalmining.com/",
+      "logoUrl": "/companies-assets/SCMIF.OTC.svg",
+      "title": "Vice President, Marketing and Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/david-stephens-8a5a5a10",
+      "person_name": "David Stephens",
+      "company_name": "Orla Mining Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"

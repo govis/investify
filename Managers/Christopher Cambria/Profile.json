@@ -6,19 +6,44 @@
   "age_year": 2023,
   "background": "Mr. Cambria has served as our Executive Vice President, General Counsel and Secretary since 2016. He previously served as Senior Vice President and General Counsel of L-3 Communications Holdings, Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Mercury Systems, Inc.",
+      "ticker": "MRCY",
+      "exchange": "NASDAQ",
+      "title_or_role": "Executive Vice President, General Counsel & Secretary",
+      "website": "https://www.mrcy.com",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Aerojet Rocketdyne Holdings, Inc.",
+      "ticker": "AJRD",
+      "exchange": "NYSE",
+      "website": "https://www.rocket.com",
+      "title_or_role": "Vice President, General Counsel & Secretary",
+      "start_date": "2011",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "L-3 Communications Holdings, Inc.",
+      "ticker": "LLL",
+      "exchange": "NYSE",
+      "website": "https://www.l3harris.com",
+      "title_or_role": "SVP, Senior Counsel-Mergers & Acquisitions",
+      "start_date": "2006",
+      "end_date": "2009",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Mercury Systems, Inc.",
-      "ticker": "MRCY",
-      "exchange": "NASDAQ",
-      "title_or_role": "Executive Vice President, General Counsel and Secretary",
-      "start_date": "2016-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

@@ -9,10 +9,23 @@
       "ticker": "TXT",
       "exchange": "NYSE",
       "website": "https://www.textron.com",
+      "logoUrl": "/companies-assets/TXT.NYSE.svg",
       "title": "Executive Vice President and Chief Financial Officer",
-      "startDate": "2009-08-01",
+      "startDate": "August 2009",
+      "endDate": "February 28, 2025",
+      "formattedStartDate": "August 2009",
+      "formattedEndDate": "February 28, 2025"
+    },
+    {
+      "name": "Cohen & Steers, Inc.",
+      "ticker": "CNS",
+      "exchange": "NYSE",
+      "website": "https://www.cohenandsteers.com",
+      "logoUrl": "/companies-assets/CNS.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "March 14, 2014",
       "endDate": null,
-      "formattedStartDate": "2009 August",
+      "formattedStartDate": "March 14, 2014",
       "formattedEndDate": ""
     }
   ],

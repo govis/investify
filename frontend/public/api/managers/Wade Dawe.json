@@ -5,14 +5,63 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Fortune Bay Corp.",
-      "ticker": "FOR",
-      "exchange": "TSX",
-      "website": "https://fortunebaycorp.com",
-      "title": "Chairman",
-      "startDate": "2016-02-04",
+      "name": "Torrent Capital Ltd.",
+      "ticker": "TORR",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman and CEO",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2016 February",
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Antler Gold Inc.",
+      "ticker": "ANTL",
+      "exchange": "TSXV",
+      "website": "https://antlergold.com/",
+      "logoUrl": "/companies-assets/ANTL.TSXV.png",
+      "title": "Founder / Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Pivot Technology Solutions Inc.",
+      "ticker": "PTG",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "https://www.marketscreener.com/images/reuters/logos/PIVOT-TECHNOLOGY-SOLUTION-32577950.png",
+      "title": "Chairman of the Board",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Kneat.com, Inc.",
+      "ticker": "KSI",
+      "exchange": "TSX",
+      "website": "https://www.kneat.com/",
+      "logoUrl": "/companies-assets/KSI.TSX.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Linear Gold Corp.",
+      "ticker": "LRG",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "/companies-assets/LRG.TSX.svg",
+      "title": "Founder",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +69,18 @@
     "Gold",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/wade-dawe-24193b35",
+      "person_name": "Wade Dawe",
+      "company_name": "Torrent Capital Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"

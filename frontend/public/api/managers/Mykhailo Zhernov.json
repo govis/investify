@@ -5,21 +5,33 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Critical Metals Corp.",
-      "ticker": "CRML",
-      "exchange": "NASDAQ",
-      "website": "https://criticalmetalscorp.com",
-      "title": "Director",
-      "startDate": "2024-02-27",
+      "name": "European Lithium Limited",
+      "ticker": "EUR",
+      "exchange": "ASX",
+      "website": "https://europeanlithium.com/",
+      "logoUrl": "/companies-assets/EUR.ASX.png",
+      "title": "Non-Executive Director",
+      "startDate": "2021-11-01",
       "endDate": null,
-      "formattedStartDate": "2024 February",
+      "formattedStartDate": "November 2021",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ae.linkedin.com/in/mykhailo-zhernov-9b773484",
+      "person_name": "Mykhailo Zhernov",
+      "company_name": "Millstone & Co",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 42,
   "ageYear": 2024

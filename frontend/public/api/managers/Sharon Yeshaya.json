@@ -9,17 +9,29 @@
       "ticker": "MS",
       "exchange": "NYSE",
       "website": "https://www.morganstanley.com",
-      "title": "Executive Vice President and Chief Financial Officer",
-      "startDate": "2021-06-01",
-      "endDate": null,
-      "formattedStartDate": "2021 June",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/MS.NYSE.svg",
+      "title": "Various roles (including Fixed Income Trader)",
+      "startDate": "2001",
+      "endDate": "2012",
+      "formattedStartDate": "2001",
+      "formattedEndDate": "2012"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sharon-yeshaya-4a5a5a1",
+      "person_name": "Sharon Yeshaya",
+      "company_name": "Morgan Stanley",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 44,
   "ageYear": 2024

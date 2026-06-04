@@ -9,17 +9,65 @@
       "ticker": "X",
       "exchange": "NYSE",
       "website": "https://www.ussteel.com",
-      "title": "Independent Chairman of the Board",
-      "startDate": "2008-01-01",
-      "endDate": null,
-      "formattedStartDate": "2008 January",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/X.NYSE.svg",
+      "title": "Director",
+      "startDate": "2008",
+      "endDate": "2021",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "GATX Corporation",
+      "ticker": "GATX",
+      "exchange": "NYSE",
+      "website": "gatx.com",
+      "logoUrl": "/companies-assets/GATX.NYSE.svg",
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": "2021",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Imperial Oil Limited",
+      "ticker": "IMO",
+      "exchange": "TSX",
+      "website": "imperialoil.ca",
+      "logoUrl": "/companies-assets/IMO.TSX.png",
+      "title": "Director",
+      "startDate": "2009",
+      "endDate": "2019",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "IPSCO Inc.",
+      "ticker": "IPSCO (Delisted)",
+      "exchange": "NYSE/TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "President, CEO & Director",
+      "startDate": "2002",
+      "endDate": "2007",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "2007"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/david-sutherland-a64ab215",
+      "person_name": "David Sutherland",
+      "company_name": "United States Steel Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Corporate Governance and Public Policy Committee"
   ],

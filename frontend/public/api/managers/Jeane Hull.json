@@ -5,21 +5,117 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Hudbay Minerals Inc.",
-      "ticker": "HBM",
+      "name": "Peabody Energy Corporation",
+      "ticker": "BTU",
       "exchange": "NYSE",
-      "website": "https://www.hudbayminerals.com",
-      "title": "Independent Director",
-      "startDate": "2023-06-01",
+      "website": "https://www.peabodyenergy.com",
+      "logoUrl": "/companies-assets/BTU.NYSE.png",
+      "title": "Executive Vice President and Chief Technical Officer",
+      "startDate": "2013",
+      "endDate": "2015",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Epiroc AB",
+      "ticker": "EPI-A",
+      "exchange": "STO",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2018",
       "endDate": null,
-      "formattedStartDate": "2023 June",
+      "formattedStartDate": "2018",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Coeur Mining, Inc.",
+      "ticker": "CDE",
+      "exchange": "NYSE",
+      "website": "https://www.coeur.com",
+      "logoUrl": "/companies-assets/CDE.NYSE.svg",
+      "title": "Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Interfor Corporation",
+      "ticker": "IFP",
+      "exchange": "TSX",
+      "website": "https://www.interfor.com",
+      "logoUrl": "/companies-assets/IFP.TSX.svg",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cloud Peak Energy Inc.",
+      "ticker": "CLD",
+      "exchange": "NYSE",
+      "website": "https://www.cloudpeakenergy.com",
+      "logoUrl": "/companies-assets/CLD.NYSE.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": "2019",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Trevali Mining Corporation",
+      "ticker": "TV",
+      "exchange": "TSX",
+      "website": "https://www.trevali.com",
+      "logoUrl": "https://www.trevali.com/site/assets/files/1/trevali_logo.png",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": "2022",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Copper Mountain Mining Corporation",
+      "ticker": "CMMC",
+      "exchange": "TSX",
+      "website": "https://www.cumtn.com/",
+      "logoUrl": "/companies-assets/CMMC.TSX.png",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": "2023",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Pretium Resources Inc.",
+      "ticker": "PVG",
+      "exchange": "TSX",
+      "website": "https://www.pretivm.com",
+      "logoUrl": "https://logos-world.net/wp-content/uploads/2023/08/Pretium-Logo.png",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": "2022",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2022"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jeane-hull-9a347366",
+      "person_name": "Jeane Hull",
+      "company_name": "Hudbay Minerals Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Environmental, Health, Safety and Sustainability Committee",
     "Technical Committee (Chair)"

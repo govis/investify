@@ -6,22 +6,67 @@
   "age_year": null,
   "background": "Mr. Burgess is a mining engineer with over 40 years of experience in the mining industry. He is a co-founder of Micon International Limited and has been involved in the evaluation and development of numerous mineral projects worldwide.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification",
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Stria Lithium Inc.",
       "ticker": "SRA",
       "exchange": "TSXV",
       "title_or_role": "Director",
+      "website": "https://strialithium.com/",
       "start_date": "2022-06-01",
       "end_date": null
+    },
+    {
+      "name": "NorthWest Copper Corp.",
+      "ticker": "NWST",
+      "exchange": "TSXV",
+      "website": "https://northwestcopper.ca",
+      "title_or_role": "Technical Advisor",
+      "start_date": "2024-04-30",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cartier Silver Corp.",
+      "ticker": "CFE",
+      "exchange": "CSE",
+      "website": "https://cartiersilvercorp.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2015-06-30",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "GPM Metals Inc.",
+      "ticker": "GPM",
+      "exchange": "TSXV",
+      "website": "https://gpmmetals.ca",
+      "title_or_role": "Independent Director",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/harry-burgess-0b65389",
+      "person_name": "Harry Burgess",
+      "company_name": "Micon International Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

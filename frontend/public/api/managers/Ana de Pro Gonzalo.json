@@ -9,11 +9,48 @@
       "ticker": "STM",
       "exchange": "NYSE",
       "website": "https://www.st.com",
-      "title": "Member of the Supervisory Board",
-      "startDate": "2020-01-01",
+      "logoUrl": "/companies-assets/STM.NYSE.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2020 January",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Novartis AG",
+      "ticker": "NVS",
+      "exchange": "SIX",
+      "website": "novartis.com",
+      "logoUrl": "/companies-assets/NVS.SIX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Mobico Group PLC",
+      "ticker": "MCG",
+      "exchange": "LSE",
+      "website": "mobicogroup.com",
+      "logoUrl": "/companies-assets/MCG.LSE.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Amadeus IT Group, S.A.",
+      "ticker": "AMS",
+      "exchange": "BME",
+      "website": "amadeus.com",
+      "logoUrl": "/companies-assets/AMS.BME.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2010",
+      "endDate": "2020",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2020"
     }
   ],
   "investmentTheses": [

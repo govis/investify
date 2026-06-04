@@ -9,29 +9,54 @@
       "ticker": "BHP",
       "exchange": "ASX",
       "website": "https://www.bhp.com",
+      "logoUrl": "/companies-assets/BHP.ASX.svg",
       "title": "Chief Financial Officer",
-      "startDate": "2024-03-01",
+      "startDate": "2016",
       "endDate": null,
-      "formattedStartDate": "2024 March",
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
     },
     {
-      "name": "BHP Group Limited",
-      "ticker": "BHP",
-      "exchange": "NYSE",
-      "website": "https://www.bhp.com",
-      "title": "Chief Financial Officer",
-      "startDate": "2024-03-01",
-      "endDate": null,
-      "formattedStartDate": "2024 March",
-      "formattedEndDate": ""
+      "name": "NatWest Group plc",
+      "ticker": "NWG",
+      "exchange": "LSE",
+      "website": "https://www.natwestgroup.com",
+      "logoUrl": "/companies-assets/NWG.LSE.svg",
+      "title": "Business Treasurer",
+      "startDate": "2008",
+      "endDate": "2010",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2010"
+    },
+    {
+      "name": "ABN AMRO Bank N.V.",
+      "ticker": "ABN",
+      "exchange": "AEX",
+      "website": "https://www.abnamro.com",
+      "logoUrl": "/companies-assets/ABN.AEX.svg",
+      "title": "Executive Director, Head of Strategy, Global Markets",
+      "startDate": null,
+      "endDate": "2008",
+      "formattedStartDate": "",
+      "formattedEndDate": "2008"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/vandita-pant-4923b51",
+      "person_name": "Vandita Pant",
+      "company_name": "BHP Group Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 54,
   "ageYear": 2024

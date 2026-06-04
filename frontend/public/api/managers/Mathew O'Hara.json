@@ -9,17 +9,89 @@
       "ticker": "BOE",
       "exchange": "ASX",
       "website": "https://www.bossenergy.com",
-      "title": "Chief Financial Officer and Company Secretary",
-      "startDate": "2023-01-01",
+      "logoUrl": "/companies-assets/BOE.ASX.svg",
+      "title": "Company Secretary",
+      "startDate": "2019",
+      "endDate": "2022",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Alderan Resources Ltd",
+      "ticker": "AL8",
+      "exchange": "ASX",
+      "website": "alderanresources.com.au",
+      "logoUrl": "/companies-assets/AL8.ASX.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2018",
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "African Gold Limited",
+      "ticker": "A1G",
+      "exchange": "ASX",
+      "website": "africangold.com.au",
+      "logoUrl": "/companies-assets/A1G.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Benz Mining Corp",
+      "ticker": "BNZ",
+      "exchange": "ASX",
+      "website": "benzmining.com",
+      "logoUrl": "/companies-assets/BNZ.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Pantoro Limited",
+      "ticker": "PNR",
+      "exchange": "ASX",
+      "website": "pantoro.com.au",
+      "logoUrl": "/companies-assets/PNR.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Pearl Gull Iron Limited",
+      "ticker": "PLG",
+      "exchange": "ASX",
+      "website": "pearlgulliron.com.au",
+      "logoUrl": "/companies-assets/PLG.ASX.png",
+      "title": "Company Secretary",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/mathew-o-hara-31b4461a8",
+      "person_name": "Mathew O'Hara",
+      "company_name": "Boss Energy Limited, Alderan Resources Ltd, African Gold Limited, Benz Mining Corp, Pantoro Limited, Pearl Gull Iron Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": null,
   "ageYear": null

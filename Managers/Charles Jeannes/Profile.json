@@ -6,6 +6,49 @@
   "age_year": 2024,
   "background": "Mr. Jeannes is a mining industry veteran, formerly the President and CEO of Goldcorp Inc. from 2008 to 2016.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Orla Mining Ltd.",
+      "ticker": "OLA",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://orlamining.com",
+      "start_date": "2017-05",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Wheaton Precious Metals Corp.",
+      "ticker": "WPM",
+      "exchange": "TSX/NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.wheatonpm.com",
+      "start_date": "2016-11",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Goldcorp Inc.",
+      "ticker": "G",
+      "exchange": "NYSE/TSX",
+      "website": "https://www.newmont.com",
+      "title_or_role": "EVP, Corporate Development",
+      "start_date": "2006",
+      "end_date": "2008",
+      "validated": true
+    },
+    {
+      "name": "Tahoe Resources Inc.",
+      "ticker": "TAHO",
+      "exchange": "TSX/NYSE",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2017-01",
+      "end_date": "2019-02",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -15,22 +58,6 @@
     "Governance and Nominating Committee",
     "Sustainability Committee"
   ],
-  "companies": [
-    {
-      "name": "Orla Mining Ltd.",
-      "ticker": "OLA",
-      "exchange": "TSX",
-      "title_or_role": "Chairman and Independent Director",
-      "start_date": "2016-12-06",
-      "end_date": null
-    },
-    {
-      "name": "Wheaton Precious Metals Corp.",
-      "ticker": "WPM",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2016-11-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

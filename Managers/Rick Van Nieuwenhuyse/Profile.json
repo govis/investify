@@ -6,19 +6,55 @@
   "age_year": 2023,
   "background": "Mr. Van Nieuwenhuyse has served as our President and Chief Executive Officer since January 2020. He has over 40 years of experience in the natural resource sector. He was previously the President and CEO of Trilogy Metals Inc. and the founder of NovaGold Resources Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Contango ORE, Inc.",
+      "ticker": "CTGO",
+      "exchange": "NYSE American",
+      "title_or_role": "President, CEO, and Director",
+      "website": "https://contangoore.com",
+      "start_date": "2020-01-06",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Trilogy Metals Inc.",
+      "ticker": "TMQ",
+      "exchange": "TSX / NYSE American",
+      "website": "https://trilogymetals.com",
+      "title_or_role": "President, CEO, and Director",
+      "start_date": "2012",
+      "end_date": "2019-09-05",
+      "validated": true
+    },
+    {
+      "name": "NOVAGOLD Resources Inc.",
+      "ticker": "NG",
+      "exchange": "TSX / NYSE American",
+      "website": "https://novagold.com",
+      "title_or_role": "President and CEO",
+      "start_date": "1999",
+      "end_date": "2012",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "socials": [
     {
-      "name": "Contango Ore, Inc.",
-      "ticker": "CTGO",
-      "exchange": "NYSE",
-      "title_or_role": "Director, President and Chief Executive Officer",
-      "start_date": "2020-01-01",
-      "end_date": null
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rick-van-nieuwenhuyse-4a5a5a12",
+      "person_name": "Rick Van Nieuwenhuyse",
+      "company_name": "Contango ORE, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
-  ]
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

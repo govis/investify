@@ -5,15 +5,40 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Leidos Holdings, Inc.",
-      "ticker": "LDOS",
+      "name": "Quest Diagnostics Incorporated",
+      "ticker": "DGX",
       "exchange": "NYSE",
-      "website": "https://www.leidos.com",
-      "title": "Independent Director",
-      "startDate": "2016-01-01",
-      "endDate": null,
-      "formattedStartDate": "2016 January",
-      "formattedEndDate": ""
+      "website": "https://www.questdiagnostics.com",
+      "logoUrl": "/companies-assets/DGX.NYSE.svg",
+      "title": "Chairman, President, and Chief Executive Officer",
+      "startDate": "1999",
+      "endDate": "2012",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "ITT Corporation",
+      "ticker": "ITT",
+      "exchange": "NYSE",
+      "website": "https://www.itt.com",
+      "logoUrl": "/companies-assets/ITT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2008",
+      "endDate": "2011",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2011"
+    },
+    {
+      "name": "Xylem Inc.",
+      "ticker": "XYL",
+      "exchange": "NYSE",
+      "website": "https://www.xylem.com",
+      "logoUrl": "/companies-assets/XYL.NYSE.svg",
+      "title": "Director",
+      "startDate": "2011",
+      "endDate": "2021",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2021"
     }
   ],
   "investmentTheses": [

@@ -7,19 +7,55 @@
     {
       "name": "AB Volvo",
       "ticker": "VOLV-B",
-      "exchange": "STO",
-      "website": "https://www.volvogroup.com",
-      "title": "Director, President and CEO",
+      "exchange": "STO (Nasdaq Stockholm)",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and Chief Executive Officer",
       "startDate": "2015-10-22",
       "endDate": null,
-      "formattedStartDate": "2015 October",
+      "formattedStartDate": "October 2015",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Autoliv, Inc.",
+      "ticker": "ALV",
+      "exchange": "NYSE",
+      "website": "https://www.autoliv.com",
+      "logoUrl": "/companies-assets/ALV.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2021",
+      "endDate": "2026-05-07",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "May 2026"
+    },
+    {
+      "name": "Scania AB",
+      "ticker": "SCV-B",
+      "exchange": "STO (Nasdaq Stockholm)",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and Chief Executive Officer",
+      "startDate": "2012",
+      "endDate": "2015",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2015"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://se.linkedin.com/in/martin-lundstedt-b378a492",
+      "person_name": "Martin Lundstedt",
+      "company_name": "AB Volvo",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 57,
   "ageYear": 2024

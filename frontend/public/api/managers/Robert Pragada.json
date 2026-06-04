@@ -9,10 +9,23 @@
       "ticker": "J",
       "exchange": "NYSE",
       "website": "https://www.jacobs.com",
-      "title": "Chief Executive Officer",
-      "startDate": "2023-01-01",
+      "logoUrl": "/companies-assets/J.NYSE.svg",
+      "title": "Chief Executive Officer and Director",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Eaton Corporation plc",
+      "ticker": "ETN",
+      "exchange": "NYSE",
+      "website": "https://www.eaton.com",
+      "logoUrl": "/companies-assets/ETN.NYSE.svg",
+      "title": "Director",
+      "startDate": "April 28, 2021",
+      "endDate": null,
+      "formattedStartDate": "April 28, 2021",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +33,18 @@
     "Nuclear",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/robert-pragada-4a5a5a12",
+      "person_name": "Robert Pragada",
+      "company_name": "Jacobs Solutions Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 55,
   "ageYear": 2024

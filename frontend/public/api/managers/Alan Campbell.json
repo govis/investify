@@ -9,11 +9,36 @@
       "ticker": "ON",
       "exchange": "NASDAQ",
       "website": "https://www.onsemi.com",
-      "title": "Chairman of the Board",
-      "startDate": "2015-01-01",
+      "logoUrl": "/companies-assets/ON.NASDAQ.svg",
+      "title": "Director and Chair of the Board",
+      "startDate": "August 2015",
       "endDate": null,
-      "formattedStartDate": "2015 January",
+      "formattedStartDate": "August 2015",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Dialog Semiconductor Plc",
+      "ticker": "DLGNF",
+      "exchange": "OTC",
+      "website": "https://www.dialog-semiconductor.com",
+      "logoUrl": "/companies-assets/DLGNF.OTC.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2014",
+      "endDate": "2021",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Freescale Semiconductor, Inc.",
+      "ticker": "FSL",
+      "exchange": "NYSE",
+      "website": "https://www.nxp.com",
+      "logoUrl": "https://www.nxp.com/assets/images/logo/nxp-logo.svg",
+      "title": "Chief Financial Officer (CFO) & Senior Vice President",
+      "startDate": "May 2004",
+      "endDate": "June 2014",
+      "formattedStartDate": "May 2004",
+      "formattedEndDate": "June 2014"
     }
   ],
   "investmentTheses": [

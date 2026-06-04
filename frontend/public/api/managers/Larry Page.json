@@ -6,21 +6,45 @@
   "companies": [
     {
       "name": "Alphabet Inc.",
-      "ticker": "GOOGL",
+      "ticker": "GOOG / GOOGL",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Co-Founder, Board Member",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Google Inc.",
+      "ticker": "GOOG",
       "exchange": "NASDAQ",
       "website": "https://abc.xyz",
-      "title": "Director",
-      "startDate": "1998-09-01",
-      "endDate": null,
-      "formattedStartDate": "1998 September",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/GOOG.NASDAQ.svg",
+      "title": "Co-Founder, CEO",
+      "startDate": "1998",
+      "endDate": "2015",
+      "formattedStartDate": "1998",
+      "formattedEndDate": "2015"
     }
   ],
   "investmentTheses": [
     "AI",
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/larrypage",
+      "person_name": "Larry Page",
+      "company_name": "Alphabet Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 51,
   "ageYear": 2024

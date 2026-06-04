@@ -6,20 +6,80 @@
   "companies": [
     {
       "name": "SSR Mining Inc.",
-      "ticker": "SSRM",
-      "exchange": "NASDAQ",
-      "website": "https://www.ssrmining.com",
-      "title": "Independent Director",
-      "startDate": "2020-09-16",
+      "ticker": "SSRM (TSX), SSR (NASDAQ), SSR (ASX)",
+      "exchange": "TSX, NASDAQ, ASX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Director",
+      "startDate": "September 2020",
       "endDate": null,
-      "formattedStartDate": "2020 September",
+      "formattedStartDate": "September 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Bank of Montreal (BMO Financial Group)",
+      "ticker": "BMO (TSX), BMO (NYSE)",
+      "exchange": "TSX, NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Vice President and General Counsel",
+      "startDate": "2008",
+      "endDate": "2020",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Vale S.A.",
+      "ticker": "VALE (NYSE)",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Vice President and General Counsel (including tenure at Inco)",
+      "startDate": "Prior to 2008",
+      "endDate": "2008",
+      "formattedStartDate": "Prior to 2008",
+      "formattedEndDate": "2008"
+    },
+    {
+      "name": "Shell Canada Limited",
+      "ticker": "SHC (TSX - Delisted)",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice President, General Counsel and Corporate Secretary",
+      "startDate": "Prior to 2008",
+      "endDate": "Prior to 2008",
+      "formattedStartDate": "Prior to 2008",
+      "formattedEndDate": "Prior to 2008"
+    },
+    {
+      "name": "The Toronto-Dominion Bank (TD Bank Group)",
+      "ticker": "TD (TSX), TD (NYSE)",
+      "exchange": "TSX, NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Executive Vice President and General Counsel",
+      "startDate": "September 15, 2025",
+      "endDate": null,
+      "formattedStartDate": "September 15, 2025",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/simon-fish-8a5b2a12",
+      "person_name": "Simon Fish",
+      "company_name": "SSR Mining Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Corporate Governance and Nominating Committee",
     "Environmental, Health, Safety and Sustainability Committee"

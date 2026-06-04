@@ -7,19 +7,55 @@
     {
       "name": "ServiceNow, Inc.",
       "ticker": "NOW",
-      "exchange": "NYSE",
-      "website": "https://www.servicenow.com",
-      "title": "Chief People Officer",
-      "startDate": "2021-07-01",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief People and AI Enablement Officer",
+      "startDate": "July 2021",
       "endDate": null,
-      "formattedStartDate": "2021 July",
+      "formattedStartDate": "July 2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "WPP plc",
+      "ticker": "WPP",
+      "exchange": "NYSE",
+      "website": "wpp.com",
+      "logoUrl": "/companies-assets/WPP.NYSE.png",
+      "title": "Global Chief People Officer",
+      "startDate": "June 1, 2019",
+      "endDate": "2021",
+      "formattedStartDate": "June 1, 2019",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Walmart Inc.",
+      "ticker": "WMT",
+      "exchange": "NYSE",
+      "website": "walmart.com",
+      "logoUrl": "/companies-assets/WMT.NYSE.svg",
+      "title": "Executive Vice President, Chief People Officer",
+      "startDate": "August 2015",
+      "endDate": "June 15, 2019",
+      "formattedStartDate": "August 2015",
+      "formattedEndDate": "June 15, 2019"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jacquicanney",
+      "person_name": "Jacqui Canney",
+      "company_name": "ServiceNow",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 56,
   "ageYear": 2024

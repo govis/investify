@@ -6,6 +6,49 @@
   "age_year": 2024,
   "background": "Mr. Thompson was the Chairman and CEO of Gold Fields Ltd.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Royal Gold, Inc.",
+      "ticker": "RGLD",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "royalgold.com",
+      "start_date": "2013",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Golden Star Resources Ltd.",
+      "ticker": "GSC",
+      "exchange": "TSX",
+      "website": "gsr.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Teck Resources Limited",
+      "ticker": "TECK",
+      "exchange": "NYSE",
+      "website": "teck.com",
+      "title_or_role": "Director",
+      "start_date": "2003",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "Jacobs Solutions Inc.",
+      "ticker": "J",
+      "exchange": "NYSE",
+      "website": "jacobs.com",
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": "2024",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +57,6 @@
     "Audit Committee",
     "Compensation, Nominating and Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Royal Gold, Inc.",
-      "ticker": "RGLD",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2013-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

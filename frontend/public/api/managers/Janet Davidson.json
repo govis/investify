@@ -5,14 +5,27 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "STMicroelectronics N.V.",
-      "ticker": "STM",
+      "name": "The AES Corporation",
+      "ticker": "AES",
       "exchange": "NYSE",
-      "website": "https://www.st.com",
-      "title": "Member of the Supervisory Board",
-      "startDate": "2013-01-01",
+      "website": "https://www.aes.com",
+      "logoUrl": "/companies-assets/AES.NYSE.svg",
+      "title": "Director",
+      "startDate": "2019-02-22",
       "endDate": null,
-      "formattedStartDate": "2013 January",
+      "formattedStartDate": "February 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Millicom International Cellular S.A.",
+      "ticker": "TIGO",
+      "exchange": "NASDAQ",
+      "website": "https://www.millicom.com",
+      "logoUrl": "/companies-assets/TIGO.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2016-04",
+      "endDate": null,
+      "formattedStartDate": "April 2016",
       "formattedEndDate": ""
     }
   ],

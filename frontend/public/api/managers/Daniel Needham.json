@@ -9,17 +9,29 @@
       "ticker": "NUE",
       "exchange": "NYSE",
       "website": "https://nucor.com",
-      "title": "Executive Vice President",
-      "startDate": "2021-02-01",
-      "endDate": null,
-      "formattedStartDate": "2021 February",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/NUE.NYSE.svg",
+      "title": "Various roles including Controller at Nucor Steel Hertford County",
+      "startDate": "2000",
+      "endDate": "February 1, 2021",
+      "formattedStartDate": "2000",
+      "formattedEndDate": "February 1, 2021"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dan-needham-8a5a5a1a",
+      "person_name": "Daniel R. Needham",
+      "company_name": "Nucor Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 58,
   "ageYear": 2024

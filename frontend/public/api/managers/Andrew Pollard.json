@@ -7,12 +7,25 @@
     {
       "name": "Western Uranium & Vanadium Corp.",
       "ticker": "WUC",
-      "exchange": "TSX",
-      "website": "https://western-uranium.com",
-      "title": "Independent Director",
-      "startDate": "2021-11-01",
+      "exchange": "CSE",
+      "website": "https://www.westernuranium.com/",
+      "logoUrl": "/companies-assets/WUC.CSE.svg",
+      "title": "Director",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2021 November",
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Blackrock Silver Corp.",
+      "ticker": "BRC",
+      "exchange": "TSXV",
+      "website": "blackrocksilver.com",
+      "logoUrl": "/companies-assets/BRC.TSXV.svg",
+      "title": "President, Chief Executive Officer & Director",
+      "startDate": "May 2019",
+      "endDate": null,
+      "formattedStartDate": "May 2019",
       "formattedEndDate": ""
     }
   ],

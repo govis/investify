@@ -6,19 +6,44 @@
   "age_year": 2024,
   "background": "Mr. Guerrero has been a director since 2016 and Chairman of the Board since 2022. He is a lawyer and holds a law degree from the Universidad de Chile and an MBA from the Universidad Adolfo Ib\u00e1\u00f1ez.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Sociedad Qu\u00edmica y Minera de Chile S.A.",
       "ticker": "SQM",
       "exchange": "NYSE",
       "title_or_role": "Chairman of the Board",
+      "website": "https://www.sqm.com",
       "start_date": "2022-04-26",
       "end_date": null
+    },
+    {
+      "name": "Sociedad Qu\u00edmica y Minera de Chile S.A. (SQM)",
+      "ticker": "SQM",
+      "exchange": "NYSE",
+      "website": "https://www.sqm.com",
+      "title_or_role": "Director / Board Member (formerly Chairman of the Board)",
+      "start_date": "April 2022",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://cl.linkedin.com/in/gonzalo-guerrero-yamamoto-6bb4551a",
+      "person_name": "Gonzalo Guerrero Yamamoto",
+      "company_name": "Sociedad Qu\u00edmica y Minera de Chile S.A.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

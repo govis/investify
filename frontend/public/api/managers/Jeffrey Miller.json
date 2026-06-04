@@ -7,13 +7,50 @@
     {
       "name": "ServiceNow, Inc.",
       "ticker": "NOW",
-      "exchange": "NYSE",
-      "website": "https://www.servicenow.com",
-      "title": "Independent Director",
-      "startDate": "2011-02-01",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2011",
       "endDate": null,
-      "formattedStartDate": "2011 February",
+      "formattedStartDate": "2011",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Documentum, Inc.",
+      "ticker": "DCTM",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "https://www.opentext.com/file_source/OpenText/en_US/PNG/opentext-logo-dark.png",
+      "title": "President, CEO, and Chairman of the Board",
+      "startDate": "1993",
+      "endDate": "2003",
+      "formattedStartDate": "1993",
+      "formattedEndDate": "2003"
+    },
+    {
+      "name": "Adaptec, Inc.",
+      "ticker": "ADPT",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "/companies-assets/ADPT.NASDAQ.png",
+      "title": "Director",
+      "startDate": "2005",
+      "endDate": "2010",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2010"
+    },
+    {
+      "name": "Data Domain, Inc.",
+      "ticker": "DDUP",
+      "exchange": "NASDAQ",
+      "website": "https://www.dell.com",
+      "logoUrl": "/companies-assets/DDUP.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2007",
+      "endDate": "2009",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2009"
     }
   ],
   "investmentTheses": [

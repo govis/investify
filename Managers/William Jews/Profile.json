@@ -6,6 +6,29 @@
   "age_year": 2024,
   "background": "Former President and CEO of CareFirst, Inc. He serves on several corporate boards.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "CACI International Inc",
+      "ticker": "CACI",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.caci.com",
+      "start_date": "2013",
+      "end_date": "2025-12-31",
+      "validated": true
+    },
+    {
+      "name": "Choice Hotels International, Inc.",
+      "ticker": "CHH",
+      "exchange": "NYSE",
+      "website": "https://www.choicehotels.com",
+      "title_or_role": "Director",
+      "start_date": "2000",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
@@ -14,14 +37,6 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "CACI International Inc",
-      "ticker": "CACI",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2013-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

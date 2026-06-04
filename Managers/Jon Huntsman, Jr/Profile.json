@@ -6,6 +6,57 @@
   "age_year": 2024,
   "background": "Former U.S. Ambassador to Russia, China, and Singapore. Director since 2020.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Chevron Corporation",
+      "ticker": "CVX",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.chevron.com",
+      "start_date": "2020-09-01",
+      "end_date": null
+    },
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.ford.com",
+      "start_date": "2020-10-01",
+      "end_date": null
+    },
+    {
+      "name": "Huntsman Corporation",
+      "ticker": "HUN",
+      "exchange": "NYSE",
+      "website": "https://www.huntsman.com",
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Caterpillar Inc.",
+      "ticker": "CAT",
+      "exchange": "NYSE",
+      "website": "https://www.caterpillar.com",
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Hilton Worldwide Holdings Inc.",
+      "ticker": "HLT",
+      "exchange": "NYSE",
+      "website": "https://www.hilton.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": "2017",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
@@ -17,22 +68,6 @@
     "Public Policy and Sustainability Committee",
     "Sustainability, Innovation and Policy Committee"
   ],
-  "companies": [
-    {
-      "name": "Chevron Corporation",
-      "ticker": "CVX",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-09-01",
-      "end_date": null
-    },
-    {
-      "name": "Ford Motor Company",
-      "ticker": "F",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-10-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

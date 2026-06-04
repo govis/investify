@@ -6,19 +6,55 @@
   "age_year": 2024,
   "background": "Dave Bernhardt has served as our Chief Financial Officer since September 2020. Prior to joining SentinelOne, Mr. Bernhardt served as Vice President, Finance of Chegg, Inc. from 2012 to 2020. Previously, he served as Vice President, Finance and Corporate Controller of Palantir Technologies.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "SentinelOne, Inc.",
       "ticker": "S",
       "exchange": "NYSE",
       "title_or_role": "Chief Financial Officer",
-      "start_date": "2020-09-01",
-      "end_date": null
+      "website": "https://www.sentinelone.com",
+      "start_date": "2020",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Palantir Technologies, Inc.",
+      "ticker": "PLTR",
+      "exchange": "NYSE",
+      "website": "https://www.palantir.com",
+      "title_or_role": "Vice President, Finance",
+      "start_date": "2009",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Chegg, Inc.",
+      "ticker": "CHGG",
+      "exchange": "NYSE",
+      "website": "https://www.chegg.com",
+      "title_or_role": "Vice President & Controller",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dave-bernhardt-8924233",
+      "person_name": "Dave Bernhardt",
+      "company_name": "SentinelOne",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

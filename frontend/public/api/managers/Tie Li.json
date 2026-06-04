@@ -9,11 +9,24 @@
       "ticker": "LI",
       "exchange": "NASDAQ",
       "website": "https://www.lixiang.com",
-      "title": "Chief Financial Officer, Director",
-      "startDate": "2016-05-01",
+      "logoUrl": "/companies-assets/LI.NASDAQ.svg",
+      "title": "Chief Financial Officer & Director",
+      "startDate": "2015",
       "endDate": null,
-      "formattedStartDate": "2016 May",
+      "formattedStartDate": "2015",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Autohome Inc.",
+      "ticker": "ATHM",
+      "exchange": "NYSE",
+      "website": "https://ir.autohome.com.cn/",
+      "logoUrl": "/companies-assets/ATHM.NYSE.svg",
+      "title": "Vice President of Finance",
+      "startDate": null,
+      "endDate": "2015",
+      "formattedStartDate": "",
+      "formattedEndDate": "2015"
     }
   ],
   "investmentTheses": [

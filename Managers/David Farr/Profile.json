@@ -6,6 +6,48 @@
   "age_year": 2024,
   "background": "David N. Farr was Chairman and CEO of Emerson Electric Co.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "International Business Machines Corporation",
+      "ticker": "IBM",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.ibm.com",
+      "start_date": "2012-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Emerson Electric Co.",
+      "ticker": "EMR",
+      "exchange": "NYSE",
+      "website": "https://www.emerson.com",
+      "title_or_role": "Chairman, President, and Chief Executive Officer",
+      "start_date": "1981",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "International Business Machines Corporation (IBM)",
+      "ticker": "IBM",
+      "exchange": "NYSE",
+      "website": "https://www.ibm.com",
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Delphi Corporation (now Aptiv PLC)",
+      "ticker": "DPH",
+      "exchange": "NYSE",
+      "website": "https://www.aptiv.com",
+      "title_or_role": "Director",
+      "start_date": "2005",
+      "end_date": "2009",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -13,14 +55,6 @@
   "committees": [
     "Audit Committee"
   ],
-  "companies": [
-    {
-      "name": "International Business Machines Corporation",
-      "ticker": "IBM",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2012-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

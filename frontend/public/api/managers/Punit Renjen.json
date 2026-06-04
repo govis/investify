@@ -9,18 +9,30 @@
       "ticker": "SAP",
       "exchange": "NYSE",
       "website": "https://www.sap.com",
-      "title": "Unknown Role",
-      "startDate": null,
-      "endDate": null,
-      "formattedStartDate": "",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/SAP.NYSE.svg",
+      "title": "Member of the Supervisory Board / Deputy Chairperson",
+      "startDate": "May 2023",
+      "endDate": "February 2024",
+      "formattedStartDate": "May 2023",
+      "formattedEndDate": "February 2024"
     }
   ],
   "investmentTheses": [
     "AI",
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/punitrenjen",
+      "person_name": "Punit Renjen",
+      "company_name": "SAP SE",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 62,
   "ageYear": 2024

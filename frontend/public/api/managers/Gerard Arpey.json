@@ -5,14 +5,27 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Fluor Corporation",
-      "ticker": "FLR",
+      "name": "AMR Corporation",
+      "ticker": "AMR",
       "exchange": "NYSE",
-      "website": "https://www.fluor.com",
-      "title": "Independent Director",
-      "startDate": "2023-01-01",
+      "website": "https://www.aa.com",
+      "logoUrl": "/companies-assets/AMR.NYSE.png",
+      "title": "Chairman, President, and Chief Executive Officer",
+      "startDate": "2003",
+      "endDate": "2011",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2011"
+    },
+    {
+      "name": "The Home Depot, Inc.",
+      "ticker": "HD",
+      "exchange": "NYSE",
+      "website": "https://www.homedepot.com",
+      "logoUrl": "/companies-assets/HD.NYSE.svg",
+      "title": "Director",
+      "startDate": "2015",
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "2015",
       "formattedEndDate": ""
     }
   ],

@@ -6,22 +6,67 @@
   "age_year": 2024,
   "background": "Co-founder of Medley and former Global Head of Human Capital Management at Goldman Sachs.",
   "picture_url": null,
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Leadership Development and Compensation Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Amazon.com, Inc.",
       "ticker": "AMZN",
       "exchange": "NASDAQ",
       "title_or_role": "Director",
+      "website": "https://www.amazon.com",
       "start_date": "2021-09-01",
       "end_date": null
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "ticker": "GS",
+      "exchange": "NYSE",
+      "website": "https://www.goldmansachs.com",
+      "title_or_role": "Global Head of Human Capital Management",
+      "start_date": "1996",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Etsy, Inc.",
+      "ticker": "ETSY",
+      "exchange": "NASDAQ",
+      "website": "https://www.etsy.com",
+      "title_or_role": "Director",
+      "start_date": "2018-04-05",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Slack Technologies, Inc.",
+      "ticker": "WORK",
+      "exchange": "NYSE",
+      "website": "https://slack.com",
+      "title_or_role": "Director",
+      "start_date": "2018-02-15",
+      "end_date": "2021-07-21",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/edithcooper",
+      "person_name": "Edith Cooper",
+      "company_name": "Medley",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Leadership Development and Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

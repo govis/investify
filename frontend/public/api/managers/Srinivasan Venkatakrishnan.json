@@ -7,30 +7,79 @@
     {
       "name": "Endeavour Mining plc",
       "ticker": "EDV",
-      "exchange": "LSE",
-      "website": "https://www.endeavourmining.com",
-      "title": "Chair, Independent Non-Executive Director",
-      "startDate": "2022-05-24",
+      "exchange": "TSX, LSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chair of the Board",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2022 May",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
     },
     {
-      "name": "Endeavour Mining plc",
-      "ticker": "EDV",
-      "exchange": "TSX",
-      "website": "https://www.endeavourmining.com",
-      "title": "Chair, Independent Non-Executive Director",
-      "startDate": "2024-01-04",
+      "name": "The Weir Group PLC",
+      "ticker": "WEIR",
+      "exchange": "LSE",
+      "website": "https://www.global.weir",
+      "logoUrl": "/companies-assets/WEIR.LSE.svg",
+      "title": "Non-Executive Director",
+      "startDate": "January 2021",
+      "endDate": "2022",
+      "formattedStartDate": "January 2021",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "BlackRock World Mining Trust plc",
+      "ticker": "BRWM",
+      "exchange": "LSE",
+      "website": "https://www.blackrock.com/uk/individual/products/224454/blackrock-world-mining-trust-plc",
+      "logoUrl": "/companies-assets/BRWM.LSE.png",
+      "title": "Non-Executive Director",
+      "startDate": "August 2021",
       "endDate": null,
-      "formattedStartDate": "2024 January",
+      "formattedStartDate": "August 2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Vedanta Limited",
+      "ticker": "VEDL",
+      "exchange": "NSE/BSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "CEO and Director",
+      "startDate": "August 31, 2018",
+      "endDate": "April 5, 2020",
+      "formattedStartDate": "August 31, 2018",
+      "formattedEndDate": "April 5, 2020"
+    },
+    {
+      "name": "AngloGold Ashanti Limited",
+      "ticker": "AU",
+      "exchange": "NYSE",
+      "website": "https://www.anglogoldashanti.com",
+      "logoUrl": "/companies-assets/AU.NYSE.svg",
+      "title": "CEO (previously CFO)",
+      "startDate": "2013",
+      "endDate": "August 2018",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "August 2018"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://in.linkedin.com/in/venkatakrishnan-srinivasan-b7745912",
+      "person_name": "Srinivasan Venkatakrishnan",
+      "company_name": "Endeavour Mining plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Nomination and Governance Committee",
     "Remuneration Committee"

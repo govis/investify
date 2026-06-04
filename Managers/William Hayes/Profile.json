@@ -6,6 +6,29 @@
   "age_year": 2024,
   "background": "Mr. Hayes has been a director since 2008 and Chairman of the Board since 2014. He was previously an executive at Placer Dome Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Royal Gold, Inc.",
+      "ticker": "RGLD",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.royalgold.com/",
+      "start_date": "2008",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Antofagasta plc",
+      "ticker": "ANTO",
+      "exchange": "LSE (London Stock Exchange)",
+      "website": "https://www.antofagasta.co.uk/",
+      "title_or_role": "Director (Senior Independent Director, Chairman of the Audit and Risk Committee)",
+      "start_date": "2006",
+      "end_date": "2016",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -13,14 +36,6 @@
   "committees": [
     "Compensation, Nominating and Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Royal Gold, Inc.",
-      "ticker": "RGLD",
-      "exchange": "NASDAQ",
-      "title_or_role": "Chairman of the Board, Independent Director",
-      "start_date": "2014-05-22",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

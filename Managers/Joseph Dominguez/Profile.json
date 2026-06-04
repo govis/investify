@@ -6,17 +6,14 @@
   "age_year": 2024,
   "background": "Joseph Dominguez is president and chief executive officer of Constellation. He previously served as CEO of ComEd from 2018 to 2022 and as executive vice president of governmental and regulatory affairs and public policy for Exelon from 2012 to 2018.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Constellation Energy Corporation",
       "ticker": "CEG",
       "exchange": "NASDAQ",
       "title_or_role": "Director, President and Chief Executive Officer",
+      "website": "https://www.constellationenergy.com",
       "start_date": "2022-02-01",
       "end_date": null
     },
@@ -25,8 +22,47 @@
       "ticker": "CEG",
       "exchange": "NYSE",
       "title_or_role": "Director, President and Chief Executive Officer",
+      "website": "https://www.constellationenergy.com",
       "start_date": "2022-02-01",
       "end_date": null
+    },
+    {
+      "name": "Exelon Corporation",
+      "ticker": "EXC",
+      "exchange": "NASDAQ",
+      "website": "https://www.exeloncorp.com",
+      "title_or_role": "Executive Vice President, Governmental and Regulatory Affairs and Public Policy",
+      "start_date": "2017",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Commonwealth Edison Company (ComEd)",
+      "ticker": "EXC",
+      "exchange": "NASDAQ",
+      "website": "https://www.comed.com",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2018",
+      "end_date": "2022",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/joseph-dominguez-5a5b2a12",
+      "person_name": "Joseph Dominguez",
+      "company_name": "Constellation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

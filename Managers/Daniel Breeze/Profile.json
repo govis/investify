@@ -6,19 +6,45 @@
   "age_year": 2024,
   "background": "Mr. Breeze has served as Vice President, Corporate Development of RGLD Gold (Canada) since 2018. He joined Royal Gold in 2011.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Royal Gold, Inc.",
       "ticker": "RGLD",
       "exchange": "NASDAQ",
-      "title_or_role": "Vice President, Corporate Development",
-      "start_date": "2018-01-01",
-      "end_date": null
+      "title_or_role": "Senior Vice President, Corporate Development",
+      "website": "https://www.royalgold.com",
+      "start_date": "January 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bank of Montreal (BMO)",
+      "ticker": "BMO",
+      "exchange": "NYSE / TSX",
+      "website": "https://www.bmo.com",
+      "title_or_role": "Managing Director, Equities (BMO Capital Markets)",
+      "start_date": "2010",
+      "end_date": "December 2018",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/daniel-breeze-p-eng-8a5a5a1b",
+      "person_name": "Daniel Breeze",
+      "company_name": "Royal Gold, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

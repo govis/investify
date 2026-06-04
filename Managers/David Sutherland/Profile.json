@@ -6,21 +6,67 @@
   "age_year": 2024,
   "background": "Retired President and Chief Executive Officer of IPSCO, Inc. He has served as Chairman of the Board of U. S. Steel since 2014.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Corporate Governance and Public Policy Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "United States Steel Corporation",
       "ticker": "X",
       "exchange": "NYSE",
-      "title_or_role": "Independent Chairman of the Board",
-      "start_date": "2008-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "ussteel.com",
+      "start_date": "2008",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "GATX Corporation",
+      "ticker": "GATX",
+      "exchange": "NYSE",
+      "website": "gatx.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Imperial Oil Limited",
+      "ticker": "IMO",
+      "exchange": "TSX",
+      "website": "imperialoil.ca",
+      "title_or_role": "Director",
+      "start_date": "2009",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "IPSCO Inc.",
+      "ticker": "IPSCO (Delisted)",
+      "exchange": "NYSE/TSX",
+      "website": "N/A",
+      "title_or_role": "President, CEO & Director",
+      "start_date": "2002",
+      "end_date": "2007",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/david-sutherland-a64ab215",
+      "person_name": "David Sutherland",
+      "company_name": "United States Steel Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Corporate Governance and Public Policy Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -7,13 +7,50 @@
     {
       "name": "Equinox Gold Corp.",
       "ticker": "EQX",
-      "exchange": "NYSE",
-      "website": "https://www.equinoxgold.com",
-      "title": "Chair",
-      "startDate": "2017-12-22",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman of the Board",
+      "startDate": "2017",
       "endDate": null,
-      "formattedStartDate": "2017 December",
+      "formattedStartDate": "2017",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Pan American Silver Corp.",
+      "ticker": "PAAS",
+      "exchange": "TSX",
+      "website": "https://www.panamericansilver.com",
+      "logoUrl": "/companies-assets/PAAS.TSX.svg",
+      "title": "Founder and Chairman of the Board",
+      "startDate": "1994",
+      "endDate": "2020",
+      "formattedStartDate": "1994",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Alterra Power Corp.",
+      "ticker": "AXY",
+      "exchange": "TSX",
+      "website": "https://www.innergex.com/",
+      "logoUrl": "/companies-assets/AXY.TSX.svg",
+      "title": "Executive Chairman",
+      "startDate": "2011",
+      "endDate": "2018",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Western Copper and Gold Corporation",
+      "ticker": "WRN",
+      "exchange": "TSX",
+      "website": "https://westerncoppercorp.com/",
+      "logoUrl": "/companies-assets/WRN.TSX.svg",
+      "title": "Co-Chairman",
+      "startDate": "2006",
+      "endDate": "2009",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2009"
     }
   ],
   "investmentTheses": [

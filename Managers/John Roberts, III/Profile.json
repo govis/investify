@@ -6,19 +6,35 @@
   "age_year": 2024,
   "background": "John Roberts served as Chief Executive Officer from 2011 until July 2024, when he transitioned to Executive Chairman of the Board. He has been with J.B. Hunt since 1989.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "J.B. Hunt Transport Services, Inc.",
       "ticker": "JBHT",
       "exchange": "NASDAQ",
-      "title_or_role": "Director, Executive Chairman",
-      "start_date": "2024-07-01",
-      "end_date": null
+      "title_or_role": "Executive Vice President and President of Dedicated Contract Services",
+      "website": "https://www.jbhunt.com",
+      "start_date": "1997",
+      "end_date": "2010",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/john-n-roberts-iii-b0508815",
+      "person_name": "John N. Roberts, III",
+      "company_name": "J.B. Hunt Transport Services, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

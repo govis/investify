@@ -9,17 +9,29 @@
       "ticker": "MRCY",
       "exchange": "NASDAQ",
       "website": "https://www.mrcy.com",
-      "title": "Unknown Role",
-      "startDate": null,
+      "logoUrl": "/companies-assets/MRCY.NASDAQ.svg",
+      "title": "President, Chief Executive Officer, and Director",
+      "startDate": "November 2007",
       "endDate": null,
-      "formattedStartDate": "",
+      "formattedStartDate": "November 2007",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/maslett",
+      "person_name": "Mark Aslett",
+      "company_name": "Mercury Systems, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 55,
   "ageYear": 2023

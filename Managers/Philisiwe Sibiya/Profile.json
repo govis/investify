@@ -6,22 +6,57 @@
   "age_year": 2024,
   "background": "Philisiwe Sibiya was appointed to the Board in 2019. She is the former CEO of MTN Cameroon.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Risk Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Gold Fields Limited",
       "ticker": "GFI",
       "exchange": "NYSE",
       "title_or_role": "Independent Non-Executive Director",
+      "website": "https://www.goldfields.com",
       "start_date": "2019-03-01",
       "end_date": null
+    },
+    {
+      "name": "AECI Ltd",
+      "ticker": "AFE",
+      "exchange": "Johannesburg Stock Exchange (JSE)",
+      "website": "https://www.aeciworld.com/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "MTN Group Limited",
+      "ticker": "MTN",
+      "exchange": "Johannesburg Stock Exchange (JSE)",
+      "website": "https://www.mtn.com/",
+      "title_or_role": "Chief Executive Officer (MTN Cameroon)",
+      "start_date": "2016",
+      "end_date": "2017",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://za.linkedin.com/in/philisiwesibiya",
+      "person_name": "Philisiwe Sibiya",
+      "company_name": "Gold Fields Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Risk Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

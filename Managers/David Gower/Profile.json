@@ -6,6 +6,58 @@
   "age_year": 2024,
   "background": "Mr. Gower has over 30 years of experience in the minerals industry, including senior positions with Falconbridge Ltd. and Noranda Inc. He is currently the CEO of Emerita Resources Corp. and serves on the boards of several public companies.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "EagleOne Metals Corp.",
+      "ticker": "EAGL",
+      "exchange": "CSE",
+      "title_or_role": "Director",
+      "website": "https://eagleonemetals.com",
+      "start_date": "2023-06-01",
+      "end_date": null
+    },
+    {
+      "name": "Emerita Resources Corp.",
+      "ticker": "EMO",
+      "exchange": "TSXV",
+      "website": "https://www.emeritaresources.com/",
+      "title_or_role": "CEO and Director",
+      "start_date": "2017",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Nobel Resources Corp.",
+      "ticker": "NBLC",
+      "exchange": "TSXV",
+      "website": "https://nobelresources.ca/",
+      "title_or_role": "Chief Executive Officer & Non-Independent Director",
+      "start_date": "2021",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Apogee Opportunities, Inc.",
+      "ticker": "APG",
+      "exchange": "TSXV",
+      "website": "N/A",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2007",
+      "end_date": "2011",
+      "validated": true
+    },
+    {
+      "name": "Kria Resources Ltd.",
+      "ticker": "KRI",
+      "exchange": "TSXV",
+      "website": "N/A",
+      "title_or_role": "Director",
+      "start_date": "2009",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Gold"
@@ -14,14 +66,6 @@
   "committees": [
     "Audit Committee"
   ],
-  "companies": [
-    {
-      "name": "EagleOne Metals Corp.",
-      "ticker": "EAGL",
-      "exchange": "CSE",
-      "title_or_role": "Director",
-      "start_date": "2023-06-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

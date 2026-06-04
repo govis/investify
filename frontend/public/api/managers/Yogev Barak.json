@@ -9,17 +9,41 @@
       "ticker": "SEDG",
       "exchange": "NASDAQ",
       "website": "https://www.solaredge.com",
-      "title": "Chief Product Officer",
-      "startDate": "2021-06-01",
-      "endDate": null,
-      "formattedStartDate": "2021 June",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/SEDG.NASDAQ.svg",
+      "title": "Chief Marketing Officer",
+      "startDate": "December 2020",
+      "endDate": "June 2024",
+      "formattedStartDate": "December 2020",
+      "formattedEndDate": "June 2024"
+    },
+    {
+      "name": "HP Inc.",
+      "ticker": "HPQ",
+      "exchange": "NYSE",
+      "website": "hp.com",
+      "logoUrl": "/companies-assets/HPQ.NYSE.jpg",
+      "title": "Head of Strategy, Marketing & Products",
+      "startDate": "2015",
+      "endDate": "2020",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2020"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://il.linkedin.com/in/yogev-barak",
+      "person_name": "Yogev Barak",
+      "company_name": "SolarEdge Technologies",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 54,
   "ageYear": 2024

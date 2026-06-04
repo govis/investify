@@ -6,23 +6,49 @@
   "age_year": 2024,
   "background": "Ms. Walker is the President and CEO of Elm Street Resources Inc. and has over 35 years of experience in the energy industry.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Ur-Energy Inc.",
+      "ticker": "URG",
+      "exchange": "NYSE American / TSX",
+      "title_or_role": "Director",
+      "website": "https://www.ur-energy.com",
+      "start_date": "Not specified",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "ADTRAN Holdings, Inc.",
+      "ticker": "ADTN",
+      "exchange": "NASDAQ",
+      "website": "https://www.adtran.com",
+      "title_or_role": "Director",
+      "start_date": "May 16, 2014",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kathy-walker-b410aa15",
+      "person_name": "Kathy Walker",
+      "company_name": "Elm Street Resources Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee",
     "Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "Ur-Energy Inc.",
-      "ticker": "URG",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2021-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

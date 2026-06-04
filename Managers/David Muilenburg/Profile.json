@@ -6,19 +6,45 @@
   "age_year": 2024,
   "background": "Former CEO of Boeing. Note: This entry is for historical context as he is no longer on the board.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "The Boeing Company",
       "ticker": "BA",
       "exchange": "NYSE",
-      "title_or_role": "Unknown Role",
-      "start_date": null,
-      "end_date": null
+      "title_or_role": "President and Chief Executive Officer",
+      "website": "https://www.boeing.com",
+      "start_date": "2015",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Caterpillar Inc.",
+      "ticker": "CAT",
+      "exchange": "NYSE",
+      "website": "https://www.caterpillar.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2011",
+      "end_date": "2020",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dennis-muilenburg-5a5b5a1a",
+      "person_name": "Dennis Muilenburg",
+      "company_name": "The Boeing Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

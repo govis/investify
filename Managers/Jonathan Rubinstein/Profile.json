@@ -6,6 +6,59 @@
   "age_year": 2024,
   "background": "Former co-CEO of Bridgewater Associates and former Senior Vice President at Apple Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Amazon.com, Inc.",
+      "ticker": "AMZN",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.aboutamazon.com",
+      "start_date": "2010-12",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Robinhood Markets, Inc.",
+      "ticker": "HOOD",
+      "exchange": "NASDAQ",
+      "website": "https://investors.robinhood.com",
+      "title_or_role": "Lead Independent Director",
+      "start_date": "2021-05",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Qualcomm Incorporated",
+      "ticker": "QCOM",
+      "exchange": "NASDAQ",
+      "website": "https://www.qualcomm.com",
+      "title_or_role": "Director",
+      "start_date": "2013-05",
+      "end_date": "2016-05",
+      "validated": true
+    },
+    {
+      "name": "Palm, Inc.",
+      "ticker": "PALM",
+      "exchange": "NASDAQ",
+      "website": "https://www.palm.com",
+      "title_or_role": "Chief Executive Officer, President, and Chairman of the Board",
+      "start_date": "2007-10",
+      "end_date": "2010-07",
+      "validated": true
+    },
+    {
+      "name": "Immersion Corporation",
+      "ticker": "IMMR",
+      "exchange": "NASDAQ",
+      "website": "https://www.immersion.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI",
     "Defense"
@@ -14,14 +67,6 @@
   "committees": [
     "Audit Committee"
   ],
-  "companies": [
-    {
-      "name": "Amazon.com, Inc.",
-      "ticker": "AMZN",
-      "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "start_date": "2017-12-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

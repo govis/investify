@@ -5,15 +5,40 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Applied Materials, Inc.",
-      "ticker": "AMAT",
+      "name": "Broadcom Corporation",
+      "ticker": "BRCM",
       "exchange": "NASDAQ",
-      "website": "https://www.appliedmaterials.com",
-      "title": "Independent Director",
-      "startDate": "2018-01-01",
+      "website": null,
+      "logoUrl": null,
+      "title": "President, Chief Executive Officer, and Director",
+      "startDate": "2005",
+      "endDate": "2016",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Equifax Inc.",
+      "ticker": "EFX",
+      "exchange": "NYSE",
+      "website": "https://www.equifax.com",
+      "logoUrl": "/companies-assets/EFX.NYSE.svg",
+      "title": "Director",
+      "startDate": "2017",
       "endDate": null,
-      "formattedStartDate": "2018 January",
+      "formattedStartDate": "2017",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Xactly Corporation",
+      "ticker": "XTLY",
+      "exchange": "NYSE",
+      "website": "www.xactlycorp.com",
+      "logoUrl": "/companies-assets/XTLY.NYSE.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": "2017",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2017"
     }
   ],
   "investmentTheses": [

@@ -6,19 +6,55 @@
   "age_year": 2024,
   "background": "Badar Khan has served as our Chief Executive Officer since November 2023. Prior to joining EVgo, Mr. Khan served as President of National Grid US from 2019 to 2022. He also served as a member of the National Grid plc executive committee. Prior to National Grid, Mr. Khan worked at Centrica plc for 14 years, including as Chief Executive Officer of Direct Energy.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "EVgo Inc.",
       "ticker": "EVGO",
       "exchange": "NASDAQ",
-      "title_or_role": "Chief Executive Officer",
-      "start_date": "2023-11-09",
-      "end_date": null
+      "title_or_role": "Chief Executive Officer and Director",
+      "website": "https://www.evgo.com",
+      "start_date": "November 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "National Grid plc",
+      "ticker": "NGG",
+      "exchange": "NYSE",
+      "website": "https://www.nationalgrid.com",
+      "title_or_role": "President, National Grid US",
+      "start_date": "2017",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Centrica plc",
+      "ticker": "CNA",
+      "exchange": "LSE",
+      "website": "https://www.centrica.com",
+      "title_or_role": "Various Senior Executive Positions (including Divisional President)",
+      "start_date": "2003",
+      "end_date": "2017",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/badar-khan-7a5a5a1/",
+      "person_name": "Badar Khan",
+      "company_name": "EVgo",
+      "profile_status": "not_found",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

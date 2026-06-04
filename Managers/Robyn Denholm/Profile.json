@@ -6,24 +6,80 @@
   "age_year": 2024,
   "background": "Robyn Denholm has been a member of the Board since August 2014 and served as Chair of the Board since November 2018. She has held executive roles at Telstra Corporation Limited and Juniper Networks, Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Tesla, Inc.",
+      "ticker": "TSLA",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chair of the Board",
+      "website": "tesla.com",
+      "start_date": "2018-11",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Telstra Group Limited",
+      "ticker": "TLS",
+      "exchange": "ASX",
+      "website": "telstra.com.au",
+      "title_or_role": "Chief Financial Officer / COO",
+      "start_date": "2017-01",
+      "end_date": "2019-05",
+      "validated": true
+    },
+    {
+      "name": "Juniper Networks, Inc.",
+      "ticker": "JNPR",
+      "exchange": "NYSE",
+      "website": "juniper.net",
+      "title_or_role": "EVP, CFO, and COO",
+      "start_date": "2007-08",
+      "end_date": "2016-02",
+      "validated": true
+    },
+    {
+      "name": "ABB Ltd",
+      "ticker": "ABBN",
+      "exchange": "STO",
+      "website": "abb.com",
+      "title_or_role": "Director",
+      "start_date": "2016-07",
+      "end_date": "2020-04",
+      "validated": true
+    },
+    {
+      "name": "Echelon Corporation",
+      "ticker": "ELON",
+      "exchange": "NASDAQ",
+      "website": "echelon.com",
+      "title_or_role": "Director",
+      "start_date": "2013-05",
+      "end_date": "2018-09",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/robyn-denholm-5a5b5a1/",
+      "person_name": "Robyn Denholm",
+      "company_name": "Tesla, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Tesla, Inc.",
-      "ticker": "TSLA",
-      "exchange": "NASDAQ",
-      "title_or_role": "Chair of the Board, Independent Director",
-      "start_date": "2018-11-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

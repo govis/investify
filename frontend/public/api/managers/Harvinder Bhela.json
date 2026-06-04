@@ -9,17 +9,41 @@
       "ticker": "NTAP",
       "exchange": "NASDAQ",
       "website": "https://www.netapp.com",
+      "logoUrl": "/companies-assets/NTAP.NASDAQ.svg",
       "title": "Executive Vice President and Chief Product Officer",
-      "startDate": "2022-01-01",
+      "startDate": "December 2021",
       "endDate": null,
-      "formattedStartDate": "2022 January",
+      "formattedStartDate": "December 2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "https://www.microsoft.com",
+      "logoUrl": "/companies-assets/MSFT.NASDAQ.svg",
+      "title": "Corporate Vice President, Microsoft 365 Security, Compliance and Management (and various prior leadership roles)",
+      "startDate": "~1996",
+      "endDate": "December 2021",
+      "formattedStartDate": "~1996",
+      "formattedEndDate": "December 2021"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/harvbh",
+      "person_name": "Harvinder Bhela",
+      "company_name": "NetApp",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 53,
   "ageYear": 2024

@@ -9,10 +9,11 @@
       "ticker": "GOH",
       "exchange": "CSE",
       "website": "https://goldhavenresources.com",
+      "logoUrl": "/companies-assets/GOH.CSE.png",
       "title": "Director",
-      "startDate": "2020-02-20",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2020 February",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
     },
     {
@@ -20,10 +21,11 @@
       "ticker": "HBM",
       "exchange": "NYSE",
       "website": "https://www.hudbayminerals.com",
-      "title": "Independent Director",
-      "startDate": "2020-05-01",
+      "logoUrl": "/companies-assets/HBM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2017",
       "endDate": null,
-      "formattedStartDate": "2020 May",
+      "formattedStartDate": "2017",
       "formattedEndDate": ""
     },
     {
@@ -31,10 +33,11 @@
       "ticker": "IAG",
       "exchange": "NYSE",
       "website": "https://www.iamgold.com",
-      "title": "Chair of the Board",
-      "startDate": "2022-02-01",
+      "logoUrl": "/companies-assets/IAG.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2022 February",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
     }
   ],

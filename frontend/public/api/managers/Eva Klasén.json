@@ -6,20 +6,32 @@
   "companies": [
     {
       "name": "Atlas Copco AB",
-      "ticker": "ATCO",
-      "exchange": "STO",
-      "website": "https://www.atlascopcogroup.com",
-      "title": "Senior Vice President, Chief Legal Officer",
-      "startDate": "2021-05-01",
-      "endDate": null,
-      "formattedStartDate": "2021 May",
-      "formattedEndDate": ""
+      "ticker": "ATCO-A.ST",
+      "exchange": "Nasdaq Stockholm",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice President, Deputy Chief Legal Officer",
+      "startDate": "2000",
+      "endDate": "2021",
+      "formattedStartDate": "2000",
+      "formattedEndDate": "2021"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://se.linkedin.com/in/eva-klasén-8b5a522",
+      "person_name": "Eva Klasén",
+      "company_name": "Atlas Copco AB",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 49,
   "ageYear": 2024

@@ -9,17 +9,65 @@
       "ticker": "KNT",
       "exchange": "TSX",
       "website": "https://k92mining.com",
-      "title": "Independent Director",
-      "startDate": "2022-05-01",
+      "logoUrl": "/companies-assets/KNT.TSX.svg",
+      "title": "Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2022 May",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Riley Gold Corp.",
+      "ticker": "RLYG",
+      "exchange": "TSXV",
+      "website": "https://rileygoldcorp.com",
+      "logoUrl": "/companies-assets/RLYG.TSXV.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "VR Resources Ltd.",
+      "ticker": "VRR",
+      "exchange": "TSXV",
+      "website": "https://vrr.ca",
+      "logoUrl": "/companies-assets/VRR.TSXV.svg",
+      "title": "Corporate Secretary",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Brazilian Gold Corp.",
+      "ticker": "BGC",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": "/companies-assets/BGC.TSXV.svg",
+      "title": "Secretary",
+      "startDate": null,
+      "endDate": "2013-10-31",
+      "formattedStartDate": "",
+      "formattedEndDate": "October 2013"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/cyndi-laval-4a5a5a15",
+      "person_name": "Cyndi Laval",
+      "company_name": "Gowling WLG",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Corporate Governance and Nominating Committee (Chair)",
     "Health, Safety and Environmental Committee"

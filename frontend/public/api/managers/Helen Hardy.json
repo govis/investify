@@ -9,17 +9,41 @@
       "ticker": "GOLD",
       "exchange": "NYSE",
       "website": "https://www.barrick.com",
-      "title": "Independent Director",
-      "startDate": "2022-08-01",
+      "logoUrl": "/companies-assets/GOLD.NYSE.svg",
+      "title": "Corporate Secretary",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2022 August",
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Origin Energy Limited",
+      "ticker": "ORG",
+      "exchange": "ASX",
+      "website": "https://www.originenergy.com.au",
+      "logoUrl": "/companies-assets/ORG.ASX.svg",
+      "title": "Corporate Secretary",
+      "startDate": "2019",
+      "endDate": "2023",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2023"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/helen-hardy-24484110",
+      "person_name": "Helen Hardy",
+      "company_name": "Origin Energy Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit & Risk Committee",
     "Environmental, Social and Governance Committee"

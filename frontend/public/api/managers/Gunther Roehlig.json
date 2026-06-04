@@ -5,14 +5,27 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Snowline Gold Corp.",
-      "ticker": "SGD",
-      "exchange": "TSX",
-      "website": "https://snowlinegold.com",
-      "title": "Independent Director",
-      "startDate": "2020-11-27",
+      "name": "Zinc One Resources Inc.",
+      "ticker": "Z",
+      "exchange": "TSXV",
+      "website": "https://zincone.com/",
+      "logoUrl": "/companies-assets/Z.TSXV.svg",
+      "title": "Interim CEO",
+      "startDate": "2019-05-27",
       "endDate": null,
-      "formattedStartDate": "2020 November",
+      "formattedStartDate": "May 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Hello Pal International Inc.",
+      "ticker": "HP",
+      "exchange": "CSE",
+      "website": "https://www.hellopal.com/",
+      "logoUrl": "/companies-assets/HP.CSE.png",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],

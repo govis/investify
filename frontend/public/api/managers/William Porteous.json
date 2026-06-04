@@ -9,17 +9,41 @@
       "ticker": "SPIR",
       "exchange": "NYSE",
       "website": "https://spire.com",
-      "title": "Director",
-      "startDate": "2014-01-01",
+      "logoUrl": "/companies-assets/SPIR.NYSE.svg",
+      "title": "Director (Lead Independent Director)",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2014 January",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "BuzzFeed, Inc.",
+      "ticker": "BZFD",
+      "exchange": "NASDAQ",
+      "website": "https://www.buzzfeed.com",
+      "logoUrl": "/companies-assets/BZFD.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2010-05-01",
+      "endDate": "2021",
+      "formattedStartDate": "May 2010",
+      "formattedEndDate": "2021"
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/wporteous",
+      "person_name": "William Porteous",
+      "company_name": "RRE Ventures",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"

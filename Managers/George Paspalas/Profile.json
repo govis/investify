@@ -6,22 +6,67 @@
   "age_year": 2024,
   "background": "Mr. Paspalas is the President and CEO of MAG Silver Corp. He has over 30 years of experience in the mining industry.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Technical Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Hudbay Minerals Inc.",
       "ticker": "HBM",
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
+      "website": "https://www.hudbayminerals.com",
       "start_date": "2023-06-01",
       "end_date": null
+    },
+    {
+      "name": "MAG Silver Corp.",
+      "ticker": "MAG",
+      "exchange": "TSX",
+      "website": "https://magsilver.com",
+      "title_or_role": "President, CEO & Director",
+      "start_date": "2013-09-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kinross Gold Corporation",
+      "ticker": "K",
+      "exchange": "TSX",
+      "website": "https://www.kinross.com",
+      "title_or_role": "Director",
+      "start_date": "2024-01-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Aurizon Mines Ltd.",
+      "ticker": "ARZ",
+      "exchange": "TSX",
+      "website": "https://www.aurizon.com",
+      "title_or_role": "President & CEO",
+      "start_date": "2011-08-15",
+      "end_date": "2013-06-01",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/george-paspalas-4a5a5a1a",
+      "person_name": "George Paspalas",
+      "company_name": "MAG Silver Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Technical Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

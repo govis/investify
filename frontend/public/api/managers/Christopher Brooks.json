@@ -9,11 +9,24 @@
       "ticker": "ODFL",
       "exchange": "NASDAQ",
       "website": "https://www.odfl.com",
-      "title": "Senior Vice President and Chief Operating Officer",
-      "startDate": "2023-07-01",
+      "logoUrl": "/companies-assets/ODFL.NASDAQ.png",
+      "title": "Senior Vice President, Human Resources & Safety",
+      "startDate": "June 2015",
       "endDate": null,
-      "formattedStartDate": "2023 July",
+      "formattedStartDate": "June 2015",
       "formattedEndDate": ""
+    },
+    {
+      "name": "National General Insurance Co.",
+      "ticker": "NGHC",
+      "exchange": "NASDAQ",
+      "website": "https://www.nationalgeneral.com",
+      "logoUrl": "/companies-assets/NGHC.NASDAQ.png",
+      "title": "Senior Vice President, Human Resources",
+      "startDate": null,
+      "endDate": "Prior to June 2015",
+      "formattedStartDate": "",
+      "formattedEndDate": "June 2015"
     }
   ],
   "investmentTheses": [

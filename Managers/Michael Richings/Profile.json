@@ -6,20 +6,56 @@
   "age_year": 2024,
   "background": "Mr. Richings has been a director of Vista Gold Corp. since 1995. He served as Executive Chairman from 2012 to 2017 and as President and CEO from 2004 to 2012. He has extensive experience in the mining industry, having held senior positions with several mining companies.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Vista Gold Corp.",
+      "ticker": "VGZ",
+      "exchange": "NYSE/TSX",
+      "title_or_role": "Executive Chair & CEO",
+      "website": "https://www.vistagold.com",
+      "start_date": "2007",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Guyana Goldfields Inc.",
+      "ticker": "GUY",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Perpetua Resources Corp.",
+      "ticker": "PPTA",
+      "exchange": "TSX/NASDAQ",
+      "website": "https://perpetuaresources.com",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": "2021",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold",
     "Nuclear"
   ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "socials": [
     {
-      "name": "Vista Gold Corp.",
-      "ticker": "VGZ",
-      "exchange": "NYSE",
-      "title_or_role": "Chairman of the Board, Director",
-      "start_date": "2017-01-01",
-      "end_date": null
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mike-richings-7a07131b",
+      "person_name": "Michael Richings",
+      "company_name": "Vista Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
-  ]
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

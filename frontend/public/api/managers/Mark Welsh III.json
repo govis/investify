@@ -9,17 +9,29 @@
       "ticker": "NOC",
       "exchange": "NYSE",
       "website": "https://www.northropgrumman.com",
-      "title": "Independent Director",
-      "startDate": "2016-01-01",
+      "logoUrl": "/companies-assets/NOC.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2016",
       "endDate": null,
-      "formattedStartDate": "2016 January",
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mark-welsh-iii-8a5b5a1b",
+      "person_name": "Mark Welsh III",
+      "company_name": "Northrop Grumman Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation and Management Development Committee",
     "Governance, Nominating and Sustainability Committee"

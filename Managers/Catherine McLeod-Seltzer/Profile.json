@@ -6,6 +6,39 @@
   "age_year": 2024,
   "background": "Ms. McLeod-Seltzer is an independent director and has been the Chair of the Board since 2019. She is a recognized leader in the minerals industry and has helped raise over $600 million in working capital for mining exploration.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Kinross Gold Corporation",
+      "ticker": "K",
+      "exchange": "TSX / NYSE",
+      "title_or_role": "Independent Chair of the Board / Director",
+      "website": "https://www.kinross.com",
+      "start_date": "2005",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bear Creek Mining Corporation",
+      "ticker": "BCM",
+      "exchange": "TSXV",
+      "website": "https://bearcreekmining.com",
+      "title_or_role": "Chair of the Board / Director",
+      "start_date": "2003",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Teck Resources Limited",
+      "ticker": "TECK",
+      "exchange": "NYSE / TSX",
+      "website": "https://www.teck.com",
+      "title_or_role": "Director",
+      "start_date": "April 2025",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -13,14 +46,6 @@
   "committees": [
     "Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Kinross Gold Corporation",
-      "ticker": "KGC",
-      "exchange": "NYSE",
-      "title_or_role": "Chair of the Board, Director",
-      "start_date": "2019-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

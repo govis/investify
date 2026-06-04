@@ -6,20 +6,46 @@
   "age_year": 2024,
   "background": "Mr. Pinto has been President and Chief Operating Officer since January 2022. He was Co-President and Co-Chief Operating Officer from 2018 to 2021 and CEO of the Corporate & Investment Bank from 2014 to 2024.",
   "picture_url": null,
-  "investment_theses": [
-    "AI",
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "JPMorgan Chase & Co.",
       "ticker": "JPM",
       "exchange": "NYSE",
-      "title_or_role": "President and Chief Operating Officer",
-      "start_date": "2022-01-01",
-      "end_date": null
+      "title_or_role": "President and Chief Operating Officer (formerly Vice Chairman)",
+      "website": "https://www.jpmorganchase.com",
+      "start_date": "1983",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Johnson & Johnson",
+      "ticker": "JNJ",
+      "exchange": "NYSE",
+      "website": "https://www.jnj.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "July 1, 2025",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI",
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://in.linkedin.com/in/daniel-pinto-69a985a2",
+      "person_name": "Daniel Pinto",
+      "company_name": "JPMorgan Chase & Co.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

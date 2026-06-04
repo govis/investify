@@ -7,12 +7,49 @@
     {
       "name": "GoldHaven Resources Corp.",
       "ticker": "GOH",
-      "exchange": "TSX",
-      "website": "https://goldhavenresources.com/",
+      "exchange": "CSE",
+      "website": "https://goldhavenresources.com",
+      "logoUrl": "/companies-assets/GOH.CSE.png",
       "title": "Director",
-      "startDate": "2021-06-30",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2021 June",
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Antler Gold Inc.",
+      "ticker": "ANTL",
+      "exchange": "TSXV",
+      "website": "https://antlergold.com/",
+      "logoUrl": "/companies-assets/ANTL.TSXV.png",
+      "title": "Founder / Executive Chairman",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "ReeXploration Inc.",
+      "ticker": "REE",
+      "exchange": "TSXV",
+      "website": "https://ree-xploration.com/",
+      "logoUrl": "/companies-assets/REE.TSXV.svg",
+      "title": "Interim CEO",
+      "startDate": "2022",
+      "endDate": "2022",
+      "formattedStartDate": "2022",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "GoGold Resources Inc.",
+      "ticker": "GGD",
+      "exchange": "TSX",
+      "website": "https://gogoldresources.com/",
+      "logoUrl": "/companies-assets/GGD.TSX.jpg",
+      "title": "Founder / Secretary / Director / CAO",
+      "startDate": "2008",
+      "endDate": null,
+      "formattedStartDate": "2008",
       "formattedEndDate": ""
     }
   ],

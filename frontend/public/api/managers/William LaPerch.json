@@ -5,21 +5,69 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Digital Realty Trust, Inc.",
-      "ticker": "DLR",
+      "name": "AboveNet, Inc.",
+      "ticker": "ABVT",
       "exchange": "NYSE",
-      "website": "https://www.digitalrealty.com",
+      "website": "https://www.zayo.com",
+      "logoUrl": "/companies-assets/ABVT.NYSE.png",
+      "title": "President, CEO, and Director",
+      "startDate": "2004-01",
+      "endDate": "2012-07",
+      "formattedStartDate": "January 2004",
+      "formattedEndDate": "July 2012"
+    },
+    {
+      "name": "Imation Corp.",
+      "ticker": "IMN",
+      "exchange": "NYSE",
+      "website": "https://www.imation.com",
+      "logoUrl": "https://www.imation.com/images/logo.png",
       "title": "Director",
-      "startDate": "2013-01-01",
+      "startDate": "2012-11",
+      "endDate": "2015-08",
+      "formattedStartDate": "November 2012",
+      "formattedEndDate": "August 2015"
+    },
+    {
+      "name": "Windstream Holdings, Inc.",
+      "ticker": "WIN",
+      "exchange": "NASDAQ",
+      "website": "https://www.windstream.com",
+      "logoUrl": "/companies-assets/WIN.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2020-09",
+      "endDate": "2023",
+      "formattedStartDate": "September 2020",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Schultze Special Purpose Acquisition Corp. II",
+      "ticker": "SAMA",
+      "exchange": "NASDAQ",
+      "website": "https://www.schultzespac.com",
+      "logoUrl": "https://companieslogo.com/img/orig/SAMA.US-5778810e.png?t=1632523662",
+      "title": "Director",
+      "startDate": "2021-10",
       "endDate": null,
-      "formattedStartDate": "2013 January",
+      "formattedStartDate": "October 2021",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/william-laperch-10368543",
+      "person_name": "William LaPerch",
+      "company_name": "Digital Realty Trust, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee"
   ],

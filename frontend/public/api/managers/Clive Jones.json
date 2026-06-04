@@ -5,14 +5,15 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Bannerman Energy Ltd",
-      "ticker": "BMN",
+      "name": "Cazaly Resources Ltd",
+      "ticker": "CAZ",
       "exchange": "ASX",
-      "website": "https://bannermanenergy.com",
-      "title": "Non-Executive Director",
-      "startDate": "2007-01-12",
+      "website": "https://cazalyresources.com.au/",
+      "logoUrl": "/companies-assets/CAZ.ASX.svg",
+      "title": "Chairman",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2007 January",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],

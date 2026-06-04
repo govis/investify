@@ -2,24 +2,48 @@
   "id": "Patrick Mutz",
   "name": "Patrick Mutz",
   "background": "Mr Mutz has over 40 years of experience in the mining industry, with a focus on uranium mining and processing. He has held senior executive roles in several uranium companies in the US and Australia.",
-  "pictureUrl": null,
+  "pictureUrl": "/managers-assets/Patrick Mutz.jpg",
   "companies": [
     {
       "name": "Aura Energy Limited",
       "ticker": "AEE",
       "exchange": "ASX",
       "website": "https://auraenergy.com.au/",
+      "logoUrl": "/companies-assets/AEE.ASX.svg",
       "title": "Non-Executive Director",
       "startDate": "2022-05-18",
       "endDate": null,
-      "formattedStartDate": "2022 May",
+      "formattedStartDate": "May 2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Image Resources NL",
+      "ticker": "IMA",
+      "exchange": "ASX",
+      "website": "https://imageresources.com.au/",
+      "logoUrl": "/companies-assets/IMA.ASX.png",
+      "title": "Managing Director and CEO",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/patrick-mutz-25528989",
+      "person_name": "Patrick Mutz",
+      "company_name": "Image Resources NL",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit and Risk Committee"
   ],

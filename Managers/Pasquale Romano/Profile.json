@@ -6,19 +6,35 @@
   "age_year": 2024,
   "background": "Pasquale Romano has served as a member of our Board since February 2011 and served as our President and Chief Executive Officer from February 2011 to November 2023. Prior to joining ChargePoint, Mr. Romano co-founded 2Wire, Inc., where he served as President and CEO.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "ChargePoint Holdings, Inc.",
       "ticker": "CHPT",
       "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2011-02-01",
-      "end_date": null
+      "title_or_role": "President, Chief Executive Officer, and Member of the Board of Directors",
+      "website": "https://www.chargepoint.com",
+      "start_date": "February 2011",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/pasquale-romano-4a5a1a1",
+      "person_name": "Pasquale Romano",
+      "company_name": "ChargePoint",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -9,10 +9,11 @@
       "ticker": "AMAT",
       "exchange": "NASDAQ",
       "website": "https://www.appliedmaterials.com",
-      "title": "President, Semiconductor Products Group",
-      "startDate": "2023-01-01",
+      "logoUrl": "/companies-assets/AMAT.NASDAQ.svg",
+      "title": "Senior Vice President, Semiconductor Products Group",
+      "startDate": "Not publicly disclosed",
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "Not publicly disclosed",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +21,18 @@
     "AI",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/prabu-raja-1537885",
+      "person_name": "Prabu Raja",
+      "company_name": "Applied Materials",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 54,
   "ageYear": 2024

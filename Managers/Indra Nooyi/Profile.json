@@ -6,22 +6,77 @@
   "age_year": 2024,
   "background": "Former Chairman and CEO of PepsiCo, Inc.",
   "picture_url": null,
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Amazon.com, Inc.",
       "ticker": "AMZN",
       "exchange": "NASDAQ",
       "title_or_role": "Director",
+      "website": "https://www.amazon.com",
       "start_date": "2019-02-01",
       "end_date": null
+    },
+    {
+      "name": "PepsiCo, Inc.",
+      "ticker": "PEP",
+      "exchange": "NASDAQ",
+      "website": "https://www.pepsico.com",
+      "title_or_role": "Chairman and Chief Executive Officer",
+      "start_date": "2006",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Schlumberger Limited",
+      "ticker": "SLB",
+      "exchange": "NYSE",
+      "website": "https://www.slb.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Royal Philips",
+      "ticker": "PHG",
+      "exchange": "NYSE",
+      "website": "https://www.philips.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Honeywell International Inc.",
+      "ticker": "HON",
+      "exchange": "NASDAQ",
+      "website": "https://www.honeywell.com",
+      "title_or_role": "Director",
+      "start_date": "2026",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/indranooyi",
+      "person_name": "Indra Nooyi",
+      "company_name": "PepsiCo",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

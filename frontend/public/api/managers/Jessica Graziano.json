@@ -9,17 +9,53 @@
       "ticker": "X",
       "exchange": "NYSE",
       "website": "https://www.ussteel.com",
+      "logoUrl": "/companies-assets/X.NYSE.svg",
       "title": "Senior Vice President and Chief Financial Officer",
-      "startDate": "2022-08-08",
+      "startDate": "August 2022",
+      "endDate": "June 2025",
+      "formattedStartDate": "August 2022",
+      "formattedEndDate": "June 2025"
+    },
+    {
+      "name": "Air Products and Chemicals, Inc.",
+      "ticker": "APD",
+      "exchange": "NYSE",
+      "website": "https://www.airproducts.com",
+      "logoUrl": "/companies-assets/APD.NYSE.png",
+      "title": "Member of the Board of Directors",
+      "startDate": "December 1, 2023",
       "endDate": null,
-      "formattedStartDate": "2022 August",
+      "formattedStartDate": "December 1, 2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "United Rentals, Inc.",
+      "ticker": "URI",
+      "exchange": "NYSE",
+      "website": "https://www.unitedrentals.com",
+      "logoUrl": "/companies-assets/URI.NYSE.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2014",
+      "endDate": "July 29, 2022",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "July 29, 2022"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jessica-graziano-887b1aa",
+      "person_name": "Jessica Graziano",
+      "company_name": "United States Steel Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 52,
   "ageYear": 2024

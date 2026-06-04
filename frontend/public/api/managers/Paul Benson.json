@@ -5,26 +5,40 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "OceanaGold Corporation",
-      "ticker": "OGC",
-      "exchange": "ASX",
-      "website": "https://oceanagold.com",
-      "title": "Chairman and Independent Non-Executive Director",
-      "startDate": "2021-05-01",
-      "endDate": null,
-      "formattedStartDate": "2021 May",
-      "formattedEndDate": ""
+      "name": "SSR Mining Inc.",
+      "ticker": "SSRM",
+      "exchange": "NASDAQ / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and Chief Executive Officer",
+      "startDate": "August 2015",
+      "endDate": "September 2020",
+      "formattedStartDate": "August 2015",
+      "formattedEndDate": "September 2020"
     },
     {
-      "name": "OceanaGold Corporation",
-      "ticker": "OGC",
-      "exchange": "TSX",
-      "website": "https://oceanagold.com",
-      "title": "Chairman and Independent Director",
-      "startDate": "2021-05-01",
-      "endDate": null,
-      "formattedStartDate": "2021 May",
-      "formattedEndDate": ""
+      "name": "Troy Resources Limited",
+      "ticker": "TRY",
+      "exchange": "ASX / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Executive Officer and Managing Director",
+      "startDate": "2007",
+      "endDate": "2014",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2014"
+    },
+    {
+      "name": "Azimuth Resources Limited",
+      "ticker": "AZH",
+      "exchange": "ASX / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Director",
+      "startDate": "Prior to 2013",
+      "endDate": "2013",
+      "formattedStartDate": "Prior to 2013",
+      "formattedEndDate": "2013"
     }
   ],
   "investmentTheses": [

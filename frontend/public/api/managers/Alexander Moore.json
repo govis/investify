@@ -2,17 +2,18 @@
   "id": "Alexander Moore",
   "name": "Alexander Moore",
   "background": "Mr. Moore has served as a member of our Board since 2020. He is a Partner at 8VC and was a co-founder of NodePrime. He was also one of the first employees at Palantir. Mr. Moore holds a B.A. in Economics from Stanford University.",
-  "pictureUrl": null,
+  "pictureUrl": "/managers-assets/Alexander Moore.jpg",
   "companies": [
     {
       "name": "Palantir Technologies Inc.",
       "ticker": "PLTR",
       "exchange": "NYSE",
       "website": "https://www.palantir.com",
+      "logoUrl": "/companies-assets/PLTR.NYSE.svg",
       "title": "Director",
-      "startDate": "2020-01-01",
+      "startDate": "July 2020",
       "endDate": null,
-      "formattedStartDate": "2020 January",
+      "formattedStartDate": "July 2020",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +21,18 @@
     "AI",
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/alexandervmoore",
+      "person_name": "Alexander Moore",
+      "company_name": "Palantir Technologies Inc.",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

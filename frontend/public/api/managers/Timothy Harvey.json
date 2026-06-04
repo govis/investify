@@ -9,17 +9,41 @@
       "ticker": "BKSY",
       "exchange": "NYSE",
       "website": "https://www.blacksky.com",
+      "logoUrl": "/companies-assets/BKSY.NYSE.svg",
       "title": "Director",
-      "startDate": "2021-09-01",
+      "startDate": "September 2021",
       "endDate": null,
-      "formattedStartDate": "2021 September",
+      "formattedStartDate": "September 2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Vertex Energy, Inc.",
+      "ticker": "VTNR",
+      "exchange": "NASDAQ",
+      "website": "https://www.vertexenergy.com/",
+      "logoUrl": "/companies-assets/VTNR.NASDAQ.svg",
+      "title": "Independent Director",
+      "startDate": "2013",
+      "endDate": "2021",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2021"
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/tim-harvey-b87b85",
+      "person_name": "Timothy Harvey",
+      "company_name": "Silversmith Capital Partners",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"

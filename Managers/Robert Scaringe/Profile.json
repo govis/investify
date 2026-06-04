@@ -6,19 +6,35 @@
   "age_year": 2024,
   "background": "Dr. Scaringe is our founder and has served as our Chief Executive Officer and a member of our Board since our founding in 2009. Dr. Scaringe holds a B.S. in Mechanical Engineering from Rensselaer Polytechnic Institute and an M.S. and Ph.D. in Mechanical Engineering from the Massachusetts Institute of Technology.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Rivian Automotive, Inc.",
       "ticker": "RIVN",
       "exchange": "NASDAQ",
-      "title_or_role": "Chairman of the Board, Chief Executive Officer",
-      "start_date": "2009-01-01",
-      "end_date": null
+      "title_or_role": "Founder, Chief Executive Officer, and Chairman of the Board",
+      "website": "https://rivian.com",
+      "start_date": "2009",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rj-scaringe-4a5b2a1",
+      "person_name": "Robert Scaringe",
+      "company_name": "Rivian Automotive, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

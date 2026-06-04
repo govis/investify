@@ -6,19 +6,55 @@
   "age_year": 2023,
   "background": "Mr. Mah has served as our Vice President, Evaluations since September 2020. He is a professional engineer with over 25 years of experience in the mining industry, including roles at Goldcorp Inc. and AMEC Americas Limited.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Gold Royalty Corp.",
       "ticker": "GROY",
-      "exchange": "NYSE",
+      "exchange": "NYSE American",
       "title_or_role": "Vice President, Evaluations",
-      "start_date": "2020-09-01",
-      "end_date": null
+      "website": "https://goldroyalty.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "GoldMining Inc.",
+      "ticker": "GLDG",
+      "exchange": "NYSE American",
+      "website": "https://www.goldmining.com",
+      "title_or_role": "Director, Engineering Studies",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Wheaton Precious Metals Corp.",
+      "ticker": "WPM",
+      "exchange": "TSX",
+      "website": "https://www.wheatonpm.com",
+      "title_or_role": "Senior Director, Project Evaluations",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/samuel-mah-130485",
+      "person_name": "Samuel Mah",
+      "company_name": "Gold Royalty Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

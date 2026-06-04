@@ -9,17 +9,29 @@
       "ticker": "ODFL",
       "exchange": "NASDAQ",
       "website": "https://www.odfl.com",
-      "title": "Senior Executive Chairman",
-      "startDate": "2018-05-01",
+      "logoUrl": "/companies-assets/ODFL.NASDAQ.png",
+      "title": "Chairman Emeritus and Senior Advisor",
+      "startDate": "1957",
       "endDate": null,
-      "formattedStartDate": "2018 May",
+      "formattedStartDate": "1957",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/earl-congdon-4a5b8a12",
+      "person_name": "Earl Congdon",
+      "company_name": "Old Dominion Freight Line, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 93,
   "ageYear": 2024

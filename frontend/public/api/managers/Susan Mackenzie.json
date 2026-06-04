@@ -6,13 +6,14 @@
   "companies": [
     {
       "name": "enCore Energy Corp.",
-      "ticker": "EU",
-      "exchange": "NASDAQ",
-      "website": "https://encoreuranium.com",
-      "title": "Independent Director",
-      "startDate": "2022-09-15",
+      "ticker": "EU / ENCU",
+      "exchange": "TSX / NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2022 September",
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
     }
   ],

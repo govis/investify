@@ -7,19 +7,31 @@
     {
       "name": "Franco-Nevada Corporation",
       "ticker": "FNV",
-      "exchange": "NYSE",
-      "website": "https://www.franco-nevada.com",
-      "title": "Chief Legal Officer and Corporate Secretary",
-      "startDate": "2012-09-01",
+      "exchange": "TSX/NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Legal Officer & Corporate Secretary",
+      "startDate": "December 2012",
       "endDate": null,
-      "formattedStartDate": "2012 September",
+      "formattedStartDate": "December 2012",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/lloyd-hong-b247a16a",
+      "person_name": "Lloyd Hong",
+      "company_name": "Franco-Nevada Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 54,
   "ageYear": 2024

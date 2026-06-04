@@ -9,17 +9,65 @@
       "ticker": "XPEV",
       "exchange": "NYSE",
       "website": "https://www.xiaopeng.com",
-      "title": "Independent Non-executive Director",
-      "startDate": "2020-08-01",
+      "logoUrl": "/companies-assets/XPEV.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2020 August",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Yatsen Holding Limited",
+      "ticker": "YSG",
+      "exchange": "NYSE",
+      "website": "https://ir.yatsenglobal.com/",
+      "logoUrl": "/companies-assets/YSG.NYSE.png",
+      "title": "Chief Financial Officer and Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Vipshop Holdings Limited",
+      "ticker": "VIPS",
+      "exchange": "NYSE",
+      "website": "https://ir.vip.com/",
+      "logoUrl": "https://companieslogo.com/img/orig/VIPS-52344738.png?t=1720244492",
+      "title": "Non-Executive Director / Independent Non-Executive Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Synutra International, Inc.",
+      "ticker": "SIIC",
+      "exchange": "NASDAQ",
+      "website": "http://www.synutra.com/",
+      "logoUrl": "https://www.gurufocus.com/images/logo/SYUT.png",
+      "title": "Chief Financial Officer",
+      "startDate": "May 2010",
+      "endDate": "August 2011",
+      "formattedStartDate": "May 2010",
+      "formattedEndDate": "August 2011"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/donghao-yang-55016a128",
+      "person_name": "Donghao Yang",
+      "company_name": "Vipshop Holdings Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"

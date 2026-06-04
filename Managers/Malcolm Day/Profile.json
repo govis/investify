@@ -6,23 +6,59 @@
   "age_year": 2024,
   "background": "Mr. Day has over 25 years of experience in the management of publicly listed companies. He is currently the Managing Director of Delecta Limited.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Critical Metals Corp.",
+      "ticker": "CRML",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "criticalmetalscorp.com",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "European Lithium Limited",
+      "ticker": "EUR",
+      "exchange": "ASX",
+      "website": "europeanlithium.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Moab Minerals Limited",
+      "ticker": "MOM",
+      "exchange": "ASX",
+      "website": "moabminerals.com.au",
+      "title_or_role": "Managing Director",
+      "start_date": "1999",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/malcolm-day-4b43288a",
+      "person_name": "Malcolm Day",
+      "company_name": "Moab Minerals Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Critical Metals Corp.",
-      "ticker": "CRML",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2024-02-27",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -6,21 +6,77 @@
   "age_year": 2024,
   "background": "Gerald Held has been a member of our Board since December 2009. He is the Chief Executive Officer of Held Consulting Group, LLC.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "NetApp, Inc.",
       "ticker": "NTAP",
       "exchange": "NASDAQ",
       "title_or_role": "Director",
-      "start_date": "2009-12-01",
-      "end_date": null
+      "website": "www.netapp.com",
+      "start_date": "December 2009",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Informatica Inc.",
+      "ticker": "INFA",
+      "exchange": "NYSE",
+      "website": "www.informatica.com",
+      "title_or_role": "Director",
+      "start_date": "Unknown",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Business Objects S.A.",
+      "ticker": "BOBJ",
+      "exchange": "NASDAQ",
+      "website": "www.sap.com",
+      "title_or_role": "Lead Independent Director",
+      "start_date": "Unknown",
+      "end_date": "2008",
+      "validated": true
+    },
+    {
+      "name": "Great Elm Group, Inc.",
+      "ticker": "GEG",
+      "exchange": "NASDAQ",
+      "website": "www.greatelmgroup.com",
+      "title_or_role": "Director",
+      "start_date": "Unknown",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Openwave Systems Inc.",
+      "ticker": "OPWV",
+      "exchange": "NASDAQ",
+      "website": "N/A",
+      "title_or_role": "Director",
+      "start_date": "1993",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jerry-held",
+      "person_name": "Gerald Held",
+      "company_name": "Held Consulting Group, LLC",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

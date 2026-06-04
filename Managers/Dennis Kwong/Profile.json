@@ -6,19 +6,55 @@
   "age_year": 2024,
   "background": "Mr. Kwong is the Vice President, Business Development. He joined Centerra in 2008 and has held various roles in corporate development and finance.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Centerra Gold Inc.",
       "ticker": "CGAU",
       "exchange": "NYSE",
-      "title_or_role": "Vice President, Business Development",
-      "start_date": "2008-01-01",
-      "end_date": null
+      "title_or_role": "Vice President, Business Development & Exploration",
+      "website": "https://www.centerragold.com",
+      "start_date": "2016",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Florida Canyon Gold Inc.",
+      "ticker": "FCGV",
+      "exchange": "TSXV",
+      "website": "https://floridacanyongold.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Thompson Creek Metals Company Inc.",
+      "ticker": "TCM",
+      "exchange": "TSX",
+      "website": "https://www.centerragold.com",
+      "title_or_role": "President",
+      "start_date": "2016",
+      "end_date": "2016",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/dennis-kwong-cpa-cfa-98095319",
+      "person_name": "Dennis Kwong",
+      "company_name": "Centerra Gold Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

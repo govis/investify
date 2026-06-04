@@ -6,19 +6,24 @@
   "age_year": 2024,
   "background": "Mr. Giamunno was appointed CFO in 2024. He has over 30 years of financial management experience, including roles at various public and private companies in the mining and energy sectors.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "United States Antimony Corporation",
+      "ticker": "UAMY",
+      "exchange": "NYSE American",
+      "title_or_role": "Director",
+      "website": "https://www.usantimony.com",
+      "start_date": "February 9, 2021",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "United States Antimony Corporation",
-      "ticker": "USAR",
-      "exchange": "NYSE",
-      "title_or_role": "Chief Financial Officer",
-      "start_date": "2024-03-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

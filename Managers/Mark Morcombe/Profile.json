@@ -6,27 +6,64 @@
   "age_year": 2024,
   "background": "Mark Morcombe has over 30 years of experience in the mining industry. He previously held senior roles at AngloGold Ashanti and Acacia Mining.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Endeavour Mining plc",
       "ticker": "EDV",
-      "exchange": "LSE",
+      "exchange": "TSX / LSE",
       "title_or_role": "Chief Operating Officer",
-      "start_date": "2019-01-01",
-      "end_date": null
+      "website": "https://www.endeavourmining.com",
+      "start_date": "2019-05-06",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Endeavour Mining plc",
       "ticker": "EDV",
       "exchange": "TSX",
       "title_or_role": "Chief Operating Officer",
+      "website": "https://www.endeavourmining.com",
       "start_date": "2019-01-01",
       "end_date": null
+    },
+    {
+      "name": "Centamin plc",
+      "ticker": "CEY",
+      "exchange": "LSE",
+      "website": "https://www.centamin.com",
+      "title_or_role": "Chief Operating Officer",
+      "start_date": "2018-01",
+      "end_date": "2019-02",
+      "validated": true
+    },
+    {
+      "name": "Acacia Mining plc",
+      "ticker": "ACA",
+      "exchange": "LSE",
+      "website": "https://www.barrick.com",
+      "title_or_role": "Chief Operating Officer",
+      "start_date": "2017-03",
+      "end_date": "2017-11",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ma.linkedin.com/in/markmorcombe",
+      "person_name": "Mark Morcombe",
+      "company_name": "Endeavour Mining plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

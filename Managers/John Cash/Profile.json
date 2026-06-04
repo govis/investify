@@ -6,19 +6,35 @@
   "age_year": 2024,
   "background": "Mr. Cash has served as Chairman of the Board since 2022 and as Chief Executive Officer and President since 2022. He previously served as Vice President of Regulatory Affairs, Exploration and Geology from 2011 to 2022. He has more than 30 years of experience in the uranium industry.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Ur-Energy Inc.",
       "ticker": "URG",
-      "exchange": "NYSE",
-      "title_or_role": "Chief Executive Officer and President, Chairman of the Board",
-      "start_date": "2022-03-01",
-      "end_date": null
+      "exchange": "NYSE American",
+      "title_or_role": "Vice President of Regulatory Affairs, Exploration and Geology",
+      "website": "https://www.ur-energy.com",
+      "start_date": "2007",
+      "end_date": "2020",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/john-cash-774b30143",
+      "person_name": "John Cash",
+      "company_name": "Ur-Energy Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

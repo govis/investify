@@ -5,21 +5,33 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Advanced Micro Devices, Inc.",
-      "ticker": "AMD",
-      "exchange": "NASDAQ",
-      "website": "https://www.amd.com",
-      "title": "Senior Vice President, General Counsel and Corporate Secretary",
-      "startDate": "2003-01-01",
-      "endDate": null,
-      "formattedStartDate": "2003 January",
-      "formattedEndDate": ""
+      "name": "Motorola, Inc. (now Motorola Solutions, Inc.)",
+      "ticker": "MSI",
+      "exchange": "NYSE",
+      "website": "https://www.motorolasolutions.com",
+      "logoUrl": "/companies-assets/MSI.NYSE.svg",
+      "title": "Vice President and Director of Legal Affairs, Semiconductor Products Sector",
+      "startDate": "1988",
+      "endDate": "2000",
+      "formattedStartDate": "1988",
+      "formattedEndDate": "2000"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/harry-wolin-90562b17",
+      "person_name": "Harry Wolin",
+      "company_name": "Advanced Micro Devices, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 61,
   "ageYear": 2024

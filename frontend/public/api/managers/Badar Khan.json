@@ -9,17 +9,53 @@
       "ticker": "EVGO",
       "exchange": "NASDAQ",
       "website": "https://www.evgo.com",
-      "title": "Chief Executive Officer",
-      "startDate": "2023-11-09",
+      "logoUrl": "/companies-assets/EVGO.NASDAQ.svg",
+      "title": "Chief Executive Officer and Director",
+      "startDate": "November 2023",
       "endDate": null,
-      "formattedStartDate": "2023 November",
+      "formattedStartDate": "November 2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "National Grid plc",
+      "ticker": "NGG",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "President, National Grid US",
+      "startDate": "2017",
+      "endDate": "2023",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Centrica plc",
+      "ticker": "CNA",
+      "exchange": "LSE",
+      "website": "https://www.centrica.com",
+      "logoUrl": "/companies-assets/CNA.LSE.svg",
+      "title": "Various Senior Executive Positions (including Divisional President)",
+      "startDate": "2003",
+      "endDate": "2017",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2017"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/badar-khan-7a5a5a1/",
+      "person_name": "Badar Khan",
+      "company_name": "EVgo",
+      "profile_status": "not_found",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 51,
   "ageYear": 2024

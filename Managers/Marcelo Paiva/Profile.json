@@ -6,6 +6,19 @@
   "age_year": 2024,
   "background": "Co-founder of A10 Capital. Extensive experience in private equity and capital markets.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Sigma Lithium Corporation",
+      "ticker": "SGML",
+      "exchange": "NASDAQ",
+      "title_or_role": "Co-Chairperson and Director",
+      "website": "https://sigmalithiumcorp.com",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -13,14 +26,6 @@
   "committees": [
     "Investment Committee"
   ],
-  "companies": [
-    {
-      "name": "Sigma Lithium Corporation",
-      "ticker": "SGML",
-      "exchange": "NASDAQ",
-      "title_or_role": "Co-Chairperson",
-      "start_date": "2018-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

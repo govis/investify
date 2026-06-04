@@ -9,17 +9,29 @@
       "ticker": "EVGO",
       "exchange": "NASDAQ",
       "website": "https://www.evgo.com",
+      "logoUrl": "/companies-assets/EVGO.NASDAQ.svg",
       "title": "Chief Financial Officer",
-      "startDate": "2019-01-01",
-      "endDate": null,
-      "formattedStartDate": "2019 January",
-      "formattedEndDate": ""
+      "startDate": "August 2018",
+      "endDate": "May 31, 2024",
+      "formattedStartDate": "August 2018",
+      "formattedEndDate": "May 31, 2024"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/olga-shevorenkova-8778721b",
+      "person_name": "Olga Shevorenkova",
+      "company_name": "EVgo",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 38,
   "ageYear": 2024

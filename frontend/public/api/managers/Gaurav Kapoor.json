@@ -2,24 +2,48 @@
   "id": "Gaurav Kapoor",
   "name": "Gaurav Kapoor",
   "background": "Gaurav Kapoor is the Chief Financial Officer of AECOM. He previously served as Chief Accounting Officer and Global Controller. Before joining AECOM in 2016, he held various senior financial roles at Ernst & Young.",
-  "pictureUrl": null,
+  "pictureUrl": "/managers-assets/Gaurav Kapoor.jpg",
   "companies": [
     {
       "name": "AECOM",
       "ticker": "ACM",
       "exchange": "NYSE",
       "website": "https://aecom.com",
-      "title": "Chief Financial Officer",
-      "startDate": "2020-10-01",
+      "logoUrl": "/companies-assets/ACM.NYSE.svg",
+      "title": "Chief Financial and Operations Officer",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2020 October",
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Comfort Systems USA, Inc.",
+      "ticker": "FIX",
+      "exchange": "NYSE",
+      "website": "https://www.comfortsystemsusa.com",
+      "logoUrl": "/companies-assets/FIX.NYSE.svg",
+      "title": "Director",
+      "startDate": "August 2024",
+      "endDate": null,
+      "formattedStartDate": "August 2024",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gaurav-kapoor-67664868",
+      "person_name": "Gaurav Kapoor",
+      "company_name": "AECOM",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 45,
   "ageYear": 2024

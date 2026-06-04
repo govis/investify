@@ -9,17 +9,41 @@
       "ticker": "NUE",
       "exchange": "NYSE",
       "website": "https://nucor.com",
-      "title": "Independent Director",
-      "startDate": "2016-10-01",
+      "logoUrl": "/companies-assets/NUE.NYSE.svg",
+      "title": "Director (Member of the Board of Directors)",
+      "startDate": "2016",
       "endDate": null,
-      "formattedStartDate": "2016 October",
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Barnes Group Inc.",
+      "ticker": "B",
+      "exchange": "NYSE",
+      "website": "https://www.onebarnes.com",
+      "logoUrl": "/companies-assets/B.NYSE.svg",
+      "title": "President and Chief Executive Officer",
+      "startDate": "2013",
+      "endDate": "2020",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2020"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/patrickjdempsey",
+      "person_name": "Patrick J. Dempsey",
+      "company_name": "Barnes Group Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation and Executive Development",
     "Governance and Nominating"

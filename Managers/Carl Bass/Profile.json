@@ -6,21 +6,67 @@
   "age_year": 2024,
   "background": "Mr. Bass has served as a member of our board of directors since December 2021. Mr. Bass served as the President and Chief Executive Officer of Autodesk, Inc. from 2006 to 2017.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Planet Labs PBC",
       "ticker": "PL",
       "exchange": "NYSE",
+      "title_or_role": "Lead Independent Director",
+      "website": "https://www.planet.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ouster, Inc.",
+      "ticker": "OUST",
+      "exchange": "NYSE",
+      "website": "https://ouster.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2021",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Zendesk, Inc.",
+      "ticker": "ZEN",
+      "exchange": "NYSE",
+      "website": "https://www.zendesk.com",
       "title_or_role": "Director",
-      "start_date": "2021-12-01",
-      "end_date": null
+      "start_date": "2018",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Autodesk, Inc.",
+      "ticker": "ADSK",
+      "exchange": "NASDAQ",
+      "website": "https://www.autodesk.com",
+      "title_or_role": "CTO / COO / Various Executive Roles",
+      "start_date": "1993",
+      "end_date": "2006",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/carl-bass-4a5a5a1",
+      "person_name": "Carl Bass",
+      "company_name": "Autodesk",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

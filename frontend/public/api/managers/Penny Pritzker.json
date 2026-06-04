@@ -9,18 +9,66 @@
       "ticker": "MSFT",
       "exchange": "NASDAQ",
       "website": "https://www.microsoft.com",
-      "title": "Independent Director",
-      "startDate": "2017-11-01",
+      "logoUrl": "/companies-assets/MSFT.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2017",
       "endDate": null,
-      "formattedStartDate": "2017 November",
+      "formattedStartDate": "2017",
       "formattedEndDate": ""
+    },
+    {
+      "name": "TransUnion",
+      "ticker": "TRU",
+      "exchange": "NYSE",
+      "website": "transunion.com",
+      "logoUrl": "/companies-assets/TRU.NYSE.svg",
+      "title": "Executive Chairman",
+      "startDate": "2012",
+      "endDate": "2013",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Hyatt Hotels Corporation",
+      "ticker": "H",
+      "exchange": "NYSE",
+      "website": "hyatt.com",
+      "logoUrl": "/companies-assets/H.NYSE.svg",
+      "title": "Director",
+      "startDate": "2009",
+      "endDate": "2013",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Wm. Wrigley Jr. Company",
+      "ticker": "WWY",
+      "exchange": "NYSE (Delisted)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "1999",
+      "endDate": "2008",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2008"
     }
   ],
   "investmentTheses": [
     "AI",
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/penny-pritzker",
+      "person_name": "Penny Pritzker",
+      "company_name": "PSP Partners",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Governance and Nominating Committee"
   ],

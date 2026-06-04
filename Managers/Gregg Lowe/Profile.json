@@ -6,20 +6,66 @@
   "age_year": 2024,
   "background": "Gregg A. Lowe joined Wolfspeed in September 2017 as President and Chief Executive Officer and a member of the Board of Directors. Prior to joining Wolfspeed, Mr. Lowe served as President and Chief Executive Officer of Freescale Semiconductor, Ltd. from 2012 until its merger with NXP Semiconductors N.V. in 2015. He previously held various executive positions at Texas Instruments Incorporated.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Wolfspeed, Inc.",
       "ticker": "WOLF",
       "exchange": "NYSE",
-      "title_or_role": "Director, President and Chief Executive Officer",
-      "start_date": "2017-09-27",
-      "end_date": null
+      "title_or_role": "President and CEO",
+      "website": "https://www.wolfspeed.com",
+      "start_date": "September 2017",
+      "end_date": "November 2024",
+      "validated": true
+    },
+    {
+      "name": "Freescale Semiconductor, Ltd.",
+      "ticker": "FSL",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "President and CEO",
+      "start_date": "June 2012",
+      "end_date": "December 2015",
+      "validated": true
+    },
+    {
+      "name": "Silicon Laboratories Inc.",
+      "ticker": "SLAB",
+      "exchange": "NASDAQ",
+      "website": "https://www.silabs.com",
+      "title_or_role": "Director",
+      "start_date": "April 2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Power Integrations, Inc.",
+      "ticker": "POWI",
+      "exchange": "NASDAQ",
+      "website": "https://www.power.com",
+      "title_or_role": "Director",
+      "start_date": "February 15, 2025",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gregg-lowe-06918814",
+      "person_name": "Gregg Lowe",
+      "company_name": "Wolfspeed",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

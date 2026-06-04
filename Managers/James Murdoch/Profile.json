@@ -6,23 +6,89 @@
   "age_year": 2024,
   "background": "James Murdoch has been a member of the Board since July 2017. He is the founder and CEO of Lupa Systems, an investment holding company, and former CEO of 21st Century Fox.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Nominating and Corporate Governance Committee (Chair)"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Tesla, Inc.",
       "ticker": "TSLA",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2017-07-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "tesla.com",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "News Corporation",
+      "ticker": "NWSA",
+      "exchange": "NASDAQ",
+      "website": "newscorp.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "21st Century Fox",
+      "ticker": "FOXA",
+      "exchange": "NASDAQ",
+      "website": "21cf.com",
+      "title_or_role": "CEO",
+      "start_date": "2015",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Sky plc (formerly BSkyB)",
+      "ticker": "SKY",
+      "exchange": "LSE",
+      "website": "sky.com",
+      "title_or_role": "Chairman",
+      "start_date": "2007",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Sotheby's",
+      "ticker": "BID",
+      "exchange": "NYSE",
+      "website": "sothebys.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "GlaxoSmithKline plc",
+      "ticker": "GSK",
+      "exchange": "LSE/NYSE",
+      "website": "gsk.com",
+      "title_or_role": "Director",
+      "start_date": "2009",
+      "end_date": "2012",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jamesrmurdoch",
+      "person_name": "James Murdoch",
+      "company_name": "Lupa Systems",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee (Chair)"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

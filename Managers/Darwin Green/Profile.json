@@ -6,21 +6,14 @@
   "age_year": 2024,
   "background": "Mr. Green is the President and CEO of HighGold Mining Inc. He has over 25 years of experience in the mining industry, specializing in exploration and project development.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Dryden Gold Corp.",
       "ticker": "DRY",
       "exchange": "TSX",
       "title_or_role": "Independent Director",
+      "website": "https://drydengold.com",
       "start_date": "2023-05-01",
       "end_date": null
     },
@@ -29,8 +22,51 @@
       "ticker": "ONYX",
       "exchange": "TSX",
       "title_or_role": "Executive Chairman",
+      "website": "https://onyxgold.com",
       "start_date": "2023-06-01",
       "end_date": null
+    },
+    {
+      "name": "HighGold Mining Inc.",
+      "ticker": "HG",
+      "exchange": "TSX.V",
+      "website": "https://highgoldmining.com/",
+      "title_or_role": "Founder, President, Chief Executive Officer, and Director",
+      "start_date": "August 2019",
+      "end_date": "July 2024",
+      "validated": true
+    },
+    {
+      "name": "Contango ORE, Inc.",
+      "ticker": "CTGO",
+      "exchange": "NYSE American",
+      "website": "https://contangoore.com/",
+      "title_or_role": "Director",
+      "start_date": "July 2024",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/darwin-green-5a8697195",
+      "person_name": "Darwin Green",
+      "company_name": "HighGold Mining Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

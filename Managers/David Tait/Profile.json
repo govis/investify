@@ -6,19 +6,55 @@
   "age_year": 2024,
   "background": "Mr. Tait is the Chief Executive Officer of the World Gold Council and serves as a Director of the Sponsor. He has extensive experience in the financial services industry, including roles at Credit Suisse and UBS.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "SPDR Gold Trust",
       "ticker": "GLD",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2018-11-01",
-      "end_date": null
+      "exchange": "NYSE Arca",
+      "title_or_role": "Director (Board of Directors of the Sponsor, World Gold Trust Services, LLC)",
+      "website": "https://www.spdrgoldshares.com",
+      "start_date": "2019-02-25",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "ticker": "CS",
+      "exchange": "NYSE / SIX Swiss Exchange",
+      "website": "https://www.credit-suisse.com",
+      "title_or_role": "Global Head of Fixed Income Macro Products / Head of Global Foreign Exchange and Short-Term Interest Rate Trading",
+      "start_date": "2013-09-01",
+      "end_date": "2018-01-01",
+      "validated": true
+    },
+    {
+      "name": "UBS Group AG",
+      "ticker": "UBS",
+      "exchange": "NYSE / SIX Swiss Exchange",
+      "website": "https://www.ubs.com",
+      "title_or_role": "Senior Trading Role",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/david-tait-7b548a2",
+      "person_name": "David Tait",
+      "company_name": "World Gold Council",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

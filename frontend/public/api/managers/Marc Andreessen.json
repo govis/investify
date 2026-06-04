@@ -9,17 +9,77 @@
       "ticker": "META",
       "exchange": "NASDAQ",
       "website": "https://about.meta.com",
-      "title": "Independent Director",
-      "startDate": "2008-06-01",
+      "logoUrl": "/companies-assets/META.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "June 2008",
       "endDate": null,
-      "formattedStartDate": "2008 June",
+      "formattedStartDate": "June 2008",
       "formattedEndDate": ""
+    },
+    {
+      "name": "eBay Inc.",
+      "ticker": "EBAY",
+      "exchange": "NASDAQ",
+      "website": "ebay.com",
+      "logoUrl": "/companies-assets/EBAY.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "September 2008",
+      "endDate": "2014",
+      "formattedStartDate": "September 2008",
+      "formattedEndDate": "2014"
+    },
+    {
+      "name": "Hewlett-Packard Company",
+      "ticker": "HPQ",
+      "exchange": "NYSE",
+      "website": "hp.com",
+      "logoUrl": "/companies-assets/HPQ.NYSE.jpg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2009",
+      "endDate": "2015",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Netscape Communications Corporation",
+      "ticker": "NSCP",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Netscape_logo.svg/1200px-Netscape_logo.svg.png",
+      "title": "Co-founder / Executive Vice President of Products",
+      "startDate": "1994",
+      "endDate": "1999",
+      "formattedStartDate": "1994",
+      "formattedEndDate": "1999"
+    },
+    {
+      "name": "Opsware Inc.",
+      "ticker": "OPSW",
+      "exchange": "NASDAQ",
+      "website": "N/A",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Opsware_logo.svg/1280px-Opsware_logo.svg.png",
+      "title": "Co-founder / Chairman / CEO",
+      "startDate": "1999",
+      "endDate": "2007",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2007"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/pmarca",
+      "person_name": "Marc Andreessen",
+      "company_name": "Andreessen Horowitz",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee"
   ],

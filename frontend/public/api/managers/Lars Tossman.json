@@ -5,14 +5,15 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Saab Aktiebolag",
-      "ticker": "SAAB",
-      "exchange": "STO",
-      "website": "https://www.saab.com",
-      "title": "Head of Business Area Aeronautics",
-      "startDate": "2023-03-01",
+      "name": "Saab Aktiebolag (Saab AB)",
+      "ticker": "SAAB-B",
+      "exchange": "STO (Nasdaq Stockholm)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Vice President and Head of Business Area Aeronautics",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2023 March",
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +21,18 @@
     "Defense",
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://se.linkedin.com/in/lars-tossman-58a47380",
+      "person_name": "Lars Tossman",
+      "company_name": "Saab",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 62,
   "ageYear": 2024

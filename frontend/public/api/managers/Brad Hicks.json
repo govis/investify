@@ -9,17 +9,29 @@
       "ticker": "JBHT",
       "exchange": "NASDAQ",
       "website": "https://www.jbhunt.com",
-      "title": "President of Highway Services",
-      "startDate": "2020-12-01",
+      "logoUrl": "https://www.jbhunt.com/content/dam/jbhunt/images/logos/jbhunt-logo.svg",
+      "title": "President of Dedicated Contract Services (Current); previously President of Highway Services, Executive Vice President of People, and EVP of Dedicated Contract Services.",
+      "startDate": "1996",
       "endDate": null,
-      "formattedStartDate": "2020 December",
+      "formattedStartDate": "1996",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/brad-hicks-7654b14",
+      "person_name": "Brad Hicks",
+      "company_name": "J.B. Hunt Transport Services, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 51,
   "ageYear": 2024

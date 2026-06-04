@@ -6,19 +6,65 @@
   "age_year": 2024,
   "background": "Brett Shirk has served as our Chief Revenue Officer since February 2020. Prior to joining Fastly, Mr. Shirk served as Executive Vice President and Chief Revenue Officer of Rubrik, Inc., a cloud data management company, from January 2019 to February 2020.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Fastly, Inc.",
       "ticker": "FSLY",
       "exchange": "NYSE",
       "title_or_role": "Chief Revenue Officer",
-      "start_date": "2020-02-01",
-      "end_date": null
+      "website": "https://www.fastly.com",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CrowdStrike Holdings, Inc.",
+      "ticker": "CRWD",
+      "exchange": "NASDAQ",
+      "website": "https://www.crowdstrike.com",
+      "title_or_role": "Chief Sales Officer",
+      "start_date": "2023",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Gen Digital Inc.",
+      "ticker": "GEN",
+      "exchange": "NASDAQ",
+      "website": "https://www.gendigital.com",
+      "title_or_role": "Executive Vice President-Worldwide Sales",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "VMware, Inc.",
+      "ticker": "VMW",
+      "exchange": "NYSE",
+      "website": "https://www.vmware.com",
+      "title_or_role": "Senior Vice President & General Manager",
+      "start_date": "2016",
+      "end_date": "2019",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/brett-shirk-1a02184",
+      "person_name": "Brett Shirk",
+      "company_name": "Fastly, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

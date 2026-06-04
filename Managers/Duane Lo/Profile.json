@@ -6,19 +6,74 @@
   "age_year": 2024,
   "background": "Mr. Lo is a senior financial executive with over 25 years of experience in the mining industry. He was previously the CFO of Entr\u00e9e Resources Ltd. and Luna Gold Corp. He is a Chartered Professional Accountant.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "G Mining Ventures Corp.",
       "ticker": "GMIN",
       "exchange": "TSX",
       "title_or_role": "Unknown Role",
+      "website": "https://www.gminingventures.com",
       "start_date": null,
       "end_date": null
+    },
+    {
+      "name": "Entr\u00e9e Resources Ltd.",
+      "ticker": "ETG",
+      "exchange": "TSX",
+      "website": "https://www.entreeresourcesltd.com/",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Avant Brands Inc.",
+      "ticker": "AVNT",
+      "exchange": "TSX",
+      "website": "https://avantbrands.ca/",
+      "title_or_role": "Independent Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ridgeline Minerals Corp.",
+      "ticker": "RDG",
+      "exchange": "TSXV",
+      "website": "https://ridgelineminerals.com/",
+      "title_or_role": "Chief Financial Officer and Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Element 29 Resources Inc.",
+      "ticker": "ECU",
+      "exchange": "TSXV",
+      "website": "https://e29copper.com/",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/duane-lo-1b845932",
+      "person_name": "Duane Lo",
+      "company_name": "Ridgeline Minerals Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

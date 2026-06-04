@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Siemens Aktiengesellschaft",
-      "ticker": "SIEGY",
-      "exchange": "OTC",
-      "website": "https://www.siemens.com",
-      "title": "Chief Financial Officer, Member of the Managing Board",
-      "startDate": "2013-09-18",
+      "name": "Siemens Aktiengesellschaft (Siemens AG)",
+      "ticker": "SIE",
+      "exchange": "Frankfurt Stock Exchange (XETRA)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Financial Officer (CFO) / Member of the Managing Board",
+      "startDate": "September 2013",
       "endDate": null,
-      "formattedStartDate": "2013 September",
+      "formattedStartDate": "September 2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Siemens Healthineers AG",
+      "ticker": "SHL",
+      "exchange": "Frankfurt Stock Exchange (XETRA)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman of the Supervisory Board",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ralf-p-thomas-5a5b5a1a",
+      "person_name": "Ralf P. Thomas",
+      "company_name": "Siemens AG",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 63,
   "ageYear": 2024

@@ -6,6 +6,49 @@
   "age_year": null,
   "background": "Mr. Hood is a chemical engineer with over 50 years' experience in the resource and manufacturing sectors. He was previously CEO of Coogee Chemicals and GR Engineering Services.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "De Grey Mining Limited",
+      "ticker": "DEG",
+      "exchange": "ASX",
+      "title_or_role": "Lead Independent Non-Executive Director",
+      "website": "https://degreymining.com.au",
+      "start_date": "19 November 2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Matrix Composites & Engineering Ltd",
+      "ticker": "MCE",
+      "exchange": "ASX",
+      "website": "https://matrixengineered.com",
+      "title_or_role": "Non-Executive Chairman",
+      "start_date": "Prior to 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "GR Engineering Services Ltd",
+      "ticker": "GNG",
+      "exchange": "ASX",
+      "website": "https://www.gres.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "Prior to 2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cue Energy Resources Limited",
+      "ticker": "CUE",
+      "exchange": "ASX",
+      "website": "https://www.cuenrg.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "Prior to 2018",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +57,6 @@
     "Audit and Risk Committee (Chair)",
     "Remuneration and Nomination Committee"
   ],
-  "companies": [
-    {
-      "name": "De Grey Mining Limited",
-      "ticker": "DEG",
-      "exchange": "ASX",
-      "title_or_role": "Non-Executive Director",
-      "start_date": "2018-11-19",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

@@ -7,19 +7,31 @@
     {
       "name": "Perseus Mining Limited",
       "ticker": "PRU",
-      "exchange": "ASX",
-      "website": "https://perseusmining.com/",
-      "title": "Non-Executive Director",
-      "startDate": "2021-11-01",
+      "exchange": "ASX / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Non-Executive Director",
+      "startDate": "November 2020",
       "endDate": null,
-      "formattedStartDate": "2021 November",
+      "formattedStartDate": "November 2020",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/elissa-brown-cornelius-a5a5a5a5",
+      "person_name": "Elissa Brown",
+      "company_name": "Perseus Mining Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit and Risk Committee (Chair)",
     "Remuneration Committee"

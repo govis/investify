@@ -9,28 +9,53 @@
       "ticker": "EDV",
       "exchange": "LSE",
       "website": "https://www.endeavourmining.com",
+      "logoUrl": "/companies-assets/EDV.LSE.svg",
       "title": "Chief Financial Officer",
-      "startDate": "2023-03-01",
+      "startDate": "2023-03",
       "endDate": null,
-      "formattedStartDate": "2023 March",
+      "formattedStartDate": "March 2023",
       "formattedEndDate": ""
     },
     {
-      "name": "Endeavour Mining plc",
-      "ticker": "EDV",
-      "exchange": "TSX",
-      "website": "https://www.endeavourmining.com",
-      "title": "Chief Financial Officer",
-      "startDate": "2023-03-01",
-      "endDate": null,
-      "formattedStartDate": "2023 March",
-      "formattedEndDate": ""
+      "name": "Vesuvius plc",
+      "ticker": "VSVS",
+      "exchange": "LSE",
+      "website": "https://www.vesuvius.com",
+      "logoUrl": "/companies-assets/VSVS.LSE.png",
+      "title": "Director and Chief Financial Officer",
+      "startDate": "2015",
+      "endDate": "2023",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Anglo American plc",
+      "ticker": "AAL",
+      "exchange": "LSE",
+      "website": "https://www.angloamerican.com",
+      "logoUrl": "/companies-assets/AAL.LSE.svg",
+      "title": "Finance and Business Development roles",
+      "startDate": "1997",
+      "endDate": "2010",
+      "formattedStartDate": "1997",
+      "formattedEndDate": "2010"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/guy-young-08670912",
+      "person_name": "Guy Young",
+      "company_name": "Endeavour Mining plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 54,
   "ageYear": 2024

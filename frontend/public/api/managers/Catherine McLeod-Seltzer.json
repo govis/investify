@@ -6,13 +6,38 @@
   "companies": [
     {
       "name": "Kinross Gold Corporation",
-      "ticker": "KGC",
-      "exchange": "NYSE",
-      "website": "https://www.kinross.com",
-      "title": "Chair of the Board, Director",
-      "startDate": "2019-01-01",
+      "ticker": "K",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Chair of the Board / Director",
+      "startDate": "2005",
       "endDate": null,
-      "formattedStartDate": "2019 January",
+      "formattedStartDate": "2005",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Bear Creek Mining Corporation",
+      "ticker": "BCM",
+      "exchange": "TSXV",
+      "website": "bearcreekmining.com",
+      "logoUrl": "/companies-assets/BCM.TSXV.svg",
+      "title": "Chair of the Board / Director",
+      "startDate": "2003",
+      "endDate": null,
+      "formattedStartDate": "2003",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Teck Resources Limited",
+      "ticker": "TECK",
+      "exchange": "NYSE / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "April 2025",
+      "endDate": null,
+      "formattedStartDate": "April 2025",
       "formattedEndDate": ""
     }
   ],

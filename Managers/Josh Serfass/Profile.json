@@ -6,23 +6,48 @@
   "age_year": 2024,
   "background": "Mr. Serfass is the Executive Vice President, Corporate Development and Investor Relations at Integra Resources Corp. He has extensive experience in capital markets and corporate strategy.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Lahontan Gold Corp.",
       "ticker": "LG",
       "exchange": "TSX",
       "title_or_role": "Director",
+      "website": "https://lahontangoldcorp.com/",
       "start_date": "2022-04-06",
       "end_date": null
+    },
+    {
+      "name": "Canterra Minerals Corp.",
+      "ticker": "CTM",
+      "exchange": "TSXV",
+      "website": "https://canterraminerals.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/joshua-serfass-8697b76",
+      "person_name": "Josh Serfass",
+      "company_name": "Integra Resources Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -6,6 +6,49 @@
   "age_year": 2024,
   "background": "Mr. Dushnisky was the CEO of AngloGold Ashanti Ltd. and President of Barrick Gold Corporation.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lithium Americas Corp.",
+      "ticker": "LAC",
+      "exchange": "TSX/NYSE",
+      "title_or_role": "Director",
+      "website": "https://lithiumamericas.com",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "B2Gold Corp.",
+      "ticker": "BTO",
+      "exchange": "TSX/NYSE",
+      "website": "https://www.b2gold.com",
+      "title_or_role": "Chair of the Board",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "AngloGold Ashanti Ltd.",
+      "ticker": "AU",
+      "exchange": "NYSE",
+      "website": "https://www.anglogoldashanti.com",
+      "title_or_role": "CEO and Director",
+      "start_date": "2018",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Barrick Gold Corporation",
+      "ticker": "GOLD",
+      "exchange": "TSX/NYSE",
+      "website": "https://www.barrick.com",
+      "title_or_role": "President and Director",
+      "start_date": "2002",
+      "end_date": "2018",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
@@ -14,14 +57,6 @@
   "committees": [
     "Compensation and Leadership Development Committee (Chair)"
   ],
-  "companies": [
-    {
-      "name": "Lithium Americas Corp.",
-      "ticker": "LAC",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2023-10-04",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

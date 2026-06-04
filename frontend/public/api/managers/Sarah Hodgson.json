@@ -9,17 +9,29 @@
       "ticker": "ILU",
       "exchange": "ASX",
       "website": "https://www.iluka.com",
+      "logoUrl": "/companies-assets/ILU.ASX.svg",
       "title": "Head of People and Sustainability",
-      "startDate": "2022-01-01",
+      "startDate": "Unknown",
       "endDate": null,
-      "formattedStartDate": "2022 January",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/sarah-hodgson-67b47823",
+      "person_name": "Sarah Hodgson",
+      "company_name": "Iluka Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": null,
   "ageYear": null

@@ -5,15 +5,28 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Alamos Gold Inc.",
-      "ticker": "AGI",
-      "exchange": "NYSE",
-      "website": "https://www.alamosgold.com",
+      "name": "Constellation Software Inc.",
+      "ticker": "CSU",
+      "exchange": "TSX",
+      "website": "https://www.csisoftware.com",
+      "logoUrl": "/companies-assets/CSU.TSX.svg",
       "title": "Director",
-      "startDate": "2021-01-01",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2021 January",
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Neo Performance Materials Inc.",
+      "ticker": "NEO",
+      "exchange": "TSX",
+      "website": "https://www.neomaterials.com",
+      "logoUrl": "/companies-assets/NEO.TSX.png",
+      "title": "Director / Chair of the Board",
+      "startDate": "2017",
+      "endDate": "2025",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2025"
     }
   ],
   "investmentTheses": [

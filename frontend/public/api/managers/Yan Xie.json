@@ -9,17 +9,29 @@
       "ticker": "LI",
       "exchange": "NASDAQ",
       "website": "https://www.lixiang.com",
+      "logoUrl": "/companies-assets/LI.NASDAQ.svg",
       "title": "Chief Technology Officer",
-      "startDate": "2022-12-01",
+      "startDate": "Not publicly disclosed",
       "endDate": null,
-      "formattedStartDate": "2022 December",
+      "formattedStartDate": "Not publicly disclosed",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/yan-xie-36104b14",
+      "person_name": "Yan Xie",
+      "company_name": "Li Auto Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 44,
   "ageYear": 2024

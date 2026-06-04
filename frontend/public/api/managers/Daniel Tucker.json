@@ -9,11 +9,24 @@
       "ticker": "SO",
       "exchange": "NYSE",
       "website": "https://www.southerncompany.com",
-      "title": "Executive Vice President and Chief Financial Officer",
-      "startDate": "2021-09-01",
-      "endDate": null,
-      "formattedStartDate": "2021 September",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/SO.NYSE.svg",
+      "title": "Executive Vice President, Chief Financial Officer, and Treasurer",
+      "startDate": "2021",
+      "endDate": "2024",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Georgia Power",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Vice President, CFO, and Treasurer; Member of the Board of Directors",
+      "startDate": "Prior to 2021",
+      "endDate": "2021",
+      "formattedStartDate": "Prior to 2021",
+      "formattedEndDate": "2021"
     }
   ],
   "investmentTheses": [

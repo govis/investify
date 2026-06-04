@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Rio Tinto Group",
-      "ticker": "RIO",
-      "exchange": "NYSE",
-      "website": "https://www.riotinto.com",
-      "title": "Chief Commercial Officer",
-      "startDate": "2024-09-01",
+      "name": "SouthGobi Resources Ltd.",
+      "ticker": "SGQ",
+      "exchange": "TSX",
+      "website": "https://www.southgobi.com",
+      "logoUrl": "https://www.southgobi.com/images/logo.png",
+      "title": "Non-Executive Director",
+      "startDate": "2013-09-03",
+      "endDate": "2015-05-15",
+      "formattedStartDate": "September 2013",
+      "formattedEndDate": "May 2015"
+    },
+    {
+      "name": "Aspire Mining Limited",
+      "ticker": "AKM",
+      "exchange": "ASX",
+      "website": "https://aspirelimited.com/",
+      "logoUrl": "/companies-assets/AKM.ASX.png",
+      "title": "Non-Executive Director",
+      "startDate": "2013-09-01",
       "endDate": null,
-      "formattedStartDate": "2024 September",
+      "formattedStartDate": "September 2013",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://sg.linkedin.com/in/bold-baatar",
+      "person_name": "Bold Baatar",
+      "company_name": "Rio Tinto Group",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 50,
   "ageYear": 2023

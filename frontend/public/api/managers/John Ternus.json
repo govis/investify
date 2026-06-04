@@ -2,17 +2,18 @@
   "id": "John Ternus",
   "name": "John Ternus",
   "background": "John Ternus is Apple’s senior vice president of Hardware Engineering, reporting to CEO Tim Cook. John leads all hardware engineering, including the teams behind iPhone, iPad, Mac, AirPods, and more.",
-  "pictureUrl": "https://beebom.com/wp-content/uploads/2024/05/John-Ternus-Apple.png?w=934&quality=75",
+  "pictureUrl": "/managers-assets/John Ternus.jpg",
   "companies": [
     {
       "name": "Apple Inc.",
       "ticker": "AAPL",
       "exchange": "NASDAQ",
       "website": "https://www.apple.com",
-      "title": "Senior Vice President, Hardware Engineering",
-      "startDate": "2021-04-01",
+      "logoUrl": "/companies-assets/AAPL.NASDAQ.svg",
+      "title": "Senior Vice President of Hardware Engineering",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2021 April",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
     }
   ],
@@ -22,7 +23,13 @@
   "socials": [
     {
       "name": "LinkedIn",
-      "url": "https://www.linkedin.com/in/john-ternus-2392b76"
+      "url": "https://www.linkedin.com/in/john-ternus-2392b76",
+      "person_name": "John Ternus",
+      "company_name": "Apple Inc.",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": "https://www.apple.com/leadership/images/bio/john_ternus_image.png",
+      "profile_status": "private"
     }
   ],
   "committees": [],

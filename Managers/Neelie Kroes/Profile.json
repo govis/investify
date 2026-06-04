@@ -6,6 +6,19 @@
   "age_year": 2024,
   "background": "Former Vice President of the European Commission. She has served as a Director since 2016.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Salesforce, Inc.",
+      "ticker": "CRM",
+      "exchange": "NYSE",
+      "title_or_role": "Director (Board of Directors)",
+      "website": "https://www.salesforce.com",
+      "start_date": "May 2016",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -13,14 +26,6 @@
   "committees": [
     "Privacy and Ethical Use Advisory Council"
   ],
-  "companies": [
-    {
-      "name": "Salesforce, Inc.",
-      "ticker": "CRM",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2016-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

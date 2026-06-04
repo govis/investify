@@ -9,10 +9,11 @@
       "ticker": "QS",
       "exchange": "NYSE",
       "website": "https://www.quantumscape.com",
-      "title": "Chief Legal Officer",
-      "startDate": "2013-01-01",
+      "logoUrl": "/companies-assets/QS.NYSE.png",
+      "title": "Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2013 January",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
     },
     {
@@ -20,10 +21,11 @@
       "ticker": "UNP",
       "exchange": "NYSE",
       "website": "https://www.up.com",
-      "title": "Independent Lead Director",
-      "startDate": "2008-01-01",
+      "logoUrl": "/companies-assets/UNP.NYSE.svg",
+      "title": "Director (Independent Chairperson)",
+      "startDate": "2008",
       "endDate": null,
-      "formattedStartDate": "2008 January",
+      "formattedStartDate": "2008",
       "formattedEndDate": ""
     }
   ],

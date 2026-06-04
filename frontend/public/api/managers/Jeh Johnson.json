@@ -9,17 +9,65 @@
       "ticker": "LMT",
       "exchange": "NYSE",
       "website": "https://www.lockheedmartin.com",
-      "title": "Independent Director",
+      "logoUrl": "/companies-assets/LMT.NYSE.svg",
+      "title": "Director",
       "startDate": "2018-01-01",
       "endDate": null,
-      "formattedStartDate": "2018 January",
+      "formattedStartDate": "January 2018",
       "formattedEndDate": ""
+    },
+    {
+      "name": "MetLife, Inc.",
+      "ticker": "MET",
+      "exchange": "NYSE",
+      "website": "https://www.metlife.com",
+      "logoUrl": "/companies-assets/MET.NYSE.svg",
+      "title": "Director",
+      "startDate": "2023-03-01",
+      "endDate": null,
+      "formattedStartDate": "March 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "United States Steel Corporation",
+      "ticker": "X",
+      "exchange": "NYSE",
+      "website": "https://www.ussteel.com",
+      "logoUrl": "/companies-assets/X.NYSE.svg",
+      "title": "Director",
+      "startDate": "2020-04-28",
+      "endDate": "2025-01-07",
+      "formattedStartDate": "April 2020",
+      "formattedEndDate": "January 2025"
+    },
+    {
+      "name": "PG&E Corporation",
+      "ticker": "PCG",
+      "exchange": "NYSE",
+      "website": "https://www.pgecorp.com",
+      "logoUrl": "/companies-assets/PCG.NYSE.svg",
+      "title": "Director",
+      "startDate": "2017-05-31",
+      "endDate": "2018-03-01",
+      "formattedStartDate": "May 2017",
+      "formattedEndDate": "March 2018"
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jeh-johnson-5a5b5a12",
+      "person_name": "Jeh Johnson",
+      "company_name": "Paul, Weiss, Rifkind, Wharton & Garrison LLP",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Classified Business and Security Committee",
     "Ethics and Sustainability Committee"

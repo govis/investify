@@ -6,22 +6,39 @@
   "age_year": 2024,
   "background": "Mr. More has served as a director since 2006. He is a Venture Partner at Menlo Ventures and was the founder and CEO of CompuCom Systems.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Nominating and Corporate Governance Committee"
-  ],
-  "companies": [
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
     {
       "name": "SolarEdge Technologies, Inc.",
       "ticker": "SEDG",
       "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "start_date": "2006-09-01",
-      "end_date": null
+      "title_or_role": "Chairman of the Board of Directors (previously Director)",
+      "website": "https://www.solaredge.com",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/avery-more-08618",
+      "person_name": "Avery More",
+      "company_name": "SolarEdge Technologies, Inc.",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 0
 }

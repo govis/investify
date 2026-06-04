@@ -9,11 +9,24 @@
       "ticker": "AAPL",
       "exchange": "NASDAQ",
       "website": "https://www.apple.com",
+      "logoUrl": "/companies-assets/AAPL.NASDAQ.svg",
       "title": "Senior Vice President, Software Engineering",
-      "startDate": "2012-08-27",
+      "startDate": "2009",
       "endDate": null,
-      "formattedStartDate": "2012 August",
+      "formattedStartDate": "2009",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Ariba, Inc.",
+      "ticker": "ARBA",
+      "exchange": "NASDAQ",
+      "website": "ariba.com",
+      "logoUrl": "/companies-assets/ARBA.NASDAQ.svg",
+      "title": "Chief Technology Officer / Vice President, Internet Services",
+      "startDate": "1999",
+      "endDate": "2009",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2009"
     }
   ],
   "investmentTheses": [

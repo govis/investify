@@ -5,21 +5,69 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Caterpillar Inc.",
-      "ticker": "CAT",
+      "name": "Otis Worldwide Corporation",
+      "ticker": "OTIS",
       "exchange": "NYSE",
-      "website": "https://www.caterpillar.com",
-      "title": "Independent Director",
-      "startDate": "2023-01-01",
+      "website": "https://www.otis.com",
+      "logoUrl": "/companies-assets/OTIS.NYSE.svg",
+      "title": "Chair, Chief Executive Officer and President",
+      "startDate": "2017",
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "2017",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Siemens AG",
+      "ticker": "SIEGY",
+      "exchange": "OTC",
+      "website": "https://www.siemens.com",
+      "logoUrl": "/companies-assets/SIEGY.OTC.svg",
+      "title": "CEO of Siemens USA and Dresser-Rand",
+      "startDate": "2011",
+      "endDate": "2017",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Lockheed Martin Corporation",
+      "ticker": "LMT",
+      "exchange": "NYSE",
+      "website": "https://www.lockheedmartin.com",
+      "logoUrl": "/companies-assets/LMT.NYSE.svg",
+      "title": "Senior Leadership Roles (including Vice President)",
+      "startDate": "1994",
+      "endDate": "2011",
+      "formattedStartDate": "1994",
+      "formattedEndDate": "2011"
+    },
+    {
+      "name": "International Business Machines Corporation (IBM)",
+      "ticker": "IBM",
+      "exchange": "NYSE",
+      "website": "https://www.ibm.com",
+      "logoUrl": "/companies-assets/IBM.NYSE.svg",
+      "title": "Various roles (IBM Federal Systems Company)",
+      "startDate": "1984",
+      "endDate": "1994",
+      "formattedStartDate": "1984",
+      "formattedEndDate": "1994"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/judy-marks-5a5a5a1",
+      "person_name": "Judith Marks",
+      "company_name": "Otis Worldwide Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Public Policy and Sustainability Committee"
   ],

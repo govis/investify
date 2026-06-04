@@ -6,19 +6,45 @@
   "age_year": 2024,
   "background": "Tom is President and CEO of BAE Systems, Inc. and an Executive Director of BAE Systems plc. He has held various senior leadership positions within the US business.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "BAE Systems plc",
+      "ticker": "BA.L",
+      "exchange": "LSE (London Stock Exchange)",
+      "title_or_role": "Executive Director (Board of Directors)",
+      "website": "https://www.baesystems.com",
+      "start_date": "April 1, 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "BAE Systems, Inc.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "https://www.baesystems.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "April 1, 2020",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "socials": [
     {
-      "name": "BAE Systems plc",
-      "ticker": "BA",
-      "exchange": "LSE",
-      "title_or_role": "President and CEO, BAE Systems, Inc.",
-      "start_date": "2020-04-01",
-      "end_date": null
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/thomasarseneault",
+      "person_name": "Tom Arseneault",
+      "company_name": "BAE Systems, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
-  ]
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

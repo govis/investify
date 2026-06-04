@@ -9,18 +9,30 @@
       "ticker": "FSLR",
       "exchange": "NASDAQ",
       "website": "https://www.firstsolar.com",
-      "title": "Chairman of the Board",
-      "startDate": "2000-01-01",
-      "endDate": null,
-      "formattedStartDate": "2000 January",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/FSLR.NASDAQ.svg",
+      "title": "Non-Executive Chairman",
+      "startDate": "2012",
+      "endDate": "2021",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2021"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michaeltahearn",
+      "person_name": "Michael Ahearn",
+      "company_name": "First Solar, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 67,
   "ageYear": 2024

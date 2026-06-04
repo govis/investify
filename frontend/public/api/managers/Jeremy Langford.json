@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Artemis Gold Inc.",
-      "ticker": "ARTG",
+      "name": "Montage Gold Corp.",
+      "ticker": "MAU",
       "exchange": "TSX",
-      "website": "https://www.artemisgoldinc.com",
-      "title": "President and Chief Operating Officer",
-      "startDate": "2022-09-01",
+      "website": "https://www.montagegold.com/",
+      "logoUrl": "/companies-assets/MAU.TSX.svg",
+      "title": "Independent Director",
+      "startDate": "2025-07-07",
       "endDate": null,
-      "formattedStartDate": "2022 September",
+      "formattedStartDate": "July 2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Oceanic Iron Ore Corp.",
+      "ticker": "FEO",
+      "exchange": "TSXV",
+      "website": "https://oceanicironore.com/",
+      "logoUrl": "/companies-assets/FEO.TSXV.jpg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jeremy-r-langford",
+      "person_name": "Jeremy Langford",
+      "company_name": "Artemis Gold Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 53,
   "ageYear": 2024

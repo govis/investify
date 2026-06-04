@@ -6,14 +6,27 @@
   "companies": [
     {
       "name": "Sibanye Stillwater Limited",
-      "ticker": "SBSW",
-      "exchange": "NYSE",
-      "website": "https://www.sibanyestillwater.com",
-      "title": "Chief Financial Officer",
-      "startDate": "2013-01-01",
+      "ticker": "SSW (JSE), SBSW (NYSE)",
+      "exchange": "Johannesburg Stock Exchange (JSE), New York Stock Exchange (NYSE)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Financial Officer / Executive Director",
+      "startDate": "2012",
       "endDate": null,
-      "formattedStartDate": "2013 January",
+      "formattedStartDate": "2012",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Gold Fields Limited",
+      "ticker": "GFI (JSE), GFI (NYSE)",
+      "exchange": "Johannesburg Stock Exchange (JSE), New York Stock Exchange (NYSE)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice President and Group Head of International Finance",
+      "startDate": null,
+      "endDate": "2012",
+      "formattedStartDate": "",
+      "formattedEndDate": "2012"
     }
   ],
   "investmentTheses": [

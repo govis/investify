@@ -9,17 +9,41 @@
       "ticker": "LAM",
       "exchange": "TSX",
       "website": "https://laramide.com",
-      "title": "Chairman and Independent Director",
-      "startDate": "2011-01-01",
+      "logoUrl": "/companies-assets/LAM.TSX.svg",
+      "title": "Non-Executive Chairman / Director",
+      "startDate": "Not specified",
       "endDate": null,
-      "formattedStartDate": "2011 January",
+      "formattedStartDate": "Not specified",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Midpoint Holdings Ltd.",
+      "ticker": "MPT",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Midpoint_logo.png/220px-Midpoint_logo.png",
+      "title": "Co-founder, CEO, Chairman",
+      "startDate": "Not specified",
+      "endDate": "2017",
+      "formattedStartDate": "Not specified",
+      "formattedEndDate": "2017"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jwbooth",
+      "person_name": "John Booth",
+      "company_name": "Laramide Resources Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"

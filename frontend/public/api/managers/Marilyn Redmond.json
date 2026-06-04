@@ -3,19 +3,7 @@
   "name": "Marilyn Redmond",
   "background": "Ms. Redmond is a corporate director and was previously the Senior Vice President, Corporate Development at Goldcorp Inc.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "Wheaton Precious Metals Corp.",
-      "ticker": "WPM",
-      "exchange": "NYSE",
-      "website": "https://www.wheatonpm.com",
-      "title": "Independent Director",
-      "startDate": "2019-05-01",
-      "endDate": null,
-      "formattedStartDate": "2019 May",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "Gold"
   ],

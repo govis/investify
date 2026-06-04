@@ -6,20 +6,14 @@
   "age_year": 2024,
   "background": "Mr. Walsh is a Chartered Professional Accountant with extensive experience in the mining industry, including serving as President and CEO of Miramar Mining Corporation.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Dundee Precious Metals Inc.",
       "ticker": "DPM",
       "exchange": "TSX",
       "title_or_role": "Independent Director",
+      "website": "https://www.dundeeprecious.com",
       "start_date": "2011-01-01",
       "end_date": null
     },
@@ -28,8 +22,52 @@
       "ticker": "NG",
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
+      "website": "https://www.novagold.com",
       "start_date": "2011-01-01",
       "end_date": null
+    },
+    {
+      "name": "Sabina Gold & Silver Corp.",
+      "ticker": "SBB",
+      "exchange": "TSX",
+      "website": "https://www.sabinagoldsilver.com/",
+      "title_or_role": "President and CEO",
+      "start_date": "2008",
+      "end_date": "2011",
+      "validated": true
+    },
+    {
+      "name": "Triple Flag Precious Metals Corp.",
+      "ticker": "TFPM",
+      "exchange": "TSX, NYSE",
+      "website": "https://www.tripleflagpm.com/",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/anthony-walsh-6a4a151b",
+      "person_name": "Anthony Walsh",
+      "company_name": "Dundee Precious Metals Inc.",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1,
+      "profile_status": "private"
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 1
 }

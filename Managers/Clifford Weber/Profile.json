@@ -6,6 +6,47 @@
   "age_year": 2024,
   "background": "Independent Trustee. CEO of New York Digital Assets Group. Former Executive Vice President at the American Stock Exchange.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Global X Lithium & Battery Tech ETF",
+      "ticker": "LIT",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Trustee",
+      "website": "https://www.globalxetfs.com/funds/lit/",
+      "start_date": "2008-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Global X Uranium ETF",
+      "ticker": "URA",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Trustee",
+      "website": "https://www.globalxetfs.com/funds/ura/",
+      "start_date": "2008-01-01",
+      "end_date": null
+    },
+    {
+      "name": "PCSB Financial Corporation",
+      "ticker": "PCSB",
+      "exchange": "NASDAQ",
+      "website": "https://www.pcsb.com",
+      "title_or_role": "General Counsel",
+      "start_date": "2016",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Clough Global Equity Fund",
+      "ticker": "GLQ",
+      "exchange": "NYSE",
+      "website": "https://www.cloughcapital.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
@@ -15,22 +56,6 @@
     "Audit Committee",
     "Nominating and Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Global X Lithium & Battery Tech ETF",
-      "ticker": "LIT",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Trustee",
-      "start_date": "2008-01-01",
-      "end_date": null
-    },
-    {
-      "name": "Global X Uranium ETF",
-      "ticker": "URA",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Trustee",
-      "start_date": "2008-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

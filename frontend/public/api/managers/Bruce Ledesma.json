@@ -9,17 +9,41 @@
       "ticker": "NXT",
       "exchange": "NASDAQ",
       "website": "https://www.nextracker.com",
-      "title": "President, Strategy and General Counsel",
-      "startDate": "2022-01-01",
+      "logoUrl": "/companies-assets/NXT.NASDAQ.svg",
+      "title": "President, Strategy, Software & Administration",
+      "startDate": "May 2019",
       "endDate": null,
-      "formattedStartDate": "2022 January",
+      "formattedStartDate": "May 2019",
       "formattedEndDate": ""
+    },
+    {
+      "name": "SunPower Corporation",
+      "ticker": "SPWR",
+      "exchange": "NASDAQ",
+      "website": "https://us.sunpower.com",
+      "logoUrl": "/companies-assets/SPWR.NASDAQ.svg",
+      "title": "Executive Vice President and General Counsel",
+      "startDate": "2007",
+      "endDate": "2012",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2012"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bruce-ledesma-24324a",
+      "person_name": "Bruce Ledesma",
+      "company_name": "Nextracker",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 57,
   "ageYear": 2024

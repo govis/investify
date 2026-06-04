@@ -6,6 +6,29 @@
   "age_year": 2024,
   "background": "Mr. Gill has over 35 years of experience in the mining and construction industries. He has held senior executive positions with major international mining companies and has extensive experience in project management.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Fortune Bay Corp.",
+      "ticker": "FOR",
+      "exchange": "TSXV",
+      "title_or_role": "Independent Director",
+      "website": "https://fortunebaycorp.com",
+      "start_date": "2016-05-12",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Crosshair Energy Corporation",
+      "ticker": "CXZ",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2008-05",
+      "end_date": "2013-08-29",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold",
     "Nuclear"
@@ -15,14 +38,6 @@
     "Audit Committee (Chair)",
     "Corporate Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "Fortune Bay Corp.",
-      "ticker": "FOR",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2016-02-04",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

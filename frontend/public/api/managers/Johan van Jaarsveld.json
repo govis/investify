@@ -7,19 +7,43 @@
     {
       "name": "BHP Group Limited",
       "ticker": "BHP",
-      "exchange": "NYSE",
-      "website": "https://www.bhp.com",
-      "title": "Chief Technical Officer",
-      "startDate": "2024-09-01",
-      "endDate": null,
-      "formattedStartDate": "2024 September",
-      "formattedEndDate": ""
+      "exchange": "ASX / NYSE / LSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Development Officer",
+      "startDate": "September 2020",
+      "endDate": "April 2024",
+      "formattedStartDate": "September 2020",
+      "formattedEndDate": "April 2024"
+    },
+    {
+      "name": "Barrick Gold Corporation",
+      "ticker": "GOLD",
+      "exchange": "NYSE / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Vice President, Strategic Business Development",
+      "startDate": "2015",
+      "endDate": "2016",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2016"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/johanvj",
+      "person_name": "Johan van Jaarsveld",
+      "company_name": "BHP Group Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 53,
   "ageYear": 2024

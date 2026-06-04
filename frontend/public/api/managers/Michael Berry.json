@@ -9,17 +9,125 @@
       "ticker": "NTAP",
       "exchange": "NASDAQ",
       "website": "https://www.netapp.com",
-      "title": "Executive Vice President and Chief Financial Officer",
-      "startDate": "2020-03-01",
+      "logoUrl": "/companies-assets/NTAP.NASDAQ.svg",
+      "title": "Executive Vice President & CFO",
+      "startDate": "2020",
+      "endDate": "2025",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "MongoDB, Inc.",
+      "ticker": "MDB",
+      "exchange": "NASDAQ",
+      "website": "https://www.mongodb.com",
+      "logoUrl": "/companies-assets/MDB.NASDAQ.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2025",
       "endDate": null,
-      "formattedStartDate": "2020 March",
+      "formattedStartDate": "2025",
       "formattedEndDate": ""
+    },
+    {
+      "name": "McAfee Corp.",
+      "ticker": "MCFE",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Vice President & CFO",
+      "startDate": "2017",
+      "endDate": "2020",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "FireEye, Inc.",
+      "ticker": "FEYE",
+      "exchange": "NASDAQ",
+      "website": "https://www.trellix.com",
+      "logoUrl": "/companies-assets/FEYE.NASDAQ.png",
+      "title": "EVP, CFO & COO",
+      "startDate": "2015",
+      "endDate": "2017",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Informatica Inc.",
+      "ticker": "INFA",
+      "exchange": "NYSE",
+      "website": "https://www.informatica.com",
+      "logoUrl": "/companies-assets/INFA.NYSE.svg",
+      "title": "Executive Vice President & CFO",
+      "startDate": "2014",
+      "endDate": "2015",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "IO Data Centers",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Financial Officer",
+      "startDate": "2013",
+      "endDate": "2014",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2014"
+    },
+    {
+      "name": "SolarWinds, Inc.",
+      "ticker": "SWI",
+      "exchange": "NYSE",
+      "website": "https://www.solarwinds.com",
+      "logoUrl": "/companies-assets/SWI.NYSE.svg",
+      "title": "SVP & Chief Financial Officer",
+      "startDate": "2010",
+      "endDate": "2013",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Rapid7, Inc.",
+      "ticker": "RPD",
+      "exchange": "NASDAQ",
+      "website": "https://www.rapid7.com",
+      "logoUrl": "/companies-assets/RPD.NASDAQ.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2012",
+      "endDate": null,
+      "formattedStartDate": "2012",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "i2 Technologies, Inc.",
+      "ticker": "ITWO",
+      "exchange": "NASDAQ",
+      "website": "https://www.jabil.com",
+      "logoUrl": "/companies-assets/ITWO.NASDAQ.svg",
+      "title": "Executive Vice President & CFO",
+      "startDate": "2005",
+      "endDate": "2010",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2010"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mike-berry-59b7961",
+      "person_name": "Michael Berry",
+      "company_name": "NetApp, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 60,
   "ageYear": 2024

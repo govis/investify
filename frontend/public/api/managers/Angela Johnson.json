@@ -9,17 +9,54 @@
       "ticker": "FDY",
       "exchange": "TSX",
       "website": "https://faradaycopper.com",
-      "title": "Vice President, Corporate Development and Sustainability",
-      "startDate": "2022-08-01",
+      "logoUrl": "/companies-assets/FDY.TSX.png",
+      "title": "VP, Corporate Development and Sustainability",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2022 August",
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Gold Royalty Corp.",
+      "ticker": "GROY",
+      "exchange": "NYSE",
+      "website": "https://www.goldroyalty.com",
+      "logoUrl": "/companies-assets/GROY.NYSE.png",
+      "title": "Independent Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Endeavour Silver Corp.",
+      "ticker": "EDR",
+      "exchange": "TSX",
+      "website": "https://edrsilver.com/",
+      "logoUrl": "/companies-assets/EDR.TSX.svg",
+      "title": "Independent Director",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/angela-johnson-mba-m-sc-p-geo-52065355/",
+      "person_name": "Angela Johnson",
+      "company_name": "Faraday Copper Corp.",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1,
+      "profile_status": "private"
+    }
+  ],
   "committees": [],
   "age": 39,
   "ageYear": 2024

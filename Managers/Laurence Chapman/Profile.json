@@ -6,21 +6,37 @@
   "age_year": 2024,
   "background": "Former Chief Financial Officer of Goodrich Corporation.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Digital Realty Trust, Inc.",
       "ticker": "DLR",
       "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2004-10-01",
-      "end_date": null
+      "title_or_role": "Director (also served as Chairman of the Board)",
+      "website": "https://www.digitalrealty.com",
+      "start_date": "2004",
+      "end_date": "June 4, 2023",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/laurence-chapman-1311769",
+      "person_name": "Laurence Chapman",
+      "company_name": "Digital Realty Trust, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

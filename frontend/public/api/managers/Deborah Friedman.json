@@ -5,14 +5,15 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Vista Gold Corp.",
-      "ticker": "VGZ",
-      "exchange": "NYSE",
-      "website": "https://www.vistagold.com",
-      "title": "Independent Director",
-      "startDate": "2019-03-01",
+      "name": "Golden Minerals Company",
+      "ticker": "AUMN",
+      "exchange": "NYSE American / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "December 9, 2021",
       "endDate": null,
-      "formattedStartDate": "2019 March",
+      "formattedStartDate": "December 9, 2021",
       "formattedEndDate": ""
     }
   ],

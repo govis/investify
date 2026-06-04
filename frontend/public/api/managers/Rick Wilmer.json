@@ -9,17 +9,41 @@
       "ticker": "CHPT",
       "exchange": "NYSE",
       "website": "https://www.chargepoint.com",
-      "title": "President and Chief Executive Officer",
-      "startDate": "2023-11-16",
-      "endDate": null,
-      "formattedStartDate": "2023 November",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/CHPT.NYSE.svg",
+      "title": "Chief Customer and Operations Officer",
+      "startDate": "Jul 2022",
+      "endDate": "Nov 2023",
+      "formattedStartDate": "Jul 2022",
+      "formattedEndDate": "Nov 2023"
+    },
+    {
+      "name": "DoorDash, Inc.",
+      "ticker": "DASH",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Head of Chowbotics",
+      "startDate": "Feb 2021",
+      "endDate": "Jul 2022",
+      "formattedStartDate": "Feb 2021",
+      "formattedEndDate": "Jul 2022"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rick-wilmer-4522111/",
+      "person_name": "Rick Wilmer",
+      "company_name": "ChargePoint",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 59,
   "ageYear": 2024

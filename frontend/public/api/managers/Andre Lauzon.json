@@ -2,24 +2,36 @@
   "id": "Andre Lauzon",
   "name": "Andre Lauzon",
   "background": "Mr. Lauzon was appointed Chief Operating Officer in 2022. He joined Hudbay in 2012 and has held various operational leadership roles, including Vice President of the Manitoba Business Unit and Vice President, Business Development and Technical Services.",
-  "pictureUrl": null,
+  "pictureUrl": "/managers-assets/Andre Lauzon.jpg",
   "companies": [
     {
-      "name": "Hudbay Minerals Inc.",
-      "ticker": "HBM",
-      "exchange": "NYSE",
-      "website": "https://www.hudbayminerals.com",
-      "title": "Chief Operating Officer",
-      "startDate": "2022-01-01",
+      "name": "Rupert Resources Ltd.",
+      "ticker": "RUP",
+      "exchange": "TSX",
+      "website": "https://rupertresources.com/",
+      "logoUrl": "/companies-assets/RUP.TSX.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "October 26, 2023",
       "endDate": null,
-      "formattedStartDate": "2022 January",
+      "formattedStartDate": "October 26, 2023",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/andre-lauzon-13845315",
+      "person_name": "Andre Lauzon",
+      "company_name": "Hudbay Minerals Inc.",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
   "committees": [],
   "age": 54,
   "ageYear": 2024

@@ -6,19 +6,34 @@
   "age_year": 2024,
   "background": "Mr. Gauthier has over 25 years of experience in human resources and organizational development, primarily in the mining sector.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Orla Mining Ltd.",
       "ticker": "OLA",
       "exchange": "TSX",
       "title_or_role": "Chief Human Resources Officer",
+      "website": "https://www.orlamining.com",
       "start_date": "2021-09-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sylvain-gauthier-7a5b2a12/",
+      "person_name": "Sylvain Gauthier",
+      "company_name": "Orla Mining Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

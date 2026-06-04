@@ -5,21 +5,33 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "A.P. Møller - Mærsk A/S",
-      "ticker": "AMKBY",
-      "exchange": "OTC",
-      "website": "https://www.maersk.com",
-      "title": "Chief Technology & Information Officer",
-      "startDate": "2021-02-01",
-      "endDate": null,
-      "formattedStartDate": "2021 February",
-      "formattedEndDate": ""
+      "name": "RS Group plc",
+      "ticker": "RS1",
+      "exchange": "LSE",
+      "website": "https://www.rsgroup.com",
+      "logoUrl": "/companies-assets/RS1.LSE.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2022",
+      "endDate": "2024",
+      "formattedStartDate": "2022",
+      "formattedEndDate": "2024"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://in.linkedin.com/in/navneet-kapoor-0a49b714",
+      "person_name": "Navneet Kapoor",
+      "company_name": "A.P. Møller - Mærsk A/S",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 53,
   "ageYear": 2024

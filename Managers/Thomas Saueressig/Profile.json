@@ -6,20 +6,46 @@
   "age_year": 2024,
   "background": "Thomas Saueressig is a member of the Executive Board of SAP SE, leading Customer Services & Delivery. He has been with SAP since 2004.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "SAP SE",
+      "ticker": "SAP",
+      "exchange": "Xetra",
+      "title_or_role": "Member of the Executive Board / Chief Customer Officer",
+      "website": "https://www.sap.com",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nokia Corporation",
+      "ticker": "NOK",
+      "exchange": "Nasdaq Helsinki",
+      "website": "https://www.nokia.com",
+      "title_or_role": "Member of the Board of Directors / Vice-Chair of the Board",
+      "start_date": "April 2022",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI",
     "Defense"
   ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "socials": [
     {
-      "name": "SAP SE",
-      "ticker": "SAP",
-      "exchange": "NYSE",
-      "title_or_role": "Member of the Executive Board, Customer Services & Delivery",
-      "start_date": "2024-04-01",
-      "end_date": null
+      "name": "LinkedIn",
+      "url": "https://de.linkedin.com/in/thsaueressig",
+      "person_name": "Thomas Saueressig",
+      "company_name": "SAP SE",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
-  ]
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

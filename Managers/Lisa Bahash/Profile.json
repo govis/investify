@@ -6,22 +6,67 @@
   "age_year": 2023,
   "background": "Lisa Bahash has over 30 years of experience in the automotive and materials sectors. She has held senior executive roles at JCI and Ride Control, LLC, and has expertise in manufacturing, supply chain, and strategic growth.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Remuneration and Nomination Committee",
-    "Sustainability Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Syrah Resources Limited",
       "ticker": "SYR",
       "exchange": "ASX",
       "title_or_role": "Non-Executive Director",
+      "website": "https://www.syrahresources.com.au",
       "start_date": "2018-07-16",
       "end_date": null
+    },
+    {
+      "name": "BlackBerry Limited",
+      "ticker": "BB",
+      "exchange": "NYSE / TSX",
+      "website": "https://www.blackberry.com",
+      "title_or_role": "Director (Board of Directors)",
+      "start_date": "2024-09-26",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Jabil Inc.",
+      "ticker": "JBL",
+      "exchange": "NYSE",
+      "website": "https://www.jabil.com",
+      "title_or_role": "Senior Vice President, Automotive and Transportation",
+      "start_date": "2016",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Mattr Corp.",
+      "ticker": "MATR",
+      "exchange": "TSX",
+      "website": "https://www.mattr.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": "2024",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/lisa-bahash",
+      "person_name": "Lisa Bahash",
+      "company_name": "Jabil",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Remuneration and Nomination Committee",
+    "Sustainability Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

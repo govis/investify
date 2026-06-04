@@ -6,13 +6,14 @@
   "companies": [
     {
       "name": "Centerra Gold Inc.",
-      "ticker": "CGAU",
-      "exchange": "NYSE",
-      "website": "https://www.centerragold.com",
-      "title": "Independent Director",
-      "startDate": "2022-05-01",
+      "ticker": "CG",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2017",
       "endDate": null,
-      "formattedStartDate": "2022 May",
+      "formattedStartDate": "2017",
       "formattedEndDate": ""
     },
     {
@@ -20,17 +21,41 @@
       "ticker": "KRR",
       "exchange": "TSX",
       "website": "https://www.karoraresources.com",
-      "title": "Independent Director",
-      "startDate": "2021-06-15",
+      "logoUrl": "/companies-assets/KRR.TSX.jpg",
+      "title": "Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2021 June",
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "NFI Group Inc.",
+      "ticker": "NFI",
+      "exchange": "TSX",
+      "website": "https://www.nfigroup.com",
+      "logoUrl": "/companies-assets/NFI.TSX.svg",
+      "title": "Director / Chair of the Board",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/wendykei",
+      "person_name": "Wendy Kei",
+      "company_name": "NFI Group Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Audit Committee (Chair)",

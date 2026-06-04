@@ -6,21 +6,66 @@
   "age_year": 2024,
   "background": "Anna Ohlsson-Leijon is a Director and currently CEO of Electrolux Europe. She has a strong background in finance and management.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Atlas Copco AB",
       "ticker": "ATCO",
       "exchange": "STO",
       "title_or_role": "Director",
+      "website": "https://www.atlascopcogroup.com",
       "start_date": "2019-01-01",
       "end_date": null
+    },
+    {
+      "name": "Schneider Electric SE",
+      "ticker": "SU",
+      "exchange": "Euronext Paris",
+      "website": "https://www.se.com",
+      "title_or_role": "Board Member (Director)",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Alfa Laval AB",
+      "ticker": "ALFA",
+      "exchange": "Nasdaq Stockholm",
+      "website": "https://www.alfalaval.com",
+      "title_or_role": "Board Member (Director)",
+      "start_date": "2017",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "AB Electrolux",
+      "ticker": "ELUX-B",
+      "exchange": "Nasdaq Stockholm",
+      "website": "https://www.electroluxgroup.com",
+      "title_or_role": "Various Senior Roles (including CFO, EVP, and Head of Business Area Europe)",
+      "start_date": "2001",
+      "end_date": "2023",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/anna-ohlsson-leijon-69466917/",
+      "person_name": "Anna Ohlsson-Leijon",
+      "company_name": "Electrolux",
+      "profile_status": "not_found",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

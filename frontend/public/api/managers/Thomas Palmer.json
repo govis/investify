@@ -9,17 +9,41 @@
       "ticker": "NEM",
       "exchange": "NYSE",
       "website": "https://www.newmont.com",
-      "title": "President and Chief Executive Officer",
-      "startDate": "2019-10-01",
-      "endDate": null,
-      "formattedStartDate": "2019 October",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/NEM.NYSE.svg",
+      "title": "SVP, Indonesia",
+      "startDate": "2014",
+      "endDate": "2015",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Rio Tinto",
+      "ticker": "RIO",
+      "exchange": "LSE/ASX/NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "COO, Pilbara Mines",
+      "startDate": "1994",
+      "endDate": "2014",
+      "formattedStartDate": "1994",
+      "formattedEndDate": "2014"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/imtpalmer",
+      "person_name": "Tom Palmer",
+      "company_name": "Newmont Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 57,
   "ageYear": 2024

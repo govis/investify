@@ -6,20 +6,36 @@
   "age_year": 2024,
   "background": "Christian Klein is CEO and a member of the Executive Board of SAP SE. He has been with SAP since 1999 and has held various positions, including Chief Operating Officer and Chief Controlling Officer.",
   "picture_url": null,
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "SAP SE",
       "ticker": "SAP",
       "exchange": "NYSE",
-      "title_or_role": "Chief Executive Officer, Member of the Executive Board",
-      "start_date": "2019-10-10",
-      "end_date": null
+      "title_or_role": "Member of the Executive Board",
+      "website": "https://www.sap.com",
+      "start_date": "2018-01-01",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/christian-klein",
+      "person_name": "Christian Klein",
+      "company_name": "SAP",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

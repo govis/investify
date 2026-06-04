@@ -6,22 +6,48 @@
   "age_year": 2024,
   "background": "Chief Executive Officer of Southern States Packaging Company. Director since 2019.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Sustainability and Corporate Responsibility Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Dominion Energy, Inc.",
       "ticker": "D",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2019-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://www.dominionenergy.com",
+      "start_date": "2019-02-15",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SCANA Corporation",
+      "ticker": "SCG",
+      "exchange": "NYSE",
+      "website": "https://www.dominionenergy.com",
+      "title_or_role": "Director",
+      "start_date": "1999",
+      "end_date": "2019",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/maybank-hagood-428791",
+      "person_name": "Maybank Hagood",
+      "company_name": "Southern States Packaging Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Sustainability and Corporate Responsibility Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

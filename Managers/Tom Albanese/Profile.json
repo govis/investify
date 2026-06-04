@@ -6,22 +6,98 @@
   "age_year": 2024,
   "background": "Former CEO of Rio Tinto and Vedanta Resources. He has extensive global mining experience.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Franco-Nevada Corporation",
+      "ticker": "FNV",
+      "exchange": "TSX / NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.franco-nevada.com/",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rio Tinto PLC / Rio Tinto Limited",
+      "ticker": "RIO",
+      "exchange": "LSE / ASX / NYSE",
+      "website": "https://www.riotinto.com/",
+      "title_or_role": "Chief Executive Officer (Board Member)",
+      "start_date": "2007",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Vedanta Resources PLC",
+      "ticker": "VED",
+      "exchange": "LSE",
+      "website": "https://www.vedantaresources.com/",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2014",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "CoTec Holdings Corp.",
+      "ticker": "CTEC",
+      "exchange": "TSXV",
+      "website": "https://cotec.ca/",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nevada Copper Corp.",
+      "ticker": "NCU",
+      "exchange": "TSX",
+      "website": "https://www.nevadacopper.com/",
+      "title_or_role": "Director and Chair",
+      "start_date": "2018",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Ivanhoe Mines Limited",
+      "ticker": "IVN",
+      "exchange": "TSX",
+      "website": "https://ivanhoemines.com/",
+      "title_or_role": "Director",
+      "start_date": "2006",
+      "end_date": "2007",
+      "validated": true
+    },
+    {
+      "name": "Palabora Mining Company",
+      "ticker": "PAB",
+      "exchange": "JSE",
+      "website": "https://www.palabora.com/",
+      "title_or_role": "Director",
+      "start_date": "2004",
+      "end_date": "2006",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/tom-albanese-249a064",
+      "person_name": "Tom Albanese",
+      "company_name": "Franco-Nevada Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee",
     "ESG Committee"
   ],
-  "companies": [
-    {
-      "name": "Franco-Nevada Corporation",
-      "ticker": "FNV",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2013-03-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

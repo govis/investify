@@ -6,13 +6,14 @@
   "companies": [
     {
       "name": "Moog Inc.",
-      "ticker": "MOG",
-      "exchange": "A.NYSE",
+      "ticker": "MOG.A",
+      "exchange": "NYSE",
       "website": "https://www.moog.com",
-      "title": "Chief Financial Officer",
-      "startDate": "2018",
+      "logoUrl": "/companies-assets/MOG.A.NYSE.webp",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2016",
       "endDate": null,
-      "formattedStartDate": "",
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
     }
   ],

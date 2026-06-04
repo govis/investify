@@ -6,6 +6,38 @@
   "age_year": 2024,
   "background": "Former Senior Vice President, Corporate Planning, Development & Administration of Sherwin-Williams Company.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "TransDigm Group Incorporated",
+      "ticker": "TDG",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.transdigm.com",
+      "start_date": "2006-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Perimeter Solutions, Inc.",
+      "ticker": "PRM",
+      "exchange": "NYSE",
+      "website": "https://www.perimeter-solutions.com",
+      "title_or_role": "Director",
+      "start_date": "2021-11-08",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Sherwin-Williams Company",
+      "ticker": "SHW",
+      "exchange": "NYSE",
+      "website": "https://www.sherwin-williams.com",
+      "title_or_role": "Senior Vice President - Finance and Chief Financial Officer",
+      "start_date": "2001-01-01",
+      "end_date": "2016-12-31",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
@@ -13,14 +45,6 @@
   "committees": [
     "Audit Committee"
   ],
-  "companies": [
-    {
-      "name": "TransDigm Group Incorporated",
-      "ticker": "TDG",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2006-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

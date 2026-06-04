@@ -3,23 +3,22 @@
   "name": "David Falstrup",
   "background": "Mr. Falstrup has served as a member of the Board since 2014. He is a seasoned executive with extensive experience in the aerospace and defense industries, having held senior leadership positions at several major aerospace companies.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "Rocket Lab USA, Inc.",
-      "ticker": "RKLB",
-      "exchange": "NASDAQ",
-      "website": "https://www.rocketlabusa.com",
-      "title": "Independent Director",
-      "startDate": "2014-01-01",
-      "endDate": null,
-      "formattedStartDate": "2014 January",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/david-falstrup-390a562",
+      "person_name": "David Falstrup",
+      "company_name": "Rocket Lab USA, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"

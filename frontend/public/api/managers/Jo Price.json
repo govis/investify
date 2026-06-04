@@ -7,12 +7,25 @@
     {
       "name": "Prospector Metals Corp.",
       "ticker": "PPP",
-      "exchange": "TSX",
-      "website": "https://prospectormetalscorp.com",
-      "title": "Director",
-      "startDate": "2022-06-23",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Technical Advisor",
+      "startDate": "2024",
       "endDate": null,
-      "formattedStartDate": "2022 June",
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Grizzly Discoveries Inc.",
+      "ticker": "GZD",
+      "exchange": "TSXV",
+      "website": "https://grizzlydiscoveries.com/",
+      "logoUrl": "/companies-assets/GZD.TSXV.png",
+      "title": "Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +33,18 @@
     "Gold",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jo-price-4989862",
+      "person_name": "Jo Price",
+      "company_name": "Prospector Metals Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

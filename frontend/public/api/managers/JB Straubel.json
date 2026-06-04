@@ -9,10 +9,11 @@
       "ticker": "QS",
       "exchange": "NYSE",
       "website": "https://www.quantumscape.com",
-      "title": "Independent Director",
-      "startDate": "2019-12-01",
+      "logoUrl": "/companies-assets/QS.NYSE.png",
+      "title": "Member, Board of Directors",
+      "startDate": "November 2020",
       "endDate": null,
-      "formattedStartDate": "2019 December",
+      "formattedStartDate": "November 2020",
       "formattedEndDate": ""
     },
     {
@@ -20,18 +21,42 @@
       "ticker": "TSLA",
       "exchange": "NASDAQ",
       "website": "https://www.tesla.com",
-      "title": "Independent Director",
-      "startDate": "2023-05-01",
+      "logoUrl": "/companies-assets/TSLA.NASDAQ.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2023 May",
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "SolarCity Corporation",
+      "ticker": "SCTY",
+      "exchange": "NASDAQ",
+      "website": "https://www.tesla.com",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SolarCity_logo.svg/1200px-SolarCity_logo.svg.png",
+      "title": "Member, Board of Directors",
+      "startDate": "August 2006",
+      "endDate": "November 2016",
+      "formattedStartDate": "August 2006",
+      "formattedEndDate": "November 2016"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jb-straubel-b694981",
+      "person_name": "JB Straubel",
+      "company_name": "Redwood Materials",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"

@@ -9,18 +9,42 @@
       "ticker": "MSFT",
       "exchange": "NASDAQ",
       "website": "https://www.microsoft.com",
-      "title": "Independent Director",
-      "startDate": "2021-11-01",
-      "endDate": null,
-      "formattedStartDate": "2021 November",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/MSFT.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "December 2021",
+      "endDate": "December 5, 2025",
+      "formattedStartDate": "December 2021",
+      "formattedEndDate": "December 5, 2025"
+    },
+    {
+      "name": "Automatic Data Processing, Inc.",
+      "ticker": "ADP",
+      "exchange": "NASDAQ",
+      "website": "https://www.adp.com",
+      "logoUrl": "/companies-assets/ADP.NASDAQ.svg",
+      "title": "President and Chief Executive Officer",
+      "startDate": "November 2011",
+      "endDate": "December 31, 2022",
+      "formattedStartDate": "November 2011",
+      "formattedEndDate": "December 31, 2022"
     }
   ],
   "investmentTheses": [
     "AI",
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/crodrigu38",
+      "person_name": "Carlos Rodriguez",
+      "company_name": "Automatic Data Processing, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

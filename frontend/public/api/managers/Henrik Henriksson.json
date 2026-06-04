@@ -5,25 +5,63 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Saab AB",
-      "ticker": "SAAB-B",
-      "exchange": "STO",
-      "website": "https://www.saab.com",
-      "title": "Member of the Board",
-      "startDate": "2021-04-13",
+      "name": "Scania AB",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and CEO",
+      "startDate": "2016-01-01",
+      "endDate": "2021-05-01",
+      "formattedStartDate": "January 2016",
+      "formattedEndDate": "May 2021"
+    },
+    {
+      "name": "TRATON SE",
+      "ticker": "8TRA",
+      "exchange": "Frankfurt Stock Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Member of the Executive Board",
+      "startDate": "2012-06-01",
+      "endDate": "2021-05-01",
+      "formattedStartDate": "June 2012",
+      "formattedEndDate": "May 2021"
+    },
+    {
+      "name": "AB Electrolux",
+      "ticker": "ELUX-B",
+      "exchange": "Nasdaq Stockholm",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Member",
+      "startDate": "2020-01-01",
       "endDate": null,
-      "formattedStartDate": "2021 April",
+      "formattedStartDate": "January 2020",
       "formattedEndDate": ""
     },
     {
-      "name": "Saab Aktiebolag",
-      "ticker": "SAAB",
-      "exchange": "STO",
-      "website": "https://www.saab.com",
-      "title": "Member of the Board",
-      "startDate": "2021-04-13",
+      "name": "Hexagon AB",
+      "ticker": "HEXA-B",
+      "exchange": "Nasdaq Stockholm",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Member",
+      "startDate": "2021-01-01",
       "endDate": null,
-      "formattedStartDate": "2021 April",
+      "formattedStartDate": "January 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Creades AB",
+      "ticker": "CREAD-A",
+      "exchange": "Nasdaq Stockholm",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Member",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "formattedStartDate": "January 2021",
       "formattedEndDate": ""
     }
   ],
@@ -31,7 +69,18 @@
     "Defense",
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://se.linkedin.com/in/henrik-henriksson-b4893112a",
+      "person_name": "Henrik Henriksson",
+      "company_name": "H2 Green Steel",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Remuneration Committee"
   ],

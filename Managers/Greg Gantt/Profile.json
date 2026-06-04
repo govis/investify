@@ -6,19 +6,35 @@
   "age_year": 2024,
   "background": "Greg C. Gantt served as President and CEO from 2018 until his retirement in June 2023. He remains a member of the Board.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Old Dominion Freight Line, Inc.",
       "ticker": "ODFL",
       "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "start_date": "2018-01-01",
-      "end_date": null
+      "title_or_role": "Senior Vice President, Operations",
+      "website": "https://www.odfl.com",
+      "start_date": "2002",
+      "end_date": "2011",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/greg-gantt-4a5b2a12",
+      "person_name": "Greg Gantt",
+      "company_name": "Old Dominion Freight Line, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

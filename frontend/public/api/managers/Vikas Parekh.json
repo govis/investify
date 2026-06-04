@@ -9,17 +9,53 @@
       "ticker": "PL",
       "exchange": "NYSE",
       "website": "https://www.planet.com",
+      "logoUrl": "/companies-assets/PL.NYSE.svg",
       "title": "Director",
-      "startDate": "2021-12-01",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2021 December",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Symbotic Inc.",
+      "ticker": "SYM",
+      "exchange": "NASDAQ",
+      "website": "https://www.symbotic.com",
+      "logoUrl": "/companies-assets/SYM.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "WeWork Inc.",
+      "ticker": "WE",
+      "exchange": "NYSE",
+      "website": "https://www.wework.com",
+      "logoUrl": "/companies-assets/WE.NYSE.svg",
+      "title": "Director",
+      "startDate": "December 2022",
+      "endDate": "2023",
+      "formattedStartDate": "December 2022",
+      "formattedEndDate": "2023"
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/vikasparekh",
+      "person_name": "Vikas Parekh",
+      "company_name": "SoftBank Investment Advisers",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

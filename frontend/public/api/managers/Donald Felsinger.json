@@ -5,15 +5,52 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Northrop Grumman Corporation",
-      "ticker": "NOC",
+      "name": "Sempra Energy",
+      "ticker": "SRE",
       "exchange": "NYSE",
-      "website": "https://www.northropgrumman.com",
-      "title": "Lead Independent Director",
-      "startDate": "2007-01-01",
-      "endDate": null,
-      "formattedStartDate": "2007 January",
-      "formattedEndDate": ""
+      "website": "https://www.sempra.com",
+      "logoUrl": "/companies-assets/SRE.NYSE.svg",
+      "title": "Chairman and Chief Executive Officer",
+      "startDate": "2006",
+      "endDate": "2012",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "Archer-Daniels-Midland Company",
+      "ticker": "ADM",
+      "exchange": "NYSE",
+      "website": "https://www.adm.com",
+      "logoUrl": "/companies-assets/ADM.NYSE.png",
+      "title": "Member of the Board of Directors / Lead Director",
+      "startDate": "2009",
+      "endDate": "2021",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Gannett Co., Inc.",
+      "ticker": "GCI",
+      "exchange": "NYSE",
+      "website": "https://www.gannett.com",
+      "logoUrl": "/companies-assets/GCI.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2015",
+      "endDate": "2019",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "TEGNA Inc.",
+      "ticker": "TGNA",
+      "exchange": "NYSE",
+      "website": "https://www.tegna.com",
+      "logoUrl": "/companies-assets/TGNA.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2015",
+      "endDate": "2019",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2019"
     }
   ],
   "investmentTheses": [

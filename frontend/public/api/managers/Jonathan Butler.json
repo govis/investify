@@ -9,11 +9,24 @@
       "ticker": "LCID",
       "exchange": "NASDAQ",
       "website": "https://www.lucidmotors.com",
-      "title": "General Counsel and Secretary",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "formattedStartDate": "2021 January",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/LCID.NASDAQ.svg",
+      "title": "VP, General Counsel",
+      "startDate": "2020",
+      "endDate": "2023",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Tesla, Inc.",
+      "ticker": "TSLA",
+      "exchange": "NASDAQ",
+      "website": "https://www.tesla.com",
+      "logoUrl": "/companies-assets/TSLA.NASDAQ.svg",
+      "title": "Deputy General Counsel",
+      "startDate": "2012",
+      "endDate": "2020",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2020"
     }
   ],
   "investmentTheses": [

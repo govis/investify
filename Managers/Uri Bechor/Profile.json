@@ -6,19 +6,45 @@
   "age_year": 2024,
   "background": "Mr. Bechor has served as our Chief Operating Officer since 2020. Prior to joining SolarEdge, he served as Senior Vice President, Global Operations at Flex Ltd.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "SolarEdge Technologies, Inc.",
       "ticker": "SEDG",
       "exchange": "NASDAQ",
       "title_or_role": "Chief Operating Officer",
-      "start_date": "2020-07-01",
-      "end_date": null
+      "website": "https://www.solaredge.com",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Flex Ltd.",
+      "ticker": "FLEX",
+      "exchange": "NASDAQ",
+      "website": "https://flex.com",
+      "title_or_role": "Senior Vice President / General Manager",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://il.linkedin.com/in/uri-bechor-10949829",
+      "person_name": "Uri Bechor",
+      "company_name": "SolarEdge Technologies, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

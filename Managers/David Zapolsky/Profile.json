@@ -6,20 +6,36 @@
   "age_year": 2024,
   "background": "David A. Zapolsky has been Senior Vice President, Global Public Policy and General Counsel since 2023. He joined Amazon in 1999.",
   "picture_url": null,
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Amazon.com, Inc.",
       "ticker": "AMZN",
       "exchange": "NASDAQ",
-      "title_or_role": "Senior Vice President, Global Public Policy and General Counsel",
-      "start_date": "2023-01-01",
-      "end_date": null
+      "title_or_role": "Senior Vice President, Chief Global Affairs & Legal Officer (formerly Associate General Counsel, Vice President, General Counsel, and Secretary)",
+      "website": "https://www.aboutamazon.com",
+      "start_date": "November 1999",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/zapolsky",
+      "person_name": "David Zapolsky",
+      "company_name": "Amazon",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

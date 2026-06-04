@@ -9,17 +9,41 @@
       "ticker": "LNG",
       "exchange": "NYSE",
       "website": "https://www.cheniere.com",
-      "title": "Director, President and Chief Executive Officer",
-      "startDate": "2016-05-12",
+      "logoUrl": "/companies-assets/LNG.NYSE.svg",
+      "title": "President, Chief Executive Officer and Director",
+      "startDate": "2016-05-31",
       "endDate": null,
-      "formattedStartDate": "2016 May",
+      "formattedStartDate": "May 2016",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Calpine Corporation",
+      "ticker": "CPN",
+      "exchange": "NYSE",
+      "website": "https://www.calpine.com",
+      "logoUrl": "/companies-assets/CPN.NYSE.png",
+      "title": "Executive Chairman of the Board",
+      "startDate": "2014-05-01",
+      "endDate": "2016-05-11",
+      "formattedStartDate": "May 2014",
+      "formattedEndDate": "May 2016"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/jack-fusco",
+      "person_name": "Jack Fusco",
+      "company_name": "Cheniere Energy, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 61,
   "ageYear": 2024

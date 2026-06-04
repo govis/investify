@@ -5,21 +5,93 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Texas Instruments Incorporated",
-      "ticker": "TXN",
+      "name": "MoneyGram International, Inc.",
+      "ticker": "MGI",
       "exchange": "NASDAQ",
-      "website": "https://www.ti.com",
-      "title": "Independent Director",
-      "startDate": "2004-01-01",
+      "website": "https://corporate.moneygram.com",
+      "logoUrl": "/companies-assets/MGI.NASDAQ.svg",
+      "title": "Executive Chairman",
+      "startDate": "2016",
+      "endDate": "2018",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Payoneer Global Inc.",
+      "ticker": "PAYO",
+      "exchange": "NASDAQ",
+      "website": "https://investor.payoneer.com",
+      "logoUrl": "/companies-assets/PAYO.NASDAQ.png",
+      "title": "Director",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2004 January",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Hilton Grand Vacations Inc.",
+      "ticker": "HGV",
+      "exchange": "NYSE",
+      "website": "https://investors.hgv.com",
+      "logoUrl": "/companies-assets/HGV.NYSE.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Keurig Dr Pepper Inc.",
+      "ticker": "KDP",
+      "exchange": "NASDAQ",
+      "website": "https://www.keurigdrpepper.com",
+      "logoUrl": "/companies-assets/KDP.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Dr Pepper Snapple Group, Inc.",
+      "ticker": "DPS",
+      "exchange": "NYSE",
+      "website": "https://www.keurigdrpepper.com",
+      "logoUrl": "/companies-assets/DPS.NYSE.svg",
+      "title": "Director",
+      "startDate": "2008",
+      "endDate": "2018",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Molson Coors Brewing Company",
+      "ticker": "TAP",
+      "exchange": "NYSE",
+      "website": "https://www.molsoncoors.com",
+      "logoUrl": "/companies-assets/TAP.NYSE.svg",
+      "title": "Director",
+      "startDate": "1996",
+      "endDate": "2009",
+      "formattedStartDate": "1996",
+      "formattedEndDate": "2009"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/pamela-patsley-4a5a5a10",
+      "person_name": "Pamela Patsley",
+      "company_name": "MoneyGram International, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Governance and Stockholder Relations Committee"

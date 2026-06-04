@@ -5,14 +5,51 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Taiwan Semiconductor Manufacturing Company Limited",
+      "name": "Xilinx, Inc.",
+      "ticker": "XLNX",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "logoUrl": "/companies-assets/XLNX.NASDAQ.png",
+      "title": "President and CEO",
+      "startDate": "2008",
+      "endDate": "2018",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Verisity, Ltd.",
+      "ticker": "VRST",
+      "exchange": "NASDAQ",
+      "website": "www.verisity.com",
+      "logoUrl": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0000/0000/logo.gif",
+      "title": "CEO",
+      "startDate": "1998",
+      "endDate": "2005",
+      "formattedStartDate": "1998",
+      "formattedEndDate": "2005"
+    },
+    {
+      "name": "Cadence Design Systems, Inc.",
+      "ticker": "CDNS",
+      "exchange": "NASDAQ",
+      "website": "https://www.cadence.com",
+      "logoUrl": "/companies-assets/CDNS.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2025-01-01",
+      "endDate": null,
+      "formattedStartDate": "January 2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Taiwan Semiconductor Manufacturing Company Limited (TSMC)",
       "ticker": "TSM",
       "exchange": "NYSE",
       "website": "https://www.tsmc.com",
+      "logoUrl": "/companies-assets/TSM.NYSE.svg",
       "title": "Independent Director",
-      "startDate": "2018-06-05",
+      "startDate": "2018",
       "endDate": null,
-      "formattedStartDate": "2018 June",
+      "formattedStartDate": "2018",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +57,18 @@
     "AI",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/moshe-gavrielov-401b28",
+      "person_name": "Moshe Gavrielov",
+      "company_name": "Taiwan Semiconductor Manufacturing Company Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"

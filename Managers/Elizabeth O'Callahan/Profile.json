@@ -6,19 +6,35 @@
   "age_year": 2024,
   "background": "Elizabeth M. O'Callahan has served as our Executive Vice President, Chief Legal Officer and Corporate Secretary since April 2022. She joined NetApp in 2013 and has held various leadership roles in the legal department, including Senior Vice President and General Counsel. Prior to NetApp, she was in private practice at Silicon Valley law firms.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "NetApp, Inc.",
       "ticker": "NTAP",
       "exchange": "NASDAQ",
-      "title_or_role": "Executive Vice President, Chief Legal Officer and Corporate Secretary",
-      "start_date": "2022-04-01",
-      "end_date": null
+      "title_or_role": "Executive Vice President, Chief Administrative Officer, Chief Legal Officer, and Corporate Secretary",
+      "website": "https://www.netapp.com",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/elizabeth-o-callahan-046a511a",
+      "person_name": "Elizabeth O'Callahan",
+      "company_name": "NetApp, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

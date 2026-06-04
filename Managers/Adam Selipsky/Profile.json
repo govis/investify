@@ -5,21 +5,89 @@
   "age": 57,
   "age_year": 2024,
   "background": "Adam N. Selipsky was CEO of Amazon Web Services from May 2021 to June 2024. He previously served as President and CEO of Tableau Software.",
-  "picture_url": null,
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_url": "https://media.licdn.com/dms/image/v2/D5603AQGZJ-njdtv_-g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1719507065628?e=2147483647&v=beta&t=xbJ_D0s7KvKOGHF17jYgCTZESZksZgzc81eHhznpR-o",
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
     {
       "name": "Amazon.com, Inc.",
       "ticker": "AMZN",
       "exchange": "NASDAQ",
-      "title_or_role": "Unknown Role",
-      "start_date": null,
-      "end_date": null
+      "title_or_role": "CEO, Amazon Web Services (Senior Executive / Officer)",
+      "website": "https://www.amazon.com",
+      "start_date": "2021-05-17",
+      "end_date": "2024-06-03",
+      "validated": true
+    },
+    {
+      "name": "MongoDB, Inc.",
+      "ticker": "MDB",
+      "exchange": "NASDAQ",
+      "website": "https://www.mongodb.com",
+      "title_or_role": "Director (Board of Directors)",
+      "start_date": "2019-10-31",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Salesforce, Inc.",
+      "ticker": "CRM",
+      "exchange": "NYSE",
+      "website": "https://www.salesforce.com",
+      "title_or_role": "President and CEO, Tableau (Executive Officer)",
+      "start_date": "2019-08-01",
+      "end_date": "2021-05-17",
+      "validated": true
+    },
+    {
+      "name": "Tableau Software, Inc.",
+      "ticker": "DATA",
+      "exchange": "NYSE",
+      "website": "https://www.tableau.com",
+      "title_or_role": "President, Chief Executive Officer, and Director",
+      "start_date": "2016-09-16",
+      "end_date": "2019-08-01",
+      "validated": true
+    },
+    {
+      "name": "RealNetworks, Inc.",
+      "ticker": "RNWK",
+      "exchange": "NASDAQ",
+      "website": "https://www.realnetworks.com",
+      "title_or_role": "Vice President, Consumer Software and Services (Senior Executive)",
+      "start_date": "1999-01-01",
+      "end_date": "2005-12-31",
+      "validated": true
+    },
+    {
+      "name": "Circle Internet Group, Inc.",
+      "ticker": "CRCL",
+      "exchange": "NYSE",
+      "website": "https://www.circle.com",
+      "title_or_role": "Director",
+      "start_date": "2025-07-22",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/adamselipsky",
+      "person_name": "Adam Selipsky",
+      "company_name": "Amazon Web Services",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 0
 }

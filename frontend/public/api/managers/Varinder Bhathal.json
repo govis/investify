@@ -5,36 +5,27 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Sprott Physical Gold Trust",
-      "ticker": "PHYS",
-      "exchange": "NYSE",
-      "website": "https://sprott.com/investment-strategies/physical-bullion-trusts/gold/",
+      "name": "Sprott Inc.",
+      "ticker": "SII",
+      "exchange": "TSX",
+      "website": "https://sprott.com/",
+      "logoUrl": "/companies-assets/SII.TSX.svg",
+      "title": "Managing Director, Chief Controller, and Treasurer",
+      "startDate": "Not publicly specified",
+      "endDate": null,
+      "formattedStartDate": "Not publicly specified",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sprott Physical Battery Metals Trust",
+      "ticker": "SBAT.U",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
       "title": "Chief Financial Officer",
-      "startDate": "2017-01-01",
+      "startDate": "Not publicly specified",
       "endDate": null,
-      "formattedStartDate": "2017 January",
-      "formattedEndDate": ""
-    },
-    {
-      "name": "Sprott Energy Transition Materials ETF",
-      "ticker": "SETM",
-      "exchange": "NASDAQ",
-      "website": "https://www.sprottetfs.com/setm-sprott-energy-transition-materials-etf/",
-      "title": "Treasurer and Chief Financial Officer",
-      "startDate": "2018",
-      "endDate": null,
-      "formattedStartDate": "",
-      "formattedEndDate": ""
-    },
-    {
-      "name": "Sprott Uranium Miners ETF",
-      "ticker": "URNM",
-      "exchange": "NYSE",
-      "website": "https://sprottetfs.com/urnm-sprott-uranium-miners-etf/",
-      "title": "Treasurer and Chief Financial Officer",
-      "startDate": "2018-01-01",
-      "endDate": null,
-      "formattedStartDate": "2018 January",
+      "formattedStartDate": "Not publicly specified",
       "formattedEndDate": ""
     }
   ],

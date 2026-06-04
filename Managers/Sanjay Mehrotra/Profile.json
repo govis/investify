@@ -6,20 +6,66 @@
   "age_year": 2023,
   "background": "Sanjay Mehrotra is President and Chief Executive Officer at Micron Technology. He joined Micron in 2017 after a long career at SanDisk Corporation, which he co-founded and where he served as President and CEO from 2011 to 2016.",
   "picture_url": null,
-  "investment_theses": [
-    "AI",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Micron Technology, Inc.",
       "ticker": "MU",
       "exchange": "NASDAQ",
-      "title_or_role": "Director, President and Chief Executive Officer",
-      "start_date": "2017-05-08",
-      "end_date": null
+      "title_or_role": "President and CEO",
+      "website": "https://www.micron.com",
+      "start_date": "May 2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CDW Corporation",
+      "ticker": "CDW",
+      "exchange": "NASDAQ",
+      "website": "https://www.cdw.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "March 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cavium, Inc.",
+      "ticker": "CAVM",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2009",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "SanDisk Corporation",
+      "ticker": "SNDK",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "1988",
+      "end_date": "2016",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sanjay-mehrotra",
+      "person_name": "Sanjay Mehrotra",
+      "company_name": "Micron Technology",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -5,21 +5,33 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Siemens Aktiengesellschaft",
-      "ticker": "SIEGY",
-      "exchange": "OTC",
+      "name": "Siemens Aktiengesellschaft (Siemens AG)",
+      "ticker": "SIE",
+      "exchange": "XETRA",
       "website": "https://www.siemens.com",
-      "title": "First Deputy Chairwoman",
-      "startDate": "2015-01-27",
-      "endDate": null,
-      "formattedStartDate": "2015 January",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/SIE.XETRA.svg",
+      "title": "Chairwoman of the Central Works Council",
+      "startDate": "2014",
+      "endDate": "08/2025",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "08/2025"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://de.linkedin.com/in/birgitsteinborn",
+      "person_name": "Birgit Steinborn",
+      "company_name": "Siemens Aktiengesellschaft",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Chairman's Committee",

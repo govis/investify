@@ -5,21 +5,69 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Duke Energy Corporation",
-      "ticker": "DUK",
+      "name": "Yahoo! Inc.",
+      "ticker": "YHOO",
+      "exchange": "NASDAQ",
+      "website": "yahoo.com",
+      "logoUrl": "/companies-assets/YHOO.NASDAQ.png",
+      "title": "Board Member, Chairman of the Board",
+      "startDate": "2003",
+      "endDate": "2012",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "Delta Air Lines, Inc.",
+      "ticker": "DAL",
       "exchange": "NYSE",
-      "website": "https://www.duke-energy.com",
-      "title": "Independent Director",
-      "startDate": "2012-01-01",
+      "website": "https://www.delta.com",
+      "logoUrl": "/companies-assets/DAL.NYSE.svg",
+      "title": "Board Member, Non-Executive Vice Chairman",
+      "startDate": "2008",
       "endDate": null,
-      "formattedStartDate": "2012 January",
+      "formattedStartDate": "2008",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Morgan Stanley",
+      "ticker": "MS",
+      "exchange": "NYSE",
+      "website": "https://www.morganstanley.com",
+      "logoUrl": "/companies-assets/MS.NYSE.svg",
+      "title": "Board Member",
+      "startDate": "2005",
+      "endDate": "2013",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Northwest Airlines",
+      "ticker": "NWA",
+      "exchange": "NYSE",
+      "website": "N/A",
+      "logoUrl": "/companies-assets/NWA.NYSE.svg",
+      "title": "Chairman of the Board",
+      "startDate": "2007",
+      "endDate": "2008",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2008"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/roy-bostock-4a5b2a12",
+      "person_name": "Roy Bostock",
+      "company_name": "Yahoo! Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Corporate Governance Committee",
     "Finance and Risk Management Committee"

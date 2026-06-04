@@ -6,22 +6,68 @@
   "age_year": 2024,
   "background": "Ms. Uthayakumar is the Chief Energy and Sustainability Officer at Prologis. She previously held senior executive roles at Schneider Electric.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Electra Battery Materials Corporation",
+      "ticker": "ELBM",
+      "exchange": "TSX-V",
+      "title_or_role": "Director",
+      "website": "https://electrabmc.com/",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Prologis, Inc.",
+      "ticker": "PLD",
+      "exchange": "NYSE",
+      "website": "https://www.prologis.com/",
+      "title_or_role": "Chief Energy and Sustainability Officer",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Adesto Technologies Corporation",
+      "ticker": "IOTS",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Schneider Electric SE",
+      "ticker": "SU",
+      "exchange": "Euronext Paris",
+      "website": "https://www.se.com/",
+      "title_or_role": "President, Global Sustainability Business Division / CEO, Schneider Electric Canada",
+      "start_date": "2005",
+      "end_date": "2021",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/susanuthayakumar",
+      "person_name": "Susan Uthayakumar",
+      "company_name": "Prologis",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "Electra Battery Materials Corporation",
-      "ticker": "ELBM",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2021-09-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

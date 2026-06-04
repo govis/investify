@@ -9,17 +9,65 @@
       "ticker": "ILU",
       "exchange": "ASX",
       "website": "https://www.iluka.com",
-      "title": "Independent Non-Executive Director",
-      "startDate": "2020-06-01",
+      "logoUrl": "/companies-assets/ILU.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2019-06-01",
       "endDate": null,
-      "formattedStartDate": "2020 June",
+      "formattedStartDate": "June 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Mineral Resources Limited",
+      "ticker": "MIN",
+      "exchange": "ASX",
+      "website": "https://www.mineralresources.com.au",
+      "logoUrl": "/companies-assets/MIN.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2021-01-04",
+      "endDate": "2025-04-16",
+      "formattedStartDate": "January 2021",
+      "formattedEndDate": "April 2025"
+    },
+    {
+      "name": "Aurelia Metals Limited",
+      "ticker": "AMI",
+      "exchange": "ASX",
+      "website": "https://aureliametals.com/",
+      "logoUrl": "/companies-assets/AMI.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2023-08-30",
+      "endDate": null,
+      "formattedStartDate": "August 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Silex Systems Limited",
+      "ticker": "SLX",
+      "exchange": "ASX",
+      "website": "silex.com.au",
+      "logoUrl": "/companies-assets/SLX.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2024-11-01",
+      "endDate": null,
+      "formattedStartDate": "November 2024",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/susie-corlett-3379b65b",
+      "person_name": "Susie Corlett",
+      "company_name": "Iluka Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit and Risk Committee",
     "Nominations Committee",

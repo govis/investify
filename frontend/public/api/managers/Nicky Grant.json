@@ -7,13 +7,26 @@
     {
       "name": "F3 Uranium Corp.",
       "ticker": "FUU",
-      "exchange": "TSX",
-      "website": "https://f3uranium.com",
+      "exchange": "TSXV",
+      "website": "https://f3uranium.com/",
+      "logoUrl": "/companies-assets/FUU.TSXV.webp",
       "title": "Independent Director",
-      "startDate": "2023-05-15",
-      "endDate": null,
-      "formattedStartDate": "2023 May",
-      "formattedEndDate": ""
+      "startDate": "August 3, 2022",
+      "endDate": "2023",
+      "formattedStartDate": "August 3, 2022",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Pan American Energy Corp.",
+      "ticker": "PNRG",
+      "exchange": "CSE",
+      "website": "https://panam-energy.com/",
+      "logoUrl": "/companies-assets/PNRG.CSE.svg",
+      "title": "Director",
+      "startDate": "May 16, 2023",
+      "endDate": "2025",
+      "formattedStartDate": "May 16, 2023",
+      "formattedEndDate": "2025"
     }
   ],
   "investmentTheses": [

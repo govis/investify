@@ -6,23 +6,39 @@
   "age_year": 2024,
   "background": "Former Chairman, KPMG International.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Nominating and Governance Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Ford Motor Company",
       "ticker": "F",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2017-12-01",
-      "end_date": null
+      "title_or_role": "Member, Board of Directors",
+      "website": "https://www.ford.com",
+      "start_date": "December 1, 2017",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/johnveihmeyer",
+      "person_name": "John Veihmeyer",
+      "company_name": "Ford Motor Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

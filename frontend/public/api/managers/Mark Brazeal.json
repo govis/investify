@@ -9,17 +9,41 @@
       "ticker": "AVGO",
       "exchange": "NASDAQ",
       "website": "https://www.broadcom.com",
+      "logoUrl": "/companies-assets/AVGO.NASDAQ.svg",
       "title": "Chief Legal and Corporate Affairs Officer",
-      "startDate": "2021-06-01",
+      "startDate": "2016",
       "endDate": null,
-      "formattedStartDate": "2021 June",
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
+    },
+    {
+      "name": "SanDisk Corporation",
+      "ticker": "SNDK",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "/companies-assets/SNDK.NASDAQ.svg",
+      "title": "Chief Legal Officer and Senior Vice President, IP Licensing",
+      "startDate": "2007",
+      "endDate": "2016-05",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "May 2016"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mark-d-brazeal",
+      "person_name": "Mark Brazeal",
+      "company_name": "Broadcom Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 54,
   "ageYear": 2024

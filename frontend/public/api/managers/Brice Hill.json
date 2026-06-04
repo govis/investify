@@ -9,18 +9,66 @@
       "ticker": "AMAT",
       "exchange": "NASDAQ",
       "website": "https://www.appliedmaterials.com",
+      "logoUrl": "/companies-assets/AMAT.NASDAQ.svg",
       "title": "Senior Vice President and Chief Financial Officer",
-      "startDate": "2022-03-01",
+      "startDate": "March 2022",
       "endDate": null,
-      "formattedStartDate": "2022 March",
+      "formattedStartDate": "March 2022",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Xilinx, Inc.",
+      "ticker": "XLNX",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "logoUrl": "/companies-assets/XLNX.NASDAQ.png",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "April 9, 2020",
+      "endDate": "February 2022",
+      "formattedStartDate": "April 9, 2020",
+      "formattedEndDate": "February 2022"
+    },
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "logoUrl": "/companies-assets/INTC.NASDAQ.svg",
+      "title": "Various senior finance roles (including capacity strategy, PC desktop and chipsets, and data center)",
+      "startDate": "Not publicly specified",
+      "endDate": "April 2020",
+      "formattedStartDate": "Not publicly specified",
+      "formattedEndDate": "April 2020"
+    },
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "website": "https://www.gm.com",
+      "logoUrl": "/companies-assets/GM.NYSE.svg",
+      "title": "Various finance positions",
+      "startDate": "Not publicly specified",
+      "endDate": "Prior to Intel tenure",
+      "formattedStartDate": "Not publicly specified",
+      "formattedEndDate": "Prior to Intel tenure"
     }
   ],
   "investmentTheses": [
     "AI",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/brice-hill-16670529/",
+      "person_name": "Brice Hill",
+      "company_name": "Applied Materials",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 57,
   "ageYear": 2024

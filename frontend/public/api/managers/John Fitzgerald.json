@@ -9,17 +9,53 @@
       "ticker": "NST",
       "exchange": "ASX",
       "website": "https://www.nsrltd.com",
-      "title": "Lead Independent Director",
-      "startDate": "2012-11-30",
+      "logoUrl": "/companies-assets/NST.ASX.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2012",
       "endDate": null,
-      "formattedStartDate": "2012 November",
+      "formattedStartDate": "2012",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Turaco Gold Limited",
+      "ticker": "TCG",
+      "exchange": "ASX",
+      "website": "https://turacogold.com.au/",
+      "logoUrl": "/companies-assets/TCG.ASX.png",
+      "title": "Non-Executive Chairman",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Medallion Metals Limited",
+      "ticker": "MM8",
+      "exchange": "ASX",
+      "website": "https://medallionmetals.com.au/",
+      "logoUrl": "/companies-assets/MM8.ASX.png",
+      "title": "Non-Executive Chairman",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/john-fitzgerald-75393914",
+      "person_name": "John Fitzgerald",
+      "company_name": "Northern Star Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit and Risk Committee (Chair)",
     "Nomination Committee",

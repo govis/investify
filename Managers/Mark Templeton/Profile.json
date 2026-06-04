@@ -6,21 +6,66 @@
   "age_year": 2024,
   "background": "Former CEO of Citrix Systems and DigitalOcean. Director at Equinix.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Arista Networks, Inc.",
       "ticker": "ANET",
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
+      "website": "https://www.arista.com",
       "start_date": "2023-05-01",
       "end_date": null
+    },
+    {
+      "name": "Citrix Systems, Inc.",
+      "ticker": "CTXS",
+      "exchange": "NASDAQ",
+      "website": "https://www.citrix.com",
+      "title_or_role": "President and CEO",
+      "start_date": "2001",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Equifax Inc.",
+      "ticker": "EFX",
+      "exchange": "NYSE",
+      "website": "https://www.equifax.com",
+      "title_or_role": "Director",
+      "start_date": "2008-02-08",
+      "end_date": "2018-11",
+      "validated": true
+    },
+    {
+      "name": "DigitalOcean Holdings, Inc.",
+      "ticker": "DOCN",
+      "exchange": "NYSE",
+      "website": "https://www.digitalocean.com",
+      "title_or_role": "CEO and Director",
+      "start_date": "2018-07-01",
+      "end_date": "2019",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/markbtempleton",
+      "person_name": "Mark B. Templeton",
+      "company_name": "DigitalOcean, Citrix Systems",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

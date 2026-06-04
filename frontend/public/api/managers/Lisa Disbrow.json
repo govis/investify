@@ -9,17 +9,65 @@
       "ticker": "CACI",
       "exchange": "NYSE",
       "website": "https://www.caci.com",
-      "title": "Director",
-      "startDate": "2018-01-01",
+      "logoUrl": "/companies-assets/CACI.NYSE.svg",
+      "title": "Member, Board of Directors (Chair)",
+      "startDate": "2018",
       "endDate": null,
-      "formattedStartDate": "2018 January",
+      "formattedStartDate": "2018",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Mercury Systems, Inc.",
+      "ticker": "MRCY",
+      "exchange": "NASDAQ",
+      "website": "https://www.mrcy.com",
+      "logoUrl": "/companies-assets/MRCY.NASDAQ.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "BlackBerry Limited",
+      "ticker": "BB",
+      "exchange": "NYSE / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Member, Board of Directors",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Perspecta Inc.",
+      "ticker": "PRSP",
+      "exchange": "NYSE",
+      "website": "https://www.peraton.com",
+      "logoUrl": "/companies-assets/PRSP.NYSE.png",
+      "title": "Member, Board of Directors",
+      "startDate": "2018",
+      "endDate": "2021",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2021"
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/lisa-disbrow-b1207112b",
+      "person_name": "Lisa Disbrow",
+      "company_name": "CACI International Inc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee",
     "Security and Risk Assessment Committee"

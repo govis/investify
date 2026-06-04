@@ -6,19 +6,45 @@
   "age_year": 2024,
   "background": "Mr. Rowe has served as President and Chief Executive Officer since April 2017. Prior to joining Flowserve, he served as President of the Cameron Group, a segment of Schlumberger Limited, from April 2016 to April 2017. He previously served as President and CEO of Cameron International Corporation from October 2015 to April 2016.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Flowserve Corporation",
       "ticker": "FLS",
       "exchange": "NYSE",
       "title_or_role": "President and Chief Executive Officer",
-      "start_date": "2017-04-01",
-      "end_date": null
+      "website": "https://www.flowserve.com",
+      "start_date": "2017-04",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cameron International Corporation",
+      "ticker": "CAM",
+      "exchange": "NYSE",
+      "website": "https://www.slb.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2002",
+      "end_date": "2017-03",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/scott-r-rowe",
+      "person_name": "Scott Rowe",
+      "company_name": "Flowserve Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

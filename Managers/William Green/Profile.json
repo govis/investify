@@ -6,6 +6,39 @@
   "age_year": 2024,
   "background": "Former Chairman and CEO of Accenture.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Dell Technologies Inc.",
+      "ticker": "DELL",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.dell.com",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Accenture plc",
+      "ticker": "ACN",
+      "exchange": "NYSE",
+      "website": "https://www.accenture.com",
+      "title_or_role": "CEO (2004\u20132010), Chairman of the Board (2006\u20132013)",
+      "start_date": "2004",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "S&P Global Inc.",
+      "ticker": "SPGI",
+      "exchange": "NYSE",
+      "website": "https://www.spglobal.com",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": "2023",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -14,14 +47,6 @@
     "Audit Committee",
     "Leadership Development and Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Dell Technologies Inc.",
-      "ticker": "DELL",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2016-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

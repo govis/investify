@@ -3,19 +3,7 @@
   "name": "Hance Meyer",
   "background": "Mr. Meyer is a Chartered Professional Accountant with over 25 years of experience in the mining industry. He has held senior financial positions with several publicly traded mining companies, including serving as CFO of various junior explorers and producers.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "GoviEx Uranium Inc.",
-      "ticker": "GXU",
-      "exchange": "TSXV",
-      "website": "https://www.goviex.com",
-      "title": "Chief Financial Officer",
-      "startDate": "2023-05-01",
-      "endDate": null,
-      "formattedStartDate": "2023 May",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "Nuclear"
   ],

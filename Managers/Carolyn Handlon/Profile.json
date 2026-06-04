@@ -6,6 +6,49 @@
   "age_year": 2024,
   "background": "Former Executive Vice President and Treasurer of Marriott International, Inc. Expert in global finance, capital markets, and risk management.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Science Applications International Corporation",
+      "ticker": "SAIC",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.saic.com",
+      "start_date": "Jan 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Apple Hospitality REIT, Inc.",
+      "ticker": "APLE",
+      "exchange": "NYSE",
+      "website": "https://www.applehospitalityreit.com",
+      "title_or_role": "Director",
+      "start_date": "Mar 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Invesco Mortgage Capital Inc.",
+      "ticker": "IVR",
+      "exchange": "NYSE",
+      "website": "https://www.invescomortgagecapital.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Marriott International, Inc.",
+      "ticker": "MAR",
+      "exchange": "NASDAQ",
+      "website": "https://www.marriott.com",
+      "title_or_role": "EVP, Finance & Global Treasurer",
+      "start_date": "~2005",
+      "end_date": "Apr 2022",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
@@ -13,14 +56,6 @@
   "committees": [
     "Audit Committee"
   ],
-  "companies": [
-    {
-      "name": "Science Applications International Corporation",
-      "ticker": "SAIC",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2022-03-23",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

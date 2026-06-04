@@ -9,11 +9,24 @@
       "ticker": "DLR",
       "exchange": "NYSE",
       "website": "https://www.digitalrealty.com",
-      "title": "Chief Executive Officer, Director, President",
-      "startDate": "2022-12-13",
+      "logoUrl": "/companies-assets/DLR.NYSE.svg",
+      "title": "Chief Executive Officer",
+      "startDate": "2015",
       "endDate": null,
-      "formattedStartDate": "2022 December",
+      "formattedStartDate": "2015",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Bank of America Corporation",
+      "ticker": "BAC",
+      "exchange": "NYSE",
+      "website": "https://www.bankofamerica.com",
+      "logoUrl": "/companies-assets/BAC.NYSE.svg",
+      "title": "Managing Director of Real Estate, Gaming and Lodging Investment Banking",
+      "startDate": "Unknown",
+      "endDate": "2015",
+      "formattedStartDate": "",
+      "formattedEndDate": "2015"
     }
   ],
   "investmentTheses": [

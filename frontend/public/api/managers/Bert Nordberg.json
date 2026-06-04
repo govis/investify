@@ -5,33 +5,106 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Saab AB",
-      "ticker": "SAAB-B",
+      "name": "Essity AB",
+      "ticker": "ESSITY-B",
       "exchange": "STO",
-      "website": "https://www.saab.com",
-      "title": "Deputy Chairman",
-      "startDate": "2021-04-01",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Member",
+      "startDate": "2017",
       "endDate": null,
-      "formattedStartDate": "2021 April",
+      "formattedStartDate": "2017",
       "formattedEndDate": ""
     },
     {
-      "name": "Saab Aktiebolag",
-      "ticker": "SAAB",
+      "name": "AB Electrolux",
+      "ticker": "ELUX-B",
       "exchange": "STO",
-      "website": "https://www.saab.com",
-      "title": "Deputy Chairman",
-      "startDate": "2021-04-01",
-      "endDate": null,
-      "formattedStartDate": "2021 April",
-      "formattedEndDate": ""
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Member",
+      "startDate": "2013",
+      "endDate": "2022",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "BlackBerry Limited",
+      "ticker": "BB",
+      "exchange": "NYSE",
+      "website": "https://www.blackberry.com",
+      "logoUrl": "/companies-assets/BB.NYSE.svg",
+      "title": "Board Member",
+      "startDate": "2014",
+      "endDate": "2019",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Svenska Cellulosa Aktiebolaget (SCA)",
+      "ticker": "SCA-B",
+      "exchange": "STO",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Member",
+      "startDate": "2012",
+      "endDate": "2017",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Vestas Wind Systems A/S",
+      "ticker": "VWS",
+      "exchange": "CPH",
+      "website": "https://www.vestas.com",
+      "logoUrl": "/companies-assets/VWS.CPH.webp",
+      "title": "Chairman of the Board",
+      "startDate": "2012",
+      "endDate": "2019",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Sony Group Corporation (Sony Mobile Communications)",
+      "ticker": "SONY",
+      "exchange": "NYSE",
+      "website": "https://www.sony.com",
+      "logoUrl": "/companies-assets/SONY.NYSE.svg",
+      "title": "President and CEO, Sony Mobile Communications",
+      "startDate": "2009",
+      "endDate": "2012",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "Telefonaktiebolaget LM Ericsson",
+      "ticker": "ERIC",
+      "exchange": "NASDAQ",
+      "website": "https://www.ericsson.com",
+      "logoUrl": "/companies-assets/ERIC.NASDAQ.svg",
+      "title": "Various managerial positions",
+      "startDate": "1996",
+      "endDate": "2009",
+      "formattedStartDate": "1996",
+      "formattedEndDate": "2009"
     }
   ],
   "investmentTheses": [
     "Defense",
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ch.linkedin.com/in/nordberg-bert-177b07178",
+      "person_name": "Bert Nordberg",
+      "company_name": "Vestas Wind Systems A/S, Sony Group Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Remuneration Committee"

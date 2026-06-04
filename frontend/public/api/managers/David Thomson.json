@@ -7,12 +7,13 @@
     {
       "name": "Thomson Reuters Corporation",
       "ticker": "TRI",
-      "exchange": "NYSE",
-      "website": "https://www.thomsonreuters.com",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
       "title": "Chairman",
-      "startDate": "2008-04-17",
+      "startDate": "2006",
       "endDate": null,
-      "formattedStartDate": "2008 April",
+      "formattedStartDate": "2006",
       "formattedEndDate": ""
     }
   ],

@@ -3,23 +3,22 @@
   "name": "John Low",
   "background": "John Low is a qualified accountant with over 35 years of experience in financial management and corporate advisory. He has worked with various companies in the mining and resources sector.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "Latrobe Magnesium Limited",
-      "ticker": "LMG",
-      "exchange": "ASX",
-      "website": "https://www.latrobemagnesium.com",
-      "title": "Chief Financial Officer",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "formattedStartDate": "2021 January",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/johnlow1",
+      "person_name": "John Low",
+      "company_name": "Latrobe Magnesium Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/D4E03AQGa-m-GNnm4Wg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1727307379010?e=2147483647&v=beta&t=DVdR_ouAMayGWz_oYuKTctxxj1bVdmPND9En5dMGDT4",
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 65,
   "ageYear": 2024

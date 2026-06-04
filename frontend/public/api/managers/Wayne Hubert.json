@@ -5,15 +5,52 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Revival Gold Inc.",
-      "ticker": "RVG",
-      "exchange": "TSX",
-      "website": "https://revival-gold.com",
-      "title": "Non-Executive Chairman",
-      "startDate": "2017-01-01",
+      "name": "InZinc Mining Ltd.",
+      "ticker": "IZN",
+      "exchange": "TSXV",
+      "website": "https://inzincmining.com/",
+      "logoUrl": "/companies-assets/IZN.TSXV.svg",
+      "title": "Chief Executive Officer & Director",
+      "startDate": "2017",
       "endDate": null,
-      "formattedStartDate": "2017 January",
+      "formattedStartDate": "2017",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Austral Gold Limited",
+      "ticker": "AGLD",
+      "exchange": "ASX",
+      "website": "https://www.australgold.com/",
+      "logoUrl": "/companies-assets/AGLD.ASX.svg",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": "2020",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Candelaria Mining Corp.",
+      "ticker": "CAND",
+      "exchange": "TSXV",
+      "website": "https://www.candelariamining.com/",
+      "logoUrl": "/companies-assets/CAND.TSXV.png",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Andean Resources Limited",
+      "ticker": "AND",
+      "exchange": "ASX",
+      "website": "https://www.goldcorp.com/",
+      "logoUrl": "/companies-assets/AND.ASX.svg",
+      "title": "Chief Executive Officer & Director",
+      "startDate": "2006",
+      "endDate": "2010",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2010"
     }
   ],
   "investmentTheses": [

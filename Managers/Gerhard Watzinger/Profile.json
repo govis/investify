@@ -6,23 +6,89 @@
   "age_year": 2024,
   "background": "Chairman of the Board. Former CEO of i-Logix and executive at McAfee.",
   "picture_url": null,
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "CrowdStrike Holdings, Inc.",
       "ticker": "CRWD",
       "exchange": "NASDAQ",
-      "title_or_role": "Chairman of the Board",
-      "start_date": "2012-04-01",
-      "end_date": null
+      "title_or_role": "Chairman of the Board of Directors",
+      "website": "https://www.crowdstrike.com",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "KnowBe4, Inc.",
+      "ticker": "KNBE",
+      "exchange": "NASDAQ",
+      "website": "https://www.knowbe4.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2019",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Absolute Software Corp.",
+      "ticker": "ABST",
+      "exchange": "TSX",
+      "website": "https://www.absolute.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2019",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Mastech Digital, Inc.",
+      "ticker": "MHH",
+      "exchange": "NYSE American",
+      "website": "https://www.mastechdigital.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "McAfee, Inc.",
+      "ticker": "MCFE",
+      "exchange": "NASDAQ",
+      "website": "https://www.mcafee.com",
+      "title_or_role": "Executive Vice President, Corporate Strategy, Mergers & Acquisitions",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "IGATE Corp.",
+      "ticker": "IGTE",
+      "exchange": "NASDAQ",
+      "website": "https://www.capgemini.com",
+      "title_or_role": "President & Chief Executive Officer",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gerhard-watzinger-04b7052",
+      "person_name": "Gerhard Watzinger",
+      "company_name": "CrowdStrike Holdings, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

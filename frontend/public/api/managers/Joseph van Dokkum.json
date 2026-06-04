@@ -9,11 +9,24 @@
       "ticker": "VRT",
       "exchange": "NYSE",
       "website": "https://www.vertiv.com",
+      "logoUrl": "/companies-assets/VRT.NYSE.svg",
       "title": "Director",
-      "startDate": "2020-02-01",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2020 February",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Siemens AG",
+      "ticker": "SIEGY",
+      "exchange": "OTC",
+      "website": "https://www.siemens.com",
+      "logoUrl": "/companies-assets/SIEGY.OTC.svg",
+      "title": "President & CEO (Siemens Power Transmission & Distribution, Inc.)",
+      "startDate": "1997",
+      "endDate": "2002",
+      "formattedStartDate": "1997",
+      "formattedEndDate": "2002"
     }
   ],
   "investmentTheses": [

@@ -6,20 +6,44 @@
   "companies": [
     {
       "name": "Eldorado Gold Corporation",
-      "ticker": "EGO",
-      "exchange": "NYSE",
-      "website": "https://www.eldoradogold.com",
+      "ticker": "ELD",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
       "title": "Independent Director",
-      "startDate": "2016-01-01",
+      "startDate": "2013",
       "endDate": null,
-      "formattedStartDate": "2016 January",
+      "formattedStartDate": "2013",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Euro Manganese Inc.",
+      "ticker": "EMN",
+      "exchange": "TSX",
+      "website": "https://www.mn25.ca/",
+      "logoUrl": "/companies-assets/EMN.TSX.svg",
+      "title": "Independent Director",
+      "startDate": "2016",
+      "endDate": "2026-01-13",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "January 2026"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/john-webster-257b8642",
+      "person_name": "John Webster",
+      "company_name": "Eldorado Gold Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Corporate Governance and Nominating Committee"

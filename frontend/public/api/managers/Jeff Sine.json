@@ -5,21 +5,57 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Arm Holdings plc",
-      "ticker": "ARM",
-      "exchange": "NASDAQ",
-      "website": "https://www.arm.com",
-      "title": "Independent Director",
-      "startDate": "2022-01-01",
-      "endDate": null,
-      "formattedStartDate": "2022 January",
-      "formattedEndDate": ""
+      "name": "WeWork Inc.",
+      "ticker": "WE",
+      "exchange": "NYSE",
+      "website": "https://www.wework.com",
+      "logoUrl": "/companies-assets/WE.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "October 2019",
+      "endDate": "2021",
+      "formattedStartDate": "October 2019",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Morgan Stanley",
+      "ticker": "MS",
+      "exchange": "NYSE",
+      "website": "https://www.morganstanley.com",
+      "logoUrl": "/companies-assets/MS.NYSE.svg",
+      "title": "Global Head of Media Investment Banking",
+      "startDate": "1991",
+      "endDate": "2001",
+      "formattedStartDate": "1991",
+      "formattedEndDate": "2001"
+    },
+    {
+      "name": "UBS Group AG",
+      "ticker": "UBS",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice Chairman and Global Head of Technology, Media & Telecom Investment Banking",
+      "startDate": "2001",
+      "endDate": "2011",
+      "formattedStartDate": "2001",
+      "formattedEndDate": "2011"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jeffsine",
+      "person_name": "Jeff Sine",
+      "company_name": "The Raine Group",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee"
   ],

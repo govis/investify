@@ -6,19 +6,45 @@
   "age_year": 2024,
   "background": "Dan Shugar is the founder and CEO of Nextracker. A solar industry veteran, he previously served as CEO of Solaria Corporation and President of SunPower Corporation, Systems Division. He has over 30 years of experience in the solar industry.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Nextracker Inc.",
       "ticker": "NXT",
       "exchange": "NASDAQ",
-      "title_or_role": "Chief Executive Officer, Director",
-      "start_date": "2013-01-01",
-      "end_date": null
+      "title_or_role": "Founder and CEO",
+      "website": "https://www.nextracker.com",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SunPower Corporation",
+      "ticker": "SPWR",
+      "exchange": "NASDAQ",
+      "website": "https://us.sunpower.com",
+      "title_or_role": "President",
+      "start_date": "2007",
+      "end_date": "2009",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/dan-shugar-39217813",
+      "person_name": "Dan Shugar",
+      "company_name": "Nextracker Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

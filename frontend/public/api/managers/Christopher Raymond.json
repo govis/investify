@@ -9,17 +9,29 @@
       "ticker": "BA",
       "exchange": "NYSE",
       "website": "https://www.boeing.com",
-      "title": "President and CEO, Boeing Global Services",
-      "startDate": "2024-01-01",
+      "logoUrl": "/companies-assets/BA.NYSE.svg",
+      "title": "Executive Vice President, President and Chief Executive Officer, Boeing Global Services (and various prior executive roles including Chief Sustainability Officer)",
+      "startDate": "1986",
       "endDate": null,
-      "formattedStartDate": "2024 January",
+      "formattedStartDate": "1986",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/christopher-raymond-8b0310181/",
+      "person_name": "Christopher Raymond",
+      "company_name": "The Boeing Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 59,
   "ageYear": 2024

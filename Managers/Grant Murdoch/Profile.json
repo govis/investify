@@ -6,22 +6,78 @@
   "age_year": 2024,
   "background": "Grant Murdoch was appointed as a Non-Executive Director on 30 October 2017. He is a Chartered Accountant and was previously a partner of Ernst & Young and Deloitte.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit and Risk Committee (Chair)",
-    "Nomination and Governance Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Lynas Rare Earths Limited",
       "ticker": "LYC",
       "exchange": "ASX",
       "title_or_role": "Non-Executive Director",
+      "website": "https://lynasrareearths.com/",
+      "start_date": "2017-10-29",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Auswide Bank Ltd",
+      "ticker": "ABA",
+      "exchange": "ASX",
+      "website": "https://www.auswidebank.com.au/",
+      "title_or_role": "Non-Executive Director",
       "start_date": "2017-10-30",
-      "end_date": null
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "ALS Limited",
+      "ticker": "ALQ",
+      "exchange": "ASX",
+      "website": "https://www.alsglobal.com/",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "OFX Group Limited",
+      "ticker": "OFX",
+      "exchange": "ASX",
+      "website": "https://www.ofx.com/",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cardno Limited",
+      "ticker": "CDD",
+      "exchange": "ASX",
+      "website": "https://www.cardno.com/",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/grant-murdoch-5a5a5a1a/",
+      "person_name": "Grant Murdoch",
+      "company_name": "Lynas Rare Earths Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee (Chair)",
+    "Nomination and Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

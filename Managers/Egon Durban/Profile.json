@@ -6,21 +6,107 @@
   "age_year": 2024,
   "background": "Co-CEO of Silver Lake, a global technology investment firm.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Executive Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Dell Technologies Inc.",
       "ticker": "DELL",
       "exchange": "NYSE",
       "title_or_role": "Director",
-      "start_date": "2013-01-01",
-      "end_date": null
+      "website": "dell.com",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Motorola Solutions, Inc.",
+      "ticker": "MSI",
+      "exchange": "NYSE",
+      "website": "motorolasolutions.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "TKO Group Holdings, Inc.",
+      "ticker": "TKO",
+      "exchange": "NYSE",
+      "website": "tkohq.com",
+      "title_or_role": "Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Unity Software Inc.",
+      "ticker": "U",
+      "exchange": "NYSE",
+      "website": "unity.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Endeavor Group Holdings, Inc.",
+      "ticker": "EDR",
+      "exchange": "NYSE",
+      "website": "endeavorco.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2012",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Qualtrics International Inc.",
+      "ticker": "XM",
+      "exchange": "NASDAQ",
+      "website": "qualtrics.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Twitter, Inc.",
+      "ticker": "TWTR",
+      "exchange": "NYSE",
+      "website": "twitter.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "VMware, Inc.",
+      "ticker": "VMW",
+      "exchange": "NYSE",
+      "website": "vmware.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2023",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/egon-durban-63575819",
+      "person_name": "Egon Durban",
+      "company_name": "Silver Lake",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Executive Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

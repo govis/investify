@@ -7,19 +7,43 @@
     {
       "name": "Tudor Gold Corp.",
       "ticker": "TUD",
-      "exchange": "TSX",
-      "website": "https://tudor-gold.com/",
-      "title": "Independent Director",
-      "startDate": "2016-01-01",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "Not specified",
       "endDate": null,
-      "formattedStartDate": "2016 January",
+      "formattedStartDate": "Not specified",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Goldstorm Metals Corp.",
+      "ticker": "GSTM",
+      "exchange": "TSXV",
+      "website": "https://goldstormmetals.com/",
+      "logoUrl": "/companies-assets/GSTM.TSXV.png",
+      "title": "Advisor",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://de.linkedin.com/in/helmut-finger-a914a832",
+      "person_name": "Helmut Finger",
+      "company_name": "Tudor Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

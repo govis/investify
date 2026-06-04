@@ -5,15 +5,40 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "OceanaGold Corporation",
-      "ticker": "OGC",
+      "name": "BirdDog Technology Limited",
+      "ticker": "BDT",
       "exchange": "ASX",
-      "website": "https://oceanagold.com",
-      "title": "Independent Non-Executive Director",
-      "startDate": "2024-02-01",
+      "website": "https://birddog.tv/",
+      "logoUrl": "/companies-assets/BDT.ASX.png",
+      "title": "Non-Executive Director",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2024 February",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Harris Technology Group Ltd",
+      "ticker": "HT8",
+      "exchange": "ASX",
+      "website": "https://ht8.com.au/",
+      "logoUrl": "/companies-assets/HT8.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Buddy Technologies Limited",
+      "ticker": "BUD",
+      "exchange": "ASX",
+      "website": "https://buddy.com/",
+      "logoUrl": "/companies-assets/BUD.ASX.png",
+      "title": "Non-Executive Director",
+      "startDate": "2020-12-15",
+      "endDate": "2021-06-04",
+      "formattedStartDate": "December 2020",
+      "formattedEndDate": "June 2021"
     }
   ],
   "investmentTheses": [

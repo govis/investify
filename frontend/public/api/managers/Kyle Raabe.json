@@ -9,17 +9,29 @@
       "ticker": "GNRC",
       "exchange": "NYSE",
       "website": "https://www.generac.com",
-      "title": "Executive Vice President and President of Consumer Power",
-      "startDate": "2020-01-01",
+      "logoUrl": "/companies-assets/GNRC.NYSE.svg",
+      "title": "President, Consumer Power",
+      "startDate": "November 2019",
       "endDate": null,
-      "formattedStartDate": "2020 January",
+      "formattedStartDate": "November 2019",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kyle-raabe-ba66ba3",
+      "person_name": "Kyle Raabe",
+      "company_name": "Generac Holdings Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 52,
   "ageYear": 2024

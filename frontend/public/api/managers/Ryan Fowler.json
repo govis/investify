@@ -3,19 +3,7 @@
   "name": "Ryan Fowler",
   "background": "Mr. Fowler joined Seabridge in 2022 and was appointed Senior Vice President, Operations in 2023. He has over 20 years of experience in the mining industry, including senior roles at Newcrest Mining and Rio Tinto.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "Seabridge Gold Inc.",
-      "ticker": "SA",
-      "exchange": "NYSE",
-      "website": "https://www.seabridgegold.com",
-      "title": "Senior Vice President, Operations",
-      "startDate": "2023-01-01",
-      "endDate": null,
-      "formattedStartDate": "2023 January",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "Gold"
   ],

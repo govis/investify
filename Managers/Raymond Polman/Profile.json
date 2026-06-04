@@ -6,23 +6,49 @@
   "age_year": 2024,
   "background": "Mr. Polman is a CPA with over 30 years of public accounting and corporate finance experience. He was previously the CFO of First Majestic Silver Corp.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "First Mining Gold Corp.",
       "ticker": "FF",
       "exchange": "TSX",
       "title_or_role": "Director",
-      "start_date": "2015-03-30",
-      "end_date": null
+      "website": "https://firstmininggold.com",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "First Majestic Silver Corp.",
+      "ticker": "AG",
+      "exchange": "TSX",
+      "website": "https://www.firstmajestic.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2006",
+      "end_date": "2021",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/raymond-polman-4a5b2a12",
+      "person_name": "Raymond Polman",
+      "company_name": "First Majestic Silver Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

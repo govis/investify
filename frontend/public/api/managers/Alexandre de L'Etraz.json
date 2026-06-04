@@ -3,19 +3,7 @@
   "name": "Alexandre de L'Etraz",
   "background": "Experienced in international finance and wealth management.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "Sigma Lithium Corporation",
-      "ticker": "SGML",
-      "exchange": "NASDAQ",
-      "website": "https://www.sigmalithiumresources.com",
-      "title": "Independent Director",
-      "startDate": "2018-05-01",
-      "endDate": null,
-      "formattedStartDate": "2018 May",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "Electrification"
   ],

@@ -6,20 +6,56 @@
   "companies": [
     {
       "name": "GoviEx Uranium Inc.",
-      "ticker": "GXU",
-      "exchange": "TSXV",
-      "website": "https://www.goviex.com",
-      "title": "Chief Executive Officer, Director",
-      "startDate": "2012-01-01",
+      "ticker": "TSX-V: GXU / OTCQX: GVXXF",
+      "exchange": "TSX-V, OTC",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Executive Officer & Director",
+      "startDate": "2012",
       "endDate": null,
-      "formattedStartDate": "2012 January",
+      "formattedStartDate": "2012",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Leading Edge Materials Corp.",
+      "ticker": "TSX-V: LEM / OTC: LEMIF / STO: LEMSE",
+      "exchange": "TSX-V, OTC, STO",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Strikeforce Mining & Resources Ltd.",
+      "ticker": "LSE: SMR",
+      "exchange": "LSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Chairman",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/daniel-major-58a88940",
+      "person_name": "Daniel Major",
+      "company_name": "GoviEx Uranium Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 58,
   "ageYear": 2024

@@ -7,13 +7,50 @@
     {
       "name": "Hudbay Minerals Inc.",
       "ticker": "HBM",
-      "exchange": "NYSE",
-      "website": "https://www.hudbayminerals.com",
-      "title": "Chair of the Board",
-      "startDate": "2019-05-01",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chair of the Board of Directors",
+      "startDate": "2019-10",
+      "endDate": "2024-12",
+      "formattedStartDate": "October 2019",
+      "formattedEndDate": "December 2024"
+    },
+    {
+      "name": "Hycroft Mining Holding Corporation",
+      "ticker": "HYMC",
+      "exchange": "NASDAQ",
+      "website": "hycroftmining.com",
+      "logoUrl": "/companies-assets/HYMC.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2021-05",
       "endDate": null,
-      "formattedStartDate": "2019 May",
+      "formattedStartDate": "May 2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Centerra Gold Inc.",
+      "ticker": "CG",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Chair",
+      "startDate": "2012",
+      "endDate": "2019",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Allied Nevada Gold Corp.",
+      "ticker": "ANV",
+      "exchange": "TSX",
+      "website": "https://www.alliednevada.com",
+      "logoUrl": "/companies-assets/ANV.TSX.png",
+      "title": "Director",
+      "startDate": "2013-08",
+      "endDate": "2015",
+      "formattedStartDate": "August 2013",
+      "formattedEndDate": "2015"
     }
   ],
   "investmentTheses": [

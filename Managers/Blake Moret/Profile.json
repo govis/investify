@@ -6,19 +6,44 @@
   "age_year": 2024,
   "background": "Blake D. Moret is Chairman and Chief Executive Officer of Rockwell Automation. He has been with the company for over 35 years, serving in various leadership roles across the business.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Rockwell Automation, Inc.",
       "ticker": "ROK",
       "exchange": "NYSE",
       "title_or_role": "Chairman and Chief Executive Officer",
+      "website": "https://www.rockwellautomation.com",
       "start_date": "2016-07-01",
       "end_date": null
+    },
+    {
+      "name": "PTC, Inc.",
+      "ticker": "PTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.ptc.com",
+      "title_or_role": "Director",
+      "start_date": "2018-06-11",
+      "end_date": "2023-08-01",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/blake-moret-2ab4641",
+      "person_name": "Blake Moret",
+      "company_name": "Rockwell Automation, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

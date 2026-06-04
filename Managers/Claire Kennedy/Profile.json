@@ -6,6 +6,38 @@
   "age_year": 2024,
   "background": "Ms. Kennedy is Senior Advisor, Clients and Industries at Bennett Jones LLP and is a professional engineer.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Alamos Gold Inc.",
+      "ticker": "AGI",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.alamosgold.com",
+      "start_date": "2021-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Constellation Software Inc.",
+      "ticker": "CSU",
+      "exchange": "TSX",
+      "website": "https://www.csisoftware.com",
+      "title_or_role": "Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Neo Performance Materials Inc.",
+      "ticker": "NEO",
+      "exchange": "TSX",
+      "website": "https://www.neomaterials.com",
+      "title_or_role": "Director / Chair of the Board",
+      "start_date": "2017",
+      "end_date": "2025",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +46,6 @@
     "Corporate Governance and Nominating Committee",
     "Human Resources and Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Alamos Gold Inc.",
-      "ticker": "AGI",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2021-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

@@ -7,19 +7,31 @@
     {
       "name": "Revival Gold Inc.",
       "ticker": "RVG",
-      "exchange": "TSX",
-      "website": "https://revival-gold.com",
-      "title": "Vice President, Engineering and Development",
-      "startDate": "2022-01-01",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice President, Engineering & Development",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2022 January",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/john-meyer-p-eng-4a5a2a15",
+      "person_name": "John Meyer",
+      "company_name": "Revival Gold Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 58,
   "ageYear": 2024

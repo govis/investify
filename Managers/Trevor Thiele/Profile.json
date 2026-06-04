@@ -6,6 +6,48 @@
   "age_year": 2024,
   "background": "Mr. Thiele has over 30 years of experience in senior financial roles. He was the CFO of several major Australian resource companies.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "NexGen Energy Ltd.",
+      "ticker": "NXE",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://www.nexgenenergy.ca/",
+      "start_date": "2013-04-18",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NexGen Energy Ltd.",
+      "ticker": "NXE",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://www.nexgenenergy.ca",
+      "start_date": "2013-02-01",
+      "end_date": null
+    },
+    {
+      "name": "ISO Energy Ltd.",
+      "ticker": "ISO",
+      "exchange": "TSXV",
+      "website": "https://isoenergy.ca/",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bionomics Limited",
+      "ticker": "BNO",
+      "exchange": "ASX",
+      "website": "https://www.bionomics.com.au/",
+      "title_or_role": "Chief Financial Officer (CFO)",
+      "start_date": "Prior to 2011",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -15,22 +57,6 @@
     "Audit Committee (Chair)",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "NexGen Energy Ltd.",
-      "ticker": "NXE",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2013-01-01",
-      "end_date": null
-    },
-    {
-      "name": "NexGen Energy Ltd.",
-      "ticker": "NXE",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2013-02-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

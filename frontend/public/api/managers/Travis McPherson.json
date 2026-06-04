@@ -7,24 +7,14 @@
     {
       "name": "NexGen Energy Ltd.",
       "ticker": "NXE",
-      "exchange": "NYSE",
-      "website": "https://www.nexgenenergy.ca",
-      "title": "Chief Commercial Officer",
-      "startDate": "2022-01-01",
-      "endDate": null,
-      "formattedStartDate": "2022 January",
-      "formattedEndDate": ""
-    },
-    {
-      "name": "NexGen Energy Ltd.",
-      "ticker": "NXE",
-      "exchange": "TSX",
-      "website": "https://www.nexgenenergy.ca",
-      "title": "Chief Commercial Officer",
-      "startDate": "2022-04-01",
-      "endDate": null,
-      "formattedStartDate": "2022 April",
-      "formattedEndDate": ""
+      "exchange": "TSX, NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice President, Corporate Development",
+      "startDate": "2013",
+      "endDate": "2016",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2016"
     }
   ],
   "investmentTheses": [

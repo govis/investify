@@ -6,19 +6,115 @@
   "age_year": 2024,
   "background": "Michael J. Berry has served as our Executive Vice President and Chief Financial Officer since March 2020. Prior to joining NetApp, Mr. Berry served as Executive Vice President and Chief Financial Officer of McAfee, LLC from February 2017 to March 2020. From September 2015 to January 2017, he served as Executive Vice President, Chief Financial Officer and Chief Operating Officer at FireEye, Inc.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "NetApp, Inc.",
       "ticker": "NTAP",
       "exchange": "NASDAQ",
-      "title_or_role": "Executive Vice President and Chief Financial Officer",
-      "start_date": "2020-03-01",
-      "end_date": null
+      "title_or_role": "Executive Vice President & CFO",
+      "website": "https://www.netapp.com",
+      "start_date": "2020",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "MongoDB, Inc.",
+      "ticker": "MDB",
+      "exchange": "NASDAQ",
+      "website": "https://www.mongodb.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "McAfee Corp.",
+      "ticker": "MCFE",
+      "exchange": "NASDAQ",
+      "website": "https://www.mcafee.com",
+      "title_or_role": "Executive Vice President & CFO",
+      "start_date": "2017",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "FireEye, Inc.",
+      "ticker": "FEYE",
+      "exchange": "NASDAQ",
+      "website": "https://www.trellix.com",
+      "title_or_role": "EVP, CFO & COO",
+      "start_date": "2015",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Informatica Inc.",
+      "ticker": "INFA",
+      "exchange": "NYSE",
+      "website": "https://www.informatica.com",
+      "title_or_role": "Executive Vice President & CFO",
+      "start_date": "2014",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "IO Data Centers",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "https://www.ironmountain.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2013",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "SolarWinds, Inc.",
+      "ticker": "SWI",
+      "exchange": "NYSE",
+      "website": "https://www.solarwinds.com",
+      "title_or_role": "SVP & Chief Financial Officer",
+      "start_date": "2010",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Rapid7, Inc.",
+      "ticker": "RPD",
+      "exchange": "NASDAQ",
+      "website": "https://www.rapid7.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "i2 Technologies, Inc.",
+      "ticker": "ITWO",
+      "exchange": "NASDAQ",
+      "website": "https://www.jabil.com",
+      "title_or_role": "Executive Vice President & CFO",
+      "start_date": "2005",
+      "end_date": "2010",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mike-berry-59b7961",
+      "person_name": "Michael Berry",
+      "company_name": "NetApp, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

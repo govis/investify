@@ -6,19 +6,34 @@
   "age_year": 2024,
   "background": "Mr. Kriens has served as Chairman of the Board since 1996. He served as our CEO from 1996 to 2008.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Juniper Networks, Inc.",
       "ticker": "JNPR",
       "exchange": "NYSE",
       "title_or_role": "Chairman of the Board",
-      "start_date": "1996-10-01",
-      "end_date": null
+      "website": "https://www.juniper.net",
+      "start_date": "2008-09",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Equinix, Inc.",
+      "ticker": "EQIX",
+      "exchange": "NASDAQ",
+      "website": "https://www.equinix.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2000-07",
+      "end_date": "2020-06",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

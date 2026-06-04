@@ -9,18 +9,42 @@
       "ticker": "ALB",
       "exchange": "NYSE",
       "website": "https://www.albemarle.com",
+      "logoUrl": "/companies-assets/ALB.NYSE.svg",
       "title": "Executive Vice President and Chief Financial Officer",
-      "startDate": "2023-11-06",
+      "startDate": "May 2024",
       "endDate": null,
-      "formattedStartDate": "2023 November",
+      "formattedStartDate": "May 2024",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Dow Inc.",
+      "ticker": "DOW",
+      "exchange": "NYSE",
+      "website": "https://www.dow.com",
+      "logoUrl": "/companies-assets/DOW.NYSE.svg",
+      "title": "Various leadership roles, including Vice President of Investor Relations, Senior Director of Corporate Development, and Global Finance Director for the Chemicals business group.",
+      "startDate": "2004",
+      "endDate": "May 2024",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "May 2024"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/neal-sheorey-8545b41",
+      "person_name": "Neal Sheorey",
+      "company_name": "Albemarle Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 48,
   "ageYear": 2024

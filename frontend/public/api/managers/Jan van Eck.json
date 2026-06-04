@@ -5,24 +5,26 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "VanEck Uranium and Nuclear Energy ETF",
-      "ticker": "NLR",
-      "exchange": "NYSE",
-      "website": "https://www.vaneck.com/us/en/investments/uranium-nuclear-energy-etf-nlr/",
-      "title": "Chief Executive Officer, Interested Trustee, President and Trustee",
-      "startDate": "2001-01-01",
-      "endDate": null,
-      "formattedStartDate": "2001 January",
+      "name": "Market Vectors Commodity Trust",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "President & Director",
+      "startDate": "Unknown",
+      "endDate": "Unknown",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     },
     {
-      "name": "VanEck Rare Earth/Strategic Metals ETF",
-      "ticker": "SETM",
-      "exchange": "NYSE",
-      "website": "https://www.vaneck.com/us/en/investments/rare-earth-strategic-metals-etf-remx/",
-      "title": "President and Chief Executive Officer, Trustee",
-      "startDate": "2010",
-      "endDate": null,
+      "name": "Van Eck Securities Corp.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "President & Director",
+      "startDate": "Unknown",
+      "endDate": "Unknown",
       "formattedStartDate": "",
       "formattedEndDate": ""
     }
@@ -31,7 +33,18 @@
     "Nuclear",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/janfvaneck",
+      "person_name": "Jan van Eck",
+      "company_name": "VanEck",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 61,
   "ageYear": 2024

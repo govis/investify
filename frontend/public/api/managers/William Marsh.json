@@ -9,28 +9,89 @@
       "ticker": "FCU",
       "exchange": "TSX",
       "website": "https://fissionuranium.com",
-      "title": "Independent Director",
-      "startDate": "2013-02-13",
+      "logoUrl": "/companies-assets/FCU.TSX.svg",
+      "title": "Director",
+      "startDate": "Unknown",
       "endDate": null,
-      "formattedStartDate": "2013 February",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     },
     {
-      "name": "F3 Uranium Corp.",
+      "name": "F3 Uranium Corp. (formerly Fission 3.0)",
       "ticker": "FUU",
+      "exchange": "TSXV",
+      "website": "https://f3uranium.com/",
+      "logoUrl": "/companies-assets/FUU.TSXV.webp",
+      "title": "Director",
+      "startDate": "Unknown",
+      "endDate": "2021-09-21",
+      "formattedStartDate": "",
+      "formattedEndDate": "September 2021"
+    },
+    {
+      "name": "Advantage Lithium Corp.",
+      "ticker": "AAL",
+      "exchange": "TSXV",
+      "website": "advantagelithium.com",
+      "logoUrl": "/companies-assets/AAL.TSXV.png",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": "Unknown",
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Pacific Asia China Energy",
+      "ticker": "PACE",
       "exchange": "TSX",
-      "website": "https://f3uranium.com",
-      "title": "Independent Director",
-      "startDate": "2022-11-01",
-      "endDate": null,
-      "formattedStartDate": "2022 November",
+      "website": "N/A",
+      "logoUrl": "/companies-assets/PACE.TSX.svg",
+      "title": "Director",
+      "startDate": "Unknown",
+      "endDate": "2008",
+      "formattedStartDate": "",
+      "formattedEndDate": "2008"
+    },
+    {
+      "name": "Crazy Horse Resources Inc.",
+      "ticker": "CZH",
+      "exchange": "TSXV",
+      "website": "N/A",
+      "logoUrl": "https://www.crazyhorseresources.com/images/logo.png",
+      "title": "Director",
+      "startDate": "Unknown",
+      "endDate": "Unknown",
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Wolfpack Capital Corp.",
+      "ticker": "WPK",
+      "exchange": "TSXV",
+      "website": "N/A",
+      "logoUrl": "https://www.globenewswire.com/images/logo.png",
+      "title": "Director",
+      "startDate": "Unknown",
+      "endDate": "Unknown",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/william-marsh-5b780190",
+      "person_name": "William Marsh",
+      "company_name": "Fission Uranium Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee",

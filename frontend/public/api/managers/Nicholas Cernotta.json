@@ -9,17 +9,77 @@
       "ticker": "PLS",
       "exchange": "ASX",
       "website": "https://www.pilbaraminerals.com.au",
-      "title": "Independent Non-Executive Director",
-      "startDate": "2017-02-06",
+      "logoUrl": "/companies-assets/PLS.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2017 February",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "29Metals Limited",
+      "ticker": "29M",
+      "exchange": "ASX",
+      "website": "https://www.29metals.com/",
+      "logoUrl": "/companies-assets/29M.ASX.svg",
+      "title": "Non-Executive Director (appointed Deputy Chair in 2025)",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Venture Minerals Limited",
+      "ticker": "VMS",
+      "exchange": "ASX",
+      "website": "https://www.ventureminerals.com.au",
+      "logoUrl": "/companies-assets/VMS.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "New Century Resources Limited",
+      "ticker": "NCZ",
+      "exchange": "ASX",
+      "website": null,
+      "logoUrl": "/companies-assets/NCZ.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2020",
+      "endDate": "2022",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Macmahon Holdings Limited",
+      "ticker": "MAH",
+      "exchange": "ASX",
+      "website": "https://www.macmahon.com.au",
+      "logoUrl": "/companies-assets/MAH.ASX.svg",
+      "title": "Chief Operating Officer (Underground & International & Engineering)",
+      "startDate": "2013",
+      "endDate": "2017",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2017"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/nick-cernotta-7b9b7724",
+      "person_name": "Nicholas Cernotta",
+      "company_name": "Pilbara Minerals Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit and Risk Committee",
     "Sustainability Committee (Chair)"

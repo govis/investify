@@ -5,21 +5,57 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "G Mining Ventures Corp.",
-      "ticker": "GMIN",
-      "exchange": "TSX",
-      "website": "https://www.gminingventures.com",
-      "title": "Independent Director",
-      "startDate": "2021-05-15",
+      "name": "Deterra Royalties Ltd.",
+      "ticker": "DRR",
+      "exchange": "ASX",
+      "website": "https://www.deterraroyalties.com",
+      "logoUrl": "/companies-assets/DRR.ASX.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2021 May",
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
+    },
+    {
+      "name": "TMAC Resources Inc.",
+      "ticker": "TMR",
+      "exchange": "TSX",
+      "website": "https://www.tmacresources.com/",
+      "logoUrl": "https://www.marketscreener.com/images/reuters/2017-05-15T131000Z_1_LYNXMPED4E0O6_RTROPTP_3_TMAC-RESOURCES-INC.JPG",
+      "title": "President and Chief Executive Officer",
+      "startDate": "2018",
+      "endDate": "2021",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Kirkland Lake Gold Ltd.",
+      "ticker": "KL",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Vice President",
+      "startDate": "2021",
+      "endDate": "2022",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2022"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/jason-neal-264237a1",
+      "person_name": "Jason Neal",
+      "company_name": "G Mining Ventures Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee",
     "Governance and Nominating Committee"

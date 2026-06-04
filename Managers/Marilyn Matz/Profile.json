@@ -6,22 +6,48 @@
   "age_year": 2024,
   "background": "Marilyn Matz has been a director since 2017. She is the co-founder and former CEO of mabl Inc. and was a co-founder of Cognex Corporation.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense",
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Teradyne, Inc.",
       "ticker": "TER",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2017-01-01",
-      "end_date": null
+      "title_or_role": "Director (Board of Directors)",
+      "website": "https://www.teradyne.com",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "LogMeIn, Inc.",
+      "ticker": "LOGM",
+      "exchange": "NASDAQ",
+      "website": "https://www.logmeininc.com",
+      "title_or_role": "Director (Board of Directors)",
+      "start_date": "2014",
+      "end_date": "2017",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/marilynmatz",
+      "person_name": "Marilyn Matz",
+      "company_name": "Teradyne, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

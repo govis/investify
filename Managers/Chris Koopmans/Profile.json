@@ -6,19 +6,45 @@
   "age_year": 2024,
   "background": "Mr. Koopmans has served as our Chief Operations Officer since January 2023. He previously served as Executive Vice President, Marketing and Business Operations from 2020 to 2023 and as Executive Vice President, Networking and Processors from 2016 to 2020.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Marvell Technology, Inc.",
       "ticker": "MRVL",
       "exchange": "NASDAQ",
-      "title_or_role": "Chief Operations Officer",
-      "start_date": "2023-01-01",
-      "end_date": null
+      "title_or_role": "President and Chief Operating Officer",
+      "website": "https://www.marvell.com",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cavium, Inc.",
+      "ticker": "CAVM",
+      "exchange": "NASDAQ",
+      "website": "https://www.marvell.com",
+      "title_or_role": "Executive",
+      "start_date": "Prior to 2018",
+      "end_date": "2018",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/chris-koopmans-4a5a1a1",
+      "person_name": "Chris Koopmans",
+      "company_name": "Marvell Technology",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -7,12 +7,13 @@
     {
       "name": "CanAlaska Uranium Ltd.",
       "ticker": "CVV",
-      "exchange": "TSX",
-      "website": "https://canalaska.com/",
+      "exchange": "TSX Venture Exchange",
+      "website": null,
+      "logoUrl": null,
       "title": "Director",
-      "startDate": "2022-01-01",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2022 January",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],

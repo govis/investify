@@ -9,18 +9,42 @@
       "ticker": "ALB",
       "exchange": "NYSE",
       "website": "https://www.albemarle.com",
-      "title": "Independent Director",
-      "startDate": "2018-01-01",
+      "logoUrl": "/companies-assets/ALB.NYSE.svg",
+      "title": "Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2018 January",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Tesla, Inc.",
+      "ticker": "TSLA",
+      "exchange": "NASDAQ",
+      "website": "https://www.tesla.com",
+      "logoUrl": "/companies-assets/TSLA.NASDAQ.svg",
+      "title": "Vice President, Business Development",
+      "startDate": "2006",
+      "endDate": "2017",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2017"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/doconnell360",
+      "person_name": "Diarmuid O'Connell",
+      "company_name": "Albemarle Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Capital Investment Committee",
     "Health, Safety & Environmental Committee"

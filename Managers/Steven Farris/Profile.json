@@ -6,32 +6,60 @@
   "age_year": 2024,
   "background": "Mr. Farris has served as Chairman of the Board since 2016. He was previously the Chairman and CEO of Apache Corporation.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Governance and Nominating Committee",
-    "Nominating and Corporate Governance Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Cheniere Energy, Inc.",
       "ticker": "LNG",
       "exchange": "NYSE",
-      "title_or_role": "Chairman of the Board",
-      "start_date": "2016-05-12",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://cheniere.com",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Livent Corporation",
       "ticker": "LTHM",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2018-05-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://livent.com",
+      "start_date": "2018",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Apache Corporation (now APA Corporation)",
+      "ticker": "APA",
+      "exchange": "NASDAQ",
+      "website": "https://apacorp.com",
+      "title_or_role": "President, CEO, Chairman",
+      "start_date": "1988",
+      "end_date": "2015",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/steven-farris-90b886143",
+      "person_name": "Steven Farris",
+      "company_name": "Cheniere Energy, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Governance and Nominating Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

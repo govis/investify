@@ -5,33 +5,83 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Arista Networks, Inc.",
-      "ticker": "ANET",
-      "exchange": "NYSE",
-      "website": "https://www.arista.com",
-      "title": "Independent Director",
-      "startDate": "2013-06-01",
+      "name": "Netflix, Inc.",
+      "ticker": "NFLX",
+      "exchange": "NASDAQ",
+      "website": "netflix.com",
+      "logoUrl": "/companies-assets/NFLX.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2010",
       "endDate": null,
-      "formattedStartDate": "2013 June",
+      "formattedStartDate": "2010",
       "formattedEndDate": ""
     },
     {
-      "name": "Alphabet Inc.",
-      "ticker": "GOOGL",
+      "name": "Bumble Inc.",
+      "ticker": "BMBL",
       "exchange": "NASDAQ",
-      "website": "https://abc.xyz",
-      "title": "Director",
-      "startDate": "2005-11-01",
+      "website": "bumble.com",
+      "logoUrl": "/companies-assets/BMBL.NASDAQ.svg",
+      "title": "Director / Chair",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2005 November",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Airbnb, Inc.",
+      "ticker": "ABNB",
+      "exchange": "NASDAQ",
+      "website": "airbnb.com",
+      "logoUrl": "/companies-assets/ABNB.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": "2023",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Glu Mobile Inc.",
+      "ticker": "GLUU",
+      "exchange": "NASDAQ",
+      "website": "glu.com",
+      "logoUrl": "/companies-assets/GLUU.NASDAQ.png",
+      "title": "Director",
+      "startDate": "2005",
+      "endDate": "2021",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Pixar Animation Studios",
+      "ticker": "PIXR",
+      "exchange": "NASDAQ",
+      "website": "pixar.com",
+      "logoUrl": "/companies-assets/PIXR.NASDAQ.webp",
+      "title": "EVP, CFO, Company Secretary",
+      "startDate": "1999",
+      "endDate": "2004",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2004"
     }
   ],
   "investmentTheses": [
     "AI",
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/annmather/",
+      "person_name": "Ann Mather",
+      "company_name": "Multiple (including Arista Networks, Alphabet Inc., Netflix, Bumble Inc., Airbnb, Inc.)",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1,
+      "profile_status": "private"
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Audit and Compliance Committee"

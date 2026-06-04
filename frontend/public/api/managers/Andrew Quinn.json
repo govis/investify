@@ -7,19 +7,55 @@
     {
       "name": "Barrick Gold Corporation",
       "ticker": "GOLD",
-      "exchange": "NYSE",
-      "website": "https://www.barrick.com",
-      "title": "Independent Director",
-      "startDate": "2019-01-01",
+      "exchange": "NYSE / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Director",
+      "startDate": "2019",
+      "endDate": "2025",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "Alkane Resources Ltd",
+      "ticker": "ALK",
+      "exchange": "ASX",
+      "website": "https://alkres.com",
+      "logoUrl": "/companies-assets/ALK.ASX.svg",
+      "title": "Director",
+      "startDate": "2025",
       "endDate": null,
-      "formattedStartDate": "2019 January",
+      "formattedStartDate": "2025",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Randgold Resources",
+      "ticker": "RRS",
+      "exchange": "LSE",
+      "website": null,
+      "logoUrl": "https://seeklogo.com/images/R/randgold-logo-1157688265-seeklogo.com.png",
+      "title": "Non-Executive Director",
+      "startDate": "2011",
+      "endDate": "2018",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2018"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/andrew-quinn-0a811a28",
+      "person_name": "Andrew Quinn",
+      "company_name": "Alkane Resources Ltd",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1
+    }
+  ],
   "committees": [
     "Audit & Risk Committee",
     "Compensation Committee"

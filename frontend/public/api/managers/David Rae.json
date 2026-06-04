@@ -5,15 +5,64 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Dundee Precious Metals Inc.",
-      "ticker": "DPM",
-      "exchange": "TSX",
-      "website": "https://www.dundeeprecious.com",
+      "name": "Andean American Gold Corp.",
+      "ticker": "AAG",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": "/companies-assets/AAG.TSXV.png",
       "title": "President and Chief Executive Officer",
-      "startDate": "2020-05-01",
-      "endDate": null,
-      "formattedStartDate": "2020 May",
-      "formattedEndDate": ""
+      "startDate": "2010",
+      "endDate": "2012",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "Sinchao Metals Corp.",
+      "ticker": "SMZ",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": "https://companieslogo.com/img/orig/SMZ.V-56215328.png?t=1720244492",
+      "title": "Chairman and Chief Executive Officer",
+      "startDate": "2012",
+      "endDate": "2014",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2014"
+    },
+    {
+      "name": "INV Metals Inc.",
+      "ticker": "INV",
+      "exchange": "TSX",
+      "website": "https://www.invmetals.com/",
+      "logoUrl": "https://www.invmetals.com/wp-content/uploads/2018/05/inv-metals-logo.png",
+      "title": "Independent Director",
+      "startDate": "2017",
+      "endDate": "2021",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Sabina Gold & Silver Corp.",
+      "ticker": "SBB",
+      "exchange": "TSX",
+      "website": "https://www.sabinagoldsilver.com/",
+      "logoUrl": "/companies-assets/SBB.TSX.svg",
+      "title": "Independent Director",
+      "startDate": "2017",
+      "endDate": "2020",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Xstrata Nickel",
+      "ticker": "XTA",
+      "exchange": "LSE",
+      "website": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Xstrata_logo.svg/1200px-Xstrata_logo.svg.png",
+      "title": "Senior Vice President, Europe and Africa",
+      "startDate": "2006",
+      "endDate": "2009",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2009"
     }
   ],
   "investmentTheses": [

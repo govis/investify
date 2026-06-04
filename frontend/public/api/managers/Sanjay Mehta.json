@@ -9,11 +9,24 @@
       "ticker": "TER",
       "exchange": "NASDAQ",
       "website": "https://www.teradyne.com",
-      "title": "Vice President and Chief Financial Officer",
-      "startDate": "2019-04-01",
-      "endDate": null,
-      "formattedStartDate": "2019 April",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/TER.NASDAQ.svg",
+      "title": "Chief Financial Officer, Treasurer, VP",
+      "startDate": "Apr 2019",
+      "endDate": "Nov 2025",
+      "formattedStartDate": "Apr 2019",
+      "formattedEndDate": "Nov 2025"
+    },
+    {
+      "name": "Qualcomm Incorporated",
+      "ticker": "QCOM",
+      "exchange": "NASDAQ",
+      "website": "https://www.qualcomm.com",
+      "logoUrl": "/companies-assets/QCOM.NASDAQ.svg",
+      "title": "Segment Chief Financial Officer (QCT)",
+      "startDate": "2010",
+      "endDate": "2015",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2015"
     }
   ],
   "investmentTheses": [

@@ -9,17 +9,41 @@
       "ticker": "ARTG",
       "exchange": "TSX",
       "website": "https://www.artemisgoldinc.com",
+      "logoUrl": "/companies-assets/ARTG.TSX.png",
       "title": "Senior Vice President, Corporate Affairs",
-      "startDate": "2021-06-01",
+      "startDate": "2020-05",
       "endDate": null,
-      "formattedStartDate": "2021 June",
+      "formattedStartDate": "May 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Greenlane Renewables Inc.",
+      "ticker": "GRN",
+      "exchange": "TSXV",
+      "website": "https://www.greenlanerenewables.com",
+      "logoUrl": "/companies-assets/GRN.TSXV.svg",
+      "title": "Director",
+      "startDate": "2020-06-12",
+      "endDate": null,
+      "formattedStartDate": "June 2020",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/candice-alderson-7a5a5a1a",
+      "person_name": "Candice Alderson",
+      "company_name": "Artemis Gold Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 49,
   "ageYear": 2024

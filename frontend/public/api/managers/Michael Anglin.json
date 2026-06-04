@@ -7,19 +7,55 @@
     {
       "name": "SSR Mining Inc.",
       "ticker": "SSRM",
-      "exchange": "NASDAQ",
-      "website": "https://www.ssrmining.com",
-      "title": "Lead Independent Director",
-      "startDate": "2020-09-16",
+      "exchange": "TSX / NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Chairman / Non-Executive Director",
+      "startDate": "2008",
       "endDate": null,
-      "formattedStartDate": "2020 September",
+      "formattedStartDate": "2008",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Antofagasta PLC",
+      "ticker": "ANTO",
+      "exchange": "LSE",
+      "website": "https://www.antofagasta.co.uk/",
+      "logoUrl": "/companies-assets/ANTO.LSE.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2014",
+      "endDate": "2021",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX / NYSE / LSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice President of Operations and Chief Operating Officer (Base Metals Group)",
+      "startDate": "1986",
+      "endDate": "2008",
+      "formattedStartDate": "1986",
+      "formattedEndDate": "2008"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michaelanglin",
+      "person_name": "Michael Anglin",
+      "company_name": "SSR Mining Inc., Antofagasta PLC, BHP Group Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation and Leadership Development Committee",
     "Environmental, Health, Safety and Sustainability Committee"

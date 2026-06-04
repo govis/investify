@@ -6,21 +6,36 @@
   "age_year": 2024,
   "background": "Dr. Goure has served as a director since 2015. He is a Vice President at the Lexington Institute.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Kratos Defense & Security Solutions, Inc.",
       "ticker": "KTOS",
       "exchange": "NASDAQ",
       "title_or_role": "Director",
+      "website": "https://www.kratosdefense.com",
       "start_date": "2015-01-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/daniel-goure-53a2242b",
+      "person_name": "Daniel Goure",
+      "company_name": "Lexington Institute",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

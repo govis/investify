@@ -9,10 +9,47 @@
       "ticker": "INTC",
       "exchange": "NASDAQ",
       "website": "https://www.intel.com",
-      "title": "Chairman of the Board, Independent Director",
-      "startDate": "2023-01-01",
+      "logoUrl": "/companies-assets/INTC.NASDAQ.svg",
+      "title": "Director (Chairman of the Board)",
+      "startDate": "March 2009",
+      "endDate": "May 2026",
+      "formattedStartDate": "March 2009",
+      "formattedEndDate": "May 2026"
+    },
+    {
+      "name": "PayPal Holdings, Inc.",
+      "ticker": "PYPL",
+      "exchange": "NASDAQ",
+      "website": "https://www.paypal.com",
+      "logoUrl": "/companies-assets/PYPL.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "July 2015",
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "July 2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "eBay Inc.",
+      "ticker": "EBAY",
+      "exchange": "NASDAQ",
+      "website": "ebay.com",
+      "logoUrl": "/companies-assets/EBAY.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "January 2015",
+      "endDate": "July 2015",
+      "formattedStartDate": "January 2015",
+      "formattedEndDate": "July 2015"
+    },
+    {
+      "name": "Mobileye Global Inc.",
+      "ticker": "MBLY",
+      "exchange": "NASDAQ",
+      "website": "https://www.mobileye.com",
+      "logoUrl": "/companies-assets/MBLY.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +57,18 @@
     "AI",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/frankdyeary",
+      "person_name": "Frank Yeary",
+      "company_name": "Intel Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Corporate Governance and Nominating Committee"
   ],

@@ -6,22 +6,58 @@
   "age_year": 2024,
   "background": "Mr. McGloin is a geologist and graduate of the Camborne School of Mines with over 30 years of experience in the mining industry.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Remuneration Committee (Chair)",
-    "Technical Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Perseus Mining Limited",
       "ticker": "PRU",
       "exchange": "ASX",
-      "title_or_role": "Non-Executive Director",
-      "start_date": "2016-04-19",
-      "end_date": null
+      "title_or_role": "Independent Non-Executive Director",
+      "website": "https://perseusmining.com/",
+      "start_date": "April 2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Amara Mining plc",
+      "ticker": "AMA",
+      "exchange": "LSE (London Stock Exchange - AIM)",
+      "website": null,
+      "title_or_role": "Chairman and Chief Executive Officer",
+      "start_date": "Unknown",
+      "end_date": "April 2016",
+      "validated": true
+    },
+    {
+      "name": "Cornish Metals Inc.",
+      "ticker": "TIN",
+      "exchange": "LSE (AIM) / TSXV",
+      "website": "https://cornishmetals.com/",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/john-mcgloin-3b779441",
+      "person_name": "John McGloin",
+      "company_name": "Perseus Mining Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Remuneration Committee (Chair)",
+    "Technical Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

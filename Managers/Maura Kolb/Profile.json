@@ -6,20 +6,46 @@
   "age_year": 2024,
   "background": "Ms. Kolb is a professional geologist with over 15 years of experience in the mining industry. She previously served as the Director of Exploration for Treasury Metals and held various roles at Newmont's Musselwhite Mine. She holds a Master of Science in Geology.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Dryden Gold Corp.",
+      "ticker": "DRY",
+      "exchange": "TSXV",
+      "title_or_role": "President & CEO",
+      "website": "https://drydengold.com/",
+      "start_date": "April 15, 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ely Gold Royalties Inc.",
+      "ticker": "ELY",
+      "exchange": "TSXV",
+      "website": "https://elygoldinc.com/",
+      "title_or_role": "President & CEO",
+      "start_date": "2010",
+      "end_date": "2021",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold",
     "Nuclear"
   ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "socials": [
     {
-      "name": "Dryden Gold Corp.",
-      "ticker": "DRY",
-      "exchange": "TSX",
-      "title_or_role": "President",
-      "start_date": "2023-08-01",
-      "end_date": null
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/maura-kolb-m-sc-p-geo-b4a3b438",
+      "person_name": "Maura Kolb",
+      "company_name": "Ely Gold Royalties Inc., Dryden Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
-  ]
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

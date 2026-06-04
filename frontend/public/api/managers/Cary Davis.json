@@ -9,18 +9,54 @@
       "ticker": "CRWD",
       "exchange": "NASDAQ",
       "website": "https://www.crowdstrike.com",
+      "logoUrl": "/companies-assets/CRWD.NASDAQ.svg",
       "title": "Director",
-      "startDate": "2011-11-01",
+      "startDate": "July 2013",
       "endDate": null,
-      "formattedStartDate": "2011 November",
+      "formattedStartDate": "July 2013",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Clearwater Analytics Holdings, Inc.",
+      "ticker": "CWAN",
+      "exchange": "NYSE",
+      "website": "https://www.clearwateranalytics.com",
+      "logoUrl": "/companies-assets/CWAN.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cyren Ltd.",
+      "ticker": "CYRN",
+      "exchange": "NASDAQ (formerly)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": "2023",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2023"
     }
   ],
   "investmentTheses": [
     "AI",
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/cary-davis-4a5a5a1",
+      "person_name": "Cary Davis",
+      "company_name": "Warburg Pincus",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"

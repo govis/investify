@@ -9,17 +9,29 @@
       "ticker": "XOM",
       "exchange": "NYSE",
       "website": "https://www.exxonmobil.com",
-      "title": "Independent Director",
-      "startDate": "2017-02-01",
-      "endDate": null,
-      "formattedStartDate": "2017 February",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/XOM.NYSE.svg",
+      "title": "Director (Board of Directors)",
+      "startDate": "February 2017",
+      "endDate": "May 2024",
+      "formattedStartDate": "February 2017",
+      "formattedEndDate": "May 2024"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/susanjavery",
+      "person_name": "Susan Avery",
+      "company_name": "Exxon Mobil Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Public Issues and Contributions Committee"

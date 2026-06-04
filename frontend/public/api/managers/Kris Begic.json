@@ -6,20 +6,32 @@
   "companies": [
     {
       "name": "Platinum Group Metals Ltd.",
-      "ticker": "PTM",
-      "exchange": "NYSE",
-      "website": "https://www.platinumgroupmetals.net",
-      "title": "Vice President, Corporate Development",
-      "startDate": "2011-01-01",
+      "ticker": "PTM (TSX), PLG (NYSE American)",
+      "exchange": "TSX, NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice-President, Corporate Development",
+      "startDate": "2011",
       "endDate": null,
-      "formattedStartDate": "2011 January",
+      "formattedStartDate": "2011",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/kris-begic-77b4a044",
+      "person_name": "Kris Begic",
+      "company_name": "Platinum Group Metals Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 52,
   "ageYear": 2024

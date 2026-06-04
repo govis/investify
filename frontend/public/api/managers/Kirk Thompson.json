@@ -5,21 +5,33 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "J.B. Hunt Transport Services, Inc.",
-      "ticker": "JBHT",
+      "name": "Rand Logistics, Inc.",
+      "ticker": "RLOGQ",
       "exchange": "NASDAQ",
-      "website": "https://www.jbhunt.com",
+      "website": null,
+      "logoUrl": "/companies-assets/RLOGQ.NASDAQ.svg",
       "title": "Director",
-      "startDate": "1985-01-01",
-      "endDate": null,
-      "formattedStartDate": "1985 January",
-      "formattedEndDate": ""
+      "startDate": "2014",
+      "endDate": "2017",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2017"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kirk-thompson-37ba676",
+      "person_name": "Kirk Thompson",
+      "company_name": "J.B. Hunt Transport Services, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Executive Committee"
   ],

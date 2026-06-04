@@ -7,19 +7,67 @@
     {
       "name": "Hudbay Minerals Inc.",
       "ticker": "HBM",
-      "exchange": "NYSE",
-      "website": "https://www.hudbayminerals.com",
-      "title": "Independent Director",
-      "startDate": "2013-05-01",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2013",
       "endDate": null,
-      "formattedStartDate": "2013 May",
+      "formattedStartDate": "2013",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Gatos Silver, Inc.",
+      "ticker": "GATO",
+      "exchange": "NYSE",
+      "website": "https://gatossilver.com",
+      "logoUrl": "/companies-assets/GATO.NYSE.svg",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sierra Metals Inc.",
+      "ticker": "SMT",
+      "exchange": "TSX",
+      "website": "https://sierrametals.com",
+      "logoUrl": "/companies-assets/SMT.TSX.svg",
+      "title": "President & CEO",
+      "startDate": "2017",
+      "endDate": "2020",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Barrick Gold Corporation",
+      "ticker": "GOLD",
+      "exchange": "NYSE",
+      "website": "https://www.barrick.com",
+      "logoUrl": "/companies-assets/GOLD.NYSE.svg",
+      "title": "Regional President (South America)",
+      "startDate": "1998",
+      "endDate": "2012",
+      "formattedStartDate": "1998",
+      "formattedEndDate": "2012"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://pe.linkedin.com/in/igor-gonzales-23a152146",
+      "person_name": "Igor Gonzales",
+      "company_name": "Sierra Metals Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Environmental, Health, Safety and Sustainability Committee (Chair)",
     "Technical Committee"

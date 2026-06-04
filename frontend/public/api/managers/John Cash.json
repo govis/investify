@@ -7,19 +7,31 @@
     {
       "name": "Ur-Energy Inc.",
       "ticker": "URG",
-      "exchange": "NYSE",
-      "website": "https://www.ur-energy.com",
-      "title": "Chief Executive Officer and President, Chairman of the Board",
-      "startDate": "2022-03-01",
-      "endDate": null,
-      "formattedStartDate": "2022 March",
-      "formattedEndDate": ""
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice President of Regulatory Affairs, Exploration and Geology",
+      "startDate": "2007",
+      "endDate": "2020",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2020"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/john-cash-774b30143",
+      "person_name": "John Cash",
+      "company_name": "Ur-Energy Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 53,
   "ageYear": 2024

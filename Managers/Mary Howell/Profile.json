@@ -6,21 +6,67 @@
   "age_year": 2024,
   "background": "Ms. Howell has served as a director since 2021. She previously served as Executive Vice President of Textron Inc.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "AeroVironment, Inc.",
       "ticker": "AVAV",
       "exchange": "NASDAQ",
       "title_or_role": "Director",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "website": "https://www.avinc.com/",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "V2X, Inc.",
+      "ticker": "VVX",
+      "exchange": "NYSE",
+      "website": "https://gov2x.com/",
+      "title_or_role": "Chairman",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Astec Industries, Inc.",
+      "ticker": "ASTE",
+      "exchange": "NASDAQ",
+      "website": "https://www.astecindustries.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Textron Inc.",
+      "ticker": "TXT",
+      "exchange": "NYSE",
+      "website": "https://www.textron.com/",
+      "title_or_role": "Executive Vice President",
+      "start_date": "1995",
+      "end_date": "2009",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mary-l-howell-59961456",
+      "person_name": "Mary Howell",
+      "company_name": "AeroVironment, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

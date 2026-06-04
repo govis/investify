@@ -5,15 +5,52 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "SentinelOne, Inc.",
-      "ticker": "S",
+      "name": "Whirlpool Corporation",
+      "ticker": "WHR",
       "exchange": "NYSE",
-      "website": "https://www.sentinelone.com",
-      "title": "Director",
-      "startDate": "2021-04-01",
+      "website": "https://www.whirlpoolcorp.com",
+      "logoUrl": "/companies-assets/WHR.NYSE.svg",
+      "title": "Senior Vice President and Chief Information Officer",
+      "startDate": "November 2020",
       "endDate": null,
-      "formattedStartDate": "2021 April",
+      "formattedStartDate": "November 2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Performance Food Group Company",
+      "ticker": "PFGC",
+      "exchange": "NYSE",
+      "website": "https://www.pfgc.com",
+      "logoUrl": "/companies-assets/PFGC.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "June 28, 2024",
+      "endDate": null,
+      "formattedStartDate": "June 28, 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "PRA Group, Inc.",
+      "ticker": "PRAA",
+      "exchange": "NASDAQ",
+      "website": "https://www.pragroup.com",
+      "logoUrl": "/companies-assets/PRAA.NASDAQ.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Brunswick Corporation",
+      "ticker": "BC",
+      "exchange": "NYSE",
+      "website": "https://www.brunswick.com",
+      "logoUrl": "/companies-assets/BC.NYSE.svg",
+      "title": "Chief Information Officer",
+      "startDate": "November 14, 2016",
+      "endDate": "November 2020",
+      "formattedStartDate": "November 14, 2016",
+      "formattedEndDate": "November 2020"
     }
   ],
   "investmentTheses": [

@@ -5,14 +5,27 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Dryden Gold Corp.",
-      "ticker": "DRY",
-      "exchange": "TSX",
-      "website": "https://drydengold.com",
-      "title": "Vice President, Exploration, Director",
-      "startDate": "2022-10-01",
+      "name": "EGR Exploration Ltd.",
+      "ticker": "EGR",
+      "exchange": "TSXV",
+      "website": "https://egrexploration.com",
+      "logoUrl": "/companies-assets/EGR.TSXV.png",
+      "title": "Director",
+      "startDate": "September 27, 2023",
       "endDate": null,
-      "formattedStartDate": "2022 October",
+      "formattedStartDate": "September 27, 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Transition Metals Corp.",
+      "ticker": "XTM",
+      "exchange": "TSXV",
+      "website": "https://www.transitionmetalscorp.com",
+      "logoUrl": "/companies-assets/XTM.TSXV.svg",
+      "title": "Independent Director",
+      "startDate": "April 29, 2024",
+      "endDate": null,
+      "formattedStartDate": "April 29, 2024",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +33,18 @@
     "Gold",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ashley-kirwan-m-sc-p-geo-icd-d-8b01061b",
+      "person_name": "Ashley Kirwan",
+      "company_name": "Orix Geoscience Inc.",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1
+    }
+  ],
   "committees": [],
   "age": 38,
   "ageYear": 2024

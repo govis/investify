@@ -6,19 +6,45 @@
   "age_year": 2024,
   "background": "Mr. Boisjoli has over 15 years of experience in the uranium industry. He previously served as Vice President, Operations and Project Development for NexGen Energy Ltd., where he led the development of the Rook I Project. He also held various roles at Cameco Corporation, including positions at the McArthur River and Key Lake operations.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Atha Energy Corp.",
       "ticker": "SASK",
-      "exchange": "TSX",
-      "title_or_role": "Chief Executive Officer, Director",
-      "start_date": "2023-03-24",
-      "end_date": null
+      "exchange": "TSXV",
+      "title_or_role": "Chief Executive Officer",
+      "website": "https://athaenergy.com/",
+      "start_date": "May 2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Murchison Minerals Ltd.",
+      "ticker": "MUR",
+      "exchange": "TSXV",
+      "website": "https://murchisonminerals.ca/",
+      "title_or_role": "President and CEO",
+      "start_date": "October 2021",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/troy-boisjoli-2a719a31",
+      "person_name": "Troy Boisjoli",
+      "company_name": "Atha Energy Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

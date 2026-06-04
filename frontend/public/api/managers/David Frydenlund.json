@@ -7,20 +7,68 @@
     {
       "name": "Energy Fuels Inc.",
       "ticker": "UUUU",
-      "exchange": "NYSE",
-      "website": "https://www.energyfuels.com",
-      "title": "Executive Vice President, Chief Legal Officer and Corporate Secretary",
-      "startDate": "2012-01-01",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive VP, Chief Legal Officer & Corporate Secretary",
+      "startDate": "2006",
       "endDate": null,
-      "formattedStartDate": "2012 January",
+      "formattedStartDate": "2006",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Uranerz Energy Corp.",
+      "ticker": "URZ",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2005",
+      "endDate": "2015",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Titan Uranium Inc.",
+      "ticker": "TUE",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director, VP, General Counsel & Corporate Secretary",
+      "startDate": "2006",
+      "endDate": "2012",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "Lundin Group",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice President",
+      "startDate": "1996",
+      "endDate": "1997",
+      "formattedStartDate": "1996",
+      "formattedEndDate": "1997"
     }
   ],
   "investmentTheses": [
     "Nuclear",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/david-frydenlund-5a5b5a12",
+      "person_name": "David Frydenlund",
+      "company_name": "Energy Fuels Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 65,
   "ageYear": 2024

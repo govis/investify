@@ -9,17 +9,53 @@
       "ticker": "KTOS",
       "exchange": "NASDAQ",
       "website": "https://www.kratosdefense.com",
+      "logoUrl": "/companies-assets/KTOS.NASDAQ.svg",
       "title": "President, Unmanned Systems Division",
-      "startDate": "2017-01-01",
+      "startDate": "January 2017",
       "endDate": null,
-      "formattedStartDate": "2017 January",
+      "formattedStartDate": "January 2017",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Composite Engineering, Inc.",
+      "ticker": "KTOS",
+      "exchange": "NASDAQ",
+      "website": "https://www.kratosdefense.com",
+      "logoUrl": "/companies-assets/KTOS.NASDAQ.svg",
+      "title": "Vice President of Engineering / Senior VP / CTO / General Manager",
+      "startDate": "2014",
+      "endDate": "2016",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "5-D Systems, Inc.",
+      "ticker": "KTOS",
+      "exchange": "NASDAQ",
+      "website": "https://www.kratosdefense.com",
+      "logoUrl": "/companies-assets/KTOS.NASDAQ.svg",
+      "title": "President",
+      "startDate": "August 1999",
+      "endDate": "January 2017",
+      "formattedStartDate": "August 1999",
+      "formattedEndDate": "January 2017"
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/steve-fendley-0652b11a",
+      "person_name": "Steven Fendley",
+      "company_name": "Kratos Defense & Security Solutions, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 57,
   "ageYear": 2024

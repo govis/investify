@@ -6,19 +6,24 @@
   "age_year": 2024,
   "background": "Mr. Wilson is chairman, president and CEO of Mississippi Power. He has been with the Southern Company system since 1984.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "The Southern Company",
+      "ticker": "SO",
+      "exchange": "NYSE",
+      "title_or_role": "Chairman, President, and CEO of Mississippi Power",
+      "website": "https://www.southerncompany.com",
+      "start_date": "2015-10-19",
+      "end_date": "2025-07-01",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "The Southern Company",
-      "ticker": "SO",
-      "exchange": "NYSE",
-      "title_or_role": "Chairman, President and CEO of Mississippi Power",
-      "start_date": "2016-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

@@ -6,6 +6,39 @@
   "age_year": 2024,
   "background": "Mr. Smith is a geologist with over 30 years of experience in the mining industry, specializing in exploration and development.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "GoldHaven Resources Corp.",
+      "ticker": "GOH",
+      "exchange": "CSE",
+      "title_or_role": "Director",
+      "website": "https://goldhavenresources.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hudbay Minerals Inc.",
+      "ticker": "HBM",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.hudbayminerals.com",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "IAMGOLD Corporation",
+      "ticker": "IAG",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.iamgold.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Gold"
@@ -16,30 +49,6 @@
     "Compensation Committee (Chair)",
     "Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "GoldHaven Resources Corp.",
-      "ticker": "GOH",
-      "exchange": "CSE",
-      "title_or_role": "Director",
-      "start_date": "2020-02-20",
-      "end_date": null
-    },
-    {
-      "name": "Hudbay Minerals Inc.",
-      "ticker": "HBM",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-05-01",
-      "end_date": null
-    },
-    {
-      "name": "IAMGOLD Corporation",
-      "ticker": "IAG",
-      "exchange": "NYSE",
-      "title_or_role": "Chair of the Board",
-      "start_date": "2022-02-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

@@ -6,19 +6,64 @@
   "age_year": 2024,
   "background": "Chief Operating Officer of Global X Management Company LLC since 2020. Previously served as Head of Product at Global X.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Global X Lithium & Battery Tech ETF",
       "ticker": "LIT",
       "exchange": "NYSE",
       "title_or_role": "Chief Operating Officer",
+      "website": "https://www.globalxetfs.com/funds/lit/",
       "start_date": "2020-01-01",
       "end_date": null
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "ticker": "CS",
+      "exchange": "NYSE",
+      "website": "https://www.credit-suisse.com",
+      "title_or_role": "Vice President (Product Management for ETN platform)",
+      "start_date": "Not specified",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "IntelePeer, Inc.",
+      "ticker": "N/A",
+      "exchange": "N/A (SEC Reporting)",
+      "website": "https://www.intelepeer.com",
+      "title_or_role": "Senior Vice President of Service Provider Sales",
+      "start_date": "2011",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Global X ETFs (Global X Lithium & Battery Tech ETF)",
+      "ticker": "LIT",
+      "exchange": "NYSE Arca",
+      "website": "https://www.globalxetfs.com",
+      "title_or_role": "Senior Leadership (Head of Product/Strategy)",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/john-belanger-cfa-b184a355",
+      "person_name": "John Belanger",
+      "company_name": "Global X ETFs",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

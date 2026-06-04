@@ -9,17 +9,77 @@
       "ticker": "KNT",
       "exchange": "TSX",
       "website": "https://k92mining.com",
-      "title": "Independent Director",
-      "startDate": "2021-06-01",
+      "logoUrl": "/companies-assets/KNT.TSX.svg",
+      "title": "Director",
+      "startDate": "2020-07-16",
       "endDate": null,
-      "formattedStartDate": "2021 June",
+      "formattedStartDate": "July 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Hydro One Limited",
+      "ticker": "H",
+      "exchange": "TSX",
+      "website": "https://hydroone.com",
+      "logoUrl": "/companies-assets/H.TSX.svg",
+      "title": "Director",
+      "startDate": "2018-08-15",
+      "endDate": "2020",
+      "formattedStartDate": "August 2018",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Nevsun Resources Ltd.",
+      "ticker": "NSU",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Nevsun_Resources_logo.png/220px-Nevsun_Resources_logo.png",
+      "title": "Independent Director",
+      "startDate": "2017",
+      "endDate": "2019",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Thompson Creek Metals Company Inc.",
+      "ticker": "TCM",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Thompson_Creek_Metals_logo.png/220px-Thompson_Creek_Metals_logo.png",
+      "title": "Director",
+      "startDate": "2014-05-26",
+      "endDate": "2016",
+      "formattedStartDate": "May 2014",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Capstone Copper Corp.",
+      "ticker": "CS",
+      "exchange": "TSX",
+      "website": "https://capstonecopper.com",
+      "logoUrl": "/companies-assets/CS.TSX.svg",
+      "title": "Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://it.linkedin.com/in/annegiardini",
+      "person_name": "Anne Giardini",
+      "company_name": "Capstone Copper Corp., K92 Mining Inc., Hydro One Limited, Nevsun Resources Ltd., Thompson Creek Metals Company Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Corporate Governance and Nominating Committee"

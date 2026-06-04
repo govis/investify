@@ -7,30 +7,43 @@
     {
       "name": "Endeavour Mining plc",
       "ticker": "EDV",
-      "exchange": "LSE",
-      "website": "https://www.endeavourmining.com",
-      "title": "Independent Non-Executive Director",
-      "startDate": "2021-02-10",
-      "endDate": null,
-      "formattedStartDate": "2021 February",
-      "formattedEndDate": ""
+      "exchange": "LSE / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "July 1, 2020",
+      "endDate": "2022",
+      "formattedStartDate": "July 1, 2020",
+      "formattedEndDate": "2022"
     },
     {
-      "name": "Endeavour Mining plc",
-      "ticker": "EDV",
+      "name": "SEMAFO Inc.",
+      "ticker": "SMF",
       "exchange": "TSX",
-      "website": "https://www.endeavourmining.com",
-      "title": "Independent Non-Executive Director",
-      "startDate": "2016-10-11",
-      "endDate": null,
-      "formattedStartDate": "2016 October",
-      "formattedEndDate": ""
+      "website": "https://semafo.com",
+      "logoUrl": "https://financialreports.eu/companies/semafo-inc/logo.png",
+      "title": "Director",
+      "startDate": "May 2012",
+      "endDate": "July 1, 2020",
+      "formattedStartDate": "May 2012",
+      "formattedEndDate": "July 1, 2020"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://be.linkedin.com/in/tertius-zongo-b18a3311b",
+      "person_name": "Tertius Zongo",
+      "company_name": "Endeavour Mining plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "ESG Committee (Chair)",
     "Nomination and Governance Committee",

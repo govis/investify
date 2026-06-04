@@ -9,17 +9,41 @@
       "ticker": "OKLO",
       "exchange": "NYSE",
       "website": "https://oklo.com",
+      "logoUrl": "/companies-assets/OKLO.NYSE.svg",
       "title": "Chief Financial Officer",
-      "startDate": "2024-01-01",
+      "startDate": "August 2023",
       "endDate": null,
-      "formattedStartDate": "2024 January",
+      "formattedStartDate": "August 2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Renewable Energy Group, Inc.",
+      "ticker": "REGI",
+      "exchange": "NASDAQ",
+      "website": "https://www.regi.com/",
+      "logoUrl": "/companies-assets/REGI.NASDAQ.png",
+      "title": "Chief Financial Officer",
+      "startDate": "April 19, 2021",
+      "endDate": "December 2022",
+      "formattedStartDate": "April 19, 2021",
+      "formattedEndDate": "December 2022"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/craig-bealmear-a375573",
+      "person_name": "Craig Bealmear",
+      "company_name": "Oklo Inc.",
+      "profile_status": "private",
+      "potential_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQHiNPFtz4Jm4A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1710137379150?e=2147483647&v=beta&t=0aIUm76QAfIIIu3KdYaOUWLf_ugki78rimZJmz2HUZ4",
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/D5603AQHiNPFtz4Jm4A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1710137379150?e=2147483647&v=beta&t=0aIUm76QAfIIIu3KdYaOUWLf_ugki78rimZJmz2HUZ4",
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 60,
   "ageYear": 2024

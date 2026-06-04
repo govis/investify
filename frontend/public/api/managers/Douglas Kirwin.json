@@ -5,14 +5,99 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Vista Gold Corp.",
-      "ticker": "VGZ",
-      "exchange": "NYSE",
-      "website": "https://www.vistagold.com",
-      "title": "Independent Director",
-      "startDate": "2019-03-01",
+      "name": "Ivanhoe Mines Ltd.",
+      "ticker": "IVN",
+      "exchange": "TSX",
+      "website": "ivanhoemines.com",
+      "logoUrl": "/companies-assets/IVN.TSX.svg",
+      "title": "Executive Vice President",
+      "startDate": "1995",
+      "endDate": "2012",
+      "formattedStartDate": "1995",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "Iondrive Limited",
+      "ticker": "ION",
+      "exchange": "ASX",
+      "website": "iondrive.com.au",
+      "logoUrl": "/companies-assets/ION.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2019 March",
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "CopperCorp Resources Inc.",
+      "ticker": "CPER",
+      "exchange": "TSXV",
+      "website": "coppercorpinc.com",
+      "logoUrl": "/companies-assets/CPER.TSXV.png",
+      "title": "Founder / Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "King Copper Discovery Corp.",
+      "ticker": "KCP",
+      "exchange": "TSXV",
+      "website": "kingcopperdiscovery.com",
+      "logoUrl": "/companies-assets/KCP.TSXV.svg",
+      "title": "Lead Strategic & Technical Advisor",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Lepanto Consolidated Mining Co.",
+      "ticker": "LC",
+      "exchange": "PSE",
+      "website": "lepantomining.com",
+      "logoUrl": "/companies-assets/LC.PSE.png",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Zeus Holdings, Inc.",
+      "ticker": "ZHI",
+      "exchange": "PSE",
+      "website": "zeusholdings.com.ph",
+      "logoUrl": "/companies-assets/ZHI.PSE.png",
+      "title": "Independent Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Realgold Resources Corp.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "President, CEO & Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Norrland Gold Corp.",
+      "ticker": "NORR",
+      "exchange": "TSXV",
+      "website": "norrlandgold.com",
+      "logoUrl": "https://www.marketwatch.com/assets/logos/logo-marketwatch.png",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +105,18 @@
     "Gold",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/douglas-kirwin-4a5b2a12",
+      "person_name": "Douglas Kirwin",
+      "company_name": "Ivanhoe Mines Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Corporate Governance and Nominating Committee"

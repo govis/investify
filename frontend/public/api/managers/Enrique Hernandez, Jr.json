@@ -9,17 +9,89 @@
       "ticker": "CVX",
       "exchange": "NYSE",
       "website": "https://www.chevron.com",
-      "title": "Independent Director",
-      "startDate": "2008-01-01",
+      "logoUrl": "/companies-assets/CVX.NYSE.svg",
+      "title": "Director",
+      "startDate": "2008",
       "endDate": null,
-      "formattedStartDate": "2008 January",
+      "formattedStartDate": "2008",
       "formattedEndDate": ""
+    },
+    {
+      "name": "The Macerich Company",
+      "ticker": "MAC",
+      "exchange": "NYSE",
+      "website": "macerich.com",
+      "logoUrl": "/companies-assets/MAC.NYSE.svg",
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": null,
+      "formattedStartDate": "2010",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "McDonald's Corporation",
+      "ticker": "MCD",
+      "exchange": "NYSE",
+      "website": "mcdonalds.com",
+      "logoUrl": "/companies-assets/MCD.NYSE.svg",
+      "title": "Director",
+      "startDate": "1996",
+      "endDate": "2021",
+      "formattedStartDate": "1996",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Nordstrom, Inc.",
+      "ticker": "JWN",
+      "exchange": "NYSE",
+      "website": "nordstrom.com",
+      "logoUrl": "/companies-assets/JWN.NYSE.svg",
+      "title": "Director / Chairman",
+      "startDate": "1997",
+      "endDate": "2020",
+      "formattedStartDate": "1997",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Wells Fargo & Company",
+      "ticker": "WFC",
+      "exchange": "NYSE",
+      "website": "wellsfargo.com",
+      "logoUrl": "/companies-assets/WFC.NYSE.svg",
+      "title": "Director",
+      "startDate": "2003",
+      "endDate": "2021",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Tribune Company",
+      "ticker": "TRBAA",
+      "exchange": "OTC",
+      "website": "tribune.com",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Tribune_Media_logo.svg/1200px-Tribune_Media_logo.svg.png",
+      "title": "Director",
+      "startDate": "2001",
+      "endDate": "2007",
+      "formattedStartDate": "2001",
+      "formattedEndDate": "2007"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/enrique-hernandez-jr-4a5b6712",
+      "person_name": "Enrique Hernandez, Jr.",
+      "company_name": "Inter-Con Security Systems, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Board Governance Committee",
     "Management Compensation Committee"

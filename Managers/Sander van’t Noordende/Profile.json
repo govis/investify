@@ -5,29 +5,58 @@
   "age": 61,
   "age_year": 2024,
   "background": "Sander van\u2019t Noordende is the CEO of Randstad N.V. and former Group Chief Executive of the Products Operating Group at Accenture.",
-  "picture_url": "https://media-exp1.licdn.com/dms/image/C4E22AQExbjrLTAKOtQ/feedshare-shrink_2048_1536/0/1662763331702?e=2147483647&v=beta&t=vq9ycJ487nu5zBn0bKzufLNXLCqSRhNra58mOob8lVc",
+  "picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQGhbQupUAghAA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1682002180839?e=2147483647&amp;v=beta&amp;t=w1ZJPfZdUW9HyVbYr7hA8HFP8FPNAGec0WNW07ayrv4",
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
+    {
+      "name": "AECOM",
+      "ticker": "ACM",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://aecom.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Accenture plc",
+      "ticker": "ACN",
+      "exchange": "NYSE",
+      "website": "https://www.accenture.com",
+      "title_or_role": "Group Chief Executive (various operating groups including Products and Management Consulting)",
+      "start_date": "1987",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Randstad N.V.",
+      "ticker": "RAND",
+      "exchange": "Euronext Amsterdam (AMS)",
+      "website": "https://www.randstad.com",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
   "socials": [
     {
+      "name": "LinkedIn",
       "url": "https://www.linkedin.com/in/sander-van-t-noordende-2a81b6",
-      "name": "LinkedIn"
+      "person_name": "Sander van't Noordende",
+      "company_name": "Randstad N.V.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
   ],
   "committees": [
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "AECOM",
-      "ticker": "ACM",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2021-01-01",
-      "end_date": null
-    }
-  ],
-  "picture_local": null,
-  "enrichment_status": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -9,17 +9,29 @@
       "ticker": "CAT",
       "exchange": "NYSE",
       "website": "https://www.caterpillar.com",
-      "title": "Senior Vice President, General Counsel and Corporate Secretary",
-      "startDate": "2022-07-01",
+      "logoUrl": "/companies-assets/CAT.NYSE.svg",
+      "title": "Chief Legal Officer and General Counsel",
+      "startDate": "2024-01-01",
       "endDate": null,
-      "formattedStartDate": "2022 July",
+      "formattedStartDate": "January 2024",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/derekoowens",
+      "person_name": "Derek Owens",
+      "company_name": "Caterpillar Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 59,
   "ageYear": 2024

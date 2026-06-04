@@ -6,22 +6,57 @@
   "age_year": 2024,
   "background": "Ms. Boone has served as a member of our Board since 2020. She previously served as President and Chief Financial Officer of Restoration Hardware (RH).",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Nominating and Governance Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Rivian Automotive, Inc.",
       "ticker": "RIVN",
       "exchange": "NASDAQ",
       "title_or_role": "Lead Independent Director",
+      "website": "https://rivian.com",
       "start_date": "2020-01-01",
       "end_date": null
+    },
+    {
+      "name": "Sonos, Inc.",
+      "ticker": "SONO",
+      "exchange": "NASDAQ",
+      "website": "https://investors.sonos.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Peloton Interactive, Inc.",
+      "ticker": "PTON",
+      "exchange": "NASDAQ",
+      "website": "https://investor.onepeloton.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/karen-boone-70b97013",
+      "person_name": "Karen Boone",
+      "company_name": "Rivian Automotive, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

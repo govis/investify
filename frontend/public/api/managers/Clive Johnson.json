@@ -5,14 +5,39 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "B2Gold Corp.",
-      "ticker": "BTG",
-      "exchange": "NYSE",
-      "website": "https://www.b2gold.com",
-      "title": "Director, President and Chief Executive Officer",
-      "startDate": "2007-11-30",
+      "name": "Bema Gold Corp.",
+      "ticker": "BGO",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "/companies-assets/BGO.TSX.png",
+      "title": "President and Chief Executive Officer",
+      "startDate": "1988",
+      "endDate": "2007",
+      "formattedStartDate": "1988",
+      "formattedEndDate": "2007"
+    },
+    {
+      "name": "BeMetals Corp.",
+      "ticker": "BMET",
+      "exchange": "TSXV",
+      "website": "https://bemetalscorp.com/",
+      "logoUrl": "/companies-assets/BMET.TSXV.png",
+      "title": "Director (Former Chairman)",
+      "startDate": "2018",
       "endDate": null,
-      "formattedStartDate": "2007 November",
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Vanadian Energy Corp.",
+      "ticker": "VAN",
+      "exchange": "TSXV",
+      "website": "https://vanadianenergy.com/",
+      "logoUrl": "/companies-assets/VAN.TSXV.svg",
+      "title": "Chairman / Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
     }
   ],

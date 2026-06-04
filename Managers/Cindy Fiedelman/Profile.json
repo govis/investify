@@ -6,19 +6,34 @@
   "age_year": 2024,
   "background": "Ms. Fiedelman has served as our Chief People Officer since 2016. Previously, she held human resources leadership roles at American Airlines and Avaya.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Digital Realty Trust, Inc.",
+      "ticker": "DLR",
+      "exchange": "NYSE",
+      "title_or_role": "Chief Human Resources Officer",
+      "website": "https://www.digitalrealty.com",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "American Airlines Group Inc.",
+      "ticker": "AAL",
+      "exchange": "NASDAQ",
+      "website": "https://www.aa.com",
+      "title_or_role": "Vice President, People & Diversity",
+      "start_date": "2013",
+      "end_date": "2015",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Digital Realty Trust, Inc.",
-      "ticker": "DLR",
-      "exchange": "NYSE",
-      "title_or_role": "Chief People Officer",
-      "start_date": "2016-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

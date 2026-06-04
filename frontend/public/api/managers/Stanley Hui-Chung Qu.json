@@ -9,17 +9,41 @@
       "ticker": "NIO",
       "exchange": "NYSE",
       "website": "https://www.nio.com",
-      "title": "Chief Financial Officer",
-      "startDate": "2024-07-01",
+      "logoUrl": "/companies-assets/NIO.NYSE.svg",
+      "title": "Vice President of Finance",
+      "startDate": "2018",
       "endDate": null,
-      "formattedStartDate": "2024 July",
+      "formattedStartDate": "2018",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Lear Corporation",
+      "ticker": "LEA",
+      "exchange": "NYSE",
+      "website": "https://www.lear.com",
+      "logoUrl": "/companies-assets/LEA.NYSE.svg",
+      "title": "Various senior finance roles (including Finance Director for Lear China)",
+      "startDate": "2007",
+      "endDate": "2018",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2018"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/stanley-qu-85555a12",
+      "person_name": "Stanley Qu",
+      "company_name": "NIO",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 45,
   "ageYear": 2024

@@ -7,13 +7,50 @@
     {
       "name": "NorthIsle Copper and Gold Inc.",
       "ticker": "NCX",
-      "exchange": "TSX",
+      "exchange": "TSXV",
       "website": "https://www.northisle.ca",
-      "title": "Chairman",
-      "startDate": "2011-01-01",
-      "endDate": null,
-      "formattedStartDate": "2011 January",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/NCX.TSXV.png",
+      "title": "Non-Executive Chairman",
+      "startDate": "2011",
+      "endDate": "2026-04-29",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "April 2026"
+    },
+    {
+      "name": "Western Copper and Gold Corporation",
+      "ticker": "WRN",
+      "exchange": "TSX / NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Founder, Chairman, CEO",
+      "startDate": null,
+      "endDate": "2013",
+      "formattedStartDate": "",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Western Silver Corporation",
+      "ticker": "WSC (Delisted)",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman, CEO",
+      "startDate": null,
+      "endDate": "2006",
+      "formattedStartDate": "",
+      "formattedEndDate": "2006"
+    },
+    {
+      "name": "Western Copper Corporation",
+      "ticker": "WTC (Delisted)",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman, CEO",
+      "startDate": null,
+      "endDate": "2006",
+      "formattedStartDate": "",
+      "formattedEndDate": "2006"
     }
   ],
   "investmentTheses": [

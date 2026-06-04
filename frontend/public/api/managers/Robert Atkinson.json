@@ -7,12 +7,25 @@
     {
       "name": "Artemis Gold Inc.",
       "ticker": "ARTG",
-      "exchange": "TSX",
-      "website": "https://www.artemisgoldinc.com",
-      "title": "Independent Director",
-      "startDate": "2019-01-10",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": "2021",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Newmont Corporation",
+      "ticker": "NEM",
+      "exchange": "NYSE",
+      "website": "https://www.newmont.com",
+      "logoUrl": "/companies-assets/NEM.NYSE.svg",
+      "title": "EVP & Chief Operating Officer",
+      "startDate": "June 2019",
       "endDate": null,
-      "formattedStartDate": "2019 January",
+      "formattedStartDate": "June 2019",
       "formattedEndDate": ""
     }
   ],

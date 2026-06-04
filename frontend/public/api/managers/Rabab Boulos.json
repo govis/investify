@@ -6,20 +6,32 @@
   "companies": [
     {
       "name": "A.P. Møller - Mærsk A/S",
-      "ticker": "AMKBY",
-      "exchange": "OTC",
-      "website": "https://www.maersk.com",
-      "title": "Chief Operating Officer",
-      "startDate": "2023-02-01",
+      "ticker": "MAERSK-B",
+      "exchange": "Nasdaq Copenhagen",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Operating Officer (COO) / Executive Vice President",
+      "startDate": "2003",
       "endDate": null,
-      "formattedStartDate": "2023 February",
+      "formattedStartDate": "2003",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rabab-boulos-4a5a1a1/",
+      "person_name": "Rabab Boulos",
+      "company_name": "A.P. Møller - Mærsk A/S",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 48,
   "ageYear": 2024

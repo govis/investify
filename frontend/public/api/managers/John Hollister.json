@@ -9,17 +9,41 @@
       "ticker": "GFS",
       "exchange": "NASDAQ",
       "website": "https://gf.com",
+      "logoUrl": "/companies-assets/GFS.NASDAQ.svg",
       "title": "Chief Financial Officer",
-      "startDate": "2024-02-01",
-      "endDate": null,
-      "formattedStartDate": "2024 February",
-      "formattedEndDate": ""
+      "startDate": "2024-02-05",
+      "endDate": "2024-09-16",
+      "formattedStartDate": "February 2024",
+      "formattedEndDate": "September 2024"
+    },
+    {
+      "name": "Silicon Laboratories Inc.",
+      "ticker": "SLAB",
+      "exchange": "NASDAQ",
+      "website": "https://www.silabs.com",
+      "logoUrl": "/companies-assets/SLAB.NASDAQ.svg",
+      "title": "Senior Vice President and Chief Financial Officer",
+      "startDate": "2013",
+      "endDate": "2024-02-02",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "February 2024"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/johnchollister",
+      "person_name": "John Hollister",
+      "company_name": "GlobalFoundries",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 53,
   "ageYear": 2024

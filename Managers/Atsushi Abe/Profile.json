@@ -6,6 +6,29 @@
   "age_year": 2024,
   "background": "Atsushi Abe has served as a director since 2011. He is currently a Managing Partner of Sangyo Sogo Kenkyusho, a Japanese investment firm.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "ON Semiconductor Corporation",
+      "ticker": "ON",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.onsemi.com",
+      "start_date": "2011-02",
+      "end_date": "2024-10-11",
+      "validated": true
+    },
+    {
+      "name": "Fujitsu Limited",
+      "ticker": "6702",
+      "exchange": "TYO",
+      "website": "https://www.fujitsu.com",
+      "title_or_role": "Director / Chairman of the Board",
+      "start_date": "2015-06",
+      "end_date": "2025-04",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -14,14 +37,6 @@
     "Audit Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "ON Semiconductor Corporation",
-      "ticker": "ON",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2011-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

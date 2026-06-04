@@ -9,18 +9,42 @@
       "ticker": "TSLA",
       "exchange": "NASDAQ",
       "website": "https://www.tesla.com",
-      "title": "Director",
-      "startDate": "2004-04-01",
+      "logoUrl": "/companies-assets/TSLA.NASDAQ.svg",
+      "title": "Director (Board of Directors)",
+      "startDate": "2004",
       "endDate": null,
-      "formattedStartDate": "2004 April",
+      "formattedStartDate": "2004",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Chipotle Mexican Grill, Inc.",
+      "ticker": "CMG",
+      "exchange": "NYSE",
+      "website": "https://www.chipotle.com",
+      "logoUrl": "/companies-assets/CMG.NYSE.svg",
+      "title": "Director (Board of Directors)",
+      "startDate": "2013",
+      "endDate": "2019",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2019"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kimbal",
+      "person_name": "Kimbal Musk",
+      "company_name": "Tesla, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 51,
   "ageYear": 2024

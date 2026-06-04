@@ -6,13 +6,14 @@
   "companies": [
     {
       "name": "United States Antimony Corporation",
-      "ticker": "USAR",
-      "exchange": "NYSE",
-      "website": "https://www.usantimony.com",
-      "title": "Chief Financial Officer",
-      "startDate": "2024-03-01",
+      "ticker": "UAMY",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "February 9, 2021",
       "endDate": null,
-      "formattedStartDate": "2024 March",
+      "formattedStartDate": "February 9, 2021",
       "formattedEndDate": ""
     }
   ],

@@ -6,19 +6,35 @@
   "age_year": 2024,
   "background": "Cory J. Reed is President, Production & Precision Ag. He is responsible for the company's global production and precision agriculture business. Reed joined John Deere in 1998 and has held various leadership roles in marketing and sales.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Deere & Company",
       "ticker": "DE",
       "exchange": "NYSE",
-      "title_or_role": "President, Production & Precision Ag",
-      "start_date": "2020-08-01",
-      "end_date": null
+      "title_or_role": "President, Worldwide Agriculture & Turf Division (Production and Precision Ag)",
+      "website": "https://www.deere.com",
+      "start_date": "2020",
+      "end_date": "2025",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/cory-reed-4a5a5a10",
+      "person_name": "Cory Reed",
+      "company_name": "Deere & Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

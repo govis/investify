@@ -9,11 +9,36 @@
       "ticker": "CACI",
       "exchange": "NYSE",
       "website": "https://www.caci.com",
-      "title": "Chairman of the Board, Director",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "formattedStartDate": "2021 January",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/CACI.NYSE.svg",
+      "title": "Chairman of the Board",
+      "startDate": "2013",
+      "endDate": "2025",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "BlackBerry Limited",
+      "ticker": "BB",
+      "exchange": "NYSE",
+      "website": "https://www.blackberry.com",
+      "logoUrl": "/companies-assets/BB.NYSE.svg",
+      "title": "Director",
+      "startDate": "2014",
+      "endDate": "2025",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "Science Applications International Corporation (SAIC)",
+      "ticker": "SAIC",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Executive",
+      "startDate": "1986",
+      "endDate": "2004",
+      "formattedStartDate": "1986",
+      "formattedEndDate": "2004"
     }
   ],
   "investmentTheses": [

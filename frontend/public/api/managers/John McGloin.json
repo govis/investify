@@ -9,17 +9,53 @@
       "ticker": "PRU",
       "exchange": "ASX",
       "website": "https://perseusmining.com/",
-      "title": "Non-Executive Director",
-      "startDate": "2016-04-19",
+      "logoUrl": "/companies-assets/PRU.ASX.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "April 2016",
       "endDate": null,
-      "formattedStartDate": "2016 April",
+      "formattedStartDate": "April 2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Amara Mining plc",
+      "ticker": "AMA",
+      "exchange": "LSE (London Stock Exchange - AIM)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman and Chief Executive Officer",
+      "startDate": "Unknown",
+      "endDate": "April 2016",
+      "formattedStartDate": "",
+      "formattedEndDate": "April 2016"
+    },
+    {
+      "name": "Cornish Metals Inc.",
+      "ticker": "TIN",
+      "exchange": "LSE (AIM) / TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Non-Executive Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/john-mcgloin-3b779441",
+      "person_name": "John McGloin",
+      "company_name": "Perseus Mining Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Remuneration Committee (Chair)",
     "Technical Committee"

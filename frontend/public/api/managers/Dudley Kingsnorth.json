@@ -5,22 +5,58 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Oreterra Limited",
-      "ticker": "ORE",
+      "name": "Boss Energy Limited",
+      "ticker": "BOE",
       "exchange": "ASX",
-      "website": "https://oreterra.com.au",
+      "website": "https://www.bossenergy.com",
+      "logoUrl": "/companies-assets/BOE.ASX.svg",
       "title": "Non-Executive Director",
-      "startDate": "2023-11-01",
-      "endDate": null,
-      "formattedStartDate": "2023 November",
-      "formattedEndDate": ""
+      "startDate": "2020",
+      "endDate": "2021",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Amex Resources Ltd.",
+      "ticker": "AXZ",
+      "exchange": "ASX",
+      "website": "https://www.businessnews.com.au/Company/Amex-Resources",
+      "logoUrl": "/companies-assets/AXZ.ASX.svg",
+      "title": "Non-Executive Chairman",
+      "startDate": "2007",
+      "endDate": "2012",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "ESSA Australia Ltd.",
+      "ticker": "ESS",
+      "exchange": "ASX",
+      "website": "https://www.businessnews.com.au/Company/Essa-Australia",
+      "logoUrl": "/companies-assets/ESS.ASX.svg",
+      "title": "Director",
+      "startDate": "2004",
+      "endDate": "2007",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2007"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/dudley-kingsnorth-510a3152",
+      "person_name": "Dudley Kingsnorth",
+      "company_name": "Oreterra Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit and Risk Committee",
     "Remuneration and Nomination Committee"

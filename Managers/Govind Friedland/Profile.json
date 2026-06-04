@@ -6,19 +6,65 @@
   "age_year": 2024,
   "background": "Mr. Friedland is a geologist and the founder of GoviEx Uranium. He has been involved in the mining industry for over 20 years and has been instrumental in the acquisition and development of the company's uranium assets in Africa.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "GoviEx Uranium Inc.",
       "ticker": "GXU",
       "exchange": "TSXV",
-      "title_or_role": "Executive Chairman",
-      "start_date": "2006-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://goviex.com/",
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lifezone Metals Ltd",
+      "ticker": "LZM",
+      "exchange": "NYSE",
+      "website": "https://lifezonemetals.com/",
+      "title_or_role": "Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cordoba Minerals Corp.",
+      "ticker": "CDB",
+      "exchange": "TSXV",
+      "website": "https://cordobaminerals.com/",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sama Resources Inc.",
+      "ticker": "SME",
+      "exchange": "TSXV",
+      "website": "https://samaresources.com/",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/govind-friedland-832884207",
+      "person_name": "Govind Friedland",
+      "company_name": "GoviEx Uranium Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -2,24 +2,96 @@
   "id": "Alan Carter",
   "name": "Alan Carter",
   "background": "Dr. Carter has over 30 years of experience in the exploration and mining industry. He was a co-founder of Peregrine Diamonds Ltd. and Magellan Minerals Ltd. He previously worked for Rio Tinto and BHP Billiton.",
-  "pictureUrl": null,
+  "pictureUrl": "/managers-assets/Alan Carter.jpg",
   "companies": [
     {
       "name": "Cabral Gold Inc.",
       "ticker": "CBR",
-      "exchange": "TSX",
-      "website": "https://cabralgold.com",
-      "title": "President, Chief Executive Officer and Director",
-      "startDate": "2016-02-11",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "President, CEO & Director",
+      "startDate": "2017",
       "endDate": null,
-      "formattedStartDate": "2016 February",
+      "formattedStartDate": "2017",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Altamira Gold Corp.",
+      "ticker": "ALTA",
+      "exchange": "TSXV",
+      "website": "altamiragold.com",
+      "logoUrl": "/companies-assets/ALTA.TSXV.svg",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Anfield Gold Corp.",
+      "ticker": "ANFG",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": "/companies-assets/ANFG.TSXV.png",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": "2018",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Peregrine Diamonds Ltd.",
+      "ticker": "PGD",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "https://companieslogo.com/img/orig/PGD.TO-99999999.png",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": "2018",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Magellan Minerals Ltd.",
+      "ticker": "MNM",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": "/companies-assets/MNM.TSXV.svg",
+      "title": "Founder, President & CEO",
+      "startDate": "2005",
+      "endDate": "2016",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Blackrock Silver Corp.",
+      "ticker": "BRC",
+      "exchange": "TSXV",
+      "website": "blackrocksilver.com",
+      "logoUrl": "/companies-assets/BRC.TSXV.svg",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": "2020",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2020"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/alan-carter-cabralgold",
+      "person_name": "Alan Carter",
+      "company_name": "Cabral Gold Inc.",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
   "committees": [],
   "age": 61,
   "ageYear": 2024

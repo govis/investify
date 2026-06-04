@@ -9,17 +9,53 @@
       "ticker": "BGL",
       "exchange": "ASX",
       "website": "https://www.bellevuegold.com.au",
-      "title": "Non-Executive Independent Director",
-      "startDate": "2020-05-01",
+      "logoUrl": "/companies-assets/BGL.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2020 May",
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Whitehaven Coal Limited",
+      "ticker": "WHC",
+      "exchange": "ASX",
+      "website": "https://whitehavencoal.com.au/",
+      "logoUrl": "/companies-assets/WHC.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "16 February 2018",
+      "endDate": null,
+      "formattedStartDate": "February 2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "29Metals Limited",
+      "ticker": "29M",
+      "exchange": "ASX",
+      "website": "https://www.29metals.com/",
+      "logoUrl": "/companies-assets/29M.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/fiona-robertson-am-a9144426",
+      "person_name": "Fiona Robertson",
+      "company_name": "Bellevue Gold Limited, Whitehaven Coal Limited, 29Metals Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit and Risk Committee (Chair)",
     "Nomination and Remuneration Committee"

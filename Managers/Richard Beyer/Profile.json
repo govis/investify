@@ -6,23 +6,89 @@
   "age_year": 2023,
   "background": "Mr. Beyer was the Chairman and CEO of Freescale Semiconductor, Inc. and has held executive roles at Intersil Corporation and Elantec Semiconductor.",
   "picture_url": null,
-  "investment_theses": [
-    "AI",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Governance and Sustainability Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Micron Technology, Inc.",
       "ticker": "MU",
       "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.micron.com",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Freescale Semiconductor, Inc.",
+      "ticker": "FSL",
+      "exchange": "NYSE",
+      "website": "https://www.nxp.com",
+      "title_or_role": "Director",
+      "start_date": "2008",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Intersil Corporation",
+      "ticker": "ISIL",
+      "exchange": "NASDAQ",
+      "website": "https://www.renesas.com",
+      "title_or_role": "President, Chief Executive Officer, and Director",
+      "start_date": "2002",
+      "end_date": "2008",
+      "validated": true
+    },
+    {
+      "name": "Microsemi Corporation",
+      "ticker": "MSCC",
+      "exchange": "NASDAQ",
+      "website": "https://www.microchip.com",
       "title_or_role": "Independent Director",
-      "start_date": "2013-01-01",
-      "end_date": null
+      "start_date": null,
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Analog Devices, Inc.",
+      "ticker": "ADI",
+      "exchange": "NASDAQ",
+      "website": "https://www.analog.com",
+      "title_or_role": "Independent Non-Employee Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "VLSI Technology, Inc.",
+      "ticker": "VLSI",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "President, Chief Operating Officer, and Director",
+      "start_date": "1996",
+      "end_date": "1998",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rich-beyer-99706353",
+      "person_name": "Richard Beyer",
+      "company_name": "Micron Technology, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Governance and Sustainability Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -6,6 +6,48 @@
   "age_year": 2024,
   "background": "Scott McGregor was President and CEO of Broadcom Corporation from 2005 to 2016. He also served as President and CEO of the Philips Semiconductors division of Royal Philips Electronics.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Applied Materials, Inc.",
+      "ticker": "AMAT",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.appliedmaterials.com",
+      "start_date": "2018-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Broadcom Corporation",
+      "ticker": "BRCM",
+      "exchange": "NASDAQ",
+      "website": "www.broadcom.com",
+      "title_or_role": "President, Chief Executive Officer, and Director",
+      "start_date": "2005",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Equifax Inc.",
+      "ticker": "EFX",
+      "exchange": "NYSE",
+      "website": "www.equifax.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Xactly Corporation",
+      "ticker": "XTLY",
+      "exchange": "NYSE",
+      "website": "www.xactlycorp.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2017",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI",
     "Reshoring"
@@ -15,14 +57,6 @@
     "Audit Committee",
     "Investment Committee (Chair)"
   ],
-  "companies": [
-    {
-      "name": "Applied Materials, Inc.",
-      "ticker": "AMAT",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2018-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

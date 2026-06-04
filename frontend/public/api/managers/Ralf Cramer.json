@@ -5,15 +5,16 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Albemarle Corporation",
-      "ticker": "ALB",
-      "exchange": "NYSE",
-      "website": "https://www.albemarle.com",
-      "title": "Independent Director",
-      "startDate": "2018-01-01",
-      "endDate": null,
-      "formattedStartDate": "2018 January",
-      "formattedEndDate": ""
+      "name": "Continental AG",
+      "ticker": "CON",
+      "exchange": "XETRA (Frankfurt Stock Exchange)",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and CEO of Continental China",
+      "startDate": "2013",
+      "endDate": "2017",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2017"
     }
   ],
   "investmentTheses": [

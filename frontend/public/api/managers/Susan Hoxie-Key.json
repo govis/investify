@@ -7,19 +7,31 @@
     {
       "name": "enCore Energy Corp.",
       "ticker": "EU",
-      "exchange": "TSX",
-      "website": "https://encoreuranium.com",
+      "exchange": "TSX, NYSE American",
+      "website": null,
+      "logoUrl": null,
       "title": "Independent Director",
-      "startDate": "2023-06-21",
+      "startDate": "2022-06-01",
       "endDate": null,
-      "formattedStartDate": "2023 June",
+      "formattedStartDate": "June 2022",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/susan-hoxie-key-pe-nacd-dc-8ba41772",
+      "person_name": "Susan Hoxie-Key",
+      "company_name": "enCore Energy Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee",
     "Governance and Nominating Committee"

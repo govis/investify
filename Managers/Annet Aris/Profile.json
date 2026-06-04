@@ -6,23 +6,61 @@
   "age_year": 2024,
   "background": "Annet Aris was appointed to the Supervisory Board in 2019. She is a Senior Affiliate Professor of Strategy at INSEAD.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "ASML Holding N.V.",
+      "ticker": "ASML",
+      "exchange": "NASDAQ / Euronext Amsterdam",
+      "title_or_role": "Member of the Supervisory Board / Vice-Chair",
+      "website": "https://www.asml.com",
+      "start_date": "2015",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Randstad N.V.",
+      "ticker": "RAND",
+      "exchange": "Euronext Amsterdam",
+      "website": "https://www.randstad.com",
+      "title_or_role": "Member of the Supervisory Board",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Jungheinrich AG",
+      "ticker": "JUN3",
+      "exchange": "Xetra (Frankfurt Stock Exchange)",
+      "website": "https://www.jungheinrich.com",
+      "title_or_role": "Member of the Supervisory Board",
+      "start_date": "2013",
+      "end_date": "2023",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/annet-aris-8abb9381/",
+      "person_name": "Annet Aris",
+      "company_name": "INSEAD",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1,
+      "profile_status": "private"
+    }
+  ],
   "committees": [
     "Selection and Nomination Committee",
     "Technology Committee (Chair)"
   ],
-  "companies": [
-    {
-      "name": "ASML Holding N.V.",
-      "ticker": "ASML",
-      "exchange": "NASDAQ",
-      "title_or_role": "Member of the Supervisory Board",
-      "start_date": "2019-04-17",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 1
 }

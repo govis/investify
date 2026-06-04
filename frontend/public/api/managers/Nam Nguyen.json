@@ -9,17 +9,41 @@
       "ticker": "GNRC",
       "exchange": "NYSE",
       "website": "https://www.generac.com",
-      "title": "Independent Director",
-      "startDate": "2022-01-01",
+      "logoUrl": "/companies-assets/GNRC.NYSE.svg",
+      "title": "Director",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2022 January",
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
+    },
+    {
+      "name": "SunPower Corporation",
+      "ticker": "SPWR",
+      "exchange": "NASDAQ",
+      "website": "https://us.sunpower.com",
+      "logoUrl": "/companies-assets/SPWR.NASDAQ.svg",
+      "title": "Executive Vice President",
+      "startDate": "2016",
+      "endDate": "2020",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2020"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/nam-nguyen-5a5b2a1",
+      "person_name": "Nam Nguyen",
+      "company_name": "Generac Holdings Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

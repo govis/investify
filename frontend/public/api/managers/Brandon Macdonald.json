@@ -7,19 +7,55 @@
     {
       "name": "NexGold Mining Corp.",
       "ticker": "NEXG",
-      "exchange": "TSX",
-      "website": "https://www.nexgold.com",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
       "title": "Director",
-      "startDate": "2024-07-01",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2024 July",
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Fireweed Metals Corp.",
+      "ticker": "FWZ",
+      "exchange": "TSXV",
+      "website": "https://fireweedmetals.com/",
+      "logoUrl": "/companies-assets/FWZ.TSXV.png",
+      "title": "CEO / Director",
+      "startDate": "2017",
+      "endDate": "2024",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Tinka Resources Ltd.",
+      "ticker": "TK",
+      "exchange": "TSXV",
+      "website": "https://tinkaresources.com/",
+      "logoUrl": "/companies-assets/TK.TSXV.png",
+      "title": "Executive Chairman / Director",
+      "startDate": "September 2025",
+      "endDate": null,
+      "formattedStartDate": "September 2025",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/brandon-macdonald-5a5a5a12",
+      "person_name": "Brandon Macdonald",
+      "company_name": "Fireweed Metals Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": null,
   "ageYear": null

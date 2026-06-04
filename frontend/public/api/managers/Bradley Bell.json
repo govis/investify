@@ -5,15 +5,76 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "AECOM",
-      "ticker": "ACM",
+      "name": "Compass Minerals International, Inc.",
+      "ticker": "CMP",
       "exchange": "NYSE",
-      "website": "https://aecom.com",
-      "title": "Independent Director",
-      "startDate": "2017-01-01",
-      "endDate": null,
-      "formattedStartDate": "2017 January",
-      "formattedEndDate": ""
+      "website": "https://www.compassminerals.com/",
+      "logoUrl": "/companies-assets/CMP.NYSE.svg",
+      "title": "Director",
+      "startDate": "2003",
+      "endDate": "2015",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "IDEX Corporation",
+      "ticker": "IEX",
+      "exchange": "NYSE",
+      "website": "https://idexcorp.com/",
+      "logoUrl": "/companies-assets/IEX.NYSE.jpg",
+      "title": "Director",
+      "startDate": "2001",
+      "endDate": "2015",
+      "formattedStartDate": "2001",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Hennessy Capital Acquisition Corp.",
+      "ticker": "HCAC",
+      "exchange": "NASDAQ",
+      "website": "https://www.hennessycapllc.com/",
+      "logoUrl": "/companies-assets/HCAC.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2014",
+      "endDate": "2018",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Hennessy Capital Acquisition Corp. II",
+      "ticker": "HCACU",
+      "exchange": "NASDAQ",
+      "website": "https://www.hennessycapllc.com/",
+      "logoUrl": "/companies-assets/HCACU.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": "2018",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Hennessy Capital Acquisition Corp. III",
+      "ticker": "HCAC",
+      "exchange": "NASDAQ",
+      "website": "https://www.hennessycapllc.com/",
+      "logoUrl": "/companies-assets/HCAC.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": "2018",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "MPM Holdings, Inc.",
+      "ticker": "MPM",
+      "exchange": "OTC",
+      "website": "https://www.momentive.com/",
+      "logoUrl": "/companies-assets/MPM.OTC.svg",
+      "title": "Chairman of the Board",
+      "startDate": "2014",
+      "endDate": "2018",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2018"
     }
   ],
   "investmentTheses": [

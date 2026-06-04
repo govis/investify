@@ -3,19 +3,7 @@
   "name": "Richard Murphy",
   "background": "Mr. Murphy is a geologist with over 30 years of experience in the mining industry. He is currently the President and CEO of Argonaut Gold.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "IsoEnergy Ltd.",
-      "ticker": "ISO",
-      "exchange": "TSX",
-      "website": "https://www.isoenergy.ca",
-      "title": "Chairman and Independent Director",
-      "startDate": "2016-02-02",
-      "endDate": null,
-      "formattedStartDate": "2016 February",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "Nuclear"
   ],

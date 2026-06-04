@@ -9,17 +9,41 @@
       "ticker": "TDG",
       "exchange": "NYSE",
       "website": "https://www.transdigm.com",
-      "title": "Executive Chairman",
-      "startDate": "2018-04-30",
+      "logoUrl": "/companies-assets/TDG.NYSE.svg",
+      "title": "Founder, Executive Chairman (Current); Former CEO (2001–2018)",
+      "startDate": "1993",
       "endDate": null,
-      "formattedStartDate": "2018 April",
+      "formattedStartDate": "1993",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Perimeter Solutions, SA",
+      "ticker": "PRM",
+      "exchange": "NYSE",
+      "website": "https://ir.perimeter-solutions.com",
+      "logoUrl": "/companies-assets/PRM.NYSE.svg",
+      "title": "Director / Co-Chairman of the Board",
+      "startDate": "November 2021",
+      "endDate": null,
+      "formattedStartDate": "November 2021",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/nicholashowley",
+      "person_name": "Nicholas Howley",
+      "company_name": "TransDigm Group Incorporated",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 72,
   "ageYear": 2024

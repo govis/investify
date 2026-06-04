@@ -6,22 +6,58 @@
   "age_year": 2024,
   "background": "Managing Partner of HCI Equity Partners.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Governance and Nominating Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Caterpillar Inc.",
       "ticker": "CAT",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2006-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://www.caterpillar.com",
+      "start_date": "2006",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "MISTRAS Group, Inc.",
+      "ticker": "MG",
+      "exchange": "NYSE",
+      "website": "https://www.mistrasgroup.com",
+      "title_or_role": "Director",
+      "start_date": "Not specified",
+      "end_date": "Within the last five years",
+      "validated": true
+    },
+    {
+      "name": "TTM Technologies, Inc.",
+      "ticker": "TTMI",
+      "exchange": "NASDAQ",
+      "website": "https://www.ttm.com",
+      "title_or_role": "Director",
+      "start_date": "Not specified",
+      "end_date": "Not specified",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/danielsdickinson",
+      "person_name": "Daniel S. Dickinson",
+      "company_name": "HCI Equity Partners",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

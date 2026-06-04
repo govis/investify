@@ -5,15 +5,28 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Evolution Mining Limited",
-      "ticker": "EVN",
+      "name": "STM Group Plc",
+      "ticker": "STM",
+      "exchange": "LSE (AIM)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Non-Executive Director",
+      "startDate": "January 2022",
+      "endDate": "2024",
+      "formattedStartDate": "January 2022",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Western Metals Ltd",
+      "ticker": "WMT",
       "exchange": "ASX",
-      "website": "https://evolutionmining.com.au",
-      "title": "Non-Executive Director",
-      "startDate": "2020-04-01",
-      "endDate": null,
-      "formattedStartDate": "2020 April",
-      "formattedEndDate": ""
+      "website": null,
+      "logoUrl": "/companies-assets/WMT.ASX.svg",
+      "title": "Non-Executive Chairman",
+      "startDate": "2005",
+      "endDate": "2007",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2007"
     }
   ],
   "investmentTheses": [

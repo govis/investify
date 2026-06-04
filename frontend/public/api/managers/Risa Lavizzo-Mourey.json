@@ -9,18 +9,114 @@
       "ticker": "INTC",
       "exchange": "NASDAQ",
       "website": "https://www.intel.com",
-      "title": "Independent Director",
-      "startDate": "2018-03-01",
+      "logoUrl": "/companies-assets/INTC.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "March 2018",
+      "endDate": "2025",
+      "formattedStartDate": "March 2018",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "Merck & Co., Inc.",
+      "ticker": "MRK",
+      "exchange": "NYSE",
+      "website": "https://www.merck.com",
+      "logoUrl": "/companies-assets/MRK.NYSE.svg",
+      "title": "Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2018 March",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "GE HealthCare Technologies, Inc.",
+      "ticker": "GEHC",
+      "exchange": "NASDAQ",
+      "website": "https://www.gehealthcare.com",
+      "logoUrl": "/companies-assets/GEHC.NASDAQ.svg",
+      "title": "Lead Director",
+      "startDate": "January 2023",
+      "endDate": null,
+      "formattedStartDate": "January 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "General Electric Company",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "website": "https://www.geaerospace.com",
+      "logoUrl": "/companies-assets/GE.NYSE.svg",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": "2022",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Better Therapeutics, Inc.",
+      "ticker": "BTTX",
+      "exchange": "NASDAQ",
+      "website": "https://www.bettertx.com",
+      "logoUrl": "/companies-assets/BTTX.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "April 2021",
+      "endDate": "2024",
+      "formattedStartDate": "April 2021",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Genworth Financial, Inc.",
+      "ticker": "GNW",
+      "exchange": "NYSE",
+      "website": "https://www.genworth.com",
+      "logoUrl": "/companies-assets/GNW.NYSE.svg",
+      "title": "Director",
+      "startDate": "2004",
+      "endDate": "2017",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Beckman Coulter, Inc.",
+      "ticker": "BEC",
+      "exchange": "NYSE",
+      "website": "https://www.beckman.com",
+      "logoUrl": "/companies-assets/BEC.NYSE.png",
+      "title": "Director",
+      "startDate": "2005",
+      "endDate": "2011",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2011"
+    },
+    {
+      "name": "Hess Corporation",
+      "ticker": "HES",
+      "exchange": "NYSE",
+      "website": "https://www.hess.com",
+      "logoUrl": "/companies-assets/HES.NYSE.svg",
+      "title": "Director",
+      "startDate": "2005",
+      "endDate": "2017",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2017"
     }
   ],
   "investmentTheses": [
     "AI",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/risalavizzo",
+      "person_name": "Risa Lavizzo-Mourey",
+      "company_name": "University of Pennsylvania",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee",
     "Corporate Governance and Nominating Committee"

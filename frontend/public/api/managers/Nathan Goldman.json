@@ -9,17 +9,29 @@
       "ticker": "CSX",
       "exchange": "NASDAQ",
       "website": "https://www.csx.com",
-      "title": "Executive Vice President and Chief Legal Officer and Corporate Secretary",
-      "startDate": "2017-11-01",
-      "endDate": null,
-      "formattedStartDate": "2017 November",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/CSX.NASDAQ.svg",
+      "title": "Executive Vice President, Chief Legal Officer, and Corporate Secretary",
+      "startDate": "November 2017",
+      "endDate": "January 1, 2025",
+      "formattedStartDate": "November 2017",
+      "formattedEndDate": "January 1, 2025"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/nathan-goldman-56307a3",
+      "person_name": "Nathan Goldman",
+      "company_name": "CSX Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 66,
   "ageYear": 2024

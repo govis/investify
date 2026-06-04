@@ -9,17 +9,29 @@
       "ticker": "LICY",
       "exchange": "NYSE",
       "website": "https://li-cycle.com",
-      "title": "Executive Chair",
-      "startDate": "2016-01-01",
+      "logoUrl": "/companies-assets/LICY.NYSE.svg",
+      "title": "Co-Founder, Executive Chair (2016–2024), Interim Non-Executive Board Chair (2024–Present)",
+      "startDate": "2016",
       "endDate": null,
-      "formattedStartDate": "2016 January",
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/timothyjjohnston",
+      "person_name": "Tim Johnston",
+      "company_name": "Li-Cycle",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 37,
   "ageYear": 2024

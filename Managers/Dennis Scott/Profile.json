@@ -6,19 +6,35 @@
   "age_year": 2024,
   "background": "Mr. Scott has served as Senior Vice President, General Counsel, and Secretary since 2021. He joined the Company in 2015 and previously served as Deputy General Counsel.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Centrus Energy Corp.",
       "ticker": "LEU",
       "exchange": "NYSE",
-      "title_or_role": "Senior Vice President, General Counsel, and Secretary",
-      "start_date": "2021-01-01",
-      "end_date": null
+      "title_or_role": "Senior Vice President, General Counsel, Chief Compliance Officer, and Corporate Secretary",
+      "website": "https://www.centrusenergy.com",
+      "start_date": "May 23, 2016",
+      "end_date": "2024",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dennis-scott-91bbaa35",
+      "person_name": "Dennis Scott",
+      "company_name": "Centrus Energy Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

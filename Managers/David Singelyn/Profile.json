@@ -6,21 +6,56 @@
   "age_year": 2024,
   "background": "Chief Executive Officer and Trustee of American Homes 4 Rent.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Digital Realty Trust, Inc.",
       "ticker": "DLR",
       "exchange": "NYSE",
       "title_or_role": "Director",
+      "website": "https://www.digitalrealty.com",
       "start_date": "2023-01-01",
       "end_date": null
+    },
+    {
+      "name": "American Homes 4 Rent",
+      "ticker": "AMH",
+      "exchange": "NYSE",
+      "website": "https://www.amh.com",
+      "title_or_role": "Chief Executive Officer and Trustee",
+      "start_date": "2012-10",
+      "end_date": "2024-12-31",
+      "validated": true
+    },
+    {
+      "name": "Public Storage",
+      "ticker": "PSA",
+      "exchange": "NYSE",
+      "website": "https://www.publicstorage.com",
+      "title_or_role": "Various Senior Finance Roles",
+      "start_date": "1989",
+      "end_date": "2003",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/david-singelyn-84b12b50",
+      "person_name": "David Singelyn",
+      "company_name": "American Homes 4 Rent",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

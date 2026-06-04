@@ -6,6 +6,29 @@
   "age_year": 2024,
   "background": "Mr. Parker has over 50 years of experience in the mining industry, including executive roles at High Plains Uranium and Anderson & Schwab.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Ur-Energy Inc.",
+      "ticker": "URG",
+      "exchange": "NYSE American",
+      "title_or_role": "Lead Independent Director",
+      "website": "https://www.ur-energy.com",
+      "start_date": "2007",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "High Plains Uranium, Inc.",
+      "ticker": "N/A",
+      "exchange": "TSX-V",
+      "website": null,
+      "title_or_role": "President & Chief Executive Officer",
+      "start_date": "2006",
+      "end_date": "2007",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -15,14 +38,6 @@
     "Compensation Committee",
     "Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "Ur-Energy Inc.",
-      "ticker": "URG",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2007-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

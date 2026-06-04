@@ -9,17 +9,29 @@
       "ticker": "RKLB",
       "exchange": "NASDAQ",
       "website": "https://www.rocketlabusa.com",
-      "title": "Chief Operating Officer",
-      "startDate": "2017-10-01",
+      "logoUrl": "/companies-assets/RKLB.NASDAQ.svg",
+      "title": "GNC Lead, Vice President-Global Operations, Chief Engineer-Special Programs",
+      "startDate": "September 2007",
       "endDate": null,
-      "formattedStartDate": "2017 October",
+      "formattedStartDate": "September 2007",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://nz.linkedin.com/in/shaun-o-donnell-30b22a4a",
+      "person_name": "Shaun O'Donnell",
+      "company_name": "Rocket Lab",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 48,
   "ageYear": 2024

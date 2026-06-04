@@ -9,17 +9,41 @@
       "ticker": "GLD",
       "exchange": "NYSE",
       "website": "https://www.spdrgoldshares.com",
-      "title": "Independent Director",
-      "startDate": "2013-01-01",
+      "logoUrl": "/companies-assets/GLD.NYSE.jpg",
+      "title": "Director (World Gold Trust Services, LLC - Sponsor)",
+      "startDate": "2013-01-24",
+      "endDate": "2023-01-01",
+      "formattedStartDate": "January 2013",
+      "formattedEndDate": "January 2023"
+    },
+    {
+      "name": "OTC Markets Group Inc.",
+      "ticker": "OTCM",
+      "exchange": "OTC",
+      "website": "https://www.otcmarkets.com",
+      "logoUrl": "/companies-assets/OTCM.OTC.svg",
+      "title": "Director / Non-Executive Chairman",
+      "startDate": "2012",
       "endDate": null,
-      "formattedStartDate": "2013 January",
+      "formattedStartDate": "2012",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/neal-wolkoff-5335027",
+      "person_name": "Neal Wolkoff",
+      "company_name": "OTC Markets Group",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

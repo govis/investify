@@ -9,10 +9,11 @@
       "ticker": "ANET",
       "exchange": "NYSE",
       "website": "https://www.arista.com",
-      "title": "Director, President and Chief Executive Officer",
-      "startDate": "2008-10-01",
+      "logoUrl": "/companies-assets/ANET.NYSE.svg",
+      "title": "President and CEO",
+      "startDate": "2008",
       "endDate": null,
-      "formattedStartDate": "2008 October",
+      "formattedStartDate": "2008",
       "formattedEndDate": ""
     },
     {
@@ -20,17 +21,41 @@
       "ticker": "SNOW",
       "exchange": "NYSE",
       "website": "https://www.snowflake.com",
-      "title": "Independent Director",
-      "startDate": "2020-06-01",
+      "logoUrl": "/companies-assets/SNOW.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2020 June",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "website": "https://www.cisco.com",
+      "logoUrl": "/companies-assets/CSCO.NASDAQ.svg",
+      "title": "Senior Vice President, Data Center, Switching and Security",
+      "startDate": "1993",
+      "endDate": "2008",
+      "formattedStartDate": "1993",
+      "formattedEndDate": "2008"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jayshree-ullal-b22342138",
+      "person_name": "Jayshree Ullal",
+      "company_name": "Arista Networks",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee"
   ],

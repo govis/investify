@@ -6,6 +6,29 @@
   "age_year": null,
   "background": "Mr. Harvey is a mining professional with over 35 years' experience in the resources sector, including senior executive roles at South32 and BHP.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "De Grey Mining Limited",
+      "ticker": "DEG",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://degreymining.com.au",
+      "start_date": "July 5, 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "South32 Limited",
+      "ticker": "S32",
+      "exchange": "ASX",
+      "website": "https://www.south32.net",
+      "title_or_role": "Member of the Leadership Team (Executive)",
+      "start_date": "2015",
+      "end_date": "2019",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +37,6 @@
     "Audit and Risk Committee",
     "Remuneration and Nomination Committee (Chair)"
   ],
-  "companies": [
-    {
-      "name": "De Grey Mining Limited",
-      "ticker": "DEG",
-      "exchange": "ASX",
-      "title_or_role": "Non-Executive Director",
-      "start_date": "2022-07-04",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

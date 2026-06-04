@@ -9,17 +9,101 @@
       "ticker": "AMD",
       "exchange": "NASDAQ",
       "website": "https://www.amd.com",
-      "title": "Independent Director",
-      "startDate": "2014-01-01",
+      "logoUrl": "/companies-assets/AMD.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2014",
       "endDate": null,
-      "formattedStartDate": "2014 January",
+      "formattedStartDate": "2014",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Gen Digital Inc.",
+      "ticker": "GEN",
+      "exchange": "NASDAQ",
+      "website": "https://www.gendigital.com",
+      "logoUrl": "/companies-assets/GEN.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sony Group Corporation",
+      "ticker": "SONY",
+      "exchange": "NYSE",
+      "website": "https://www.sony.com",
+      "logoUrl": "/companies-assets/SONY.NYSE.svg",
+      "title": "Director",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Ericsson",
+      "ticker": "ERIC",
+      "exchange": "NASDAQ",
+      "website": "https://www.ericsson.com",
+      "logoUrl": "/companies-assets/ERIC.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": "2023",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Talend S.A.",
+      "ticker": "TLND",
+      "exchange": "NASDAQ",
+      "website": "talend.com",
+      "logoUrl": "/companies-assets/TLND.NASDAQ.png",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": "2023",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Saba Software, Inc.",
+      "ticker": "SABA",
+      "exchange": "NASDAQ",
+      "website": "saba.com",
+      "logoUrl": "/companies-assets/SABA.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": "2013",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Overland Storage, Inc.",
+      "ticker": "OVRL",
+      "exchange": "NASDAQ",
+      "website": "overlandstorage.com",
+      "logoUrl": "https://www.overlandtandberg.com/wp-content/uploads/2021/03/Overland-Tandberg-Logo-1.png",
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": "2014",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2014"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/noradenzel",
+      "person_name": "Nora Denzel",
+      "company_name": "Advanced Micro Devices, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation and Leadership Resources Committee",
     "Nominating and Corporate Governance Committee"

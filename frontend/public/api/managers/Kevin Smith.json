@@ -5,14 +5,27 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Rolls-Royce Holdings plc",
-      "ticker": "RR",
-      "exchange": ".LSE",
-      "website": "https://www.rolls-royce.com",
-      "title": "Senior Independent Director",
-      "startDate": "2015-11-01",
+      "name": "GKN plc",
+      "ticker": "GKN",
+      "exchange": "LSE",
+      "website": "https://www.gkn.com",
+      "logoUrl": "/companies-assets/GKN.LSE.svg",
+      "title": "Managing Director, GKN Aerospace",
+      "startDate": "1999-11-01",
+      "endDate": "2002-12-31",
+      "formattedStartDate": "November 1999",
+      "formattedEndDate": "December 2002"
+    },
+    {
+      "name": "Babcock International Group PLC",
+      "ticker": "BAB",
+      "exchange": "LSE",
+      "website": "https://www.babcockinternational.com",
+      "logoUrl": "/companies-assets/BAB.LSE.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2023-06-01",
       "endDate": null,
-      "formattedStartDate": "2015 November",
+      "formattedStartDate": "June 2023",
       "formattedEndDate": ""
     }
   ],

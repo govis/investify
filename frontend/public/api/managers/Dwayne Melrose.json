@@ -5,14 +5,51 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Fission Uranium Corp.",
-      "ticker": "FCU",
-      "exchange": "TSX",
-      "website": "https://fissionuranium.com",
-      "title": "Vice President, Exploration",
-      "startDate": "2023-01-01",
+      "name": "Silver Storm Mining Ltd.",
+      "ticker": "SVRS",
+      "exchange": "TSXV",
+      "website": "https://silverstorm.ca/",
+      "logoUrl": "/companies-assets/SVRS.TSXV.svg",
+      "title": "Independent Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Greenhawk Resources, Inc.",
+      "ticker": "GRHK",
+      "exchange": "TSXV",
+      "website": "https://greenhawkresources.com/",
+      "logoUrl": "https://greenhawkresources.com/wp-content/uploads/2021/06/Greenhawk-Resources-Logo.png",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": "2025",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "Progressive Planet Solutions Inc.",
+      "ticker": "PLAN",
+      "exchange": "TSXV",
+      "website": "https://progressiveplanet.com/",
+      "logoUrl": "/companies-assets/PLAN.TSXV.svg",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "LiCo Energy Metals Inc. (now Fuse Cobalt Inc.)",
+      "ticker": "FUSE",
+      "exchange": "TSXV",
+      "website": "https://fusecobalt.com/",
+      "logoUrl": "/companies-assets/FUSE.TSXV.svg",
+      "title": "Director and Chair of Technical Advisory Board",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
       "formattedEndDate": ""
     }
   ],

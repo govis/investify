@@ -6,19 +6,55 @@
   "age_year": 2024,
   "background": "Mr. Van Scoter has served as our President and Chief Executive Officer and as a member of our Board since June 2023. Prior to joining Solid Power, Mr. Van Scoter served as Vice President of SRI International, a nonprofit research institute, from 2019 to 2023. From 2010 to 2018, he was the CEO and President of eSolar, Inc., a concentrated solar power technology company. Earlier in his career, he spent over 25 years at Texas Instruments.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Solid Power, Inc.",
       "ticker": "SLDP",
       "exchange": "NASDAQ",
-      "title_or_role": "Director, President and Chief Executive Officer",
-      "start_date": "2023-06-15",
-      "end_date": null
+      "title_or_role": "President, Chief Executive Officer, and Director",
+      "website": "https://solidpowerbattery.com/",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "TE Connectivity Ltd.",
+      "ticker": "TEL",
+      "exchange": "NYSE",
+      "website": "https://www.te.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2008",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Texas Instruments Incorporated",
+      "ticker": "TXN",
+      "exchange": "NASDAQ",
+      "website": "https://www.ti.com/",
+      "title_or_role": "Senior Vice President (held various roles including SVP, Alternative Energy Strategy and SVP, General Manager of DLP Products Division)",
+      "start_date": "1983",
+      "end_date": "2013",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/john-van-scoter-4a8b887",
+      "person_name": "John Van Scoter",
+      "company_name": "Solid Power, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

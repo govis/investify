@@ -5,25 +5,39 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Cisco Systems, Inc.",
-      "ticker": "CSCO",
+      "name": "Adobe Inc.",
+      "ticker": "ADBE",
       "exchange": "NASDAQ",
-      "website": "https://www.cisco.com",
-      "title": "Independent Director",
-      "startDate": "2018-05-01",
-      "endDate": null,
-      "formattedStartDate": "2018 May",
-      "formattedEndDate": ""
+      "website": "https://www.adobe.com",
+      "logoUrl": "/companies-assets/ADBE.NASDAQ.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2007",
+      "endDate": "2018",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2018"
     },
     {
-      "name": "Snowflake Inc.",
-      "ticker": "SNOW",
+      "name": "Axalta Coating Systems Ltd.",
+      "ticker": "AXTA",
       "exchange": "NYSE",
-      "website": "https://www.snowflake.com",
-      "title": "Independent Director",
-      "startDate": "2018-05-01",
+      "website": "https://www.axalta.com",
+      "logoUrl": "/companies-assets/AXTA.NYSE.svg",
+      "title": "Director / Chairman of the Board",
+      "startDate": "2016",
+      "endDate": "2021",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "GoDaddy Inc.",
+      "ticker": "GDDY",
+      "exchange": "NYSE",
+      "website": "www.godaddy.com",
+      "logoUrl": "/companies-assets/GDDY.NYSE.svg",
+      "title": "Director",
+      "startDate": "2018",
       "endDate": null,
-      "formattedStartDate": "2018 May",
+      "formattedStartDate": "2018",
       "formattedEndDate": ""
     }
   ],

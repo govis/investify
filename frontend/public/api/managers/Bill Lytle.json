@@ -9,17 +9,29 @@
       "ticker": "BTG",
       "exchange": "NYSE",
       "website": "https://www.b2gold.com",
-      "title": "Senior Vice President, Operations",
-      "startDate": "2016-01-01",
+      "logoUrl": "/companies-assets/BTG.NYSE.svg",
+      "title": "Senior Vice President and Chief Operating Officer",
+      "startDate": "2012",
       "endDate": null,
-      "formattedStartDate": "2016 January",
+      "formattedStartDate": "2012",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/billlytle",
+      "person_name": "Bill Lytle",
+      "company_name": "B2Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 58,
   "ageYear": 2024

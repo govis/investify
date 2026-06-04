@@ -6,21 +6,77 @@
   "age_year": 2024,
   "background": "Carrie Palin has been a member of our Board since February 2021. She is currently the Senior Vice President and Chief Marketing Officer of Cisco Systems, Inc.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "NetApp, Inc.",
       "ticker": "NTAP",
       "exchange": "NASDAQ",
-      "title_or_role": "Director",
-      "start_date": "2021-02-01",
-      "end_date": null
+      "title_or_role": "Independent Director",
+      "website": "https://www.netapp.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "website": "https://www.cisco.com",
+      "title_or_role": "Senior Vice President and Chief Marketing Officer",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Splunk Inc.",
+      "ticker": "SPLK",
+      "exchange": "NASDAQ",
+      "website": "https://www.splunk.com",
+      "title_or_role": "Senior Vice President and Chief Marketing Officer",
+      "start_date": "2019",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Twilio Inc.",
+      "ticker": "TWLO",
+      "exchange": "NYSE",
+      "website": "https://www.twilio.com",
+      "title_or_role": "Chief Marketing Officer (at SendGrid prior to acquisition)",
+      "start_date": "2017",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Box, Inc.",
+      "ticker": "BOX",
+      "exchange": "NYSE",
+      "website": "https://www.box.com",
+      "title_or_role": "Chief Marketing Officer",
+      "start_date": "2015",
+      "end_date": "2017",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/carrie-palin-37a1802/",
+      "person_name": "Carrie Palin",
+      "company_name": "Cisco",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

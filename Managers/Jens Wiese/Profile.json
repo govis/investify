@@ -6,19 +6,45 @@
   "age_year": 2024,
   "background": "Head of Group M&A and Investment Advisory at Volkswagen AG. Former Senior Partner at Roland Berger.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "QuantumScape Corporation",
       "ticker": "QS",
-      "exchange": "NYSE",
-      "title_or_role": "Director",
-      "start_date": "2020-11-01",
-      "end_date": null
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.quantumscape.com/",
+      "start_date": "2021",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Volkswagen AG",
+      "ticker": "VWAGY",
+      "exchange": "OTC",
+      "website": "https://www.volkswagen-group.com/",
+      "title_or_role": "Head of Group M&A, Investment Advisory and Partnerships / Head of Group Battery Strategy",
+      "start_date": "2016",
+      "end_date": "2023",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jensulrichwiese",
+      "person_name": "Jens Wiese",
+      "company_name": "Volkswagen AG",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

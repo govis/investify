@@ -6,6 +6,117 @@
   "age_year": 2024,
   "background": "Executive Chairman, Barrick Gold Corporation; Former President, Goldman Sachs.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "title_or_role": "Lead Independent Director",
+      "website": "https://www.ford.com",
+      "start_date": "1996-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Barrick Gold Corporation",
+      "ticker": "GOLD",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Chairman",
+      "website": "https://www.barrick.com",
+      "start_date": "2012-02-15",
+      "end_date": null
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "ticker": "GS",
+      "exchange": "NYSE",
+      "website": "https://www.goldmansachs.com",
+      "title_or_role": "President and Co-COO; Director",
+      "start_date": "1999",
+      "end_date": "2003",
+      "validated": true
+    },
+    {
+      "name": "Lenovo Group Limited",
+      "ticker": "0992",
+      "exchange": "HKEX",
+      "website": "https://www.lenovo.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "ticker": "HSBA",
+      "exchange": "LSE",
+      "website": "https://www.hsbc.com",
+      "title_or_role": "Director",
+      "start_date": "2008",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "title_or_role": "Director",
+      "start_date": "2003",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "News Corporation",
+      "ticker": "NWSA",
+      "exchange": "NASDAQ",
+      "website": "https://www.newscorp.com",
+      "title_or_role": "Director",
+      "start_date": "2004",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Industrial and Commercial Bank of China (ICBC)",
+      "ticker": "1398",
+      "exchange": "HKEX",
+      "website": "https://www.icbc.com.cn",
+      "title_or_role": "Director",
+      "start_date": "2008",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "China Unicom (Hong Kong) Limited",
+      "ticker": "0762",
+      "exchange": "HKEX",
+      "website": "https://www.chinaunicom.com.hk",
+      "title_or_role": "Director",
+      "start_date": "2008",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "DirecTV",
+      "ticker": "DTV",
+      "exchange": "NASDAQ",
+      "website": "https://www.directv.com",
+      "title_or_role": "Director",
+      "start_date": "2003",
+      "end_date": "2010",
+      "validated": true
+    },
+    {
+      "name": "British Sky Broadcasting (BSkyB)",
+      "ticker": "SKY",
+      "exchange": "LSE",
+      "website": "https://www.sky.com",
+      "title_or_role": "Director",
+      "start_date": "2003",
+      "end_date": "2012",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Gold",
@@ -16,22 +127,6 @@
     "Finance Committee",
     "Nominating and Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Ford Motor Company",
-      "ticker": "F",
-      "exchange": "NYSE",
-      "title_or_role": "Lead Independent Director",
-      "start_date": "1996-01-01",
-      "end_date": null
-    },
-    {
-      "name": "Barrick Gold Corporation",
-      "ticker": "GOLD",
-      "exchange": "NYSE",
-      "title_or_role": "Executive Chairman",
-      "start_date": "2012-02-15",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

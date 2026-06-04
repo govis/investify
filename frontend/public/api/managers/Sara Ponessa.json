@@ -9,10 +9,23 @@
       "ticker": "LTHM",
       "exchange": "NYSE",
       "website": "https://www.livent.com",
-      "title": "Vice President, General Counsel and Secretary",
-      "startDate": "2018-01-01",
+      "logoUrl": "/companies-assets/LTHM.NYSE.svg",
+      "title": "General Counsel and Secretary",
+      "startDate": "2018",
+      "endDate": "2025-06-01",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "June 2025"
+    },
+    {
+      "name": "FMC Corporation",
+      "ticker": "FMC",
+      "exchange": "NYSE",
+      "website": "https://www.fmc.com",
+      "logoUrl": "/companies-assets/FMC.NYSE.svg",
+      "title": "Executive Vice President, General Counsel, and Corporate Secretary",
+      "startDate": "2025-06-01",
       "endDate": null,
-      "formattedStartDate": "2018 January",
+      "formattedStartDate": "June 2025",
       "formattedEndDate": ""
     }
   ],

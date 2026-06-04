@@ -9,17 +9,65 @@
       "ticker": "FLS",
       "exchange": "NYSE",
       "website": "https://www.flowserve.com",
-      "title": "Senior Vice President, Chief Legal Officer and Corporate Secretary",
-      "startDate": "2023-06-01",
+      "logoUrl": "/companies-assets/FLS.NYSE.svg",
+      "title": "Senior Leadership Role",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2023 June",
+      "formattedStartDate": "",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Becton, Dickinson and Company",
+      "ticker": "BDX",
+      "exchange": "NYSE",
+      "website": "bd.com",
+      "logoUrl": "/companies-assets/BDX.NYSE.svg",
+      "title": "Executive Vice President and General Counsel",
+      "startDate": "March 16, 2026",
+      "endDate": null,
+      "formattedStartDate": "March 16, 2026",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Walgreens Boots Alliance, Inc.",
+      "ticker": "WBA",
+      "exchange": "NASDAQ",
+      "website": "https://www.walgreensbootsalliance.com",
+      "logoUrl": "/companies-assets/WBA.NASDAQ.svg",
+      "title": "Executive Vice President and Global Chief Legal Officer",
+      "startDate": "April 15, 2024",
+      "endDate": "March 2026",
+      "formattedStartDate": "April 15, 2024",
+      "formattedEndDate": "March 2026"
+    },
+    {
+      "name": "Ecolab Inc.",
+      "ticker": "ECL",
+      "exchange": "NYSE",
+      "website": "https://www.ecolab.com",
+      "logoUrl": "/companies-assets/ECL.NYSE.svg",
+      "title": "Executive Vice President, General Counsel and Corporate Secretary",
+      "startDate": "2022",
+      "endDate": "April 1, 2024",
+      "formattedStartDate": "2022",
+      "formattedEndDate": "April 1, 2024"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/laneshaminnix",
+      "person_name": "Lanesha Minnix",
+      "company_name": "Flowserve Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 46,
   "ageYear": 2024

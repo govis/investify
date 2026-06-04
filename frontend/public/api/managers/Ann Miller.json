@@ -3,19 +3,7 @@
   "name": "Ann Miller",
   "background": "Ms. Miller is a corporate director and former Vice President, General Counsel and Corporate Secretary of Newmont Corporation.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "IAMGOLD Corporation",
-      "ticker": "IAG",
-      "exchange": "NYSE",
-      "website": "https://www.iamgold.com",
-      "title": "Independent Director",
-      "startDate": "2022-02-01",
-      "endDate": null,
-      "formattedStartDate": "2022 February",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "Gold"
   ],

@@ -9,17 +9,41 @@
       "ticker": "AGE",
       "exchange": "ASX",
       "website": "https://www.alligatorenergy.com.au",
-      "title": "Chief Development Officer",
-      "startDate": "2024-02-01",
+      "logoUrl": "/companies-assets/AGE.ASX.png",
+      "title": "Non-Executive Director",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2024 February",
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Dateline Resources Limited",
+      "ticker": "DTR",
+      "exchange": "ASX",
+      "website": "https://www.datelineresources.com.au",
+      "logoUrl": "/companies-assets/DTR.ASX.svg",
+      "title": "Chief Operating Officer",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/simon-slesarewich-0a942020",
+      "person_name": "Simon Slesarewich",
+      "company_name": "Dateline Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": null,
   "ageYear": null

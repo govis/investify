@@ -5,22 +5,70 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Intel Corporation",
-      "ticker": "INTC",
+      "name": "Cadence Design Systems, Inc.",
+      "ticker": "CDNS",
       "exchange": "NASDAQ",
-      "website": "https://www.intel.com",
-      "title": "Independent Director",
-      "startDate": "2022-09-01",
-      "endDate": null,
-      "formattedStartDate": "2022 September",
-      "formattedEndDate": ""
+      "website": "https://www.cadence.com",
+      "logoUrl": "/companies-assets/CDNS.NASDAQ.svg",
+      "title": "Director, CEO, Executive Chairman",
+      "startDate": "2004",
+      "endDate": "2023",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Schneider Electric SE",
+      "ticker": "SU",
+      "exchange": "Euronext Paris",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": "2023",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "SoftBank Group Corp.",
+      "ticker": "9984",
+      "exchange": "Tokyo Stock Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": "2023",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Hewlett Packard Enterprise Company",
+      "ticker": "HPE",
+      "exchange": "NYSE",
+      "website": "https://www.arubanetworks.com",
+      "logoUrl": "https://www.arubanetworks.com/assets/images/logos/Aruba_a_Hewlett_Packard_Enterprise_company-Logo.png",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": "2022",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2022"
     }
   ],
   "investmentTheses": [
     "AI",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/lip-bu-tan-2a5b1a1",
+      "person_name": "Lip-Bu Tan",
+      "company_name": "Walden International",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "M&A Committee"
   ],

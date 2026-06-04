@@ -9,17 +9,29 @@
       "ticker": "MRVL",
       "exchange": "NASDAQ",
       "website": "https://www.marvell.com",
-      "title": "Chief Financial Officer",
-      "startDate": "2023-01-01",
-      "endDate": null,
-      "formattedStartDate": "2023 January",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/MRVL.NASDAQ.svg",
+      "title": "Chief Accounting Officer and Treasurer",
+      "startDate": "2018",
+      "endDate": "2023-01-20",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "January 2023"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/willem-meintjes-87a77751",
+      "person_name": "Willem Meintjes",
+      "company_name": "Marvell Technology, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 48,
   "ageYear": 2024

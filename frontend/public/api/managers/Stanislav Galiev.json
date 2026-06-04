@@ -3,19 +3,7 @@
   "name": "Stanislav Galiev",
   "background": "Former CEO of various logistics firms.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "CSX Corporation",
-      "ticker": "CSX",
-      "exchange": "NASDAQ",
-      "website": "https://www.csx.com",
-      "title": "Independent Director",
-      "startDate": "2023-01-01",
-      "endDate": null,
-      "formattedStartDate": "2023 January",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "Reshoring"
   ],

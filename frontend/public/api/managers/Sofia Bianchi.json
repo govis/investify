@@ -5,21 +5,69 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Yellow Cake plc",
-      "ticker": "YCA",
-      "exchange": "LSE",
-      "website": "https://www.yellowcakeplc.com",
-      "title": "Independent Non-Executive Director",
-      "startDate": "2018-06-01",
+      "name": "Ivanhoe Electric Inc.",
+      "ticker": "IE",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2023-07",
       "endDate": null,
-      "formattedStartDate": "2018 June",
+      "formattedStartDate": "July 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Kenmare Resources plc",
+      "ticker": "KMR",
+      "exchange": "LSE",
+      "website": "https://www.kenmareresources.com/",
+      "logoUrl": "/companies-assets/KMR.LSE.svg",
+      "title": "Senior Independent Director",
+      "startDate": "2008",
+      "endDate": "2017",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "LSE",
+      "website": "https://www.endeavourmining.com",
+      "logoUrl": "/companies-assets/EDV.LSE.svg",
+      "title": "Non-Executive Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Canagold Resources Ltd.",
+      "ticker": "CCM",
+      "exchange": "TSX",
+      "website": "https://canagoldresources.com/",
+      "logoUrl": "/companies-assets/CCM.TSX.png",
+      "title": "Chairman",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ch.linkedin.com/in/sofia-bianchi-7b29946",
+      "person_name": "Sofia Bianchi",
+      "company_name": "Yellow Cake plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee (Chair)",
     "Nomination Committee",

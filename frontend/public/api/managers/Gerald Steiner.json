@@ -5,15 +5,16 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Albemarle Corporation",
-      "ticker": "ALB",
+      "name": "Monsanto Company",
+      "ticker": "MON",
       "exchange": "NYSE",
-      "website": "https://www.albemarle.com",
-      "title": "Independent Director",
-      "startDate": "2015-01-01",
-      "endDate": null,
-      "formattedStartDate": "2015 January",
-      "formattedEndDate": ""
+      "website": "http://www.monsanto.com",
+      "logoUrl": "/companies-assets/MON.NYSE.svg",
+      "title": "Executive Vice President, Sustainability and Corporate Affairs",
+      "startDate": null,
+      "endDate": "2013-11",
+      "formattedStartDate": "",
+      "formattedEndDate": "November 2013"
     }
   ],
   "investmentTheses": [

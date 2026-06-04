@@ -9,10 +9,23 @@
       "ticker": "YCA",
       "exchange": "LSE",
       "website": "https://www.yellowcakeplc.com",
-      "title": "Non-Executive Chairman",
-      "startDate": "2018-06-01",
+      "logoUrl": "/companies-assets/YCA.LSE.svg",
+      "title": "Independent Non-Executive Director and Chairman",
+      "startDate": "2018",
       "endDate": null,
-      "formattedStartDate": "2018 June",
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Integrated Diagnostics Holdings plc",
+      "ticker": "IDHC",
+      "exchange": "LSE",
+      "website": "https://www.idhcorp.com/",
+      "logoUrl": "/companies-assets/IDHC.LSE.png",
+      "title": "Chairman",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
       "formattedEndDate": ""
     }
   ],

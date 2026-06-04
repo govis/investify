@@ -9,17 +9,53 @@
       "ticker": "LNG",
       "exchange": "NYSE",
       "website": "https://www.cheniere.com",
+      "logoUrl": "/companies-assets/LNG.NYSE.svg",
       "title": "Director",
-      "startDate": "2012-08-15",
+      "startDate": "2012",
+      "endDate": "2020",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Kinetik Holdings, Inc.",
+      "ticker": "KNTK",
+      "exchange": "NASDAQ",
+      "website": "https://www.kinetik.com",
+      "logoUrl": "/companies-assets/KNTK.NASDAQ.svg",
+      "title": "Independent Chairman",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2012 August",
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Altus Midstream Company",
+      "ticker": "ALTM",
+      "exchange": "NASDAQ",
+      "website": "https://www.kinetik.com",
+      "logoUrl": "/companies-assets/ALTM.NASDAQ.svg",
+      "title": "Chairman",
+      "startDate": "2021",
+      "endDate": "2022",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2022"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/david-foley-blackstone",
+      "person_name": "David Foley",
+      "company_name": "Blackstone",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 56,
   "ageYear": 2024

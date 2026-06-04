@@ -6,23 +6,109 @@
   "age_year": 2024,
   "background": "Dr. Risa Lavizzo-Mourey has been a director since 2018. She is President Emerita of the Robert Wood Johnson Foundation and a professor at the University of Pennsylvania.",
   "picture_url": null,
-  "investment_theses": [
-    "AI",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Corporate Governance and Nominating Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Intel Corporation",
       "ticker": "INTC",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2018-03-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://www.intel.com",
+      "start_date": "March 2018",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Merck & Co., Inc.",
+      "ticker": "MRK",
+      "exchange": "NYSE",
+      "website": "https://www.merck.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "GE HealthCare Technologies, Inc.",
+      "ticker": "GEHC",
+      "exchange": "NASDAQ",
+      "website": "https://www.gehealthcare.com",
+      "title_or_role": "Lead Director",
+      "start_date": "January 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "General Electric Company",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "website": "https://www.ge.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Better Therapeutics, Inc.",
+      "ticker": "BTTX",
+      "exchange": "NASDAQ",
+      "website": "https://www.bettertx.com",
+      "title_or_role": "Director",
+      "start_date": "April 2021",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Genworth Financial, Inc.",
+      "ticker": "GNW",
+      "exchange": "NYSE",
+      "website": "https://www.genworth.com",
+      "title_or_role": "Director",
+      "start_date": "2004",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Beckman Coulter, Inc.",
+      "ticker": "BEC",
+      "exchange": "NYSE",
+      "website": "https://www.beckman.com",
+      "title_or_role": "Director",
+      "start_date": "2005",
+      "end_date": "2011",
+      "validated": true
+    },
+    {
+      "name": "Hess Corporation",
+      "ticker": "HES",
+      "exchange": "NYSE",
+      "website": "https://www.hess.com",
+      "title_or_role": "Director",
+      "start_date": "2005",
+      "end_date": "2017",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/risalavizzo",
+      "person_name": "Risa Lavizzo-Mourey",
+      "company_name": "University of Pennsylvania",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

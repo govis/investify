@@ -6,19 +6,54 @@
   "age_year": 2023,
   "background": "Former CEO of Global X Management Company LLC. Previously served as COO and President.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Global X Uranium ETF",
       "ticker": "URA",
       "exchange": "NYSE",
       "title_or_role": "Unknown Role",
+      "website": "https://www.globalxetfs.com/funds/ura/",
       "start_date": null,
       "end_date": null
+    },
+    {
+      "name": "SOL Strategies Inc.",
+      "ticker": "STKE",
+      "exchange": "CSE",
+      "website": "https://solstrategies.io/",
+      "title_or_role": "Director",
+      "start_date": "2024-05-22",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Global X ETFs (Global X Management Company LLC)",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "https://www.globalxetfs.com/",
+      "title_or_role": "Chief Operating Officer and Chief Financial Officer",
+      "start_date": "2014-01",
+      "end_date": "2018-09",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/luisberruga",
+      "person_name": "Luis Berruga",
+      "company_name": "Global X ETFs",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -2,24 +2,64 @@
   "id": "Nils Engelstad",
   "name": "Nils Engelstad",
   "background": "Mr. Engelstad is the Vice President, General Counsel. Prior to joining Alamos, he was General Counsel at McEwen Mining Inc.",
-  "pictureUrl": null,
+  "pictureUrl": "/managers-assets/Nils Engelstad.jpg",
   "companies": [
     {
       "name": "Alamos Gold Inc.",
       "ticker": "AGI",
-      "exchange": "NYSE",
-      "website": "https://www.alamosgold.com",
+      "exchange": "TSX/NYSE",
+      "website": null,
+      "logoUrl": null,
       "title": "Vice President, General Counsel",
-      "startDate": "2015-04-01",
+      "startDate": "May 2015",
       "endDate": null,
-      "formattedStartDate": "2015 April",
+      "formattedStartDate": "May 2015",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Red Pine Exploration Inc.",
+      "ticker": "RPX",
+      "exchange": "TSXV",
+      "website": "https://redpineexp.com",
+      "logoUrl": "/companies-assets/RPX.TSXV.png",
+      "title": "Non-Executive Director",
+      "startDate": "~2017",
+      "endDate": "April 4, 2023",
+      "formattedStartDate": "~2017",
+      "formattedEndDate": "April 4, 2023"
+    },
+    {
+      "name": "Inventus Mining Corp.",
+      "ticker": "IVS",
+      "exchange": "TSXV",
+      "website": "inventusmining.com",
+      "logoUrl": "/companies-assets/IVS.TSXV.svg",
+      "title": "Non-Executive Director",
+      "startDate": "March 2017",
+      "endDate": "~2022",
+      "formattedStartDate": "March 2017",
+      "formattedEndDate": "~2022"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/nilsengelstad",
+      "person_name": "Nils Engelstad",
+      "company_name": "Alamos Gold Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    },
+    {
+      "name": "Twitter",
+      "url": "https://x.com/nils_engelstad"
+    }
+  ],
   "committees": [],
   "age": 45,
   "ageYear": 2024

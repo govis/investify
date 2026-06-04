@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Sociedad Química y Minera de Chile S.A.",
+      "name": "Sociedad Química y Minera de Chile S.A. (SQM)",
       "ticker": "SQM",
       "exchange": "NYSE",
       "website": "https://www.sqm.com",
+      "logoUrl": "/companies-assets/SQM.NYSE.svg",
       "title": "Director",
-      "startDate": "2023-04-26",
+      "startDate": "2019",
       "endDate": null,
-      "formattedStartDate": "2023 April",
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Enel Chile S.A.",
+      "ticker": "ENELCHILE",
+      "exchange": "NYSE",
+      "website": "https://www.enel.cl/",
+      "logoUrl": "/companies-assets/ENELCHILE.NYSE.png",
+      "title": "Director (Board Member)",
+      "startDate": "April 2025",
+      "endDate": null,
+      "formattedStartDate": "April 2025",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://cl.linkedin.com/in/ginaocqueteau",
+      "person_name": "Gina Ocqueteau Tacchini",
+      "company_name": "Sociedad Química y Minera de Chile S.A.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 50,
   "ageYear": 2024

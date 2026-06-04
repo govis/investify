@@ -9,17 +9,29 @@
       "ticker": "S",
       "exchange": "NYSE",
       "website": "https://www.sentinelone.com",
-      "title": "Director, President and Chief Executive Officer",
-      "startDate": "2013-01-01",
+      "logoUrl": "/companies-assets/S.NYSE.svg",
+      "title": "Co-Founder, Chief Executive Officer, and Director",
+      "startDate": "2013",
       "endDate": null,
-      "formattedStartDate": "2013 January",
+      "formattedStartDate": "2013",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/tomer-weingarten",
+      "person_name": "Tomer Weingarten",
+      "company_name": "SentinelOne",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 41,
   "ageYear": 2024

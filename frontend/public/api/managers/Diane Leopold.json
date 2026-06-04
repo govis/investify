@@ -9,17 +9,65 @@
       "ticker": "D",
       "exchange": "NYSE",
       "website": "https://www.dominionenergy.com",
+      "logoUrl": "/companies-assets/D.NYSE.svg",
       "title": "Executive Vice President and Chief Operating Officer",
-      "startDate": "2020-10-01",
+      "startDate": null,
+      "endDate": "2025",
+      "formattedStartDate": "",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "Markel Group Inc.",
+      "ticker": "MKL",
+      "exchange": "NYSE",
+      "website": "https://www.mklgroup.com",
+      "logoUrl": "/companies-assets/MKL.NYSE.svg",
+      "title": "Director",
+      "startDate": "2024",
       "endDate": null,
-      "formattedStartDate": "2020 October",
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "nVent Electric plc",
+      "ticker": "NVT",
+      "exchange": "NYSE",
+      "website": "https://www.nvent.com",
+      "logoUrl": "/companies-assets/NVT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "CMS Energy Corporation",
+      "ticker": "CMS",
+      "exchange": "NYSE",
+      "website": "https://www.cmsenergy.com",
+      "logoUrl": "/companies-assets/CMS.NYSE.svg",
+      "title": "Director",
+      "startDate": "2026",
+      "endDate": null,
+      "formattedStartDate": "2026",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/diane-leopold-35ba46170",
+      "person_name": "Diane Leopold",
+      "company_name": "Dominion Energy",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 57,
   "ageYear": 2024

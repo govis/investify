@@ -5,25 +5,15 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Global X Lithium & Battery Tech ETF",
-      "ticker": "LIT",
+      "name": "UnitedHealth Group Incorporated",
+      "ticker": "UNH",
       "exchange": "NYSE",
-      "website": "https://www.globalxetfs.com/funds/lit/",
-      "title": "Independent Trustee",
-      "startDate": "2008-01-01",
+      "website": "https://www.unitedhealthgroup.com",
+      "logoUrl": "/companies-assets/UNH.NYSE.svg",
+      "title": "Director (Member of the Board of Directors)",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2008 January",
-      "formattedEndDate": ""
-    },
-    {
-      "name": "Global X Uranium ETF",
-      "ticker": "URA",
-      "exchange": "NYSE",
-      "website": "https://www.globalxetfs.com/funds/ura/",
-      "title": "Independent Trustee",
-      "startDate": "2008-01-01",
-      "endDate": null,
-      "formattedStartDate": "2008 January",
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
     }
   ],

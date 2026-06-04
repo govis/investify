@@ -9,18 +9,42 @@
       "ticker": "F",
       "exchange": "NYSE",
       "website": "https://www.ford.com",
-      "title": "Independent Director",
-      "startDate": "2003-01-01",
+      "logoUrl": "/companies-assets/F.NYSE.svg",
+      "title": "Director",
+      "startDate": "2003",
       "endDate": null,
-      "formattedStartDate": "2003 January",
+      "formattedStartDate": "2003",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Mead Johnson Nutrition Company",
+      "ticker": "MJN",
+      "exchange": "NYSE",
+      "website": "https://www.meadjohnson.com/",
+      "logoUrl": "/companies-assets/MJN.NYSE.png",
+      "title": "Director",
+      "startDate": "March 2010",
+      "endDate": "June 2017",
+      "formattedStartDate": "March 2010",
+      "formattedEndDate": "June 2017"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kimberly-casiano-9a22a1a1",
+      "person_name": "Kimberly Casiano",
+      "company_name": "Ford Motor Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Sustainability, Innovation and Policy Committee"

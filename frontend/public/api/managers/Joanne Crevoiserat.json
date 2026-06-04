@@ -9,18 +9,54 @@
       "ticker": "GM",
       "exchange": "NYSE",
       "website": "https://www.gm.com",
-      "title": "Independent Director",
-      "startDate": "2022-10-01",
+      "logoUrl": "/companies-assets/GM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2022-08",
       "endDate": null,
-      "formattedStartDate": "2022 October",
+      "formattedStartDate": "August 2022",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Tapestry, Inc.",
+      "ticker": "TPR",
+      "exchange": "NYSE",
+      "website": "https://www.tapestry.com",
+      "logoUrl": "/companies-assets/TPR.NYSE.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2019-08",
+      "endDate": "2020-07",
+      "formattedStartDate": "August 2019",
+      "formattedEndDate": "July 2020"
+    },
+    {
+      "name": "Abercrombie & Fitch Co.",
+      "ticker": "ANF",
+      "exchange": "NYSE",
+      "website": "https://www.abercrombie.com",
+      "logoUrl": "/companies-assets/ANF.NYSE.svg",
+      "title": "Executive Vice President & Chief Operating Officer",
+      "startDate": "2017-02",
+      "endDate": "2019-06",
+      "formattedStartDate": "February 2017",
+      "formattedEndDate": "June 2019"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/joanne-crevoiserat-a5a5a5a5",
+      "person_name": "Joanne Crevoiserat",
+      "company_name": "Tapestry, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

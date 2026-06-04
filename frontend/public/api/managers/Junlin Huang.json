@@ -6,13 +6,14 @@
   "companies": [
     {
       "name": "Denison Mines Corp.",
-      "ticker": "DNN",
-      "exchange": "TSX",
-      "website": "https://denisonmines.com",
+      "ticker": "DML (TSX), DNN (NYSE American)",
+      "exchange": "TSX, NYSE American",
+      "website": null,
+      "logoUrl": null,
       "title": "Director",
-      "startDate": "2017-01-01",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2017 January",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],

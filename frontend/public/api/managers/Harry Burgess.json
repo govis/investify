@@ -5,14 +5,39 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Stria Lithium Inc.",
-      "ticker": "SRA",
+      "name": "NorthWest Copper Corp.",
+      "ticker": "NWST",
       "exchange": "TSXV",
-      "website": "https://strialithium.com/",
-      "title": "Director",
-      "startDate": "2022-06-01",
+      "website": "https://northwestcopper.ca",
+      "logoUrl": "/companies-assets/NWST.TSXV.svg",
+      "title": "Technical Advisor",
+      "startDate": "2024-04-30",
       "endDate": null,
-      "formattedStartDate": "2022 June",
+      "formattedStartDate": "April 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cartier Silver Corp.",
+      "ticker": "CFE",
+      "exchange": "CSE",
+      "website": "https://cartiersilvercorp.com",
+      "logoUrl": "/companies-assets/CFE.CSE.svg",
+      "title": "Independent Director",
+      "startDate": "2015-06-30",
+      "endDate": null,
+      "formattedStartDate": "June 2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "GPM Metals Inc.",
+      "ticker": "GPM",
+      "exchange": "TSXV",
+      "website": "https://gpmmetals.ca",
+      "logoUrl": "https://gpmmetals.ca/wp-content/uploads/2021/06/gpm-logo.png",
+      "title": "Independent Director",
+      "startDate": "2012",
+      "endDate": null,
+      "formattedStartDate": "2012",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +45,18 @@
     "Electrification",
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/harry-burgess-0b65389",
+      "person_name": "Harry Burgess",
+      "company_name": "Micon International Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

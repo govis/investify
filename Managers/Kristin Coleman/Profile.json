@@ -6,20 +6,65 @@
   "age_year": 2024,
   "background": "Ms. Coleman has served as Executive Vice President, General Counsel and Corporate Secretary since November 2022. Prior to joining Albemarle, she served as Executive Vice President, General Counsel and Corporate Secretary of US Foods Holding Corp.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Albemarle Corporation",
       "ticker": "ALB",
       "exchange": "NYSE",
       "title_or_role": "Executive Vice President, General Counsel and Corporate Secretary",
+      "website": "https://www.albemarle.com",
       "start_date": "2022-11-28",
       "end_date": null
+    },
+    {
+      "name": "US Foods Holding Corp.",
+      "ticker": "USFD",
+      "exchange": "NYSE",
+      "website": "https://www.usfoods.com",
+      "title_or_role": "Executive Vice President, General Counsel and Chief Compliance Officer",
+      "start_date": "2017-02-01",
+      "end_date": "2022-11-28",
+      "validated": true
+    },
+    {
+      "name": "Sears Holdings Corporation",
+      "ticker": "SHLDQ",
+      "exchange": "NASDAQ",
+      "website": "https://www.searsholdings.com",
+      "title_or_role": "Senior Vice President, General Counsel and Corporate Secretary",
+      "start_date": "2014-07-07",
+      "end_date": "2017-07-07",
+      "validated": true
+    },
+    {
+      "name": "Brunswick Corporation",
+      "ticker": "BC",
+      "exchange": "NYSE",
+      "website": "https://www.brunswick.com",
+      "title_or_role": "Vice President, General Counsel and Corporate Secretary",
+      "start_date": "2009-05-20",
+      "end_date": "2014-07-07",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kristinnicolecoleman",
+      "person_name": "Kristin Coleman",
+      "company_name": "Albemarle Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -6,22 +6,98 @@
   "age_year": 2024,
   "background": "Former Executive Vice President and Chief Financial Officer of Gap Inc.",
   "picture_url": null,
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Microsoft Corporation",
       "ticker": "MSFT",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2014-10-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://www.microsoft.com",
+      "start_date": "2014-10",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Danaher Corporation",
+      "ticker": "DHR",
+      "exchange": "NYSE",
+      "website": "https://www.danaher.com",
+      "title_or_role": "Director",
+      "start_date": "2011-09",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "DoubleVerify Holdings, Inc.",
+      "ticker": "DV",
+      "exchange": "NYSE",
+      "website": "https://www.doubleverify.com",
+      "title_or_role": "Director",
+      "start_date": "2020-05",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Visa Inc.",
+      "ticker": "V",
+      "exchange": "NYSE",
+      "website": "https://www.visa.com",
+      "title_or_role": "Director",
+      "start_date": "2023-02",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Gap Inc.",
+      "ticker": "GPS",
+      "exchange": "NYSE",
+      "website": "https://www.gapinc.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "2017-01-17",
+      "end_date": "2020-03",
+      "validated": true
+    },
+    {
+      "name": "DICK\u2019S Sporting Goods, Inc.",
+      "ticker": "DKS",
+      "exchange": "NYSE",
+      "website": "https://www.dicks.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "2015-08",
+      "end_date": "2016-09",
+      "validated": true
+    },
+    {
+      "name": "Kraft Foods Group, Inc.",
+      "ticker": "KRFT",
+      "exchange": "NASDAQ",
+      "website": "https://www.kraftheinz.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "2014-02",
+      "end_date": "2015-02",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/teri-list-16986510",
+      "person_name": "Teri List",
+      "company_name": "Microsoft Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -6,19 +6,34 @@
   "age_year": 2024,
   "background": "Martin Preece served as Interim CEO from January 2023 to December 2023 and is currently the Chief Operating Officer.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Gold Fields Limited",
+      "ticker": "GFI",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Vice President: South Africa / Interim CEO",
+      "website": "https://www.goldfields.com/",
+      "start_date": "May 2017",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Sylvania Platinum Limited",
+      "ticker": "SLP",
+      "exchange": "London Stock Exchange",
+      "website": "https://www.sylvaniaplatinum.com/",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "February 2025",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Gold Fields Limited",
-      "ticker": "GFI",
-      "exchange": "NYSE",
-      "title_or_role": "Chief Operating Officer",
-      "start_date": "2024-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

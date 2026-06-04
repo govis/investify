@@ -5,15 +5,16 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Lockheed Martin Corporation",
-      "ticker": "LMT",
+      "name": "Chevron Corporation",
+      "ticker": "CVX",
       "exchange": "NYSE",
-      "website": "https://www.lockheedmartin.com",
-      "title": "Independent Director",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "formattedStartDate": "2021 January",
-      "formattedEndDate": ""
+      "website": "https://www.chevron.com",
+      "logoUrl": "/companies-assets/CVX.NYSE.svg",
+      "title": "Vice President and Treasurer",
+      "startDate": "2007-01-01",
+      "endDate": "2008-12-31",
+      "formattedStartDate": "January 2007",
+      "formattedEndDate": "December 2008"
     }
   ],
   "investmentTheses": [

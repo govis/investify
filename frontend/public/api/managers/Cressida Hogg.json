@@ -5,15 +5,28 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "BAE Systems plc",
-      "ticker": "BA",
+      "name": "Land Securities Group PLC",
+      "ticker": "LAND",
       "exchange": "LSE",
-      "website": "https://www.baesystems.com",
+      "website": "https://landsec.com",
+      "logoUrl": "/companies-assets/LAND.LSE.svg",
       "title": "Chair",
-      "startDate": "2023-04-03",
-      "endDate": null,
-      "formattedStartDate": "2023 April",
-      "formattedEndDate": ""
+      "startDate": "2018",
+      "endDate": "2023",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "London Stock Exchange Group plc",
+      "ticker": "LSEG",
+      "exchange": "LSE",
+      "website": "https://www.lseg.com",
+      "logoUrl": "/companies-assets/LSEG.LSE.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2019",
+      "endDate": "2023",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2023"
     }
   ],
   "investmentTheses": [

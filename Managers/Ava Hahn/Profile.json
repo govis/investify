@@ -6,20 +6,75 @@
   "age_year": 2024,
   "background": "Ms. Hahn has been our Senior Vice President, Chief Legal Officer and Secretary since January 2020. Prior to joining Lam, she served as Executive Vice President, Chief Legal Officer and Secretary of CA Technologies from 2018 to 2019.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lam Research Corporation",
+      "ticker": "LRCX",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chief Legal Officer",
+      "website": "https://www.lamresearch.com",
+      "start_date": "2019",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Advanced Micro Devices, Inc.",
+      "ticker": "AMD",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "title_or_role": "Senior Vice President, General Counsel and Corporate Secretary",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CA Technologies",
+      "ticker": "AVGO",
+      "exchange": "NASDAQ",
+      "website": "https://www.broadcom.com",
+      "title_or_role": "Executive Vice President, General Counsel and Corporate Secretary",
+      "start_date": "2018",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "ShoreTel, Inc.",
+      "ticker": "MITL",
+      "exchange": "NASDAQ",
+      "website": "https://www.mitel.com",
+      "title_or_role": "General Counsel and Secretary",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Aruba Networks, Inc.",
+      "ticker": "HPE",
+      "exchange": "NYSE",
+      "website": "https://www.arubanetworks.com",
+      "title_or_role": "General Counsel and Secretary",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Genesis Microchip Inc.",
+      "ticker": "STM",
+      "exchange": "NYSE",
+      "website": "https://www.st.com",
+      "title_or_role": "General Counsel and Secretary",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI",
     "Reshoring"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Lam Research Corporation",
-      "ticker": "LRCX",
-      "exchange": "NASDAQ",
-      "title_or_role": "Senior Vice President, Chief Legal Officer and Secretary",
-      "start_date": "2020-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

@@ -9,17 +9,29 @@
       "ticker": "DEG",
       "exchange": "ASX",
       "website": "https://degreymining.com.au",
+      "logoUrl": "/companies-assets/DEG.ASX.svg",
       "title": "Project Director",
-      "startDate": "2021-01-01",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2021 January",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/pmaholmes",
+      "person_name": "Peter Holmes",
+      "company_name": "De Grey Mining Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": null,
   "ageYear": null

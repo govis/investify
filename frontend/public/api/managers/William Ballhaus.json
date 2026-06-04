@@ -9,17 +9,41 @@
       "ticker": "MRCY",
       "exchange": "NASDAQ",
       "website": "https://www.mrcy.com",
-      "title": "Director, President and Chief Executive Officer",
-      "startDate": "2023-08-01",
+      "logoUrl": "/companies-assets/MRCY.NASDAQ.svg",
+      "title": "Director; Interim President and CEO",
+      "startDate": "June 2022",
       "endDate": null,
-      "formattedStartDate": "2023 August",
+      "formattedStartDate": "June 2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "OSI Systems, Inc.",
+      "ticker": "OSIS",
+      "exchange": "NASDAQ",
+      "website": "https://www.osi-systems.com",
+      "logoUrl": "/companies-assets/OSIS.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "May 2010",
+      "endDate": null,
+      "formattedStartDate": "May 2010",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bill-ballhaus-a9451395",
+      "person_name": "William Ballhaus",
+      "company_name": "Mercury Systems, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 56,
   "ageYear": 2023

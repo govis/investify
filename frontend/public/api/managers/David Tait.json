@@ -7,19 +7,55 @@
     {
       "name": "SPDR Gold Trust",
       "ticker": "GLD",
-      "exchange": "NYSE",
-      "website": "https://www.spdrgoldshares.com",
-      "title": "Director",
-      "startDate": "2018-11-01",
+      "exchange": "NYSE Arca",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director (Board of Directors of the Sponsor, World Gold Trust Services, LLC)",
+      "startDate": "2019-02-25",
       "endDate": null,
-      "formattedStartDate": "2018 November",
+      "formattedStartDate": "February 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Credit Suisse Group AG",
+      "ticker": "CS",
+      "exchange": "NYSE / SIX Swiss Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Global Head of Fixed Income Macro Products / Head of Global Foreign Exchange and Short-Term Interest Rate Trading",
+      "startDate": "2013-09-01",
+      "endDate": "2018-01-01",
+      "formattedStartDate": "September 2013",
+      "formattedEndDate": "January 2018"
+    },
+    {
+      "name": "UBS Group AG",
+      "ticker": "UBS",
+      "exchange": "NYSE / SIX Swiss Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Trading Role",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/david-tait-7b548a2",
+      "person_name": "David Tait",
+      "company_name": "World Gold Council",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 61,
   "ageYear": 2024

@@ -9,17 +9,53 @@
       "ticker": "CRM",
       "exchange": "NYSE",
       "website": "https://www.salesforce.com",
-      "title": "Independent Director",
-      "startDate": "2023-03-01",
+      "logoUrl": "/companies-assets/CRM.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "March 2023",
       "endDate": null,
-      "formattedStartDate": "2023 March",
+      "formattedStartDate": "March 2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "https://www.microsoft.com",
+      "logoUrl": "/companies-assets/MSFT.NASDAQ.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "March 2014",
+      "endDate": "2017",
+      "formattedStartDate": "March 2014",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Valeant Pharmaceuticals International, Inc. (now Bausch Health Companies Inc.)",
+      "ticker": "BHC",
+      "exchange": "NYSE",
+      "website": "https://www.bauschhealth.com",
+      "logoUrl": "/companies-assets/BHC.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2011",
+      "endDate": "2015",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2015"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mason-morfit-b5ab3a9a",
+      "person_name": "Mason Morfit",
+      "company_name": "ValueAct Capital",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 48,
   "ageYear": 2024

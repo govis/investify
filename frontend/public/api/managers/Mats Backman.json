@@ -5,21 +5,69 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "AB Volvo",
-      "ticker": "VOLV-B",
-      "exchange": "STO",
-      "website": "https://www.volvogroup.com",
-      "title": "Chief Financial Officer",
-      "startDate": "2023-06-16",
+      "name": "Gränges AB",
+      "ticker": "GRNG",
+      "exchange": "STO (Nasdaq Stockholm)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Member",
+      "startDate": "2018",
       "endDate": null,
-      "formattedStartDate": "2023 June",
+      "formattedStartDate": "2018",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Sandvik AB",
+      "ticker": "SAND",
+      "exchange": "STO (Nasdaq Stockholm)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2011",
+      "endDate": "2016",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Autoliv, Inc.",
+      "ticker": "ALV",
+      "exchange": "NYSE",
+      "website": "https://www.autoliv.com",
+      "logoUrl": "/companies-assets/ALV.NYSE.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2016",
+      "endDate": "2019",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Veoneer, Inc.",
+      "ticker": "VNE",
+      "exchange": "NYSE",
+      "website": "https://www.veoneer.com",
+      "logoUrl": "/companies-assets/VNE.NYSE.png",
+      "title": "Chief Financial Officer",
+      "startDate": "2019",
+      "endDate": "2021",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2021"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://se.linkedin.com/in/mats-backman-430830b3",
+      "person_name": "Mats Backman",
+      "company_name": "AB Volvo",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 56,
   "ageYear": 2024

@@ -9,18 +9,42 @@
       "ticker": "MSFT",
       "exchange": "NASDAQ",
       "website": "https://www.microsoft.com",
-      "title": "Independent Director",
-      "startDate": "2019-12-01",
+      "logoUrl": "/companies-assets/MSFT.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2019-12-11",
       "endDate": null,
-      "formattedStartDate": "2019 December",
+      "formattedStartDate": "December 2019",
       "formattedEndDate": ""
+    },
+    {
+      "name": "GSK plc",
+      "ticker": "GSK",
+      "exchange": "LSE",
+      "website": "https://www.gsk.com",
+      "logoUrl": "/companies-assets/GSK.LSE.svg",
+      "title": "Director",
+      "startDate": "2017-01-01",
+      "endDate": "2025-12-31",
+      "formattedStartDate": "January 2017",
+      "formattedEndDate": "December 2025"
     }
   ],
   "investmentTheses": [
     "AI",
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/emmawalmsleygsk",
+      "person_name": "Emma Walmsley",
+      "company_name": "GSK",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee"
   ],

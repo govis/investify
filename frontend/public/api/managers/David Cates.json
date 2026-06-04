@@ -6,32 +6,69 @@
   "companies": [
     {
       "name": "Denison Mines Corp.",
-      "ticker": "DNN",
-      "exchange": "NYSE",
-      "website": "https://denisonmines.com",
-      "title": "Director, President and Chief Executive Officer",
-      "startDate": "2015-01-01",
+      "ticker": "DML (TSX), DNN (NYSE)",
+      "exchange": "TSX, NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and Chief Executive Officer (2015–Present); Director (2018–Present); previously Vice President, Finance & Tax and Chief Financial Officer (2008–2015)",
+      "startDate": "2008",
       "endDate": null,
-      "formattedStartDate": "2015 January",
+      "formattedStartDate": "2008",
       "formattedEndDate": ""
     },
     {
-      "name": "Denison Mines Corp.",
-      "ticker": "DNN",
-      "exchange": "TSX",
-      "website": "https://denisonmines.com",
-      "title": "Director, President and Chief Executive Officer",
-      "startDate": "2015-01-01",
+      "name": "Skyharbour Resources Ltd.",
+      "ticker": "SYH (TSXV)",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director (2016–Present)",
+      "startDate": "2016",
       "endDate": null,
-      "formattedStartDate": "2015 January",
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Foremost Clean Energy Ltd.",
+      "ticker": "FMST (NASDAQ), FAT (CSE)",
+      "exchange": "NASDAQ, CSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director (2024–Present)",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Uranium Participation Corp.",
+      "ticker": "U (TSX)",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and Chief Executive Officer (2016–2021)",
+      "startDate": "2016",
+      "endDate": "2021",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2021"
     }
   ],
   "investmentTheses": [
     "Nuclear",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/david-cates-cpa-ca-5b018044",
+      "person_name": "David Cates",
+      "company_name": "Denison Mines Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 42,
   "ageYear": 2024

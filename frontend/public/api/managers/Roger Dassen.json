@@ -9,10 +9,11 @@
       "ticker": "ASML",
       "exchange": "NASDAQ",
       "website": "https://www.asml.com",
-      "title": "Executive Vice President and Chief Financial Officer",
-      "startDate": "2018-06-01",
+      "logoUrl": "/companies-assets/ASML.NASDAQ.svg",
+      "title": "Executive Vice President & Chief Financial Officer (Member of the Board of Management)",
+      "startDate": "2018",
       "endDate": null,
-      "formattedStartDate": "2018 June",
+      "formattedStartDate": "2018",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +21,18 @@
     "AI",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://nl.linkedin.com/in/rogerdassen",
+      "person_name": "Roger Dassen",
+      "company_name": "ASML",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 58,
   "ageYear": 2024

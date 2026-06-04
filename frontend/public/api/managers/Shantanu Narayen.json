@@ -5,14 +5,15 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Adobe Inc.",
-      "ticker": "ADBE",
-      "exchange": "NASDAQ",
-      "website": "https://www.adobe.com",
-      "title": "Chair of the Board, Chief Executive Officer, Director, President",
-      "startDate": "2017-01-01",
+      "name": "Pfizer Inc.",
+      "ticker": "PFE",
+      "exchange": "NYSE",
+      "website": "https://www.pfizer.com",
+      "logoUrl": "/companies-assets/PFE.NYSE.svg",
+      "title": "Director (Lead Independent Director)",
+      "startDate": "2013-09-27",
       "endDate": null,
-      "formattedStartDate": "2017 January",
+      "formattedStartDate": "September 2013",
       "formattedEndDate": ""
     }
   ],

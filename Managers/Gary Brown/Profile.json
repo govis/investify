@@ -6,19 +6,65 @@
   "age_year": 2024,
   "background": "Mr. Brown has over 30 years of experience in the mining sector and joined Wheaton in 2008. He previously held senior finance roles at Canico Resource Corp. and Zebra Environmental Corp.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Wheaton Precious Metals Corp.",
       "ticker": "WPM",
-      "exchange": "NYSE",
-      "title_or_role": "Senior Vice President and Chief Financial Officer",
-      "start_date": "2008-06-01",
-      "end_date": null
+      "exchange": "TSX / NYSE",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://www.wheatonpm.com",
+      "start_date": "2008",
+      "end_date": "2025-03-31",
+      "validated": true
+    },
+    {
+      "name": "Atlas Energy Corp.",
+      "ticker": "ATLE",
+      "exchange": "TSXV",
+      "website": "https://atlasenergycorp.ca",
+      "title_or_role": "Director",
+      "start_date": "2025-05-31",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Global Battery Metals Ltd.",
+      "ticker": "GBML",
+      "exchange": "TSXV",
+      "website": "https://gbml.ca",
+      "title_or_role": "Director",
+      "start_date": "2011-08-29",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Willow Biosciences Inc.",
+      "ticker": "WLLW",
+      "exchange": "TSX",
+      "website": "https://willowbio.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": "2025",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gary-brown-7a5a5a1b",
+      "person_name": "Gary Brown",
+      "company_name": "Wheaton Precious Metals Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

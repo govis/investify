@@ -6,19 +6,45 @@
   "age_year": 2024,
   "background": "Mike Baughman is Executive Vice President and Chief Financial Officer of Emerson. He joined Emerson in 2017 as Vice President and Controller and was promoted to CFO in 2023.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Emerson Electric Co.",
       "ticker": "EMR",
       "exchange": "NYSE",
-      "title_or_role": "Executive Vice President and Chief Financial Officer",
-      "start_date": "2023-05-10",
-      "end_date": null
+      "title_or_role": "Executive VP, Chief Financial & Accounting Officer",
+      "website": "www.emerson.com",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Baxter International, Inc.",
+      "ticker": "BAX",
+      "exchange": "NYSE",
+      "website": "www.baxter.com",
+      "title_or_role": "Vice President & Controller",
+      "start_date": "2003",
+      "end_date": "2013",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michael-baughman-1a676113",
+      "person_name": "Michael Baughman",
+      "company_name": "Emerson Electric Co.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

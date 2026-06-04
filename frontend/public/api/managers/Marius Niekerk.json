@@ -9,11 +9,36 @@
       "ticker": "OGC",
       "exchange": "TSX",
       "website": "https://oceanagold.com",
-      "title": "Executive Vice President and Chief Financial Officer",
-      "startDate": "2023-02-01",
+      "logoUrl": "/companies-assets/OGC.TSX.svg",
+      "title": "Chief Financial Officer & Executive Vice President",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2023 February",
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "OceanaGold Philippines, Inc.",
+      "ticker": "OGP",
+      "exchange": "PSE",
+      "website": "https://oceanagold.com",
+      "logoUrl": "/companies-assets/OGP.PSE.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Newcrest Mining Limited",
+      "ticker": "NCM",
+      "exchange": "ASX",
+      "website": "https://www.newcrest.com/",
+      "logoUrl": "/companies-assets/NCM.ASX.svg",
+      "title": "Vice President, Finance - Americas",
+      "startDate": "2019",
+      "endDate": "2023",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2023"
     }
   ],
   "investmentTheses": [

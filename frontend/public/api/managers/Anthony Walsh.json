@@ -5,32 +5,46 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Dundee Precious Metals Inc.",
-      "ticker": "DPM",
+      "name": "Sabina Gold & Silver Corp.",
+      "ticker": "SBB",
       "exchange": "TSX",
-      "website": "https://www.dundeeprecious.com",
-      "title": "Independent Director",
-      "startDate": "2011-01-01",
-      "endDate": null,
-      "formattedStartDate": "2011 January",
-      "formattedEndDate": ""
+      "website": "https://www.sabinagoldsilver.com/",
+      "logoUrl": "/companies-assets/SBB.TSX.svg",
+      "title": "President and CEO",
+      "startDate": "2008",
+      "endDate": "2011",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2011"
     },
     {
-      "name": "NOVAGOLD RESOURCES INC.",
-      "ticker": "NG",
-      "exchange": "NYSE",
-      "website": "https://www.novagold.com",
-      "title": "Independent Director",
-      "startDate": "2011-01-01",
+      "name": "Triple Flag Precious Metals Corp.",
+      "ticker": "TFPM",
+      "exchange": "TSX, NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2019",
       "endDate": null,
-      "formattedStartDate": "2011 January",
+      "formattedStartDate": "2019",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/anthony-walsh-6a4a151b",
+      "person_name": "Anthony Walsh",
+      "company_name": "Dundee Precious Metals Inc.",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1,
+      "profile_status": "private"
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"

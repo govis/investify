@@ -6,13 +6,50 @@
   "companies": [
     {
       "name": "Komatsu Ltd.",
-      "ticker": "KMTUY",
-      "exchange": "OTC",
-      "website": "https://www.komatsu.jp",
+      "ticker": "6301",
+      "exchange": "Tokyo Stock Exchange",
+      "website": null,
+      "logoUrl": null,
       "title": "Chairman of the Board",
-      "startDate": "2019-04-01",
+      "startDate": "2019",
+      "endDate": "2024",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Yamaha Motor Co., Ltd.",
+      "ticker": "7272",
+      "exchange": "Tokyo Stock Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Outside Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2019 April",
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Nomura Research Institute, Ltd.",
+      "ticker": "4307",
+      "exchange": "Tokyo Stock Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Outside Member of the Board",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Asahi Group Holdings, Ltd.",
+      "ticker": "2502",
+      "exchange": "Tokyo Stock Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Outside Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
       "formattedEndDate": ""
     }
   ],

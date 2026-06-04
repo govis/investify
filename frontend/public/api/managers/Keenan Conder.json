@@ -9,17 +9,53 @@
       "ticker": "S",
       "exchange": "NYSE",
       "website": "https://www.sentinelone.com",
+      "logoUrl": "/companies-assets/S.NYSE.svg",
       "title": "Chief Legal Officer and Corporate Secretary",
-      "startDate": "2021-09-01",
+      "startDate": "September 2021",
       "endDate": null,
-      "formattedStartDate": "2021 September",
+      "formattedStartDate": "September 2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Tableau Software, Inc.",
+      "ticker": "DATA",
+      "exchange": "NYSE",
+      "website": "https://www.tableau.com",
+      "logoUrl": "/companies-assets/DATA.NYSE.svg",
+      "title": "EVP, General Counsel, and Corporate Secretary",
+      "startDate": "January 2012",
+      "endDate": "August 2021",
+      "formattedStartDate": "January 2012",
+      "formattedEndDate": "August 2021"
+    },
+    {
+      "name": "Isilon Systems, Inc.",
+      "ticker": "ISLN",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Isilon_Systems_logo.svg/512px-Isilon_Systems_logo.svg.png",
+      "title": "Vice President, General Counsel, and Corporate Secretary",
+      "startDate": "Prior to 2010",
+      "endDate": "2010",
+      "formattedStartDate": "Prior to 2010",
+      "formattedEndDate": "2010"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/keenan-conder-8033b14",
+      "person_name": "Keenan Conder",
+      "company_name": "SentinelOne",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 57,
   "ageYear": 2024

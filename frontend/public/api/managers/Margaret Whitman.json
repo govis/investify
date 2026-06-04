@@ -5,15 +5,64 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "General Motors Company",
-      "ticker": "GM",
+      "name": "eBay Inc.",
+      "ticker": "EBAY",
+      "exchange": "NASDAQ",
+      "website": "ebay.com",
+      "logoUrl": "/companies-assets/EBAY.NASDAQ.svg",
+      "title": "President and Chief Executive Officer",
+      "startDate": "1998",
+      "endDate": "2008",
+      "formattedStartDate": "1998",
+      "formattedEndDate": "2008"
+    },
+    {
+      "name": "Hewlett-Packard Company (now HP Inc.)",
+      "ticker": "HPQ",
       "exchange": "NYSE",
-      "website": "https://www.gm.com",
-      "title": "Independent Director",
-      "startDate": "2021-02-09",
-      "endDate": null,
-      "formattedStartDate": "2021 February",
-      "formattedEndDate": ""
+      "website": "hp.com",
+      "logoUrl": "/companies-assets/HPQ.NYSE.jpg",
+      "title": "President and Chief Executive Officer",
+      "startDate": "2011",
+      "endDate": "2015",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Hewlett Packard Enterprise Company",
+      "ticker": "HPE",
+      "exchange": "NYSE",
+      "website": "https://www.arubanetworks.com",
+      "logoUrl": "https://www.arubanetworks.com/assets/images/logos/Aruba_a_Hewlett_Packard_Enterprise_company-Logo.png",
+      "title": "President and Chief Executive Officer",
+      "startDate": "2015",
+      "endDate": "2018",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "The Procter & Gamble Company",
+      "ticker": "PG",
+      "exchange": "NYSE",
+      "website": "https://www.pg.com",
+      "logoUrl": "/companies-assets/PG.NYSE.svg",
+      "title": "Director",
+      "startDate": "2003",
+      "endDate": "2008",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2008"
+    },
+    {
+      "name": "Dropbox, Inc.",
+      "ticker": "DBX",
+      "exchange": "NASDAQ",
+      "website": "https://www.dropbox.com",
+      "logoUrl": "/companies-assets/DBX.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": "2021",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2021"
     }
   ],
   "investmentTheses": [

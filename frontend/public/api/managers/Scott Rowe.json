@@ -9,17 +9,41 @@
       "ticker": "FLS",
       "exchange": "NYSE",
       "website": "https://www.flowserve.com",
+      "logoUrl": "/companies-assets/FLS.NYSE.svg",
       "title": "President and Chief Executive Officer",
-      "startDate": "2017-04-01",
+      "startDate": "2017-04",
       "endDate": null,
-      "formattedStartDate": "2017 April",
+      "formattedStartDate": "April 2017",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Cameron International Corporation",
+      "ticker": "CAM",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "/companies-assets/CAM.NYSE.png",
+      "title": "President and Chief Executive Officer",
+      "startDate": "2002",
+      "endDate": "2017-03",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "March 2017"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/scott-r-rowe",
+      "person_name": "Scott Rowe",
+      "company_name": "Flowserve Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 53,
   "ageYear": 2024

@@ -5,22 +5,106 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Freeport-McMoRan Inc.",
-      "ticker": "FCX",
-      "exchange": "NYSE",
-      "website": "https://www.fcx.com",
-      "title": "Director",
-      "startDate": "2013-01-01",
+      "name": "Leonardo DRS, Inc.",
+      "ticker": "DRS",
+      "exchange": "NASDAQ",
+      "website": "https://www.leonardodrs.com",
+      "logoUrl": "/companies-assets/DRS.NASDAQ.svg",
+      "title": "Director (Lead Independent Director)",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2013 January",
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Chubb Limited",
+      "ticker": "CB",
+      "exchange": "NYSE",
+      "website": "https://www.chubb.com",
+      "logoUrl": "/companies-assets/CB.NYSE.svg",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Activision Blizzard, Inc.",
+      "ticker": "ATVI",
+      "exchange": "NASDAQ",
+      "website": "https://www.activisionblizzard.com",
+      "logoUrl": "/companies-assets/ATVI.NASDAQ.svg",
+      "title": "Executive Vice President for Corporate Affairs, Corporate Secretary, Chief Compliance Officer, and Senior Counsel",
+      "startDate": "December 2020",
+      "endDate": "November 2023",
+      "formattedStartDate": "December 2020",
+      "formattedEndDate": "November 2023"
+    },
+    {
+      "name": "The Western Union Company",
+      "ticker": "WU",
+      "exchange": "NYSE",
+      "website": "https://www.westernunion.com",
+      "logoUrl": "/companies-assets/WU.NYSE.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": "2021",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Scientific Games Corporation (now Light & Wonder, Inc.)",
+      "ticker": "LNW",
+      "exchange": "NASDAQ",
+      "website": "https://www.lnw.com",
+      "logoUrl": "/companies-assets/LNW.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": "2021",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "SciPlay Corporation",
+      "ticker": "SCPL",
+      "exchange": "NASDAQ",
+      "website": "https://www.sciplay.com",
+      "logoUrl": "/companies-assets/SCPL.NASDAQ.png",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": "2021",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "SIGA Technologies, Inc.",
+      "ticker": "SIGA",
+      "exchange": "NASDAQ",
+      "website": "https://www.siga.com",
+      "logoUrl": "/companies-assets/SIGA.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": "2018",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2018"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/frances-townsend-79303a9",
+      "person_name": "Frances Fragos Townsend",
+      "company_name": "Activision Blizzard",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Corporate Responsibility",
     "Governance"

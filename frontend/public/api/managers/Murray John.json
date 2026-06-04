@@ -9,10 +9,35 @@
       "ticker": "DSV",
       "exchange": "TSX",
       "website": "https://discoverysilver.com",
-      "title": "Chairman",
-      "startDate": "2017-05-15",
+      "logoUrl": "/companies-assets/DSV.TSX.svg",
+      "title": "Director",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2017 May",
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "O3 Mining Inc.",
+      "ticker": "OIII",
+      "exchange": "TSXV",
+      "website": "https://o3mining.com",
+      "logoUrl": "/companies-assets/OIII.TSXV.svg",
+      "title": "Lead Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Gladiator Metals Corp.",
+      "ticker": "GLAD",
+      "exchange": "TSXV",
+      "website": "https://gladiatormetals.com",
+      "logoUrl": "/companies-assets/GLAD.TSXV.svg",
+      "title": "Board Advisor",
+      "startDate": "2024-09-05",
+      "endDate": null,
+      "formattedStartDate": "September 2024",
       "formattedEndDate": ""
     }
   ],

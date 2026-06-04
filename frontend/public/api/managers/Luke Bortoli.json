@@ -9,17 +9,41 @@
       "ticker": "PLS",
       "exchange": "ASX",
       "website": "https://www.pilbaraminerals.com.au",
+      "logoUrl": "/companies-assets/PLS.ASX.svg",
       "title": "Chief Financial Officer",
-      "startDate": "2023-04-11",
+      "startDate": "April 2023",
       "endDate": null,
-      "formattedStartDate": "2023 April",
+      "formattedStartDate": "April 2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Afterpay Limited",
+      "ticker": "APT",
+      "exchange": "ASX",
+      "website": "https://www.afterpay.com/",
+      "logoUrl": "/companies-assets/APT.ASX.png",
+      "title": "Chief Financial Officer",
+      "startDate": "2018",
+      "endDate": "2021",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2021"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/luke-bortoli",
+      "person_name": "Luke Bortoli",
+      "company_name": "Pilbara Minerals Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": null,
   "ageYear": null

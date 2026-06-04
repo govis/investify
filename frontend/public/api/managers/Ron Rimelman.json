@@ -7,19 +7,43 @@
     {
       "name": "NOVAGOLD RESOURCES INC.",
       "ticker": "NG",
-      "exchange": "NYSE",
-      "website": "https://www.novagold.com",
-      "title": "Vice President, Environmental, Health, Safety & Sustainability",
-      "startDate": "2011-01-01",
+      "exchange": "NYSE American, TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice President, Environment, Health, Safety & Sustainability",
+      "startDate": "2011",
       "endDate": null,
-      "formattedStartDate": "2011 January",
+      "formattedStartDate": "2011",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "TRILOGY METALS INC.",
+      "ticker": "TMQ",
+      "exchange": "NYSE American, TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Director, Permitting (via Ambler Metals LLC, a 50/50 joint venture between Trilogy Metals and South32)",
+      "startDate": "February 2026",
+      "endDate": null,
+      "formattedStartDate": "February 2026",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ron-rimelman-7b644a367",
+      "person_name": "Ron Rimelman",
+      "company_name": "NOVAGOLD RESOURCES INC.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 64,
   "ageYear": 2024

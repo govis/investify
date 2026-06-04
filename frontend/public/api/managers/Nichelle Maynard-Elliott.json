@@ -9,17 +9,65 @@
       "ticker": "LCID",
       "exchange": "NASDAQ",
       "website": "https://www.lucidmotors.com",
+      "logoUrl": "/companies-assets/LCID.NASDAQ.svg",
       "title": "Director",
-      "startDate": "2021-02-01",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2021 February",
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Xerox Holdings Corporation",
+      "ticker": "XRX",
+      "exchange": "NASDAQ",
+      "website": "https://www.xerox.com",
+      "logoUrl": "/companies-assets/XRX.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "May 2021",
+      "endDate": null,
+      "formattedStartDate": "May 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Aramark",
+      "ticker": "ARMK",
+      "exchange": "NYSE",
+      "website": "https://www.aramark.com",
+      "logoUrl": "/companies-assets/ARMK.NYSE.svg",
+      "title": "Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Element Solutions Inc",
+      "ticker": "ESI",
+      "exchange": "NYSE",
+      "website": "https://www.elementsolutionsinc.com",
+      "logoUrl": "/companies-assets/ESI.NYSE.svg",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/nichelle-maynard-elliott",
+      "person_name": "Nichelle Maynard-Elliott",
+      "company_name": "Lucid Group, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee"
   ],

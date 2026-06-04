@@ -9,17 +9,29 @@
       "ticker": "BAH",
       "exchange": "NYSE",
       "website": "https://www.boozallen.com",
-      "title": "Chairman of the Board",
-      "startDate": "2008-01-01",
-      "endDate": null,
-      "formattedStartDate": "2008 January",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/BAH.NYSE.svg",
+      "title": "Chief Executive Officer",
+      "startDate": "1999",
+      "endDate": "2015",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2015"
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ralph-shrader-4a5a1a10",
+      "person_name": "Ralph Shrader",
+      "company_name": "Booz Allen Hamilton",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 79,
   "ageYear": 2024

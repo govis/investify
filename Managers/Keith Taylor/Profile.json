@@ -6,19 +6,45 @@
   "age_year": 2024,
   "background": "Keith D. Taylor has served as our Chief Financial Officer since September 2005. He joined Equinix in 1999 and has held various roles including Director of Finance and Administration, and Vice President, Finance and Chief Accounting Officer.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Equinix, Inc.",
       "ticker": "EQIX",
       "exchange": "NASDAQ",
       "title_or_role": "Chief Financial Officer",
-      "start_date": "2005-09-01",
-      "end_date": null
+      "website": "https://www.equinix.com",
+      "start_date": "2005-09",
+      "end_date": "2026-03",
+      "validated": true
+    },
+    {
+      "name": "Invitation Homes Inc.",
+      "ticker": "INVH",
+      "exchange": "NYSE",
+      "website": "https://www.invitationhomes.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2023-05",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/keith-d-taylor-1ba889",
+      "person_name": "Keith D. Taylor",
+      "company_name": "Equinix",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

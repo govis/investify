@@ -5,32 +5,69 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Livent Corporation",
-      "ticker": "LTHM",
+      "name": "FMC Corporation",
+      "ticker": "FMC",
       "exchange": "NYSE",
-      "website": "https://www.livent.com",
-      "title": "President and Chief Executive Officer",
-      "startDate": "2018-05-01",
-      "endDate": null,
-      "formattedStartDate": "2018 May",
-      "formattedEndDate": ""
+      "website": "https://www.fmc.com",
+      "logoUrl": "/companies-assets/FMC.NYSE.svg",
+      "title": "Executive VP & CFO",
+      "startDate": "2012",
+      "endDate": "2018",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2018"
     },
     {
-      "name": "Pilbara Minerals Limited",
-      "ticker": "PLS",
-      "exchange": "ASX",
-      "website": "https://www.pilbaraminerals.com.au",
-      "title": "Chief Commercial Officer",
-      "startDate": "2023-10-01",
-      "endDate": null,
-      "formattedStartDate": "2023 October",
-      "formattedEndDate": ""
+      "name": "Lydall, Inc.",
+      "ticker": "LDL",
+      "exchange": "NYSE",
+      "website": "lydall.com",
+      "logoUrl": "/companies-assets/LDL.NYSE.png",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": "2021",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Celularity Inc.",
+      "ticker": "CELU",
+      "exchange": "NASDAQ",
+      "website": "celularity.com",
+      "logoUrl": "/companies-assets/CELU.NASDAQ.svg",
+      "title": "SVP, Chief Communications Officer",
+      "startDate": "2023",
+      "endDate": "2024",
+      "formattedStartDate": "2023",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "ticker": "GS",
+      "exchange": "NYSE",
+      "website": "https://www.goldmansachs.com",
+      "logoUrl": "/companies-assets/GS.NYSE.svg",
+      "title": "Head of Natural Resources Group",
+      "startDate": "2000",
+      "endDate": "2012",
+      "formattedStartDate": "2000",
+      "formattedEndDate": "2012"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/paul-graves-16511626",
+      "person_name": "Paul Graves",
+      "company_name": "Livent Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 52,
   "ageYear": 2023

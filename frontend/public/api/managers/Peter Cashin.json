@@ -5,21 +5,81 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Triple Flag Precious Metals Corp.",
-      "ticker": "TFPM",
-      "exchange": "NYSE",
-      "website": "https://www.tripleflagpm.com",
-      "title": "Independent Director",
-      "startDate": "2019-10-01",
+      "name": "Appia Rare Earths & Uranium Corp.",
+      "ticker": "CSE:API / OTCQX:APAAF",
+      "exchange": "CSE, OTC",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2024",
       "endDate": null,
-      "formattedStartDate": "2019 October",
+      "formattedStartDate": "2024",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Imperial Mining Group Ltd.",
+      "ticker": "TSXV:IPG / OTCQB:IMPNF",
+      "exchange": "TSXV, OTC",
+      "website": null,
+      "logoUrl": null,
+      "title": "President, CEO and Director",
+      "startDate": "2017",
+      "endDate": "2023",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Scandium Canada Ltd.",
+      "ticker": "TSXV:SCD / OTCQB:SCDCF",
+      "exchange": "TSXV, OTC",
+      "website": null,
+      "logoUrl": null,
+      "title": "President, CEO and Director",
+      "startDate": "2021",
+      "endDate": "2023",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Kintavar Exploration Inc.",
+      "ticker": "TSXV:KTR",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "CEO",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Quest Rare Minerals Ltd.",
+      "ticker": "TSX:QRM",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "President, CEO and Director",
+      "startDate": "2007",
+      "endDate": "2016",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2016"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/peter-cashin-p-geo-254b93b7",
+      "person_name": "Peter Cashin",
+      "company_name": "Imperial Mining Group Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Governance and Nominating Committee"

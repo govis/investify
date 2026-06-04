@@ -6,20 +6,46 @@
   "age_year": 2024,
   "background": "Vaibhav Taneja has served as our Chief Financial Officer since August 2023 and as our Chief Accounting Officer since March 2019. He previously served in various finance and accounting roles at Tesla and SolarCity.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Tesla, Inc.",
       "ticker": "TSLA",
       "exchange": "NASDAQ",
-      "title_or_role": "Chief Financial Officer, Chief Accounting Officer",
-      "start_date": "2023-08-01",
-      "end_date": null
+      "title_or_role": "Chief Financial Officer (CFO)",
+      "website": "https://www.tesla.com",
+      "start_date": "August 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SolarCity Corporation",
+      "ticker": "SCTY",
+      "exchange": "NASDAQ",
+      "website": "N/A",
+      "title_or_role": "Corporate Controller",
+      "start_date": "March 2016",
+      "end_date": "2016",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/vaibhav-taneja-7297003",
+      "person_name": "Vaibhav Taneja",
+      "company_name": "Tesla, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -5,15 +5,40 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "VanEck Rare Earth/Strategic Metals ETF",
-      "ticker": "SETM",
+      "name": "Apollo Global Management, Inc.",
+      "ticker": "APO",
       "exchange": "NYSE",
-      "website": "https://www.vaneck.com/us/en/investments/rare-earth-strategic-metals-etf-remx/",
-      "title": "Vice President and Secretary",
-      "startDate": "2014",
+      "website": "https://www.apollo.com",
+      "logoUrl": "/companies-assets/APO.NYSE.svg",
+      "title": "Managing Director and Global Head of Leadership Development and Diversity",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "ticker": "JPM",
+      "exchange": "NYSE",
+      "website": "https://www.jpmorganchase.com",
+      "logoUrl": "/companies-assets/JPM.NYSE.svg",
+      "title": "Executive Director",
+      "startDate": null,
+      "endDate": "2021",
+      "formattedStartDate": "",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "ticker": "C",
+      "exchange": "NYSE",
+      "website": "citigroup.com",
+      "logoUrl": "/companies-assets/C.NYSE.svg",
+      "title": "Managing Director (Corporate & Investment Banking)",
+      "startDate": null,
+      "endDate": "Prior to JPMorgan Chase role",
+      "formattedStartDate": "",
+      "formattedEndDate": "Prior to JPMorgan Chase role"
     }
   ],
   "investmentTheses": [

@@ -3,23 +3,22 @@
   "name": "Kevin McLean",
   "background": "Mr. McLean has over 30 years of experience in the investment management industry. He was previously a Senior Managing Director at Sprucegrove Investment Management Ltd.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "Karora Resources Inc.",
-      "ticker": "KRR",
-      "exchange": "TSX",
-      "website": "https://www.karoraresources.com",
-      "title": "Independent Director",
-      "startDate": "2020-06-18",
-      "endDate": null,
-      "formattedStartDate": "2020 June",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/kevin-mclean-12675393",
+      "person_name": "Kevin McLean",
+      "company_name": "Karora Resources Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee (Chair)",
     "Corporate Governance and Nominating Committee"

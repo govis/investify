@@ -9,10 +9,23 @@
       "ticker": "CLM",
       "exchange": "TSXV",
       "website": "https://consolidatedlithium.com/",
+      "logoUrl": "/companies-assets/CLM.TSXV.png",
       "title": "Director",
-      "startDate": "2021-06-01",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2021 June",
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Intrepid Metals Corp.",
+      "ticker": "INTR",
+      "exchange": "TSXV",
+      "website": "https://www.intrepidmetals.com",
+      "logoUrl": "/companies-assets/INTR.TSXV.svg",
+      "title": "Chairman of the Board",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +33,18 @@
     "Electrification",
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/mjmorabito",
+      "person_name": "Mark Morabito",
+      "company_name": "King & Bay West Management Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

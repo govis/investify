@@ -9,17 +9,77 @@
       "ticker": "AVGO",
       "exchange": "NASDAQ",
       "website": "https://www.broadcom.com",
+      "logoUrl": "/companies-assets/AVGO.NASDAQ.svg",
       "title": "Lead Independent Director",
-      "startDate": "2016-01-01",
+      "startDate": "2016-02",
       "endDate": null,
-      "formattedStartDate": "2016 January",
+      "formattedStartDate": "February 2016",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Sirius XM Holdings Inc.",
+      "ticker": "SIRI",
+      "exchange": "NASDAQ",
+      "website": "https://www.siriusxm.com",
+      "logoUrl": "/companies-assets/SIRI.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2009-01",
+      "endDate": null,
+      "formattedStartDate": "January 2009",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Tribune Publishing Company (now MediaNews Group/Tribune Publishing)",
+      "ticker": "TPCO",
+      "exchange": "NASDAQ",
+      "website": "https://www.tribpub.com",
+      "logoUrl": "/companies-assets/TPCO.NASDAQ.webp",
+      "title": "Non-Executive Chairman / Director",
+      "startDate": "2014-08",
+      "endDate": "2016-02",
+      "formattedStartDate": "August 2014",
+      "formattedEndDate": "February 2016"
+    },
+    {
+      "name": "The DIRECTV Group, Inc.",
+      "ticker": "DTV",
+      "exchange": "NASDAQ",
+      "website": "https://www.directv.com",
+      "logoUrl": "https://www.directv.com/dtv-assets/images/logos/directv-logo-blue.png",
+      "title": "Vice Chairman / Director",
+      "startDate": "2003-12",
+      "endDate": "2004-12",
+      "formattedStartDate": "December 2003",
+      "formattedEndDate": "December 2004"
+    },
+    {
+      "name": "TiVo Corporation",
+      "ticker": "TIVO",
+      "exchange": "NASDAQ",
+      "website": "https://www.tivo.com",
+      "logoUrl": "/companies-assets/TIVO.NASDAQ.png",
+      "title": "Director",
+      "startDate": "2013-05",
+      "endDate": "2016-09",
+      "formattedStartDate": "May 2013",
+      "formattedEndDate": "September 2016"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/eddy-hartenstein-8b8917167",
+      "person_name": "Eddy Hartenstein",
+      "company_name": "Broadcom Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee (Chair)",
     "Nominating and Corporate Governance Committee"

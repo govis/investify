@@ -7,19 +7,31 @@
     {
       "name": "Western Magnesium Corporation",
       "ticker": "WMG",
-      "exchange": "TSX",
-      "website": "https://westernmagnesium.com",
-      "title": "Executive Chairman and Chief Executive Officer",
-      "startDate": "2018-01-01",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": "https://www.marketscreener.com/images/reuters/logo_reuters_default.png",
+      "title": "Executive President and Chief Executive Officer; Director",
+      "startDate": "2018",
       "endDate": null,
-      "formattedStartDate": "2018 January",
+      "formattedStartDate": "2018",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sam-ataya",
+      "person_name": "Sam Ataya",
+      "company_name": "Western Magnesium Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 59,
   "ageYear": 2023

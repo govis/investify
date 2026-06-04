@@ -9,10 +9,11 @@
       "ticker": "AMAT",
       "exchange": "NASDAQ",
       "website": "https://www.appliedmaterials.com",
-      "title": "Senior Vice President and Chief Technology Officer",
-      "startDate": "2011-01-01",
+      "logoUrl": "/companies-assets/AMAT.NASDAQ.svg",
+      "title": "Senior Vice President and Chief Technology Officer (CTO)",
+      "startDate": "2006",
       "endDate": null,
-      "formattedStartDate": "2011 January",
+      "formattedStartDate": "2006",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +21,18 @@
     "AI",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/omkaram-nalamasu-9866225",
+      "person_name": "Omkaram Nalamasu",
+      "company_name": "Applied Materials",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 65,
   "ageYear": 2024

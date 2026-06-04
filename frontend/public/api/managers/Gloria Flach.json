@@ -9,17 +9,41 @@
       "ticker": "EMR",
       "exchange": "NYSE",
       "website": "https://www.emerson.com",
+      "logoUrl": "/companies-assets/EMR.NYSE.svg",
       "title": "Independent Director",
-      "startDate": "2017-01-01",
+      "startDate": "2018",
       "endDate": null,
-      "formattedStartDate": "2017 January",
+      "formattedStartDate": "2018",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "website": "https://www.northropgrumman.com",
+      "logoUrl": "/companies-assets/NOC.NYSE.svg",
+      "title": "Corporate Vice President and Chief Operating Officer",
+      "startDate": "1981",
+      "endDate": "2017-12-31",
+      "formattedStartDate": "1981",
+      "formattedEndDate": "December 2017"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gloria-flach-5a5b5a12",
+      "person_name": "Gloria Flach",
+      "company_name": "Northrop Grumman Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit",
     "Finance"

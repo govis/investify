@@ -9,18 +9,54 @@
       "ticker": "INTC",
       "exchange": "NASDAQ",
       "website": "https://www.intel.com",
+      "logoUrl": "/companies-assets/INTC.NASDAQ.svg",
       "title": "Executive Vice President and Chief Financial Officer",
-      "startDate": "2022-01-17",
+      "startDate": "January 2022",
       "endDate": null,
-      "formattedStartDate": "2022 January",
+      "formattedStartDate": "January 2022",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Micron Technology, Inc.",
+      "ticker": "MU",
+      "exchange": "NASDAQ",
+      "website": "https://www.micron.com",
+      "logoUrl": "/companies-assets/MU.NASDAQ.svg",
+      "title": "Senior Vice President and Chief Financial Officer",
+      "startDate": "February 2018",
+      "endDate": "January 2022",
+      "formattedStartDate": "February 2018",
+      "formattedEndDate": "January 2022"
+    },
+    {
+      "name": "Analog Devices, Inc.",
+      "ticker": "ADI",
+      "exchange": "NASDAQ",
+      "website": "https://www.analog.com",
+      "logoUrl": "/companies-assets/ADI.NASDAQ.png",
+      "title": "Senior Vice President and Chief Financial Officer",
+      "startDate": "2009",
+      "endDate": "2017",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2017"
     }
   ],
   "investmentTheses": [
     "AI",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dzinsner",
+      "person_name": "David Zinsner",
+      "company_name": "Intel Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 55,
   "ageYear": 2024

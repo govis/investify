@@ -9,17 +9,65 @@
       "ticker": "D",
       "exchange": "NYSE",
       "website": "https://www.dominionenergy.com",
-      "title": "Independent Director",
-      "startDate": "2016-01-01",
+      "logoUrl": "/companies-assets/D.NYSE.svg",
+      "title": "Director",
+      "startDate": "2016",
       "endDate": null,
-      "formattedStartDate": "2016 January",
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Questar Corporation",
+      "ticker": "STR",
+      "exchange": "NYSE",
+      "website": "https://www.dominionenergy.com",
+      "logoUrl": "/companies-assets/STR.NYSE.svg",
+      "title": "Chairman, President, and CEO",
+      "startDate": "2010",
+      "endDate": "2016",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "IDACORP, Inc.",
+      "ticker": "IDA",
+      "exchange": "NYSE",
+      "website": "https://www.idacorpinc.com/",
+      "logoUrl": "/companies-assets/IDA.NYSE.png",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": "2025",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "National Fuel Gas Company",
+      "ticker": "NFG",
+      "exchange": "NYSE",
+      "website": "https://www.nationalfuel.com",
+      "logoUrl": "/companies-assets/NFG.NYSE.svg",
+      "title": "Director",
+      "startDate": "March 13, 2014",
+      "endDate": "June 3, 2016",
+      "formattedStartDate": "March 13, 2014",
+      "formattedEndDate": "June 3, 2016"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ronald-jibson-4a5b2a12",
+      "person_name": "Ronald Jibson",
+      "company_name": "Questar Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Finance and Risk Committee",
     "Sustainability and Corporate Responsibility Committee"

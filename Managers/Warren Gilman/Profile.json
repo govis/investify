@@ -6,23 +6,14 @@
   "age_year": 2023,
   "background": "Chairman and CEO of Queen\u2019s Road Capital Investment Ltd. Former Chairman and CEO of CEF Holdings.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee",
-    "Governance Committee",
-    "Nominating and Corporate Governance Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Gold Royalty Corp.",
       "ticker": "GROY",
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
+      "website": "https://www.goldroyalty.com",
       "start_date": "2020-06-23",
       "end_date": null
     },
@@ -31,6 +22,7 @@
       "ticker": "NXE",
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
+      "website": "https://www.nexgenenergy.ca",
       "start_date": "2017-01-01",
       "end_date": null
     },
@@ -39,8 +31,53 @@
       "ticker": "NXE",
       "exchange": "TSX",
       "title_or_role": "Independent Director",
+      "website": "https://www.nexgenenergy.ca",
       "start_date": "2017-05-01",
       "end_date": null
+    },
+    {
+      "name": "Queen's Road Capital Investment Ltd.",
+      "ticker": "QRC",
+      "exchange": "TSX",
+      "website": "https://queensrdcapital.com/",
+      "title_or_role": "Chairman, CEO & Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CEF Holdings Ltd.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "https://www.cefholdings.com/",
+      "title_or_role": "Chairman & Chief Executive Officer",
+      "start_date": "2011",
+      "end_date": "2019",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/warren-gilman-69684417",
+      "person_name": "Warren Gilman",
+      "company_name": "Queen's Road Capital Investment Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Governance Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

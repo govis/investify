@@ -6,22 +6,48 @@
   "age_year": 2024,
   "background": "Mr. Morabito is the Chairman and CEO of King & Bay West Management Corp. and has over 20 years of experience in the mining industry. He has been involved in the founding and development of several successful mining companies.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification",
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Consolidated Lithium Metals Inc.",
       "ticker": "CLM",
       "exchange": "TSXV",
       "title_or_role": "Director",
-      "start_date": "2021-06-01",
-      "end_date": null
+      "website": "https://www.consolidatedlithium.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Intrepid Metals Corp.",
+      "ticker": "INTR",
+      "exchange": "TSXV",
+      "website": "https://www.intrepidmetals.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/mjmorabito",
+      "person_name": "Mark Morabito",
+      "company_name": "King & Bay West Management Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

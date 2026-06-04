@@ -6,6 +6,49 @@
   "age_year": 2024,
   "background": "Mr. Meredith has over 40 years of experience in the mining industry and was previously the CFO of Ivanhoe Mines Ltd.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Capstone Copper Corp.",
+      "ticker": "CS",
+      "exchange": "TSX",
+      "title_or_role": "Director / Lead Independent Director",
+      "website": "capstonecopper.com",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ivanhoe Mines Ltd.",
+      "ticker": "IVN",
+      "exchange": "TSX",
+      "website": "ivanhoemines.com",
+      "title_or_role": "Officer / Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Great Canadian Gaming Corp.",
+      "ticker": "GC",
+      "exchange": "TSX",
+      "website": "gcgaming.com",
+      "title_or_role": "Director / Chairman",
+      "start_date": null,
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Entr\u00e9e Resources Ltd.",
+      "ticker": "ETG",
+      "exchange": "TSX",
+      "website": "entreeresourcesltd.com",
+      "title_or_role": "Director",
+      "start_date": "2004",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -14,14 +57,6 @@
     "Audit Committee",
     "Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "Capstone Copper Corp.",
-      "ticker": "CS",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2022-03-23",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

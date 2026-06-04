@@ -6,19 +6,45 @@
   "age_year": 2024,
   "background": "John Hollister is the Chief Financial Officer of GlobalFoundries. He joined GF in 2024 from Silicon Labs, where he served as CFO for over 10 years. He has extensive experience in financial management, strategic planning, and investor relations within the semiconductor industry.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "GlobalFoundries Inc.",
       "ticker": "GFS",
       "exchange": "NASDAQ",
       "title_or_role": "Chief Financial Officer",
-      "start_date": "2024-02-01",
-      "end_date": null
+      "website": "https://gf.com",
+      "start_date": "2024-02-05",
+      "end_date": "2024-09-16",
+      "validated": true
+    },
+    {
+      "name": "Silicon Laboratories Inc.",
+      "ticker": "SLAB",
+      "exchange": "NASDAQ",
+      "website": "https://www.silabs.com",
+      "title_or_role": "Senior Vice President and Chief Financial Officer",
+      "start_date": "2013",
+      "end_date": "2024-02-02",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/johnchollister",
+      "person_name": "John Hollister",
+      "company_name": "GlobalFoundries",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

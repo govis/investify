@@ -9,10 +9,23 @@
       "ticker": "LRCX",
       "exchange": "NASDAQ",
       "website": "https://www.lamresearch.com",
-      "title": "Director",
-      "startDate": "2021-01-01",
+      "logoUrl": "/companies-assets/LRCX.NASDAQ.svg",
+      "title": "Independent Director",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2021 January",
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Gilead Sciences, Inc.",
+      "ticker": "GILD",
+      "exchange": "NASDAQ",
+      "website": "https://www.gilead.com",
+      "logoUrl": "/companies-assets/GILD.NASDAQ.svg",
+      "title": "Executive Vice President, Human Resources",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
       "formattedEndDate": ""
     }
   ],

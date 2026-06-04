@@ -6,22 +6,37 @@
   "age_year": 2024,
   "background": "Former managing director and head of China equity research at Nomura International (Hong Kong) Limited. She has over 25 years of experience in the equity research industry.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "NIO Inc.",
       "ticker": "NIO",
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
+      "website": "https://www.nio.com",
       "start_date": "2023-12-01",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/wenli-zhao-789305199",
+      "person_name": "Wenli Zhao",
+      "company_name": "NIO Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -6,19 +6,24 @@
   "age_year": 2024,
   "background": "Vice Chairman since 2023. Previously Executive Vice President, Strategy, Policy & Development.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Chevron Corporation",
+      "ticker": "CVX",
+      "exchange": "NYSE",
+      "title_or_role": "Vice Chairman (Current); previously held various executive roles including Executive Vice President of Strategy, Policy and Development and Executive Vice President of Downstream & Chemicals.",
+      "website": "https://www.chevron.com",
+      "start_date": "1987",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Chevron Corporation",
-      "ticker": "CVX",
-      "exchange": "NYSE",
-      "title_or_role": "Vice Chairman",
-      "start_date": "2023-02-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

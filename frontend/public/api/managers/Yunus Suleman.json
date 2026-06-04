@@ -9,17 +9,53 @@
       "ticker": "GFI",
       "exchange": "NYSE",
       "website": "https://www.goldfields.com",
-      "title": "Chairperson, Independent Non-Executive Director",
-      "startDate": "2022-06-01",
+      "logoUrl": "/companies-assets/GFI.NYSE.svg",
+      "title": "Independent Non-Executive Director (2016–2022), Chairperson (2022–Present)",
+      "startDate": "2016-09-01",
       "endDate": null,
-      "formattedStartDate": "2022 June",
+      "formattedStartDate": "September 2016",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Tiger Brands Limited",
+      "ticker": "TBS",
+      "exchange": "JSE",
+      "website": "https://www.tigerbrands.com",
+      "logoUrl": "/companies-assets/TBS.JSE.png",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2015-07-13",
+      "endDate": "2018-01-01",
+      "formattedStartDate": "July 2015",
+      "formattedEndDate": "January 2018"
+    },
+    {
+      "name": "Liberty Holdings Limited",
+      "ticker": "LBH",
+      "exchange": "JSE",
+      "website": "https://www.liberty.co.za",
+      "logoUrl": "/companies-assets/LBH.JSE.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2017-01-01",
+      "endDate": "2022-01-01",
+      "formattedStartDate": "January 2017",
+      "formattedEndDate": "January 2022"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://za.linkedin.com/in/yunus-suleman-0629671",
+      "person_name": "Yunus Suleman",
+      "company_name": "Gold Fields Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Capital Projects Control and Review Committee",
     "Nominating and Governance Committee"

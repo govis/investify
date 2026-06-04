@@ -5,33 +5,58 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Advanced Micro Devices, Inc.",
-      "ticker": "AMD",
+      "name": "Micron Technology, Inc.",
+      "ticker": "MU",
       "exchange": "NASDAQ",
-      "website": "https://www.amd.com",
-      "title": "Independent Director",
-      "startDate": "2017-01-01",
+      "website": "https://www.micron.com",
+      "logoUrl": "/companies-assets/MU.NASDAQ.svg",
+      "title": "Chief Executive Officer & Director",
+      "startDate": "2012",
+      "endDate": "2017",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Cencora, Inc.",
+      "ticker": "COR",
+      "exchange": "NYSE",
+      "website": "https://www.cencora.com",
+      "logoUrl": "/companies-assets/COR.NYSE.svg",
+      "title": "Director, Lead Independent Director, Chairman of the Board",
+      "startDate": "2015",
       "endDate": null,
-      "formattedStartDate": "2017 January",
+      "formattedStartDate": "2015",
       "formattedEndDate": ""
     },
     {
-      "name": "ASML Holding N.V.",
-      "ticker": "ASML",
-      "exchange": "NASDAQ",
-      "website": "https://www.asml.com",
-      "title": "Member of the Supervisory Board",
-      "startDate": "2020-04-22",
-      "endDate": null,
-      "formattedStartDate": "2020 April",
-      "formattedEndDate": ""
+      "name": "Freescale Semiconductor, Ltd.",
+      "ticker": "FSL",
+      "exchange": "NYSE",
+      "website": "https://www.nxp.com",
+      "logoUrl": "https://www.nxp.com/assets/images/logo/nxp-logo.svg",
+      "title": "Director",
+      "startDate": "2014-08-13",
+      "endDate": "2015",
+      "formattedStartDate": "August 2014",
+      "formattedEndDate": "2015"
     }
   ],
   "investmentTheses": [
     "AI",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mark-durcan-4a5a5a12",
+      "person_name": "Mark Durcan",
+      "company_name": "Micron Technology, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit and Risk Committee",
     "Compensation and Leadership Resources Committee",

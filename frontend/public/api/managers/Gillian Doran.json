@@ -9,17 +9,41 @@
       "ticker": "AU",
       "exchange": "NYSE",
       "website": "https://www.anglogoldashanti.com",
-      "title": "Chief Financial Officer",
-      "startDate": "2023-01-01",
+      "logoUrl": "/companies-assets/AU.NYSE.svg",
+      "title": "Chief Financial Officer & Executive Director",
+      "startDate": "January 2023",
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "January 2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Rio Tinto",
+      "ticker": "RIO",
+      "exchange": "ASX / NYSE / LSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "CFO, Aluminium Division",
+      "startDate": "Prior to 2023",
+      "endDate": "January 2023",
+      "formattedStartDate": "Prior to 2023",
+      "formattedEndDate": "January 2023"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gillian-doran-fcca-79a479a0",
+      "person_name": "Gillian Doran",
+      "company_name": "AngloGold Ashanti plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 46,
   "ageYear": 2024

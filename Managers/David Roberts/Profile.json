@@ -6,6 +6,29 @@
   "age_year": 2024,
   "background": "Mr. Roberts served as President and Chief Executive Officer of Carlisle Companies Incorporated from 2007 to 2016 and as Chairman from 2014 to 2017.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Flowserve Corporation",
+      "ticker": "FLS",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.flowserve.com",
+      "start_date": "November 2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Marathon Oil Corporation",
+      "ticker": "MRO",
+      "exchange": "NYSE",
+      "website": "https://www.marathonoil.com",
+      "title_or_role": "Senior Vice President, Business Development",
+      "start_date": "2006",
+      "end_date": "2008",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -14,14 +37,6 @@
     "Corporate Governance & Nominating Committee",
     "Organization & Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Flowserve Corporation",
-      "ticker": "FLS",
-      "exchange": "NYSE",
-      "title_or_role": "Non-Executive Chairman",
-      "start_date": "2011-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

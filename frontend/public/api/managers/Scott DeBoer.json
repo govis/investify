@@ -9,10 +9,11 @@
       "ticker": "MU",
       "exchange": "NASDAQ",
       "website": "https://www.micron.com",
-      "title": "Executive Vice President, Technology and Products",
-      "startDate": "2019-01-01",
+      "logoUrl": "/companies-assets/MU.NASDAQ.svg",
+      "title": "Executive Vice President, Chief Technology and Products Officer",
+      "startDate": "1995",
       "endDate": null,
-      "formattedStartDate": "2019 January",
+      "formattedStartDate": "1995",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +21,18 @@
     "AI",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/scott-deboer",
+      "person_name": "Scott DeBoer",
+      "company_name": "Micron Technology, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 53,
   "ageYear": 2023

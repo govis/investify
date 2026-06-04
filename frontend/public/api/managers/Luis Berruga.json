@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Global X Uranium ETF",
-      "ticker": "URA",
-      "exchange": "NYSE",
-      "website": "https://www.globalxetfs.com/funds/ura/",
-      "title": "Unknown Role",
-      "startDate": null,
+      "name": "SOL Strategies Inc.",
+      "ticker": "STKE",
+      "exchange": "CSE",
+      "website": "https://solstrategies.io/",
+      "logoUrl": "/companies-assets/STKE.CSE.webp",
+      "title": "Director",
+      "startDate": "2024-05-22",
       "endDate": null,
-      "formattedStartDate": "",
+      "formattedStartDate": "May 2024",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Global X ETFs (Global X Management Company LLC)",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Operating Officer and Chief Financial Officer",
+      "startDate": "2014-01",
+      "endDate": "2018-09",
+      "formattedStartDate": "January 2014",
+      "formattedEndDate": "September 2018"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/luisberruga",
+      "person_name": "Luis Berruga",
+      "company_name": "Global X ETFs",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 47,
   "ageYear": 2023

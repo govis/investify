@@ -9,11 +9,24 @@
       "ticker": "BAH",
       "exchange": "NYSE",
       "website": "https://www.boozallen.com",
-      "title": "Independent Director",
-      "startDate": "2020-01-01",
+      "logoUrl": "/companies-assets/BAH.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2018",
       "endDate": null,
-      "formattedStartDate": "2020 January",
+      "formattedStartDate": "2018",
       "formattedEndDate": ""
+    },
+    {
+      "name": "CSRA Inc.",
+      "ticker": "CSRA",
+      "exchange": "NYSE",
+      "website": "https://www.gd.com",
+      "logoUrl": "/companies-assets/CSRA.NYSE.png",
+      "title": "Member, Board of Directors",
+      "startDate": "2015-11-30",
+      "endDate": "2018-04-02",
+      "formattedStartDate": "November 2015",
+      "formattedEndDate": "April 2018"
     }
   ],
   "investmentTheses": [

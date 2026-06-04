@@ -9,11 +9,36 @@
       "ticker": "DYL",
       "exchange": "ASX",
       "website": "https://deepyellow.com.au",
-      "title": "Non-Executive Chairman",
-      "startDate": "2021-05-12",
+      "logoUrl": "/companies-assets/DYL.ASX.png",
+      "title": "Director (Non-Executive/Executive Chair)",
+      "startDate": "May 2021",
       "endDate": null,
-      "formattedStartDate": "2021 May",
+      "formattedStartDate": "May 2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Rio Tinto Plc",
+      "ticker": "RIO",
+      "exchange": "LSE / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Executive - Copper & Coal Product Group",
+      "startDate": "2016",
+      "endDate": "2020",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Energy Resources of Australia Ltd.",
+      "ticker": "ERA",
+      "exchange": "ASX",
+      "website": "https://www.energyres.com.au/",
+      "logoUrl": "/companies-assets/ERA.ASX.svg",
+      "title": "Executive Director",
+      "startDate": "2004",
+      "endDate": "2010",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2010"
     }
   ],
   "investmentTheses": [

@@ -9,17 +9,65 @@
       "ticker": "AVAV",
       "exchange": "NASDAQ",
       "website": "https://www.avinc.com",
+      "logoUrl": "/companies-assets/AVAV.NASDAQ.svg",
       "title": "Director",
-      "startDate": "2021-01-01",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2021 January",
+      "formattedStartDate": "",
       "formattedEndDate": ""
+    },
+    {
+      "name": "V2X, Inc.",
+      "ticker": "VVX",
+      "exchange": "NYSE",
+      "website": "https://gov2x.com",
+      "logoUrl": "/companies-assets/VVX.NYSE.svg",
+      "title": "Chairman",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Astec Industries, Inc.",
+      "ticker": "ASTE",
+      "exchange": "NASDAQ",
+      "website": "https://www.astecindustries.com/",
+      "logoUrl": "/companies-assets/ASTE.NASDAQ.svg",
+      "title": "Independent Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Textron Inc.",
+      "ticker": "TXT",
+      "exchange": "NYSE",
+      "website": "https://www.textron.com",
+      "logoUrl": "/companies-assets/TXT.NYSE.svg",
+      "title": "Executive Vice President",
+      "startDate": "1995",
+      "endDate": "2009",
+      "formattedStartDate": "1995",
+      "formattedEndDate": "2009"
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mary-l-howell-59961456",
+      "person_name": "Mary Howell",
+      "company_name": "AeroVironment, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee"
   ],

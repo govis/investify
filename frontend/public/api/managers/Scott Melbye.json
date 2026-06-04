@@ -6,31 +6,68 @@
   "companies": [
     {
       "name": "Uranium Royalty Corp.",
-      "ticker": "UROY",
-      "exchange": "NASDAQ",
-      "website": "https://www.uraniumroyalty.com",
-      "title": "Chief Executive Officer, Director",
-      "startDate": "2019-10-01",
+      "ticker": "URC",
+      "exchange": "TSXV, NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Executive Officer and Director",
+      "startDate": "2019",
       "endDate": null,
-      "formattedStartDate": "2019 October",
+      "formattedStartDate": "2019",
       "formattedEndDate": ""
     },
     {
-      "name": "Uranium Royalty Corp.",
-      "ticker": "UROY",
-      "exchange": "TSX",
-      "website": "https://www.uraniumroyalty.com/",
-      "title": "Chief Executive Officer, Director, President",
-      "startDate": "2019-10-01",
+      "name": "Uranium Energy Corp.",
+      "ticker": "UEC",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Vice President",
+      "startDate": "September 2014",
       "endDate": null,
-      "formattedStartDate": "2019 October",
+      "formattedStartDate": "September 2014",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Uranium One Inc.",
+      "ticker": "UUU",
+      "exchange": "TSX",
+      "website": "www.uranium1.com",
+      "logoUrl": "/companies-assets/UUU.TSX.svg",
+      "title": "Executive Vice President, Marketing",
+      "startDate": "2007",
+      "endDate": "June 2014",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "June 2014"
+    },
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCO",
+      "exchange": "TSX, NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Various leadership positions",
+      "startDate": "1985",
+      "endDate": "2007",
+      "formattedStartDate": "1985",
+      "formattedEndDate": "2007"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/melbye-scott-7b11aa36",
+      "person_name": "Scott Melbye",
+      "company_name": "Uranium Royalty Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 62,
   "ageYear": 2024

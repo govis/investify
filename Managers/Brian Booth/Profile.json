@@ -6,22 +6,68 @@
   "age_year": 2024,
   "background": "Independent Director. Former President and CEO of Element 29 Resources Inc. and Pembrook Copper Corp.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "SSR Mining Inc.",
+      "ticker": "SSRM",
+      "exchange": "TSX/NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.ssrmining.com",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "GFG Resources Inc.",
+      "ticker": "GFG",
+      "exchange": "TSXV",
+      "website": "https://www.gfgresources.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Peninsula Energy Limited",
+      "ticker": "PEN",
+      "exchange": "ASX",
+      "website": "https://www.pel.net.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Element 29 Resources Inc.",
+      "ticker": "ECU",
+      "exchange": "TSXV",
+      "website": "https://e29copper.com",
+      "title_or_role": "President, CEO, Director",
+      "start_date": "2019",
+      "end_date": "2024",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/brian-booth-7a5b2a1b/",
+      "person_name": "Brian Booth",
+      "company_name": "Element 29 Resources Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Environmental, Health, Safety and Sustainability Committee",
     "Technical Committee"
   ],
-  "companies": [
-    {
-      "name": "SSR Mining Inc.",
-      "ticker": "SSRM",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-09-16",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

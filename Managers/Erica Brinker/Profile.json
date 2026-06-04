@@ -6,19 +6,55 @@
   "age_year": 2024,
   "background": "Erica Brinker has served as our Chief Commercial Officer since March 2022. Prior to joining Array, Ms. Brinker served as Chief Marketing Officer and Vice President of Commercial Excellence at Honeywell from 2019 to 2022.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Array Technologies, Inc.",
       "ticker": "ARRY",
       "exchange": "NASDAQ",
-      "title_or_role": "Chief Commercial Officer",
-      "start_date": "2022-03-21",
-      "end_date": null
+      "title_or_role": "Chief Marketing Officer / Chief Commercial Officer",
+      "website": "https://arraytechinc.com/",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Honeywell International Inc.",
+      "ticker": "HON",
+      "exchange": "NASDAQ",
+      "website": "https://www.honeywell.com/",
+      "title_or_role": "Vice President, Brand Marketing",
+      "start_date": "2011",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Ralph Lauren Corporation",
+      "ticker": "RL",
+      "exchange": "NYSE",
+      "website": "https://www.ralphlauren.com/",
+      "title_or_role": "Leadership/Management role",
+      "start_date": "Prior to 2011",
+      "end_date": "Prior to 2011",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ericabrinker",
+      "person_name": "Erica Brinker",
+      "company_name": "Array Technologies, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

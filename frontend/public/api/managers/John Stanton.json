@@ -5,15 +5,76 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Microsoft Corporation",
-      "ticker": "MSFT",
+      "name": "Costco Wholesale Corporation",
+      "ticker": "COST",
       "exchange": "NASDAQ",
-      "website": "https://www.microsoft.com",
-      "title": "Independent Director",
-      "startDate": "2014-07-01",
+      "website": "https://www.costco.com",
+      "logoUrl": "/companies-assets/COST.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "October 2015",
       "endDate": null,
-      "formattedStartDate": "2014 July",
+      "formattedStartDate": "October 2015",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Trilogy International Partners Inc.",
+      "ticker": "TRL",
+      "exchange": "TSX",
+      "website": "https://www.trilogy-international.com",
+      "logoUrl": "/companies-assets/TRL.TSX.svg",
+      "title": "Founder and Chairman",
+      "startDate": "2005",
+      "endDate": "2022",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Clearwire Corporation",
+      "ticker": "CLWR",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Clearwire_logo.svg/512px-Clearwire_logo.svg.png",
+      "title": "Chairman of the Board / CEO",
+      "startDate": "2011",
+      "endDate": "2013",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "VoiceStream Wireless Corporation",
+      "ticker": "VSTR",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "https://logos-world.net/wp-content/uploads/2021/02/VoiceStream-Wireless-Logo.png",
+      "title": "Chairman and CEO",
+      "startDate": "1994",
+      "endDate": "2004",
+      "formattedStartDate": "1994",
+      "formattedEndDate": "2004"
+    },
+    {
+      "name": "Western Wireless Corporation",
+      "ticker": "WWCA",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0001/6763/brand.gif",
+      "title": "Founder, Chairman, and CEO",
+      "startDate": "1994",
+      "endDate": "2005",
+      "formattedStartDate": "1994",
+      "formattedEndDate": "2005"
+    },
+    {
+      "name": "Columbia Sportswear Company",
+      "ticker": "COLM",
+      "exchange": "NASDAQ",
+      "website": "https://www.columbia.com",
+      "logoUrl": "/companies-assets/COLM.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2004",
+      "endDate": "2020",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2020"
     }
   ],
   "investmentTheses": [

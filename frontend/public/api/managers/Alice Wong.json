@@ -6,35 +6,50 @@
   "companies": [
     {
       "name": "Cameco Corporation",
-      "ticker": "CCJ",
-      "exchange": "NYSE",
-      "website": "https://www.cameco.com",
-      "title": "Senior Vice-President and Chief Corporate Officer",
-      "startDate": "2011-07-01",
-      "endDate": null,
-      "formattedStartDate": "2011 July",
-      "formattedEndDate": ""
-    },
-    {
-      "name": "Cameco Corporation",
       "ticker": "CCO",
       "exchange": "TSX",
       "website": "https://www.cameco.com",
-      "title": "Senior Vice-President and Chief Corporate Officer",
-      "startDate": "2011-07-01",
+      "logoUrl": "/companies-assets/CCO.TSX.svg",
+      "title": "Senior Vice-President & Chief Corporate Officer",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2011 July",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     },
     {
       "name": "Denison Mines Corp.",
-      "ticker": "DNN",
-      "exchange": "NYSE",
-      "website": "https://denisonmines.com",
-      "title": "Independent Director",
-      "startDate": "2021-01-01",
+      "ticker": "DML",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2021 January",
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Precision Drilling Corporation",
+      "ticker": "PD",
+      "exchange": "TSX",
+      "website": "precisiondrilling.com",
+      "logoUrl": "/companies-assets/PD.TSX.svg",
+      "title": "Independent Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Hecla Mining Company",
+      "ticker": "HL",
+      "exchange": "NYSE",
+      "website": "hecla.com",
+      "logoUrl": "/companies-assets/HL.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
     }
   ],
@@ -42,7 +57,19 @@
     "Nuclear",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/alice-wong-b04051a",
+      "person_name": "Alice Wong",
+      "company_name": "Cameco Corporation",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1,
+      "profile_status": "private"
+    }
+  ],
   "committees": [
     "Environment, Health, Safety and Sustainability Committee"
   ],

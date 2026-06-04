@@ -9,17 +9,89 @@
       "ticker": "ELBM",
       "exchange": "TSX",
       "website": "https://electrabmc.com",
-      "title": "Chairman and Independent Director",
-      "startDate": "2017-05-01",
+      "logoUrl": "/companies-assets/ELBM.TSX.svg",
+      "title": "Director",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2017 May",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Lithium Argentina Corp.",
+      "ticker": "LAAC",
+      "exchange": "TSX",
+      "website": "https://www.lithium-argentina.com/",
+      "logoUrl": "/companies-assets/LAAC.TSX.svg",
+      "title": "Director",
+      "startDate": "2011",
+      "endDate": null,
+      "formattedStartDate": "2011",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Lithium Royalty Corp.",
+      "ticker": "LIRC",
+      "exchange": "TSX",
+      "website": "lithiumroyaltycorp.com",
+      "logoUrl": "/companies-assets/LIRC.TSX.svg",
+      "title": "Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Amerigo Resources Ltd.",
+      "ticker": "ARG",
+      "exchange": "TSX",
+      "website": "amerigoresources.com",
+      "logoUrl": "/companies-assets/ARG.TSX.svg",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Heliostar Metals Corp.",
+      "ticker": "HSTR",
+      "exchange": "TSXV",
+      "website": "https://www.heliostarmetals.com",
+      "logoUrl": "/companies-assets/HSTR.TSXV.svg",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Lithium Americas Corp.",
+      "ticker": "LAC",
+      "exchange": "TSX/NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Vice Chair",
+      "startDate": "2015",
+      "endDate": "2023",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2023"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/john-kanellitsas-1537a2111",
+      "person_name": "John Kanellitsas",
+      "company_name": "Lithium Americas Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"

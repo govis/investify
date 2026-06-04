@@ -5,14 +5,39 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Textron Inc.",
-      "ticker": "TXT",
+      "name": "Cardinal Health, Inc.",
+      "ticker": "CAH",
       "exchange": "NYSE",
-      "website": "https://www.textron.com",
+      "website": "https://www.cardinalhealth.com",
+      "logoUrl": "/companies-assets/CAH.NYSE.svg",
+      "title": "Chairman and Chief Executive Officer",
+      "startDate": "April 2006",
+      "endDate": "September 1, 2009",
+      "formattedStartDate": "April 2006",
+      "formattedEndDate": "September 1, 2009"
+    },
+    {
+      "name": "General Mills, Inc.",
+      "ticker": "GIS",
+      "exchange": "NYSE",
+      "website": "https://www.generalmills.com",
+      "logoUrl": "/companies-assets/GIS.NYSE.svg",
       "title": "Director",
-      "startDate": "2003-01-01",
+      "startDate": "2009",
       "endDate": null,
-      "formattedStartDate": "2003 January",
+      "formattedStartDate": "2009",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Elevance Health, Inc.",
+      "ticker": "ELV",
+      "exchange": "NYSE",
+      "website": "https://www.elevancehealth.com",
+      "logoUrl": "/companies-assets/ELV.NYSE.svg",
+      "title": "Director",
+      "startDate": "2006",
+      "endDate": null,
+      "formattedStartDate": "2006",
       "formattedEndDate": ""
     }
   ],

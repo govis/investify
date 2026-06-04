@@ -6,20 +6,44 @@
   "companies": [
     {
       "name": "Sibanye Stillwater Limited",
-      "ticker": "SBSW",
-      "exchange": "NYSE",
-      "website": "https://www.sibanyestillwater.com",
-      "title": "Chairman and Independent Non-Executive Director",
+      "ticker": "SSW (JSE), SBSW (NYSE)",
+      "exchange": "JSE (Johannesburg Stock Exchange), NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Chairman of the Board",
       "startDate": "2019-06-01",
       "endDate": null,
-      "formattedStartDate": "2019 June",
+      "formattedStartDate": "June 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Stadio Holdings Limited",
+      "ticker": "SDO",
+      "exchange": "JSE (Johannesburg Stock Exchange)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Non-Executive Director",
+      "startDate": "2020-07-16",
+      "endDate": null,
+      "formattedStartDate": "July 2020",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://za.linkedin.com/in/vincent-maphai-24324015",
+      "person_name": "Vincent Maphai",
+      "company_name": "Sibanye Stillwater Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Nomination Committee"
   ],

@@ -6,19 +6,55 @@
   "age_year": 2023,
   "background": "Mr. Farnsworth has served as our Executive Vice President and Chief Financial Officer since July 2023. He previously served as CFO of Raytheon Technologies' Intelligence & Space business and held various senior finance roles at Raytheon Company.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Mercury Systems, Inc.",
       "ticker": "MRCY",
       "exchange": "NASDAQ",
-      "title_or_role": "Executive Vice President and Chief Financial Officer",
-      "start_date": "2023-07-01",
-      "end_date": null
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://www.mrcy.com",
+      "start_date": "2023-07-17",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Raytheon Company",
+      "ticker": "RTN (Historical)",
+      "exchange": "NYSE (Historical)",
+      "website": "https://www.rtx.com",
+      "title_or_role": "VP and CFO, Integrated Defense Systems; VP and CFO, Intelligence, Information and Services",
+      "start_date": "2007",
+      "end_date": "2020-04",
+      "validated": true
+    },
+    {
+      "name": "V2X, Inc.",
+      "ticker": "VVX",
+      "exchange": "NYSE",
+      "website": "https://gov2x.com",
+      "title_or_role": "Board Member",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/david-farnsworth-6391267",
+      "person_name": "David Farnsworth",
+      "company_name": "Mercury Systems, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

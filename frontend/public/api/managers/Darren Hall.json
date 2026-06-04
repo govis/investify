@@ -9,11 +9,24 @@
       "ticker": "CXB",
       "exchange": "TSX",
       "website": "https://calibremining.com",
-      "title": "Director, President and Chief Executive Officer",
-      "startDate": "2020-10-31",
-      "endDate": null,
-      "formattedStartDate": "2020 October",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/CXB.TSX.svg",
+      "title": "President and Chief Executive Officer",
+      "startDate": "2021",
+      "endDate": "2025",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "Equinox Gold Corp.",
+      "ticker": "EQX",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and Chief Operating Officer",
+      "startDate": "Prior to July 2025",
+      "endDate": "July 22, 2025",
+      "formattedStartDate": "July 2025",
+      "formattedEndDate": "July 22, 2025"
     }
   ],
   "investmentTheses": [

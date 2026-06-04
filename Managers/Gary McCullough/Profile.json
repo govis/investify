@@ -6,22 +6,57 @@
   "age_year": 2024,
   "background": "Former President and CEO of ARI Packaging, Inc.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Nominating and Corporate Governance Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "TransDigm Group Incorporated",
       "ticker": "TDG",
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
+      "website": "https://www.transdigm.com",
       "start_date": "2017-10-01",
       "end_date": null
+    },
+    {
+      "name": "Commercial Metals Company",
+      "ticker": "CMC",
+      "exchange": "NYSE",
+      "website": "https://www.cmc.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2021-09-08",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Career Education Corporation (now Perdoceo Education Corporation)",
+      "ticker": "PRDO",
+      "exchange": "NASDAQ",
+      "website": "https://www.perdoceo.com",
+      "title_or_role": "President, Chief Executive Officer, and Director",
+      "start_date": "2007",
+      "end_date": "2011",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gary-mccullough-7a5a5a10",
+      "person_name": "Gary McCullough",
+      "company_name": "TransDigm Group Incorporated",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

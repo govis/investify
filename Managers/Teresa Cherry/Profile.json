@@ -6,26 +6,35 @@
   "age_year": 2024,
   "background": "Ms. Cherry has over 20 years of experience in the mining industry and has held senior positions at several public companies. She is a Chartered Professional Accountant.",
   "picture_url": "https://careersinenergy.ca/wp-content/uploads/2023/11/Teresa-950-575x415.png",
+  "picture_local": "Picture.png",
+  "company_affiliations": [
+    {
+      "name": "Anfield Energy Inc.",
+      "ticker": "AEC",
+      "exchange": "TSXV",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://anfieldenergy.com/",
+      "start_date": "2021-07-01",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
   "socials": [
     {
       "name": "LinkedIn",
-      "url": "https://www.linkedin.com/in/teresa-cherry-1950561"
+      "url": "https://www.linkedin.com/in/teresa-cherry-1950561",
+      "person_name": "Teresa Cherry",
+      "company_name": "Anfield Energy Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
   ],
   "committees": [],
-  "companies": [
-    {
-      "name": "Anfield Energy Inc.",
-      "ticker": "AEC",
-      "exchange": "TSX",
-      "title_or_role": "Chief Financial Officer",
-      "start_date": "2015-01-01",
-      "end_date": null
-    }
-  ],
-  "picture_local": "Picture.png",
-  "enrichment_status": "success"
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

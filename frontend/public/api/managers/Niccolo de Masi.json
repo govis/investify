@@ -9,17 +9,125 @@
       "ticker": "PL",
       "exchange": "NYSE",
       "website": "https://www.planet.com",
+      "logoUrl": "/companies-assets/PL.NYSE.svg",
       "title": "Director",
-      "startDate": "2021-12-01",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2021 December",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "IonQ, Inc.",
+      "ticker": "IONQ",
+      "exchange": "NYSE",
+      "website": "ionq.com",
+      "logoUrl": "/companies-assets/IONQ.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Glu Mobile Inc.",
+      "ticker": "GLUU",
+      "exchange": "NASDAQ",
+      "website": "glu.com",
+      "logoUrl": "/companies-assets/GLUU.NASDAQ.png",
+      "title": "CEO",
+      "startDate": "2010",
+      "endDate": "2016",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "dMY Technology Group, Inc.",
+      "ticker": "DMY",
+      "exchange": "NYSE",
+      "website": "dmytechnology.com",
+      "logoUrl": "/companies-assets/DMY.NYSE.png",
+      "title": "CEO & Director",
+      "startDate": "2020",
+      "endDate": "2021",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "dMY Technology Group, Inc. II",
+      "ticker": "DMYD",
+      "exchange": "NYSE",
+      "website": "https://www.dmytechnology.com",
+      "logoUrl": "/companies-assets/DMYD.NYSE.png",
+      "title": "CEO & Director",
+      "startDate": "2020",
+      "endDate": "2021",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "dMY Technology Group, Inc. III",
+      "ticker": "DMYI",
+      "exchange": "NYSE",
+      "website": "https://www.dmytechnology.com",
+      "logoUrl": "/companies-assets/DMYI.NYSE.png",
+      "title": "CEO & Director",
+      "startDate": "2020",
+      "endDate": "2021",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "dMY Technology Group, Inc. IV",
+      "ticker": "DMYQ",
+      "exchange": "NYSE",
+      "website": "dmytechnology.com",
+      "logoUrl": "/companies-assets/DMYQ.NYSE.png",
+      "title": "CEO & Director",
+      "startDate": "2021",
+      "endDate": "2022",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "dMY Technology Group, Inc. V",
+      "ticker": "DMYV",
+      "exchange": "NYSE",
+      "website": "dmytechnology.com",
+      "logoUrl": "/companies-assets/DMYV.NYSE.png",
+      "title": "CEO & Director",
+      "startDate": "2021",
+      "endDate": "2022",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "dMY Technology Group, Inc. VI",
+      "ticker": "DMYS",
+      "exchange": "NYSE",
+      "website": "dmytechnology.com",
+      "logoUrl": "/companies-assets/DMYS.NYSE.png",
+      "title": "CEO & Director",
+      "startDate": "2021",
+      "endDate": "2023",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2023"
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/niccolo-de-masi-25929914",
+      "person_name": "Niccolo de Masi",
+      "company_name": "dMY Technology Group",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

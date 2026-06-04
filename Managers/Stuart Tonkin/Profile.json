@@ -6,19 +6,55 @@
   "age_year": 2024,
   "background": "Mr Tonkin is a mining engineer with more than 25 years\u2019 experience as a senior executive in the mining industry. He has held various operational and management roles with Oxiana and Newmont. He was previously Chief Operating Officer at Northern Star.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Northern Star Resources Limited",
       "ticker": "NST",
       "exchange": "ASX",
-      "title_or_role": "Managing Director and Chief Executive Officer",
-      "start_date": "2021-07-22",
-      "end_date": null
+      "title_or_role": "Managing Director & Chief Executive Officer",
+      "website": "https://www.nsrltd.com",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Oxiana Ltd (now OZ Minerals)",
+      "ticker": "OXR",
+      "exchange": "ASX",
+      "website": null,
+      "title_or_role": "Senior Leadership Role",
+      "start_date": null,
+      "end_date": null,
+      "validated": false
+    },
+    {
+      "name": "Newmont Corporation",
+      "ticker": "NEM",
+      "exchange": "NYSE",
+      "website": "https://www.newmont.com",
+      "title_or_role": "Senior Leadership Role",
+      "start_date": null,
+      "end_date": null,
+      "validated": false
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/stuart-tonkin-723b59165",
+      "person_name": "Stuart Tonkin",
+      "company_name": "Northern Star Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

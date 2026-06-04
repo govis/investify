@@ -9,18 +9,66 @@
       "ticker": "WOLF",
       "exchange": "NYSE",
       "website": "https://www.wolfspeed.com",
-      "title": "Independent Director",
-      "startDate": "2014-01-01",
+      "logoUrl": "/companies-assets/WOLF.NYSE.svg",
+      "title": "Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2014 January",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Crocs, Inc.",
+      "ticker": "CROX",
+      "exchange": "NASDAQ",
+      "website": "https://investors.crocs.com",
+      "logoUrl": "/companies-assets/CROX.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "January 1, 2024",
+      "endDate": null,
+      "formattedStartDate": "January 1, 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Grove Collaborative Holdings, Inc.",
+      "ticker": "GROV",
+      "exchange": "NYSE",
+      "website": "https://www.grove.co",
+      "logoUrl": "/companies-assets/GROV.NYSE.svg",
+      "title": "Director and Chairman of the Board",
+      "startDate": "February 2022",
+      "endDate": null,
+      "formattedStartDate": "February 2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sealy Corporation",
+      "ticker": "ZZ (Delisted/Acquired)",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Director",
+      "startDate": "September 28, 2010",
+      "endDate": "2013 (Company acquisition)",
+      "formattedStartDate": "September 28, 2010",
+      "formattedEndDate": "2013 (Company acquisition)"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/johnbreplogle",
+      "person_name": "John Replogle",
+      "company_name": "Wolfspeed, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"

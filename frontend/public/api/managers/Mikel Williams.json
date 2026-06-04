@@ -7,19 +7,55 @@
     {
       "name": "Centrus Energy Corp.",
       "ticker": "LEU",
-      "exchange": "NYSE",
-      "website": "https://www.centrusenergy.com",
-      "title": "Chairman of the Board",
-      "startDate": "2014-01-01",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2013",
       "endDate": null,
-      "formattedStartDate": "2014 January",
+      "formattedStartDate": "2013",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Sonim Technologies, Inc.",
+      "ticker": "SONM",
+      "exchange": "NASDAQ",
+      "website": "https://www.sonimtech.com/",
+      "logoUrl": "/companies-assets/SONM.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "October 2017",
+      "endDate": "March 2019",
+      "formattedStartDate": "October 2017",
+      "formattedEndDate": "March 2019"
+    },
+    {
+      "name": "Tellabs, Inc.",
+      "ticker": "TLAB",
+      "exchange": "NASDAQ",
+      "website": "https://www.tellabs.com/",
+      "logoUrl": "/companies-assets/TLAB.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "December 2012",
+      "endDate": "2013",
+      "formattedStartDate": "December 2012",
+      "formattedEndDate": "2013"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mikel-williams-89b269136",
+      "person_name": "Mikel Williams",
+      "company_name": "Centrus Energy Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"

@@ -7,19 +7,43 @@
     {
       "name": "Snowline Gold Corp.",
       "ticker": "SGD",
-      "exchange": "TSX",
-      "website": "https://snowlinegold.com",
-      "title": "Independent Director",
-      "startDate": "2024-01-15",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "President & Director",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2024 January",
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Lithium Argentina Corp.",
+      "ticker": "LAAC",
+      "exchange": "TSX",
+      "website": "https://www.lithium-argentina.com/",
+      "logoUrl": "/companies-assets/LAAC.TSX.svg",
+      "title": "Independent Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/calum-morrison-cfa-cpa-4a5a5a25",
+      "person_name": "Calum Morrison",
+      "company_name": "Snowline Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Corporate Governance and Nominating Committee"
   ],

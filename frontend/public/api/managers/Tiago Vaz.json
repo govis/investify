@@ -6,13 +6,14 @@
   "companies": [
     {
       "name": "Aura Minerals Inc.",
-      "ticker": "AUGO",
+      "ticker": "ORA",
       "exchange": "TSX",
-      "website": "https://auraminerals.com/",
-      "title": "Chief Operating Officer",
-      "startDate": "2022-01-01",
+      "website": null,
+      "logoUrl": null,
+      "title": "Not publicly specified",
+      "startDate": "Not publicly specified",
       "endDate": null,
-      "formattedStartDate": "2022 January",
+      "formattedStartDate": "Not publicly specified",
       "formattedEndDate": ""
     }
   ],

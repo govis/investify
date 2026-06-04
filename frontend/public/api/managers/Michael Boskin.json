@@ -7,12 +7,73 @@
     {
       "name": "Oracle Corporation",
       "ticker": "ORCL",
-      "exchange": "NYSE",
-      "website": "https://www.oracle.com",
-      "title": "Independent Director",
-      "startDate": "1994-04-01",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "1994",
       "endDate": null,
-      "formattedStartDate": "1994 April",
+      "formattedStartDate": "1994",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Bloom Energy Corporation",
+      "ticker": "BE",
+      "exchange": "NYSE",
+      "website": "https://www.bloomenergy.com",
+      "logoUrl": "/companies-assets/BE.NYSE.svg",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Exxon Mobil Corporation",
+      "ticker": "XOM",
+      "exchange": "NYSE",
+      "website": "https://www.exxonmobil.com",
+      "logoUrl": "/companies-assets/XOM.NYSE.svg",
+      "title": "Director",
+      "startDate": "1996",
+      "endDate": "2021",
+      "formattedStartDate": "1996",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Vodafone Group PLC",
+      "ticker": "VOD",
+      "exchange": "LSE",
+      "website": "https://www.vodafone.com",
+      "logoUrl": "/companies-assets/VOD.LSE.svg",
+      "title": "Director",
+      "startDate": "1999",
+      "endDate": "2008",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2008"
+    },
+    {
+      "name": "AirTouch Communications, Inc.",
+      "ticker": "ATI",
+      "exchange": "NYSE",
+      "website": "https://www.atimaterials.com",
+      "logoUrl": "/companies-assets/ATI.NYSE.png",
+      "title": "Director",
+      "startDate": "1996",
+      "endDate": "1999",
+      "formattedStartDate": "1996",
+      "formattedEndDate": "1999"
+    },
+    {
+      "name": "Shinsei Bank",
+      "ticker": "8303",
+      "exchange": "TSE",
+      "website": "https://www.sbishinseibank.co.jp",
+      "logoUrl": "/companies-assets/8303.TSE.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +81,18 @@
     "AI",
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michael-boskin-4a5b2a12",
+      "person_name": "Michael Boskin",
+      "company_name": "Stanford University",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Nomination and Governance Committee"
   ],

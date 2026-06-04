@@ -9,11 +9,48 @@
       "ticker": "MRVL",
       "exchange": "NASDAQ",
       "website": "https://www.marvell.com",
-      "title": "Chief Administration Officer",
-      "startDate": "2023-01-01",
+      "logoUrl": "/companies-assets/MRVL.NASDAQ.svg",
+      "title": "Executive Vice President, Chief Administrative Officer, Chief Legal Officer, and Secretary",
+      "startDate": "2016",
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Juniper Networks, Inc.",
+      "ticker": "JNPR",
+      "exchange": "NYSE",
+      "website": "https://www.juniper.net",
+      "logoUrl": "/companies-assets/JNPR.NYSE.svg",
+      "title": "Executive Vice President, General Counsel, and Secretary",
+      "startDate": "2004",
+      "endDate": "2015",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Portal Software, Inc.",
+      "ticker": "PRSF",
+      "exchange": "NASDAQ",
+      "website": "N/A",
+      "logoUrl": "https://seeklogo.com/images/P/portal-software-logo-3580544528-seeklogo.com.png",
+      "title": "Vice President and General Counsel",
+      "startDate": "Prior to 2004",
+      "endDate": "2004",
+      "formattedStartDate": "Prior to 2004",
+      "formattedEndDate": "2004"
+    },
+    {
+      "name": "Sybase, Inc.",
+      "ticker": "SY",
+      "exchange": "NYSE",
+      "website": "N/A",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sybase_logo_full.svg/1280px-Sybase_logo_full.svg.png",
+      "title": "General Counsel",
+      "startDate": "Prior to 1998",
+      "endDate": "Prior to 2004",
+      "formattedStartDate": "Prior to 1998",
+      "formattedEndDate": "Prior to 2004"
     }
   ],
   "investmentTheses": [

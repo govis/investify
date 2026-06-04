@@ -6,13 +6,14 @@
   "companies": [
     {
       "name": "Deep Yellow Limited",
-      "ticker": "DYL",
-      "exchange": "ASX",
-      "website": "https://deepyellow.com.au",
+      "ticker": "DYLLF",
+      "exchange": "OTCQX",
+      "website": null,
+      "logoUrl": null,
       "title": "Non-Executive Director",
-      "startDate": "2023-10-20",
+      "startDate": "October 2022",
       "endDate": null,
-      "formattedStartDate": "2023 October",
+      "formattedStartDate": "October 2022",
       "formattedEndDate": ""
     }
   ],

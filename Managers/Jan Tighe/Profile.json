@@ -6,24 +6,50 @@
   "age_year": 2024,
   "background": "Retired Vice Admiral, United States Navy.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "ticker": "GS",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.goldmansachs.com",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "website": "https://www.gm.com",
+      "title_or_role": "Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jan-tighe-367550155",
+      "person_name": "Jan Tighe",
+      "company_name": "The Goldman Sachs Group, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit",
     "Governance",
     "Risk"
   ],
-  "companies": [
-    {
-      "name": "The Goldman Sachs Group, Inc.",
-      "ticker": "GS",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2018-12-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

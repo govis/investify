@@ -5,14 +5,15 @@
   "pictureUrl": "https://assets.entrepreneur.com/content/3x2/2000/1733259737-apple-ceo-tim-cook-1224-g-2171029311.jpg",
   "companies": [
     {
-      "name": "Apple Inc.",
-      "ticker": "AAPL",
-      "exchange": "NASDAQ",
-      "website": "https://www.apple.com",
-      "title": "Chief Executive Officer, Director",
-      "startDate": "2011-08-24",
+      "name": "Nike, Inc.",
+      "ticker": "NKE",
+      "exchange": "NYSE",
+      "website": "https://www.nike.com",
+      "logoUrl": "/companies-assets/NKE.NYSE.svg",
+      "title": "Director / Lead Independent Director",
+      "startDate": "2005",
       "endDate": null,
-      "formattedStartDate": "2011 August",
+      "formattedStartDate": "2005",
       "formattedEndDate": ""
     }
   ],
@@ -21,11 +22,7 @@
   ],
   "socials": [
     {
-      "name": "LinkedIn",
-      "url": "https://www.linkedin.com/in/timhcook"
-    },
-    {
-      "name": "X (Twitter)",
+      "name": "Tim Cook",
       "url": "https://x.com/tim_cook"
     }
   ],

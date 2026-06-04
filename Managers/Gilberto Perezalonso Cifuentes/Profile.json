@@ -6,23 +6,69 @@
   "age_year": 2024,
   "background": "Director since 2002. Former CEO of Aeromexico and former CFO of Grupo Televisa.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Southern Copper Corporation",
+      "ticker": "SCCO",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.southerncopper.com",
+      "start_date": "June 2002",
+      "end_date": "October 16, 2024",
+      "validated": true
+    },
+    {
+      "name": "Controladora Vuela Compa\u00f1\u00eda de Aviaci\u00f3n, S.A.B. de C.V. (Volaris)",
+      "ticker": "VLRS",
+      "exchange": "NYSE",
+      "website": "https://ir.volaris.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2011",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Grupo Aerom\u00e9xico, S.A.B. de C.V.",
+      "ticker": "AEROMEX",
+      "exchange": "BMV",
+      "website": "https://aeromexico.com",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2004",
+      "end_date": "2005",
+      "validated": true
+    },
+    {
+      "name": "Grupo Televisa, S.A.B.",
+      "ticker": "TV",
+      "exchange": "NYSE",
+      "website": "https://www.televisair.com",
+      "title_or_role": "Executive Vice President of Administration and Finance",
+      "start_date": "1998",
+      "end_date": "2001",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gilberto-perezalonso-cifuentes-5a5b5a1a",
+      "person_name": "Gilberto Perezalonso Cifuentes",
+      "company_name": "Southern Copper Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "Southern Copper Corporation",
-      "ticker": "SCCO",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2002-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

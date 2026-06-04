@@ -9,17 +9,29 @@
       "ticker": "GXU",
       "exchange": "TSXV",
       "website": "https://www.goviex.com",
+      "logoUrl": "/companies-assets/GXU.TSXV.svg",
       "title": "Chief Geologist",
-      "startDate": "2010-01-01",
+      "startDate": "2014",
       "endDate": null,
-      "formattedStartDate": "2010 January",
+      "formattedStartDate": "2014",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://mu.linkedin.com/in/jeromerandabel/fr",
+      "person_name": "Jerome Randabel",
+      "company_name": "GoviEx Uranium Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 55,
   "ageYear": 2024

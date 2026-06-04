@@ -9,17 +9,41 @@
       "ticker": "TXT",
       "exchange": "NYSE",
       "website": "https://www.textron.com",
-      "title": "Director",
-      "startDate": "2022-01-01",
+      "logoUrl": "/companies-assets/TXT.NYSE.svg",
+      "title": "Director (Board of Directors)",
+      "startDate": "March 2022",
       "endDate": null,
-      "formattedStartDate": "2022 January",
+      "formattedStartDate": "March 2022",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Lockheed Martin Corporation",
+      "ticker": "LMT",
+      "exchange": "NYSE",
+      "website": "https://www.lockheedmartin.com",
+      "logoUrl": "/companies-assets/LMT.NYSE.svg",
+      "title": "Executive Vice President, Space",
+      "startDate": "~2002",
+      "endDate": "March 1, 2022",
+      "formattedStartDate": "~2002",
+      "formattedEndDate": "March 1, 2022"
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/richard-ambrose-98a4088",
+      "person_name": "Richard Ambrose",
+      "company_name": "Lockheed Martin Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Organization and Compensation Committee"

@@ -7,19 +7,43 @@
     {
       "name": "Atha Energy Corp.",
       "ticker": "SASK",
-      "exchange": "TSX",
-      "website": "https://www.athaenergy.com",
-      "title": "Chief Financial Officer",
-      "startDate": "2023-01-12",
+      "exchange": "CSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Financial Officer (CFO)",
+      "startDate": null,
+      "endDate": "2024-11-06",
+      "formattedStartDate": "",
+      "formattedEndDate": "November 2024"
+    },
+    {
+      "name": "Buffalo Potash Corp.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Financial Officer (CFO)",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/akash-patel-8488a011",
+      "person_name": "Akash Patel",
+      "company_name": "Buffalo Potash Corp.",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1
+    }
+  ],
   "committees": [],
   "age": 38,
   "ageYear": 2024

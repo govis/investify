@@ -2,18 +2,31 @@
   "id": "Renato Bacchi",
   "name": "Renato Bacchi",
   "background": "Renato Bacchi is Executive Vice President and Chief Commercial Officer. He joined Alcoa in 1997 and has held leadership positions in energy, treasury, and business development.",
-  "pictureUrl": "https://cdn.theorg.com/8eb6b880-9912-447f-b2bc-5497d8c4c456_thumb.jpg",
+  "pictureUrl": "/managers-assets/Renato Bacchi.jpg",
   "companies": [
     {
       "name": "Alcoa Corporation",
       "ticker": "AA",
       "exchange": "NYSE",
       "website": "https://www.alcoa.com",
-      "title": "Executive Vice President and Chief Commercial Officer",
-      "startDate": "2023-02-01",
-      "endDate": null,
-      "formattedStartDate": "2023 February",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/AA.NYSE.svg",
+      "title": "Executive Vice President and Chief Strategy Officer",
+      "startDate": "2022",
+      "endDate": "July 31, 2023",
+      "formattedStartDate": "2022",
+      "formattedEndDate": "July 31, 2023"
+    },
+    {
+      "name": "Alcoa Inc. (Predecessor entity)",
+      "ticker": "AA (Historical)",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Corporate Controller and Treasurer (Various roles)",
+      "startDate": "1997",
+      "endDate": "2016",
+      "formattedStartDate": "1997",
+      "formattedEndDate": "2016"
     }
   ],
   "investmentTheses": [
@@ -21,8 +34,14 @@
   ],
   "socials": [
     {
+      "name": "LinkedIn",
       "url": "https://www.linkedin.com/in/renato-bacchi-6a14864",
-      "name": "LinkedIn"
+      "person_name": "Renato Bacchi",
+      "company_name": "Alcoa Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
   ],
   "committees": [],

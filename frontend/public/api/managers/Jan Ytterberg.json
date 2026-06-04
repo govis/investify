@@ -9,11 +9,24 @@
       "ticker": "VOLV-B",
       "exchange": "STO",
       "website": "https://www.volvogroup.com",
-      "title": "Senior Advisor",
-      "startDate": "2023-06-16",
+      "logoUrl": "/companies-assets/VOLV-B.STO.svg",
+      "title": "Executive Vice President & Chief Financial Officer",
+      "startDate": "2018",
       "endDate": null,
-      "formattedStartDate": "2023 June",
+      "formattedStartDate": "2018",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Husqvarna AB",
+      "ticker": "HUSQ-B",
+      "exchange": "STO",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Vice President & Chief Financial Officer",
+      "startDate": "2008",
+      "endDate": "2018",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2018"
     }
   ],
   "investmentTheses": [

@@ -9,17 +9,77 @@
       "ticker": "PANW",
       "exchange": "NASDAQ",
       "website": "https://www.paloaltonetworks.com",
-      "title": "Chief Executive Officer and Chairman of the Board",
-      "startDate": "2018-06-01",
+      "logoUrl": "/companies-assets/PANW.NASDAQ.svg",
+      "title": "Chairman and Chief Executive Officer",
+      "startDate": "June 2018",
       "endDate": null,
-      "formattedStartDate": "2018 June",
+      "formattedStartDate": "June 2018",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Uber Technologies, Inc.",
+      "ticker": "UBER",
+      "exchange": "NYSE",
+      "website": "https://www.uber.com",
+      "logoUrl": "/companies-assets/UBER.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "May 2024",
+      "endDate": null,
+      "formattedStartDate": "May 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Compagnie Financière Richemont S.A.",
+      "ticker": "CFR",
+      "exchange": "SIX Swiss Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Director",
+      "startDate": "September 2017",
+      "endDate": null,
+      "formattedStartDate": "September 2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "SoftBank Group Corp.",
+      "ticker": "9984",
+      "exchange": "Tokyo Stock Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and Chief Operating Officer",
+      "startDate": "October 2014",
+      "endDate": "June 2016",
+      "formattedStartDate": "October 2014",
+      "formattedEndDate": "June 2016"
+    },
+    {
+      "name": "Alphabet Inc.",
+      "ticker": "GOOGL",
+      "exchange": "NASDAQ",
+      "website": "https://abc.xyz",
+      "logoUrl": "/companies-assets/GOOGL.NASDAQ.svg",
+      "title": "Senior Vice President and Chief Business Officer",
+      "startDate": "2004",
+      "endDate": "2014",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2014"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/nikesh-arora-02894670",
+      "person_name": "Nikesh Arora",
+      "company_name": "Palo Alto Networks",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 56,
   "ageYear": 2024

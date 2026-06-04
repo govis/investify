@@ -9,10 +9,95 @@
       "ticker": "AMZN",
       "exchange": "NASDAQ",
       "website": "https://www.amazon.com",
+      "logoUrl": "/companies-assets/AMZN.NASDAQ.svg",
       "title": "Director",
-      "startDate": "2023-09-01",
+      "startDate": "2017",
       "endDate": null,
-      "formattedStartDate": "2023 September",
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Intuit Inc.",
+      "ticker": "INTU",
+      "exchange": "NASDAQ",
+      "website": "intuit.com",
+      "logoUrl": "/companies-assets/INTU.NASDAQ.svg",
+      "title": "CEO",
+      "startDate": "2008",
+      "endDate": "2018",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Nordstrom, Inc.",
+      "ticker": "JWN",
+      "exchange": "NYSE",
+      "website": "nordstrom.com",
+      "logoUrl": "/companies-assets/JWN.NYSE.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": "2022",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Momentive Global Inc. (formerly SurveyMonkey)",
+      "ticker": "MNTV",
+      "exchange": "NASDAQ",
+      "website": "momentive.ai",
+      "logoUrl": "/companies-assets/MNTV.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": "2022",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Humana Inc.",
+      "ticker": "HUM",
+      "exchange": "NYSE",
+      "website": "humana.com",
+      "logoUrl": "/companies-assets/HUM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2022",
+      "endDate": "2025",
+      "formattedStartDate": "2022",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "ticker": "JPM",
+      "exchange": "NYSE",
+      "website": "https://www.jpmorganchase.com",
+      "logoUrl": "/companies-assets/JPM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "https://www.microsoft.com",
+      "logoUrl": "/companies-assets/MSFT.NASDAQ.svg",
+      "title": "Vice Chair and President",
+      "startDate": "2002",
+      "endDate": null,
+      "formattedStartDate": "2002",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Netflix, Inc.",
+      "ticker": "NFLX",
+      "exchange": "NASDAQ",
+      "website": "netflix.com",
+      "logoUrl": "/companies-assets/NFLX.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +105,18 @@
     "AI",
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/braddsmith",
+      "person_name": "Brad D. Smith",
+      "company_name": "Marshall University",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

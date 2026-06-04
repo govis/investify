@@ -9,17 +9,53 @@
       "ticker": "DELL",
       "exchange": "NYSE",
       "website": "https://www.dell.com",
-      "title": "Chairman of the Board, Chief Executive Officer",
-      "startDate": "1984-01-01",
+      "logoUrl": "/companies-assets/DELL.NYSE.svg",
+      "title": "Founder, Chairman, and CEO",
+      "startDate": "1984",
       "endDate": null,
-      "formattedStartDate": "1984 January",
+      "formattedStartDate": "1984",
       "formattedEndDate": ""
+    },
+    {
+      "name": "VMware, Inc.",
+      "ticker": "VMW",
+      "exchange": "NYSE",
+      "website": "https://www.vmware.com",
+      "logoUrl": "/companies-assets/VMW.NYSE.svg",
+      "title": "Chairman of the Board of Directors",
+      "startDate": "2016",
+      "endDate": "2021",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Secureworks Corp.",
+      "ticker": "SCWX",
+      "exchange": "NASDAQ",
+      "website": "https://www.secureworks.com",
+      "logoUrl": "/companies-assets/SCWX.NASDAQ.png",
+      "title": "Director and Non-Executive Chairman",
+      "startDate": "2016",
+      "endDate": "2024",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2024"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mdell",
+      "person_name": "Michael Dell",
+      "company_name": "Dell Technologies Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 59,
   "ageYear": 2024

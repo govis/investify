@@ -6,22 +6,38 @@
   "age_year": 2024,
   "background": "President Emerita of the Woods Hole Oceanographic Institution.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Public Issues and Contributions Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Exxon Mobil Corporation",
       "ticker": "XOM",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2017-02-01",
-      "end_date": null
+      "title_or_role": "Director (Board of Directors)",
+      "website": "https://corporate.exxonmobil.com/",
+      "start_date": "February 2017",
+      "end_date": "May 2024",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/susanjavery",
+      "person_name": "Susan Avery",
+      "company_name": "Exxon Mobil Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Public Issues and Contributions Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -6,22 +6,47 @@
   "age_year": 2024,
   "background": "Ms. Barnes is Executive Director of the Karsh Institute of Democracy at the University of Virginia. She was Director of the White House Domestic Policy Council.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Nominating and Corporate Governance Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Booz Allen Hamilton Holding Corporation",
       "ticker": "BAH",
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
+      "website": "https://www.boozallen.com",
       "start_date": "2015-01-01",
       "end_date": null
+    },
+    {
+      "name": "Ventas, Inc.",
+      "ticker": "VTR",
+      "exchange": "NYSE",
+      "website": "https://www.ventas-inc.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/melody-barnes-23b7446",
+      "person_name": "Melody Barnes",
+      "company_name": "University of Virginia",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

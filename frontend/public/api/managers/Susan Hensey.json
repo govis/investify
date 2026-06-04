@@ -3,19 +3,7 @@
   "name": "Susan Hensey",
   "background": "Former Partner at McKinsey & Company with over 30 years of experience in manufacturing and supply chain.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "QuantumScape Corporation",
-      "ticker": "QS",
-      "exchange": "NYSE",
-      "website": "https://www.quantumscape.com",
-      "title": "Independent Director",
-      "startDate": "2022-06-01",
-      "endDate": null,
-      "formattedStartDate": "2022 June",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "Electrification"
   ],

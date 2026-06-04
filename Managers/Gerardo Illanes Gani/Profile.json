@@ -6,19 +6,44 @@
   "age_year": 2024,
   "background": "Mr. Illanes joined the Company in 2006. He has served as our Chief Financial Officer since January 1, 2019. Previously, he served as our Vice President of Finance and as our Finance Manager. He is a Chilean citizen and holds a degree in industrial engineering from the Pontificia Universidad Cat\u00f3lica de Chile.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Sociedad Qu\u00edmica y Minera de Chile S.A.",
       "ticker": "SQM",
       "exchange": "NYSE",
       "title_or_role": "Chief Financial Officer",
+      "website": "https://www.sqm.com",
       "start_date": "2019-01-01",
       "end_date": null
+    },
+    {
+      "name": "Sociedad Qu\u00edmica y Minera de Chile S.A. (SQM)",
+      "ticker": "SQM",
+      "exchange": "NYSE",
+      "website": "https://www.sqm.com/",
+      "title_or_role": "Chief Financial Officer (CFO) / Vice President of Corporate Finance",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://cl.linkedin.com/in/gerardo-illanes-3899a12b",
+      "person_name": "Gerardo Illanes Gani",
+      "company_name": "Sociedad Qu\u00edmica y Minera de Chile S.A. (SQM)",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

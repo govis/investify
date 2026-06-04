@@ -9,10 +9,11 @@
       "ticker": "BHP",
       "exchange": "ASX",
       "website": "https://www.bhp.com",
+      "logoUrl": "/companies-assets/BHP.ASX.svg",
       "title": "Chief Commercial Officer",
-      "startDate": "2024-03-01",
+      "startDate": "1997",
       "endDate": null,
-      "formattedStartDate": "2024 March",
+      "formattedStartDate": "1997",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +21,18 @@
     "Electrification",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://sg.linkedin.com/in/rag-udd-0a2b95145",
+      "person_name": "Rag Udd",
+      "company_name": "BHP",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 53,
   "ageYear": 2024

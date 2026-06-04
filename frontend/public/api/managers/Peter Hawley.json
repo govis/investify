@@ -5,15 +5,28 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "IsoEnergy Ltd.",
-      "ticker": "ISO",
-      "exchange": "TSX",
-      "website": "https://www.isoenergy.ca",
-      "title": "Independent Director",
-      "startDate": "2023-12-05",
+      "name": "Fabled Copper Corp.",
+      "ticker": "FABL",
+      "exchange": "CSE",
+      "website": "https://fabledcopper.org/",
+      "logoUrl": "https://fabledcopper.org/wp-content/uploads/2021/06/Fabled-Copper-Logo-1.png",
+      "title": "President and Chief Executive Officer",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2023 December",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Fabled Silver Gold Corp.",
+      "ticker": "FCO",
+      "exchange": "TSXV",
+      "website": "https://fabledcopper.org/",
+      "logoUrl": "https://fabledcopper.org/wp-content/uploads/2021/06/fabled-logo.png",
+      "title": "President and Chief Executive Officer",
+      "startDate": "2016",
+      "endDate": "2021",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2021"
     }
   ],
   "investmentTheses": [

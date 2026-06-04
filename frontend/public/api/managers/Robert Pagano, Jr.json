@@ -5,22 +5,58 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Eaton Corporation plc",
-      "ticker": "ETN",
+      "name": "Watts Water Technologies, Inc.",
+      "ticker": "WTS",
       "exchange": "NYSE",
-      "website": "https://www.eaton.com",
-      "title": "Independent Director",
-      "startDate": "2023-01-01",
+      "website": "https://www.wattswater.com",
+      "logoUrl": "/companies-assets/WTS.NYSE.svg",
+      "title": "President, Chief Executive Officer, and Chairperson of the Board",
+      "startDate": "2014",
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "2014",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Applied Industrial Technologies, Inc.",
+      "ticker": "AIT",
+      "exchange": "NYSE",
+      "website": "https://www.applied.com",
+      "logoUrl": "/companies-assets/AIT.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "August 2017",
+      "endDate": null,
+      "formattedStartDate": "August 2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "ITT Inc.",
+      "ticker": "ITT",
+      "exchange": "NYSE",
+      "website": "https://www.itt.com",
+      "logoUrl": "/companies-assets/ITT.NYSE.svg",
+      "title": "Executive",
+      "startDate": "Prior to 2014",
+      "endDate": "2014",
+      "formattedStartDate": "Prior to 2014",
+      "formattedEndDate": "2014"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/robert-pagano-jr-065b543",
+      "person_name": "Robert Pagano, Jr.",
+      "company_name": "Watts Water Technologies, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit",
     "Finance"

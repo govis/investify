@@ -5,14 +5,15 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Lam Research Corporation",
-      "ticker": "LRCX",
+      "name": "Lattice Semiconductor Corporation",
+      "ticker": "LSCC",
       "exchange": "NASDAQ",
-      "website": "https://www.lamresearch.com",
-      "title": "Executive Vice President and Chief Financial Officer",
-      "startDate": "2013-03-01",
+      "website": "https://www.latticesemi.com",
+      "logoUrl": "/companies-assets/LSCC.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "December 2, 2022",
       "endDate": null,
-      "formattedStartDate": "2013 March",
+      "formattedStartDate": "December 2, 2022",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +21,18 @@
     "AI",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/douglas-bettinger-849496197",
+      "person_name": "Douglas Bettinger",
+      "company_name": "Lam Research Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 57,
   "ageYear": 2024

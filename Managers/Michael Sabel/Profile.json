@@ -6,19 +6,44 @@
   "age_year": 2024,
   "background": "Michael Sabel is the Executive Co-Chairman and Chief Executive Officer of Venture Global LNG. He has been a key figure in the company's development and strategic direction since its inception.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Venture Global LNG, Inc.",
       "ticker": "VG",
       "exchange": "NYSE",
       "title_or_role": "Executive Co-Chairman and Chief Executive Officer",
+      "website": "https://venturegloballng.com",
       "start_date": "2013-01-01",
       "end_date": null
+    },
+    {
+      "name": "First Sierra Financial, Inc.",
+      "ticker": "FSFI",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Executive Vice President",
+      "start_date": "Prior to 2000",
+      "end_date": "Prior to acquisition",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michael-sabel-4a5b2a1",
+      "person_name": "Michael Sabel",
+      "company_name": "Venture Global LNG, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

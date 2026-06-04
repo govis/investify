@@ -6,21 +6,57 @@
   "age_year": 2024,
   "background": "Former President and Chief Executive Officer of Convergys Corporation.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation and Organization Committee"
-  ],
-  "companies": [
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
     {
       "name": "United States Steel Corporation",
       "ticker": "X",
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
+      "website": "https://www.ussteel.com",
       "start_date": "2019-01-01",
       "end_date": null
+    },
+    {
+      "name": "Stanley Black & Decker, Inc.",
+      "ticker": "SWK",
+      "exchange": "NYSE",
+      "website": "https://www.stanleyblackanddecker.com",
+      "title_or_role": "Director (Member of the Board of Directors)",
+      "start_date": "December 2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Convergys Corporation",
+      "ticker": "CVG",
+      "exchange": "NYSE",
+      "website": "https://www.concentrix.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2012",
+      "end_date": "October 2018",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/andrea-ayers-1908",
+      "person_name": "Andrea Ayers",
+      "company_name": "United States Steel Corporation, Stanley Black & Decker, Inc., Convergys Corporation",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
+  "committees": [
+    "Compensation and Organization Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 0
 }

@@ -9,11 +9,24 @@
       "ticker": "META",
       "exchange": "NASDAQ",
       "website": "https://about.meta.com",
+      "logoUrl": "/companies-assets/META.NASDAQ.svg",
       "title": "Lead Independent Director",
-      "startDate": "2020-03-01",
+      "startDate": "March 2020",
       "endDate": null,
-      "formattedStartDate": "2020 March",
+      "formattedStartDate": "March 2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Time Warner Inc.",
+      "ticker": "TWX",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "/companies-assets/TWX.NYSE.svg",
+      "title": "Executive Vice President of Global Public Policy",
+      "startDate": "2001",
+      "endDate": "2005",
+      "formattedStartDate": "2001",
+      "formattedEndDate": "2005"
     }
   ],
   "investmentTheses": [

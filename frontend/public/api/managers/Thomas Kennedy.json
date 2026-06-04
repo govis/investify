@@ -9,11 +9,36 @@
       "ticker": "TXT",
       "exchange": "NYSE",
       "website": "https://www.textron.com",
-      "title": "Director",
-      "startDate": "2023-01-01",
+      "logoUrl": "/companies-assets/TXT.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "January 1, 2023",
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "January 1, 2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Raytheon Company",
+      "ticker": "RTX",
+      "exchange": "NYSE",
+      "website": "https://www.rtx.com",
+      "logoUrl": "/companies-assets/RTX.NYSE.svg",
+      "title": "Chief Executive Officer",
+      "startDate": "March 31, 2014",
+      "endDate": "April 2020",
+      "formattedStartDate": "March 31, 2014",
+      "formattedEndDate": "April 2020"
+    },
+    {
+      "name": "Raytheon Technologies Corporation",
+      "ticker": "RTX",
+      "exchange": "NYSE",
+      "website": "https://www.rtx.com",
+      "logoUrl": "/companies-assets/RTX.NYSE.svg",
+      "title": "Executive Chairman of the Board",
+      "startDate": "April 2020",
+      "endDate": "June 1, 2021",
+      "formattedStartDate": "April 2020",
+      "formattedEndDate": "June 1, 2021"
     }
   ],
   "investmentTheses": [

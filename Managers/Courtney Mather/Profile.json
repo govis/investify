@@ -6,6 +6,49 @@
   "age_year": 2024,
   "background": "Portfolio Manager at Icahn Capital LP.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Cheniere Energy, Inc.",
+      "ticker": "LNG",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.cheniere.com",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Caesars Entertainment, Inc.",
+      "ticker": "CZR",
+      "exchange": "NASDAQ",
+      "website": "https://www.caesars.com",
+      "title_or_role": "Director",
+      "start_date": "March 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Newell Brands Inc.",
+      "ticker": "NWL",
+      "exchange": "NASDAQ",
+      "website": "https://www.newellbrands.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "The Chemours Company",
+      "ticker": "CC",
+      "exchange": "NYSE",
+      "website": "https://www.chemours.com",
+      "title_or_role": "Director",
+      "start_date": "March 2025",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -14,14 +57,6 @@
     "Audit Committee",
     "Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "Cheniere Energy, Inc.",
-      "ticker": "LNG",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2015-12-28",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

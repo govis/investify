@@ -6,19 +6,65 @@
   "age_year": 2024,
   "background": "Mr. Konkin is a Professional Geologist with over 35 years of experience in exploration and mining. He was instrumental in the discovery of the Valley of the Kings deposit at Pretium Resources Inc. and has worked extensively in the Golden Triangle of British Columbia.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Tudor Gold Corp.",
       "ticker": "TUD",
+      "exchange": "TSXV",
+      "title_or_role": "President and CEO",
+      "website": "https://tudor-gold.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Goldstorm Metals Corp.",
+      "ticker": "GSTM",
+      "exchange": "TSXV",
+      "website": "https://goldstormmetals.com",
+      "title_or_role": "President and CEO",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Pretium Resources Inc.",
+      "ticker": "PVG",
       "exchange": "TSX",
-      "title_or_role": "Director, President and Chief Executive Officer",
-      "start_date": "2022-01-01",
-      "end_date": null
+      "website": "https://www.pretivm.com",
+      "title_or_role": "Project Manager",
+      "start_date": "2010",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Silver Standard Resources Inc.",
+      "ticker": "SSRM",
+      "exchange": "TSX",
+      "website": "https://ssrmining.com",
+      "title_or_role": "Exploration Manager",
+      "start_date": "1997",
+      "end_date": "2016",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ken-konkin-5a5b5a1a",
+      "person_name": "Ken Konkin",
+      "company_name": "Tudor Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

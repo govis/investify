@@ -2,24 +2,36 @@
   "id": "Augustus Collins",
   "name": "Augustus Collins",
   "background": "Major General Augustus L. Collins, Mississippi National Guard (Ret.), is the Chief Executive Officer of StudentFirst Academy and previously served as the Adjutant General of Mississippi.",
-  "pictureUrl": null,
+  "pictureUrl": "/managers-assets/Augustus Collins.jpg",
   "companies": [
     {
       "name": "Huntington Ingalls Industries, Inc.",
       "ticker": "HII",
       "exchange": "NYSE",
       "website": "https://www.hii.com",
-      "title": "Director",
-      "startDate": "2016-01-01",
+      "logoUrl": "/companies-assets/HII.NYSE.svg",
+      "title": "Director/Board Member",
+      "startDate": "2016-10-31",
       "endDate": null,
-      "formattedStartDate": "2016 January",
+      "formattedStartDate": "October 2016",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/augustus-collins-mba-0b2126250",
+      "person_name": "Augustus Collins",
+      "company_name": "Huntington Ingalls Industries, Inc.",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Governance and Policy Committee"

@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "ON Semiconductor Corporation",
-      "ticker": "ON",
+      "name": "Lumentum Holdings Inc.",
+      "ticker": "LITE",
       "exchange": "NASDAQ",
-      "website": "https://www.onsemi.com",
-      "title": "Executive Vice President and Chief Financial Officer",
-      "startDate": "2021-02-16",
+      "website": "https://www.lumentum.com",
+      "logoUrl": "/companies-assets/LITE.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2025-12-15",
       "endDate": null,
-      "formattedStartDate": "2021 February",
+      "formattedStartDate": "December 2025",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Cypress Semiconductor Corporation",
+      "ticker": "CY",
+      "exchange": "NASDAQ",
+      "website": "www.cypress.com",
+      "logoUrl": "/companies-assets/CY.NASDAQ.svg",
+      "title": "Chief Financial Officer",
+      "startDate": null,
+      "endDate": "2020-04-16",
+      "formattedStartDate": "",
+      "formattedEndDate": "April 2020"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/thad-trent-5824342",
+      "person_name": "Thad Trent",
+      "company_name": "ON Semiconductor Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 55,
   "ageYear": 2024

@@ -6,22 +6,58 @@
   "age_year": 2024,
   "background": "Mr. Williams has served as Chairman of the Board since 2021. He was previously the CEO of JPS Industries, Inc. and DDi Corp.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Centrus Energy Corp.",
+      "ticker": "LEU",
+      "exchange": "NYSE American",
+      "title_or_role": "Director",
+      "website": "https://www.centrusenergy.com/",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sonim Technologies, Inc.",
+      "ticker": "SONM",
+      "exchange": "NASDAQ",
+      "website": "https://www.sonimtech.com/",
+      "title_or_role": "Director",
+      "start_date": "October 2017",
+      "end_date": "March 2019",
+      "validated": true
+    },
+    {
+      "name": "Tellabs, Inc.",
+      "ticker": "TLAB",
+      "exchange": "NASDAQ",
+      "website": "https://www.tellabs.com/",
+      "title_or_role": "Director",
+      "start_date": "December 2012",
+      "end_date": "2013",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mikel-williams-89b269136",
+      "person_name": "Mikel Williams",
+      "company_name": "Centrus Energy Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Centrus Energy Corp.",
-      "ticker": "LEU",
-      "exchange": "NYSE",
-      "title_or_role": "Chairman of the Board",
-      "start_date": "2014-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

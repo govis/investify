@@ -6,19 +6,35 @@
   "age_year": 2024,
   "background": "Aymeric Chandavoine joined Maersk in 2011. He has held several leadership roles, including Head of Logistics & Services and Regional Managing Director for Greater China.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "A.P. M\u00f8ller - M\u00e6rsk A/S",
+      "ticker": "MAERSK-B",
+      "exchange": "Nasdaq Copenhagen",
+      "title_or_role": "Executive Vice President and President Europe",
+      "website": "https://www.maersk.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "socials": [
     {
-      "name": "A.P. M\u00f8ller - M\u00e6rsk A/S",
-      "ticker": "AMKBY",
-      "exchange": "OTC",
-      "title_or_role": "President, Europe Region",
-      "start_date": "2023-02-01",
-      "end_date": null
+      "name": "LinkedIn",
+      "url": "https://dk.linkedin.com/in/aymeric-chandavoine-2288b43",
+      "person_name": "Aymeric Chandavoine",
+      "company_name": "A.P. M\u00f8ller - M\u00e6rsk A/S",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
-  ]
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

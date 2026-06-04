@@ -5,25 +5,87 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Rolls-Royce Holdings plc",
-      "ticker": "RR",
-      "exchange": ".LSE",
-      "website": "https://www.rolls-royce.com",
+      "name": "Croda International plc",
+      "ticker": "CRDA",
+      "exchange": "LSE",
+      "website": "https://www.croda.com",
+      "logoUrl": "/companies-assets/CRDA.LSE.svg",
       "title": "Chair",
-      "startDate": "2021-10-01",
+      "startDate": "2015",
+      "endDate": "2024",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Lloyds Banking Group plc",
+      "ticker": "LLOY",
+      "exchange": "LSE",
+      "website": "https://www.lloydsbankinggroup.com",
+      "logoUrl": "/companies-assets/LLOY.LSE.svg",
+      "title": "Deputy Chair and Senior Independent Director",
+      "startDate": null,
+      "endDate": "2020",
+      "formattedStartDate": "",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Victrex plc",
+      "ticker": "VCT",
+      "exchange": "LSE",
+      "website": "https://www.victrexplc.com",
+      "logoUrl": "/companies-assets/VCT.LSE.svg",
+      "title": "Chair",
+      "startDate": "2008",
+      "endDate": "2014",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2014"
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX",
+      "website": "https://www.bhp.com",
+      "logoUrl": "/companies-assets/BHP.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2021 October",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     },
     {
-      "name": "Rolls-Royce Holdings plc",
-      "ticker": "RR",
+      "name": "IMI plc",
+      "ticker": "IMI",
       "exchange": "LSE",
-      "website": "https://www.rolls-royce.com",
-      "title": "Chair",
-      "startDate": "2021-10-01",
+      "website": "https://www.imiplc.com",
+      "logoUrl": "/companies-assets/IMI.LSE.svg",
+      "title": "Non-Executive Director",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2021 October",
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Aberdeen Asset Management plc",
+      "ticker": "ADN",
+      "exchange": "LSE",
+      "website": "https://www.abrdn.com",
+      "logoUrl": "/companies-assets/ADN.LSE.svg",
+      "title": "Non-Executive Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "WPP plc",
+      "ticker": "WPP",
+      "exchange": "LSE",
+      "website": "https://www.wpp.com",
+      "logoUrl": "/companies-assets/WPP.LSE.svg",
+      "title": "Director of Corporate Development",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
@@ -32,7 +94,18 @@
     "Electrification",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/anita-frew-dbe-496b308",
+      "person_name": "Anita Frew",
+      "company_name": "Rolls-Royce Holdings plc",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1
+    }
+  ],
   "committees": [
     "Nominations & Governance Committee (Chair)"
   ],

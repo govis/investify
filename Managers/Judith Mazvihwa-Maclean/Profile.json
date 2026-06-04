@@ -2,24 +2,72 @@
   "name": "Judith Mazvihwa-MacLean",
   "first_name": "Judith",
   "last_name": "Mazvihwa-MacLean",
-  "age": null,
-  "age_year": null,
+  "age": 56,
+  "age_year": 2024,
   "background": "Ms. Mazvihwa-MacLean is a geologist and a mining executive with over 20 years of experience in the mining industry. She has held various senior management positions with several public and private companies and is currently the CFO of Fortune Minerals Limited.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification",
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Stria Lithium Inc.",
       "ticker": "SRA",
       "exchange": "TSXV",
       "title_or_role": "Chief Financial Officer",
+      "website": "https://strialithium.com/",
       "start_date": "2022-06-01",
       "end_date": null
+    },
+    {
+      "name": "Focus Graphite Inc.",
+      "ticker": "FMS",
+      "exchange": "TSXV",
+      "website": "https://focusgraphite.com/",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Golden Harp Resources Inc.",
+      "ticker": "GHR",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Director of Finance / CFO",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Everton Resources Inc.",
+      "ticker": "EVR",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2011-04",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/jmazvihwa",
+      "person_name": "Judith Mazvihwa-MacLean",
+      "company_name": "Fortune Minerals Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Sustainability Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

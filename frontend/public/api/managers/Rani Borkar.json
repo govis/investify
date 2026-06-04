@@ -9,18 +9,66 @@
       "ticker": "AMAT",
       "exchange": "NASDAQ",
       "website": "https://www.appliedmaterials.com",
-      "title": "Independent Director",
-      "startDate": "2020-01-01",
+      "logoUrl": "/companies-assets/AMAT.NASDAQ.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "December 2020",
       "endDate": null,
-      "formattedStartDate": "2020 January",
+      "formattedStartDate": "December 2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "https://www.microsoft.com",
+      "logoUrl": "/companies-assets/MSFT.NASDAQ.svg",
+      "title": "Corporate Vice President, Azure Hardware Systems and Infrastructure",
+      "startDate": "June 2019",
+      "endDate": null,
+      "formattedStartDate": "June 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "IBM Corporation",
+      "ticker": "IBM",
+      "exchange": "NYSE",
+      "website": "https://www.ibm.com",
+      "logoUrl": "/companies-assets/IBM.NYSE.svg",
+      "title": "Vice President, OpenPOWER Development",
+      "startDate": "2016",
+      "endDate": "2017",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "logoUrl": "/companies-assets/INTC.NASDAQ.svg",
+      "title": "Corporate Vice President and General Manager, Intel Architecture Development Group",
+      "startDate": "1988",
+      "endDate": "2016",
+      "formattedStartDate": "1988",
+      "formattedEndDate": "2016"
     }
   ],
   "investmentTheses": [
     "AI",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rani-borkar-555a111",
+      "person_name": "Rani Borkar",
+      "company_name": "Microsoft",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Strategy Committee"

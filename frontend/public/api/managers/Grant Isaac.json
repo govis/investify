@@ -9,28 +9,29 @@
       "ticker": "CCJ",
       "exchange": "NYSE",
       "website": "https://www.cameco.com",
-      "title": "Executive Vice-President and Chief Financial Officer",
-      "startDate": "2011-07-01",
-      "endDate": null,
-      "formattedStartDate": "2011 July",
-      "formattedEndDate": ""
-    },
-    {
-      "name": "Cameco Corporation",
-      "ticker": "CCO",
-      "exchange": "TSX",
-      "website": "https://www.cameco.com",
-      "title": "Executive Vice-President and Chief Financial Officer",
-      "startDate": "2011-07-01",
-      "endDate": null,
-      "formattedStartDate": "2011 July",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/CCJ.NYSE.svg",
+      "title": "Senior Vice-President, Corporate Services",
+      "startDate": "2009-07",
+      "endDate": "2011",
+      "formattedStartDate": "July 2009",
+      "formattedEndDate": "2011"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/grant-isaac-66977014",
+      "person_name": "Grant Isaac",
+      "company_name": "Cameco Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 55,
   "ageYear": 2023

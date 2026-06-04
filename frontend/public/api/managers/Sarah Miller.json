@@ -3,19 +3,7 @@
   "name": "Sarah Miller",
   "background": "Former Chief Information Officer of Neiman Marcus Group.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "Cisco Systems, Inc.",
-      "ticker": "CSCO",
-      "exchange": "NASDAQ",
-      "website": "https://www.cisco.com",
-      "title": "Independent Director",
-      "startDate": "2023-10-01",
-      "endDate": null,
-      "formattedStartDate": "2023 October",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "AI"
   ],

@@ -9,17 +9,41 @@
       "ticker": "GFI",
       "exchange": "NYSE",
       "website": "https://www.goldfields.com",
-      "title": "Chief Executive Officer",
-      "startDate": "2024-01-01",
+      "logoUrl": "/companies-assets/GFI.NYSE.svg",
+      "title": "Chief Executive Officer and Executive Director",
+      "startDate": "January 1, 2024",
       "endDate": null,
-      "formattedStartDate": "2024 January",
+      "formattedStartDate": "January 1, 2024",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Chaarat Gold Holdings Ltd",
+      "ticker": "CGH",
+      "exchange": "LSE (AIM)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Executive Officer",
+      "startDate": "January 2022",
+      "endDate": "October 2023",
+      "formattedStartDate": "January 2022",
+      "formattedEndDate": "October 2023"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/frasermichael",
+      "person_name": "Michael Fraser",
+      "company_name": "Gold Fields Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 57,
   "ageYear": 2024

@@ -5,14 +5,39 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Eaton Corporation plc",
-      "ticker": "ETN",
+      "name": "Celanese Corporation",
+      "ticker": "CE",
       "exchange": "NYSE",
-      "website": "https://www.eaton.com",
-      "title": "Independent Director",
-      "startDate": "2020-01-01",
+      "website": "https://www.celanese.com",
+      "logoUrl": "/companies-assets/CE.NYSE.svg",
+      "title": "Chairman, President & Chief Executive Officer",
+      "startDate": "2019",
+      "endDate": "2024",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Cencora, Inc.",
+      "ticker": "COR",
+      "exchange": "NYSE",
+      "website": "https://www.cencora.com",
+      "logoUrl": "/companies-assets/COR.NYSE.svg",
+      "title": "Director",
+      "startDate": "2025-06-01",
       "endDate": null,
-      "formattedStartDate": "2020 January",
+      "formattedStartDate": "June 2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Norfolk Southern Corporation",
+      "ticker": "NSC",
+      "exchange": "NYSE",
+      "website": "www.norfolk-southern.com",
+      "logoUrl": "/companies-assets/NSC.NYSE.svg",
+      "title": "Director",
+      "startDate": "2025-01-27",
+      "endDate": null,
+      "formattedStartDate": "January 2025",
       "formattedEndDate": ""
     }
   ],

@@ -5,15 +5,28 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "NVIDIA Corporation",
-      "ticker": "NVDA",
-      "exchange": "NASDAQ",
-      "website": "https://www.nvidia.com",
-      "title": "Independent Director",
-      "startDate": "2015-01-01",
+      "name": "C3.ai, Inc.",
+      "ticker": "AI",
+      "exchange": "NYSE",
+      "website": "https://c3.ai",
+      "logoUrl": "/companies-assets/AI.NYSE.svg",
+      "title": "Director",
+      "startDate": "2019",
       "endDate": null,
-      "formattedStartDate": "2015 January",
+      "formattedStartDate": "2019",
       "formattedEndDate": ""
+    },
+    {
+      "name": "KB Home",
+      "ticker": "KBH",
+      "exchange": "NYSE",
+      "website": "https://www.kbhome.com",
+      "logoUrl": "/companies-assets/KBH.NYSE.svg",
+      "title": "Director",
+      "startDate": "2003",
+      "endDate": "2015",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2015"
     }
   ],
   "investmentTheses": [
@@ -21,7 +34,18 @@
     "Defense",
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michael-mccaffery-executive",
+      "person_name": "Michael McCaffery",
+      "company_name": "Makena Capital Management",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

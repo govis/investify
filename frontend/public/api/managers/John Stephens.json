@@ -9,18 +9,66 @@
       "ticker": "FCX",
       "exchange": "NYSE",
       "website": "https://www.fcx.com",
+      "logoUrl": "/companies-assets/FCX.NYSE.svg",
       "title": "Director",
-      "startDate": "2021-01-01",
+      "startDate": "October 2019",
       "endDate": null,
-      "formattedStartDate": "2021 January",
+      "formattedStartDate": "October 2019",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Solid Power, Inc.",
+      "ticker": "SLDP",
+      "exchange": "NASDAQ",
+      "website": "https://www.solidpowerbattery.com",
+      "logoUrl": "/companies-assets/SLDP.NASDAQ.svg",
+      "title": "Director (Chair)",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "AT&T Inc.",
+      "ticker": "T",
+      "exchange": "NYSE",
+      "website": "https://www.att.com",
+      "logoUrl": "/companies-assets/T.NYSE.svg",
+      "title": "Senior EVP & CFO",
+      "startDate": "June 2011",
+      "endDate": "March 2021",
+      "formattedStartDate": "June 2011",
+      "formattedEndDate": "March 2021"
+    },
+    {
+      "name": "América Móvil, S.A.B. de C.V.",
+      "ticker": "AMX",
+      "exchange": "NYSE",
+      "website": "https://www.americamovil.com",
+      "logoUrl": "/companies-assets/AMX.NYSE.png",
+      "title": "Director",
+      "startDate": "2007",
+      "endDate": "2011",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2011"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/john-stephens-7a5b1a1b",
+      "person_name": "John Stephens",
+      "company_name": "AT&T Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit",
     "Compensation"

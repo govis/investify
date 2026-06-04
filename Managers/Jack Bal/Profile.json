@@ -6,20 +6,14 @@
   "age_year": 2024,
   "background": "Mr. Bal has over 25 years of experience in the capital markets and has served as a director and officer of several public companies.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification",
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "GoldHaven Resources Corp.",
       "ticker": "GOH",
       "exchange": "CSE",
       "title_or_role": "Director",
+      "website": "https://goldhavenresources.com",
       "start_date": "2020-02-20",
       "end_date": null
     },
@@ -28,6 +22,7 @@
       "ticker": "GOH",
       "exchange": "TSX",
       "title_or_role": "Director",
+      "website": "https://goldhavenresources.com/",
       "start_date": "2020-02-12",
       "end_date": null
     },
@@ -36,8 +31,60 @@
       "ticker": "OTMC",
       "exchange": "TSXV",
       "title_or_role": "Director",
+      "website": "https://oreterra.com",
       "start_date": "2021-06-01",
       "end_date": null
+    },
+    {
+      "name": "Lexston Mining Corp.",
+      "ticker": "LEXT",
+      "exchange": "CSE",
+      "website": "https://lexston.ca",
+      "title_or_role": "CEO / Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cache Exploration Inc.",
+      "ticker": "CEXPF",
+      "exchange": "OTC",
+      "website": null,
+      "title_or_role": "President, CEO, and Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Equitorial Exploration Corp.",
+      "ticker": "EXX",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "CEO",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jack-bal-aa5aa7313",
+      "person_name": "Jack Bal",
+      "company_name": "GoldHaven Resources Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -9,18 +9,42 @@
       "ticker": "CRWD",
       "exchange": "NASDAQ",
       "website": "https://www.crowdstrike.com",
+      "logoUrl": "/companies-assets/CRWD.NASDAQ.svg",
       "title": "Chief Financial Officer",
       "startDate": "2015-09-01",
       "endDate": null,
-      "formattedStartDate": "2015 September",
+      "formattedStartDate": "September 2015",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Epocrates, Inc.",
+      "ticker": "EPOC",
+      "exchange": "NASDAQ",
+      "website": "https://www.epocrates.com",
+      "logoUrl": "/companies-assets/EPOC.NASDAQ.png",
+      "title": "SVP Finance and Chief Accounting Officer",
+      "startDate": "2010",
+      "endDate": "2013",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2013"
     }
   ],
   "investmentTheses": [
     "AI",
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/burt-podbere-1399613",
+      "person_name": "Burt Podbere",
+      "company_name": "CrowdStrike",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 57,
   "ageYear": 2024

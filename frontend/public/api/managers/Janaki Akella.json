@@ -9,17 +9,41 @@
       "ticker": "SO",
       "exchange": "NYSE",
       "website": "https://www.southerncompany.com",
-      "title": "Independent Director",
-      "startDate": "2019-01-01",
+      "logoUrl": "/companies-assets/SO.NYSE.svg",
+      "title": "Independent Director (Board of Directors)",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2019 January",
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Akamai Technologies, Inc.",
+      "ticker": "AKAM",
+      "exchange": "NASDAQ",
+      "website": "akamai.com",
+      "logoUrl": "/companies-assets/AKAM.NASDAQ.svg",
+      "title": "Director (Board of Directors)",
+      "startDate": "July 2024",
+      "endDate": null,
+      "formattedStartDate": "July 2024",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/janakiakella",
+      "person_name": "Janaki Akella",
+      "company_name": "The Southern Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit",
     "Operations, Environmental and Safety"

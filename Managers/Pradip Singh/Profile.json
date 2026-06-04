@@ -6,19 +6,24 @@
   "age_year": 2024,
   "background": "Pradip Singh is the Chief Legal Officer and Corporate Secretary. He joined GF in 2022. He previously served as General Counsel at several technology firms and has a background in corporate law and intellectual property.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "GlobalFoundries Inc.",
+      "ticker": "GFS",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chief Manufacturing Officer",
+      "website": "https://gf.com",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "GlobalFoundries Inc.",
-      "ticker": "GFS",
-      "exchange": "NASDAQ",
-      "title_or_role": "Chief Legal Officer and Corporate Secretary",
-      "start_date": "2022-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

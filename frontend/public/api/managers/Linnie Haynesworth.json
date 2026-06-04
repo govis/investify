@@ -9,10 +9,59 @@
       "ticker": "MU",
       "exchange": "NASDAQ",
       "website": "https://www.micron.com",
-      "title": "Independent Director",
-      "startDate": "2021-01-01",
+      "logoUrl": "/companies-assets/MU.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2021 January",
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Eastman Chemical Company",
+      "ticker": "EMN",
+      "exchange": "NYSE",
+      "website": "https://www.eastman.com",
+      "logoUrl": "/companies-assets/EMN.NYSE.svg",
+      "title": "Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Automatic Data Processing, Inc.",
+      "ticker": "ADP",
+      "exchange": "NASDAQ",
+      "website": "https://www.adp.com",
+      "logoUrl": "/companies-assets/ADP.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Truist Financial Corporation",
+      "ticker": "TFC",
+      "exchange": "NYSE",
+      "website": "https://www.truist.com",
+      "logoUrl": "/companies-assets/TFC.NYSE.svg",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "website": "https://www.northropgrumman.com",
+      "logoUrl": "/companies-assets/NOC.NYSE.svg",
+      "title": "Sector Vice President and General Manager",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +69,18 @@
     "AI",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/lhaynesworth",
+      "person_name": "Linnie Haynesworth",
+      "company_name": "Northrop Grumman Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

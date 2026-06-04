@@ -7,19 +7,31 @@
     {
       "name": "Triple Flag Precious Metals Corp.",
       "ticker": "TFPM",
-      "exchange": "NYSE",
-      "website": "https://www.tripleflagpm.com",
-      "title": "Senior Vice President, Corporate Development",
-      "startDate": "2017-01-01",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Operating Officer (formerly Senior Vice President, Corporate Development)",
+      "startDate": "May 2017",
       "endDate": null,
-      "formattedStartDate": "2017 January",
+      "formattedStartDate": "May 2017",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/james-dendle-30575148",
+      "person_name": "James Dendle",
+      "company_name": "Triple Flag Precious Metals Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 37,
   "ageYear": 2024

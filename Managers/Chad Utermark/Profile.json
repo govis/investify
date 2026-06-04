@@ -6,19 +6,35 @@
   "age_year": 2024,
   "background": "Mr. Utermark has served as Executive Vice President since 2014. He has been with Nucor since 1992.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Nucor Corporation",
       "ticker": "NUE",
       "exchange": "NYSE",
-      "title_or_role": "Executive Vice President",
-      "start_date": "2014-05-01",
-      "end_date": null
+      "title_or_role": "Executive Vice President, New Markets and Innovation",
+      "website": "https://www.nucor.com",
+      "start_date": "2017",
+      "end_date": "June 7, 2025",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/chad-utermark-4a5a5a1a",
+      "person_name": "Chad Utermark",
+      "company_name": "Nucor Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

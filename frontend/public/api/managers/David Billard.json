@@ -7,19 +7,79 @@
     {
       "name": "Skyharbour Resources Ltd.",
       "ticker": "SYH",
-      "exchange": "TSX",
-      "website": "https://skyharbourltd.com",
-      "title": "Head of Exploration",
-      "startDate": "2013-06-01",
+      "exchange": "TSXV",
+      "website": "skyharbourltd.com",
+      "logoUrl": "/companies-assets/SYH.TSXV.png",
+      "title": "Consulting Geologist (Qualified Person)",
+      "startDate": "2017",
       "endDate": null,
-      "formattedStartDate": "2013 June",
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Abasca Resources Inc.",
+      "ticker": "ABA",
+      "exchange": "TSXV",
+      "website": "abascaresources.com",
+      "logoUrl": "/companies-assets/ABA.TSXV.png",
+      "title": "Chairman",
+      "startDate": "2010",
+      "endDate": null,
+      "formattedStartDate": "2010",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "JNR Resources Inc.",
+      "ticker": "JNN",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "COO, Non-Independent Director & VP-Exploration",
+      "startDate": "2007",
+      "endDate": "2013",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Bessor Minerals Inc.",
+      "ticker": "BST",
+      "exchange": "TSXV",
+      "website": "bessorminerals.com",
+      "logoUrl": "/companies-assets/BST.TSXV.png",
+      "title": "Independent Director",
+      "startDate": "2007",
+      "endDate": "2022",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Signet Minerals Inc.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/david-billard-75145a4b",
+      "person_name": "David Billard",
+      "company_name": "Skyharbour Resources Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": null,
   "ageYear": null

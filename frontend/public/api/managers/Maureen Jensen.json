@@ -7,19 +7,43 @@
     {
       "name": "Franco-Nevada Corporation",
       "ticker": "FNV",
-      "exchange": "NYSE",
-      "website": "https://www.franco-nevada.com",
-      "title": "Independent Director",
-      "startDate": "2020-08-01",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2020 August",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Cboe Canada",
+      "ticker": "CBOE",
+      "exchange": "NASDAQ",
+      "website": "https://www.cboe.ca",
+      "logoUrl": "/companies-assets/CBOE.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": "2022",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2022"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/maureen-jensen-846a1136",
+      "person_name": "Maureen Jensen",
+      "company_name": "Franco-Nevada Corporation, Cboe Canada",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "ESG Committee"

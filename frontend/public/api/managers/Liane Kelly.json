@@ -6,20 +6,44 @@
   "companies": [
     {
       "name": "B2Gold Corp.",
-      "ticker": "BTG",
-      "exchange": "NYSE",
-      "website": "https://www.b2gold.com",
+      "ticker": "BTO (TSX), BTG (NYSE)",
+      "exchange": "TSX, NYSE",
+      "website": null,
+      "logoUrl": null,
       "title": "Director",
-      "startDate": "2020-06-12",
+      "startDate": "2011",
       "endDate": null,
-      "formattedStartDate": "2020 June",
+      "formattedStartDate": "2011",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Amaroq Minerals Ltd. (formerly AEX Gold Inc.)",
+      "ticker": "AMRQ (TSX-V), AMRQ (LSE)",
+      "exchange": "TSX-V, LSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director / Senior Independent Director",
+      "startDate": "2020",
+      "endDate": "2024",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2024"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/lianekelly",
+      "person_name": "Liane Kelly",
+      "company_name": "B2Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Corporate Governance and Nominating Committee",
     "Health, Safety, Environmental & Social Advisory Committee"

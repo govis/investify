@@ -9,10 +9,11 @@
       "ticker": "INTC",
       "exchange": "NASDAQ",
       "website": "https://www.intel.com",
-      "title": "Executive Vice President and General Manager, Client Computing Group",
-      "startDate": "2022-04-01",
+      "logoUrl": "/companies-assets/INTC.NASDAQ.svg",
+      "title": "Various senior executive roles, including Executive Vice President, Chief Revenue Officer, General Manager of Sales, Marketing & Communications, CEO of Intel Products, and Interim Co-CEO.",
+      "startDate": "1996",
       "endDate": null,
-      "formattedStartDate": "2022 April",
+      "formattedStartDate": "1996",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +21,18 @@
     "AI",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michellejohnstonholthaus",
+      "person_name": "Michelle Johnston Holthaus",
+      "company_name": "Intel Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 52,
   "ageYear": 2024

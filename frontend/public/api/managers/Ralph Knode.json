@@ -9,11 +9,24 @@
       "ticker": "PEN",
       "exchange": "ASX",
       "website": "https://www.pel.net.au",
-      "title": "Chief Executive Officer - Strata Energy Inc.",
-      "startDate": "2011-01-01",
+      "logoUrl": "/companies-assets/PEN.ASX.svg",
+      "title": "Chief Executive Officer of Strata Energy Inc. (a wholly-owned subsidiary of Peninsula Energy Limited)",
+      "startDate": "Not publicly specified",
       "endDate": null,
-      "formattedStartDate": "2011 January",
+      "formattedStartDate": "Not publicly specified",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Uranium One Inc.",
+      "ticker": "UUU",
+      "exchange": "TSX",
+      "website": "www.uranium1.com",
+      "logoUrl": "/companies-assets/UUU.TSX.svg",
+      "title": "Senior Vice President, Projects",
+      "startDate": "Not publicly specified",
+      "endDate": "2013",
+      "formattedStartDate": "Not publicly specified",
+      "formattedEndDate": "2013"
     }
   ],
   "investmentTheses": [

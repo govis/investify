@@ -5,15 +5,16 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Boss Energy Limited",
-      "ticker": "BOE",
+      "name": "Andromeda Metals Limited",
+      "ticker": "ADN",
       "exchange": "ASX",
-      "website": "https://www.bossenergy.com",
-      "title": "General Manager - Operations",
-      "startDate": "2023-01-01",
-      "endDate": null,
-      "formattedStartDate": "2023 January",
-      "formattedEndDate": ""
+      "website": "https://www.andromet.com.au",
+      "logoUrl": "/companies-assets/ADN.ASX.webp",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": "2023-10-10",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "October 2023"
     }
   ],
   "investmentTheses": [

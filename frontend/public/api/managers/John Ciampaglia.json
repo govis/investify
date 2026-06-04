@@ -7,12 +7,13 @@
     {
       "name": "Sprott Physical Gold Trust",
       "ticker": "PHYS",
-      "exchange": "NYSE",
-      "website": "https://sprott.com/investment-strategies/physical-bullion-trusts/gold/",
-      "title": "Chief Executive Officer, Director",
-      "startDate": "2017-01-01",
+      "exchange": "NYSE / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Trustee / Officer",
+      "startDate": "2010",
       "endDate": null,
-      "formattedStartDate": "2017 January",
+      "formattedStartDate": "2010",
       "formattedEndDate": ""
     },
     {
@@ -20,32 +21,59 @@
       "ticker": "SETM",
       "exchange": "NASDAQ",
       "website": "https://www.sprottetfs.com/setm-sprott-energy-transition-materials-etf/",
-      "title": "Interested Trustee, President",
-      "startDate": "2018",
+      "logoUrl": "/companies-assets/SETM.NASDAQ.svg",
+      "title": "Officer (Sprott Asset Management, Manager of the ETF)",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "",
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
     },
     {
       "name": "Sprott Physical Uranium Trust",
-      "ticker": "U",
-      "exchange": "UN.TSX",
-      "website": "https://sprott.com/investment-strategies/physical-commodity-funds/uranium/",
-      "title": "Chief Executive Officer",
-      "startDate": "2021-07-19",
+      "ticker": "SPUT",
+      "exchange": "TSX / OTC",
+      "website": null,
+      "logoUrl": null,
+      "title": "Trustee / Officer",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2021 July",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
     },
     {
       "name": "Sprott Uranium Miners ETF",
       "ticker": "URNM",
-      "exchange": "NYSE",
-      "website": "https://sprottetfs.com/urnm-sprott-uranium-miners-etf/",
-      "title": "Interested Trustee, President",
-      "startDate": "2018-01-01",
+      "exchange": "NYSE Arca",
+      "website": null,
+      "logoUrl": null,
+      "title": "Officer (Sprott Asset Management, Manager of the ETF)",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2018 January",
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sprott Inc.",
+      "ticker": "SII",
+      "exchange": "NYSE / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Managing Partner",
+      "startDate": "September 2010",
+      "endDate": null,
+      "formattedStartDate": "September 2010",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sprott Asset Management",
+      "ticker": "SII",
+      "exchange": "NYSE / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Executive Officer",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
       "formattedEndDate": ""
     }
   ],
@@ -55,7 +83,18 @@
     "Nuclear",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/john-ciampaglia-cfa-fcsi-84856322",
+      "person_name": "John Ciampaglia",
+      "company_name": "Sprott Asset Management",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 54,
   "ageYear": 2024

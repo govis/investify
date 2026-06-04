@@ -7,12 +7,37 @@
     {
       "name": "Teck Resources Limited",
       "ticker": "TECK",
-      "exchange": "NYSE",
-      "website": "https://www.teck.com",
-      "title": "Chair of the Board",
-      "startDate": "2018-04-25",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Chair / Director",
+      "startDate": "2018",
       "endDate": null,
-      "formattedStartDate": "2018 April",
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "CI Financial Corp.",
+      "ticker": "CIX",
+      "exchange": "TSX",
+      "website": "https://www.cifinancial.com",
+      "logoUrl": "/companies-assets/CIX.TSX.svg",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": "2021",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Granite Real Estate Investment Trust",
+      "ticker": "GRT.UN",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Trustee / Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
       "formattedEndDate": ""
     }
   ],

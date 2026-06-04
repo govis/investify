@@ -7,13 +7,50 @@
     {
       "name": "Rio Tinto Group",
       "ticker": "RIO",
-      "exchange": "NYSE",
-      "website": "https://www.riotinto.com",
-      "title": "Senior Independent Director",
-      "startDate": "2019-01-01",
+      "exchange": "ASX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Director",
+      "startDate": "January 1, 2019",
+      "endDate": "May 2, 2024",
+      "formattedStartDate": "January 1, 2019",
+      "formattedEndDate": "May 2, 2024"
+    },
+    {
+      "name": "National Australia Bank",
+      "ticker": "NAB",
+      "exchange": "ASX",
+      "website": "nab.com.au",
+      "logoUrl": "/companies-assets/NAB.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "February 2020",
       "endDate": null,
-      "formattedStartDate": "2019 January",
+      "formattedStartDate": "February 2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Spotless Group",
+      "ticker": "SPO",
+      "exchange": "ASX",
+      "website": "https://www.spotless.com.au/",
+      "logoUrl": "/companies-assets/SPO.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "December 1, 2016",
+      "endDate": "2017",
+      "formattedStartDate": "December 1, 2016",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "AMP Limited",
+      "ticker": "AMP",
+      "exchange": "ASX",
+      "website": "https://www.amp.com.au",
+      "logoUrl": "/companies-assets/AMP.ASX.svg",
+      "title": "Chairman",
+      "startDate": "2014",
+      "endDate": "2015",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2015"
     }
   ],
   "investmentTheses": [

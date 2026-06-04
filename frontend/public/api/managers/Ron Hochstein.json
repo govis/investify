@@ -6,35 +6,38 @@
   "companies": [
     {
       "name": "Denison Mines Corp.",
-      "ticker": "DNN",
-      "exchange": "NYSE",
-      "website": "https://denisonmines.com",
-      "title": "Chair of the Board",
-      "startDate": "2015-01-01",
+      "ticker": "DML (TSX), DNN (NYSE)",
+      "exchange": "TSX, NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Chair (Current), Director (Current), Former President and CEO",
+      "startDate": "Director (2005), Board Chair (2022)",
       "endDate": null,
-      "formattedStartDate": "2015 January",
-      "formattedEndDate": ""
-    },
-    {
-      "name": "Denison Mines Corp.",
-      "ticker": "DNN",
-      "exchange": "TSX",
-      "website": "https://denisonmines.com",
-      "title": "Chair of the Board",
-      "startDate": "2015-01-01",
-      "endDate": null,
-      "formattedStartDate": "2015 January",
+      "formattedStartDate": "Director (2005), Board Chair (2022)",
       "formattedEndDate": ""
     },
     {
       "name": "Lundin Gold Inc.",
-      "ticker": "LUG",
+      "ticker": "LUG (TSX)",
       "exchange": "TSX",
-      "website": "https://lundingold.com",
-      "title": "Director, President and Chief Executive Officer",
-      "startDate": "2014-11-01",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and Chief Executive Officer (Current)",
+      "startDate": "2014",
       "endDate": null,
-      "formattedStartDate": "2014 November",
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Fireweed Metals Corp.",
+      "ticker": "FWZ (TSXV)",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director (Current)",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
     }
   ],
@@ -43,7 +46,18 @@
     "Nuclear",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/ron-hochstein-198a2092",
+      "person_name": "Ron Hochstein",
+      "company_name": "Lundin Gold Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Corporate Governance and Nominating Committee"
   ],

@@ -6,26 +6,54 @@
   "age_year": 2024,
   "background": "Ms. Katsuris has over 25 years of experience in the brokerage industry and the junior capital markets. She has served as a director and officer of several public companies.",
   "picture_url": "https://i.pinimg.com/originals/00/62/87/006287d3aa9c240f2ca4fdfe90d67a39.jpg",
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
+    {
+      "name": "Azincourt Energy Corp.",
+      "ticker": "AAZ",
+      "exchange": "TSX",
+      "title_or_role": "Secretary, Chief Financial Officer",
+      "website": "https://azincourtenergy.com",
+      "start_date": "2017-10-01",
+      "end_date": null
+    },
+    {
+      "name": "Colossus Resources Corp.",
+      "ticker": "CLUS",
+      "exchange": "TSXV",
+      "website": "https://colossusresources.com/",
+      "title_or_role": "CFO, Corporate Secretary and Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kapa Gold Inc.",
+      "ticker": "KAPA",
+      "exchange": "TSXV",
+      "website": "https://kapagold.com/",
+      "title_or_role": "CFO, Secretary and Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
   "socials": [
     {
       "name": "LinkedIn",
-      "url": "https://ca.linkedin.com/in/vivian-katsuris-56984361"
+      "url": "https://ca.linkedin.com/in/vivian-katsuris-56984361",
+      "person_name": "Vivian Katsuris",
+      "company_name": "Azincourt Energy Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
   ],
   "committees": [],
-  "picture_local": "Picture.jpg",
-  "enrichment_status": "success",
-  "companies": [
-    {
-      "name": "Azincourt Energy Corp.",
-      "ticker": "AAZ",
-      "exchange": "TSX",
-      "title_or_role": "Secretary, Chief Financial Officer",
-      "start_date": "2017-10-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

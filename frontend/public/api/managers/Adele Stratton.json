@@ -9,17 +9,42 @@
       "ticker": "ILU",
       "exchange": "ASX",
       "website": "https://www.iluka.com",
-      "title": "Chief Financial Officer and Head of Development",
-      "startDate": "2018-09-01",
+      "logoUrl": "/companies-assets/ILU.ASX.svg",
+      "title": "GM Finance, Investor Relations",
+      "startDate": "July 2015",
+      "endDate": "August 2018",
+      "formattedStartDate": "July 2015",
+      "formattedEndDate": "August 2018"
+    },
+    {
+      "name": "Deterra Royalties Limited",
+      "ticker": "DRR",
+      "exchange": "ASX",
+      "website": "https://www.deterraroyalties.com",
+      "logoUrl": "/companies-assets/DRR.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "November 2020",
       "endDate": null,
-      "formattedStartDate": "2018 September",
+      "formattedStartDate": "November 2020",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/adele-stratton-b1b0b510",
+      "person_name": "Adele Stratton",
+      "company_name": "Iluka Resources",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 4,
+      "profile_status": "private"
+    }
+  ],
   "committees": [],
   "age": 45,
   "ageYear": 2023

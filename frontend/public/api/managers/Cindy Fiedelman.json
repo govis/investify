@@ -9,11 +9,24 @@
       "ticker": "DLR",
       "exchange": "NYSE",
       "website": "https://www.digitalrealty.com",
-      "title": "Chief People Officer",
-      "startDate": "2016-01-01",
+      "logoUrl": "/companies-assets/DLR.NYSE.svg",
+      "title": "Chief Human Resources Officer",
+      "startDate": "2016",
       "endDate": null,
-      "formattedStartDate": "2016 January",
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
+    },
+    {
+      "name": "American Airlines Group Inc.",
+      "ticker": "AAL",
+      "exchange": "NASDAQ",
+      "website": "https://www.aa.com",
+      "logoUrl": "/companies-assets/AAL.NASDAQ.svg",
+      "title": "Vice President, People & Diversity",
+      "startDate": "2013",
+      "endDate": "2015",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2015"
     }
   ],
   "investmentTheses": [

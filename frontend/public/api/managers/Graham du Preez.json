@@ -9,17 +9,53 @@
       "ticker": "ISO",
       "exchange": "TSXV",
       "website": "https://www.isoenergy.ca",
+      "logoUrl": "/companies-assets/ISO.TSXV.svg",
       "title": "Chief Financial Officer",
-      "startDate": "2023-12-05",
+      "startDate": "March 2022",
       "endDate": null,
-      "formattedStartDate": "2023 December",
+      "formattedStartDate": "March 2022",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Harte Gold Corp.",
+      "ticker": "HRT",
+      "exchange": "TSX",
+      "website": "https://www.hartegold.com/",
+      "logoUrl": "/companies-assets/HRT.TSX.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "March 2, 2020",
+      "endDate": "February 2022",
+      "formattedStartDate": "March 2, 2020",
+      "formattedEndDate": "February 2022"
+    },
+    {
+      "name": "Uranium One Inc.",
+      "ticker": "UUU",
+      "exchange": "TSX",
+      "website": "www.uranium1.com",
+      "logoUrl": "/companies-assets/UUU.TSX.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": null,
+      "endDate": "April 2013",
+      "formattedStartDate": "",
+      "formattedEndDate": "April 2013"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/graham-du-preez-ba5a501",
+      "person_name": "Graham du Preez",
+      "company_name": "IsoEnergy Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 52,
   "ageYear": 2024

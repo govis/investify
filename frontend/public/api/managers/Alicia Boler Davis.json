@@ -2,17 +2,54 @@
   "id": "Alicia Boler Davis",
   "name": "Alicia Boler Davis",
   "background": "CEO of Alto Pharmacy. Former Senior Vice President of Global Customer Fulfillment at Amazon.",
-  "pictureUrl": null,
+  "pictureUrl": "/managers-assets/Alicia Boler Davis.jpg",
   "companies": [
     {
       "name": "JPMorgan Chase & Co.",
       "ticker": "JPM",
       "exchange": "NYSE",
       "website": "https://www.jpmorganchase.com",
-      "title": "Independent Director",
-      "startDate": "2023-03-20",
+      "logoUrl": "/companies-assets/JPM.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2023 March",
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "website": "https://www.gm.com",
+      "logoUrl": "/companies-assets/GM.NYSE.svg",
+      "title": "Executive Vice President, Global Manufacturing",
+      "startDate": "1994",
+      "endDate": "2019",
+      "formattedStartDate": "1994",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Amazon.com, Inc.",
+      "ticker": "AMZN",
+      "exchange": "NASDAQ",
+      "website": "https://www.amazon.com",
+      "logoUrl": "/companies-assets/AMZN.NASDAQ.svg",
+      "title": "Senior Vice President, Global Customer Fulfillment",
+      "startDate": "2019",
+      "endDate": "2022",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "website": "https://www.ford.com",
+      "logoUrl": "/companies-assets/F.NYSE.svg",
+      "title": "President, Ford Pro",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +57,18 @@
     "AI",
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/alicia-boler-davis-a84b427",
+      "person_name": "Alicia Boler Davis",
+      "company_name": "Amazon.com, Inc., General Motors Company, JPMorgan Chase & Co., Ford Motor Company",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

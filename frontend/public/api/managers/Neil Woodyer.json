@@ -5,21 +5,57 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Equinox Gold Corp.",
-      "ticker": "EQX",
-      "exchange": "NYSE",
-      "website": "https://www.equinoxgold.com",
-      "title": "Independent Director",
-      "startDate": "2020-03-10",
+      "name": "Aris Mining Corp.",
+      "ticker": "ARIS",
+      "exchange": "TSX",
+      "website": "https://aris-mining.com/",
+      "logoUrl": "/companies-assets/ARIS.TSX.svg",
+      "title": "Chair and CEO",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2020 March",
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Leagold Mining Corporation",
+      "ticker": "LMC",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "https://www.denvergold.org/wp-content/uploads/2019/07/Leagold-Mining-Logo.png",
+      "title": "CEO and Director",
+      "startDate": "2016",
+      "endDate": "2020",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Endeavour Mining",
+      "ticker": "EDV",
+      "exchange": "LSE/TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "CEO",
+      "startDate": "2003",
+      "endDate": "2016",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2016"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/neil-woodyer-4a5b2a12",
+      "person_name": "Neil Woodyer",
+      "company_name": "Aris Mining Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee",
     "Governance and Nominating Committee (Chair)"

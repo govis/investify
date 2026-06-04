@@ -6,21 +6,47 @@
   "age_year": 2024,
   "background": "Mr. Maggiotto is an Independent Director of the Sponsor. He is the CEO of Maggiotto & Partners and previously served as a senior partner at PwC.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "SPDR Gold Trust",
       "ticker": "GLD",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2013-01-01",
-      "end_date": null
+      "title_or_role": "Member of the Board of Directors (World Gold Trust Services, LLC)",
+      "website": "https://www.spdrgoldshares.com",
+      "start_date": "January 2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Caliber Imaging & Diagnostics",
+      "ticker": "CIBD",
+      "exchange": "NASDAQ",
+      "website": "https://caliberid.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "February 2011",
+      "end_date": "Not publicly specified",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rocco-maggiotto-387897",
+      "person_name": "Rocco Maggiotto",
+      "company_name": "Maggiotto & Partners",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

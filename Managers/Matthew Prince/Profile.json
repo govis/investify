@@ -6,19 +6,35 @@
   "age_year": 2024,
   "background": "Matthew Prince is one of our co-founders and has served as our Chief Executive Officer and as a member of our board of directors since July 2009 and as Chair of our board of directors since May 2019. Mr. Prince also served as our President from July 2009 to April 2012. Prior to co-founding Cloudflare, Mr. Prince co-founded Unspam Technologies, Inc., an anti-spam software company, and has served as its Chair since 2001. He has also served as an adjunct professor at John Marshall Law School since 2005. Mr. Prince holds a B.A. in English Literature and Computer Science from Trinity College, a J.D. from the University of Chicago, and an M.B.A. from Harvard Business School.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Cloudflare, Inc.",
       "ticker": "NET",
       "exchange": "NYSE",
-      "title_or_role": "Chief Executive Officer, Chair of the Board of Directors",
-      "start_date": "2009-07-01",
-      "end_date": null
+      "title_or_role": "Co-founder, Executive Chairman, and Chief Executive Officer",
+      "website": "https://www.cloudflare.com",
+      "start_date": "2009",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mprince",
+      "person_name": "Matthew Prince",
+      "company_name": "Cloudflare, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -9,10 +9,35 @@
       "ticker": "ETN",
       "exchange": "NYSE",
       "website": "https://www.eaton.com",
-      "title": "Chairman and Chief Executive Officer",
-      "startDate": "2016-06-01",
+      "logoUrl": "/companies-assets/ETN.NYSE.svg",
+      "title": "President and Chief Operating Officer",
+      "startDate": "Sept 1, 2015",
+      "endDate": "2016",
+      "formattedStartDate": "Sept 1, 2015",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Medtronic plc",
+      "ticker": "MDT",
+      "exchange": "NYSE",
+      "website": "medtronic.com",
+      "logoUrl": "/companies-assets/MDT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2016 June",
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "The Procter & Gamble Company",
+      "ticker": "PG",
+      "exchange": "NYSE",
+      "website": "https://www.pg.com",
+      "logoUrl": "/companies-assets/PG.NYSE.svg",
+      "title": "Director",
+      "startDate": "June 9, 2025",
+      "endDate": null,
+      "formattedStartDate": "June 9, 2025",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +45,18 @@
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/craig-arnold-5634a210",
+      "person_name": "Craig Arnold",
+      "company_name": "Eaton Corporation plc",
+      "profile_status": "private",
+      "potential_picture_url": "https://media.licdn.com/dms/image/v2/D5603AQH8mQzDrJvSjg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1695404178239?e=2147483647&v=beta&t=-qLmH33qVedNg1M-rw_fTlbf6ns2g9u2oXX78qZVQ_4",
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/D5603AQH8mQzDrJvSjg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1695404178239?e=2147483647&v=beta&t=-qLmH33qVedNg1M-rw_fTlbf6ns2g9u2oXX78qZVQ_4",
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 64,
   "ageYear": 2024

@@ -9,17 +9,41 @@
       "ticker": "MRVL",
       "exchange": "NASDAQ",
       "website": "https://www.marvell.com",
-      "title": "Director",
-      "startDate": "2016-05-01",
-      "endDate": null,
-      "formattedStartDate": "2016 May",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/MRVL.NASDAQ.svg",
+      "title": "Director (Lead Independent Director)",
+      "startDate": "May 2016",
+      "endDate": "June 2025",
+      "formattedStartDate": "May 2016",
+      "formattedEndDate": "June 2025"
+    },
+    {
+      "name": "LSI Corporation (formerly LSI Logic)",
+      "ticker": "LSI",
+      "exchange": "NYSE",
+      "website": "https://www.broadcom.com",
+      "logoUrl": "/companies-assets/LSI.NYSE.svg",
+      "title": "Director (Chairman of the Audit Committee)",
+      "startDate": "Unknown",
+      "endDate": "2014",
+      "formattedStartDate": "",
+      "formattedEndDate": "2014"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michael-strachan-88a2b833",
+      "person_name": "Michael Strachan",
+      "company_name": "Marvell Technology, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

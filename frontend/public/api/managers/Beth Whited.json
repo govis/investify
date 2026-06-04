@@ -9,10 +9,23 @@
       "ticker": "UNP",
       "exchange": "NYSE",
       "website": "https://www.up.com",
-      "title": "President",
-      "startDate": "2023-08-14",
+      "logoUrl": "/companies-assets/UNP.NYSE.svg",
+      "title": "President (and various senior leadership roles)",
+      "startDate": "1987",
       "endDate": null,
-      "formattedStartDate": "2023 August",
+      "formattedStartDate": "1987",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "RPM International Inc.",
+      "ticker": "RPM",
+      "exchange": "NYSE",
+      "website": "https://www.rpminc.com",
+      "logoUrl": "/companies-assets/RPM.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
     }
   ],

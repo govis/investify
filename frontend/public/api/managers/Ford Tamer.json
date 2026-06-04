@@ -5,21 +5,57 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Marvell Technology, Inc.",
-      "ticker": "MRVL",
+      "name": "Lattice Semiconductor Corporation",
+      "ticker": "LSCC",
       "exchange": "NASDAQ",
-      "website": "https://www.marvell.com",
-      "title": "Director",
-      "startDate": "2021-04-01",
+      "website": "https://www.latticesemi.com",
+      "logoUrl": "/companies-assets/LSCC.NASDAQ.svg",
+      "title": "Chief Executive Officer & Director",
+      "startDate": "September 2024",
       "endDate": null,
-      "formattedStartDate": "2021 April",
+      "formattedStartDate": "September 2024",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Teradyne, Inc.",
+      "ticker": "TER",
+      "exchange": "NASDAQ",
+      "website": "https://www.teradyne.com",
+      "logoUrl": "/companies-assets/TER.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "November 2021",
+      "endDate": "May 2025",
+      "formattedStartDate": "November 2021",
+      "formattedEndDate": "May 2025"
+    },
+    {
+      "name": "Inphi Corporation",
+      "ticker": "IPHI",
+      "exchange": "NYSE",
+      "website": "https://www.inphi.com",
+      "logoUrl": "/companies-assets/IPHI.NYSE.png",
+      "title": "President, Chief Executive Officer & Director",
+      "startDate": "February 2012",
+      "endDate": "April 2021",
+      "formattedStartDate": "February 2012",
+      "formattedEndDate": "April 2021"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/fordtamer",
+      "person_name": "Ford Tamer",
+      "company_name": "Lattice Semiconductor",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],

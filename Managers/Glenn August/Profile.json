@@ -6,21 +6,66 @@
   "age_year": 2024,
   "background": "Mr. August has served as a director since 2021. He is the Founder and CEO of Oak Hill Advisors, L.P. and serves as a member of the Board of Directors of T. Rowe Price Group, Inc.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Lucid Group, Inc.",
       "ticker": "LCID",
       "exchange": "NASDAQ",
       "title_or_role": "Director",
+      "website": "https://www.lucidmotors.com",
       "start_date": "2021-02-01",
       "end_date": null
+    },
+    {
+      "name": "MultiPlan Corporation",
+      "ticker": "MPLN",
+      "exchange": "NYSE",
+      "website": "https://www.multiplan.com",
+      "title_or_role": "Board Director",
+      "start_date": "February 2020",
+      "end_date": "September 6, 2024",
+      "validated": true
+    },
+    {
+      "name": "Cooper-Standard Holdings Inc.",
+      "ticker": "CPS",
+      "exchange": "NYSE",
+      "website": "https://www.cooperstandard.com",
+      "title_or_role": "Board Director",
+      "start_date": "May 2010",
+      "end_date": "May 2017",
+      "validated": true
+    },
+    {
+      "name": "OHA Investment Corporation",
+      "ticker": "OHAI",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Board Director",
+      "start_date": "Prior to 2019",
+      "end_date": "December 2019",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/glenn-august-62168922",
+      "person_name": "Glenn August",
+      "company_name": "Oak Hill Advisors, L.P.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -9,17 +9,41 @@
       "ticker": "ATRL",
       "exchange": "TSX",
       "website": "https://www.atkinsrealis.com",
+      "logoUrl": "/companies-assets/ATRL.TSX.svg",
       "title": "Director",
-      "startDate": "2022-11-01",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2022 November",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Mitie Group PLC",
+      "ticker": "MTO",
+      "exchange": "LSE",
+      "website": "https://www.mitie.com",
+      "logoUrl": "/companies-assets/MTO.LSE.svg",
+      "title": "Chief Executive Officer",
+      "startDate": "2007",
+      "endDate": "2016",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2016"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ruby-mcgregor-smith-5a5b2a12",
+      "person_name": "Ruby McGregor-Smith",
+      "company_name": "AtkinsRéalis Group Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit and Risk Committee",
     "Governance, Ethics and Sustainability Committee"

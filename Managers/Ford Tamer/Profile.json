@@ -6,21 +6,66 @@
   "age_year": 2024,
   "background": "Former President and CEO of Inphi Corporation. Previously CEO of Telegent Systems and Senior Vice President at Broadcom.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Nominating and Corporate Governance Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Marvell Technology, Inc.",
       "ticker": "MRVL",
       "exchange": "NASDAQ",
       "title_or_role": "Director",
+      "website": "https://www.marvell.com",
       "start_date": "2021-04-01",
       "end_date": null
+    },
+    {
+      "name": "Lattice Semiconductor Corporation",
+      "ticker": "LSCC",
+      "exchange": "NASDAQ",
+      "website": "https://www.latticesemi.com",
+      "title_or_role": "Chief Executive Officer & Director",
+      "start_date": "September 2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Teradyne, Inc.",
+      "ticker": "TER",
+      "exchange": "NASDAQ",
+      "website": "https://www.teradyne.com",
+      "title_or_role": "Director",
+      "start_date": "November 2021",
+      "end_date": "May 2025",
+      "validated": true
+    },
+    {
+      "name": "Inphi Corporation",
+      "ticker": "IPHI",
+      "exchange": "NYSE",
+      "website": "https://www.inphi.com",
+      "title_or_role": "President, Chief Executive Officer & Director",
+      "start_date": "February 2012",
+      "end_date": "April 2021",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/fordtamer",
+      "person_name": "Ford Tamer",
+      "company_name": "Lattice Semiconductor",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

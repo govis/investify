@@ -6,21 +6,67 @@
   "age_year": 2024,
   "background": "Ms. Hogan Preusse has served as Chairman of the Board since 2022. She was formerly Managing Director and co-head of Americas Real Estate at APG Asset Management US.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Nominating and Corporate Governance Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Digital Realty Trust, Inc.",
       "ticker": "DLR",
       "exchange": "NYSE",
-      "title_or_role": "Chairman, Director",
-      "start_date": "2022-08-01",
-      "end_date": null
+      "title_or_role": "Director (Chair)",
+      "website": "https://www.digitalrealty.com",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kimco Realty Corporation",
+      "ticker": "KIM",
+      "exchange": "NYSE",
+      "website": "https://www.kimcorealty.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Realty Income Corporation",
+      "ticker": "O",
+      "exchange": "NYSE",
+      "website": "https://www.realtyincome.com",
+      "title_or_role": "Director",
+      "start_date": "2021-11",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Host Hotels & Resorts, Inc.",
+      "ticker": "HST",
+      "exchange": "NASDAQ",
+      "website": "https://www.hosthotels.com",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mary-hogan-preusse-80445a9",
+      "person_name": "Mary Hogan Preusse",
+      "company_name": "Digital Realty Trust, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

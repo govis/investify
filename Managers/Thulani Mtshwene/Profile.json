@@ -6,21 +6,36 @@
   "age_year": 2024,
   "background": "Mr. Mtshwene has extensive experience in mining finance and operations in Africa.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Corporate Governance and Nominating Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "B2Gold Corp.",
       "ticker": "BTG",
       "exchange": "NYSE",
       "title_or_role": "Director",
+      "website": "https://www.b2gold.com",
       "start_date": "2023-06-23",
       "end_date": null
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://za.linkedin.com/in/thulani-mtshwene-43948734",
+      "person_name": "Thulani Mtshwene",
+      "company_name": "B2Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Corporate Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

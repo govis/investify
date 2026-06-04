@@ -5,22 +5,34 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Palantir Technologies Inc.",
-      "ticker": "PLTR",
-      "exchange": "NYSE",
-      "website": "https://www.palantir.com",
-      "title": "Chairman of the Board",
-      "startDate": "2003-01-01",
-      "endDate": null,
-      "formattedStartDate": "2003 January",
-      "formattedEndDate": ""
+      "name": "Meta Platforms, Inc.",
+      "ticker": "META",
+      "exchange": "NASDAQ",
+      "website": "https://about.meta.com",
+      "logoUrl": "/companies-assets/META.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2005",
+      "endDate": "2022",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2022"
     }
   ],
   "investmentTheses": [
     "AI",
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/peterthiel",
+      "person_name": "Peter Thiel",
+      "company_name": "Palantir Technologies Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 56,
   "ageYear": 2024

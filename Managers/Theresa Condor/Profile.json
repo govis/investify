@@ -6,19 +6,24 @@
   "age_year": 2024,
   "background": "Ms. Condor has served as our Chief Operating Officer since January 2022 and previously served as our Executive Vice President, Corporate Development since February 2013. She holds a B.A. in International Studies from Seattle University and an M.I.A. from Columbia University.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Spire Global, Inc.",
+      "ticker": "SPIR",
+      "exchange": "NYSE",
+      "title_or_role": "Member, Board of Directors",
+      "website": "https://spire.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Spire Global, Inc.",
-      "ticker": "SPIR",
-      "exchange": "NYSE",
-      "title_or_role": "Chief Operating Officer",
-      "start_date": "2022-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

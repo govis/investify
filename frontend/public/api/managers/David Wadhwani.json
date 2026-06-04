@@ -2,24 +2,40 @@
   "id": "David Wadhwani",
   "name": "David Wadhwani",
   "background": "Mr. Wadhwani has served as President, Digital Media Business since June 2021. He previously served as President and CEO of AppDynamics from 2015 to 2020 and was at Adobe from 2005 to 2015 in various leadership roles.",
-  "pictureUrl": null,
+  "pictureUrl": "/managers-assets/David Wadhwani.jpg",
   "companies": [
     {
       "name": "Adobe Inc.",
       "ticker": "ADBE",
       "exchange": "NASDAQ",
       "website": "https://www.adobe.com",
-      "title": "President, Digital Media Business",
-      "startDate": "2021-06-01",
-      "endDate": null,
-      "formattedStartDate": "2021 June",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/ADBE.NASDAQ.svg",
+      "title": "Senior Vice President and General Manager, Digital Media",
+      "startDate": "2010",
+      "endDate": "2015",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2015"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/davidwadhwani",
+      "person_name": "David Wadhwani",
+      "company_name": "Adobe",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    },
+    {
+      "name": "X (Twitter)",
+      "url": "https://twitter.com/dwadhwani"
+    }
+  ],
   "committees": [],
   "age": 52,
   "ageYear": 2024

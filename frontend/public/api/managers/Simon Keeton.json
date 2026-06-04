@@ -9,17 +9,29 @@
       "ticker": "ON",
       "exchange": "NASDAQ",
       "website": "https://www.onsemi.com",
+      "logoUrl": "/companies-assets/ON.NASDAQ.svg",
       "title": "Executive Vice President and General Manager, Power Solutions Group",
-      "startDate": "2019-01-01",
-      "endDate": null,
-      "formattedStartDate": "2019 January",
-      "formattedEndDate": ""
+      "startDate": "2006",
+      "endDate": "2025-06-30",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "June 2025"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/simon-keeton-69b2a",
+      "person_name": "Simon Keeton",
+      "company_name": "ON Semiconductor Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 52,
   "ageYear": 2024

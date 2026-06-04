@@ -9,11 +9,24 @@
       "ticker": "CRWD",
       "exchange": "NASDAQ",
       "website": "https://www.crowdstrike.com",
-      "title": "Chief Accounting Officer",
-      "startDate": "2021-09-01",
+      "logoUrl": "/companies-assets/CRWD.NASDAQ.svg",
+      "title": "Chief Legal Officer",
+      "startDate": "July 2019",
       "endDate": null,
-      "formattedStartDate": "2021 September",
+      "formattedStartDate": "July 2019",
       "formattedEndDate": ""
+    },
+    {
+      "name": "MobileIron, Inc.",
+      "ticker": "MOBL",
+      "exchange": "NASDAQ",
+      "website": "https://www.mobileiron.com",
+      "logoUrl": "/companies-assets/MOBL.NASDAQ.png",
+      "title": "Senior Legal Counsel / Legal Leadership Role",
+      "startDate": "Prior to 2019",
+      "endDate": "July 2019",
+      "formattedStartDate": "Prior to 2019",
+      "formattedEndDate": "July 2019"
     }
   ],
   "investmentTheses": [

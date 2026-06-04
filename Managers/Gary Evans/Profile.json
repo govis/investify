@@ -6,19 +6,65 @@
   "age_year": 2024,
   "background": "Mr. Evans has served as a director since 2023 and was appointed Chairman and CEO in 2024. He previously served as Chairman and CEO of Evergreen Corporation and has over 40 years of experience in the energy and natural resources sectors.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "United States Antimony Corporation",
+      "ticker": "UAMY",
+      "exchange": "NYSE American",
+      "title_or_role": "Chairman and CEO",
+      "website": "https://www.usantimony.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Evergreen Sustainable Enterprises, Inc.",
+      "ticker": "EGSE",
+      "exchange": "OTC",
+      "website": "https://www.egsustainable.com",
+      "title_or_role": "Chairman and CEO",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Novavax, Inc.",
+      "ticker": "NVAX",
+      "exchange": "NASDAQ",
+      "website": "https://www.novavax.com",
+      "title_or_role": "Chairman / Lead Independent Director",
+      "start_date": "1998",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Magnum Hunter Resources Corp.",
+      "ticker": "MHR",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Chairman and CEO",
+      "start_date": "2009",
+      "end_date": "2016",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "socials": [
     {
-      "name": "United States Antimony Corporation",
-      "ticker": "USAR",
-      "exchange": "NYSE",
-      "title_or_role": "Chairman and Chief Executive Officer, Chairman of the Board",
-      "start_date": "2024-02-01",
-      "end_date": null
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gary-c-evans-5a98811a4",
+      "person_name": "Gary C. Evans",
+      "company_name": "United States Antimony Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
-  ]
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

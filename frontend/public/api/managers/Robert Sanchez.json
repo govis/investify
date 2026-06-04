@@ -9,11 +9,24 @@
       "ticker": "TXN",
       "exchange": "NASDAQ",
       "website": "https://www.ti.com",
-      "title": "Independent Director",
-      "startDate": "2019-01-01",
+      "logoUrl": "/companies-assets/TXN.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2012",
       "endDate": null,
-      "formattedStartDate": "2019 January",
+      "formattedStartDate": "2012",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Ryder System, Inc.",
+      "ticker": "R",
+      "exchange": "NYSE",
+      "website": "ryder.com",
+      "logoUrl": "/companies-assets/R.NYSE.svg",
+      "title": "Chairman and Chief Executive Officer",
+      "startDate": "2013",
+      "endDate": "March 31, 2026",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "March 31, 2026"
     }
   ],
   "investmentTheses": [

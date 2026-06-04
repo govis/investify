@@ -2,18 +2,43 @@
   "id": "Carol Roberts",
   "name": "Carol Roberts",
   "background": "Former Senior Vice President and CFO of International Paper Company.",
-  "pictureUrl": "https://media-exp1.licdn.com/dms/image/C5622AQHbYJS1AzrwcA/feedshare-shrink_800/0/1654794020230?e=2147483647&v=beta&t=AGzG20X_vh6_mbe8tIVLudDxy62l9kQdb5XjcFyCR0s",
+  "pictureUrl": "/managers-assets/Carol Roberts.jpg",
   "companies": [
     {
       "name": "Alcoa Corporation",
       "ticker": "AA",
       "exchange": "NYSE",
       "website": "https://www.alcoa.com",
-      "title": "Independent Director",
-      "startDate": "2016-11-01",
+      "logoUrl": "/companies-assets/AA.NYSE.svg",
+      "title": "Director",
+      "startDate": "2016",
       "endDate": null,
-      "formattedStartDate": "2016 November",
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
+    },
+    {
+      "name": "V.F. Corporation",
+      "ticker": "VFC",
+      "exchange": "NYSE",
+      "website": "https://www.vfc.com",
+      "logoUrl": "/companies-assets/VFC.NYSE.svg",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "International Paper Company",
+      "ticker": "IP",
+      "exchange": "NYSE",
+      "website": "https://www.internationalpaper.com",
+      "logoUrl": "/companies-assets/IP.NYSE.svg",
+      "title": "Senior Vice President and Chief Financial Officer",
+      "startDate": "1981",
+      "endDate": "2017",
+      "formattedStartDate": "1981",
+      "formattedEndDate": "2017"
     }
   ],
   "investmentTheses": [
@@ -22,7 +47,13 @@
   "socials": [
     {
       "name": "LinkedIn",
-      "url": "https://www.linkedin.com/in/carol-roberts-22001131"
+      "url": "https://www.linkedin.com/in/carol-roberts-22001131/",
+      "person_name": "Carol Roberts",
+      "company_name": "International Paper",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
   ],
   "committees": [

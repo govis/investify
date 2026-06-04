@@ -6,19 +6,35 @@
   "age_year": 2024,
   "background": "Marcus V. Brown is Executive Vice President and General Counsel. He has served in this role since 2013 and joined Entergy in 1995.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Entergy Corporation",
       "ticker": "ETR",
       "exchange": "NYSE",
       "title_or_role": "Executive Vice President and General Counsel",
-      "start_date": "2013-01-01",
-      "end_date": null
+      "website": "https://www.entergy.com",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/marcus-brown-99072810",
+      "person_name": "Marcus Brown",
+      "company_name": "Entergy Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

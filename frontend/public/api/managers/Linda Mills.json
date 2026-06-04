@@ -9,11 +9,48 @@
       "ticker": "MRCY",
       "exchange": "NASDAQ",
       "website": "https://www.mrcy.com",
-      "title": "Independent Director",
-      "startDate": "2018-01-01",
+      "logoUrl": "/companies-assets/MRCY.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2018 January",
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "website": "https://www.northropgrumman.com",
+      "logoUrl": "/companies-assets/NOC.NYSE.svg",
+      "title": "Corporate Vice President",
+      "startDate": "Unknown",
+      "endDate": "2014",
+      "formattedStartDate": "",
+      "formattedEndDate": "2014"
+    },
+    {
+      "name": "Navient Corporation",
+      "ticker": "NAVI",
+      "exchange": "NASDAQ",
+      "website": "navient.com",
+      "logoUrl": "/companies-assets/NAVI.NASDAQ.svg",
+      "title": "Director / Chair",
+      "startDate": "2014",
+      "endDate": "2024",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "American International Group, Inc. (AIG)",
+      "ticker": "AIG",
+      "exchange": "NYSE",
+      "website": "https://aig.com",
+      "logoUrl": "/companies-assets/AIG.NYSE.png",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": "2023",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2023"
     }
   ],
   "investmentTheses": [

@@ -9,11 +9,36 @@
       "ticker": "CEG",
       "exchange": "NASDAQ",
       "website": "https://www.constellationenergy.com",
-      "title": "Executive Vice President and Chief Commercial Officer",
-      "startDate": "2022-02-01",
+      "logoUrl": "/companies-assets/CEG.NASDAQ.svg",
+      "title": "Senior Executive Vice President and Chief Commercial Officer",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2022 February",
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Exelon Corporation",
+      "ticker": "EXC",
+      "exchange": "NASDAQ",
+      "website": "https://www.exeloncorp.com",
+      "logoUrl": "/companies-assets/EXC.NASDAQ.svg",
+      "title": "Executive Vice President",
+      "startDate": "2012",
+      "endDate": "2022",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Constellation Energy Group, Inc.",
+      "ticker": "CEG",
+      "exchange": "NYSE",
+      "website": "https://www.constellationenergy.com",
+      "logoUrl": "/companies-assets/CEG.NYSE.svg",
+      "title": "Senior Vice President, Portfolio Management & Strategy / Chief Executive Officer",
+      "startDate": "2012",
+      "endDate": "2018",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2018"
     }
   ],
   "investmentTheses": [

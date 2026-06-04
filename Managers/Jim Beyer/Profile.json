@@ -6,19 +6,45 @@
   "age_year": 2024,
   "background": "Mr. Beyer has over 30 years of experience in the mining industry, having held senior roles at Mt Gibson Iron, Newmont, and WMC Resources. He is a mining engineer with extensive experience in gold and base metals.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Regis Resources Limited",
       "ticker": "RRL",
       "exchange": "ASX",
       "title_or_role": "Managing Director and Chief Executive Officer",
-      "start_date": "2018-10-15",
-      "end_date": null
+      "website": "https://regisresources.com.au",
+      "start_date": "October 2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Mount Gibson Iron Limited",
+      "ticker": "MGX",
+      "exchange": "ASX",
+      "website": "https://www.mgx.com.au",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "December 2011",
+      "end_date": "September 30, 2018",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/jim-beyer-ba418644",
+      "person_name": "Jim Beyer",
+      "company_name": "Regis Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -9,17 +9,77 @@
       "ticker": "NST",
       "exchange": "ASX",
       "website": "https://www.nsrltd.com",
-      "title": "Non-Executive Chairman",
-      "startDate": "2021-07-01",
+      "logoUrl": "/companies-assets/NST.ASX.svg",
+      "title": "Chairman",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2021 July",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Wesfarmers Limited",
+      "ticker": "WES",
+      "exchange": "ASX",
+      "website": "https://www.wesfarmers.com.au",
+      "logoUrl": "/companies-assets/WES.ASX.svg",
+      "title": "Non-executive Director",
+      "startDate": "2015",
+      "endDate": "2015",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "National Australia Bank",
+      "ticker": "NAB",
+      "exchange": "ASX",
+      "website": "nab.com.au",
+      "logoUrl": "/companies-assets/NAB.ASX.svg",
+      "title": "Chairman",
+      "startDate": "2005",
+      "endDate": "2015",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Woodside Energy Group Ltd",
+      "ticker": "WDS",
+      "exchange": "ASX",
+      "website": "https://www.woodside.com",
+      "logoUrl": "/companies-assets/WDS.ASX.svg",
+      "title": "Chairman",
+      "startDate": "2007",
+      "endDate": "2016",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX",
+      "website": "https://www.bhp.com",
+      "logoUrl": "/companies-assets/BHP.ASX.svg",
+      "title": "Director",
+      "startDate": "1995",
+      "endDate": "2005",
+      "formattedStartDate": "1995",
+      "formattedEndDate": "2005"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michael-chaney-ao-4a5b6a12",
+      "person_name": "Michael Chaney AO",
+      "company_name": "Wesfarmers Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Nomination Committee (Chair)"
   ],

@@ -5,15 +5,100 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Taiwan Semiconductor Manufacturing Company Limited",
-      "ticker": "TSM",
+      "name": "Xerox Holdings Corporation",
+      "ticker": "XRX",
+      "exchange": "NASDAQ",
+      "website": "https://www.xerox.com",
+      "logoUrl": "/companies-assets/XRX.NASDAQ.svg",
+      "title": "CEO, Chairwoman, President",
+      "startDate": "2007",
+      "endDate": "2017",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "VEON Ltd.",
+      "ticker": "VEON",
+      "exchange": "NASDAQ",
+      "website": "https://www.veon.com",
+      "logoUrl": "/companies-assets/VEON.NASDAQ.svg",
+      "title": "Chairwoman, CEO",
+      "startDate": "2017",
+      "endDate": "2020",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "American Express Company",
+      "ticker": "AXP",
       "exchange": "NYSE",
-      "website": "https://www.tsmc.com",
-      "title": "Independent Director",
-      "startDate": "2024-06-04",
-      "endDate": null,
-      "formattedStartDate": "2024 June",
-      "formattedEndDate": ""
+      "website": "americanexpress.com",
+      "logoUrl": "/companies-assets/AXP.NYSE.svg",
+      "title": "Director",
+      "startDate": "2004",
+      "endDate": "2023",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Exxon Mobil Corporation",
+      "ticker": "XOM",
+      "exchange": "NYSE",
+      "website": "https://www.exxonmobil.com",
+      "logoUrl": "/companies-assets/XOM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2012",
+      "endDate": "2022",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Nestlé S.A.",
+      "ticker": "NSRGY",
+      "exchange": "OTC",
+      "website": "https://www.nestle.com",
+      "logoUrl": "/companies-assets/NSRGY.OTC.svg",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": "2021",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Uber Technologies, Inc.",
+      "ticker": "UBER",
+      "exchange": "NYSE",
+      "website": "https://www.uber.com",
+      "logoUrl": "/companies-assets/UBER.NYSE.svg",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": "2020",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Endeavor Group Holdings, Inc.",
+      "ticker": "EDR",
+      "exchange": "NYSE",
+      "website": "endeavorco.com",
+      "logoUrl": "/companies-assets/EDR.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": "2024",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Boston Scientific Corporation",
+      "ticker": "BSX",
+      "exchange": "NYSE",
+      "website": "https://www.bostonscientific.com",
+      "logoUrl": "/companies-assets/BSX.NYSE.svg",
+      "title": "Director",
+      "startDate": "2006",
+      "endDate": "2013",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2013"
     }
   ],
   "investmentTheses": [

@@ -7,19 +7,43 @@
     {
       "name": "Atha Energy Corp.",
       "ticker": "SASK",
-      "exchange": "TSX",
-      "website": "https://www.athaenergy.com",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
       "title": "Vice President, Exploration",
-      "startDate": "2023-05-01",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2023 May",
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCO",
+      "exchange": "TSX",
+      "website": "https://www.cameco.com",
+      "logoUrl": "/companies-assets/CCO.TSX.svg",
+      "title": "Chief Geologist (Cigar Lake Mine)",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/cliff-revering-p-eng-5a5a5a1a",
+      "person_name": "Cliff Revering",
+      "company_name": "Atha Energy Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 55,
   "ageYear": 2024

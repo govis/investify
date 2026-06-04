@@ -9,17 +9,41 @@
       "ticker": "FSLY",
       "exchange": "NYSE",
       "website": "https://www.fastly.com",
+      "logoUrl": "/companies-assets/FSLY.NYSE.svg",
       "title": "Chief Financial Officer",
-      "startDate": "2021-08-01",
+      "startDate": "August 2021",
       "endDate": null,
-      "formattedStartDate": "2021 August",
+      "formattedStartDate": "August 2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Fitbit, Inc.",
+      "ticker": "FIT",
+      "exchange": "NYSE",
+      "website": "https://www.fitbit.com",
+      "logoUrl": "/companies-assets/FIT.NYSE.png",
+      "title": "Chief Accounting Officer",
+      "startDate": "2014",
+      "endDate": "June 2018",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "June 2018"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ronald-kisling-4a5a1a1",
+      "person_name": "Ronald Kisling",
+      "company_name": "Fastly, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 63,
   "ageYear": 2024

@@ -9,17 +9,53 @@
       "ticker": "AVGO",
       "exchange": "NASDAQ",
       "website": "https://www.broadcom.com",
-      "title": "Chief Financial Officer and Chief Accounting Officer",
-      "startDate": "2020-12-01",
+      "logoUrl": "/companies-assets/AVGO.NASDAQ.svg",
+      "title": "Vice President, Chief Financial Officer, and Chief Accounting Officer",
+      "startDate": "2020-12",
       "endDate": null,
-      "formattedStartDate": "2020 December",
+      "formattedStartDate": "December 2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "LSI Corporation",
+      "ticker": "LSI",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice President and Corporate Controller",
+      "startDate": "1997-09",
+      "endDate": "2014-05",
+      "formattedStartDate": "September 1997",
+      "formattedEndDate": "May 2014"
+    },
+    {
+      "name": "Broadcom Limited",
+      "ticker": "AVGO",
+      "exchange": "NASDAQ",
+      "website": "https://www.broadcom.com",
+      "logoUrl": "/companies-assets/AVGO.NASDAQ.svg",
+      "title": "Vice President, Controller, and Principal Accounting Officer",
+      "startDate": "2014-05",
+      "endDate": "2020-12",
+      "formattedStartDate": "May 2014",
+      "formattedEndDate": "December 2020"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kirstenspears",
+      "person_name": "Kirsten Spears",
+      "company_name": "Broadcom Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 58,
   "ageYear": 2024

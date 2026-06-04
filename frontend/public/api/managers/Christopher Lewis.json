@@ -9,17 +9,53 @@
       "ticker": "GXU",
       "exchange": "TSXV",
       "website": "https://www.goviex.com",
-      "title": "Head of Exploration",
-      "startDate": "2007-01-01",
+      "logoUrl": "/companies-assets/GXU.TSXV.svg",
+      "title": "Chief Uranium Marketing",
+      "startDate": "2021-04",
       "endDate": null,
-      "formattedStartDate": "2007 January",
+      "formattedStartDate": "April 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Uranium One Inc.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive/Management Role",
+      "startDate": "N/A",
+      "endDate": "N/A",
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCO",
+      "exchange": "TSX",
+      "website": "https://www.cameco.com",
+      "logoUrl": "/companies-assets/CCO.TSX.svg",
+      "title": "Management/Professional Role",
+      "startDate": "N/A",
+      "endDate": "N/A",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/christopherjoellewis",
+      "person_name": "Christopher Lewis",
+      "company_name": "GoviEx Uranium Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/C5103AQHZ0tR_i9x21w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516290151246?e=2147483647&v=beta&t=YMt-Q7PiqXFzMZRcbqnzW0Di4IqxKUlyK_nB1CSjrlA",
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 52,
   "ageYear": 2024

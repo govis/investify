@@ -9,17 +9,29 @@
       "ticker": "PLS",
       "exchange": "ASX",
       "website": "https://www.pilbaraminerals.com.au",
+      "logoUrl": "/companies-assets/PLS.ASX.svg",
       "title": "Chief Operating Officer",
-      "startDate": "2022-11-14",
-      "endDate": null,
-      "formattedStartDate": "2022 November",
-      "formattedEndDate": ""
+      "startDate": "January 2023",
+      "endDate": "2024",
+      "formattedStartDate": "January 2023",
+      "formattedEndDate": "2024"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/vince-de-carolis-0010b611",
+      "person_name": "Vince De Carolis",
+      "company_name": "Pilbara Minerals Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": null,
   "ageYear": null

@@ -6,20 +6,44 @@
   "companies": [
     {
       "name": "BAE Systems plc",
-      "ticker": "BA",
-      "exchange": "LSE",
-      "website": "https://www.baesystems.com",
-      "title": "President and CEO, BAE Systems, Inc.",
-      "startDate": "2020-04-01",
+      "ticker": "BA.L",
+      "exchange": "LSE (London Stock Exchange)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Director (Board of Directors)",
+      "startDate": "April 1, 2020",
       "endDate": null,
-      "formattedStartDate": "2020 April",
+      "formattedStartDate": "April 1, 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "BAE Systems, Inc.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and Chief Executive Officer",
+      "startDate": "April 1, 2020",
+      "endDate": null,
+      "formattedStartDate": "April 1, 2020",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/thomasarseneault",
+      "person_name": "Tom Arseneault",
+      "company_name": "BAE Systems, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 63,
   "ageYear": 2024

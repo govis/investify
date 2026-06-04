@@ -2,17 +2,18 @@
   "id": "Leona Aglukkaq",
   "name": "Leona Aglukkaq",
   "background": "Ms. Aglukkaq is a former Canadian politician who served as a Member of Parliament and held several cabinet positions, including Minister of Health and Minister of the Environment.",
-  "pictureUrl": null,
+  "pictureUrl": "https://nunatsiaq.com/wp-content/uploads/2021/03/Leona_Aqlukkaq-1229x1536.png",
   "companies": [
     {
       "name": "Agnico Eagle Mines Limited",
       "ticker": "AEM",
-      "exchange": "NYSE",
-      "website": "https://www.agnicoeagle.com",
+      "exchange": "NYSE/TSX",
+      "website": null,
+      "logoUrl": null,
       "title": "Director",
-      "startDate": "2022-02-08",
+      "startDate": "April 2021",
       "endDate": null,
-      "formattedStartDate": "2022 February",
+      "formattedStartDate": "April 2021",
       "formattedEndDate": ""
     },
     {
@@ -20,10 +21,11 @@
       "ticker": "VGCX",
       "exchange": "TSX",
       "website": "https://vgcx.com",
-      "title": "Independent Director",
-      "startDate": "2020-01-01",
+      "logoUrl": "/companies-assets/VGCX.TSX.svg",
+      "title": "Director",
+      "startDate": "June 2022",
       "endDate": null,
-      "formattedStartDate": "2020 January",
+      "formattedStartDate": "June 2022",
       "formattedEndDate": ""
     }
   ],

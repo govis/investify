@@ -9,18 +9,66 @@
       "ticker": "CRWD",
       "exchange": "NASDAQ",
       "website": "https://www.crowdstrike.com",
-      "title": "President, Chief Executive Officer and Director",
-      "startDate": "2011-11-01",
+      "logoUrl": "/companies-assets/CRWD.NASDAQ.svg",
+      "title": "Co-Founder, President, CEO, and Director",
+      "startDate": "November 2011",
       "endDate": null,
-      "formattedStartDate": "2011 November",
+      "formattedStartDate": "November 2011",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Hewlett Packard Enterprise Company",
+      "ticker": "HPE",
+      "exchange": "NYSE",
+      "website": "https://www.arubanetworks.com",
+      "logoUrl": "https://www.arubanetworks.com/assets/images/logos/Aruba_a_Hewlett_Packard_Enterprise_company-Logo.png",
+      "title": "Member of the Board of Directors",
+      "startDate": "June 2019",
+      "endDate": null,
+      "formattedStartDate": "June 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "McAfee, Inc.",
+      "ticker": "N/A",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Worldwide Chief Technology Officer and Executive Vice President",
+      "startDate": "October 2009",
+      "endDate": "October 2011",
+      "formattedStartDate": "October 2009",
+      "formattedEndDate": "October 2011"
+    },
+    {
+      "name": "Foundstone, Inc.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "Founder and CEO",
+      "startDate": "October 1999",
+      "endDate": "October 2004",
+      "formattedStartDate": "October 1999",
+      "formattedEndDate": "October 2004"
     }
   ],
   "investmentTheses": [
     "AI",
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/georgekurtz",
+      "person_name": "George Kurtz",
+      "company_name": "CrowdStrike",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 53,
   "ageYear": 2024

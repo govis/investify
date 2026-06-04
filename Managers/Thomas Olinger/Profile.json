@@ -6,6 +6,28 @@
   "age_year": 2024,
   "background": "Thomas Olinger was the CFO of Prologis, Inc. from 2012 to 2022.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Equinix, Inc.",
+      "ticker": "EQIX",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.equinix.com",
+      "start_date": "2023-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Prologis, Inc.",
+      "ticker": "PLD",
+      "exchange": "NYSE",
+      "website": "https://www.prologis.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2012",
+      "end_date": "2022",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -13,14 +35,6 @@
   "committees": [
     "Audit Committee"
   ],
-  "companies": [
-    {
-      "name": "Equinix, Inc.",
-      "ticker": "EQIX",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2023-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

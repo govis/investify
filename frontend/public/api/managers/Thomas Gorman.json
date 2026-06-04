@@ -2,18 +2,31 @@
   "id": "Thomas Gorman",
   "name": "Thomas Gorman",
   "background": "Former CEO of Brambles Limited.",
-  "pictureUrl": "https://ledger.americanprecision.org/wp-content/uploads/Tom-Gorman.jpg",
+  "pictureUrl": "/managers-assets/Thomas Gorman.jpg",
   "companies": [
     {
       "name": "Alcoa Corporation",
       "ticker": "AA",
       "exchange": "NYSE",
       "website": "https://www.alcoa.com",
-      "title": "Independent Director",
-      "startDate": "2017-05-01",
+      "logoUrl": "/companies-assets/AA.NYSE.svg",
+      "title": "Non-executive Chairman of the Board",
+      "startDate": "2025-05-08",
       "endDate": null,
-      "formattedStartDate": "2017 May",
+      "formattedStartDate": "May 2025",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Sims Limited",
+      "ticker": "SGM",
+      "exchange": "ASX",
+      "website": "https://www.simsltd.com",
+      "logoUrl": "/companies-assets/SGM.ASX.svg",
+      "title": "Non-executive Director",
+      "startDate": "2020-05-01",
+      "endDate": "2025-05-09",
+      "formattedStartDate": "May 2020",
+      "formattedEndDate": "May 2025"
     }
   ],
   "investmentTheses": [
@@ -21,8 +34,9 @@
   ],
   "socials": [
     {
-      "url": "https://au.linkedin.com/in/tom-gorman-32b60018",
-      "name": "LinkedIn"
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/thomas-gorman-429380143",
+      "picture_download_count": 1
     }
   ],
   "committees": [

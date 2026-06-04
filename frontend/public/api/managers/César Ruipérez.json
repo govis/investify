@@ -9,10 +9,23 @@
       "ticker": "WBX",
       "exchange": "NYSE",
       "website": "https://wallbox.com",
-      "title": "Non-Executive Director",
-      "startDate": "2023-06-01",
+      "logoUrl": "/companies-assets/WBX.NYSE.svg",
+      "title": "Member of the Board of Directors / Chair of the Corporate Governance and Nominations Committee",
+      "startDate": "December 2022",
       "endDate": null,
-      "formattedStartDate": "2023 June",
+      "formattedStartDate": "December 2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Iberdrola, S.A.",
+      "ticker": "IBE",
+      "exchange": "BME (Bolsas y Mercados Españoles)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director of Corporate Development",
+      "startDate": "October 2008",
+      "endDate": null,
+      "formattedStartDate": "October 2008",
       "formattedEndDate": ""
     }
   ],

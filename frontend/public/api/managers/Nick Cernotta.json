@@ -9,17 +9,77 @@
       "ticker": "NST",
       "exchange": "ASX",
       "website": "https://www.nsrltd.com",
+      "logoUrl": "/companies-assets/NST.ASX.svg",
       "title": "Non-Executive Director",
-      "startDate": "2019-07-01",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2019 July",
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "29Metals Limited",
+      "ticker": "29M",
+      "exchange": "ASX",
+      "website": "https://www.29metals.com/",
+      "logoUrl": "/companies-assets/29M.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Critica Limited",
+      "ticker": "CRI",
+      "exchange": "ASX",
+      "website": "critica.limited",
+      "logoUrl": "/companies-assets/CRI.ASX.png",
+      "title": "Non-Executive Director",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Pilbara Minerals Limited",
+      "ticker": "PLS",
+      "exchange": "ASX",
+      "website": "https://www.pilbaraminerals.com.au",
+      "logoUrl": "/companies-assets/PLS.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2017",
+      "endDate": "2024",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Macmahon Holdings Limited",
+      "ticker": "MAH",
+      "exchange": "ASX",
+      "website": "https://www.macmahon.com.au",
+      "logoUrl": "/companies-assets/MAH.ASX.svg",
+      "title": "COO: Underground & Intl & Engg",
+      "startDate": "Unknown",
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/nick-cernotta-4a5b2a15",
+      "person_name": "Nick Cernotta",
+      "company_name": "Northern Star Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "ESG Committee (Chair)",
     "Remuneration Committee"

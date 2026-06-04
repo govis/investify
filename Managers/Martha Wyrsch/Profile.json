@@ -6,23 +6,69 @@
   "age_year": 2024,
   "background": "Ms. Wyrsch was formerly the General Counsel of Sempra Energy. She has extensive legal and regulatory experience in the energy sector.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Governance and Nominating Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Quanta Services, Inc.",
       "ticker": "PWR",
       "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2019-01-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://www.quantaservices.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "National Grid plc",
+      "ticker": "NGG",
+      "exchange": "NYSE",
+      "website": "https://www.nationalgrid.com",
+      "title_or_role": "Non-executive Director",
+      "start_date": "September 1, 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "First American Financial Corporation",
+      "ticker": "FAF",
+      "exchange": "NYSE",
+      "website": "https://www.firstam.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": "January 21, 2026",
+      "validated": true
+    },
+    {
+      "name": "Sempra",
+      "ticker": "SRE",
+      "exchange": "NYSE",
+      "website": "https://www.sempra.com",
+      "title_or_role": "Executive Vice President and General Counsel",
+      "start_date": "September 3, 2013",
+      "end_date": "March 2019",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/martha-wyrsch",
+      "person_name": "Martha Wyrsch",
+      "company_name": "Sempra",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

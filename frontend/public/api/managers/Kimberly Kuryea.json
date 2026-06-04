@@ -9,17 +9,41 @@
       "ticker": "GD",
       "exchange": "NYSE",
       "website": "https://www.gd.com",
-      "title": "Senior Vice President and Chief Financial Officer",
-      "startDate": "2024-01-01",
+      "logoUrl": "/companies-assets/GD.NYSE.svg",
+      "title": "Senior Vice President, Human Resources (and various prior executive roles)",
+      "startDate": "2000",
       "endDate": null,
-      "formattedStartDate": "2024 January",
+      "formattedStartDate": "2000",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Manhattan Associates, Inc.",
+      "ticker": "MANH",
+      "exchange": "NASDAQ",
+      "website": "https://www.manh.com",
+      "logoUrl": "/companies-assets/MANH.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2022-05-16",
+      "endDate": null,
+      "formattedStartDate": "May 2022",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kimberly-kuryea-4a5a5a12",
+      "person_name": "Kimberly Kuryea",
+      "company_name": "General Dynamics Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 57,
   "ageYear": 2024

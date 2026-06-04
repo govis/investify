@@ -6,21 +6,37 @@
   "age_year": null,
   "background": "Mr. Barker has over 40 years of experience in the uranium industry, including senior roles at Cameco Corporation and Areva. He is a recognized expert in uranium marketing and contracting.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Remuneration and Nomination Committee (Chair)"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Peninsula Energy Limited",
       "ticker": "PEN",
       "exchange": "ASX",
-      "title_or_role": "Non-Executive Director",
-      "start_date": "2015-11-01",
-      "end_date": null
+      "title_or_role": "Company Secretary",
+      "website": "https://www.pel.net.au",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/mark-barker-71360817",
+      "person_name": "Mark Barker",
+      "company_name": "Peninsula Energy Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Remuneration and Nomination Committee (Chair)"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

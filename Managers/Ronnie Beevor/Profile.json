@@ -6,22 +6,58 @@
   "age_year": 2024,
   "background": "Ronnie Beevor is an experienced investment banker and mining executive. He was previously Head of Investment Banking at NM Rothschild & Sons (Australia) and has served on the boards of numerous mining companies.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Remuneration and Nomination Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Bannerman Energy Ltd",
       "ticker": "BMN",
       "exchange": "ASX",
       "title_or_role": "Non-Executive Chairman",
-      "start_date": "2014-07-27",
-      "end_date": null
+      "website": "https://bannermanenergy.com",
+      "start_date": "2009-07-27",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Champion Iron Limited",
+      "ticker": "CIA",
+      "exchange": "ASX",
+      "website": "https://championiron.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2024-03-28",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Wolf Minerals",
+      "ticker": "WLF",
+      "exchange": "ASX",
+      "website": null,
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2012-09",
+      "end_date": "2018-10",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/ronnie-beevor",
+      "person_name": "Ronnie Beevor",
+      "company_name": "Bannerman Energy Ltd",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

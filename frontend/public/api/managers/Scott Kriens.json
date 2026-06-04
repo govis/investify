@@ -9,11 +9,24 @@
       "ticker": "JNPR",
       "exchange": "NYSE",
       "website": "https://www.juniper.net",
+      "logoUrl": "/companies-assets/JNPR.NYSE.svg",
       "title": "Chairman of the Board",
-      "startDate": "1996-10-01",
+      "startDate": "2008-09",
       "endDate": null,
-      "formattedStartDate": "1996 October",
+      "formattedStartDate": "September 2008",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Equinix, Inc.",
+      "ticker": "EQIX",
+      "exchange": "NASDAQ",
+      "website": "https://www.equinix.com",
+      "logoUrl": "/companies-assets/EQIX.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2000-07",
+      "endDate": "2020-06",
+      "formattedStartDate": "July 2000",
+      "formattedEndDate": "June 2020"
     }
   ],
   "investmentTheses": [

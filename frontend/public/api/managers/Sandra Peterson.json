@@ -9,18 +9,102 @@
       "ticker": "MSFT",
       "exchange": "NASDAQ",
       "website": "https://www.microsoft.com",
-      "title": "Lead Independent Director, Independent Director",
-      "startDate": "2021-12-01",
+      "logoUrl": "/companies-assets/MSFT.NASDAQ.svg",
+      "title": "Director (Lead Independent Director)",
+      "startDate": "2015",
       "endDate": null,
-      "formattedStartDate": "2021 December",
+      "formattedStartDate": "2015",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Johnson & Johnson",
+      "ticker": "JNJ",
+      "exchange": "NYSE",
+      "website": "https://www.jnj.com",
+      "logoUrl": "/companies-assets/JNJ.NYSE.svg",
+      "title": "Group Worldwide Chairman",
+      "startDate": "2012",
+      "endDate": "2018",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "The Dun & Bradstreet Corporation",
+      "ticker": "DNB",
+      "exchange": "NYSE",
+      "website": "https://www.dnb.com",
+      "logoUrl": "/companies-assets/DNB.NYSE.svg",
+      "title": "Director",
+      "startDate": "2005",
+      "endDate": "2013",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Zymergen Inc.",
+      "ticker": "ZY",
+      "exchange": "NASDAQ",
+      "website": "https://www.zymergen.com",
+      "logoUrl": "/companies-assets/ZY.NASDAQ.png",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": "2022",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Covetrus, Inc.",
+      "ticker": "CVET",
+      "exchange": "NASDAQ",
+      "website": "https://covetrus.com",
+      "logoUrl": "/companies-assets/CVET.NASDAQ.png",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": "2022",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Medco Health Solutions, Inc.",
+      "ticker": "MHS",
+      "exchange": "NYSE",
+      "website": "https://www.medco.com",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Medco_Health_Solutions_logo.svg",
+      "title": "Executive Vice President",
+      "startDate": "2005",
+      "endDate": "2008",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2008"
+    },
+    {
+      "name": "Handleman Company",
+      "ticker": "HDL",
+      "exchange": "OTC",
+      "website": "N/A",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Handleman_Company_logo.svg/250px-Handleman_Company_logo.svg.png",
+      "title": "Director",
+      "startDate": "2006",
+      "endDate": "2008",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2008"
     }
   ],
   "investmentTheses": [
     "AI",
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/-sandra-peterson",
+      "person_name": "Sandra Peterson",
+      "company_name": "Clayton, Dubilier & Rice",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee",
     "Governance and Nominating Committee"

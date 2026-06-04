@@ -7,30 +7,55 @@
     {
       "name": "enCore Energy Corp.",
       "ticker": "EU",
-      "exchange": "NASDAQ",
-      "website": "https://encoreuranium.com",
-      "title": "Chief Executive Officer, Director",
-      "startDate": "2020-10-01",
+      "exchange": "TSX.V",
+      "website": null,
+      "logoUrl": null,
+      "title": "CEO and Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2020 October",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
     },
     {
-      "name": "enCore Energy Corp.",
-      "ticker": "EU",
-      "exchange": "TSX",
-      "website": "https://encoreuranium.com",
-      "title": "Chief Executive Officer, Director",
-      "startDate": "2020-10-01",
-      "endDate": null,
-      "formattedStartDate": "2020 October",
-      "formattedEndDate": ""
+      "name": "Energy Fuels Inc.",
+      "ticker": "UUUU",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Operating Officer",
+      "startDate": "2012",
+      "endDate": "2020",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Uranerz Energy Corp.",
+      "ticker": "URZ",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "President, Chief Operating Officer, and Director",
+      "startDate": "2013",
+      "endDate": "2015",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2015"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/paul-goranson-p-e-nacd-dc-a19b0938",
+      "person_name": "Paul Goranson",
+      "company_name": "enCore Energy Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 62,
   "ageYear": 2024

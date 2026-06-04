@@ -9,11 +9,48 @@
       "ticker": "CXB",
       "exchange": "TSX",
       "website": "https://calibremining.com",
+      "logoUrl": "/companies-assets/CXB.TSX.svg",
       "title": "Director",
-      "startDate": "2019-10-15",
+      "startDate": "2020-05",
       "endDate": null,
-      "formattedStartDate": "2019 October",
+      "formattedStartDate": "May 2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Newcore Gold Ltd.",
+      "ticker": "NCAU",
+      "exchange": "TSXV",
+      "website": "https://newcoregold.com/",
+      "logoUrl": "/companies-assets/NCAU.TSXV.png",
+      "title": "Director",
+      "startDate": "2019-08",
+      "endDate": "2024-03",
+      "formattedStartDate": "August 2019",
+      "formattedEndDate": "March 2024"
+    },
+    {
+      "name": "Edgewater Exploration Ltd.",
+      "ticker": "EDW",
+      "exchange": "TSXV",
+      "website": "edgewaterexploration.com",
+      "logoUrl": "http://www.edgewaterexploration.com/i/logo.gif",
+      "title": "President, CEO, CFO, Director",
+      "startDate": "2010-01",
+      "endDate": null,
+      "formattedStartDate": "January 2010",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Newmarket Gold Inc.",
+      "ticker": "NMI",
+      "exchange": "TSX",
+      "website": "N/A",
+      "logoUrl": "/companies-assets/NMI.TSX.svg",
+      "title": "Director",
+      "startDate": "2015-11",
+      "endDate": "2016-11",
+      "formattedStartDate": "November 2015",
+      "formattedEndDate": "November 2016"
     }
   ],
   "investmentTheses": [

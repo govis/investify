@@ -9,18 +9,102 @@
       "ticker": "MSFT",
       "exchange": "NASDAQ",
       "website": "https://www.microsoft.com",
-      "title": "Independent Director",
-      "startDate": "2014-10-01",
+      "logoUrl": "/companies-assets/MSFT.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2014-10",
       "endDate": null,
-      "formattedStartDate": "2014 October",
+      "formattedStartDate": "October 2014",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Danaher Corporation",
+      "ticker": "DHR",
+      "exchange": "NYSE",
+      "website": "danaher.com",
+      "logoUrl": "/companies-assets/DHR.NYSE.svg",
+      "title": "Director",
+      "startDate": "2011-09",
+      "endDate": null,
+      "formattedStartDate": "September 2011",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "DoubleVerify Holdings, Inc.",
+      "ticker": "DV",
+      "exchange": "NYSE",
+      "website": "https://www.doubleverify.com/",
+      "logoUrl": "/companies-assets/DV.NYSE.svg",
+      "title": "Director",
+      "startDate": "2020-05",
+      "endDate": null,
+      "formattedStartDate": "May 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Visa Inc.",
+      "ticker": "V",
+      "exchange": "NYSE",
+      "website": "visa.com",
+      "logoUrl": "/companies-assets/V.NYSE.svg",
+      "title": "Director",
+      "startDate": "2023-02",
+      "endDate": null,
+      "formattedStartDate": "February 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Gap Inc.",
+      "ticker": "GPS",
+      "exchange": "NYSE",
+      "website": "https://www.gapinc.com",
+      "logoUrl": "/companies-assets/GPS.NYSE.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2017-01-17",
+      "endDate": "2020-03",
+      "formattedStartDate": "January 2017",
+      "formattedEndDate": "March 2020"
+    },
+    {
+      "name": "DICK’S Sporting Goods, Inc.",
+      "ticker": "DKS",
+      "exchange": "NYSE",
+      "website": "https://www.dicks.com",
+      "logoUrl": "/companies-assets/DKS.NYSE.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2015-08",
+      "endDate": "2016-09",
+      "formattedStartDate": "August 2015",
+      "formattedEndDate": "September 2016"
+    },
+    {
+      "name": "Kraft Foods Group, Inc.",
+      "ticker": "KRFT",
+      "exchange": "NASDAQ",
+      "website": "https://www.kraftheinz.com",
+      "logoUrl": "/companies-assets/KRFT.NASDAQ.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2014-02",
+      "endDate": "2015-02",
+      "formattedStartDate": "February 2014",
+      "formattedEndDate": "February 2015"
     }
   ],
   "investmentTheses": [
     "AI",
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/teri-list-16986510",
+      "person_name": "Teri List",
+      "company_name": "Microsoft Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

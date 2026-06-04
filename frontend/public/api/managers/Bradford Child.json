@@ -3,23 +3,22 @@
   "name": "Bradford Child",
   "background": "Bradford T. Child has served as a member of our Board since October 2020 and as Chairman since May 2022. Mr. Child is a Managing Director at Blackstone in the Private Equity Group.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "Array Technologies, Inc.",
-      "ticker": "ARRY",
-      "exchange": "NASDAQ",
-      "website": "https://arraytechinc.com",
-      "title": "Chairman, Director",
-      "startDate": "2022-05-01",
-      "endDate": null,
-      "formattedStartDate": "2022 May",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bradford-child-338960138",
+      "person_name": "Bradford Child",
+      "company_name": "Blackstone",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],

@@ -6,13 +6,14 @@
   "companies": [
     {
       "name": "Uranium Royalty Corp.",
-      "ticker": "UROY",
-      "exchange": "TSX",
-      "website": "https://www.uraniumroyalty.com/",
-      "title": "Independent Director",
-      "startDate": "2019-10-01",
+      "ticker": "URC (TSX), URNM (NASDAQ)",
+      "exchange": "TSX, NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Financial Officer",
+      "startDate": "2019",
       "endDate": null,
-      "formattedStartDate": "2019 October",
+      "formattedStartDate": "2019",
       "formattedEndDate": ""
     }
   ],

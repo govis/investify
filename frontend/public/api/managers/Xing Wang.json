@@ -9,10 +9,23 @@
       "ticker": "LI",
       "exchange": "NASDAQ",
       "website": "https://www.lixiang.com",
-      "title": "Non-executive Director",
-      "startDate": "2019-07-01",
+      "logoUrl": "/companies-assets/LI.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2019 July",
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Meituan",
+      "ticker": "MPNGY",
+      "exchange": "OTC",
+      "website": "https://about.meituan.com/",
+      "logoUrl": "/companies-assets/MPNGY.OTC.svg",
+      "title": "Chairman of the Board, Chief Executive Officer, Co-Founder",
+      "startDate": "2010",
+      "endDate": null,
+      "formattedStartDate": "2010",
       "formattedEndDate": ""
     }
   ],

@@ -5,14 +5,39 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Lam Research Corporation",
-      "ticker": "LRCX",
+      "name": "Xerox Holdings Corporation",
+      "ticker": "XRX",
       "exchange": "NASDAQ",
-      "website": "https://www.lamresearch.com",
-      "title": "Director",
-      "startDate": "2019-01-01",
+      "website": "https://www.xerox.com",
+      "logoUrl": "/companies-assets/XRX.NASDAQ.svg",
+      "title": "Chief Financial Officer (Interim)",
+      "startDate": "2015",
+      "endDate": "2017",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Hamilton Lane Incorporated",
+      "ticker": "HLNE",
+      "exchange": "NASDAQ",
+      "website": "https://www.hamiltonlane.com",
+      "logoUrl": "/companies-assets/HLNE.NASDAQ.svg",
+      "title": "Independent Director",
+      "startDate": "2017",
       "endDate": null,
-      "formattedStartDate": "2019 January",
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Dentsply Sirona Inc.",
+      "ticker": "XRAY",
+      "exchange": "NASDAQ",
+      "website": "dentsplysirona.com",
+      "logoUrl": "/companies-assets/XRAY.NASDAQ.svg",
+      "title": "Independent Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +45,18 @@
     "AI",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/leslievaron",
+      "person_name": "Leslie Varon",
+      "company_name": "Lam Research Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

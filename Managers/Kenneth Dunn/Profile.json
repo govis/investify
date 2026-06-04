@@ -6,6 +6,29 @@
   "age_year": 2024,
   "background": "Professor of Financial Economics at Carnegie Mellon University. Director since 2010.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "NextEra Energy, Inc.",
+      "ticker": "NEE",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.nexteraenergy.com",
+      "start_date": "December 2010",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "ticker": "BLK",
+      "exchange": "NYSE",
+      "website": "https://www.blackrock.com",
+      "title_or_role": "Director",
+      "start_date": "2005",
+      "end_date": "Not specified",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
@@ -14,14 +37,6 @@
     "Audit",
     "Finance & Investment"
   ],
-  "companies": [
-    {
-      "name": "NextEra Energy, Inc.",
-      "ticker": "NEE",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2010-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

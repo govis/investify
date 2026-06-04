@@ -5,22 +5,46 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "First Mining Gold Corp.",
-      "ticker": "FF",
-      "exchange": "TSX",
-      "website": "https://firstmininggold.com",
-      "title": "Chairman and Director",
-      "startDate": "2015-03-30",
+      "name": "First Majestic Silver Corp.",
+      "ticker": "AG",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "President, CEO & Director",
+      "startDate": "2002",
       "endDate": null,
-      "formattedStartDate": "2015 March",
+      "formattedStartDate": "2002",
       "formattedEndDate": ""
+    },
+    {
+      "name": "First Quantum Minerals Ltd.",
+      "ticker": "FM",
+      "exchange": "TSX",
+      "website": "https://first-quantum.com",
+      "logoUrl": "/companies-assets/FM.TSX.svg",
+      "title": "Founding President",
+      "startDate": "1992",
+      "endDate": "2002",
+      "formattedStartDate": "1992",
+      "formattedEndDate": "2002"
     }
   ],
   "investmentTheses": [
     "Gold",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/keith-neumeyer-5119195",
+      "person_name": "Keith Neumeyer",
+      "company_name": "First Majestic Silver Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 64,
   "ageYear": 2024

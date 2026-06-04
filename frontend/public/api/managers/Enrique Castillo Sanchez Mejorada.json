@@ -5,14 +5,27 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Southern Copper Corporation",
-      "ticker": "SCCO",
-      "exchange": "NYSE",
-      "website": "https://www.southerncoppercorp.com",
+      "name": "Alpek, S.A.B. de C.V.",
+      "ticker": "ALPKF",
+      "exchange": "OTC",
+      "website": "https://www.alpek.com/",
+      "logoUrl": "/companies-assets/ALPKF.OTC.png",
       "title": "Independent Director",
-      "startDate": "2010-01-01",
+      "startDate": "2025",
       "endDate": null,
-      "formattedStartDate": "2010 January",
+      "formattedStartDate": "2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Grupo Aeroportuario del Centro Norte, S.A.B. de C.V.",
+      "ticker": "OMAB",
+      "exchange": "NASDAQ",
+      "website": "https://ir.oma.aero/",
+      "logoUrl": "/companies-assets/OMAB.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
       "formattedEndDate": ""
     }
   ],

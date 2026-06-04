@@ -5,14 +5,15 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "NANO Nuclear Energy Inc.",
-      "ticker": "NNE",
-      "exchange": "NASDAQ",
-      "website": "https://nanonuclearenergy.com",
-      "title": "Founder and Executive Chairman",
-      "startDate": "2022-04-01",
+      "name": "Flewber Global Inc.",
+      "ticker": "FLAI",
+      "exchange": "NYSE",
+      "website": "https://flewber.com/",
+      "logoUrl": "https://flewber.com/wp-content/uploads/2023/05/flewber-logo.png",
+      "title": "President and Director",
+      "startDate": "2021-04-12",
       "endDate": null,
-      "formattedStartDate": "2022 April",
+      "formattedStartDate": "April 2021",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +21,18 @@
     "Nuclear",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jay-jiang-yu-7a5b2a1a",
+      "person_name": "Jay Jiang Yu",
+      "company_name": "NANO Nuclear Energy Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 44,
   "ageYear": 2024

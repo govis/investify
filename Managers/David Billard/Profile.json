@@ -6,19 +6,75 @@
   "age_year": null,
   "background": "David Billard is a P.Geo. and the Head of Exploration for Skyharbour. He is a geologist with over 35 years of experience in exploration and development, particularly in the Athabasca Basin. He has worked with companies like Cameco and JNR Resources.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Skyharbour Resources Ltd.",
       "ticker": "SYH",
-      "exchange": "TSX",
-      "title_or_role": "Head of Exploration",
-      "start_date": "2013-06-01",
-      "end_date": null
+      "exchange": "TSXV",
+      "title_or_role": "Consulting Geologist (Qualified Person)",
+      "website": "skyharbourltd.com",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Abasca Resources Inc.",
+      "ticker": "ABA",
+      "exchange": "TSXV",
+      "website": "abascaresources.com",
+      "title_or_role": "Chairman",
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "JNR Resources Inc.",
+      "ticker": "JNN",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "COO, Non-Independent Director & VP-Exploration",
+      "start_date": "2007",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Bessor Minerals Inc.",
+      "ticker": "BST",
+      "exchange": "TSXV",
+      "website": "bessorminerals.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2007",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Signet Minerals Inc.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/david-billard-75145a4b",
+      "person_name": "David Billard",
+      "company_name": "Skyharbour Resources Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

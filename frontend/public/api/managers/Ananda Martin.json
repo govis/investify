@@ -9,10 +9,23 @@
       "ticker": "SPIR",
       "exchange": "NYSE",
       "website": "https://spire.com",
-      "title": "General Counsel",
-      "startDate": "2021-01-01",
+      "logoUrl": "/companies-assets/SPIR.NYSE.svg",
+      "title": "Director",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2021 January",
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Legend Biotech Corporation",
+      "ticker": "LEGN",
+      "exchange": "NASDAQ",
+      "website": "https://www.legendbiotech.com",
+      "logoUrl": "/companies-assets/LEGN.NASDAQ.svg",
+      "title": "VP, Global Compliance",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],

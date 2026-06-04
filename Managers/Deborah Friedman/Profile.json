@@ -6,6 +6,28 @@
   "age_year": 2024,
   "background": "Ms. Friedman is a retired partner of Davis Graham & Stubbs LLP, where she practiced law for over 30 years, specializing in corporate finance and securities law with a focus on the mining industry.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Vista Gold Corp.",
+      "ticker": "VGZ",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.vistagold.com",
+      "start_date": "2019-03-01",
+      "end_date": null
+    },
+    {
+      "name": "Golden Minerals Company",
+      "ticker": "AUMN",
+      "exchange": "NYSE American / TSX",
+      "website": "https://www.goldenminerals.com/",
+      "title_or_role": "Director",
+      "start_date": "December 9, 2021",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold",
     "Nuclear"
@@ -15,14 +37,6 @@
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Vista Gold Corp.",
-      "ticker": "VGZ",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2019-03-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

@@ -9,17 +9,41 @@
       "ticker": "NST",
       "exchange": "ASX",
       "website": "https://www.nsrltd.com",
+      "logoUrl": "/companies-assets/NST.ASX.svg",
       "title": "Chief Operating Officer",
-      "startDate": "2021-07-22",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2021 July",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Saracen Mineral Holdings Limited",
+      "ticker": "SAR",
+      "exchange": "ASX",
+      "website": null,
+      "logoUrl": "https://companieslogo.com/img/orig/SAR.AX-73069123.png?t=1632646468",
+      "title": "Chief Operating Officer",
+      "startDate": "2017",
+      "endDate": "2021",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2021"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/simon-jessop-a953a660",
+      "person_name": "Simon Jessop",
+      "company_name": "Northern Star Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 50,
   "ageYear": 2024

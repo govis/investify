@@ -3,19 +3,7 @@
   "name": "Michael Gray",
   "background": "Mr. Gray is a co-founder of Agentis Capital Mining Partners and has over 30 years of experience in the mining sector, including equity research and corporate development.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "Onyx Gold Corp.",
-      "ticker": "ONYX",
-      "exchange": "TSX",
-      "website": "https://onyxgold.com",
-      "title": "Director",
-      "startDate": "2023-06-01",
-      "endDate": null,
-      "formattedStartDate": "2023 June",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "Gold",
     "Nuclear"

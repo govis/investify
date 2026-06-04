@@ -6,20 +6,56 @@
   "age_year": 2024,
   "background": "Ruth Porat has served as the President and Chief Investment Officer of Alphabet and Google since September 2023, and as the Chief Financial Officer of Alphabet and Google since May 2015. Prior to joining Google, she was at Morgan Stanley, where she served as Executive Vice President and Chief Financial Officer from 2010 to 2015.",
   "picture_url": null,
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Alphabet Inc.",
       "ticker": "GOOGL",
       "exchange": "NASDAQ",
-      "title_or_role": "President and Chief Investment Officer, Chief Financial Officer",
-      "start_date": "2023-09-01",
-      "end_date": null
+      "title_or_role": "President & Chief Investment Officer (formerly CFO)",
+      "website": "https://abc.xyz",
+      "start_date": "2015-05",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Blackstone Inc.",
+      "ticker": "BX",
+      "exchange": "NYSE",
+      "website": "https://www.blackstone.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2020-06-25",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Morgan Stanley",
+      "ticker": "MS",
+      "exchange": "NYSE",
+      "website": "https://www.morganstanley.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2010-01",
+      "end_date": "2015-04",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ruth-porat-4a5b6a1",
+      "person_name": "Ruth Porat",
+      "company_name": "Alphabet Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -9,10 +9,23 @@
       "ticker": "AMZN",
       "exchange": "NASDAQ",
       "website": "https://www.amazon.com",
-      "title": "Director",
-      "startDate": "2016-09-01",
+      "logoUrl": "/companies-assets/AMZN.NASDAQ.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2016",
       "endDate": null,
-      "formattedStartDate": "2016 September",
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Corning Incorporated",
+      "ticker": "GLW",
+      "exchange": "NYSE",
+      "website": "https://www.corning.com",
+      "logoUrl": "/companies-assets/GLW.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "February 3, 2015",
+      "endDate": null,
+      "formattedStartDate": "February 3, 2015",
       "formattedEndDate": ""
     }
   ],

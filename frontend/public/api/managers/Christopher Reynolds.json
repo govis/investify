@@ -7,12 +7,25 @@
     {
       "name": "Lahontan Gold Corp.",
       "ticker": "LG",
-      "exchange": "TSX",
-      "website": "https://lahontangoldcorp.com/",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
       "title": "Director",
-      "startDate": "2022-04-06",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2022 April",
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Golcap Resources Corp.",
+      "ticker": "GCP",
+      "exchange": "CSE",
+      "website": "https://golcapresources.com/",
+      "logoUrl": "/companies-assets/GCP.CSE.png",
+      "title": "Interim Chief Executive Officer & Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
     }
   ],

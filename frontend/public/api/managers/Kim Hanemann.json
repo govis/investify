@@ -9,17 +9,41 @@
       "ticker": "PEG",
       "exchange": "NYSE",
       "website": "https://www.pseg.com",
-      "title": "President and Chief Operating Officer, PSE&G",
-      "startDate": "2021-06-01",
+      "logoUrl": "/companies-assets/PEG.NYSE.svg",
+      "title": "President and Chief Operating Officer, Public Service Electric and Gas (PSE&G)",
+      "startDate": "2021-06-30",
       "endDate": null,
-      "formattedStartDate": "2021 June",
+      "formattedStartDate": "June 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Middlesex Water Company",
+      "ticker": "MSEX",
+      "exchange": "NASDAQ",
+      "website": "https://www.middlesexwater.com",
+      "logoUrl": "/companies-assets/MSEX.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2022-05",
+      "endDate": null,
+      "formattedStartDate": "May 2022",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kim-hanemann",
+      "person_name": "Kim Hanemann",
+      "company_name": "Public Service Electric and Gas (PSE&G)",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 60,
   "ageYear": 2024

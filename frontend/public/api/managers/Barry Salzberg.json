@@ -9,17 +9,41 @@
       "ticker": "TRI",
       "exchange": "NYSE",
       "website": "https://www.thomsonreuters.com",
-      "title": "Independent Director",
-      "startDate": "2015-07-01",
+      "logoUrl": "/companies-assets/TRI.NYSE.svg",
+      "title": "Director",
+      "startDate": "2015",
       "endDate": null,
-      "formattedStartDate": "2015 July",
+      "formattedStartDate": "2015",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Blue Apron Holdings, Inc.",
+      "ticker": "APRN",
+      "exchange": "NYSE",
+      "website": "https://www.blueapron.com",
+      "logoUrl": "/companies-assets/APRN.NYSE.svg",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": "2023",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2023"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/barry-salzberg-b6b614116",
+      "person_name": "Barry Salzberg",
+      "company_name": "Deloitte",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee (Chair)",
     "Human Resources Committee"

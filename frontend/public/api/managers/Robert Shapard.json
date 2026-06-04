@@ -9,11 +9,60 @@
       "ticker": "LDOS",
       "exchange": "NYSE",
       "website": "https://www.leidos.com",
-      "title": "Independent Chairman",
-      "startDate": "2013-01-01",
+      "logoUrl": "/companies-assets/LDOS.NYSE.svg",
+      "title": "Director",
+      "startDate": "2013",
       "endDate": null,
-      "formattedStartDate": "2013 January",
+      "formattedStartDate": "2013",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Tenet Healthcare Corporation",
+      "ticker": "THC",
+      "exchange": "NYSE",
+      "website": "https://www.tenethealth.com",
+      "logoUrl": "/companies-assets/THC.NYSE.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2005",
+      "endDate": "2006",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2006"
+    },
+    {
+      "name": "Exelon Corporation",
+      "ticker": "EXC",
+      "exchange": "NASDAQ",
+      "website": "https://www.exeloncorp.com",
+      "logoUrl": "/companies-assets/EXC.NASDAQ.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2002",
+      "endDate": "2005",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "2005"
+    },
+    {
+      "name": "Covanta Energy Corp.",
+      "ticker": "CVA",
+      "exchange": "NYSE",
+      "website": "https://www.covanta.com",
+      "logoUrl": "/companies-assets/CVA.NYSE.png",
+      "title": "Chief Financial Officer",
+      "startDate": "Prior to 2002",
+      "endDate": "2002",
+      "formattedStartDate": "Prior to 2002",
+      "formattedEndDate": "2002"
+    },
+    {
+      "name": "Ultramar Diamond Shamrock",
+      "ticker": "UDS",
+      "exchange": "NYSE",
+      "website": "N/A",
+      "logoUrl": "https://seeklogo.com/images/U/ultramar-diamond-shamrock-logo-6679540548-seeklogo.com.png",
+      "title": "Chief Financial Officer",
+      "startDate": "Prior to 2002",
+      "endDate": "Prior to 2002",
+      "formattedStartDate": "Prior to 2002",
+      "formattedEndDate": "Prior to 2002"
     }
   ],
   "investmentTheses": [

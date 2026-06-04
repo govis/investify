@@ -9,17 +9,29 @@
       "ticker": "ARE",
       "exchange": "TSX",
       "website": "https://www.aecon.com",
+      "logoUrl": "/companies-assets/ARE.TSX.svg",
       "title": "Executive Vice President and President, Aecon Concessions",
-      "startDate": "2002-01-01",
+      "startDate": "Not publicly specified",
       "endDate": null,
-      "formattedStartDate": "2002 January",
+      "formattedStartDate": "Not publicly specified",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/steve-nackan-7678824",
+      "person_name": "Steve Nackan",
+      "company_name": "Aecon Group Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 53,
   "ageYear": 2024

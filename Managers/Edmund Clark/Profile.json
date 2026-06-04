@@ -6,6 +6,39 @@
   "age_year": 2024,
   "background": "Former President and CEO of TD Bank Group. Member of the Order of Canada.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Thomson Reuters Corporation",
+      "ticker": "TRI",
+      "exchange": "TSX / NYSE",
+      "title_or_role": "Director",
+      "website": "www.thomsonreuters.com",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Toronto-Dominion Bank",
+      "ticker": "TD",
+      "exchange": "TSX / NYSE",
+      "website": "www.td.com",
+      "title_or_role": "President and CEO",
+      "start_date": "2000",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "Canada Trust Financial Services Inc.",
+      "ticker": "CT",
+      "exchange": "TSX (Delisted)",
+      "website": null,
+      "title_or_role": "President and CEO",
+      "start_date": "1994",
+      "end_date": "2000",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI"
   ],
@@ -14,14 +47,6 @@
     "Corporate Governance Committee",
     "Human Resources Committee (Chair)"
   ],
-  "companies": [
-    {
-      "name": "Thomson Reuters Corporation",
-      "ticker": "TRI",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2015-05-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

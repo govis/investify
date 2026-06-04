@@ -5,15 +5,16 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Li Auto Inc.",
-      "ticker": "LI",
-      "exchange": "NASDAQ",
-      "website": "https://www.lixiang.com",
-      "title": "Chairman and Chief Executive Officer, Chairman of the Board",
-      "startDate": "2015-04-01",
-      "endDate": null,
-      "formattedStartDate": "2015 April",
-      "formattedEndDate": ""
+      "name": "Autohome Inc.",
+      "ticker": "ATHM",
+      "exchange": "NYSE",
+      "website": "https://ir.autohome.com.cn/",
+      "logoUrl": "/companies-assets/ATHM.NYSE.svg",
+      "title": "Founder and President",
+      "startDate": "2005",
+      "endDate": "2015",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2015"
     }
   ],
   "investmentTheses": [

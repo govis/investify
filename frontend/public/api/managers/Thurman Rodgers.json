@@ -9,10 +9,71 @@
       "ticker": "ENPH",
       "exchange": "NASDAQ",
       "website": "https://enphase.com",
+      "logoUrl": "/companies-assets/ENPH.NASDAQ.svg",
       "title": "Director",
-      "startDate": "2017-01-01",
+      "startDate": "January 2017",
       "endDate": null,
-      "formattedStartDate": "2017 January",
+      "formattedStartDate": "January 2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Enovix Corporation",
+      "ticker": "ENVX",
+      "exchange": "NASDAQ",
+      "website": "https://www.enovix.com",
+      "logoUrl": "/companies-assets/ENVX.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "July 2012",
+      "endDate": null,
+      "formattedStartDate": "July 2012",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "FTC Solar, Inc.",
+      "ticker": "FTCI",
+      "exchange": "NASDAQ",
+      "website": "https://www.ftcsolar.com/",
+      "logoUrl": "https://www.ftcsolar.com/wp-content/uploads/2021/03/FTC-Solar-Logo-H-Color-RGB.png",
+      "title": "Director / Chairman of the Board",
+      "startDate": "January 2017",
+      "endDate": "January 2023",
+      "formattedStartDate": "January 2017",
+      "formattedEndDate": "January 2023"
+    },
+    {
+      "name": "Cypress Semiconductor Corporation",
+      "ticker": "CY",
+      "exchange": "NASDAQ",
+      "website": "www.cypress.com",
+      "logoUrl": "/companies-assets/CY.NASDAQ.svg",
+      "title": "Founder, President, CEO, and Director",
+      "startDate": "1982",
+      "endDate": "August 2016",
+      "formattedStartDate": "1982",
+      "formattedEndDate": "August 2016"
+    },
+    {
+      "name": "SunPower Corporation",
+      "ticker": "SPWR",
+      "exchange": "NASDAQ",
+      "website": "https://us.sunpower.com",
+      "logoUrl": "/companies-assets/SPWR.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "May 2002",
+      "endDate": "May 2011",
+      "formattedStartDate": "May 2002",
+      "formattedEndDate": "May 2011"
+    },
+    {
+      "name": "Complete Solaria, Inc.",
+      "ticker": "CSLR",
+      "exchange": "NASDAQ",
+      "website": "https://completesolaria.com/",
+      "logoUrl": "/companies-assets/CSLR.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "July 2023",
+      "endDate": null,
+      "formattedStartDate": "July 2023",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +81,18 @@
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/thurman-rodgers-345515a2",
+      "person_name": "Thurman Rodgers",
+      "company_name": "Cypress Semiconductor Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee"
   ],

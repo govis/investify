@@ -7,13 +7,26 @@
     {
       "name": "Fortune Bay Corp.",
       "ticker": "FOR",
-      "exchange": "TSX",
-      "website": "https://fortunebaycorp.com",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
       "title": "Independent Director",
-      "startDate": "2016-02-04",
+      "startDate": "2016-05-12",
       "endDate": null,
-      "formattedStartDate": "2016 February",
+      "formattedStartDate": "May 2016",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Crosshair Energy Corporation",
+      "ticker": "CXZ",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "https://web.archive.org/web/20120502173817im_/http://www.crosshairenergy.com/themes/crosshair/images/logo.gif",
+      "title": "Director",
+      "startDate": "2008-05",
+      "endDate": "2013-08-29",
+      "formattedStartDate": "May 2008",
+      "formattedEndDate": "August 2013"
     }
   ],
   "investmentTheses": [

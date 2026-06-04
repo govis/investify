@@ -9,21 +9,35 @@
       "ticker": "CS",
       "exchange": "TSX",
       "website": "https://capstonecopper.com",
-      "title": "Chair and Independent Director",
-      "startDate": "2011-05-01",
+      "logoUrl": "/companies-assets/CS.TSX.svg",
+      "title": "Director",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2011 May",
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
     },
     {
       "name": "Lithium Americas Corp.",
       "ticker": "LAC",
-      "exchange": "NYSE",
-      "website": "https://www.lithiumamericas.com",
-      "title": "Chair of the Board",
-      "startDate": "2023-10-04",
+      "exchange": "TSX/NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2023 October",
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Lithium Argentina Corp.",
+      "ticker": "LAAC",
+      "exchange": "TSX/NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Lead Director",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
       "formattedEndDate": ""
     }
   ],
@@ -31,7 +45,18 @@
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/george-ireland-b5075710b",
+      "person_name": "George Ireland",
+      "company_name": "Geologic Resource Partners LLC",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Governance and Nominating Committee",

@@ -5,21 +5,33 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Aclara Resources Inc.",
-      "ticker": "ARA",
-      "exchange": "TSX",
-      "website": "https://www.aclara.com",
-      "title": "Independent Director",
-      "startDate": "2021-12-01",
+      "name": "CanAlaska Uranium Ltd.",
+      "ticker": "CVV",
+      "exchange": "TSXV",
+      "website": "https://canalaska.com/",
+      "logoUrl": "/companies-assets/CVV.TSXV.png",
+      "title": "Director (July 2021 – Present), Chair of the Board (Appointed May 2024 – Present)",
+      "startDate": "July 2021",
       "endDate": null,
-      "formattedStartDate": "2021 December",
+      "formattedStartDate": "July 2021",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/karen-lloyd-icd-d-95a69414",
+      "person_name": "Karen Lloyd",
+      "company_name": "CanAlaska Uranium Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation, Nominating and Governance Committee"
   ],

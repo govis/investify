@@ -9,17 +9,89 @@
       "ticker": "GROY",
       "exchange": "NYSE",
       "website": "https://www.goldroyalty.com",
-      "title": "Chairman, President and Chief Executive Officer",
-      "startDate": "2020-08-01",
+      "logoUrl": "/companies-assets/GROY.NYSE.png",
+      "title": "Chairman, CEO, President",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2020 August",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Aris Mining Corporation",
+      "ticker": "ARIS",
+      "exchange": "TSX",
+      "website": "https://aris-mining.com/",
+      "logoUrl": "/companies-assets/ARIS.TSX.svg",
+      "title": "Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Goldcorp Inc.",
+      "ticker": "G",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "President, CEO",
+      "startDate": "2016",
+      "endDate": "2019",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Hudbay Minerals Inc.",
+      "ticker": "HBM",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "President, CEO, Director",
+      "startDate": "2010",
+      "endDate": "2015",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Agnico-Eagle Mines Limited",
+      "ticker": "AEM",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "SVP, Finance and CFO, Director",
+      "startDate": "1998",
+      "endDate": "2010",
+      "formattedStartDate": "1998",
+      "formattedEndDate": "2010"
+    },
+    {
+      "name": "Inmet Mining Corporation",
+      "ticker": "IMN",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/a2/Inmet_Mining_logo.png",
+      "title": "Treasurer",
+      "startDate": "1990",
+      "endDate": "1998",
+      "formattedStartDate": "1990",
+      "formattedEndDate": "1998"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/david-garofalo-fcpa-fca-icd-d-478127b6",
+      "person_name": "David Garofalo",
+      "company_name": "Gold Royalty Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 58,
   "ageYear": 2023

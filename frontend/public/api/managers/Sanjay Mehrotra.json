@@ -9,18 +9,66 @@
       "ticker": "MU",
       "exchange": "NASDAQ",
       "website": "https://www.micron.com",
-      "title": "Director, President and Chief Executive Officer",
-      "startDate": "2017-05-08",
+      "logoUrl": "/companies-assets/MU.NASDAQ.svg",
+      "title": "President and CEO",
+      "startDate": "May 2017",
       "endDate": null,
-      "formattedStartDate": "2017 May",
+      "formattedStartDate": "May 2017",
       "formattedEndDate": ""
+    },
+    {
+      "name": "CDW Corporation",
+      "ticker": "CDW",
+      "exchange": "NASDAQ",
+      "website": "https://www.cdw.com",
+      "logoUrl": "/companies-assets/CDW.NASDAQ.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "March 2021",
+      "endDate": null,
+      "formattedStartDate": "March 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cavium, Inc.",
+      "ticker": "CAVM",
+      "exchange": "NASDAQ",
+      "website": "https://www.marvell.com",
+      "logoUrl": "/companies-assets/CAVM.NASDAQ.png",
+      "title": "Member, Board of Directors",
+      "startDate": "2009",
+      "endDate": "2018",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "SanDisk Corporation",
+      "ticker": "SNDK",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "/companies-assets/SNDK.NASDAQ.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "1988",
+      "endDate": "2016",
+      "formattedStartDate": "1988",
+      "formattedEndDate": "2016"
     }
   ],
   "investmentTheses": [
     "AI",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sanjay-mehrotra",
+      "person_name": "Sanjay Mehrotra",
+      "company_name": "Micron Technology",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 65,
   "ageYear": 2023

@@ -6,27 +6,53 @@
   "age_year": 2024,
   "background": "Mr. Coles was a co-founder of Skeena and has served as Executive Chairman since 2023. He previously served as President and CEO from 2013 to 2023. Before Skeena, he was an analyst and portfolio manager at Cadence Investment Partners and held roles at UBS Investment Bank and Anthracite Capital.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Skeena Resources Limited",
       "ticker": "SKE",
-      "exchange": "NYSE",
+      "exchange": "TSX",
       "title_or_role": "Executive Chairman",
-      "start_date": "2023-02-01",
-      "end_date": null
+      "website": "https://skeenaresources.com",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Skeena Resources Limited",
       "ticker": "SKE",
       "exchange": "TSX",
       "title_or_role": "Executive Chairman",
+      "website": "https://skeenaresources.com",
       "start_date": "2023-01-01",
       "end_date": null
+    },
+    {
+      "name": "Gold Bull Resources Corp.",
+      "ticker": "GBRC",
+      "exchange": "TSXV",
+      "website": "https://goldbull.ca",
+      "title_or_role": "Independent Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "QuestEx Gold & Copper Ltd. (formerly Colorado Resources Ltd.)",
+      "ticker": "QEX",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "2019",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

@@ -2,40 +2,67 @@
   "id": "Anita Sands",
   "name": "Anita Sands",
   "background": "Former Group Managing Director and Head of Change Leadership at UBS Financial Services. She joined the board in 2020.",
-  "pictureUrl": null,
+  "pictureUrl": "/managers-assets/Anita Sands.jpg",
   "companies": [
     {
-      "name": "First Solar, Inc.",
-      "ticker": "FSLR",
+      "name": "Nu Holdings Ltd.",
+      "ticker": "NU",
+      "exchange": "NYSE",
+      "website": "https://nu.com.br",
+      "logoUrl": "/companies-assets/NU.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Nextdoor Holdings, Inc.",
+      "ticker": "KIND",
+      "exchange": "NYSE",
+      "website": "https://nextdoor.com",
+      "logoUrl": "/companies-assets/KIND.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": "2024",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "SVF Investment Corp.",
+      "ticker": "SVFA",
       "exchange": "NASDAQ",
-      "website": "https://www.firstsolar.com",
-      "title": "Independent Director",
-      "startDate": "2020-01-01",
-      "endDate": null,
-      "formattedStartDate": "2020 January",
-      "formattedEndDate": ""
+      "website": "https://svfinvestmentcorp.com",
+      "logoUrl": "https://svfinvestmentcorp.com/images/logo.png",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": "2023",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2023"
     },
     {
-      "name": "ServiceNow, Inc.",
-      "ticker": "NOW",
+      "name": "iStar Inc. (now Safehold Inc.)",
+      "ticker": "SAFE",
       "exchange": "NYSE",
-      "website": "https://www.servicenow.com",
-      "title": "Independent Director",
-      "startDate": "2014-07-01",
-      "endDate": null,
-      "formattedStartDate": "2014 July",
-      "formattedEndDate": ""
+      "website": "https://safeholdinc.com",
+      "logoUrl": "/companies-assets/SAFE.NYSE.svg",
+      "title": "Director",
+      "startDate": "2014",
+      "endDate": "2022",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2022"
     },
     {
-      "name": "Pure Storage, Inc.",
-      "ticker": "PSTG",
-      "exchange": "NYSE",
-      "website": "https://www.purestorage.com",
-      "title": "Independent Director",
-      "startDate": "2015-07",
-      "endDate": null,
-      "formattedStartDate": "2015 July",
-      "formattedEndDate": ""
+      "name": "Symantec Corp.",
+      "ticker": "SYMC",
+      "exchange": "NASDAQ",
+      "website": "https://broadcom.com",
+      "logoUrl": "/companies-assets/SYMC.NASDAQ.jpg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": "2019",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2019"
     }
   ],
   "investmentTheses": [
@@ -43,7 +70,19 @@
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dranitasands",
+      "person_name": "Anita Sands",
+      "company_name": "UBS Financial Services",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Nominating and Corporate Governance Committee",

@@ -6,6 +6,29 @@
   "age_year": 2024,
   "background": "Former partner at PwC with extensive experience in audit and risk management.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Nextracker Inc.",
+      "ticker": "NXT",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chief Operating Officer (COO)",
+      "website": "https://www.nextracker.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Mainfreight Limited",
+      "ticker": "MFT",
+      "exchange": "NZX",
+      "website": "https://www.mainfreight.com",
+      "title_or_role": "Branch Manager (Adelaide)",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
@@ -13,14 +36,6 @@
   "committees": [
     "Audit Committee"
   ],
-  "companies": [
-    {
-      "name": "Nextracker Inc.",
-      "ticker": "NXT",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2023-02-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

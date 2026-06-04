@@ -5,26 +5,16 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Lithium Americas Corp.",
-      "ticker": "LAC",
+      "name": "Eldorado Gold Corporation",
+      "ticker": "EGO",
       "exchange": "NYSE",
-      "website": "https://www.lithiumamericas.com",
-      "title": "Director",
-      "startDate": "2023-10-04",
-      "endDate": null,
-      "formattedStartDate": "2023 October",
-      "formattedEndDate": ""
-    },
-    {
-      "name": "Royal Gold, Inc.",
-      "ticker": "RGLD",
-      "exchange": "NASDAQ",
-      "website": "https://www.royalgold.com",
-      "title": "Independent Director",
-      "startDate": "2020-01-01",
-      "endDate": null,
-      "formattedStartDate": "2020 January",
-      "formattedEndDate": ""
+      "website": "https://www.eldoradogold.com",
+      "logoUrl": "/companies-assets/EGO.NYSE.svg",
+      "title": "Treasurer Coordinator",
+      "startDate": "2007",
+      "endDate": "2008",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2008"
     }
   ],
   "investmentTheses": [
@@ -32,7 +22,18 @@
     "Gold",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/fabiana-chubbs-1774b318",
+      "person_name": "Fabiana Chubbs",
+      "company_name": "Lithium Americas Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Audit Committee (Chair)"

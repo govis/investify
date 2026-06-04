@@ -9,17 +9,41 @@
       "ticker": "ROK",
       "exchange": "NYSE",
       "website": "https://www.rockwellautomation.com",
-      "title": "Senior Vice President and Chief Technology Officer",
-      "startDate": "2021-07-01",
+      "logoUrl": "/companies-assets/ROK.NYSE.svg",
+      "title": "Senior Vice President & Chief Technology Officer",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2021 July",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Schneider Electric SE",
+      "ticker": "SU",
+      "exchange": "Euronext Paris",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Vice President, IoT and Digital Offers",
+      "startDate": "1996",
+      "endDate": "2021",
+      "formattedStartDate": "1996",
+      "formattedEndDate": "2021"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/cperducat",
+      "person_name": "Cyril Perducat",
+      "company_name": "Rockwell Automation, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 54,
   "ageYear": 2024

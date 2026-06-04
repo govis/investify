@@ -9,17 +9,53 @@
       "ticker": "CGAU",
       "exchange": "NYSE",
       "website": "https://www.centerragold.com",
-      "title": "Vice President, Business Development",
-      "startDate": "2008-01-01",
+      "logoUrl": "/companies-assets/CGAU.NYSE.svg",
+      "title": "Vice President, Business Development & Exploration",
+      "startDate": "2016",
+      "endDate": "2023",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Florida Canyon Gold Inc.",
+      "ticker": "FCGV",
+      "exchange": "TSXV",
+      "website": "https://floridacanyongold.com",
+      "logoUrl": "/companies-assets/FCGV.TSXV.png",
+      "title": "Chief Financial Officer",
+      "startDate": "2016",
       "endDate": null,
-      "formattedStartDate": "2008 January",
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Thompson Creek Metals Company Inc.",
+      "ticker": "TCM",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Thompson_Creek_Metals_logo.png/220px-Thompson_Creek_Metals_logo.png",
+      "title": "President",
+      "startDate": "2016",
+      "endDate": "2016",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2016"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/dennis-kwong-cpa-cfa-98095319",
+      "person_name": "Dennis Kwong",
+      "company_name": "Centerra Gold Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 55,
   "ageYear": 2024

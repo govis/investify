@@ -5,21 +5,57 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Evolution Mining Limited",
-      "ticker": "EVN",
-      "exchange": "ASX",
-      "website": "https://evolutionmining.com.au",
-      "title": "Chief Projects Officer",
-      "startDate": "2022-07-01",
+      "name": "Aris Mining Corp.",
+      "ticker": "ARIS",
+      "exchange": "TSX",
+      "website": "https://aris-mining.com/",
+      "logoUrl": "/companies-assets/ARIS.TSX.svg",
+      "title": "Director",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2022 July",
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "LSE, TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Operating Officer",
+      "startDate": "2010",
+      "endDate": "2017",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Leagold Mining Corp.",
+      "ticker": "LMC",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "https://www.denvergold.org/wp-content/uploads/2019/07/Leagold-Mining-Logo.png",
+      "title": "Chief Operating Officer",
+      "startDate": "2017",
+      "endDate": "2020",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2020"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/attie-roux-0a4a8b13/",
+      "person_name": "Adriaan (Attie) Roux",
+      "company_name": "Aris Mining Corporation",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1
+    }
+  ],
   "committees": [],
   "age": 65,
   "ageYear": 2024

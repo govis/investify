@@ -6,20 +6,46 @@
   "age_year": 2024,
   "background": "Douglas J. Herrington has been CEO of Worldwide Amazon Stores since July 2022. He joined Amazon in 2005 and previously served as Senior Vice President, North America Consumer.",
   "picture_url": null,
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Amazon.com, Inc.",
       "ticker": "AMZN",
       "exchange": "NASDAQ",
       "title_or_role": "CEO, Worldwide Amazon Stores",
-      "start_date": "2022-07-01",
-      "end_date": null
+      "website": "https://www.aboutamazon.com",
+      "start_date": "2005",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Webvan Group, Inc.",
+      "ticker": "WBVN",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Vice President",
+      "start_date": "1999",
+      "end_date": "2001",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/douglasherrington",
+      "person_name": "Douglas Herrington",
+      "company_name": "Amazon",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

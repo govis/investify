@@ -5,15 +5,40 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Lundin Mining Corporation",
-      "ticker": "LUN",
-      "exchange": "TSX",
-      "website": "https://www.lundinmining.com",
-      "title": "Independent Director",
-      "startDate": "2015-05-01",
+      "name": "International Petroleum Corporation",
+      "ticker": "IPCO",
+      "exchange": "TSX / Nasdaq Stockholm",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2017",
       "endDate": null,
-      "formattedStartDate": "2015 May",
+      "formattedStartDate": "2017",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Dream Office Real Estate Investment Trust",
+      "ticker": "D.UN",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Lead Trustee",
+      "startDate": "2003",
+      "endDate": null,
+      "formattedStartDate": "2003",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "IAMGOLD Corporation",
+      "ticker": "IMG",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman of the Board / Director",
+      "startDate": "2014",
+      "endDate": "2022",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2022"
     }
   ],
   "investmentTheses": [

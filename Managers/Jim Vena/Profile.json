@@ -6,19 +6,55 @@
   "age_year": 2024,
   "background": "Jim Vena is the Chief Executive Officer of Union Pacific. He previously served as Chief Operating Officer from 2019 to 2020 and has over 40 years of experience in the railroad industry, including a long career at CN.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Union Pacific Corporation",
       "ticker": "UNP",
       "exchange": "NYSE",
-      "title_or_role": "Chief Executive Officer, Director",
+      "title_or_role": "Chief Executive Officer & Director",
+      "website": "www.up.com",
       "start_date": "2023-08-14",
-      "end_date": null
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "FedEx Corporation",
+      "ticker": "FDX",
+      "exchange": "NYSE",
+      "website": "www.fedex.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Canadian National Railway Company",
+      "ticker": "CNR",
+      "exchange": "TSX",
+      "website": "www.cn.ca",
+      "title_or_role": "Executive Vice President & Chief Operating Officer",
+      "start_date": "1977",
+      "end_date": "2019",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jim-vena-5a5b5a1b",
+      "person_name": "Jim Vena",
+      "company_name": "Union Pacific Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

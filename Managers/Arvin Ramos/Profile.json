@@ -6,20 +6,68 @@
   "age_year": 2024,
   "background": "Mr. Ramos holds a degree in commerce from the University of Windsor and is a member of the Chartered Professional Accountants of Ontario. He has over 15 years of experience in the mining industry and has served as CFO for several junior mining companies.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification",
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Consolidated Lithium Metals Inc.",
       "ticker": "CLM",
       "exchange": "TSXV",
       "title_or_role": "Chief Financial Officer",
-      "start_date": "2021-06-01",
-      "end_date": null
+      "website": "https://www.consolidatedlithium.com/",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "QcX Gold Corp.",
+      "ticker": "QCXGF",
+      "exchange": "OTC",
+      "website": "https://qcxgold.com/",
+      "title_or_role": "Chief Financial Officer & Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Generic Gold Corp.",
+      "ticker": "GGCPF",
+      "exchange": "OTC",
+      "website": "https://genericgold.ca/",
+      "title_or_role": "Chief Financial Officer & Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "AireSurf Networks Holdings, Inc.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "N/A",
+      "title_or_role": "Chief Financial Officer & Director",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/arvin-ramos-cpa-ca-4b5a5a1a",
+      "person_name": "Arvin Ramos",
+      "company_name": "Generic Gold Corp.",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1,
+      "profile_status": "private"
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 1
 }

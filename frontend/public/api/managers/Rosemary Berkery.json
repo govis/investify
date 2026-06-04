@@ -9,18 +9,54 @@
       "ticker": "FLR",
       "exchange": "NYSE",
       "website": "https://www.fluor.com",
-      "title": "Independent Director",
-      "startDate": "2010-01-01",
+      "logoUrl": "/companies-assets/FLR.NYSE.svg",
+      "title": "Director",
+      "startDate": "2011",
       "endDate": null,
-      "formattedStartDate": "2010 January",
+      "formattedStartDate": "2011",
       "formattedEndDate": ""
+    },
+    {
+      "name": "The TJX Companies, Inc.",
+      "ticker": "TJX",
+      "exchange": "NYSE",
+      "website": "https://www.tjx.com",
+      "logoUrl": "/companies-assets/TJX.NYSE.svg",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "UBS Group AG",
+      "ticker": "UBS",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice Chairman, UBS Wealth Management Americas; Chairman, UBS Bank USA",
+      "startDate": "2010",
+      "endDate": "2018",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2018"
     }
   ],
   "investmentTheses": [
     "Nuclear",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rosemary-berkery-4a5a5a12",
+      "person_name": "Rosemary Berkery",
+      "company_name": "Fluor Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Governance Committee"

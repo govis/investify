@@ -6,19 +6,24 @@
   "age_year": 2024,
   "background": "Senior Vice President since 2018. Previously President of ExxonMobil Chemical Company.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Exxon Mobil Corporation",
       "ticker": "XOM",
       "exchange": "NYSE",
       "title_or_role": "Senior Vice President",
-      "start_date": "2018-01-01",
-      "end_date": null
+      "website": "https://corporate.exxonmobil.com",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

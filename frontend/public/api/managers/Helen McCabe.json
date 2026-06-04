@@ -5,25 +5,15 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Rolls-Royce Holdings plc",
-      "ticker": "RR",
-      "exchange": ".LSE",
-      "website": "https://www.rolls-royce.com",
-      "title": "Chief Financial Officer",
-      "startDate": "2023-09-01",
+      "name": "Iveco Group N.V.",
+      "ticker": "IVG",
+      "exchange": "EXM (Euronext Milan)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Director",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2023 September",
-      "formattedEndDate": ""
-    },
-    {
-      "name": "Rolls-Royce Holdings plc",
-      "ticker": "RR",
-      "exchange": "LSE",
-      "website": "https://www.rolls-royce.com",
-      "title": "Chief Financial Officer, Executive Director",
-      "startDate": "2023-09-01",
-      "endDate": null,
-      "formattedStartDate": "2023 September",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],

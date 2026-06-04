@@ -5,14 +5,39 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "NIO Inc.",
-      "ticker": "NIO",
+      "name": "NetEase, Inc.",
+      "ticker": "NTES",
+      "exchange": "NASDAQ",
+      "website": "https://ir.netease.com/",
+      "logoUrl": "/companies-assets/NTES.NASDAQ.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2002-04",
+      "endDate": "2007-06",
+      "formattedStartDate": "April 2002",
+      "formattedEndDate": "June 2007"
+    },
+    {
+      "name": "Jianpu Technology Inc.",
+      "ticker": "JT",
       "exchange": "NYSE",
-      "website": "https://www.nio.com",
+      "website": "https://ir.jianpu.ai/",
+      "logoUrl": "/companies-assets/JT.NYSE.png",
       "title": "Independent Director",
-      "startDate": "2018-09-01",
+      "startDate": "2017-11",
       "endDate": null,
-      "formattedStartDate": "2018 September",
+      "formattedStartDate": "November 2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "New Oriental Education & Technology Group Inc.",
+      "ticker": "EDU",
+      "exchange": "NYSE",
+      "website": "https://investor.neworiental.org/",
+      "logoUrl": "/companies-assets/EDU.NYSE.png",
+      "title": "Independent Director",
+      "startDate": "2006-09",
+      "endDate": null,
+      "formattedStartDate": "September 2006",
       "formattedEndDate": ""
     }
   ],

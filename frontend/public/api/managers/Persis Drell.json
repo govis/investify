@@ -9,11 +9,12 @@
       "ticker": "NVDA",
       "exchange": "NASDAQ",
       "website": "https://www.nvidia.com",
-      "title": "Independent Director",
-      "startDate": "2015-01-01",
-      "endDate": null,
-      "formattedStartDate": "2015 January",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/NVDA.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2015",
+      "endDate": "January 20, 2026",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "January 20, 2026"
     }
   ],
   "investmentTheses": [
@@ -21,7 +22,18 @@
     "Defense",
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/persis-drell-4a5b8a12",
+      "person_name": "Persis Drell",
+      "company_name": "NVIDIA Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],

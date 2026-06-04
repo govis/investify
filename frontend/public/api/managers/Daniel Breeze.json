@@ -9,17 +9,41 @@
       "ticker": "RGLD",
       "exchange": "NASDAQ",
       "website": "https://www.royalgold.com",
-      "title": "Vice President, Corporate Development",
-      "startDate": "2018-01-01",
+      "logoUrl": "/companies-assets/RGLD.NASDAQ.svg",
+      "title": "Senior Vice President, Corporate Development",
+      "startDate": "January 2019",
       "endDate": null,
-      "formattedStartDate": "2018 January",
+      "formattedStartDate": "January 2019",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Bank of Montreal (BMO)",
+      "ticker": "BMO",
+      "exchange": "NYSE / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Managing Director, Equities (BMO Capital Markets)",
+      "startDate": "2010",
+      "endDate": "December 2018",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "December 2018"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/daniel-breeze-p-eng-8a5a5a1b",
+      "person_name": "Daniel Breeze",
+      "company_name": "Royal Gold, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 52,
   "ageYear": 2024

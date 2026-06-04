@@ -9,11 +9,24 @@
       "ticker": "NAM",
       "exchange": "TSXV",
       "website": "https://newagemetals.com",
-      "title": "Independent Director",
-      "startDate": "2021-01-01",
+      "logoUrl": "/companies-assets/NAM.TSXV.png",
+      "title": "Director",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2021 January",
+      "formattedStartDate": "",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Highlander Silver Corp.",
+      "ticker": "HSLV",
+      "exchange": "CSE",
+      "website": "https://highlandersilver.com/",
+      "logoUrl": "/companies-assets/HSLV.CSE.png",
+      "title": "President and CEO; Director",
+      "startDate": "2021",
+      "endDate": "2022",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2022"
     }
   ],
   "investmentTheses": [

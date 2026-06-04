@@ -2,36 +2,85 @@
   "id": "Audra Walsh",
   "name": "Audra Walsh",
   "background": "Ms. Walsh is a professional engineer with over 25 years of experience in the mining industry. She has held executive roles at Minas de Aguas Teñidas and Newmont.",
-  "pictureUrl": null,
+  "pictureUrl": "/managers-assets/Audra Walsh.jpg",
   "companies": [
     {
       "name": "Calibre Mining Corp.",
       "ticker": "CXB",
       "exchange": "TSX",
       "website": "https://calibremining.com",
+      "logoUrl": "/companies-assets/CXB.TSX.svg",
       "title": "Director",
-      "startDate": "2021-06-16",
-      "endDate": null,
-      "formattedStartDate": "2021 June",
-      "formattedEndDate": ""
+      "startDate": "2022",
+      "endDate": "2025",
+      "formattedStartDate": "2022",
+      "formattedEndDate": "2025"
     },
     {
       "name": "Faraday Copper Corp.",
       "ticker": "FDY",
       "exchange": "TSX",
       "website": "https://faradaycopper.com",
+      "logoUrl": "/companies-assets/FDY.TSX.png",
       "title": "Director",
-      "startDate": "2022-04-21",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2022 April",
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
+    },
+    {
+      "name": "IAMGOLD Corporation",
+      "ticker": "IMG",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sierra Metals Inc.",
+      "ticker": "SMT",
+      "exchange": "TSX",
+      "website": "https://sierrametals.com",
+      "logoUrl": "/companies-assets/SMT.TSX.svg",
+      "title": "President and CEO",
+      "startDate": "2012",
+      "endDate": "2015",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Orvana Minerals Corp.",
+      "ticker": "ORV",
+      "exchange": "TSX",
+      "website": "https://www.orvana.com",
+      "logoUrl": "/companies-assets/ORV.TSX.jpg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": "2016",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2016"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/audrawalsh",
+      "person_name": "Audra Walsh",
+      "company_name": "Sierra Metals Inc.",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee",

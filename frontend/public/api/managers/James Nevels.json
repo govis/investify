@@ -9,17 +9,53 @@
       "ticker": "AA",
       "exchange": "NYSE",
       "website": "https://www.alcoa.com",
-      "title": "Independent Director",
-      "startDate": "2016-11-01",
+      "logoUrl": "/companies-assets/AA.NYSE.svg",
+      "title": "Director",
+      "startDate": "2016",
       "endDate": null,
-      "formattedStartDate": "2016 November",
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
+    },
+    {
+      "name": "The Hershey Company",
+      "ticker": "HSY",
+      "exchange": "NYSE",
+      "website": "thehersheycompany.com",
+      "logoUrl": "/companies-assets/HSY.NYSE.svg",
+      "title": "Director",
+      "startDate": "2007",
+      "endDate": "2017",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "WestRock Company",
+      "ticker": "WRK",
+      "exchange": "NYSE",
+      "website": "https://www.westrock.com",
+      "logoUrl": "/companies-assets/WRK.NYSE.svg",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": "2024",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2024"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/james-b-nevels",
+      "person_name": "James B. Nevels",
+      "company_name": "The Swarthmore Group",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Governance and Nominating Committee"

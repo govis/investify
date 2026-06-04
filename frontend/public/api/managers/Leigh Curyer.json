@@ -7,52 +7,55 @@
     {
       "name": "IsoEnergy Ltd.",
       "ticker": "ISO",
-      "exchange": "TSX",
-      "website": "https://www.isoenergy.ca",
-      "title": "Director",
-      "startDate": "2016-02-02",
-      "endDate": null,
-      "formattedStartDate": "2016 February",
-      "formattedEndDate": ""
-    },
-    {
-      "name": "IsoEnergy Ltd.",
-      "ticker": "ISO",
       "exchange": "TSXV",
       "website": "https://www.isoenergy.ca",
-      "title": "Chairman",
-      "startDate": "2016-02-02",
+      "logoUrl": "/companies-assets/ISO.TSXV.svg",
+      "title": "Director",
+      "startDate": "2016",
       "endDate": null,
-      "formattedStartDate": "2016 February",
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
     },
     {
       "name": "NexGen Energy Ltd.",
       "ticker": "NXE",
-      "exchange": "NYSE",
-      "website": "https://www.nexgenenergy.ca",
-      "title": "Chief Executive Officer, Director, President",
-      "startDate": "2011-12-01",
+      "exchange": "TSX, NYSE, ASX",
+      "website": null,
+      "logoUrl": null,
+      "title": "President, CEO & Director",
+      "startDate": "2011",
       "endDate": null,
-      "formattedStartDate": "2011 December",
+      "formattedStartDate": "2011",
       "formattedEndDate": ""
     },
     {
-      "name": "NexGen Energy Ltd.",
-      "ticker": "NXE",
-      "exchange": "TSX",
-      "website": "https://www.nexgenenergy.ca",
-      "title": "Chief Executive Officer, Director",
-      "startDate": "2011-12-01",
+      "name": "International Consolidated Uranium Inc. (now enCore Energy Corp.)",
+      "ticker": "CUR",
+      "exchange": "TSXV",
+      "website": "https://www.consolidateduranium.com",
+      "logoUrl": "/companies-assets/CUR.TSXV.svg",
+      "title": "Advisory Board Member",
+      "startDate": "2020-12-03",
       "endDate": null,
-      "formattedStartDate": "2011 December",
+      "formattedStartDate": "December 2020",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/leigh-curyer-71642329",
+      "person_name": "Leigh Curyer",
+      "company_name": "NexGen Energy Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"

@@ -9,17 +9,53 @@
       "ticker": "CRML",
       "exchange": "NASDAQ",
       "website": "https://criticalmetalscorp.com",
-      "title": "Independent Director",
-      "startDate": "2024-02-27",
+      "logoUrl": "/companies-assets/CRML.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2024",
       "endDate": null,
-      "formattedStartDate": "2024 February",
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "European Lithium Limited",
+      "ticker": "EUR",
+      "exchange": "ASX",
+      "website": "https://europeanlithium.com/",
+      "logoUrl": "/companies-assets/EUR.ASX.png",
+      "title": "Non-Executive Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Moab Minerals Limited",
+      "ticker": "MOM",
+      "exchange": "ASX",
+      "website": "moabminerals.com.au",
+      "logoUrl": "/companies-assets/MOM.ASX.png",
+      "title": "Managing Director",
+      "startDate": "1999",
+      "endDate": null,
+      "formattedStartDate": "1999",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/malcolm-day-4b43288a",
+      "person_name": "Malcolm Day",
+      "company_name": "Moab Minerals Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee",

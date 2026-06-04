@@ -5,14 +5,27 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Huntington Ingalls Industries, Inc.",
-      "ticker": "HII",
+      "name": "Centrus Energy Corp",
+      "ticker": "LEU",
       "exchange": "NYSE",
-      "website": "https://www.hii.com",
-      "title": "Chairman of the Board, Director",
-      "startDate": "2020-01-01",
+      "website": "https://www.centrusenergy.com",
+      "logoUrl": "/companies-assets/LEU.NYSE.png",
+      "title": "Director",
+      "startDate": "2014",
       "endDate": null,
-      "formattedStartDate": "2020 January",
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Entergy Corporation",
+      "ticker": "ETR",
+      "exchange": "NYSE",
+      "website": "https://www.entergy.com",
+      "logoUrl": "/companies-assets/ETR.NYSE.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
       "formattedEndDate": ""
     }
   ],

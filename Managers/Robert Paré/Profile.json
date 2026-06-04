@@ -6,22 +6,48 @@
   "age_year": 2024,
   "background": "Strategic Advisor at Fasken Martineau DuMoulin LLP.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Governance, Ethics and Sustainability Committee",
-    "Human Resources Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "AtkinsR\u00e9alis Group Inc.",
       "ticker": "ATRL",
       "exchange": "TSX",
       "title_or_role": "Director",
-      "start_date": "2022-11-01",
-      "end_date": null
+      "website": "https://www.atkinsrealis.com",
+      "start_date": "April 2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "National Bank of Canada",
+      "ticker": "NA",
+      "exchange": "TSX",
+      "website": "https://www.nbc.ca",
+      "title_or_role": "Chairman of the Board (Director)",
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/robertpare",
+      "person_name": "Robert Par\u00e9",
+      "company_name": "AtkinsR\u00e9alis Group Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Governance, Ethics and Sustainability Committee",
+    "Human Resources Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

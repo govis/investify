@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Newmont Corporation",
-      "ticker": "NEM",
-      "exchange": "NYSE",
-      "website": "https://www.newmont.com",
+      "name": "UPM-Kymmene Oyj",
+      "ticker": "UPM",
+      "exchange": "Nasdaq Helsinki",
+      "website": null,
+      "logoUrl": null,
       "title": "Independent Director",
-      "startDate": "2021-01-01",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2021 January",
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Seplat Energy Plc",
+      "ticker": "SEPL",
+      "exchange": "LSE",
+      "website": "https://seplatenergy.com",
+      "logoUrl": "https://seplatenergy.com/wp-content/uploads/2023/05/Seplat-Energy-Logo.png",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/emfitzgerald",
+      "person_name": "Emma FitzGerald",
+      "company_name": "Newmont Corporation, UPM-Kymmene, Seplat Energy",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Leadership Development and Compensation Committee",
     "Safety and Sustainability Committee"

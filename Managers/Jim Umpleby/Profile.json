@@ -6,19 +6,45 @@
   "age_year": 2024,
   "background": "Jim Umpleby is chairman of the board of directors and chief executive officer of Caterpillar Inc. He joined Solar Turbines, a Caterpillar subsidiary, in 1980 and has held numerous leadership roles within the company. He was appointed CEO in 2017 and Chairman in 2018.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Caterpillar Inc.",
       "ticker": "CAT",
       "exchange": "NYSE",
-      "title_or_role": "Chairman and Chief Executive Officer",
-      "start_date": "2018-12-01",
-      "end_date": null
+      "title_or_role": "Chairman of the Board",
+      "website": "https://www.caterpillar.com",
+      "start_date": "December 2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Chevron Corporation",
+      "ticker": "CVX",
+      "exchange": "NYSE",
+      "website": "https://www.chevron.com",
+      "title_or_role": "Director",
+      "start_date": "March 2018",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jim-umpleby-5a5b5a15",
+      "person_name": "Jim Umpleby",
+      "company_name": "Caterpillar Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

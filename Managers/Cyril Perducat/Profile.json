@@ -6,19 +6,45 @@
   "age_year": 2024,
   "background": "Cyril Perducat is Senior Vice President and Chief Technology Officer. He joined Rockwell in 2021 from Schneider Electric.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Rockwell Automation, Inc.",
       "ticker": "ROK",
       "exchange": "NYSE",
-      "title_or_role": "Senior Vice President and Chief Technology Officer",
-      "start_date": "2021-07-01",
-      "end_date": null
+      "title_or_role": "Senior Vice President & Chief Technology Officer",
+      "website": "https://www.rockwellautomation.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Schneider Electric SE",
+      "ticker": "SU",
+      "exchange": "Euronext Paris",
+      "website": "https://www.se.com",
+      "title_or_role": "Executive Vice President, IoT and Digital Offers",
+      "start_date": "1996",
+      "end_date": "2021",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/cperducat",
+      "person_name": "Cyril Perducat",
+      "company_name": "Rockwell Automation, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

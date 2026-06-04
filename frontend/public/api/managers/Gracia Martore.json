@@ -9,11 +9,60 @@
       "ticker": "URI",
       "exchange": "NYSE",
       "website": "https://www.unitedrentals.com",
-      "title": "Independent Director",
-      "startDate": "2017-06-01",
+      "logoUrl": "/companies-assets/URI.NYSE.svg",
+      "title": "Director",
+      "startDate": "June 2017",
       "endDate": null,
-      "formattedStartDate": "2017 June",
+      "formattedStartDate": "June 2017",
       "formattedEndDate": ""
+    },
+    {
+      "name": "TEGNA Inc.",
+      "ticker": "TGNA",
+      "exchange": "NYSE",
+      "website": "https://www.tegna.com",
+      "logoUrl": "/companies-assets/TGNA.NYSE.svg",
+      "title": "President, Chief Executive Officer, and Director",
+      "startDate": "October 2011",
+      "endDate": "June 2017",
+      "formattedStartDate": "October 2011",
+      "formattedEndDate": "June 2017"
+    },
+    {
+      "name": "Gannett Co., Inc.",
+      "ticker": "GCI",
+      "exchange": "NYSE",
+      "website": "https://www.gannett.com",
+      "logoUrl": "/companies-assets/GCI.NYSE.svg",
+      "title": "President and Chief Executive Officer",
+      "startDate": "October 2011",
+      "endDate": "June 2015",
+      "formattedStartDate": "October 2011",
+      "formattedEndDate": "June 2015"
+    },
+    {
+      "name": "WestRock Company",
+      "ticker": "WRK",
+      "exchange": "NYSE",
+      "website": "https://www.westrock.com",
+      "logoUrl": "/companies-assets/WRK.NYSE.svg",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": "2024",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Omnicom Group Inc.",
+      "ticker": "OMC",
+      "exchange": "NYSE",
+      "website": "https://www.omnicomgroup.com",
+      "logoUrl": "/companies-assets/OMC.NYSE.svg",
+      "title": "Director",
+      "startDate": "2014",
+      "endDate": "2021",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2021"
     }
   ],
   "investmentTheses": [

@@ -6,27 +6,14 @@
   "age_year": 2024,
   "background": "Dr. Austin is the former President and CEO of The Aerospace Corporation, a leading architect for the nation\u2019s national security space programs. She served in this role from 2008 to 2016.",
   "picture_url": "https://savoynetwork.com/wp-content/uploads/2022/05/Wanda-Austin.jpeg",
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [
-    {
-      "name": "LinkedIn",
-      "url": "https://www.linkedin.com/in/wandamaustin"
-    }
-  ],
-  "committees": [
-    "Audit and Finance Committee",
-    "Board Governance Committee",
-    "Public Policy and Sustainability Committee"
-  ],
-  "companies": [
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
     {
       "name": "Apple Inc.",
       "ticker": "AAPL",
       "exchange": "NASDAQ",
       "title_or_role": "Independent Director",
+      "website": "https://www.apple.com",
       "start_date": "2024-02-28",
       "end_date": null
     },
@@ -35,10 +22,52 @@
       "ticker": "CVX",
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
+      "website": "https://www.chevron.com",
       "start_date": "2016-12-01",
       "end_date": null
+    },
+    {
+      "name": "Amgen Inc.",
+      "ticker": "AMGN",
+      "exchange": "NASDAQ",
+      "website": "https://www.amgen.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Virgin Galactic Holdings, Inc.",
+      "ticker": "SPCE",
+      "exchange": "NYSE",
+      "website": "https://www.virgingalactic.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": "2021",
+      "validated": true
     }
   ],
-  "picture_local": "Picture.jpg",
-  "enrichment_status": "success"
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/wandamaustin",
+      "person_name": "Wanda Austin",
+      "company_name": "The Aerospace Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Finance Committee",
+    "Board Governance Committee",
+    "Public Policy and Sustainability Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

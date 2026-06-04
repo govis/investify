@@ -3,19 +3,7 @@
   "name": "Sheila Mossman",
   "background": "Ms. Mossman is the Chief Accounting Officer of MP Materials. Prior to joining MP Materials, she served as Vice President and Controller of the Global Products business at Johnson Controls. She previously held various leadership roles at Tyco International and began her career at Deloitte & Touche LLP.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "MP Materials Corp.",
-      "ticker": "MP",
-      "exchange": "NYSE",
-      "website": "https://mpmaterials.com",
-      "title": "Chief Accounting Officer",
-      "startDate": "2021-08-01",
-      "endDate": null,
-      "formattedStartDate": "2021 August",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "Reshoring"
   ],

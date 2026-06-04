@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Parsons Corporation",
-      "ticker": "PSN",
-      "exchange": "NYSE",
-      "website": "https://www.parsons.com",
-      "title": "Independent Director",
-      "startDate": "2015",
+      "name": "T-Mobile US, Inc.",
+      "ticker": "TMUS",
+      "exchange": "NASDAQ",
+      "website": "https://www.t-mobile.com",
+      "logoUrl": "/companies-assets/TMUS.NASDAQ.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "June 2021",
       "endDate": null,
-      "formattedStartDate": "",
+      "formattedStartDate": "June 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "COPT Defense Properties",
+      "ticker": "CDP",
+      "exchange": "NYSE",
+      "website": "https://www.copt.com",
+      "logoUrl": "/companies-assets/CDP.NYSE.svg",
+      "title": "Member, Board of Trustees (Board of Directors)",
+      "startDate": "October 2020",
+      "endDate": null,
+      "formattedStartDate": "October 2020",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/letitia-long-156aa883",
+      "person_name": "Letitia Long",
+      "company_name": "Parsons Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation and Management Development Committee",
     "Corporate Governance and Responsibility Committee"

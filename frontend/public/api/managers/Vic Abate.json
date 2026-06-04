@@ -9,10 +9,11 @@
       "ticker": "GE",
       "exchange": "NYSE",
       "website": "https://www.geaerospace.com",
-      "title": "CEO, Wind and Gas Power",
-      "startDate": "2023-01-01",
+      "logoUrl": "/companies-assets/GE.NYSE.svg",
+      "title": "Senior Vice President and Chief Technology Officer",
+      "startDate": "1990-01-01",
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "January 1990",
       "formattedEndDate": ""
     },
     {
@@ -20,10 +21,11 @@
       "ticker": "GEV",
       "exchange": "NYSE",
       "website": "https://www.gevernova.com",
-      "title": "CEO, Wind",
+      "logoUrl": "/companies-assets/GEV.NYSE.svg",
+      "title": "CEO, Wind Business",
       "startDate": "2024-04-02",
       "endDate": null,
-      "formattedStartDate": "2024 April",
+      "formattedStartDate": "April 2024",
       "formattedEndDate": ""
     }
   ],
@@ -32,7 +34,18 @@
     "Electrification",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/vic-abate",
+      "person_name": "Vic Abate",
+      "company_name": "GE Vernova",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 59,
   "ageYear": 2024

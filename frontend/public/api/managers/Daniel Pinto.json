@@ -9,10 +9,23 @@
       "ticker": "JPM",
       "exchange": "NYSE",
       "website": "https://www.jpmorganchase.com",
-      "title": "President and Chief Operating Officer",
-      "startDate": "2022-01-01",
+      "logoUrl": "/companies-assets/JPM.NYSE.svg",
+      "title": "President and Chief Operating Officer (formerly Vice Chairman)",
+      "startDate": "1983",
       "endDate": null,
-      "formattedStartDate": "2022 January",
+      "formattedStartDate": "1983",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Johnson & Johnson",
+      "ticker": "JNJ",
+      "exchange": "NYSE",
+      "website": "https://www.jnj.com",
+      "logoUrl": "/companies-assets/JNJ.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "July 1, 2025",
+      "endDate": null,
+      "formattedStartDate": "July 1, 2025",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +33,18 @@
     "AI",
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://in.linkedin.com/in/daniel-pinto-69a985a2",
+      "person_name": "Daniel Pinto",
+      "company_name": "JPMorgan Chase & Co.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 61,
   "ageYear": 2024

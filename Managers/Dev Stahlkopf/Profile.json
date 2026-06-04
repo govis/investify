@@ -6,19 +6,45 @@
   "age_year": 2024,
   "background": "Dev Stahlkopf is Executive Vice President and Chief Legal Officer. She joined Cisco in 2021 from Microsoft, where she was Corporate Vice President and General Counsel.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Cisco Systems, Inc.",
       "ticker": "CSCO",
       "exchange": "NASDAQ",
-      "title_or_role": "Chief Legal Officer",
-      "start_date": "2021-08-01",
-      "end_date": null
+      "title_or_role": "Executive Vice President and Chief Legal Officer",
+      "website": "https://www.cisco.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "https://www.microsoft.com",
+      "title_or_role": "Corporate Vice President, General Counsel (various legal leadership roles)",
+      "start_date": "2007",
+      "end_date": "2021",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dev-stahlkopf",
+      "person_name": "Dev Stahlkopf",
+      "company_name": "Cisco Systems, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -9,17 +9,29 @@
       "ticker": "WBX",
       "exchange": "NYSE",
       "website": "https://wallbox.com",
-      "title": "Corporate Director",
-      "startDate": "2024-05-15",
+      "logoUrl": "/companies-assets/WBX.NYSE.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2024",
       "endDate": null,
-      "formattedStartDate": "2024 May",
+      "formattedStartDate": "2024",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://es.linkedin.com/in/jordi-l-6619862b",
+      "person_name": "Jordi Lainz",
+      "company_name": "Wallbox N.V.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 61,
   "ageYear": 2024

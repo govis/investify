@@ -9,18 +9,54 @@
       "ticker": "PWR",
       "exchange": "NYSE",
       "website": "https://www.quantaservices.com",
-      "title": "Independent Director",
-      "startDate": "2016-01-01",
+      "logoUrl": "/companies-assets/PWR.NYSE.png",
+      "title": "Director (Chairman of the Board)",
+      "startDate": "2016",
       "endDate": null,
-      "formattedStartDate": "2016 January",
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Northland Power Inc.",
+      "ticker": "NPI",
+      "exchange": "TSX",
+      "website": "https://www.northlandpower.com",
+      "logoUrl": "/companies-assets/NPI.TSX.svg",
+      "title": "Director",
+      "startDate": "May 2024",
+      "endDate": null,
+      "formattedStartDate": "May 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Korn Ferry",
+      "ticker": "KFY",
+      "exchange": "NYSE",
+      "website": "https://www.kornferry.com",
+      "logoUrl": "/companies-assets/KFY.NYSE.svg",
+      "title": "Director",
+      "startDate": "September 2015",
+      "endDate": "2021",
+      "formattedStartDate": "September 2015",
+      "formattedEndDate": "2021"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/doylebeneby",
+      "person_name": "Doyle Beneby",
+      "company_name": "Quanta Services, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Investment Committee"

@@ -6,20 +6,36 @@
   "age_year": 2024,
   "background": "Mr. Adkerson has served as Chairman of the Board since 2021 and Chief Executive Officer since 2003. He has been a director of the company since 2006. He previously served as President from 2008 to 2021 and Chief Financial Officer from 2000 to 2003.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Freeport-McMoRan Inc.",
       "ticker": "FCX",
       "exchange": "NYSE",
-      "title_or_role": "Chairman, Chairman of the Board, Chief Executive Officer, Director",
-      "start_date": "2021-02-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://www.fcx.com",
+      "start_date": "2006",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/richard-adkerson-4a5b2a12",
+      "person_name": "Richard Adkerson",
+      "company_name": "Freeport-McMoRan Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

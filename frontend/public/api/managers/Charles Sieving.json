@@ -9,11 +9,24 @@
       "ticker": "NEE",
       "exchange": "NYSE",
       "website": "https://www.nexteraenergy.com",
-      "title": "Executive Vice President and General Counsel",
-      "startDate": "2008-12-01",
+      "logoUrl": "/companies-assets/NEE.NYSE.svg",
+      "title": "Executive Vice President, Chief Legal, Environmental and Federal Regulatory Affairs Officer",
+      "startDate": "December 2008",
       "endDate": null,
-      "formattedStartDate": "2008 December",
+      "formattedStartDate": "December 2008",
       "formattedEndDate": ""
+    },
+    {
+      "name": "PAETEC Holding Corp.",
+      "ticker": "PAET",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/PAETEC_logo.svg/1280px-PAETEC_logo.svg.png",
+      "title": "Executive Vice President, General Counsel and Secretary",
+      "startDate": "Prior to 2008",
+      "endDate": "2008",
+      "formattedStartDate": "Prior to 2008",
+      "formattedEndDate": "2008"
     }
   ],
   "investmentTheses": [

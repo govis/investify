@@ -6,20 +6,56 @@
   "companies": [
     {
       "name": "Tudor Gold Corp.",
-      "ticker": "TUD",
-      "exchange": "TSX",
-      "website": "https://tudor-gold.com/",
+      "ticker": "TUD (TSXV), TDRRF (OTC)",
+      "exchange": "TSXV, OTC",
+      "website": null,
+      "logoUrl": null,
       "title": "Independent Director",
-      "startDate": "2020-01-01",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2020 January",
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Goldstorm Metals Corp.",
+      "ticker": "GSTM (TSXV), GSTMF (OTC)",
+      "exchange": "TSXV, OTC",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Kaizen Capital Corp.",
+      "ticker": "KAI (TSXV)",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2016-04-17",
+      "endDate": null,
+      "formattedStartDate": "April 2016",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ronald-peter-stoeferle-75555a12",
+      "person_name": "Ronald-Peter Stöferle",
+      "company_name": "Incrementum AG",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

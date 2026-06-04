@@ -9,17 +9,41 @@
       "ticker": "VSAT",
       "exchange": "NASDAQ",
       "website": "https://www.viasat.com",
-      "title": "Chief Operating Officer",
-      "startDate": "2021-05-01",
+      "logoUrl": "/companies-assets/VSAT.NASDAQ.svg",
+      "title": "Executive Vice President and Chief Corporate Officer",
+      "startDate": "2006",
       "endDate": null,
-      "formattedStartDate": "2021 May",
+      "formattedStartDate": "2006",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Computer Sciences Corporation",
+      "ticker": "CSC",
+      "exchange": "NYSE",
+      "website": "https://www.dxc.com",
+      "logoUrl": "/companies-assets/CSC.NYSE.svg",
+      "title": "Account Executive",
+      "startDate": "2002",
+      "endDate": "2006",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "2006"
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kevin-harkenrider-6783176",
+      "person_name": "Kevin Harkenrider",
+      "company_name": "Viasat, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 66,
   "ageYear": 2024

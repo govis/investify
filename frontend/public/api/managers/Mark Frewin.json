@@ -9,10 +9,23 @@
       "ticker": "FSY",
       "exchange": "TSX",
       "website": "https://forsysmetals.com",
-      "title": "Chief Executive Officer, Director",
-      "startDate": "2021-01-01",
+      "logoUrl": "/companies-assets/FSY.TSX.svg",
+      "title": "CEO and Director",
+      "startDate": "2018",
       "endDate": null,
-      "formattedStartDate": "2021 January",
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Giyani Metals Corp.",
+      "ticker": "EMM",
+      "exchange": "TSXV",
+      "website": "https://giyanimetals.com",
+      "logoUrl": "/companies-assets/EMM.TSXV.svg",
+      "title": "Director",
+      "startDate": "2012-06-01",
+      "endDate": null,
+      "formattedStartDate": "June 2012",
       "formattedEndDate": ""
     }
   ],

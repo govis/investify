@@ -6,6 +6,19 @@
   "age_year": 2024,
   "background": "Sakhila Mirza is the General Counsel and an Executive Director of the London Bullion Market Association (LBMA).",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "LSE (London Stock Exchange)",
+      "title_or_role": "Independent Non-Executive Director",
+      "website": "https://www.endeavourmining.com",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
@@ -14,14 +27,6 @@
     "Nomination and Governance Committee",
     "Remuneration Committee"
   ],
-  "companies": [
-    {
-      "name": "Endeavour Mining plc",
-      "ticker": "EDV",
-      "exchange": "LSE",
-      "title_or_role": "Independent Non-Executive Director",
-      "start_date": "2023-05-23",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

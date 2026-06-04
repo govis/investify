@@ -9,17 +9,53 @@
       "ticker": "SNOW",
       "exchange": "NYSE",
       "website": "https://www.snowflake.com",
-      "title": "Chairman of the Board",
-      "startDate": "2019-04-26",
+      "logoUrl": "/companies-assets/SNOW.NYSE.svg",
+      "title": "CEO and Chairman of the Board",
+      "startDate": "2019-05-01",
       "endDate": null,
-      "formattedStartDate": "2019 April",
+      "formattedStartDate": "May 2019",
       "formattedEndDate": ""
+    },
+    {
+      "name": "ServiceNow, Inc.",
+      "ticker": "NOW",
+      "exchange": "NYSE",
+      "website": "https://www.servicenow.com",
+      "logoUrl": "/companies-assets/NOW.NYSE.svg",
+      "title": "CEO",
+      "startDate": "2011-05-01",
+      "endDate": "2017-02-28",
+      "formattedStartDate": "May 2011",
+      "formattedEndDate": "February 2017"
+    },
+    {
+      "name": "Data Domain, Inc.",
+      "ticker": "DDUP",
+      "exchange": "NASDAQ",
+      "website": "https://www.dell.com",
+      "logoUrl": "/companies-assets/DDUP.NASDAQ.svg",
+      "title": "CEO",
+      "startDate": "2003-05-01",
+      "endDate": "2009-07-01",
+      "formattedStartDate": "May 2003",
+      "formattedEndDate": "July 2009"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/frankslootman",
+      "person_name": "Frank Slootman",
+      "company_name": "Snowflake",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 65,
   "ageYear": 2024

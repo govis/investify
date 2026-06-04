@@ -9,10 +9,35 @@
       "ticker": "GXU",
       "exchange": "TSXV",
       "website": "https://www.goviex.com",
-      "title": "Independent Director",
-      "startDate": "2011-01-01",
+      "logoUrl": "/companies-assets/GXU.TSXV.svg",
+      "title": "Strategic Advisor",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2011 January",
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sage Potash Corp.",
+      "ticker": "SAGE",
+      "exchange": "TSXV",
+      "website": "https://www.sagepotash.com",
+      "logoUrl": "/companies-assets/SAGE.TSXV.svg",
+      "title": "Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Maple Gold Mines Ltd.",
+      "ticker": "MGM",
+      "exchange": "TSXV",
+      "website": "https://www.maplegoldmines.com",
+      "logoUrl": "/companies-assets/MGM.TSXV.png",
+      "title": "Strategic Advisor",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
     }
   ],

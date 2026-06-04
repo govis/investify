@@ -9,11 +9,24 @@
       "ticker": "LCID",
       "exchange": "NASDAQ",
       "website": "https://www.lucidmotors.com",
-      "title": "Director",
-      "startDate": "2021-02-01",
+      "logoUrl": "/companies-assets/LCID.NASDAQ.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2021 February",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Mercedes-Benz Group AG",
+      "ticker": "MBG",
+      "exchange": "Xetra",
+      "website": "https://group.mercedes-benz.com",
+      "logoUrl": "/companies-assets/MBG.Xetra.svg",
+      "title": "Head of Finance & Controlling / CFO (Mercedes-Benz AG)",
+      "startDate": "2012",
+      "endDate": "2020",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2020"
     }
   ],
   "investmentTheses": [

@@ -9,21 +9,47 @@
       "ticker": "BHP",
       "exchange": "ASX",
       "website": "https://www.bhp.com",
-      "title": "Non-executive Director",
-      "startDate": "2022-03-01",
+      "logoUrl": "/companies-assets/BHP.ASX.svg",
+      "title": "Independent Non-executive Director",
+      "startDate": "March 2022",
       "endDate": null,
-      "formattedStartDate": "2022 March",
+      "formattedStartDate": "March 2022",
       "formattedEndDate": ""
     },
     {
-      "name": "BHP Group Limited",
-      "ticker": "BHP",
-      "exchange": "NYSE",
-      "website": "https://www.bhp.com",
+      "name": "Macquarie Group Limited",
+      "ticker": "MQG",
+      "exchange": "ASX",
+      "website": "https://www.macquarie.com",
+      "logoUrl": "/companies-assets/MQG.ASX.svg",
       "title": "Independent Non-executive Director",
-      "startDate": "2022-03-01",
+      "startDate": "March 2022",
       "endDate": null,
-      "formattedStartDate": "2022 March",
+      "formattedStartDate": "March 2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Santander UK Group Holdings plc",
+      "ticker": "SAN",
+      "exchange": "LSE",
+      "website": "https://www.santander.co.uk",
+      "logoUrl": "/companies-assets/SAN.LSE.svg",
+      "title": "Independent Non-executive Director",
+      "startDate": "June 2023",
+      "endDate": null,
+      "formattedStartDate": "June 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "TSB Bank plc",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Director, Board Audit Committee Chair",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
     }
   ],
@@ -31,7 +57,18 @@
     "Electrification",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/michelle-hinchliffe-58a04044",
+      "person_name": "Michelle Hinchliffe",
+      "company_name": "BHP Group Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Nomination and Governance Committee",
     "Remuneration Committee",

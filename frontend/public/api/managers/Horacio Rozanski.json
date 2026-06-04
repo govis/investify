@@ -9,17 +9,41 @@
       "ticker": "BAH",
       "exchange": "NYSE",
       "website": "https://www.boozallen.com",
+      "logoUrl": "/companies-assets/BAH.NYSE.svg",
       "title": "President and Chief Executive Officer",
-      "startDate": "2015-01-01",
+      "startDate": "2015",
       "endDate": null,
-      "formattedStartDate": "2015 January",
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Marriott International, Inc.",
+      "ticker": "MAR",
+      "exchange": "NASDAQ",
+      "website": "marriott.com",
+      "logoUrl": "/companies-assets/MAR.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "March 15, 2021",
+      "endDate": null,
+      "formattedStartDate": "March 15, 2021",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/horacio-rozanski-84a2519",
+      "person_name": "Horacio Rozanski",
+      "company_name": "Booz Allen Hamilton",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 56,
   "ageYear": 2024

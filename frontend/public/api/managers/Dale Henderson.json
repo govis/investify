@@ -5,15 +5,16 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Pilbara Minerals Limited",
-      "ticker": "PLS",
+      "name": "NT Minerals Limited",
+      "ticker": "NTM",
       "exchange": "ASX",
-      "website": "https://www.pilbaraminerals.com.au",
-      "title": "Managing Director and CEO",
-      "startDate": "2022-07-30",
-      "endDate": null,
-      "formattedStartDate": "2022 July",
-      "formattedEndDate": ""
+      "website": "https://ntminerals.com.au/",
+      "logoUrl": "/companies-assets/NTM.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2021-09",
+      "endDate": "2022-07-28",
+      "formattedStartDate": "September 2021",
+      "formattedEndDate": "July 2022"
     }
   ],
   "investmentTheses": [

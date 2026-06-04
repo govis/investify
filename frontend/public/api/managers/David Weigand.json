@@ -9,17 +9,53 @@
       "ticker": "SMCI",
       "exchange": "NASDAQ",
       "website": "https://www.supermicro.com",
-      "title": "Senior Vice President, Chief Financial Officer",
-      "startDate": "2021-02-01",
+      "logoUrl": "/companies-assets/SMCI.NASDAQ.svg",
+      "title": "Senior Vice President, Chief Financial Officer, Chief Compliance Officer, and Secretary",
+      "startDate": "2018-05",
       "endDate": null,
-      "formattedStartDate": "2021 February",
+      "formattedStartDate": "May 2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Hewlett Packard Enterprise Company",
+      "ticker": "HPE",
+      "exchange": "NYSE",
+      "website": "https://www.arubanetworks.com",
+      "logoUrl": "https://www.arubanetworks.com/assets/images/logos/Aruba_a_Hewlett_Packard_Enterprise_company-Logo.png",
+      "title": "Vice President",
+      "startDate": "2016-11",
+      "endDate": "2018-04",
+      "formattedStartDate": "November 2016",
+      "formattedEndDate": "April 2018"
+    },
+    {
+      "name": "Renesas Electronics Corporation",
+      "ticker": "RNECY",
+      "exchange": "OTC",
+      "website": "https://www.renesas.com",
+      "logoUrl": "/companies-assets/RNECY.OTC.svg",
+      "title": "Vice President of Finance, Chief Financial Officer (Renesas Electronics America)",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/david-weigand-07697b6",
+      "person_name": "David Weigand",
+      "company_name": "Super Micro Computer, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 63,
   "ageYear": 2023

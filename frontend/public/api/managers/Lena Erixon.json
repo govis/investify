@@ -6,24 +6,14 @@
   "companies": [
     {
       "name": "Saab AB",
-      "ticker": "SAAB-B",
-      "exchange": "STO",
-      "website": "https://www.saab.com",
-      "title": "Member of the Board",
-      "startDate": "2022-04-06",
+      "ticker": "SAAB B",
+      "exchange": "Nasdaq Stockholm",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Member",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2022 April",
-      "formattedEndDate": ""
-    },
-    {
-      "name": "Saab Aktiebolag",
-      "ticker": "SAAB",
-      "exchange": "STO",
-      "website": "https://www.saab.com",
-      "title": "Member of the Board",
-      "startDate": "2022-04-06",
-      "endDate": null,
-      "formattedStartDate": "2022 April",
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
     }
   ],
@@ -31,7 +21,18 @@
     "Defense",
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://se.linkedin.com/in/lena-erixon-832549148",
+      "person_name": "Lena Erixon",
+      "company_name": "Saab AB",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

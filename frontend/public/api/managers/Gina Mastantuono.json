@@ -5,21 +5,57 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "ServiceNow, Inc.",
-      "ticker": "NOW",
+      "name": "Roblox Corporation",
+      "ticker": "RBLX",
       "exchange": "NYSE",
-      "website": "https://www.servicenow.com",
-      "title": "Chief Financial Officer",
-      "startDate": "2020-01-01",
+      "website": "https://www.roblox.com",
+      "logoUrl": "/companies-assets/RBLX.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021-04-15",
       "endDate": null,
-      "formattedStartDate": "2020 January",
+      "formattedStartDate": "April 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Revlon, Inc.",
+      "ticker": "REV",
+      "exchange": "NYSE",
+      "website": "https://www.revlon.com",
+      "logoUrl": "/companies-assets/REV.NYSE.png",
+      "title": "Senior Vice President and Chief Accounting Officer",
+      "startDate": "2007-06-01",
+      "endDate": "2013-04-01",
+      "formattedStartDate": "June 2007",
+      "formattedEndDate": "April 2013"
+    },
+    {
+      "name": "IAC/InterActiveCorp",
+      "ticker": "IAC",
+      "exchange": "NASDAQ",
+      "website": "https://www.iac.com",
+      "logoUrl": "/companies-assets/IAC.NASDAQ.svg",
+      "title": "Vice President",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gina-mastantuono",
+      "person_name": "Gina Mastantuono",
+      "company_name": "ServiceNow",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 53,
   "ageYear": 2024

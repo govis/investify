@@ -5,14 +5,27 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Applied Materials, Inc.",
-      "ticker": "AMAT",
+      "name": "Hewlett-Packard Company",
+      "ticker": "HPQ",
+      "exchange": "NYSE",
+      "website": "hp.com",
+      "logoUrl": "/companies-assets/HPQ.NYSE.jpg",
+      "title": "Senior Vice President and General Manager, Enterprise Services",
+      "startDate": "2009-02",
+      "endDate": "2011-10",
+      "formattedStartDate": "February 2009",
+      "formattedEndDate": "October 2011"
+    },
+    {
+      "name": "Rigetti Computing, Inc.",
+      "ticker": "RGTI",
       "exchange": "NASDAQ",
-      "website": "https://www.appliedmaterials.com",
-      "title": "Chairman of the Board, Independent Director",
-      "startDate": "2017-01-01",
+      "website": "https://www.rigetti.com",
+      "logoUrl": "/companies-assets/RGTI.NASDAQ.svg",
+      "title": "Chairman of the Board of Directors",
+      "startDate": "2022-03",
       "endDate": null,
-      "formattedStartDate": "2017 January",
+      "formattedStartDate": "March 2022",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +33,18 @@
     "AI",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/tom-iannotti-4a5a1a1",
+      "person_name": "Thomas Iannotti",
+      "company_name": "Applied Materials, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Corporate Governance and Nominating Committee",
     "Human Resources and Compensation Committee"

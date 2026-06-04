@@ -3,19 +3,7 @@
   "name": "David McShea",
   "background": "David McShea is executive vice president and general counsel. He previously served as deputy general counsel for Exelon.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "Constellation Energy Corporation",
-      "ticker": "CEG",
-      "exchange": "NYSE",
-      "website": "https://www.constellationenergy.com",
-      "title": "Executive Vice President and General Counsel",
-      "startDate": "2022-02-01",
-      "endDate": null,
-      "formattedStartDate": "2022 February",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "Nuclear"
   ],

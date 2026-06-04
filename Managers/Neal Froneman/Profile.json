@@ -6,19 +6,45 @@
   "age_year": 2023,
   "background": "Neal Froneman was appointed executive director and CEO of Sibanye-Stillwater on 1 January 2013. He has over 40 years of experience in the mining industry. Prior to joining Sibanye-Stillwater, he was CEO of Gold One International Limited and Aflease Gold Limited.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Sibanye Stillwater Limited",
+      "ticker": "SSW (JSE), SBSW (NYSE)",
+      "exchange": "JSE, NYSE",
+      "title_or_role": "Chief Executive Officer and Executive Director",
+      "website": "https://www.sibanyestillwater.com/",
+      "start_date": "2013",
+      "end_date": "September 2025",
+      "validated": true
+    },
+    {
+      "name": "Podium Minerals Limited",
+      "ticker": "POD",
+      "exchange": "ASX",
+      "website": "https://podiumminerals.com.au/",
+      "title_or_role": "Non-Executive Chairman",
+      "start_date": "February 2026",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "socials": [
     {
-      "name": "Sibanye Stillwater Limited",
-      "ticker": "SBSW",
-      "exchange": "NYSE",
-      "title_or_role": "Chief Executive Officer",
-      "start_date": "2013-01-01",
-      "end_date": null
+      "name": "LinkedIn",
+      "url": "https://za.linkedin.com/in/nealfroneman",
+      "person_name": "Neal Froneman",
+      "company_name": "Sibanye-Stillwater",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
-  ]
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

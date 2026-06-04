@@ -6,19 +6,94 @@
   "age_year": 2024,
   "background": "Mr. Hachigian is the Lead Independent Director of NextEra Energy. He is the retired chairman, president and CEO of JELD-WEN Holding, Inc. and former chairman and CEO of Cooper Industries plc.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "NextEra Energy, Inc.",
       "ticker": "NEE",
       "exchange": "NYSE",
       "title_or_role": "Lead Independent Director",
+      "website": "https://www.nexteraenergy.com",
       "start_date": "2024-05-23",
       "end_date": null
+    },
+    {
+      "name": "PACCAR Inc.",
+      "ticker": "PCAR",
+      "exchange": "NASDAQ",
+      "website": "https://www.paccar.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2008",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Allegion plc",
+      "ticker": "ALLE",
+      "exchange": "NYSE",
+      "website": "https://www.allegion.com",
+      "title_or_role": "Director / Chairman",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cooper Industries plc",
+      "ticker": "CBE",
+      "exchange": "NYSE",
+      "website": "https://www.cooperindustries.com",
+      "title_or_role": "President, CEO, Chairman",
+      "start_date": "2004",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "JELD-WEN Holding, Inc.",
+      "ticker": "JELD",
+      "exchange": "NYSE",
+      "website": "https://www.jeld-wen.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2014",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Trane Inc.",
+      "ticker": "TT",
+      "exchange": "NYSE",
+      "website": "https://www.tranetechnologies.com",
+      "title_or_role": "Director",
+      "start_date": "2007",
+      "end_date": "2008",
+      "validated": true
+    },
+    {
+      "name": "Irenic Acquisition Corp.",
+      "ticker": "IRNC",
+      "exchange": "NASDAQ",
+      "website": "https://www.irenicacquisition.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2021",
+      "end_date": "2023",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kirkhachigian",
+      "person_name": "Kirk Hachigian",
+      "company_name": "NextEra Energy, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

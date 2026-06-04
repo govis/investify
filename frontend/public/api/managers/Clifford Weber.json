@@ -5,25 +5,27 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Global X Lithium & Battery Tech ETF",
-      "ticker": "LIT",
-      "exchange": "NYSE",
-      "website": "https://www.globalxetfs.com/funds/lit/",
-      "title": "Independent Trustee",
-      "startDate": "2008-01-01",
-      "endDate": null,
-      "formattedStartDate": "2008 January",
-      "formattedEndDate": ""
+      "name": "PCSB Financial Corporation",
+      "ticker": "PCSB",
+      "exchange": "NASDAQ",
+      "website": "https://www.pcsb.com",
+      "logoUrl": "/companies-assets/PCSB.NASDAQ.png",
+      "title": "General Counsel",
+      "startDate": "2016",
+      "endDate": "2022",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2022"
     },
     {
-      "name": "Global X Uranium ETF",
-      "ticker": "URA",
+      "name": "Clough Global Equity Fund",
+      "ticker": "GLQ",
       "exchange": "NYSE",
-      "website": "https://www.globalxetfs.com/funds/ura/",
-      "title": "Independent Trustee",
-      "startDate": "2008-01-01",
+      "website": "https://www.cloughcapital.com",
+      "logoUrl": "/companies-assets/GLQ.NYSE.png",
+      "title": "Director",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2008 January",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],

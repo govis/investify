@@ -6,21 +6,67 @@
   "age_year": 2024,
   "background": "Ms. Morea has served as Chair of the Board since 2019. She was previously President of CGI Technologies and Solutions. She is an expert in IT professional services and strategic management.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Nominating and Corporate Governance Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Science Applications International Corporation",
       "ticker": "SAIC",
-      "exchange": "NASDAQ",
-      "title_or_role": "Chair of the Board",
-      "start_date": "2013-09-27",
-      "end_date": null
+      "exchange": "NYSE",
+      "title_or_role": "Director / Chair of the Board",
+      "website": "https://www.saic.com",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Truist Financial Corporation",
+      "ticker": "TFC",
+      "exchange": "NYSE",
+      "website": "https://www.truist.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SunTrust Banks, Inc.",
+      "ticker": "STI",
+      "exchange": "NYSE",
+      "website": "https://www.truist.com",
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "CGI Inc.",
+      "ticker": "GIB",
+      "exchange": "NYSE",
+      "website": "https://www.cgi.com",
+      "title_or_role": "President, CGI Technologies and Solutions (Subsidiary)",
+      "start_date": "2004",
+      "end_date": "2011",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/donna-morea-bb62b830",
+      "person_name": "Donna Morea",
+      "company_name": "Science Applications International Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

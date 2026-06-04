@@ -5,14 +5,27 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Exxon Mobil Corporation",
-      "ticker": "XOM",
+      "name": "State Street Corporation",
+      "ticker": "STT",
       "exchange": "NYSE",
-      "website": "https://www.exxonmobil.com",
-      "title": "Lead Independent Director",
-      "startDate": "2020-01-01",
+      "website": "https://www.statestreet.com",
+      "logoUrl": "/companies-assets/STT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2009",
+      "endDate": "2018",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "IDEXX Laboratories, Inc.",
+      "ticker": "IDXX",
+      "exchange": "NASDAQ",
+      "website": "https://www.idexx.com",
+      "logoUrl": "/companies-assets/IDXX.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2025",
       "endDate": null,
-      "formattedStartDate": "2020 January",
+      "formattedStartDate": "2025",
       "formattedEndDate": ""
     }
   ],

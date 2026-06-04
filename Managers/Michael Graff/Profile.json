@@ -6,6 +6,29 @@
   "age_year": 2024,
   "background": "Managing Director of Warburg Pincus LLC.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "TransDigm Group Incorporated",
+      "ticker": "TDG",
+      "exchange": "NYSE",
+      "title_or_role": "Director (Board of Directors)",
+      "website": "https://www.transdigm.com",
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bombardier Inc.",
+      "ticker": "BBD.B",
+      "exchange": "TSX",
+      "website": "https://www.bombardier.com",
+      "title_or_role": "President and Chief Operating Officer of Bombardier Aerospace",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Defense"
   ],
@@ -14,14 +37,6 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "TransDigm Group Incorporated",
-      "ticker": "TDG",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2003-07-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

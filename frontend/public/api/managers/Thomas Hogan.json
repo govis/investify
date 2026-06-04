@@ -5,21 +5,57 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Fastly, Inc.",
-      "ticker": "FSLY",
-      "exchange": "NYSE",
-      "website": "https://www.fastly.com",
+      "name": "Citrix Systems, Inc.",
+      "ticker": "CTXS",
+      "exchange": "NASDAQ",
+      "website": "https://www.citrix.com",
+      "logoUrl": "/companies-assets/CTXS.NASDAQ.svg",
       "title": "Director",
-      "startDate": "2021-03-01",
-      "endDate": null,
-      "formattedStartDate": "2021 March",
-      "formattedEndDate": ""
+      "startDate": "2018",
+      "endDate": "2022",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Vignette Corporation",
+      "ticker": "VIGN",
+      "exchange": "NASDAQ",
+      "website": "https://www.opentext.com",
+      "logoUrl": "https://www.opentext.com/content/dam/opentext/images/logos/opentext-logo.svg",
+      "title": "President and CEO",
+      "startDate": "2006",
+      "endDate": "2008",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2008"
+    },
+    {
+      "name": "Siebel Systems, Inc.",
+      "ticker": "SEBL",
+      "exchange": "NASDAQ",
+      "website": "https://www.oracle.com",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg",
+      "title": "Senior Vice President of Sales",
+      "startDate": "1999",
+      "endDate": "2001",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2001"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/thomas-hogan-7555111",
+      "person_name": "Thomas Hogan",
+      "company_name": "Battery Ventures",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

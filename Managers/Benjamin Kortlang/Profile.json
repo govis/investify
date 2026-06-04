@@ -6,23 +6,48 @@
   "age_year": 2024,
   "background": "Benjamin Kortlang has served as a director since May 2010. He is a Partner at G2 Venture Partners and was previously a Partner at Kleiner Perkins Caufield & Byers.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee",
-    "Nominating and Corporate Governance Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Enphase Energy, Inc.",
       "ticker": "ENPH",
       "exchange": "NASDAQ",
       "title_or_role": "Director",
+      "website": "https://enphase.com",
       "start_date": "2010-05-01",
       "end_date": null
+    },
+    {
+      "name": "Luminar Technologies, Inc.",
+      "ticker": "LAZR",
+      "exchange": "NASDAQ",
+      "website": "https://www.luminartech.com",
+      "title_or_role": "Director",
+      "start_date": "2021-06-08",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ben-kortlang-4a5a1a1",
+      "person_name": "Ben Kortlang",
+      "company_name": "G2 Venture Partners",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

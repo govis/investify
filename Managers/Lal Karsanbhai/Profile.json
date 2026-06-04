@@ -6,19 +6,45 @@
   "age_year": 2024,
   "background": "Lal Karsanbhai is President and Chief Executive Officer of Emerson. He was named CEO in 2021 and joined the company's board of directors that same year. He previously served as Executive President of Emerson\u2019s Automation Solutions business.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Emerson Electric Co.",
       "ticker": "EMR",
       "exchange": "NYSE",
-      "title_or_role": "Director, President and Chief Executive Officer",
-      "start_date": "2021-02-01",
-      "end_date": null
+      "title_or_role": "Executive President, Automation Solutions",
+      "website": "https://www.emerson.com",
+      "start_date": "2018",
+      "end_date": "February 2021",
+      "validated": true
+    },
+    {
+      "name": "Merck & Co., Inc.",
+      "ticker": "MRK",
+      "exchange": "NYSE",
+      "website": "https://www.merck.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "January 1, 2025",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/lal-karsanbhai",
+      "person_name": "Lal Karsanbhai",
+      "company_name": "Emerson",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -9,10 +9,23 @@
       "ticker": "GFI",
       "exchange": "NYSE",
       "website": "https://www.goldfields.com",
-      "title": "Chief Operating Officer",
-      "startDate": "2024-01-01",
+      "logoUrl": "/companies-assets/GFI.NYSE.svg",
+      "title": "Executive Vice President: South Africa / Interim CEO",
+      "startDate": "May 2017",
+      "endDate": "2024",
+      "formattedStartDate": "May 2017",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Sylvania Platinum Limited",
+      "ticker": "SLP",
+      "exchange": "London Stock Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Non-Executive Director",
+      "startDate": "February 2025",
       "endDate": null,
-      "formattedStartDate": "2024 January",
+      "formattedStartDate": "February 2025",
       "formattedEndDate": ""
     }
   ],

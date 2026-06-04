@@ -6,21 +6,58 @@
   "age_year": 2024,
   "background": "Mr. Gil Nievas has been a director since 2023. He is a citizen of Spain and holds a degree in industrial engineering from the Universidad Pontificia Comillas and an MBA from Harvard Business School. He has experience in global finance and investment.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Directors' Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Sociedad Qu\u00edmica y Minera de Chile S.A.",
       "ticker": "SQM",
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
+      "website": "https://www.sqm.com",
       "start_date": "2023-04-26",
       "end_date": null
+    },
+    {
+      "name": "LATAM Airlines Group S.A.",
+      "ticker": "LTM",
+      "exchange": "NYSE",
+      "website": "https://www.latamairlinesgroup.net",
+      "title_or_role": "Director and Chair of Finance Committee",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sociedad Qu\u00edmica y Minera de Chile S.A. (SQM)",
+      "ticker": "SQM",
+      "exchange": "NYSE",
+      "website": "https://www.sqm.com",
+      "title_or_role": "Independent Director and Member of the Directors\u2019 Committee",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/antonio-gil-nievas",
+      "person_name": "Antonio Gil Nievas",
+      "company_name": "LATAM Airlines",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1,
+      "profile_status": "private"
+    }
+  ],
+  "committees": [
+    "Directors' Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 1
 }

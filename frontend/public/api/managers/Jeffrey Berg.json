@@ -9,10 +9,11 @@
       "ticker": "ORCL",
       "exchange": "NYSE",
       "website": "https://www.oracle.com",
-      "title": "Independent Director",
-      "startDate": "1997-02-01",
+      "logoUrl": "/companies-assets/ORCL.NYSE.svg",
+      "title": "Director",
+      "startDate": "1997",
       "endDate": null,
-      "formattedStartDate": "1997 February",
+      "formattedStartDate": "1997",
       "formattedEndDate": ""
     }
   ],

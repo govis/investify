@@ -9,17 +9,29 @@
       "ticker": "BAH",
       "exchange": "NYSE",
       "website": "https://www.boozallen.com",
-      "title": "Executive Vice President and Chief Legal Officer",
-      "startDate": "2013-09-01",
+      "logoUrl": "/companies-assets/BAH.NYSE.svg",
+      "title": "Chief Legal Officer, Corporate Secretary, and Executive Vice President",
+      "startDate": "2013",
       "endDate": null,
-      "formattedStartDate": "2013 September",
+      "formattedStartDate": "2013",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/nancy-laben-7552137",
+      "person_name": "Nancy Laben",
+      "company_name": "Booz Allen Hamilton",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 60,
   "ageYear": 2024

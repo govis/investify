@@ -9,17 +9,65 @@
       "ticker": "NET",
       "exchange": "NYSE",
       "website": "https://www.cloudflare.com",
+      "logoUrl": "/companies-assets/NET.NYSE.svg",
       "title": "Chief Financial Officer",
-      "startDate": "2017-06-01",
+      "startDate": "September 2017",
       "endDate": null,
-      "formattedStartDate": "2017 June",
+      "formattedStartDate": "September 2017",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Wolfspeed, Inc.",
+      "ticker": "WOLF",
+      "exchange": "NYSE",
+      "website": "https://www.wolfspeed.com",
+      "logoUrl": "/companies-assets/WOLF.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Symantec Corporation (now Gen Digital Inc.)",
+      "ticker": "SYMC",
+      "exchange": "NASDAQ",
+      "website": "https://broadcom.com",
+      "logoUrl": "/companies-assets/SYMC.NASDAQ.jpg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2014",
+      "endDate": "2017",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Advanced Micro Devices, Inc. (AMD)",
+      "ticker": "AMD",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "logoUrl": "/companies-assets/AMD.NASDAQ.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2009",
+      "endDate": "2012",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2012"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/thomasseifert",
+      "person_name": "Thomas Seifert",
+      "company_name": "Cloudflare, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 60,
   "ageYear": 2024

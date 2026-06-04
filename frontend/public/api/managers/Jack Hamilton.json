@@ -5,14 +5,15 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Orion Copper Mining Corp.",
-      "ticker": "ORION",
-      "exchange": "TSX",
-      "website": "https://orioncmc.com",
-      "title": "Director, President and Chief Executive Officer",
-      "startDate": "2021-05-15",
+      "name": "Hazer Group Limited",
+      "ticker": "HZR",
+      "exchange": "ASX",
+      "website": "https://hazergroup.com.au/",
+      "logoUrl": "https://hazergroup.com.au/wp-content/uploads/2022/05/Hazer-Logo-RGB.png",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2021-11-01",
       "endDate": null,
-      "formattedStartDate": "2021 May",
+      "formattedStartDate": "November 2021",
       "formattedEndDate": ""
     }
   ],

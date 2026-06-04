@@ -9,17 +9,41 @@
       "ticker": "GLD",
       "exchange": "NYSE",
       "website": "https://www.spdrgoldshares.com",
-      "title": "Independent Director",
-      "startDate": "2013-01-01",
+      "logoUrl": "/companies-assets/GLD.NYSE.jpg",
+      "title": "Member of the Board of Directors (World Gold Trust Services, LLC)",
+      "startDate": "January 2013",
       "endDate": null,
-      "formattedStartDate": "2013 January",
+      "formattedStartDate": "January 2013",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Caliber Imaging & Diagnostics",
+      "ticker": "CIBD",
+      "exchange": "NASDAQ",
+      "website": "https://caliberid.com",
+      "logoUrl": "/companies-assets/CIBD.NASDAQ.png",
+      "title": "Member of the Board of Directors",
+      "startDate": "February 2011",
+      "endDate": "Not publicly specified",
+      "formattedStartDate": "February 2011",
+      "formattedEndDate": "Not publicly specified"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rocco-maggiotto-387897",
+      "person_name": "Rocco Maggiotto",
+      "company_name": "Maggiotto & Partners",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

@@ -6,21 +6,77 @@
   "age_year": 2024,
   "background": "Deborah L. Kerr has been a member of our Board since November 2017. She was previously the Executive Vice President and Chief Product and Technology Officer of Sabre Corporation.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "NetApp, Inc.",
       "ticker": "NTAP",
       "exchange": "NASDAQ",
       "title_or_role": "Director",
-      "start_date": "2017-11-01",
-      "end_date": null
+      "website": "https://www.netapp.com",
+      "start_date": "2017-11",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Vodafone Group Plc",
+      "ticker": "VOD",
+      "exchange": "LSE",
+      "website": "https://www.vodafone.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2021-10",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "EXLService Holdings, Inc.",
+      "ticker": "EXLS",
+      "exchange": "NASDAQ",
+      "website": "https://www.exlservice.com",
+      "title_or_role": "Director",
+      "start_date": "2015-01",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Chico's FAS, Inc.",
+      "ticker": "CHS",
+      "exchange": "NYSE",
+      "website": "https://www.chicosfas.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Sabre Corporation",
+      "ticker": "SABR",
+      "exchange": "NASDAQ",
+      "website": "https://www.sabre.com",
+      "title_or_role": "Executive Vice President, Chief Product and Technology Officer",
+      "start_date": "2013",
+      "end_date": "2016",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/deborahkerr",
+      "person_name": "Deborah Kerr",
+      "company_name": "NetApp, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

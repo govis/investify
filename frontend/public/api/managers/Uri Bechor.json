@@ -9,17 +9,41 @@
       "ticker": "SEDG",
       "exchange": "NASDAQ",
       "website": "https://www.solaredge.com",
+      "logoUrl": "/companies-assets/SEDG.NASDAQ.svg",
       "title": "Chief Operating Officer",
-      "startDate": "2020-07-01",
+      "startDate": "2019",
       "endDate": null,
-      "formattedStartDate": "2020 July",
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Flex Ltd.",
+      "ticker": "FLEX",
+      "exchange": "NASDAQ",
+      "website": "https://flex.com",
+      "logoUrl": "/companies-assets/FLEX.NASDAQ.svg",
+      "title": "Senior Vice President / General Manager",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://il.linkedin.com/in/uri-bechor-10949829",
+      "person_name": "Uri Bechor",
+      "company_name": "SolarEdge Technologies, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 61,
   "ageYear": 2024

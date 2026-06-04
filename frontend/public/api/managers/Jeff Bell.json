@@ -9,17 +9,41 @@
       "ticker": "ATRL",
       "exchange": "TSX",
       "website": "https://www.atkinsrealis.com",
+      "logoUrl": "/companies-assets/ATRL.TSX.svg",
       "title": "Chief Financial Officer",
-      "startDate": "2020-04-14",
+      "startDate": "April 14, 2020",
       "endDate": null,
-      "formattedStartDate": "2020 April",
+      "formattedStartDate": "April 14, 2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "SNC-Lavalin Group Inc.",
+      "ticker": "SNC",
+      "exchange": "TSX",
+      "website": "https://www.atkinsrealis.com",
+      "logoUrl": "/companies-assets/SNC.TSX.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "April 14, 2020",
+      "endDate": "2023",
+      "formattedStartDate": "April 14, 2020",
+      "formattedEndDate": "2023"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jeff-bell-7a5a5a1b",
+      "person_name": "Jeff Bell",
+      "company_name": "AtkinsRéalis Group Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 56,
   "ageYear": 2024

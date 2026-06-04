@@ -6,21 +6,56 @@
   "age_year": 2024,
   "background": "Former Executive Vice President of Sleep Number Corporation.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Generac Holdings Inc.",
       "ticker": "GNRC",
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
+      "website": "https://www.generac.com",
       "start_date": "2022-01-01",
       "end_date": null
+    },
+    {
+      "name": "Columbus McKinnon Corporation",
+      "ticker": "CMCO",
+      "exchange": "NASDAQ",
+      "website": "https://www.cmco.com",
+      "title_or_role": "Director (Lead Independent Director)",
+      "start_date": "2017-10",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sleep Number Corporation (formerly Select Comfort Corporation)",
+      "ticker": "SNBR",
+      "exchange": "NASDAQ",
+      "website": "https://www.sleepnumber.com",
+      "title_or_role": "Executive Vice President and Chief Services and Fulfillment Officer",
+      "start_date": "2005",
+      "end_date": "2016",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kathy-roedel-bohl",
+      "person_name": "Kathryn Roedel",
+      "company_name": "Sleep Number Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

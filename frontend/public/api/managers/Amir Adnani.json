@@ -5,36 +5,51 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "EagleOne Metals Corp.",
-      "ticker": "EAGL",
-      "exchange": "CSE",
-      "website": "https://eagleonemetals.com",
-      "title": "Chief Executive Officer, Director",
-      "startDate": "2023-06-01",
-      "endDate": null,
-      "formattedStartDate": "2023 June",
-      "formattedEndDate": ""
-    },
-    {
       "name": "Uranium Royalty Corp.",
       "ticker": "UROY",
       "exchange": "NASDAQ",
       "website": "https://www.uraniumroyalty.com",
+      "logoUrl": "/companies-assets/UROY.NASDAQ.svg",
       "title": "Chairman",
-      "startDate": "2017-08-01",
+      "startDate": "2017",
       "endDate": null,
-      "formattedStartDate": "2017 August",
+      "formattedStartDate": "2017",
       "formattedEndDate": ""
     },
     {
-      "name": "Uranium Royalty Corp.",
-      "ticker": "UROY",
-      "exchange": "TSX",
-      "website": "https://www.uraniumroyalty.com/",
-      "title": "Chairman",
-      "startDate": "2017-08-23",
+      "name": "Uranium Energy Corp.",
+      "ticker": "UEC",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "President, Chief Executive Officer, Director, Founder",
+      "startDate": "2005",
       "endDate": null,
-      "formattedStartDate": "2017 August",
+      "formattedStartDate": "2005",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "GoldMining Inc.",
+      "ticker": "GOLD",
+      "exchange": "TSX",
+      "website": "https://www.goldmining.com",
+      "logoUrl": "/companies-assets/GOLD.TSX.svg",
+      "title": "Co-Chairman, Founder",
+      "startDate": "2009",
+      "endDate": null,
+      "formattedStartDate": "2009",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Gold Royalty Corp.",
+      "ticker": "GROY",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
     }
   ],
@@ -43,7 +58,19 @@
     "Gold",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/amiradnani/",
+      "person_name": "Amir Adnani",
+      "company_name": "Uranium Energy Corp",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1,
+      "profile_status": "private"
+    }
+  ],
   "committees": [],
   "age": 46,
   "ageYear": 2024

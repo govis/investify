@@ -9,11 +9,48 @@
       "ticker": "RGLD",
       "exchange": "NASDAQ",
       "website": "https://www.royalgold.com",
-      "title": "Independent Director",
-      "startDate": "2013-01-01",
-      "endDate": null,
-      "formattedStartDate": "2013 January",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/RGLD.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": "2020",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Golden Star Resources Ltd.",
+      "ticker": "GSC",
+      "exchange": "TSX",
+      "website": "gsr.com",
+      "logoUrl": "/companies-assets/GSC.TSX.png",
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": "2015",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Teck Resources Limited",
+      "ticker": "TECK",
+      "exchange": "NYSE",
+      "website": "https://www.teck.com",
+      "logoUrl": "/companies-assets/TECK.NYSE.svg",
+      "title": "Director",
+      "startDate": "2003",
+      "endDate": "2014",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2014"
+    },
+    {
+      "name": "Jacobs Solutions Inc.",
+      "ticker": "J",
+      "exchange": "NYSE",
+      "website": "https://www.jacobs.com",
+      "logoUrl": "/companies-assets/J.NYSE.svg",
+      "title": "Director",
+      "startDate": "2012",
+      "endDate": "2024",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2024"
     }
   ],
   "investmentTheses": [

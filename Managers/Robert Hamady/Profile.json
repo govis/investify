@@ -6,19 +6,34 @@
   "age_year": 2024,
   "background": "Mr. Hamady has served as our Chief Financial Officer since April 2023. Prior to joining NuScale, Mr. Hamady served as the Chief Financial Officer of various private and public companies and held senior roles in investment banking and finance.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "NuScale Power Corporation",
       "ticker": "SMR",
       "exchange": "NYSE",
       "title_or_role": "Chief Financial Officer",
-      "start_date": "2023-04-01",
-      "end_date": null
+      "website": "https://www.nuscalepower.com",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Western Magnesium Corporation",
+      "ticker": "WMG",
+      "exchange": "TSXV",
+      "website": "https://www.magnesium.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2022",
+      "end_date": "2022",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

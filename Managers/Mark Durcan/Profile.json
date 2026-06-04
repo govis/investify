@@ -6,23 +6,14 @@
   "age_year": 2024,
   "background": "Former CEO of Micron Technology, Inc. Director since 2017.",
   "picture_url": null,
-  "investment_theses": [
-    "AI",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit and Risk Committee",
-    "Compensation and Leadership Resources Committee",
-    "Remuneration Committee",
-    "Technology Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Advanced Micro Devices, Inc.",
       "ticker": "AMD",
       "exchange": "NASDAQ",
       "title_or_role": "Independent Director",
+      "website": "https://www.amd.com",
       "start_date": "2017-01-01",
       "end_date": null
     },
@@ -31,8 +22,63 @@
       "ticker": "ASML",
       "exchange": "NASDAQ",
       "title_or_role": "Member of the Supervisory Board",
+      "website": "https://www.asml.com",
       "start_date": "2020-04-22",
       "end_date": null
+    },
+    {
+      "name": "Micron Technology, Inc.",
+      "ticker": "MU",
+      "exchange": "NASDAQ",
+      "website": "https://www.micron.com",
+      "title_or_role": "Chief Executive Officer & Director",
+      "start_date": "2012",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Cencora, Inc.",
+      "ticker": "COR",
+      "exchange": "NYSE",
+      "website": "https://www.cencora.com",
+      "title_or_role": "Director, Lead Independent Director, Chairman of the Board",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Freescale Semiconductor, Ltd.",
+      "ticker": "FSL",
+      "exchange": "NYSE",
+      "website": "https://www.nxp.com",
+      "title_or_role": "Director",
+      "start_date": "2014-08-13",
+      "end_date": "2015",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mark-durcan-4a5a5a12",
+      "person_name": "Mark Durcan",
+      "company_name": "Micron Technology, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee",
+    "Compensation and Leadership Resources Committee",
+    "Remuneration Committee",
+    "Technology Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

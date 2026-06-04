@@ -6,19 +6,45 @@
   "age_year": 2024,
   "background": "Mr. Glasier is the founder of the Company and has over 40 years of experience in the uranium industry. He was the founder of Energy Fuels Inc. and served as its President and CEO. He has extensive experience in uranium exploration, development, and marketing.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Western Uranium & Vanadium Corp.",
       "ticker": "WUC",
-      "exchange": "TSX",
-      "title_or_role": "Director, President and Chief Executive Officer",
-      "start_date": "2014-11-20",
-      "end_date": null
+      "exchange": "CSE",
+      "title_or_role": "President, CEO & Director",
+      "website": "https://www.western-uranium.com",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Energy Fuels Inc.",
+      "ticker": "UUUU",
+      "exchange": "NYSE",
+      "website": "https://www.energyfuels.com",
+      "title_or_role": "President, CEO & Director",
+      "start_date": "2006",
+      "end_date": "2010",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/george-glasier-b7182656",
+      "person_name": "George Glasier",
+      "company_name": "Western Uranium & Vanadium Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

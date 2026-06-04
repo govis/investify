@@ -6,19 +6,24 @@
   "age_year": 2024,
   "background": "Joined Komatsu in 1985. Served as President of Komatsu Mining Corp. and Senior Executive Officer before becoming President and CEO.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Komatsu Ltd.",
+      "ticker": "6301",
+      "exchange": "Tokyo Stock Exchange",
+      "title_or_role": "President, CEO & Representative Director; Chairman of the Board",
+      "website": "https://www.komatsu.jp/en",
+      "start_date": "June 2019",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Komatsu Ltd.",
-      "ticker": "KMTUY",
-      "exchange": "OTC",
-      "title_or_role": "President and Chief Executive Officer, Representative Director",
-      "start_date": "2019-04-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

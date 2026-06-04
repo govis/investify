@@ -6,19 +6,65 @@
   "age_year": 2024,
   "background": "Gordon Riske is a Director and former CEO of KION Group AG.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Atlas Copco AB",
+      "ticker": "ATCO-A",
+      "exchange": "Nasdaq Stockholm",
+      "title_or_role": "Board Member",
+      "website": "https://www.atlascopcogroup.com",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "KION GROUP AG",
+      "ticker": "KGX",
+      "exchange": "XETRA (Frankfurt Stock Exchange)",
+      "website": "https://www.kiongroup.com",
+      "title_or_role": "CEO (Management Board)",
+      "start_date": "2006",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "MTU Aero Engines AG",
+      "ticker": "MTX",
+      "exchange": "XETRA (Frankfurt Stock Exchange)",
+      "website": "https://www.mtu.de",
+      "title_or_role": "Chairman of the Supervisory Board",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "DEUTZ AG",
+      "ticker": "DEZ",
+      "exchange": "XETRA (Frankfurt Stock Exchange)",
+      "website": "https://www.deutz.com",
+      "title_or_role": "Chairman of the Management Board",
+      "start_date": "2001",
+      "end_date": "2006",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification"
   ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "socials": [
     {
-      "name": "Atlas Copco AB",
-      "ticker": "ATCO",
-      "exchange": "STO",
-      "title_or_role": "Director",
-      "start_date": "2023-01-01",
-      "end_date": null
+      "name": "LinkedIn",
+      "url": "https://de.linkedin.com/in/gordon-riske-b5802a174",
+      "person_name": "Gordon Riske",
+      "company_name": "KION GROUP AG",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
-  ]
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

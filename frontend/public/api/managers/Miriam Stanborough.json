@@ -9,17 +9,53 @@
       "ticker": "PLS",
       "exchange": "ASX",
       "website": "https://www.pilbaraminerals.com.au",
-      "title": "Independent Non-Executive Director",
-      "startDate": "2021-10-04",
+      "logoUrl": "/companies-assets/PLS.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2021 October",
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "BCI Minerals Limited",
+      "ticker": "BCI",
+      "exchange": "ASX",
+      "website": "https://bciminerals.com.au",
+      "logoUrl": "/companies-assets/BCI.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Australian Vanadium Limited",
+      "ticker": "AVL",
+      "exchange": "ASX",
+      "website": "https://www.australianvanadium.com.au/",
+      "logoUrl": "/companies-assets/AVL.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/miriamstanborough",
+      "person_name": "Miriam Stanborough",
+      "company_name": "Pilbara Minerals Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "People and Culture Committee (Chair)",
     "Sustainability Committee"

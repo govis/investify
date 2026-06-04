@@ -9,10 +9,11 @@
       "ticker": "GFS",
       "exchange": "NASDAQ",
       "website": "https://gf.com",
-      "title": "Independent Director",
-      "startDate": "2019-06-01",
+      "logoUrl": "/companies-assets/GFS.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2019",
       "endDate": null,
-      "formattedStartDate": "2019 June",
+      "formattedStartDate": "2019",
       "formattedEndDate": ""
     },
     {
@@ -20,18 +21,78 @@
       "ticker": "WOLF",
       "exchange": "NYSE",
       "website": "https://www.wolfspeed.com",
-      "title": "Independent Director",
-      "startDate": "2019-01-01",
+      "logoUrl": "/companies-assets/WOLF.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2019 January",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "ANSYS, Inc.",
+      "ticker": "ANSS",
+      "exchange": "NASDAQ",
+      "website": "https://www.ansys.com",
+      "logoUrl": "/companies-assets/ANSS.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": "2024",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Intrinsyc Software International, Inc.",
+      "ticker": "ICS",
+      "exchange": "TSX",
+      "website": "https://www.intrinsyc.com",
+      "logoUrl": "/companies-assets/ICS.TSX.webp",
+      "title": "CEO and Chairman",
+      "startDate": "2006",
+      "endDate": "2009",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2009"
+    },
+    {
+      "name": "Mellanox Technologies, Ltd.",
+      "ticker": "MLNX",
+      "exchange": "NASDAQ",
+      "website": "https://www.mellanox.com",
+      "logoUrl": "/companies-assets/MLNX.NASDAQ.jpg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": "2020",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Quantenna Communications, Inc.",
+      "ticker": "QTNA",
+      "exchange": "NASDAQ",
+      "website": "https://www.quantenna.com",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Quantenna_logo.svg/1200px-Quantenna_logo.svg.png",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": "2019",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2019"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/glenda-dorchak-b5b6317",
+      "person_name": "Glenda Dorchak",
+      "company_name": "GlobalFoundries Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee",
     "Governance and Nominating Committee",

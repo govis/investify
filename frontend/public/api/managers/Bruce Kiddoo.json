@@ -9,17 +9,65 @@
       "ticker": "ON",
       "exchange": "NASDAQ",
       "website": "https://www.onsemi.com",
-      "title": "Independent Director",
-      "startDate": "2020-10-01",
+      "logoUrl": "/companies-assets/ON.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "December 2020",
       "endDate": null,
-      "formattedStartDate": "2020 October",
+      "formattedStartDate": "December 2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Western Digital Corporation",
+      "ticker": "WDC",
+      "exchange": "NASDAQ",
+      "website": "https://www.westerndigital.com",
+      "logoUrl": "/companies-assets/WDC.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "January 2025",
+      "endDate": null,
+      "formattedStartDate": "January 2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Maxim Integrated Products, Inc.",
+      "ticker": "MXIM",
+      "exchange": "NASDAQ",
+      "website": "https://www.maximintegrated.com",
+      "logoUrl": "/companies-assets/MXIM.NASDAQ.png",
+      "title": "Senior Vice President and Chief Financial Officer",
+      "startDate": "September 2007",
+      "endDate": "October 2019",
+      "formattedStartDate": "September 2007",
+      "formattedEndDate": "October 2019"
+    },
+    {
+      "name": "Broadcom Corporation",
+      "ticker": "BRCM",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Acting Chief Financial Officer",
+      "startDate": "September 2006",
+      "endDate": "May 2007",
+      "formattedStartDate": "September 2006",
+      "formattedEndDate": "May 2007"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/brucekiddoo",
+      "person_name": "Bruce Kiddoo",
+      "company_name": "ON Semiconductor Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

@@ -3,19 +3,7 @@
   "name": "Ethan Schapira",
   "background": "Mr. Schapira is a founding partner of M. Schapira & Co. Inc. and has extensive experience in corporate finance and strategic advisory.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "NOVAGOLD RESOURCES INC.",
-      "ticker": "NG",
-      "exchange": "NYSE",
-      "website": "https://www.novagold.com",
-      "title": "Independent Director",
-      "startDate": "2013-01-01",
-      "endDate": null,
-      "formattedStartDate": "2013 January",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "Gold"
   ],

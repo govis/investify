@@ -9,17 +9,65 @@
       "ticker": "EQIX",
       "exchange": "NASDAQ",
       "website": "https://www.equinix.com",
-      "title": "Independent Director",
-      "startDate": "2007-07-01",
+      "logoUrl": "/companies-assets/EQIX.NASDAQ.svg",
+      "title": "Member of the Board of Directors / Lead Independent Director",
+      "startDate": "2007",
       "endDate": null,
-      "formattedStartDate": "2007 July",
+      "formattedStartDate": "2007",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Fastly, Inc.",
+      "ticker": "FSLY",
+      "exchange": "NYSE",
+      "website": "https://www.fastly.com",
+      "logoUrl": "/companies-assets/FSLY.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "July 2018",
+      "endDate": null,
+      "formattedStartDate": "July 2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "YuMe, Inc.",
+      "ticker": "YUME",
+      "exchange": "NYSE",
+      "website": "https://www.yume.com",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/YuMe_logo.svg/1200px-YuMe_logo.svg.png",
+      "title": "Member of the Board of Directors",
+      "startDate": "November 2012",
+      "endDate": "2018",
+      "formattedStartDate": "November 2012",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "3Com Corporation",
+      "ticker": "COMS",
+      "exchange": "NASDAQ",
+      "website": "https://www.3com.com",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/3Com_logo.svg/512px-3Com_logo.svg.png",
+      "title": "Senior Vice President of Finance and Chief Financial Officer",
+      "startDate": "1995",
+      "endDate": "2000",
+      "formattedStartDate": "1995",
+      "formattedEndDate": "2000"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/chris-paisley-4a5a5a10",
+      "person_name": "Christopher Paisley",
+      "company_name": "Santa Clara University",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

@@ -9,17 +9,29 @@
       "ticker": "KTOS",
       "exchange": "NASDAQ",
       "website": "https://www.kratosdefense.com",
+      "logoUrl": "/companies-assets/KTOS.NASDAQ.svg",
       "title": "Director",
-      "startDate": "2014-01-01",
+      "startDate": "September 2014",
       "endDate": null,
-      "formattedStartDate": "2014 January",
+      "formattedStartDate": "September 2014",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/amy-zegart-9a4a15a/",
+      "person_name": "Amy Zegart",
+      "company_name": "Kratos Defense & Security Solutions",
+      "profile_status": "not_found",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Nominating and Corporate Governance Committee (Chair)"
   ],

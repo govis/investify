@@ -7,13 +7,50 @@
     {
       "name": "Lithium Americas Corp.",
       "ticker": "LAC",
-      "exchange": "NYSE",
-      "website": "https://www.lithiumamericas.com",
+      "exchange": "TSX/NYSE",
+      "website": null,
+      "logoUrl": null,
       "title": "Director",
-      "startDate": "2023-10-04",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2023 October",
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "B2Gold Corp.",
+      "ticker": "BTO",
+      "exchange": "TSX/NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chair of the Board",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "AngloGold Ashanti Ltd.",
+      "ticker": "AU",
+      "exchange": "NYSE",
+      "website": "https://www.anglogoldashanti.com",
+      "logoUrl": "/companies-assets/AU.NYSE.svg",
+      "title": "CEO and Director",
+      "startDate": "2018",
+      "endDate": "2020",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Barrick Gold Corporation",
+      "ticker": "GOLD",
+      "exchange": "TSX/NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and Director",
+      "startDate": "2002",
+      "endDate": "2018",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "2018"
     }
   ],
   "investmentTheses": [

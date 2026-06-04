@@ -9,11 +9,36 @@
       "ticker": "FSLR",
       "exchange": "NASDAQ",
       "website": "https://www.firstsolar.com",
-      "title": "Chief Financial Officer",
-      "startDate": "2016-07-01",
+      "logoUrl": "/companies-assets/FSLR.NASDAQ.svg",
+      "title": "Chief Financial Officer (CFO)",
+      "startDate": "2016",
       "endDate": null,
-      "formattedStartDate": "2016 July",
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
+    },
+    {
+      "name": "8point3 Energy Partners LP",
+      "ticker": "CAFD",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "/companies-assets/CAFD.NASDAQ.png",
+      "title": "Officer and Board Member of the General Partner",
+      "startDate": "2015",
+      "endDate": "2018",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "SanDisk Corporation",
+      "ticker": "SNDK",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "/companies-assets/SNDK.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2015",
+      "endDate": "2016",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2016"
     }
   ],
   "investmentTheses": [

@@ -5,14 +5,39 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Lam Research Corporation",
-      "ticker": "LRCX",
-      "exchange": "NASDAQ",
-      "website": "https://www.lamresearch.com",
-      "title": "Director",
-      "startDate": "2024-01-01",
+      "name": "Taiwan Semiconductor Manufacturing Company (TSMC)",
+      "ticker": "TSM",
+      "exchange": "NYSE",
+      "website": "https://www.tsmc.com",
+      "logoUrl": "/companies-assets/TSM.NYSE.svg",
+      "title": "President and Chief Executive Officer",
+      "startDate": "2005",
+      "endDate": "2009",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2009"
+    },
+    {
+      "name": "Chunghwa Telecom",
+      "ticker": "CHT",
+      "exchange": "NYSE",
+      "website": "https://www.cht.com.tw",
+      "logoUrl": "/companies-assets/CHT.NYSE.svg",
+      "title": "Chairman",
+      "startDate": "2014",
+      "endDate": "2016",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "MediaTek Inc.",
+      "ticker": "2454",
+      "exchange": "TWSE",
+      "website": "https://www.mediatek.com",
+      "logoUrl": "/companies-assets/2454.TWSE.svg",
+      "title": "Vice Chairman and CEO",
+      "startDate": "2017",
       "endDate": null,
-      "formattedStartDate": "2024 January",
+      "formattedStartDate": "2017",
       "formattedEndDate": ""
     }
   ],

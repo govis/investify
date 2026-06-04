@@ -5,26 +5,76 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Salesforce, Inc.",
-      "ticker": "CRM",
+      "name": "Carnival Corporation & plc",
+      "ticker": "CCL",
       "exchange": "NYSE",
-      "website": "https://www.salesforce.com",
-      "title": "Independent Director",
-      "startDate": "2023-01-01",
-      "endDate": null,
-      "formattedStartDate": "2023 January",
-      "formattedEndDate": ""
+      "website": "https://www.carnivalcorp.com",
+      "logoUrl": "/companies-assets/CCL.NYSE.svg",
+      "title": "President and Chief Executive Officer (2013–2022); Director (2001–2023)",
+      "startDate": "2001",
+      "endDate": "2023",
+      "formattedStartDate": "2001",
+      "formattedEndDate": "2023"
     },
     {
-      "name": "GE Vernova Inc.",
-      "ticker": "GEV",
+      "name": "Bank of America Corporation",
+      "ticker": "BAC",
       "exchange": "NYSE",
-      "website": "https://www.gevernova.com",
-      "title": "Independent Director",
-      "startDate": "2024-04-02",
-      "endDate": null,
-      "formattedStartDate": "2024 April",
-      "formattedEndDate": ""
+      "website": "https://www.bankofamerica.com",
+      "logoUrl": "/companies-assets/BAC.NYSE.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": "2024",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Crown Holdings, Inc.",
+      "ticker": "CCK",
+      "exchange": "NYSE",
+      "website": "https://www.crowncork.com",
+      "logoUrl": "/companies-assets/CCK.NYSE.svg",
+      "title": "Director",
+      "startDate": "1999",
+      "endDate": "2019",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "The Laclede Group, Inc. (now Spire Inc.)",
+      "ticker": "SR",
+      "exchange": "NYSE",
+      "website": "https://www.spireenergy.com",
+      "logoUrl": "/companies-assets/SR.NYSE.svg",
+      "title": "Director",
+      "startDate": "2003",
+      "endDate": "2014",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2014"
+    },
+    {
+      "name": "Oil-Dri Corporation of America",
+      "ticker": "ODC",
+      "exchange": "NYSE",
+      "website": "https://www.oildri.com",
+      "logoUrl": "/companies-assets/ODC.NYSE.svg",
+      "title": "Director",
+      "startDate": "1997",
+      "endDate": "2013",
+      "formattedStartDate": "1997",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Monsanto Company",
+      "ticker": "MON",
+      "exchange": "NYSE",
+      "website": "http://www.monsanto.com",
+      "logoUrl": "/companies-assets/MON.NYSE.svg",
+      "title": "President, Agricultural Sector",
+      "startDate": null,
+      "endDate": "2000",
+      "formattedStartDate": "",
+      "formattedEndDate": "2000"
     }
   ],
   "investmentTheses": [

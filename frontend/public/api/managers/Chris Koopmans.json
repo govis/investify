@@ -9,17 +9,41 @@
       "ticker": "MRVL",
       "exchange": "NASDAQ",
       "website": "https://www.marvell.com",
-      "title": "Chief Operations Officer",
-      "startDate": "2023-01-01",
+      "logoUrl": "/companies-assets/MRVL.NASDAQ.svg",
+      "title": "President and Chief Operating Officer",
+      "startDate": "2016",
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Cavium, Inc.",
+      "ticker": "CAVM",
+      "exchange": "NASDAQ",
+      "website": "https://www.marvell.com",
+      "logoUrl": "/companies-assets/CAVM.NASDAQ.png",
+      "title": "Executive",
+      "startDate": "Prior to 2018",
+      "endDate": "2018",
+      "formattedStartDate": "Prior to 2018",
+      "formattedEndDate": "2018"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/chris-koopmans-4a5a1a1",
+      "person_name": "Chris Koopmans",
+      "company_name": "Marvell Technology",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 49,
   "ageYear": 2024

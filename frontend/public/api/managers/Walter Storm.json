@@ -7,13 +7,14 @@
     {
       "name": "Tudor Gold Corp.",
       "ticker": "TUD",
-      "exchange": "TSX",
-      "website": "https://tudor-gold.com/",
-      "title": "Executive Chairman",
-      "startDate": "2016-01-01",
-      "endDate": null,
-      "formattedStartDate": "2016 January",
-      "formattedEndDate": ""
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Founder, CEO, and Chairman of the Board",
+      "startDate": null,
+      "endDate": "June 2022",
+      "formattedStartDate": "",
+      "formattedEndDate": "June 2022"
     }
   ],
   "investmentTheses": [

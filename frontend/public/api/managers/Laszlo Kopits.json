@@ -9,17 +9,29 @@
       "ticker": "DDOG",
       "exchange": "NASDAQ",
       "website": "https://www.datadoghq.com",
+      "logoUrl": "/companies-assets/DDOG.NASDAQ.svg",
       "title": "General Counsel",
-      "startDate": "2017-01-01",
+      "startDate": "2015",
       "endDate": null,
-      "formattedStartDate": "2017 January",
+      "formattedStartDate": "2015",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/laszlo-kopits-459b33",
+      "person_name": "Laszlo Kopits",
+      "company_name": "Datadog, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 58,
   "ageYear": 2024

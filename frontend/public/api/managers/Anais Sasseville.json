@@ -7,12 +7,13 @@
     {
       "name": "Dryden Gold Corp.",
       "ticker": "DRY",
-      "exchange": "TSX",
-      "website": "https://drydengold.com",
-      "title": "Vice President, Corporate Communications",
-      "startDate": "2023-01-01",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
     }
   ],

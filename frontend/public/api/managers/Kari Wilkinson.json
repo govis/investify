@@ -9,17 +9,41 @@
       "ticker": "HII",
       "exchange": "NYSE",
       "website": "https://www.hii.com",
-      "title": "Executive Vice President and President, Ingalls Shipbuilding",
-      "startDate": "2021-04-01",
+      "logoUrl": "/companies-assets/HII.NYSE.svg",
+      "title": "Executive Vice President, HII and President, Ingalls Shipbuilding",
+      "startDate": "April 2021",
       "endDate": null,
-      "formattedStartDate": "2021 April",
+      "formattedStartDate": "April 2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "website": "https://www.northropgrumman.com",
+      "logoUrl": "/companies-assets/NOC.NYSE.svg",
+      "title": "Various roles (Ship Program Manager, etc.)",
+      "startDate": "Prior to 2011",
+      "endDate": "2011",
+      "formattedStartDate": "Prior to 2011",
+      "formattedEndDate": "2011"
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kari-wilkinson-9938081a4",
+      "person_name": "Kari Wilkinson",
+      "company_name": "Huntington Ingalls Industries",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 45,
   "ageYear": 2024

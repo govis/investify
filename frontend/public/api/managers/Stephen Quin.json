@@ -5,15 +5,76 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Aura Minerals Inc.",
-      "ticker": "AUGO",
-      "exchange": "TSX",
-      "website": "https://auraminerals.com/",
-      "title": "Independent Director",
-      "startDate": "2018-01-01",
+      "name": "Hot Chili Limited",
+      "ticker": "HCH",
+      "exchange": "ASX",
+      "website": "https://www.hotchili.net.au/",
+      "logoUrl": "/companies-assets/HCH.ASX.png",
+      "title": "Non-Executive Director",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2018 January",
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Osisko Development Corp.",
+      "ticker": "ODV",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "TDG Gold Corp.",
+      "ticker": "TDG",
+      "exchange": "TSXV",
+      "website": "https://tdggold.com/",
+      "logoUrl": "/companies-assets/TDG.TSXV.png",
+      "title": "Non-Executive Chairman",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Kutcho Copper Corp.",
+      "ticker": "KC",
+      "exchange": "TSXV",
+      "website": "https://kutcho.ca/",
+      "logoUrl": "/companies-assets/KC.TSXV.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Bravo Mining Corp.",
+      "ticker": "BRVO",
+      "exchange": "TSXV",
+      "website": "https://bravomining.com",
+      "logoUrl": "/companies-assets/BRVO.TSXV.png",
+      "title": "Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Chalice Mining Ltd",
+      "ticker": "CHN",
+      "exchange": "ASX",
+      "website": "https://chalicemining.com/",
+      "logoUrl": "/companies-assets/CHN.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": null,
+      "endDate": "2021-11-21",
+      "formattedStartDate": "",
+      "formattedEndDate": "November 2021"
     }
   ],
   "investmentTheses": [

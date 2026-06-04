@@ -9,11 +9,24 @@
       "ticker": "PLD",
       "exchange": "NYSE",
       "website": "https://www.prologis.com",
-      "title": "Chairman and Chief Executive Officer, Chairman of the Board, Co-Founder",
-      "startDate": "1997-01-01",
+      "logoUrl": "/companies-assets/PLD.NYSE.svg",
+      "title": "Co-Founder, Chairman of the Board, Former CEO",
+      "startDate": "2011",
       "endDate": null,
-      "formattedStartDate": "1997 January",
+      "formattedStartDate": "2011",
       "formattedEndDate": ""
+    },
+    {
+      "name": "AMB Property Corporation",
+      "ticker": "AMB",
+      "exchange": "NYSE",
+      "website": "https://www.prologis.com",
+      "logoUrl": "/companies-assets/AMB.NYSE.svg",
+      "title": "Co-Founder, Chairman, CEO",
+      "startDate": "1983",
+      "endDate": "2011",
+      "formattedStartDate": "1983",
+      "formattedEndDate": "2011"
     }
   ],
   "investmentTheses": [

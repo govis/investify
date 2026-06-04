@@ -5,33 +5,58 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Pilbara Minerals Limited",
-      "ticker": "PLS",
+      "name": "Australis Oil and Gas Limited",
+      "ticker": "ATS",
       "exchange": "ASX",
-      "website": "https://www.pilbaraminerals.com.au",
-      "title": "Independent Non-Executive Director",
-      "startDate": "2016-07-18",
+      "website": "https://www.australisoil.com",
+      "logoUrl": "/companies-assets/ATS.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "Nov 2016",
       "endDate": null,
-      "formattedStartDate": "2016 July",
+      "formattedStartDate": "Nov 2016",
       "formattedEndDate": ""
     },
     {
-      "name": "Regis Resources Limited",
-      "ticker": "RRL",
+      "name": "Altona Mining Limited",
+      "ticker": "AOH",
       "exchange": "ASX",
-      "website": "https://regisresources.com.au",
+      "website": "https://www.altonamining.com",
+      "logoUrl": "/companies-assets/AOH.ASX.png",
       "title": "Non-Executive Director",
-      "startDate": "2019-07-01",
-      "endDate": null,
-      "formattedStartDate": "2019 July",
-      "formattedEndDate": ""
+      "startDate": "18 Mar 2013",
+      "endDate": "2018",
+      "formattedStartDate": "18 Mar 2013",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Aquila Resources Limited",
+      "ticker": "AQA",
+      "exchange": "ASX",
+      "website": null,
+      "logoUrl": "/companies-assets/AQA.ASX.png",
+      "title": "Non-Executive Director",
+      "startDate": "2012",
+      "endDate": "2014",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2014"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/steve-scudamore-4a5a5a12",
+      "person_name": "Steve Scudamore",
+      "company_name": "Pilbara Minerals Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee (Chair)",
     "Audit and Risk Committee (Chair)",

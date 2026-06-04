@@ -9,17 +9,29 @@
       "ticker": "KLAC",
       "exchange": "NASDAQ",
       "website": "https://www.kla.com",
-      "title": "President, Semiconductor Process Control",
-      "startDate": "2019-01-01",
+      "logoUrl": "/companies-assets/KLAC.NASDAQ.svg",
+      "title": "President, Semiconductor Process Control (formerly Executive Vice President, Global Products Group)",
+      "startDate": "2004",
       "endDate": null,
-      "formattedStartDate": "2019 January",
+      "formattedStartDate": "2004",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ahmad-khan-903434/",
+      "person_name": "Ahmad Khan",
+      "company_name": "KLA",
+      "profile_status": "not_found",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 53,
   "ageYear": 2024

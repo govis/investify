@@ -9,17 +9,53 @@
       "ticker": "SEDG",
       "exchange": "NASDAQ",
       "website": "https://www.solaredge.com",
-      "title": "Vice President, General Counsel and Corporate Secretary",
-      "startDate": "2010-02-01",
+      "logoUrl": "/companies-assets/SEDG.NASDAQ.svg",
+      "title": "Vice President, General Counsel & Corporate Secretary",
+      "startDate": "2010",
+      "endDate": "2023",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Varonis Systems, Inc.",
+      "ticker": "VRNS",
+      "exchange": "NASDAQ",
+      "website": "https://www.varonis.com",
+      "logoUrl": "/companies-assets/VRNS.NASDAQ.svg",
+      "title": "Independent Director",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2010 February",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Gilat Satellite Networks Ltd.",
+      "ticker": "GILT",
+      "exchange": "NASDAQ",
+      "website": "https://www.gilat.com",
+      "logoUrl": "/companies-assets/GILT.NASDAQ.svg",
+      "title": "Vice President, General Counsel & Corporate Secretary",
+      "startDate": "2004",
+      "endDate": "2010",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2010"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rachel-prishkolnik-5a5a2a12/",
+      "person_name": "Rachel Prishkolnik",
+      "company_name": "SolarEdge Technologies, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 58,
   "ageYear": 2024

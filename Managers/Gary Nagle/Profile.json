@@ -6,28 +6,55 @@
   "age_year": 2024,
   "background": "Gary Nagle joined Glencore in 2000 and was appointed Chief Executive Officer in July 2021. He has held various senior roles across the group, including CEO of Glencore's coal assets in Australia and head of the ferroalloys marketing business in Switzerland. He holds commerce and accounting degrees from the University of the Witwatersrand and is a Chartered Accountant in South Africa.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Glencore plc",
       "ticker": "GLEN",
       "exchange": "LSE",
-      "title_or_role": "Chief Executive Officer, Executive Director",
-      "start_date": "2021-07-01",
-      "end_date": null
+      "title_or_role": "Chief Executive Officer and Director",
+      "website": "https://www.glencore.com",
+      "start_date": "July 1, 2021",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Glencore plc",
       "ticker": "GLNCY",
       "exchange": "OTC",
       "title_or_role": "Chief Executive Officer, Executive Director",
+      "website": "https://www.glencore.com",
       "start_date": "2021-07-01",
       "end_date": null
+    },
+    {
+      "name": "Lonmin plc",
+      "ticker": "LMI",
+      "exchange": "LSE",
+      "website": "N/A",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2015",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gary-nagle-4a5b2a12",
+      "person_name": "Gary Nagle",
+      "company_name": "Glencore",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

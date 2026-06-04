@@ -5,21 +5,93 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Dell Technologies Inc.",
-      "ticker": "DELL",
+      "name": "CVS Health Corporation",
+      "ticker": "CVS",
       "exchange": "NYSE",
-      "website": "https://www.dell.com",
-      "title": "Independent Director",
-      "startDate": "2016-01-01",
+      "website": "cvshealth.com",
+      "logoUrl": "/companies-assets/CVS.NYSE.svg",
+      "title": "Non-Executive Chairman of the Board",
+      "startDate": "2011",
       "endDate": null,
-      "formattedStartDate": "2016 January",
+      "formattedStartDate": "2011",
       "formattedEndDate": ""
+    },
+    {
+      "name": "PayPal Holdings, Inc.",
+      "ticker": "PYPL",
+      "exchange": "NASDAQ",
+      "website": "https://www.paypal.com",
+      "logoUrl": "/companies-assets/PYPL.NASDAQ.svg",
+      "title": "Independent Board Chair",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Yum! Brands, Inc.",
+      "ticker": "YUM",
+      "exchange": "NYSE",
+      "website": "https://www.yum.com",
+      "logoUrl": "/companies-assets/YUM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Motorola, Inc.",
+      "ticker": "MSI",
+      "exchange": "NYSE",
+      "website": "https://www.motorolasolutions.com",
+      "logoUrl": "/companies-assets/MSI.NYSE.svg",
+      "title": "Chairman of the Board",
+      "startDate": "2008",
+      "endDate": "2011",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2011"
+    },
+    {
+      "name": "AT&T Corporation",
+      "ticker": "T",
+      "exchange": "NYSE",
+      "website": "https://www.att.com",
+      "logoUrl": "/companies-assets/T.NYSE.svg",
+      "title": "Chairman and Chief Executive Officer",
+      "startDate": "2002",
+      "endDate": "2005",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "2005"
+    },
+    {
+      "name": "eBay Inc.",
+      "ticker": "EBAY",
+      "exchange": "NASDAQ",
+      "website": "ebay.com",
+      "logoUrl": "/companies-assets/EBAY.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2014",
+      "endDate": "2015",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2015"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/david-dorman-12631316",
+      "person_name": "David Dorman",
+      "company_name": "CVS Health",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Governance and Nominating Committee"

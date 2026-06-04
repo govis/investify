@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Global Atomic Corporation",
-      "ticker": "GLO",
-      "exchange": "TSX",
-      "website": "https://globalatomiccorp.com",
-      "title": "Vice President, Operations",
-      "startDate": "2017-12-22",
+      "name": "McFarlane Lake Mining Ltd.",
+      "ticker": "MLM",
+      "exchange": "NEO",
+      "website": "https://mcfarlanelakemining.com/",
+      "logoUrl": "/companies-assets/MLM.NEO.png",
+      "title": "Lead Independent Director",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2017 December",
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Harte Gold Corp.",
+      "ticker": "HRT",
+      "exchange": "TSX",
+      "website": "https://www.hartegold.com/",
+      "logoUrl": "/companies-assets/HRT.TSX.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": "2019",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2019"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/fergus-kerr-b6123849",
+      "person_name": "Fergus Kerr",
+      "company_name": "Global Atomic Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 71,
   "ageYear": 2024

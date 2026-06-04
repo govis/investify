@@ -5,14 +5,27 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Quanta Services, Inc.",
-      "ticker": "PWR",
+      "name": "Select Water Solutions, Inc. (formerly Select Energy Services, Inc.)",
+      "ticker": "WTTR",
       "exchange": "NYSE",
-      "website": "https://www.quantaservices.com",
-      "title": "Independent Director",
-      "startDate": "2021-01-01",
+      "website": "https://selectwater.com/",
+      "logoUrl": "/companies-assets/WTTR.NYSE.svg",
+      "title": "President, Chief Executive Officer, and Director",
+      "startDate": "2017",
+      "endDate": "2021",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Kayne Anderson Energy Infrastructure Fund, Inc.",
+      "ticker": "KYN",
+      "exchange": "NYSE",
+      "website": "https://kaynefunds.com/kyn/",
+      "logoUrl": "/companies-assets/KYN.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2021 January",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +33,18 @@
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/holli-ladhani-a16b24305",
+      "person_name": "Holli Ladhani",
+      "company_name": "Select Water Solutions",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Investment Committee"

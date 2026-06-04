@@ -9,11 +9,24 @@
       "ticker": "ANET",
       "exchange": "NYSE",
       "website": "https://www.arista.com",
-      "title": "Chief Architect, Director",
-      "startDate": "2008-10-01",
-      "endDate": null,
-      "formattedStartDate": "2008 October",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/ANET.NYSE.svg",
+      "title": "Founder, Chairman, Chief Development Officer",
+      "startDate": "2004",
+      "endDate": "2024",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Sun Microsystems, Inc.",
+      "ticker": "SUNW (Delisted)",
+      "exchange": "NASDAQ (Historical)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Co-Founder, Vice President",
+      "startDate": "1982",
+      "endDate": "1995",
+      "formattedStartDate": "1982",
+      "formattedEndDate": "1995"
     }
   ],
   "investmentTheses": [

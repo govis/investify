@@ -6,19 +6,45 @@
   "age_year": null,
   "background": "Mr. Craib is a highly experienced mining executive with over 20 years\u2019 experience in the mining industry. He was previously Finance Director of Swakop Uranium (Pty) Ltd and was involved in the US$2.5 billion development of the Husab Uranium Project in Namibia.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Boss Energy Limited",
       "ticker": "BOE",
       "exchange": "ASX",
-      "title_or_role": "Managing Director and Chief Executive Officer",
-      "start_date": "2017-01-09",
-      "end_date": null
+      "title_or_role": "Managing Director & Chief Executive Officer",
+      "website": "https://bossenergy.com/",
+      "start_date": "August 2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kalahari Minerals PLC",
+      "ticker": "KAH",
+      "exchange": "LSE",
+      "website": null,
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "Prior to 2012",
+      "end_date": "2012",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/duncan-craib-087595100",
+      "person_name": "Duncan Craib",
+      "company_name": "Boss Energy Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

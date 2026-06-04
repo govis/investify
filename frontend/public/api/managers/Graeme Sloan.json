@@ -9,10 +9,35 @@
       "ticker": "KRR",
       "exchange": "TSX",
       "website": "https://www.karoraresources.com",
-      "title": "Managing Director, Australian Operations",
-      "startDate": "2019-02-01",
+      "logoUrl": "/companies-assets/KRR.TSX.jpg",
+      "title": "Managing Director - Australian Operations",
+      "startDate": "2019",
+      "endDate": "2022",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Golden Horse Minerals Ltd.",
+      "ticker": "GHM",
+      "exchange": "ASX",
+      "website": "https://goldenhorseminerals.com/",
+      "logoUrl": "/companies-assets/GHM.ASX.png",
+      "title": "Chairman / Acting CEO",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2019 February",
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Kali Metals Limited",
+      "ticker": "KM1",
+      "exchange": "ASX",
+      "website": "https://kalimetals.com.au/",
+      "logoUrl": "/companies-assets/KM1.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
       "formattedEndDate": ""
     }
   ],

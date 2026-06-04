@@ -9,17 +9,41 @@
       "ticker": "TDG",
       "exchange": "NYSE",
       "website": "https://www.transdigm.com",
-      "title": "Director, President and Chief Executive Officer",
-      "startDate": "2018-04-30",
+      "logoUrl": "/companies-assets/TDG.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2018-04",
+      "endDate": "2026-03",
+      "formattedStartDate": "April 2018",
+      "formattedEndDate": "March 2026"
+    },
+    {
+      "name": "Axalta Coating Systems Ltd.",
+      "ticker": "AXTA",
+      "exchange": "NYSE",
+      "website": "https://www.axalta.com",
+      "logoUrl": "/companies-assets/AXTA.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "2023-09",
       "endDate": null,
-      "formattedStartDate": "2018 April",
+      "formattedStartDate": "September 2023",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kevin-stein-6186726",
+      "person_name": "Kevin Stein",
+      "company_name": "TransDigm Group Incorporated",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 58,
   "ageYear": 2024

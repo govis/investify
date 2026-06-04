@@ -5,32 +5,69 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Boss Energy Limited",
-      "ticker": "BOE",
-      "exchange": "ASX",
-      "website": "https://www.bossenergy.com",
-      "title": "Non-Executive Director",
-      "startDate": "2019-09-18",
+      "name": "5E Advanced Materials, Inc.",
+      "ticker": "FEAM",
+      "exchange": "NASDAQ",
+      "website": "5eadvancedmaterials.com",
+      "logoUrl": "/companies-assets/FEAM.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2019 September",
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
     },
     {
-      "name": "Laramide Resources Ltd.",
-      "ticker": "LAM",
-      "exchange": "TSX",
-      "website": "https://laramide.com",
-      "title": "Chief Operating Officer",
-      "startDate": "2014-01-01",
+      "name": "DevEx Resources Limited",
+      "ticker": "DEV",
+      "exchange": "ASX",
+      "website": "https://devexresources.com.au/",
+      "logoUrl": "/companies-assets/DEV.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2009",
       "endDate": null,
-      "formattedStartDate": "2014 January",
+      "formattedStartDate": "2009",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Australian Rare Earths Limited",
+      "ticker": "AR3",
+      "exchange": "ASX",
+      "website": "ar3.com.au",
+      "logoUrl": "/companies-assets/AR3.ASX.webp",
+      "title": "Non-Executive Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Uranium Equities Limited (now PhosEnergy Limited)",
+      "ticker": "PEA",
+      "exchange": "ASX",
+      "website": "phosenergy.com",
+      "logoUrl": "/companies-assets/PEA.ASX.jpg",
+      "title": "Managing Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bryn-jones-7a5a2a1b/",
+      "person_name": "Bryn Jones",
+      "company_name": "entX Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit and Risk Committee",
     "Remuneration and Nomination Committee"

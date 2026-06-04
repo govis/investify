@@ -5,15 +5,16 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "J.B. Hunt Transport Services, Inc.",
-      "ticker": "JBHT",
+      "name": "Duluth Holdings, Inc.",
+      "ticker": "DLTH",
       "exchange": "NASDAQ",
-      "website": "https://www.jbhunt.com",
-      "title": "Independent Director",
-      "startDate": "2011-01-01",
-      "endDate": null,
-      "formattedStartDate": "2011 January",
-      "formattedEndDate": ""
+      "website": "https://www.duluthtrading.com",
+      "logoUrl": "/companies-assets/DLTH.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2015-09",
+      "endDate": "2025-06",
+      "formattedStartDate": "September 2015",
+      "formattedEndDate": "June 2025"
     }
   ],
   "investmentTheses": [

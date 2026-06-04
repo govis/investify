@@ -5,26 +5,40 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Chevron Corporation",
-      "ticker": "CVX",
+      "name": "Huntsman Corporation",
+      "ticker": "HUN",
       "exchange": "NYSE",
-      "website": "https://www.chevron.com",
-      "title": "Independent Director",
-      "startDate": "2020-09-01",
-      "endDate": null,
-      "formattedStartDate": "2020 September",
-      "formattedEndDate": ""
+      "website": "https://www.huntsman.com",
+      "logoUrl": "/companies-assets/HUN.NYSE.svg",
+      "title": "Director",
+      "startDate": "2012",
+      "endDate": "2017",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2017"
     },
     {
-      "name": "Ford Motor Company",
-      "ticker": "F",
+      "name": "Caterpillar Inc.",
+      "ticker": "CAT",
       "exchange": "NYSE",
-      "website": "https://www.ford.com",
-      "title": "Independent Director",
-      "startDate": "2020-10-01",
-      "endDate": null,
-      "formattedStartDate": "2020 October",
-      "formattedEndDate": ""
+      "website": "https://www.caterpillar.com",
+      "logoUrl": "/companies-assets/CAT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2012",
+      "endDate": "2017",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Hilton Worldwide Holdings Inc.",
+      "ticker": "HLT",
+      "exchange": "NYSE",
+      "website": "https://www.hilton.com",
+      "logoUrl": "/companies-assets/HLT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": "2017",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2017"
     }
   ],
   "investmentTheses": [

@@ -7,12 +7,25 @@
     {
       "name": "Teck Resources Limited",
       "ticker": "TECK",
-      "exchange": "NYSE",
-      "website": "https://www.teck.com",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
       "title": "Vice Chair of the Board",
-      "startDate": "1997-04-01",
+      "startDate": "2018",
       "endDate": null,
-      "formattedStartDate": "1997 April",
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Lupaka Gold Corp.",
+      "ticker": "LPK",
+      "exchange": "TSXV",
+      "website": "http://www.lupakagold.com",
+      "logoUrl": "/companies-assets/LPK.TSXV.png",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],

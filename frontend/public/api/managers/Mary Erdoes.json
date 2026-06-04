@@ -9,10 +9,11 @@
       "ticker": "JPM",
       "exchange": "NYSE",
       "website": "https://www.jpmorganchase.com",
-      "title": "CEO, Asset & Wealth Management",
-      "startDate": "2009-09-01",
+      "logoUrl": "/companies-assets/JPM.NYSE.svg",
+      "title": "Chief Executive Officer, Asset & Wealth Management",
+      "startDate": "2009",
       "endDate": null,
-      "formattedStartDate": "2009 September",
+      "formattedStartDate": "2009",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +21,18 @@
     "AI",
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/maryerdoes",
+      "person_name": "Mary Erdoes",
+      "company_name": "JPMorgan Chase & Co.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 56,
   "ageYear": 2024

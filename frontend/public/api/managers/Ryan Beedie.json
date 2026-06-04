@@ -9,17 +9,29 @@
       "ticker": "ARTG",
       "exchange": "TSX",
       "website": "https://www.artemisgoldinc.com",
-      "title": "Independent Director",
-      "startDate": "2019-01-10",
+      "logoUrl": "/companies-assets/ARTG.TSX.png",
+      "title": "Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2019 January",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/ryan-beedie-obc-cbhf-798a32262",
+      "person_name": "Ryan Beedie",
+      "company_name": "Beedie",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "profile_status": "private"
+    }
+  ],
   "committees": [
     "Compensation Committee"
   ],

@@ -6,6 +6,39 @@
   "age_year": 2024,
   "background": "Former Chairman and Chief Executive Officer of Ashland Inc.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Albemarle Corporation",
+      "ticker": "ALB",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.albemarle.com",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Eastman Chemical Company",
+      "ticker": "EMN",
+      "exchange": "NYSE",
+      "website": "https://www.eastman.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ashland Inc.",
+      "ticker": "ASH",
+      "exchange": "NYSE",
+      "website": "https://www.ashland.com",
+      "title_or_role": "Senior Vice President and Group Operating Officer",
+      "start_date": "2001",
+      "end_date": "2002",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
@@ -15,14 +48,6 @@
     "Executive Committee",
     "Nominating & Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Albemarle Corporation",
-      "ticker": "ALB",
-      "exchange": "NYSE",
-      "title_or_role": "Lead Independent Director",
-      "start_date": "2015-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

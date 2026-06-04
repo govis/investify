@@ -6,19 +6,35 @@
   "age_year": null,
   "background": "Sarah Hodgson was appointed Head of People and Sustainability in 2022. She has extensive experience in human resources and corporate affairs within the mining and resources sector.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Iluka Resources Limited",
       "ticker": "ILU",
       "exchange": "ASX",
       "title_or_role": "Head of People and Sustainability",
-      "start_date": "2022-01-01",
-      "end_date": null
+      "website": "https://www.iluka.com",
+      "start_date": "Unknown",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/sarah-hodgson-67b47823",
+      "person_name": "Sarah Hodgson",
+      "company_name": "Iluka Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

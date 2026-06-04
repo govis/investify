@@ -9,11 +9,48 @@
       "ticker": "AAPL",
       "exchange": "NASDAQ",
       "website": "https://www.apple.com",
-      "title": "Independent Director",
-      "startDate": "2021-01-05",
+      "logoUrl": "/companies-assets/AAPL.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2021-01-04",
       "endDate": null,
-      "formattedStartDate": "2021 January",
+      "formattedStartDate": "January 2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Target Corporation",
+      "ticker": "TGT",
+      "exchange": "NYSE",
+      "website": "https://www.target.com",
+      "logoUrl": "/companies-assets/TGT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Bank of America Corporation",
+      "ticker": "BAC",
+      "exchange": "NYSE",
+      "website": "https://www.bankofamerica.com",
+      "logoUrl": "/companies-assets/BAC.NYSE.svg",
+      "title": "Director",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "The Walt Disney Company",
+      "ticker": "DIS",
+      "exchange": "NYSE",
+      "website": "https://thewaltdisneycompany.com",
+      "logoUrl": "/companies-assets/DIS.NYSE.svg",
+      "title": "Director",
+      "startDate": "2000",
+      "endDate": "2016",
+      "formattedStartDate": "2000",
+      "formattedEndDate": "2016"
     }
   ],
   "investmentTheses": [

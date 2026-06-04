@@ -9,17 +9,41 @@
       "ticker": "BA",
       "exchange": "LSE",
       "website": "https://www.baesystems.com",
-      "title": "Group Finance Director",
+      "logoUrl": "/companies-assets/BA.LSE.svg",
+      "title": "Group Finance Director & Director",
       "startDate": "2020-04-01",
       "endDate": null,
-      "formattedStartDate": "2020 April",
+      "formattedStartDate": "April 2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Schlumberger NV",
+      "ticker": "SLB",
+      "exchange": "NYSE",
+      "website": "https://www.slb.com",
+      "logoUrl": "/companies-assets/SLB.NYSE.svg",
+      "title": "Director of Internal Audit",
+      "startDate": null,
+      "endDate": "2019",
+      "formattedStartDate": "",
+      "formattedEndDate": "2019"
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/brad-greve-7a5a5a1a",
+      "person_name": "Brad Greve",
+      "company_name": "BAE Systems",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1
+    }
+  ],
   "committees": [],
   "age": 56,
   "ageYear": 2024

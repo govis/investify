@@ -9,17 +9,41 @@
       "ticker": "LDOS",
       "exchange": "NYSE",
       "website": "https://www.leidos.com",
-      "title": "Chief Financial Officer",
-      "startDate": "2022-07-05",
+      "logoUrl": "/companies-assets/LDOS.NYSE.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "July 5, 2021",
       "endDate": null,
-      "formattedStartDate": "2022 July",
+      "formattedStartDate": "July 5, 2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Leidos Holdings, Inc. (formerly SAIC)",
+      "ticker": "LDOS",
+      "exchange": "NYSE",
+      "website": "https://www.leidos.com",
+      "logoUrl": "/companies-assets/LDOS.NYSE.svg",
+      "title": "Various finance and management roles (including Senior Vice President and Chief Accounting Officer)",
+      "startDate": "1996",
+      "endDate": "July 5, 2021",
+      "formattedStartDate": "1996",
+      "formattedEndDate": "July 5, 2021"
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/chris-cage-717bbb",
+      "person_name": "Christopher Cage",
+      "company_name": "Leidos Holdings, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 55,
   "ageYear": 2024

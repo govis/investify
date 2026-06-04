@@ -7,13 +7,26 @@
     {
       "name": "Oracle Corporation",
       "ticker": "ORCL",
-      "exchange": "NYSE",
-      "website": "https://www.oracle.com",
-      "title": "Vice Chairman",
-      "startDate": "2014-09-01",
-      "endDate": null,
-      "formattedStartDate": "2014 September",
-      "formattedEndDate": ""
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "CFO & EVP",
+      "startDate": "1991-03",
+      "endDate": "2004-07",
+      "formattedStartDate": "March 1991",
+      "formattedEndDate": "July 2004"
+    },
+    {
+      "name": "Saga Corporation",
+      "ticker": "N/A (Delisted)",
+      "exchange": "NYSE (Historical)",
+      "website": null,
+      "logoUrl": null,
+      "title": "EVP & CFO",
+      "startDate": "Prior to 1991",
+      "endDate": "1991",
+      "formattedStartDate": "Prior to 1991",
+      "formattedEndDate": "1991"
     }
   ],
   "investmentTheses": [

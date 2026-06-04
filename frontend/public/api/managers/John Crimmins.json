@@ -5,33 +5,34 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "VanEck Uranium and Nuclear Energy ETF",
-      "ticker": "NLR",
+      "name": "Burlington Stores, Inc.",
+      "ticker": "BURL",
       "exchange": "NYSE",
-      "website": "https://www.vaneck.com/us/en/investments/uranium-nuclear-energy-etf-nlr/",
-      "title": "Treasurer and Chief Financial Officer",
-      "startDate": "2001-01-01",
-      "endDate": null,
-      "formattedStartDate": "2001 January",
-      "formattedEndDate": ""
-    },
-    {
-      "name": "VanEck Rare Earth/Strategic Metals ETF",
-      "ticker": "SETM",
-      "exchange": "NYSE",
-      "website": "https://www.vaneck.com/us/en/investments/rare-earth-strategic-metals-etf-remx/",
-      "title": "Treasurer and Chief Financial Officer",
-      "startDate": "2009",
-      "endDate": null,
-      "formattedStartDate": "",
-      "formattedEndDate": ""
+      "website": "https://www.burlingtonstores.com",
+      "logoUrl": "/companies-assets/BURL.NYSE.svg",
+      "title": "Executive Vice President of Finance and Chief Accounting Officer",
+      "startDate": "2011",
+      "endDate": "2019",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2019"
     }
   ],
   "investmentTheses": [
     "Nuclear",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/john-crimmins-cpa-b6901463",
+      "person_name": "John Crimmins",
+      "company_name": "VanEck",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 68,
   "ageYear": 2024

@@ -5,14 +5,15 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Komatsu Ltd.",
-      "ticker": "KMTUY",
+      "name": "Suntory Beverage & Food Limited",
+      "ticker": "STBFY",
       "exchange": "OTC",
-      "website": "https://www.komatsu.jp",
-      "title": "Senior Executive Officer, Director",
-      "startDate": "2022-04-01",
+      "website": "https://www.suntory.com/softdrink/",
+      "logoUrl": "/companies-assets/STBFY.OTC.svg",
+      "title": "Senior General Manager, Sales and Marketing Division, Kyusyu Area / Senior General Manager, Branch 2",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2022 April",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],

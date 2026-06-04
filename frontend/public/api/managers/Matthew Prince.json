@@ -9,17 +9,29 @@
       "ticker": "NET",
       "exchange": "NYSE",
       "website": "https://www.cloudflare.com",
-      "title": "Chief Executive Officer, Chair of the Board of Directors",
-      "startDate": "2009-07-01",
+      "logoUrl": "/companies-assets/NET.NYSE.svg",
+      "title": "Co-founder, Executive Chairman, and Chief Executive Officer",
+      "startDate": "2009",
       "endDate": null,
-      "formattedStartDate": "2009 July",
+      "formattedStartDate": "2009",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mprince",
+      "person_name": "Matthew Prince",
+      "company_name": "Cloudflare, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 49,
   "ageYear": 2024

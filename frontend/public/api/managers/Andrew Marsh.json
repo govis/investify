@@ -9,17 +9,29 @@
       "ticker": "ETR",
       "exchange": "NYSE",
       "website": "https://www.entergy.com",
-      "title": "Chair of the Board and Chief Executive Officer",
-      "startDate": "2022-11-01",
+      "logoUrl": "/companies-assets/ETR.NYSE.svg",
+      "title": "Chairman of the Board and Chief Executive Officer",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2022 November",
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/drew-marsh-a6a3b836",
+      "person_name": "Andrew S. Marsh",
+      "company_name": "Entergy",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1
+    }
+  ],
   "committees": [],
   "age": 52,
   "ageYear": 2024

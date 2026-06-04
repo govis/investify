@@ -9,11 +9,24 @@
       "ticker": "SMR",
       "exchange": "NYSE",
       "website": "https://www.nuscalepower.com",
+      "logoUrl": "/companies-assets/SMR.NYSE.svg",
       "title": "Chief Financial Officer",
-      "startDate": "2023-04-01",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2023 April",
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Western Magnesium Corporation",
+      "ticker": "WMG",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": "https://www.marketscreener.com/images/reuters/logo_reuters_default.png",
+      "title": "Chief Financial Officer",
+      "startDate": "2022",
+      "endDate": "2022",
+      "formattedStartDate": "2022",
+      "formattedEndDate": "2022"
     }
   ],
   "investmentTheses": [

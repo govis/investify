@@ -9,11 +9,24 @@
       "ticker": "ETR",
       "exchange": "NYSE",
       "website": "https://www.entergy.com",
-      "title": "Independent Director",
-      "startDate": "2011-01-01",
-      "endDate": null,
-      "formattedStartDate": "2011 January",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/ETR.NYSE.svg",
+      "title": "Director",
+      "startDate": "2011",
+      "endDate": "2024-12-31",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "December 2024"
+    },
+    {
+      "name": "Rayonier Inc.",
+      "ticker": "RYN",
+      "exchange": "NYSE",
+      "website": "https://www.rayonier.com",
+      "logoUrl": "/companies-assets/RYN.NYSE.svg",
+      "title": "Director",
+      "startDate": "2014",
+      "endDate": "2021",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2021"
     }
   ],
   "investmentTheses": [

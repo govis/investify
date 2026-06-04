@@ -5,21 +5,105 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "CSX Corporation",
-      "ticker": "CSX",
-      "exchange": "NASDAQ",
-      "website": "https://www.csx.com",
-      "title": "Chairman",
-      "startDate": "2017-01-01",
+      "name": "Aramark",
+      "ticker": "ARMK",
+      "exchange": "NYSE",
+      "website": "https://www.aramark.com",
+      "logoUrl": "/companies-assets/ARMK.NYSE.svg",
+      "title": "Chief Executive Officer & Director",
+      "startDate": "2019",
       "endDate": null,
-      "formattedStartDate": "2017 January",
+      "formattedStartDate": "2019",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Ecolab, Inc.",
+      "ticker": "ECL",
+      "exchange": "NYSE",
+      "website": "https://www.ecolab.com",
+      "logoUrl": "/companies-assets/ECL.NYSE.svg",
+      "title": "Director",
+      "startDate": "2006",
+      "endDate": null,
+      "formattedStartDate": "2006",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Reynolds American, Inc.",
+      "ticker": "RAI",
+      "exchange": "NYSE",
+      "website": "https://www.reynoldsamerican.com",
+      "logoUrl": "/companies-assets/RAI.NYSE.svg",
+      "title": "Director",
+      "startDate": "2007",
+      "endDate": "2017",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Veritiv Corporation",
+      "ticker": "VRTV",
+      "exchange": "NYSE",
+      "website": "https://www.veritivcorp.com",
+      "logoUrl": "/companies-assets/VRTV.NYSE.svg",
+      "title": "Director",
+      "startDate": "2014",
+      "endDate": "2020",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Performance Food Group",
+      "ticker": "PFGC",
+      "exchange": "NYSE",
+      "website": "https://www.pfgc.com",
+      "logoUrl": "/companies-assets/PFGC.NYSE.svg",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": "2019",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Univar Solutions Inc.",
+      "ticker": "UNVR",
+      "exchange": "NYSE",
+      "website": "https://www.univarsolutions.com",
+      "logoUrl": "/companies-assets/UNVR.NYSE.svg",
+      "title": "Director",
+      "startDate": "2009",
+      "endDate": "2012",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "Allied Waste Industries",
+      "ticker": "AW",
+      "exchange": "NYSE",
+      "website": "https://www.alliedwaste.com",
+      "logoUrl": "/companies-assets/AW.NYSE.svg",
+      "title": "Chairman & Chief Executive Officer",
+      "startDate": "2005",
+      "endDate": "2008",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2008"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/john-zillmer-4a36b816",
+      "person_name": "John Zillmer",
+      "company_name": "Aramark",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Executive Committee",
     "Governance and Sustainability Committee"

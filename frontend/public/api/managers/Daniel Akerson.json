@@ -5,15 +5,64 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Lockheed Martin Corporation",
-      "ticker": "LMT",
+      "name": "General Motors Company",
+      "ticker": "GM",
       "exchange": "NYSE",
-      "website": "https://www.lockheedmartin.com",
-      "title": "Independent Director",
-      "startDate": "2014-02-01",
-      "endDate": null,
-      "formattedStartDate": "2014 February",
-      "formattedEndDate": ""
+      "website": "https://www.gm.com",
+      "logoUrl": "/companies-assets/GM.NYSE.svg",
+      "title": "Chairman of the Board",
+      "startDate": "2011-01-01",
+      "endDate": "2014-01-15",
+      "formattedStartDate": "January 2011",
+      "formattedEndDate": "January 2014"
+    },
+    {
+      "name": "The Carlyle Group Inc.",
+      "ticker": "CG",
+      "exchange": "NASDAQ",
+      "website": "https://www.carlyle.com",
+      "logoUrl": "/companies-assets/CG.NASDAQ.svg",
+      "title": "Managing Director / Head of Global Buyout",
+      "startDate": "2003-06-01",
+      "endDate": "2010-08-31",
+      "formattedStartDate": "June 2003",
+      "formattedEndDate": "August 2010"
+    },
+    {
+      "name": "Nextel Communications, Inc.",
+      "ticker": "NXTL",
+      "exchange": "NASDAQ",
+      "website": "https://www.nextel.com",
+      "logoUrl": "/companies-assets/NXTL.NASDAQ.svg",
+      "title": "Chief Executive Officer",
+      "startDate": "1996-01-01",
+      "endDate": "1999-01-01",
+      "formattedStartDate": "January 1996",
+      "formattedEndDate": "January 1999"
+    },
+    {
+      "name": "General Instrument Corporation",
+      "ticker": "GIC",
+      "exchange": "NYSE",
+      "website": "https://www.commscope.com",
+      "logoUrl": "/companies-assets/GIC.NYSE.png",
+      "title": "Chairman and Chief Executive Officer",
+      "startDate": "1990-01-01",
+      "endDate": "1995-01-01",
+      "formattedStartDate": "January 1990",
+      "formattedEndDate": "January 1995"
+    },
+    {
+      "name": "XO Communications, Inc.",
+      "ticker": "XOHO",
+      "exchange": "NASDAQ",
+      "website": "https://www.xo.com",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/XO_Communications_logo.svg/1200px-XO_Communications_logo.svg.png",
+      "title": "Chairman and Chief Executive Officer",
+      "startDate": "1999-01-01",
+      "endDate": "2003-01-01",
+      "formattedStartDate": "January 1999",
+      "formattedEndDate": "January 2003"
     }
   ],
   "investmentTheses": [

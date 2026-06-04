@@ -7,12 +7,49 @@
     {
       "name": "Endeavour Mining plc",
       "ticker": "EDV",
-      "exchange": "TSX",
-      "website": "https://www.endeavourmining.com",
+      "exchange": "LSE / TSX",
+      "website": null,
+      "logoUrl": null,
       "title": "Non-Executive Director",
-      "startDate": "2015-11-27",
+      "startDate": "2015",
       "endDate": null,
-      "formattedStartDate": "2015 November",
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Telekom Austria AG (now A1 Telekom Austria Group)",
+      "ticker": "TKA",
+      "exchange": "Vienna Stock Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Member of the Supervisory Board",
+      "startDate": "2012",
+      "endDate": "2014",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2014"
+    },
+    {
+      "name": "Orascom Telecom Holding S.A.E.",
+      "ticker": "OTH (Historical)",
+      "exchange": "EGX (Egyptian Exchange)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman and CEO",
+      "startDate": "1998",
+      "endDate": "2011",
+      "formattedStartDate": "1998",
+      "formattedEndDate": "2011"
+    },
+    {
+      "name": "Orascom Telecom Media and Technology Holding (now Orascom Investment Holding)",
+      "ticker": "OIH",
+      "exchange": "EGX (Egyptian Exchange)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Chairman",
+      "startDate": "2011",
+      "endDate": null,
+      "formattedStartDate": "2011",
       "formattedEndDate": ""
     }
   ],

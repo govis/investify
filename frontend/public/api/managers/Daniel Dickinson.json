@@ -9,17 +9,53 @@
       "ticker": "CAT",
       "exchange": "NYSE",
       "website": "https://www.caterpillar.com",
-      "title": "Independent Director",
-      "startDate": "2006-01-01",
-      "endDate": null,
-      "formattedStartDate": "2006 January",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/CAT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2006",
+      "endDate": "2025",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "MISTRAS Group, Inc.",
+      "ticker": "MG",
+      "exchange": "NYSE",
+      "website": "https://www.mistrasgroup.com",
+      "logoUrl": "/companies-assets/MG.NYSE.svg",
+      "title": "Director",
+      "startDate": "Not specified",
+      "endDate": "Within the last five years",
+      "formattedStartDate": "Not specified",
+      "formattedEndDate": "Within the last five years"
+    },
+    {
+      "name": "TTM Technologies, Inc.",
+      "ticker": "TTMI",
+      "exchange": "NASDAQ",
+      "website": "https://www.ttm.com",
+      "logoUrl": "/companies-assets/TTMI.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "Not specified",
+      "endDate": "Not specified",
+      "formattedStartDate": "Not specified",
+      "formattedEndDate": "Not specified"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/danielsdickinson",
+      "person_name": "Daniel S. Dickinson",
+      "company_name": "HCI Equity Partners",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Governance and Nominating Committee"

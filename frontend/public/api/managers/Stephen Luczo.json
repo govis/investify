@@ -9,17 +9,89 @@
       "ticker": "MS",
       "exchange": "NYSE",
       "website": "https://www.morganstanley.com",
-      "title": "Independent Director",
-      "startDate": "2019-10-01",
+      "logoUrl": "/companies-assets/MS.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2019 October",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Seagate Technology",
+      "ticker": "STX",
+      "exchange": "NASDAQ",
+      "website": "https://www.seagate.com",
+      "logoUrl": "/companies-assets/STX.NASDAQ.svg",
+      "title": "Chairman of the Board",
+      "startDate": "2019",
+      "endDate": "2021",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "https://www.microsoft.com",
+      "logoUrl": "/companies-assets/MSFT.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2012",
+      "endDate": "2020",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "VMware, Inc.",
+      "ticker": "VMW",
+      "exchange": "NYSE",
+      "website": "https://www.vmware.com",
+      "logoUrl": "/companies-assets/VMW.NYSE.svg",
+      "title": "Director",
+      "startDate": "2007",
+      "endDate": "2016",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Veritas Technologies",
+      "ticker": "VRT",
+      "exchange": "NASDAQ",
+      "website": "veritas.com",
+      "logoUrl": "/companies-assets/VRT.NASDAQ.png",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": "2018",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "AT&T Inc.",
+      "ticker": "T",
+      "exchange": "NYSE",
+      "website": "https://www.att.com",
+      "logoUrl": "/companies-assets/T.NYSE.svg",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": "2023",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2023"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/stephen-luczo-4a5b2a1",
+      "person_name": "Stephen Luczo",
+      "company_name": "Seagate Technology",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Operations and Technology Committee"
   ],

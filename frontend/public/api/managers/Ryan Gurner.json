@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Northern Star Resources Limited",
-      "ticker": "NST",
+      "name": "RTG Mining Limited",
+      "ticker": "RTG",
       "exchange": "ASX",
-      "website": "https://www.nsrltd.com",
-      "title": "Chief Financial Officer",
-      "startDate": "2021-07-22",
+      "website": "https://www.rtgmining.com",
+      "logoUrl": "/companies-assets/RTG.ASX.svg",
+      "title": "Chief Financial Officer and Secretary",
+      "startDate": null,
+      "endDate": "2015",
+      "formattedStartDate": "",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Echo Resources Limited",
+      "ticker": "EAR",
+      "exchange": "ASX",
+      "website": "https://www.echoresources.com.au",
+      "logoUrl": "/companies-assets/EAR.ASX.svg",
+      "title": "Director",
+      "startDate": "2019-10-16",
       "endDate": null,
-      "formattedStartDate": "2021 July",
+      "formattedStartDate": "October 2019",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/ryan-gurner-50619232",
+      "person_name": "Ryan Gurner",
+      "company_name": "Northern Star Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 46,
   "ageYear": 2024

@@ -6,20 +6,35 @@
   "age_year": 2024,
   "background": "Mr. Eveleigh has over 30 years of experience in the mineral exploration industry. He was a co-founder of the predecessor Lithium Americas Corp. and has served in various executive capacities.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lithium Americas Corp.",
+      "ticker": "LAC",
+      "exchange": "TSX/NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.lithiumamericas.com/",
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Zentek Ltd. (formerly Zenyatta Ventures Ltd.)",
+      "ticker": "ZEN",
+      "exchange": "TSXV",
+      "website": "https://www.zentek.com/",
+      "title_or_role": "President and CEO",
+      "start_date": "2011",
+      "end_date": "2016-05",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Lithium Americas Corp.",
-      "ticker": "LAC",
-      "exchange": "NYSE",
-      "title_or_role": "Vice President, Exploration",
-      "start_date": "2023-10-04",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

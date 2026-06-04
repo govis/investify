@@ -3,19 +3,7 @@
   "name": "Samuel Grubbs",
   "background": "Mr. Grubbs has served as a director since 2018. He is a retired executive from the defense industry.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "Kratos Defense & Security Solutions, Inc.",
-      "ticker": "KTOS",
-      "exchange": "NASDAQ",
-      "website": "https://www.kratosdefense.com",
-      "title": "Director",
-      "startDate": "2018-01-01",
-      "endDate": null,
-      "formattedStartDate": "2018 January",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "Defense"
   ],

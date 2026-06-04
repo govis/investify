@@ -6,19 +6,54 @@
   "age_year": 2024,
   "background": "Pamela Tondreau has served as our Executive Vice President, Chief Legal Officer and Corporate Secretary since September 2021. Prior to joining the Company, she served as Executive Vice President, General Counsel and Corporate Secretary of Cypress Semiconductor Corporation.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "ON Semiconductor Corporation",
       "ticker": "ON",
       "exchange": "NASDAQ",
       "title_or_role": "Executive Vice President, Chief Legal Officer and Corporate Secretary",
+      "website": "https://www.onsemi.com",
       "start_date": "2021-09-01",
       "end_date": null
+    },
+    {
+      "name": "Energy Recovery, Inc.",
+      "ticker": "ERII",
+      "exchange": "NASDAQ",
+      "website": "https://energyrecovery.com/",
+      "title_or_role": "Chairperson of the Board",
+      "start_date": "October 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "ON Semiconductor Corporation (onsemi)",
+      "ticker": "ON",
+      "exchange": "NASDAQ",
+      "website": "https://www.onsemi.com/",
+      "title_or_role": "Executive Vice President, Chief Legal Officer, Chief Compliance Officer, and Secretary",
+      "start_date": "Historical tenure prior to 2019",
+      "end_date": "2019",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/pamela-tondreau-b6b960",
+      "person_name": "Pamela Tondreau",
+      "company_name": "onsemi",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

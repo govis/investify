@@ -5,15 +5,28 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Orla Mining Ltd.",
-      "ticker": "OLA",
+      "name": "AuRico Gold Inc.",
+      "ticker": "AUQ",
       "exchange": "TSX",
-      "website": "https://www.orlamining.com",
-      "title": "Independent Director",
-      "startDate": "2023-05-11",
-      "endDate": null,
-      "formattedStartDate": "2023 May",
-      "formattedEndDate": ""
+      "website": "N/A",
+      "logoUrl": "/companies-assets/AUQ.TSX.png",
+      "title": "Chief Financial Officer",
+      "startDate": "2011",
+      "endDate": "2013",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Centerra Gold Inc.",
+      "ticker": "CG",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Finance Roles",
+      "startDate": "2004",
+      "endDate": "2011",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2011"
     }
   ],
   "investmentTheses": [

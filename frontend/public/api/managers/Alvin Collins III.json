@@ -5,14 +5,15 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "NuScale Power Corporation",
-      "ticker": "SMR",
+      "name": "Fluor Corporation",
+      "ticker": "FLR",
       "exchange": "NYSE",
-      "website": "https://www.nuscalepower.com",
-      "title": "Director",
-      "startDate": "2022-05-01",
+      "website": "https://www.fluor.com",
+      "logoUrl": "/companies-assets/FLR.NYSE.svg",
+      "title": "Group President, Mission Solutions",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2022 May",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
     }
   ],

@@ -6,20 +6,56 @@
   "age_year": 2024,
   "background": "Mr. Geveden has served as President and Chief Executive Officer of BWXT since 2017. He joined the company in 2015 as Chief Operating Officer. Previously, he was Executive Vice President at Teledyne Technologies Incorporated.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "BWX Technologies, Inc.",
       "ticker": "BWXT",
       "exchange": "NYSE",
-      "title_or_role": "President and Chief Executive Officer",
-      "start_date": "2017-01-01",
-      "end_date": null
+      "title_or_role": "Chief Operating Officer",
+      "website": "https://www.bwxt.com",
+      "start_date": "2015-10-01",
+      "end_date": "2016-12-31",
+      "validated": true
+    },
+    {
+      "name": "TTM Technologies, Inc.",
+      "ticker": "TTMI",
+      "exchange": "NASDAQ",
+      "website": "https://www.ttm.com",
+      "title_or_role": "Director",
+      "start_date": "2018-02-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Teledyne Technologies Inc.",
+      "ticker": "TDY",
+      "exchange": "NYSE",
+      "website": "https://www.teledyne.com",
+      "title_or_role": "Executive Vice President",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rex-geveden-4a5b2a12",
+      "person_name": "Rex Geveden",
+      "company_name": "BWX Technologies, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

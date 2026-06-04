@@ -6,22 +6,69 @@
   "age_year": 2024,
   "background": "Ms. Hall is a Chartered Accountant with over 30 years\u2019 experience in the financial services and mining sectors. She was a partner at KPMG for 12 years.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee (Chair)",
-    "Risk and Sustainability Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Evolution Mining Limited",
       "ticker": "EVN",
       "exchange": "ASX",
       "title_or_role": "Non-Executive Director",
-      "start_date": "2017-10-01",
-      "end_date": null
+      "website": "https://evolutionmining.com.au/",
+      "start_date": "October 2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Perenti Limited",
+      "ticker": "PRN",
+      "exchange": "ASX",
+      "website": "https://www.perenti.com/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "December 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Pioneer Credit Limited",
+      "ticker": "PNC",
+      "exchange": "ASX",
+      "website": "https://www.pioneercredit.com.au/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2018",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Automotive Holdings Group Limited",
+      "ticker": "AHG",
+      "exchange": "ASX",
+      "website": "N/A",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "May 2018",
+      "end_date": "2019",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/andrea-hall-gaicd-68a8a417",
+      "person_name": "Andrea Hall",
+      "company_name": "Evolution Mining",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1
+    }
+  ],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Risk and Sustainability Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 1
 }

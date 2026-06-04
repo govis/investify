@@ -6,21 +6,57 @@
   "age_year": 2024,
   "background": "Former Assistant Secretary of Defense for Acquisition and former President of the Defense Acquisition University. Expert in defense acquisition and technology.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Human Resources and Compensation Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Science Applications International Corporation",
       "ticker": "SAIC",
-      "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2019-02-05",
-      "end_date": null
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.saic.com",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Engility Holdings, Inc.",
+      "ticker": "EGL",
+      "exchange": "NYSE",
+      "website": "N/A",
+      "title_or_role": "Director",
+      "start_date": "June 30, 2017",
+      "end_date": "January 2019",
+      "validated": true
+    },
+    {
+      "name": "Transphorm, Inc.",
+      "ticker": "TGAN",
+      "exchange": "Nasdaq",
+      "website": "https://www.transphormusa.com",
+      "title_or_role": "Director",
+      "start_date": "February 24, 2021",
+      "end_date": "2024",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/katharina-mcfarland-69a550130",
+      "person_name": "Katharina McFarland",
+      "company_name": "Science Applications International Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Human Resources and Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -7,20 +7,56 @@
     {
       "name": "Fortune Bay Corp.",
       "ticker": "FOR",
-      "exchange": "TSX",
-      "website": "https://fortunebaycorp.com",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
       "title": "Chief Executive Officer",
-      "startDate": "2019-10-01",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2019 October",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Antler Gold Inc.",
+      "ticker": "ANTL",
+      "exchange": "TSXV",
+      "website": "https://antlergold.com/",
+      "logoUrl": "/companies-assets/ANTL.TSXV.png",
+      "title": "Independent Director",
+      "startDate": "2020",
+      "endDate": "October 3, 2025",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "October 3, 2025"
+    },
+    {
+      "name": "Denison Mines Corp.",
+      "ticker": "DML",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice President, Exploration",
+      "startDate": "Prior to 2020",
+      "endDate": "2020",
+      "formattedStartDate": "Prior to 2020",
+      "formattedEndDate": "2020"
     }
   ],
   "investmentTheses": [
     "Gold",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dale-verran",
+      "person_name": "Dale Verran",
+      "company_name": "Fortune Bay Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 47,
   "ageYear": 2024

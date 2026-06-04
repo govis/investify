@@ -6,27 +6,114 @@
   "age_year": 2024,
   "background": "Mr. Sheriff is the Executive Chairman of the Company. He has over 30 years of experience in the minerals industry and was a co-founder of Energy Metals Corp. and served as its Chairman and CEO.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "enCore Energy Corp.",
       "ticker": "EU",
-      "exchange": "NASDAQ",
-      "title_or_role": "Executive Chairman",
-      "start_date": "2017-10-30",
-      "end_date": null
+      "exchange": "TSXV/NASDAQ",
+      "title_or_role": "Founder, Executive Chair",
+      "website": "https://encoreuranium.com/",
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "enCore Energy Corp.",
       "ticker": "EU",
       "exchange": "TSX",
       "title_or_role": "Executive Chairman",
+      "website": "https://encoreuranium.com",
       "start_date": "2014-10-30",
       "end_date": null
+    },
+    {
+      "name": "Tigris Uranium Corp.",
+      "ticker": "TIG",
+      "exchange": "TSXV",
+      "website": "https://www.tigrisuranium.com/",
+      "title_or_role": "Chairman",
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Golden Predator Royalty & Development Corp.",
+      "ticker": "GPY",
+      "exchange": "TSXV",
+      "website": "https://www.goldenpredator.com/",
+      "title_or_role": "Chairman & CEO",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Evolving Gold Corp.",
+      "ticker": "EVG",
+      "exchange": "TSXV",
+      "website": "https://www.evolvinggold.com/",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Quincy Gold Corp.",
+      "ticker": "QGC",
+      "exchange": "TSXV",
+      "website": "https://www.quincygold.com/",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Midway Gold Corp.",
+      "ticker": "MDW",
+      "exchange": "TSXV/NYSE",
+      "website": "https://www.midwaygold.com/",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "EMX Royalty Corp.",
+      "ticker": "EMX",
+      "exchange": "TSXV/NYSE",
+      "website": "https://emxroyalty.com/",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Uranium One Inc.",
+      "ticker": "UUU",
+      "exchange": "TSX",
+      "website": "https://www.uranium1.com/",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/william-sheriff-0a1399381",
+      "person_name": "William Sheriff",
+      "company_name": "enCore Energy Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -9,17 +9,41 @@
       "ticker": "EL8",
       "exchange": "ASX",
       "website": "https://www.elevateuranium.com.au",
-      "title": "Managing Director and Chief Executive Officer",
-      "startDate": "2012-05-01",
+      "logoUrl": "/companies-assets/EL8.ASX.svg",
+      "title": "Managing Director & CEO",
+      "startDate": "May 2012",
       "endDate": null,
-      "formattedStartDate": "2012 May",
+      "formattedStartDate": "May 2012",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Marenica Energy Limited",
+      "ticker": "MEY",
+      "exchange": "ASX",
+      "website": "https://www.elevateuranium.com.au/",
+      "logoUrl": "/companies-assets/MEY.ASX.svg",
+      "title": "Managing Director & CEO",
+      "startDate": "May 2012",
+      "endDate": "2021",
+      "formattedStartDate": "May 2012",
+      "formattedEndDate": "2021"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/murray-hill-4a5b2a1a/",
+      "person_name": "Murray Hill",
+      "company_name": "Elevate Uranium Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": null,
   "ageYear": null

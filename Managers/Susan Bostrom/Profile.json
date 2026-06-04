@@ -6,22 +6,57 @@
   "age_year": 2024,
   "background": "Former Executive Vice President, Chief Marketing Officer, and Worldwide Government Affairs at Cisco Systems, Inc.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [
-    "Leadership Development and Compensation Committee",
-    "Nominating and Governance Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "ServiceNow, Inc.",
       "ticker": "NOW",
       "exchange": "NYSE",
       "title_or_role": "Independent Director",
+      "website": "https://www.servicenow.com",
       "start_date": "2014-07-01",
       "end_date": null
+    },
+    {
+      "name": "Samsara, Inc.",
+      "ticker": "IOT",
+      "exchange": "NYSE",
+      "website": "https://www.samsara.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nutanix, Inc.",
+      "ticker": "NTNX",
+      "exchange": "NASDAQ",
+      "website": "https://www.nutanix.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sue-bostrom-95201332",
+      "person_name": "Susan Bostrom",
+      "company_name": "ServiceNow, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Leadership Development and Compensation Committee",
+    "Nominating and Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

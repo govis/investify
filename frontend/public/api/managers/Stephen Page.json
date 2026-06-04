@@ -9,10 +9,35 @@
       "ticker": "AVAV",
       "exchange": "NASDAQ",
       "website": "https://www.avinc.com",
-      "title": "Director",
-      "startDate": "2013-01-01",
+      "logoUrl": "/companies-assets/AVAV.NASDAQ.svg",
+      "title": "Independent Director",
+      "startDate": "2013-04-24",
       "endDate": null,
-      "formattedStartDate": "2013 January",
+      "formattedStartDate": "April 2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "United Technologies Corporation",
+      "ticker": "RTX",
+      "exchange": "NYSE",
+      "website": "https://www.rtx.com",
+      "logoUrl": "/companies-assets/RTX.NYSE.svg",
+      "title": "President and Chief Executive Officer of Otis Elevator",
+      "startDate": null,
+      "endDate": "2004",
+      "formattedStartDate": "",
+      "formattedEndDate": "2004"
+    },
+    {
+      "name": "The Black & Decker Corporation",
+      "ticker": "SWK",
+      "exchange": "NYSE",
+      "website": "https://www.stanleyblackanddecker.com",
+      "logoUrl": "/companies-assets/SWK.NYSE.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],

@@ -9,17 +9,53 @@
       "ticker": "TXT",
       "exchange": "NYSE",
       "website": "https://www.textron.com",
+      "logoUrl": "/companies-assets/TXT.NYSE.svg",
       "title": "Director",
-      "startDate": "2020-01-01",
+      "startDate": "2017",
       "endDate": null,
-      "formattedStartDate": "2020 January",
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "O'Reilly Automotive, Inc.",
+      "ticker": "ORLY",
+      "exchange": "NASDAQ",
+      "website": "https://www.oreillyauto.com",
+      "logoUrl": "/companies-assets/ORLY.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2012",
+      "endDate": null,
+      "formattedStartDate": "2012",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "General Mills, Inc.",
+      "ticker": "GIS",
+      "exchange": "NYSE",
+      "website": "https://www.generalmills.com",
+      "logoUrl": "/companies-assets/GIS.NYSE.svg",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/maria-sastre-62383b7",
+      "person_name": "Maria Sastre",
+      "company_name": "Textron Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Nominating and Corporate Governance Committee",
     "Organization and Compensation Committee"

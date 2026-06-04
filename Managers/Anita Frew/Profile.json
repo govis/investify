@@ -6,21 +6,14 @@
   "age_year": 2023,
   "background": "Anita Frew was appointed Chair of Rolls-Royce in October 2021. She has extensive experience as a chair and non-executive director across various sectors including chemicals, engineering, and finance. She is also Chair of Croda International Plc.",
   "picture_url": null,
-  "investment_theses": [
-    "Defense",
-    "Electrification",
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [
-    "Nominations & Governance Committee (Chair)"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Rolls-Royce Holdings plc",
       "ticker": "RR",
       "exchange": ".LSE",
       "title_or_role": "Chair",
+      "website": "https://www.rolls-royce.com",
       "start_date": "2021-10-01",
       "end_date": null
     },
@@ -29,8 +22,102 @@
       "ticker": "RR",
       "exchange": "LSE",
       "title_or_role": "Chair",
+      "website": "https://www.rolls-royce.com",
       "start_date": "2021-10-01",
       "end_date": null
+    },
+    {
+      "name": "Croda International plc",
+      "ticker": "CRDA",
+      "exchange": "LSE",
+      "website": "https://www.croda.com",
+      "title_or_role": "Chair",
+      "start_date": "2015",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Lloyds Banking Group plc",
+      "ticker": "LLOY",
+      "exchange": "LSE",
+      "website": "https://www.lloydsbankinggroup.com",
+      "title_or_role": "Deputy Chair and Senior Independent Director",
+      "start_date": null,
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Victrex plc",
+      "ticker": "VCT",
+      "exchange": "LSE",
+      "website": "https://www.victrexplc.com",
+      "title_or_role": "Chair",
+      "start_date": "2008",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX",
+      "website": "https://www.bhp.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "IMI plc",
+      "ticker": "IMI",
+      "exchange": "LSE",
+      "website": "https://www.imiplc.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Aberdeen Asset Management plc",
+      "ticker": "ADN",
+      "exchange": "LSE",
+      "website": "https://www.abrdn.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "WPP plc",
+      "ticker": "WPP",
+      "exchange": "LSE",
+      "website": "https://www.wpp.com",
+      "title_or_role": "Director of Corporate Development",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Defense",
+    "Electrification",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/anita-frew-dbe-496b308",
+      "person_name": "Anita Frew",
+      "company_name": "Rolls-Royce Holdings plc",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1
+    }
+  ],
+  "committees": [
+    "Nominations & Governance Committee (Chair)"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 1
 }

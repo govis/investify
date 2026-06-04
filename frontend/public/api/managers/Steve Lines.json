@@ -9,10 +9,11 @@
       "ticker": "FF",
       "exchange": "TSX",
       "website": "https://firstmininggold.com",
-      "title": "Vice President, Environment and Community Relations",
-      "startDate": "2021-08-01",
+      "logoUrl": "/companies-assets/FF.TSX.png",
+      "title": "Vice President, Sustainability",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2021 August",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +21,18 @@
     "Gold",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/steve-lines-8381165",
+      "person_name": "Steve Lines",
+      "company_name": "First Mining Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 48,
   "ageYear": 2024

@@ -6,22 +6,68 @@
   "age_year": 2023,
   "background": "Mr. Bilodeau has over 35 years of experience in the financial services industry and has served on several public company boards.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Western Magnesium Corporation",
+      "ticker": "WMG",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "https://www.westernmagnesium.com/",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Quinsam Capital Corporation",
+      "ticker": "QCA",
+      "exchange": "CSE",
+      "website": "https://www.quinsamcapital.com/",
+      "title_or_role": "President / Director",
+      "start_date": "2014",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "StateHouse Holdings Inc.",
+      "ticker": "STHZF",
+      "exchange": "CSE",
+      "website": "https://www.statehouseholdings.com/",
+      "title_or_role": "Chairman of the Board / Interim CEO",
+      "start_date": "2019",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Energex Petroleum, Inc.",
+      "ticker": "ENGP",
+      "exchange": "OTC",
+      "website": null,
+      "title_or_role": "Chief Executive Officer",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/peterbilodeau",
+      "person_name": "Peter Bilodeau",
+      "company_name": "Quinsam Capital Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Western Magnesium Corporation",
-      "ticker": "WMG",
-      "exchange": "TSX",
-      "title_or_role": "Director",
-      "start_date": "2019-01-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -6,21 +6,67 @@
   "age_year": 2024,
   "background": "Bruce E. Kiddoo has served as a director since 2020. He previously served as Chief Financial Officer of Maxim Integrated Products, Inc. from 2007 to 2019.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "ON Semiconductor Corporation",
       "ticker": "ON",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2020-10-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://www.onsemi.com",
+      "start_date": "December 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Western Digital Corporation",
+      "ticker": "WDC",
+      "exchange": "NASDAQ",
+      "website": "https://www.westerndigital.com",
+      "title_or_role": "Director",
+      "start_date": "January 2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Maxim Integrated Products, Inc.",
+      "ticker": "MXIM",
+      "exchange": "NASDAQ",
+      "website": "https://www.maximintegrated.com",
+      "title_or_role": "Senior Vice President and Chief Financial Officer",
+      "start_date": "September 2007",
+      "end_date": "October 2019",
+      "validated": true
+    },
+    {
+      "name": "Broadcom Corporation",
+      "ticker": "BRCM",
+      "exchange": "NASDAQ",
+      "website": "https://www.broadcom.com",
+      "title_or_role": "Acting Chief Financial Officer",
+      "start_date": "September 2006",
+      "end_date": "May 2007",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/brucekiddoo",
+      "person_name": "Bruce Kiddoo",
+      "company_name": "ON Semiconductor Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

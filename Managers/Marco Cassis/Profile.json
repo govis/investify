@@ -6,19 +6,35 @@
   "age_year": 2023,
   "background": "Marco Cassis is President, Analog, MEMS and Sensors Group, a position he has held since 2018. He is a member of ST\u2019s Executive Committee. Cassis joined SGS-THOMSON Microelectronics (now STMicroelectronics) in 1987 as a car-radio chip designer. He was appointed Director of the Audio Business Unit in 2000 and moved to Japan in 2004 as Vice President of Marketing and Applications. In 2005, he was promoted to President of STMicroelectronics Japan.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "STMicroelectronics N.V.",
       "ticker": "STM",
       "exchange": "NYSE",
-      "title_or_role": "President, Analog, MEMS and Sensors Group",
-      "start_date": "2018-01-01",
-      "end_date": null
+      "title_or_role": "President, Analog, Power & Discrete, MEMS and Sensors Group",
+      "website": "https://www.st.com",
+      "start_date": "1987",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/marco-cassis-5a5b2a1",
+      "person_name": "Marco Cassis",
+      "company_name": "STMicroelectronics",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

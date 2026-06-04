@@ -9,17 +9,41 @@
       "ticker": "KRR",
       "exchange": "TSX",
       "website": "https://www.karoraresources.com",
-      "title": "Independent Director",
-      "startDate": "2015-08-10",
+      "logoUrl": "/companies-assets/KRR.TSX.jpg",
+      "title": "Director",
+      "startDate": "2008",
+      "endDate": "2024",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Americas Gold and Silver Corporation",
+      "ticker": "USAS",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2015 August",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/peter-goudie-07079390",
+      "person_name": "Peter Goudie",
+      "company_name": "Karora Resources Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"

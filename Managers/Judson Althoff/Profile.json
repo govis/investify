@@ -6,20 +6,46 @@
   "age_year": 2024,
   "background": "Judson Althoff is executive vice president and chief commercial officer at Microsoft. He is responsible for the sales strategy, execution and revenue growth of the company\u2019s commercial business, which spans enterprise, public sector, small and medium businesses, services, and developer and partner communities.",
   "picture_url": null,
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Microsoft Corporation",
       "ticker": "MSFT",
       "exchange": "NASDAQ",
       "title_or_role": "Executive Vice President and Chief Commercial Officer",
-      "start_date": "2021-07-01",
-      "end_date": null
+      "website": "https://www.microsoft.com",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ecolab Inc.",
+      "ticker": "ECL",
+      "exchange": "NYSE",
+      "website": "https://www.ecolab.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2024-02",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/judsonalthoff",
+      "person_name": "Judson Althoff",
+      "company_name": "Microsoft",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

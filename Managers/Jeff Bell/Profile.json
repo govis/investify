@@ -6,19 +6,45 @@
   "age_year": 2024,
   "background": "Jeff Bell was appointed Chief Financial Officer in April 2020. Prior to joining AtkinsR\u00e9alis, he was Group CFO at Centrica plc.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "AtkinsR\u00e9alis Group Inc.",
       "ticker": "ATRL",
       "exchange": "TSX",
       "title_or_role": "Chief Financial Officer",
-      "start_date": "2020-04-14",
-      "end_date": null
+      "website": "https://www.atkinsrealis.com",
+      "start_date": "April 14, 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SNC-Lavalin Group Inc.",
+      "ticker": "SNC",
+      "exchange": "TSX",
+      "website": "https://www.atkinsrealis.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "April 14, 2020",
+      "end_date": "2023",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jeff-bell-7a5a5a1b",
+      "person_name": "Jeff Bell",
+      "company_name": "AtkinsR\u00e9alis Group Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

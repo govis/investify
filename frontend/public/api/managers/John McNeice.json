@@ -5,14 +5,63 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Lahontan Gold Corp.",
-      "ticker": "LG",
-      "exchange": "TSX",
-      "website": "https://lahontangoldcorp.com/",
-      "title": "Chief Financial Officer",
-      "startDate": "2022-04-06",
+      "name": "Gold79 Mines Ltd.",
+      "ticker": "AUU",
+      "exchange": "TSXV",
+      "website": "https://gold79mines.com/",
+      "logoUrl": "/companies-assets/AUU.TSXV.png",
+      "title": "Chief Financial Officer / Corporate Secretary",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2022 April",
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "C3 Metals Inc.",
+      "ticker": "CCCM",
+      "exchange": "TSXV",
+      "website": "https://c3metals.com/",
+      "logoUrl": "/companies-assets/CCCM.TSXV.svg",
+      "title": "Chief Financial Officer",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Northern Graphite Corp.",
+      "ticker": "NGC",
+      "exchange": "TSXV",
+      "website": "https://www.northerngraphite.com/",
+      "logoUrl": "/companies-assets/NGC.TSXV.png",
+      "title": "Chief Financial Officer",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Mazorro Resources Inc.",
+      "ticker": "MZO",
+      "exchange": "TSXV",
+      "website": "http://www.mazorro.com/",
+      "logoUrl": "https://www.marketscreener.com/images/reuters/logo/MAZORRO-RESOURCES-INC-2993389.png",
+      "title": "Chief Financial Officer / Corporate Secretary",
+      "startDate": null,
+      "endDate": "2015",
+      "formattedStartDate": "",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Carube Copper Corp.",
+      "ticker": "CUC",
+      "exchange": "TSXV",
+      "website": "https://www.carubecopper.com/",
+      "logoUrl": "https://www.carubecopper.com/assets/images/logo.png",
+      "title": "Chief Financial Officer",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +69,18 @@
     "Gold",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/john-mcneice-0912162b",
+      "person_name": "John McNeice",
+      "company_name": "Lahontan Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 54,
   "ageYear": 2024

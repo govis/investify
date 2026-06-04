@@ -3,19 +3,7 @@
   "name": "Carie Casso",
   "background": "Carie Casso is a finance professional with over 30 years of experience in the energy and mining sectors. She was previously the Chief Financial Officer of several private and public companies.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "Eldorado Gold Corporation",
-      "ticker": "EGO",
-      "exchange": "NYSE",
-      "website": "https://www.eldoradogold.com",
-      "title": "Independent Director",
-      "startDate": "2022-05-05",
-      "endDate": null,
-      "formattedStartDate": "2022 May",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "Gold"
   ],

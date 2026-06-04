@@ -7,19 +7,31 @@
     {
       "name": "BHP Group Limited",
       "ticker": "BHP",
-      "exchange": "NYSE",
+      "exchange": "ASX",
       "website": "https://www.bhp.com",
-      "title": "Chief Operating Officer",
-      "startDate": "2022-10-01",
-      "endDate": null,
-      "formattedStartDate": "2022 October",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/BHP.ASX.svg",
+      "title": "Various senior leadership roles (including Asset President Western Australia Iron Ore, Asset President Escondida, VP Global HSEC)",
+      "startDate": "1989",
+      "endDate": "2020",
+      "formattedStartDate": "1989",
+      "formattedEndDate": "2020"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/edgar-basto-355b8298",
+      "person_name": "Edgar Basto",
+      "company_name": "BHP",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 57,
   "ageYear": 2024

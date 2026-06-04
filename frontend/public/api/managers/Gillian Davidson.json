@@ -5,21 +5,57 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Lundin Gold Inc.",
-      "ticker": "LUG",
+      "name": "New Gold Inc.",
+      "ticker": "NGD",
       "exchange": "TSX",
-      "website": "https://lundingold.com",
+      "website": "newgold.com",
+      "logoUrl": "/companies-assets/NGD.TSX.svg",
       "title": "Independent Director",
-      "startDate": "2021-05-01",
+      "startDate": "March 2018",
       "endDate": null,
-      "formattedStartDate": "2021 May",
+      "formattedStartDate": "March 2018",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Central Asia Metals Plc",
+      "ticker": "CAML",
+      "exchange": "LSE",
+      "website": "https://www.centralasiametals.com",
+      "logoUrl": "/companies-assets/CAML.LSE.png",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Lydian International Limited",
+      "ticker": "LYD",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1433355554/v1433355554/lydian-international-1433355554.png",
+      "title": "Independent Director",
+      "startDate": "August 17, 2016",
+      "endDate": "March 13, 2020",
+      "formattedStartDate": "August 17, 2016",
+      "formattedEndDate": "March 13, 2020"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/gillian-davidson",
+      "person_name": "Gillian Davidson",
+      "company_name": "Lundin Gold Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Corporate Governance and Nominating Committee",
     "Health, Safety, Environment and Sustainability Committee"

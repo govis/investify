@@ -7,19 +7,31 @@
     {
       "name": "Paladin Energy Ltd",
       "ticker": "PDN",
-      "exchange": "ASX",
-      "website": "https://www.paladinenergy.com.au",
-      "title": "General Counsel and Company Secretary",
-      "startDate": "2021-08-23",
-      "endDate": null,
-      "formattedStartDate": "2021 August",
-      "formattedEndDate": ""
+      "exchange": "ASX / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Company Secretary",
+      "startDate": null,
+      "endDate": "2025-05-30",
+      "formattedStartDate": "",
+      "formattedEndDate": "May 2025"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jeremy-ryan-a5a2a522",
+      "person_name": "Jeremy Ryan",
+      "company_name": "Paladin Energy Ltd",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 45,
   "ageYear": 2024

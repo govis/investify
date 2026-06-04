@@ -9,10 +9,35 @@
       "ticker": "LOT",
       "exchange": "ASX",
       "website": "https://lotusresources.com.au/",
-      "title": "Non-Executive Chairman",
+      "logoUrl": "https://lotusresources.com.au/wp-content/uploads/2023/10/Lotus-Resources-Logo-2023.png",
+      "title": "Non-Executive Director / Chairman",
       "startDate": "2021-02-22",
       "endDate": null,
-      "formattedStartDate": "2021 February",
+      "formattedStartDate": "February 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Emerald Resources NL",
+      "ticker": "EMR",
+      "exchange": "ASX",
+      "website": "https://www.emeraldresources.com.au",
+      "logoUrl": "/companies-assets/EMR.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2022-09-13",
+      "endDate": null,
+      "formattedStartDate": "September 2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Genesis Minerals Limited",
+      "ticker": "GMD",
+      "exchange": "ASX",
+      "website": "https://genesisminerals.com.au",
+      "logoUrl": "/companies-assets/GMD.ASX.png",
+      "title": "Non-Executive Director",
+      "startDate": "2021-09-22",
+      "endDate": null,
+      "formattedStartDate": "September 2021",
       "formattedEndDate": ""
     }
   ],

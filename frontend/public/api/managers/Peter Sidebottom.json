@@ -3,30 +3,7 @@
   "name": "Peter Sidebottom",
   "background": "Former executive and consultant in the asset management industry.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "VanEck Uranium and Nuclear Energy ETF",
-      "ticker": "NLR",
-      "exchange": "NYSE",
-      "website": "https://www.vaneck.com/us/en/investments/uranium-nuclear-energy-etf-nlr/",
-      "title": "Independent Trustee",
-      "startDate": "2022-01-01",
-      "endDate": null,
-      "formattedStartDate": "2022 January",
-      "formattedEndDate": ""
-    },
-    {
-      "name": "VanEck Rare Earth/Strategic Metals ETF",
-      "ticker": "SETM",
-      "exchange": "NYSE",
-      "website": "https://www.vaneck.com/us/en/investments/rare-earth-strategic-metals-etf-remx/",
-      "title": "Independent Trustee",
-      "startDate": "2018",
-      "endDate": null,
-      "formattedStartDate": "",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "Nuclear",
     "Reshoring"

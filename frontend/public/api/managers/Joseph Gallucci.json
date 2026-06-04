@@ -7,19 +7,67 @@
     {
       "name": "Skyharbour Resources Ltd.",
       "ticker": "SYH",
-      "exchange": "TSX",
-      "website": "https://skyharbourltd.com",
+      "exchange": "TSXV",
+      "website": "skyharbourltd.com",
+      "logoUrl": "/companies-assets/SYH.TSXV.png",
       "title": "Director",
-      "startDate": "2020-01-01",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2020 January",
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Vox Royalty Corp.",
+      "ticker": "VOXR",
+      "exchange": "NASDAQ",
+      "website": "https://www.voxroyalty.com",
+      "logoUrl": "/companies-assets/VOXR.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Rockridge Resources Ltd.",
+      "ticker": "ROCK",
+      "exchange": "TSXV",
+      "website": "https://www.rockridgeresourcesltd.com",
+      "logoUrl": "/companies-assets/ROCK.TSXV.png",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Gunnison Copper Corp.",
+      "ticker": "GCU",
+      "exchange": "TSXV",
+      "website": "https://www.gunnisoncopper.com",
+      "logoUrl": "/companies-assets/GCU.TSXV.png",
+      "title": "Director",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/joseph-gallucci-4a5a5a12",
+      "person_name": "Joseph Gallucci",
+      "company_name": "Skyharbour Resources Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": null,
   "ageYear": null

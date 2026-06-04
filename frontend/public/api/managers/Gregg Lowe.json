@@ -9,10 +9,47 @@
       "ticker": "WOLF",
       "exchange": "NYSE",
       "website": "https://www.wolfspeed.com",
-      "title": "Director, President and Chief Executive Officer",
-      "startDate": "2017-09-27",
+      "logoUrl": "/companies-assets/WOLF.NYSE.svg",
+      "title": "President and CEO",
+      "startDate": "September 2017",
+      "endDate": "November 2024",
+      "formattedStartDate": "September 2017",
+      "formattedEndDate": "November 2024"
+    },
+    {
+      "name": "Freescale Semiconductor, Ltd.",
+      "ticker": "FSL",
+      "exchange": "NYSE",
+      "website": "https://www.nxp.com",
+      "logoUrl": "https://www.nxp.com/assets/images/logo/nxp-logo.svg",
+      "title": "President and CEO",
+      "startDate": "June 2012",
+      "endDate": "December 2015",
+      "formattedStartDate": "June 2012",
+      "formattedEndDate": "December 2015"
+    },
+    {
+      "name": "Silicon Laboratories Inc.",
+      "ticker": "SLAB",
+      "exchange": "NASDAQ",
+      "website": "https://www.silabs.com",
+      "logoUrl": "/companies-assets/SLAB.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "April 2017",
       "endDate": null,
-      "formattedStartDate": "2017 September",
+      "formattedStartDate": "April 2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Power Integrations, Inc.",
+      "ticker": "POWI",
+      "exchange": "NASDAQ",
+      "website": "https://www.power.com",
+      "logoUrl": "/companies-assets/POWI.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "February 15, 2025",
+      "endDate": null,
+      "formattedStartDate": "February 15, 2025",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +57,18 @@
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gregg-lowe-06918814",
+      "person_name": "Gregg Lowe",
+      "company_name": "Wolfspeed",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 62,
   "ageYear": 2024

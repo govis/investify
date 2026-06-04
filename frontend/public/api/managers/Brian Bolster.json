@@ -9,17 +9,53 @@
       "ticker": "NEE",
       "exchange": "NYSE",
       "website": "https://www.nexteraenergy.com",
-      "title": "Executive Vice President, Finance and Chief Financial Officer",
-      "startDate": "2024-05-01",
+      "logoUrl": "/companies-assets/NEE.NYSE.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "May 2024",
       "endDate": null,
-      "formattedStartDate": "2024 May",
+      "formattedStartDate": "May 2024",
       "formattedEndDate": ""
+    },
+    {
+      "name": "XPLR Infrastructure, LP",
+      "ticker": "XPLR",
+      "exchange": "NYSE",
+      "website": "https://www.xplrinfrastructure.com",
+      "logoUrl": "/companies-assets/XPLR.NYSE.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "May 2024",
+      "endDate": "January 2025",
+      "formattedStartDate": "May 2024",
+      "formattedEndDate": "January 2025"
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "ticker": "GS",
+      "exchange": "NYSE",
+      "website": "https://www.goldmansachs.com",
+      "logoUrl": "/companies-assets/GS.NYSE.svg",
+      "title": "Global Head of Power and Infrastructure Investment Banking",
+      "startDate": "1999",
+      "endDate": "2024",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2024"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/brian-bolster-a6576a386",
+      "person_name": "Brian Bolster",
+      "company_name": "NextEra Energy, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 52,
   "ageYear": 2024

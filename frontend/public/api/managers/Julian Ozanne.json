@@ -3,23 +3,22 @@
   "name": "Julian Ozanne",
   "background": "Julian has over 25 years of experience in the resources and finance sectors. He was previously a partner at New World Capital and has held senior roles at various investment firms. He also served as a foreign correspondent for the Financial Times.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "Yellow Cake plc",
-      "ticker": "YCA",
-      "exchange": "LSE",
-      "website": "https://www.yellowcakeplc.com",
-      "title": "Chief Financial Officer",
-      "startDate": "2018-06-01",
-      "endDate": null,
-      "formattedStartDate": "2018 June",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/julian-ozanne-80851135",
+      "person_name": "Julian Ozanne",
+      "company_name": "Yellow Cake plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 59,
   "ageYear": 2024

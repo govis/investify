@@ -7,20 +7,44 @@
     {
       "name": "Dryden Gold Corp.",
       "ticker": "DRY",
-      "exchange": "TSX",
-      "website": "https://drydengold.com",
-      "title": "President",
-      "startDate": "2023-08-01",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "President & CEO",
+      "startDate": "April 15, 2023",
       "endDate": null,
-      "formattedStartDate": "2023 August",
+      "formattedStartDate": "April 15, 2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Ely Gold Royalties Inc.",
+      "ticker": "ELY",
+      "exchange": "TSXV",
+      "website": "https://elygoldinc.com/",
+      "logoUrl": "/companies-assets/ELY.TSXV.png",
+      "title": "President & CEO",
+      "startDate": "2010",
+      "endDate": "2021",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2021"
     }
   ],
   "investmentTheses": [
     "Gold",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/maura-kolb-m-sc-p-geo-b4a3b438",
+      "person_name": "Maura Kolb",
+      "company_name": "Ely Gold Royalties Inc., Dryden Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 39,
   "ageYear": 2024

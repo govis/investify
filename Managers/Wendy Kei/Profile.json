@@ -6,32 +6,60 @@
   "age_year": 2024,
   "background": "Ms. Kei is a corporate director and was formerly the CFO of Dominion Diamond Corporation.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Centerra Gold Inc.",
+      "ticker": "CG",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://www.centerragold.com",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Karora Resources Inc.",
+      "ticker": "KRR",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://www.karoraresources.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NFI Group Inc.",
+      "ticker": "NFI",
+      "exchange": "TSX",
+      "website": "https://www.nfigroup.com",
+      "title_or_role": "Director / Chair of the Board",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/wendykei",
+      "person_name": "Wendy Kei",
+      "company_name": "NFI Group Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Audit Committee (Chair)",
     "Corporate Governance and Nominating Committee",
     "Sustainable Development Committee"
   ],
-  "companies": [
-    {
-      "name": "Centerra Gold Inc.",
-      "ticker": "CGAU",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2022-05-01",
-      "end_date": null
-    },
-    {
-      "name": "Karora Resources Inc.",
-      "ticker": "KRR",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2021-06-15",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -6,19 +6,35 @@
   "age_year": 2024,
   "background": "Olivier Pomel is our co-founder and has served as our Chief Executive Officer and a member of our board of directors since our inception in 2010. Prior to founding Datadog, Mr. Pomel was a Vice President of Technology at Wireless Generation, a SaaS education company, until its acquisition by News Corp. Mr. Pomel holds an M.S. in Computer Science from the \u00c9cole Centrale Paris.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Datadog, Inc.",
       "ticker": "DDOG",
       "exchange": "NASDAQ",
-      "title_or_role": "Chief Executive Officer, Director",
-      "start_date": "2010-01-01",
-      "end_date": null
+      "title_or_role": "Co-founder and Chief Executive Officer (Director)",
+      "website": "https://www.datadoghq.com/",
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/olivierpomel",
+      "person_name": "Olivier Pomel",
+      "company_name": "Datadog",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -9,11 +9,48 @@
       "ticker": "PSTG",
       "exchange": "NYSE",
       "website": "https://www.purestorage.com",
-      "title": "Independent Director",
-      "startDate": "2015",
+      "logoUrl": "/companies-assets/PSTG.NYSE.svg",
+      "title": "Director",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "",
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Ørsted A/S",
+      "ticker": "ORSTED",
+      "exchange": "NASDAQ Copenhagen",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Member",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Galp Energia, SGPS, S.A.",
+      "ticker": "GALP",
+      "exchange": "Euronext Lisbon",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Executive Officer",
+      "startDate": "2021",
+      "endDate": "2022",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Shell plc",
+      "ticker": "SHELL",
+      "exchange": "LSE",
+      "website": "www.shell.com",
+      "logoUrl": "/companies-assets/SHELL.LSE.svg",
+      "title": "Upstream Director",
+      "startDate": "2012",
+      "endDate": "2019",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2019"
     }
   ],
   "investmentTheses": [

@@ -9,18 +9,42 @@
       "ticker": "ENPH",
       "exchange": "NASDAQ",
       "website": "https://enphase.com",
-      "title": "Director",
-      "startDate": "2020-01-01",
+      "logoUrl": "/companies-assets/ENPH.NASDAQ.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2020 January",
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "ADT Inc.",
+      "ticker": "ADT",
+      "exchange": "NYSE",
+      "website": "https://www.adt.com/",
+      "logoUrl": "/companies-assets/ADT.NYSE.png",
+      "title": "President, ADT Solar",
+      "startDate": "2022",
+      "endDate": "2023",
+      "formattedStartDate": "2022",
+      "formattedEndDate": "2023"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jhaenggi",
+      "person_name": "Jamie Haenggi",
+      "company_name": "ADT",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],

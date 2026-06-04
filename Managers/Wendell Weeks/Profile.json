@@ -6,22 +6,57 @@
   "age_year": 2024,
   "background": "Chairman and CEO of Corning Incorporated.",
   "picture_url": null,
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Nominating and Corporate Governance Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Amazon.com, Inc.",
       "ticker": "AMZN",
       "exchange": "NASDAQ",
       "title_or_role": "Director",
+      "website": "https://www.amazon.com",
       "start_date": "2016-02-01",
       "end_date": null
+    },
+    {
+      "name": "Corning Incorporated",
+      "ticker": "GLW",
+      "exchange": "NYSE",
+      "website": "https://www.corning.com",
+      "title_or_role": "Director",
+      "start_date": "2000-12",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Merck & Co., Inc.",
+      "ticker": "MRK",
+      "exchange": "NYSE",
+      "website": "https://www.merck.com",
+      "title_or_role": "Director",
+      "start_date": "2004-02-23",
+      "end_date": "2020-05-25",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/wendell-weeks-16a9a9a5",
+      "person_name": "Wendell Weeks",
+      "company_name": "Corning Incorporated",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -5,21 +5,57 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Wesdome Gold Mines Ltd.",
-      "ticker": "WDO",
+      "name": "Rupert Resources Ltd.",
+      "ticker": "RUP",
       "exchange": "TSX",
-      "website": "https://www.wesdome.com",
-      "title": "Independent Director",
-      "startDate": "2016-05-01",
+      "website": "https://rupertresources.com/",
+      "logoUrl": "/companies-assets/RUP.TSX.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2016 May",
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Copper Mountain Mining Corporation",
+      "ticker": "CMMC",
+      "exchange": "TSX",
+      "website": "https://www.cumtn.com/",
+      "logoUrl": "/companies-assets/CMMC.TSX.png",
+      "title": "Director",
+      "startDate": "Unknown",
+      "endDate": "2023",
+      "formattedStartDate": "",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Brio Gold Inc.",
+      "ticker": "BRIO",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "/companies-assets/BRIO.TSX.png",
+      "title": "Director",
+      "startDate": "Unknown",
+      "endDate": "2018",
+      "formattedStartDate": "",
+      "formattedEndDate": "2018"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bill-washington-67372b25",
+      "person_name": "Bill Washington",
+      "company_name": "Wesdome Gold Mines Ltd., Rupert Resources Ltd., Copper Mountain Mining Corporation, Brio Gold Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee (Chair)"

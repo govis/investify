@@ -6,19 +6,57 @@
   "age_year": 2024,
   "background": "Ms. Johnson is a professional geologist with over 12 years of experience in the mining industry. She was previously VP Corporate Development at Silvercorp Metals and has held roles at SSR Mining and Calibre Mining.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Faraday Copper Corp.",
       "ticker": "FDY",
       "exchange": "TSX",
-      "title_or_role": "Vice President, Corporate Development and Sustainability",
-      "start_date": "2022-08-01",
-      "end_date": null
+      "title_or_role": "VP, Corporate Development and Sustainability",
+      "website": "https://faradaycopper.com/",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Gold Royalty Corp.",
+      "ticker": "GROY",
+      "exchange": "NYSE",
+      "website": "https://www.goldroyalty.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Endeavour Silver Corp.",
+      "ticker": "EDR",
+      "exchange": "TSX",
+      "website": "https://edrsilver.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/angela-johnson-mba-m-sc-p-geo-52065355/",
+      "person_name": "Angela Johnson",
+      "company_name": "Faraday Copper Corp.",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1,
+      "profile_status": "private"
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 1
 }

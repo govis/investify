@@ -6,19 +6,35 @@
   "age_year": 2024,
   "background": "Mr. Woodhouse has over 15 years of experience in the mining industry, specializing in financial reporting and corporate compliance. He has served as CFO for several public companies in the resource sector.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "F3 Uranium Corp.",
       "ticker": "FUU",
-      "exchange": "TSX",
-      "title_or_role": "Chief Financial Officer",
-      "start_date": "2022-11-01",
-      "end_date": null
+      "exchange": "TSXV",
+      "title_or_role": "Corporate Secretary",
+      "website": "https://f3uranium.com/",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ryan-woodhouse-13517177",
+      "person_name": "Ryan Woodhouse",
+      "company_name": "F3 Uranium Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

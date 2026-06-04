@@ -6,19 +6,94 @@
   "age_year": 2024,
   "background": "Jeff Clarke is the Vice Chairman and Chief Operating Officer of Dell Technologies. He is responsible for the company's global supply chain, global support and deployment, and the Infrastructure Solutions Group and Client Solutions Group.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Dell Technologies Inc.",
       "ticker": "DELL",
       "exchange": "NYSE",
       "title_or_role": "Vice Chairman and Chief Operating Officer",
+      "website": "https://www.dell.com",
       "start_date": "2017-01-01",
       "end_date": null
+    },
+    {
+      "name": "Autodesk, Inc.",
+      "ticker": "ADSK",
+      "exchange": "NASDAQ",
+      "website": "autodesk.com",
+      "title_or_role": "Board Director",
+      "start_date": "2011",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Eastman Kodak Company",
+      "ticker": "KODK",
+      "exchange": "NYSE",
+      "website": "kodak.com",
+      "title_or_role": "CEO",
+      "start_date": "2014",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "AvePoint, Inc.",
+      "ticker": "AVPT",
+      "exchange": "NASDAQ",
+      "website": "avepoint.com",
+      "title_or_role": "Board Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Couchbase, Inc.",
+      "ticker": "BASE",
+      "exchange": "NASDAQ",
+      "website": "couchbase.com",
+      "title_or_role": "Board Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Okta, Inc.",
+      "ticker": "OKTA",
+      "exchange": "NASDAQ",
+      "website": "okta.com",
+      "title_or_role": "Board Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": false
+    },
+    {
+      "name": "Twilio Inc.",
+      "ticker": "TWLO",
+      "exchange": "NYSE",
+      "website": "twilio.com",
+      "title_or_role": "Board Director (Chair)",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": false
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jeff-clarke-b592451b",
+      "person_name": "Jeff Clarke",
+      "company_name": "Dell Technologies",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

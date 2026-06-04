@@ -3,19 +3,7 @@
   "name": "Robert Talbert",
   "background": "President and CEO, Leggett & Platt.",
   "pictureUrl": null,
-  "companies": [
-    {
-      "name": "Rockwell Automation, Inc.",
-      "ticker": "ROK",
-      "exchange": "NYSE",
-      "website": "https://www.rockwellautomation.com",
-      "title": "Independent Director",
-      "startDate": "2023-02-01",
-      "endDate": null,
-      "formattedStartDate": "2023 February",
-      "formattedEndDate": ""
-    }
-  ],
+  "companies": [],
   "investmentTheses": [
     "Reshoring"
   ],

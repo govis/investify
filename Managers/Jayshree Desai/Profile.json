@@ -6,20 +6,45 @@
   "age_year": 2024,
   "background": "Ms. Desai has served as Chief Financial Officer of Quanta since July 2022. She previously served as Chief Corporate Development Officer from 2020 to 2022 and as Vice President of Corporate Development from 2010 to 2020.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Quanta Services, Inc.",
       "ticker": "PWR",
       "exchange": "NYSE",
       "title_or_role": "Chief Financial Officer",
+      "website": "https://www.quantaservices.com",
       "start_date": "2022-07-01",
       "end_date": null
+    },
+    {
+      "name": "TPI Composites, Inc.",
+      "ticker": "TPIC",
+      "exchange": "NASDAQ",
+      "website": "https://www.tpicomposites.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jayshree-desai-9256a95",
+      "person_name": "Jayshree Desai",
+      "company_name": "Quanta Services, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

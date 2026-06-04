@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "ON Semiconductor Corporation",
+      "name": "Energy Recovery, Inc.",
+      "ticker": "ERII",
+      "exchange": "NASDAQ",
+      "website": "https://energyrecovery.com/",
+      "logoUrl": "/companies-assets/ERII.NASDAQ.svg",
+      "title": "Chairperson of the Board",
+      "startDate": "October 2023",
+      "endDate": null,
+      "formattedStartDate": "October 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "ON Semiconductor Corporation (onsemi)",
       "ticker": "ON",
       "exchange": "NASDAQ",
       "website": "https://www.onsemi.com",
-      "title": "Executive Vice President, Chief Legal Officer and Corporate Secretary",
-      "startDate": "2021-09-01",
-      "endDate": null,
-      "formattedStartDate": "2021 September",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/ON.NASDAQ.svg",
+      "title": "Executive Vice President, Chief Legal Officer, Chief Compliance Officer, and Secretary",
+      "startDate": "Historical tenure prior to 2019",
+      "endDate": "2019",
+      "formattedStartDate": "Historical tenure prior to 2019",
+      "formattedEndDate": "2019"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/pamela-tondreau-b6b960",
+      "person_name": "Pamela Tondreau",
+      "company_name": "onsemi",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 59,
   "ageYear": 2024

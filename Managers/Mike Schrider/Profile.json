@@ -6,19 +6,35 @@
   "age_year": 2024,
   "background": "Mr. Schrider is a professional engineer with over 30 years of experience in project management, engineering, and construction. He has led the development of complex industrial projects in North America.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Ucore Rare Metals Inc.",
+      "ticker": "UCU (TSXV), UURAF (OTCQX)",
+      "exchange": "TSXV, OTCQX",
+      "title_or_role": "Vice President and Chief Operating Officer (COO)",
+      "website": "https://ucore.com",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Reshoring"
   ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "socials": [
     {
-      "name": "Ucore Rare Metals Inc.",
-      "ticker": "UCU",
-      "exchange": "TSX",
-      "title_or_role": "Vice President, Chief Operating Officer",
-      "start_date": "2021-02-01",
-      "end_date": null
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mikeschrider",
+      "person_name": "Mike Schrider",
+      "company_name": "Ucore Rare Metals Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
-  ]
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

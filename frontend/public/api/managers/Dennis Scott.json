@@ -9,17 +9,29 @@
       "ticker": "LEU",
       "exchange": "NYSE",
       "website": "https://www.centrusenergy.com",
-      "title": "Senior Vice President, General Counsel, and Secretary",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "formattedStartDate": "2021 January",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/LEU.NYSE.png",
+      "title": "Senior Vice President, General Counsel, Chief Compliance Officer, and Corporate Secretary",
+      "startDate": "May 23, 2016",
+      "endDate": "2024",
+      "formattedStartDate": "May 23, 2016",
+      "formattedEndDate": "2024"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dennis-scott-91bbaa35",
+      "person_name": "Dennis Scott",
+      "company_name": "Centrus Energy Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 63,
   "ageYear": 2024

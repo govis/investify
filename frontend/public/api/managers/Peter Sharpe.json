@@ -7,12 +7,49 @@
     {
       "name": "OceanaGold Corporation",
       "ticker": "OGC",
-      "exchange": "ASX",
+      "exchange": "TSX",
       "website": "https://oceanagold.com",
-      "title": "Chief Operating Officer",
-      "startDate": "2022-10-01",
+      "logoUrl": "/companies-assets/OGC.TSX.svg",
+      "title": "COO, Asia-Pacific",
+      "startDate": "July 2022",
       "endDate": null,
-      "formattedStartDate": "2022 October",
+      "formattedStartDate": "July 2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Postmedia Network Canada Corp.",
+      "ticker": "PNC.A",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": "Past",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "Past"
+    },
+    {
+      "name": "First Industrial Realty Trust",
+      "ticker": "FR",
+      "exchange": "NYSE",
+      "website": "https://www.firstindustrial.com",
+      "logoUrl": "/companies-assets/FR.NYSE.svg",
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": "Past",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "Past"
+    },
+    {
+      "name": "Morguard Corporation",
+      "ticker": "MRC",
+      "exchange": "TSX",
+      "website": "https://www.morguard.com",
+      "logoUrl": "/companies-assets/MRC.TSX.svg",
+      "title": "Independent Director",
+      "startDate": "2010",
+      "endDate": null,
+      "formattedStartDate": "2010",
       "formattedEndDate": ""
     }
   ],

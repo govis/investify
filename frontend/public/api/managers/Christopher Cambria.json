@@ -9,11 +9,36 @@
       "ticker": "MRCY",
       "exchange": "NASDAQ",
       "website": "https://www.mrcy.com",
-      "title": "Executive Vice President, General Counsel and Secretary",
-      "startDate": "2016-01-01",
+      "logoUrl": "/companies-assets/MRCY.NASDAQ.svg",
+      "title": "Executive Vice President, General Counsel & Secretary",
+      "startDate": "2016",
       "endDate": null,
-      "formattedStartDate": "2016 January",
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Aerojet Rocketdyne Holdings, Inc.",
+      "ticker": "AJRD",
+      "exchange": "NYSE",
+      "website": "https://www.rocket.com",
+      "logoUrl": "/companies-assets/AJRD.NYSE.svg",
+      "title": "Vice President, General Counsel & Secretary",
+      "startDate": "2011",
+      "endDate": "2016",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "L-3 Communications Holdings, Inc.",
+      "ticker": "LLL",
+      "exchange": "NYSE",
+      "website": "https://www.l3harris.com",
+      "logoUrl": "/companies-assets/LLL.NYSE.svg",
+      "title": "SVP, Senior Counsel-Mergers & Acquisitions",
+      "startDate": "2006",
+      "endDate": "2009",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2009"
     }
   ],
   "investmentTheses": [

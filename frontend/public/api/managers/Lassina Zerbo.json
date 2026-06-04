@@ -9,18 +9,54 @@
       "ticker": "NNE",
       "exchange": "NASDAQ",
       "website": "https://nanonuclearenergy.com",
-      "title": "Independent Director",
-      "startDate": "2023-05-01",
+      "logoUrl": "/companies-assets/NNE.NASDAQ.png",
+      "title": "Chairman of the Executive Advisory Board for Africa",
+      "startDate": "2024",
       "endDate": null,
-      "formattedStartDate": "2023 May",
+      "formattedStartDate": "2024",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Anglo American plc",
+      "ticker": "AAL",
+      "exchange": "LSE",
+      "website": "https://www.angloamerican.com",
+      "logoUrl": "/companies-assets/AAL.LSE.svg",
+      "title": "Divisional Principal Geophysicist for Africa / Director of the Geophysical Division for Africa",
+      "startDate": "1995",
+      "endDate": "2004",
+      "formattedStartDate": "1995",
+      "formattedEndDate": "2004"
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Research Geophysicist / Project Geophysicist (Africa programmes)",
+      "startDate": "1993",
+      "endDate": "1995",
+      "formattedStartDate": "1993",
+      "formattedEndDate": "1995"
     }
   ],
   "investmentTheses": [
     "Nuclear",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://bf.linkedin.com/in/lassinazerbo",
+      "person_name": "Lassina Zerbo",
+      "company_name": "NANO Nuclear Energy Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"

@@ -6,23 +6,49 @@
   "age_year": 2024,
   "background": "Dr. Hart is a world-renowned scholar on gold deposits and regional metallogeny. He was previously the Director of the Mineral Deposit Research Unit (MDRU) at the University of British Columbia.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Snowline Gold Corp.",
+      "ticker": "SGD",
+      "exchange": "TSXV",
+      "title_or_role": "Chairman of the Board",
+      "website": "https://snowlinegold.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Red Canyon Resources Ltd.",
+      "ticker": "REDC",
+      "exchange": "CSE",
+      "website": "https://www.redcanyonresources.com",
+      "title_or_role": "Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/craig-hart-a2132419",
+      "person_name": "Craig Hart",
+      "company_name": "Snowline Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee",
     "Corporate Governance and Nominating Committee"
   ],
-  "companies": [
-    {
-      "name": "Snowline Gold Corp.",
-      "ticker": "SGD",
-      "exchange": "TSX",
-      "title_or_role": "Independent Chairman",
-      "start_date": "2020-11-27",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

@@ -6,22 +6,57 @@
   "age_year": 2024,
   "background": "Mr. Giuffre is a lawyer with over 30 years of experience in corporate and securities law. He is currently a partner at a law firm in Vancouver.",
   "picture_url": null,
-  "investment_theses": [
-    "Gold"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee (Chair)",
-    "Corporate Governance and Nominating Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Victoria Gold Corp.",
       "ticker": "VGCX",
       "exchange": "TSX",
       "title_or_role": "Independent Director",
+      "website": "https://vgcx.com",
       "start_date": "2021-01-01",
       "end_date": null
+    },
+    {
+      "name": "Kootenay Silver Inc.",
+      "ticker": "KTN",
+      "exchange": "TSXV",
+      "website": "https://kootenaysilver.com/",
+      "title_or_role": "Director",
+      "start_date": "January 13, 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nevsun Resources Ltd.",
+      "ticker": "NSU",
+      "exchange": "TSX",
+      "website": "https://www.zijinmining.com/",
+      "title_or_role": "Chief Legal Officer",
+      "start_date": "Unknown",
+      "end_date": "2019",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/joe-giuffre-28881851",
+      "person_name": "Joe Giuffre",
+      "company_name": "Victoria Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee (Chair)",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

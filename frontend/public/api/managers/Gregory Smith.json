@@ -5,26 +5,28 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Intel Corporation",
-      "ticker": "INTC",
+      "name": "American Airlines Group Inc.",
+      "ticker": "AAL",
       "exchange": "NASDAQ",
-      "website": "https://www.intel.com",
-      "title": "Independent Director",
-      "startDate": "2021-03-01",
+      "website": "https://www.aa.com",
+      "logoUrl": "/companies-assets/AAL.NASDAQ.svg",
+      "title": "Independent Chairman of the Board of Directors",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2021 March",
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
     },
     {
-      "name": "Teradyne, Inc.",
-      "ticker": "TER",
-      "exchange": "NASDAQ",
-      "website": "https://www.teradyne.com",
-      "title": "Director, President and Chief Executive Officer",
-      "startDate": "2023-02-01",
-      "endDate": null,
-      "formattedStartDate": "2023 February",
-      "formattedEndDate": ""
+      "name": "The Boeing Company",
+      "ticker": "BA",
+      "exchange": "NYSE",
+      "website": "https://www.boeing.com",
+      "logoUrl": "/companies-assets/BA.NYSE.svg",
+      "title": "Vice President, Finance and Corporate Controller",
+      "startDate": "2010",
+      "endDate": "2012",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2012"
     }
   ],
   "investmentTheses": [

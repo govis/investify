@@ -9,17 +9,29 @@
       "ticker": "ARRY",
       "exchange": "NASDAQ",
       "website": "https://arraytechinc.com",
-      "title": "Chief Operations Officer",
-      "startDate": "2023-01-23",
+      "logoUrl": "/companies-assets/ARRY.NASDAQ.svg",
+      "title": "President and Chief Operating Officer",
+      "startDate": "January 2023",
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "January 2023",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/neilmanning",
+      "person_name": "Neil Manning",
+      "company_name": "Array Technologies, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 51,
   "ageYear": 2024

@@ -9,10 +9,23 @@
       "ticker": "GS",
       "exchange": "NYSE",
       "website": "https://www.goldmansachs.com",
-      "title": "Independent Director",
-      "startDate": "2018-12-01",
+      "logoUrl": "/companies-assets/GS.NYSE.svg",
+      "title": "Director",
+      "startDate": "2019",
       "endDate": null,
-      "formattedStartDate": "2018 December",
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "website": "https://www.gm.com",
+      "logoUrl": "/companies-assets/GM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +33,18 @@
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jan-tighe-367550155",
+      "person_name": "Jan Tighe",
+      "company_name": "The Goldman Sachs Group, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit",
     "Governance",

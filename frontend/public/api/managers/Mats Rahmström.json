@@ -6,20 +6,68 @@
   "companies": [
     {
       "name": "Atlas Copco AB",
-      "ticker": "ATCO",
-      "exchange": "STO",
-      "website": "https://www.atlascopcogroup.com",
-      "title": "Director",
-      "startDate": "2017-01-01",
+      "ticker": "ATCO A / ATCO B",
+      "exchange": "Nasdaq Stockholm",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and CEO",
+      "startDate": "2017",
+      "endDate": "2024-04-30",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "April 2024"
+    },
+    {
+      "name": "ABB Ltd",
+      "ticker": "ABBN",
+      "exchange": "SIX Swiss Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Member of the Board of Directors",
+      "startDate": "2024",
       "endDate": null,
-      "formattedStartDate": "2017 January",
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Investor AB",
+      "ticker": "INVE B",
+      "exchange": "Nasdaq Stockholm",
+      "website": null,
+      "logoUrl": null,
+      "title": "Member of the Board of Directors",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Wärtsilä Oyj Abp",
+      "ticker": "WRT1V",
+      "exchange": "Nasdaq Helsinki",
+      "website": null,
+      "logoUrl": null,
+      "title": "Member of the Board of Directors",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://se.linkedin.com/in/mats-rahmström-02b75339",
+      "person_name": "Mats Rahmström",
+      "company_name": "Atlas Copco",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 59,
   "ageYear": 2024

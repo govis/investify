@@ -9,17 +9,113 @@
       "ticker": "AAPL",
       "exchange": "NASDAQ",
       "website": "https://www.apple.com",
-      "title": "Independent Director",
-      "startDate": "2010-11-17",
+      "logoUrl": "/companies-assets/AAPL.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2010",
       "endDate": null,
-      "formattedStartDate": "2010 November",
+      "formattedStartDate": "2010",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Uber Technologies, Inc.",
+      "ticker": "UBER",
+      "exchange": "NYSE",
+      "website": "https://www.uber.com",
+      "logoUrl": "/companies-assets/UBER.NYSE.svg",
+      "title": "Chairman of the Board",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "website": "https://www.northropgrumman.com",
+      "logoUrl": "/companies-assets/NOC.NYSE.svg",
+      "title": "Chairman and CEO",
+      "startDate": "2003",
+      "endDate": "2010",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2010"
+    },
+    {
+      "name": "Chevron Corporation",
+      "ticker": "CVX",
+      "exchange": "NYSE",
+      "website": "https://www.chevron.com",
+      "logoUrl": "/companies-assets/CVX.NYSE.svg",
+      "title": "Director",
+      "startDate": "2005",
+      "endDate": "2020",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Amgen Inc.",
+      "ticker": "AMGN",
+      "exchange": "NASDAQ",
+      "website": "https://www.amgen.com",
+      "logoUrl": "/companies-assets/AMGN.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": "2023",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Air Lease Corporation",
+      "ticker": "AL",
+      "exchange": "NYSE",
+      "website": "airleasecorp.com",
+      "logoUrl": "/companies-assets/AL.NYSE.png",
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": "2024",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "TRW Inc.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "CFO / Senior Executive",
+      "startDate": "N/A",
+      "endDate": "N/A",
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Litton Industries",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Executive",
+      "startDate": "N/A",
+      "endDate": "N/A",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ronald-sugar-4a5b2a12",
+      "person_name": "Ronald Sugar",
+      "company_name": "Northrop Grumman Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit and Finance Committee",
     "Nominating and Corporate Governance Committee"

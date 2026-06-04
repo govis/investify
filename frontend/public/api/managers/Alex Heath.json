@@ -6,21 +6,58 @@
   "companies": [
     {
       "name": "Prospector Metals Corp.",
-      "ticker": "PPP",
-      "exchange": "TSX",
-      "website": "https://prospectormetalscorp.com",
-      "title": "Director",
-      "startDate": "2021-04-01",
+      "ticker": "TSXV: PPP",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "President & CEO (Nov 2021 – Sept 2023); CFO & Director (Sept 2023 – Present)",
+      "startDate": "2021-11",
       "endDate": null,
-      "formattedStartDate": "2021 April",
+      "formattedStartDate": "November 2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Ethos Gold Corp. (now Prospector Metals Corp.)",
+      "ticker": "TSXV: ECC",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "President & CEO",
+      "startDate": "2020-11",
+      "endDate": "2021-11",
+      "formattedStartDate": "November 2020",
+      "formattedEndDate": "November 2021"
+    },
+    {
+      "name": "Defense Metals Corp.",
+      "ticker": "TSXV: DEFN",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Vice President, Corporate Development & Interim CFO",
+      "startDate": null,
+      "endDate": "2025-04",
+      "formattedStartDate": "",
+      "formattedEndDate": "April 2025"
     }
   ],
   "investmentTheses": [
     "Gold",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/alexander-heath-cfa-icd-d-93710714",
+      "person_name": "Alex Heath",
+      "company_name": "Prospector Metals Corp.",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1,
+      "profile_status": "private"
+    }
+  ],
   "committees": [],
   "age": null,
   "ageYear": null

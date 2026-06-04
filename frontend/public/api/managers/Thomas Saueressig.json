@@ -7,12 +7,25 @@
     {
       "name": "SAP SE",
       "ticker": "SAP",
-      "exchange": "NYSE",
-      "website": "https://www.sap.com",
-      "title": "Member of the Executive Board, Customer Services & Delivery",
-      "startDate": "2024-04-01",
+      "exchange": "Xetra",
+      "website": null,
+      "logoUrl": null,
+      "title": "Member of the Executive Board / Chief Customer Officer",
+      "startDate": "2019",
       "endDate": null,
-      "formattedStartDate": "2024 April",
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Nokia Corporation",
+      "ticker": "NOK",
+      "exchange": "Nasdaq Helsinki",
+      "website": null,
+      "logoUrl": null,
+      "title": "Member of the Board of Directors / Vice-Chair of the Board",
+      "startDate": "April 2022",
+      "endDate": null,
+      "formattedStartDate": "April 2022",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +33,18 @@
     "AI",
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://de.linkedin.com/in/thsaueressig",
+      "person_name": "Thomas Saueressig",
+      "company_name": "SAP SE",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 39,
   "ageYear": 2024

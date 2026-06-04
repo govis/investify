@@ -9,11 +9,36 @@
       "ticker": "LI",
       "exchange": "NASDAQ",
       "website": "https://www.lixiang.com",
-      "title": "President, Director",
+      "logoUrl": "/companies-assets/LI.NASDAQ.svg",
+      "title": "President (Executive Director)",
       "startDate": "2023-01-01",
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "January 2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Sany Heavy Industry Co., Ltd.",
+      "ticker": "600031",
+      "exchange": "Shanghai Stock Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Research Director",
+      "startDate": "2011-06-01",
+      "endDate": "2015-09-01",
+      "formattedStartDate": "June 2011",
+      "formattedEndDate": "September 2015"
+    },
+    {
+      "name": "IAT Automobile Technology Co., Ltd.",
+      "ticker": "300424",
+      "exchange": "Shenzhen Stock Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Project Manager",
+      "startDate": "2010-06-01",
+      "endDate": "2011-06-01",
+      "formattedStartDate": "June 2010",
+      "formattedEndDate": "June 2011"
     }
   ],
   "investmentTheses": [

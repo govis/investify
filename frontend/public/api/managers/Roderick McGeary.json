@@ -9,17 +9,77 @@
       "ticker": "CSCO",
       "exchange": "NASDAQ",
       "website": "https://www.cisco.com",
-      "title": "Independent Director",
-      "startDate": "2003-07-01",
+      "logoUrl": "/companies-assets/CSCO.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2003",
       "endDate": null,
-      "formattedStartDate": "2003 July",
+      "formattedStartDate": "2003",
       "formattedEndDate": ""
+    },
+    {
+      "name": "PACCAR Inc.",
+      "ticker": "PCAR",
+      "exchange": "NASDAQ",
+      "website": "https://www.paccar.com",
+      "logoUrl": "/companies-assets/PCAR.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2011",
+      "endDate": "2023",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "National Semiconductor Corporation",
+      "ticker": "NSM",
+      "exchange": "NYSE",
+      "website": "https://www.ti.com",
+      "logoUrl": "/companies-assets/NSM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2006",
+      "endDate": "2011",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2011"
+    },
+    {
+      "name": "Dionex Corporation",
+      "ticker": "DNEX",
+      "exchange": "NASDAQ",
+      "website": "www.thermofisher.com",
+      "logoUrl": "/companies-assets/DNEX.NASDAQ.jpg",
+      "title": "Director",
+      "startDate": "2006",
+      "endDate": "2011",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2011"
+    },
+    {
+      "name": "BearingPoint, Inc.",
+      "ticker": "BE",
+      "exchange": "NYSE",
+      "website": "https://www.bloomenergy.com",
+      "logoUrl": "/companies-assets/BE.NYSE.svg",
+      "title": "Chairman of the Board / Director",
+      "startDate": "2004",
+      "endDate": "2009",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2009"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/roderick-mcgeary-4a5b2a1",
+      "person_name": "Roderick McGeary",
+      "company_name": "BearingPoint",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation and Management Development Committee"
   ],

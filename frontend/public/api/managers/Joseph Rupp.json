@@ -9,17 +9,77 @@
       "ticker": "NUE",
       "exchange": "NYSE",
       "website": "https://nucor.com",
-      "title": "Independent Director",
-      "startDate": "2015-09-01",
+      "logoUrl": "/companies-assets/NUE.NYSE.svg",
+      "title": "Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2015 September",
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Olin Corporation",
+      "ticker": "OLN",
+      "exchange": "NYSE",
+      "website": "https://www.olin.com",
+      "logoUrl": "/companies-assets/OLN.NYSE.svg",
+      "title": "Chairman of the Board, CEO (Retired)",
+      "startDate": "2002",
+      "endDate": "2017",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Cass Information Systems, Inc.",
+      "ticker": "CASS",
+      "exchange": "NASDAQ",
+      "website": "https://www.cassinfo.com",
+      "logoUrl": "/companies-assets/CASS.NASDAQ.svg",
+      "title": "Lead Independent Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Quanex Building Products Corporation",
+      "ticker": "NX",
+      "exchange": "NYSE",
+      "website": "https://www.quanex.com",
+      "logoUrl": "/companies-assets/NX.NYSE.svg",
+      "title": "Director",
+      "startDate": "2008",
+      "endDate": null,
+      "formattedStartDate": "2008",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "O-I Glass, Inc.",
+      "ticker": "OI",
+      "exchange": "NYSE",
+      "website": "https://o-i.com",
+      "logoUrl": "/companies-assets/OI.NYSE.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/joseph-rupp-4a5a5a12",
+      "person_name": "Joseph Rupp",
+      "company_name": "Olin Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation and Executive Development",
     "Governance and Nominating"

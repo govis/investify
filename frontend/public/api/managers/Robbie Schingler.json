@@ -9,17 +9,29 @@
       "ticker": "PL",
       "exchange": "NYSE",
       "website": "https://www.planet.com",
-      "title": "Chief Strategy Officer, Director",
-      "startDate": "2010-12-01",
+      "logoUrl": "/companies-assets/PL.NYSE.svg",
+      "title": "Co-Founder, Chief Strategy Officer, and Member of the Board of Directors",
+      "startDate": "2010",
       "endDate": null,
-      "formattedStartDate": "2010 December",
+      "formattedStartDate": "2010",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/schingler",
+      "person_name": "Robbie Schingler",
+      "company_name": "Planet",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 45,
   "ageYear": 2024

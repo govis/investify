@@ -5,32 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "OceanaGold Corporation",
-      "ticker": "OGC",
+      "name": "Newcrest Mining Limited",
+      "ticker": "NCM",
       "exchange": "ASX",
-      "website": "https://oceanagold.com",
-      "title": "Managing Director, President and Chief Executive Officer",
-      "startDate": "2022-04-04",
-      "endDate": null,
-      "formattedStartDate": "2022 April",
-      "formattedEndDate": ""
+      "website": "https://www.newcrest.com/",
+      "logoUrl": "/companies-assets/NCM.ASX.svg",
+      "title": "Finance Director and Chief Financial Officer",
+      "startDate": "January 2012",
+      "endDate": "January 2022",
+      "formattedStartDate": "January 2012",
+      "formattedEndDate": "January 2022"
     },
     {
-      "name": "OceanaGold Corporation",
-      "ticker": "OGC",
-      "exchange": "TSX",
-      "website": "https://oceanagold.com",
-      "title": "Director, President and Chief Executive Officer",
-      "startDate": "2022-04-04",
-      "endDate": null,
-      "formattedStartDate": "2022 April",
-      "formattedEndDate": ""
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX, NYSE, LSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Various senior executive roles (including Deputy CFO of Aluminium, CFO and Acting President of Nickel, and Head of Group Human Resources)",
+      "startDate": "1997",
+      "endDate": "2011",
+      "formattedStartDate": "1997",
+      "formattedEndDate": "2011"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/gerard-bond-b43717132",
+      "person_name": "Gerard Bond",
+      "company_name": "OceanaGold Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 58,
   "ageYear": 2024

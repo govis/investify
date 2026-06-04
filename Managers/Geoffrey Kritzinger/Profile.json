@@ -6,6 +6,19 @@
   "age_year": 2024,
   "background": "Mr. Kritzinger is a Chartered Professional Accountant with over 30 years of experience in the investment industry.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Uranium Royalty Corp.",
+      "ticker": "URC (TSX), URNM (NASDAQ)",
+      "exchange": "TSX, NASDAQ",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://www.uraniumroyalty.com/",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Nuclear"
   ],
@@ -15,14 +28,6 @@
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"
   ],
-  "companies": [
-    {
-      "name": "Uranium Royalty Corp.",
-      "ticker": "UROY",
-      "exchange": "TSX",
-      "title_or_role": "Independent Director",
-      "start_date": "2019-10-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

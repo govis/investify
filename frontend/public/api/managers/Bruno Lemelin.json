@@ -6,13 +6,26 @@
   "companies": [
     {
       "name": "IAMGOLD Corporation",
-      "ticker": "IAG",
-      "exchange": "NYSE",
-      "website": "https://www.iamgold.com",
+      "ticker": "IMG",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
       "title": "Chief Operating Officer",
-      "startDate": "2024-01-01",
+      "startDate": "2023-09-27",
       "endDate": null,
-      "formattedStartDate": "2024 January",
+      "formattedStartDate": "September 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Aya Gold & Silver Inc.",
+      "ticker": "AYA",
+      "exchange": "TSX",
+      "website": "https://ayagoldsilver.com",
+      "logoUrl": "/companies-assets/AYA.TSX.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],

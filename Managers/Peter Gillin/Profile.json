@@ -6,32 +6,70 @@
   "age_year": 2024,
   "background": "Mr. Gillin is a corporate director and has served on several boards in the mining and financial sectors. He was previously Chairman and CEO of Tahera Diamond Corporation.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Dundee Precious Metals Inc.",
+      "ticker": "DPM",
+      "exchange": "TSX",
+      "title_or_role": "Director, Deputy Chair, Chair of the Board",
+      "website": "www.dundeeprecious.com",
+      "start_date": "2009",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Wheaton Precious Metals Corp.",
+      "ticker": "WPM",
+      "exchange": "TSX / NYSE",
+      "title_or_role": "Founding Director",
+      "website": "www.wheatonpm.com",
+      "start_date": "2004",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Turquoise Hill Resources Ltd.",
+      "ticker": "TRQ",
+      "exchange": "TSX / NYSE",
+      "website": "www.turquoisehill.com",
+      "title_or_role": "Independent Chairman of the Board",
+      "start_date": "2012",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Sherritt International Corporation",
+      "ticker": "S",
+      "exchange": "TSX",
+      "website": "www.sherritt.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "2024",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/peter-gillin-37712a6",
+      "person_name": "Peter Gillin",
+      "company_name": "Dundee Precious Metals Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee",
     "Governance and Nominating Committee",
     "Human Resources Committee"
   ],
-  "companies": [
-    {
-      "name": "Dundee Precious Metals Inc.",
-      "ticker": "DPM",
-      "exchange": "TSX",
-      "title_or_role": "Lead Director",
-      "start_date": "2009-01-01",
-      "end_date": null
-    },
-    {
-      "name": "Wheaton Precious Metals Corp.",
-      "ticker": "WPM",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2004-10-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

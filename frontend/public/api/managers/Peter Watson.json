@@ -9,17 +9,65 @@
       "ticker": "PDN",
       "exchange": "ASX",
       "website": "https://www.paladinenergy.com.au",
+      "logoUrl": "/companies-assets/PDN.ASX.svg",
       "title": "Non-Executive Director",
-      "startDate": "2019-12-11",
+      "startDate": "December 2019",
       "endDate": null,
-      "formattedStartDate": "2019 December",
+      "formattedStartDate": "December 2019",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Australian Vanadium Ltd",
+      "ticker": "AVL",
+      "exchange": "ASX",
+      "website": "https://www.australianvanadium.com.au/",
+      "logoUrl": "/companies-assets/AVL.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "February 2023",
+      "endDate": null,
+      "formattedStartDate": "February 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Strandline Resources Ltd",
+      "ticker": "STA",
+      "exchange": "ASX",
+      "website": "https://www.strandline.com.au",
+      "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQG1-1-1-1/company-logo_200_200/company-logo_200_200/0/1630634567476/strandline_resources_limited_logo?e=2147483647&v=beta&t=2-4-8-16-32-64-128-256-512-1024",
+      "title": "Non-Executive Director",
+      "startDate": "December 2017",
+      "endDate": null,
+      "formattedStartDate": "December 2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sedgman Ltd",
+      "ticker": "SDM",
+      "exchange": "ASX",
+      "website": "https://www.sedgman.com",
+      "logoUrl": "/companies-assets/SDM.ASX.png",
+      "title": "Chief Executive Officer & Managing Director",
+      "startDate": "2014",
+      "endDate": "2016",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2016"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/peter-watson-90894044",
+      "person_name": "Peter Watson",
+      "company_name": "Paladin Energy Ltd",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit and Risk Committee",
     "Remuneration and Nomination Committee (Chair)"

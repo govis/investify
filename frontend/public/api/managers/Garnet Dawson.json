@@ -5,22 +5,70 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "EagleOne Metals Corp.",
-      "ticker": "EAGL",
-      "exchange": "CSE",
-      "website": "https://eagleonemetals.com",
-      "title": "Director",
-      "startDate": "2023-06-01",
+      "name": "Freegold Ventures Ltd.",
+      "ticker": "FVL",
+      "exchange": "TSX",
+      "website": "https://freegoldventures.com/",
+      "logoUrl": "/companies-assets/FVL.TSX.png",
+      "title": "Independent Director",
+      "startDate": "2011",
       "endDate": null,
-      "formattedStartDate": "2023 June",
+      "formattedStartDate": "2011",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Spanish Mountain Gold Ltd.",
+      "ticker": "SPA",
+      "exchange": "TSXV",
+      "website": "https://spanishmountaingold.com/",
+      "logoUrl": "/companies-assets/SPA.TSXV.svg",
+      "title": "Independent Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "U.S. GoldMining Inc.",
+      "ticker": "USGO",
+      "exchange": "NASDAQ",
+      "website": "https://www.usgoldmining.us/",
+      "logoUrl": "/companies-assets/USGO.NASDAQ.svg",
+      "title": "President",
+      "startDate": "2015",
+      "endDate": "2022",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "GoldMining Inc.",
+      "ticker": "GLDG",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "CEO",
+      "startDate": "2014",
+      "endDate": "2021",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2021"
     }
   ],
   "investmentTheses": [
     "Electrification",
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/garnet-dawson-4a5b2a12",
+      "person_name": "Garnet Dawson",
+      "company_name": "GoldMining Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

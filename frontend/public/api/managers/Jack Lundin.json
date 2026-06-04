@@ -9,10 +9,11 @@
       "ticker": "LUG",
       "exchange": "TSX",
       "website": "https://lundingold.com",
-      "title": "Chair of the Board",
-      "startDate": "2022-11-01",
+      "logoUrl": "/companies-assets/LUG.TSX.svg",
+      "title": "Director (Chairman)",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2022 November",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
     },
     {
@@ -20,10 +21,23 @@
       "ticker": "LUN",
       "exchange": "TSX",
       "website": "https://www.lundinmining.com",
-      "title": "Director, President and Chief Executive Officer",
-      "startDate": "2023-12-04",
+      "logoUrl": "/companies-assets/LUN.TSX.svg",
+      "title": "President and Chief Executive Officer",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2023 December",
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Talon Metals Corp.",
+      "ticker": "TLO",
+      "exchange": "TSX",
+      "website": "https://www.talonmetals.com",
+      "logoUrl": "/companies-assets/TLO.TSX.png",
+      "title": "Director (Nominee/Appointee)",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
       "formattedEndDate": ""
     }
   ],
@@ -31,7 +45,18 @@
     "Electrification",
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jacklundin",
+      "person_name": "Jack Lundin",
+      "company_name": "Lundin Mining Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 35,
   "ageYear": 2024

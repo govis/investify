@@ -5,15 +5,40 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Dominion Energy, Inc.",
-      "ticker": "D",
+      "name": "Altria Group, Inc.",
+      "ticker": "MO",
       "exchange": "NYSE",
-      "website": "https://www.dominionenergy.com",
-      "title": "Independent Director",
-      "startDate": "2012-01-01",
-      "endDate": null,
-      "formattedStartDate": "2012 January",
-      "formattedEndDate": ""
+      "website": "https://www.altria.com",
+      "logoUrl": "/companies-assets/MO.NYSE.svg",
+      "title": "Chairman and CEO",
+      "startDate": "2008",
+      "endDate": "2012",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "Philip Morris Companies Inc. (now Altria Group, Inc.)",
+      "ticker": "MO",
+      "exchange": "NYSE",
+      "website": "https://www.altria.com",
+      "logoUrl": "/companies-assets/MO.NYSE.svg",
+      "title": "Chairman and CEO",
+      "startDate": "2002-04",
+      "endDate": "2002-08",
+      "formattedStartDate": "April 2002",
+      "formattedEndDate": "August 2002"
+    },
+    {
+      "name": "Duke Realty Corporation",
+      "ticker": "DRE",
+      "exchange": "NYSE",
+      "website": "https://www.prologis.com",
+      "logoUrl": "/companies-assets/DRE.NYSE.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": "2022",
+      "formattedStartDate": "",
+      "formattedEndDate": "2022"
     }
   ],
   "investmentTheses": [

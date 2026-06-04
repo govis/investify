@@ -9,11 +9,24 @@
       "ticker": "TXT",
       "exchange": "NYSE",
       "website": "https://www.textron.com",
+      "logoUrl": "/companies-assets/TXT.NYSE.svg",
       "title": "Director",
-      "startDate": "2011-01-01",
+      "startDate": "2011",
       "endDate": null,
-      "formattedStartDate": "2011 January",
+      "formattedStartDate": "2011",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Vislink Technologies, Inc.",
+      "ticker": "VISL",
+      "exchange": "NASDAQ",
+      "website": "https://www.vislink.com",
+      "logoUrl": "/companies-assets/VISL.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": "2017",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2017"
     }
   ],
   "investmentTheses": [

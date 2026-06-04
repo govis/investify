@@ -5,21 +5,69 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "BlackSky Technology Inc.",
-      "ticker": "BKSY",
-      "exchange": "NYSE",
-      "website": "https://www.blacksky.com",
+      "name": "GeoEye, Inc.",
+      "ticker": "GEOY",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/GeoEye_logo.svg/500px-GeoEye_logo.svg.png",
       "title": "Chief Financial Officer",
-      "startDate": "2021-09-01",
+      "startDate": "2006",
+      "endDate": "2012",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "DigitalGlobe, Inc.",
+      "ticker": "DGI",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/DigitalGlobe_logo.svg/512px-DigitalGlobe_logo.svg.png",
+      "title": "President, Chief Financial Officer, Chief Operating Officer",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2021 September",
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Hooper Holmes, Inc.",
+      "ticker": "HH",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "https://www.hooperholmes.com/images/logo.png",
+      "title": "President, Chief Executive Officer, and Director",
+      "startDate": "2013",
+      "endDate": "2018",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Endurance Acquisition Corp.",
+      "ticker": "EDNC",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "/companies-assets/EDNC.NASDAQ.svg",
+      "title": "Independent Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/henry-dubois-b79703",
+      "person_name": "Henry Dubois",
+      "company_name": "BlackSky Technology Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 61,
   "ageYear": 2024

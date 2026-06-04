@@ -6,19 +6,35 @@
   "age_year": 2024,
   "background": "Susan Li has served as our Chief Financial Officer since November 2022. She previously served as our Vice President of Finance from 2016 to 2022.",
   "picture_url": null,
-  "investment_theses": [
-    "AI"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Meta Platforms, Inc.",
       "ticker": "META",
       "exchange": "NASDAQ",
-      "title_or_role": "Chief Financial Officer",
-      "start_date": "2022-11-01",
-      "end_date": null
+      "title_or_role": "Chief Financial Officer (CFO)",
+      "website": "https://investor.fb.com",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/susan-li-08b73033",
+      "person_name": "Susan Li",
+      "company_name": "Meta Platforms, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

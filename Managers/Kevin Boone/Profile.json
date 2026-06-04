@@ -6,19 +6,35 @@
   "age_year": 2024,
   "background": "Executive Vice President and Chief Commercial Officer since September 2023. Previously served as Executive Vice President of Sales and Marketing.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "CSX Corporation",
       "ticker": "CSX",
       "exchange": "NASDAQ",
-      "title_or_role": "Executive Vice President and Chief Commercial Officer",
-      "start_date": "2023-09-01",
-      "end_date": null
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "website": "https://www.csx.com",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kevin-boone-045b8080",
+      "person_name": "Kevin Boone",
+      "company_name": "CSX Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

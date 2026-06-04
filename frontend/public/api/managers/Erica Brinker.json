@@ -9,17 +9,53 @@
       "ticker": "ARRY",
       "exchange": "NASDAQ",
       "website": "https://arraytechinc.com",
-      "title": "Chief Commercial Officer",
-      "startDate": "2022-03-21",
+      "logoUrl": "/companies-assets/ARRY.NASDAQ.svg",
+      "title": "Chief Marketing Officer / Chief Commercial Officer",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2022 March",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Honeywell International Inc.",
+      "ticker": "HON",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice President, Brand Marketing",
+      "startDate": "2011",
+      "endDate": "2020",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Ralph Lauren Corporation",
+      "ticker": "RL",
+      "exchange": "NYSE",
+      "website": "https://www.ralphlauren.com",
+      "logoUrl": "/companies-assets/RL.NYSE.svg",
+      "title": "Leadership/Management role",
+      "startDate": "Prior to 2011",
+      "endDate": "Prior to 2011",
+      "formattedStartDate": "Prior to 2011",
+      "formattedEndDate": "Prior to 2011"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ericabrinker",
+      "person_name": "Erica Brinker",
+      "company_name": "Array Technologies, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 48,
   "ageYear": 2024

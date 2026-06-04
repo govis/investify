@@ -9,17 +9,53 @@
       "ticker": "CAT",
       "exchange": "NYSE",
       "website": "https://www.caterpillar.com",
+      "logoUrl": "/companies-assets/CAT.NYSE.svg",
       "title": "Chief Human Resources Officer",
-      "startDate": "2017-07-24",
+      "startDate": "2017",
+      "endDate": "April 30, 2025",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "April 30, 2025"
+    },
+    {
+      "name": "Flowserve Corporation",
+      "ticker": "FLS",
+      "exchange": "NYSE",
+      "website": "https://www.flowserve.com",
+      "logoUrl": "/companies-assets/FLS.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2017 July",
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Textron Inc.",
+      "ticker": "TXT",
+      "exchange": "NYSE",
+      "website": "https://www.textron.com",
+      "logoUrl": "/companies-assets/TXT.NYSE.svg",
+      "title": "Executive Vice President of Human Resources",
+      "startDate": "~1997",
+      "endDate": "2017",
+      "formattedStartDate": "~1997",
+      "formattedEndDate": "2017"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/cheryl-johnson-7a5a5a14",
+      "person_name": "Cheryl Johnson",
+      "company_name": "Caterpillar Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 58,
   "ageYear": 2024

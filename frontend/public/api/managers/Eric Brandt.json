@@ -9,10 +9,71 @@
       "ticker": "LRCX",
       "exchange": "NASDAQ",
       "website": "https://www.lamresearch.com",
+      "logoUrl": "/companies-assets/LRCX.NASDAQ.svg",
       "title": "Director",
-      "startDate": "2011-01-01",
+      "startDate": "2012",
       "endDate": null,
-      "formattedStartDate": "2011 January",
+      "formattedStartDate": "2012",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Altaba Inc. (formerly Yahoo! Inc.)",
+      "ticker": "AABA",
+      "exchange": "NASDAQ",
+      "website": "altaba.com",
+      "logoUrl": "/companies-assets/AABA.NASDAQ.png",
+      "title": "Director / Chairman",
+      "startDate": "2016",
+      "endDate": "2019",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Yahoo! Inc.",
+      "ticker": "YHOO",
+      "exchange": "NASDAQ",
+      "website": "yahoo.com",
+      "logoUrl": "/companies-assets/YHOO.NASDAQ.png",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": "2017",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Dentsply Sirona Inc.",
+      "ticker": "XRAY",
+      "exchange": "NASDAQ",
+      "website": "dentsplysirona.com",
+      "logoUrl": "/companies-assets/XRAY.NASDAQ.svg",
+      "title": "Director / Non-Executive Chairman",
+      "startDate": "2019",
+      "endDate": "2024",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Broadcom Corporation",
+      "ticker": "BRCM",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "EVP and CFO",
+      "startDate": "2007",
+      "endDate": "2013",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Gen Digital Inc.",
+      "ticker": "GEN",
+      "exchange": "NASDAQ",
+      "website": "https://www.gendigital.com",
+      "logoUrl": "/companies-assets/GEN.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +81,18 @@
     "AI",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ericbrandt",
+      "person_name": "Eric Brandt",
+      "company_name": "Lam Research Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

@@ -2,17 +2,54 @@
   "id": "Aarti Shah",
   "name": "Aarti Shah",
   "background": "Former Senior Vice President and Chief Information and Digital Officer of Eli Lilly and Company.",
-  "pictureUrl": null,
+  "pictureUrl": "/managers-assets/Aarti Shah.jpg",
   "companies": [
     {
       "name": "NVIDIA Corporation",
       "ticker": "NVDA",
       "exchange": "NASDAQ",
       "website": "https://www.nvidia.com",
-      "title": "Independent Director",
-      "startDate": "2020-01-01",
+      "logoUrl": "/companies-assets/NVDA.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2020 January",
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Danaher Corporation",
+      "ticker": "DHR",
+      "exchange": "NYSE",
+      "website": "danaher.com",
+      "logoUrl": "/companies-assets/DHR.NYSE.svg",
+      "title": "Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Eli Lilly and Company",
+      "ticker": "LLY",
+      "exchange": "NYSE",
+      "website": "lilly.com",
+      "logoUrl": "/companies-assets/LLY.NYSE.svg",
+      "title": "Senior Vice President and Chief Information and Digital Officer",
+      "startDate": "1994",
+      "endDate": "2021",
+      "formattedStartDate": "1994",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Sandoz Group AG",
+      "ticker": "SDZNY",
+      "exchange": "OTC",
+      "website": "sandoz.com",
+      "logoUrl": "/companies-assets/SDZNY.OTC.svg",
+      "title": "Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
     }
   ],
@@ -21,7 +58,17 @@
     "Defense",
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/aarti-shah-3a62186",
+      "person_name": "Aarti Shah",
+      "company_name": "Eli Lilly and Company",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee"
   ],

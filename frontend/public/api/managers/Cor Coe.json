@@ -5,14 +5,27 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Sitka Gold Corp.",
-      "ticker": "SIG",
-      "exchange": "TSX",
-      "website": "https://sitkagoldcorp.com",
-      "title": "Chief Executive Officer, Director, President",
-      "startDate": "2015-01-13",
+      "name": "Silver Predator Corp.",
+      "ticker": "SPD",
+      "exchange": "TSXV",
+      "website": "https://silverpredator.com/",
+      "logoUrl": "/companies-assets/SPD.TSXV.png",
+      "title": "President & Chief Executive Officer",
+      "startDate": "November 19, 2010",
       "endDate": null,
-      "formattedStartDate": "2015 January",
+      "formattedStartDate": "November 19, 2010",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Golden Predator Mining Corp.",
+      "ticker": "GPY",
+      "exchange": "TSXV",
+      "website": "https://www.goldenpredator.com",
+      "logoUrl": "/companies-assets/GPY.TSXV.svg",
+      "title": "Vice President, Exploration (Canada)",
+      "startDate": "May 2010",
+      "endDate": null,
+      "formattedStartDate": "May 2010",
       "formattedEndDate": ""
     }
   ],

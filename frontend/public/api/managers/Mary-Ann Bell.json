@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "AtkinsRéalis Group Inc.",
-      "ticker": "ATRL",
+      "name": "mdf commerce inc.",
+      "ticker": "MDF",
       "exchange": "TSX",
-      "website": "https://www.atkinsrealis.com",
+      "website": "https://www.mdfcommerce.com",
+      "logoUrl": "/companies-assets/MDF.TSX.webp",
       "title": "Director",
-      "startDate": "2019-08-01",
-      "endDate": null,
-      "formattedStartDate": "2019 August",
-      "formattedEndDate": ""
+      "startDate": "2021-06-03",
+      "endDate": "2024-05-22",
+      "formattedStartDate": "June 2021",
+      "formattedEndDate": "May 2024"
+    },
+    {
+      "name": "Bell Aliant Regional Communications",
+      "ticker": "BA.UN",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Vice President, Québec and Ontario",
+      "startDate": "2009",
+      "endDate": "2014",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2014"
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mary-ann-bell-93166b9",
+      "person_name": "Mary-Ann Bell",
+      "company_name": "AtkinsRéalis Group Inc., mdf commerce inc., Bell Aliant Regional Communications",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit and Risk Committee",
     "Human Resources Committee"

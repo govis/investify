@@ -9,17 +9,77 @@
       "ticker": "KLAC",
       "exchange": "NASDAQ",
       "website": "https://www.kla.com",
-      "title": "Independent Director",
-      "startDate": "2007-01-01",
+      "logoUrl": "/companies-assets/KLAC.NASDAQ.svg",
+      "title": "Board Chair / Director",
+      "startDate": "2017",
       "endDate": null,
-      "formattedStartDate": "2007 January",
+      "formattedStartDate": "2017",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Hewlett Packard Enterprise",
+      "ticker": "HPE",
+      "exchange": "NYSE",
+      "website": "https://www.arubanetworks.com",
+      "logoUrl": "https://www.arubanetworks.com/assets/images/logos/Aruba_a_Hewlett_Packard_Enterprise_company-Logo.png",
+      "title": "Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "ANSYS, Inc.",
+      "ticker": "ANSS",
+      "exchange": "NASDAQ",
+      "website": "https://www.ansys.com",
+      "logoUrl": "/companies-assets/ANSS.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Citrix Systems, Inc.",
+      "ticker": "CTXS",
+      "exchange": "NASDAQ",
+      "website": "https://www.citrix.com",
+      "logoUrl": "/companies-assets/CTXS.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2014",
+      "endDate": "2022",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Ariba, Inc.",
+      "ticker": "ARBA",
+      "exchange": "NASDAQ",
+      "website": "ariba.com",
+      "logoUrl": "/companies-assets/ARBA.NASDAQ.svg",
+      "title": "CEO / Chairman",
+      "startDate": "2001",
+      "endDate": "2012",
+      "formattedStartDate": "2001",
+      "formattedEndDate": "2012"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bob-calderoni-4a5b2a1",
+      "person_name": "Robert Calderoni",
+      "company_name": "KLA Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

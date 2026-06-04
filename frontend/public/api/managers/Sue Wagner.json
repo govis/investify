@@ -9,17 +9,65 @@
       "ticker": "AAPL",
       "exchange": "NASDAQ",
       "website": "https://www.apple.com",
-      "title": "Independent Director",
-      "startDate": "2014-07-17",
+      "logoUrl": "/companies-assets/AAPL.NASDAQ.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2014",
       "endDate": null,
-      "formattedStartDate": "2014 July",
+      "formattedStartDate": "2014",
       "formattedEndDate": ""
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "ticker": "BLK",
+      "exchange": "NYSE",
+      "website": "https://www.blackrock.com",
+      "logoUrl": "/companies-assets/BLK.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2012",
+      "endDate": null,
+      "formattedStartDate": "2012",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Swiss Re Ltd",
+      "ticker": "SREN",
+      "exchange": "LSE",
+      "website": "https://www.swissre.com",
+      "logoUrl": "/companies-assets/SREN.LSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2014",
+      "endDate": "2021",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Affiliated Managers Group, Inc.",
+      "ticker": "AMG",
+      "exchange": "NYSE",
+      "website": "https://www.amg.com",
+      "logoUrl": "/companies-assets/AMG.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2006",
+      "endDate": "2014",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2014"
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sue-wagner-a8828615",
+      "person_name": "Sue Wagner",
+      "company_name": "BlackRock",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Nominating and Corporate Governance Committee"
   ],

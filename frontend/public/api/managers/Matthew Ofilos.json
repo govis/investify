@@ -9,17 +9,29 @@
       "ticker": "PSN",
       "exchange": "NYSE",
       "website": "https://www.parsons.com",
-      "title": "Chief Financial Officer",
-      "startDate": "2022-07",
-      "endDate": null,
-      "formattedStartDate": "2022 July",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/PSN.NYSE.svg",
+      "title": "Executive Vice President of Finance",
+      "startDate": "November 2021",
+      "endDate": "July 2022",
+      "formattedStartDate": "November 2021",
+      "formattedEndDate": "July 2022"
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mattofilos",
+      "person_name": "Matthew Ofilos",
+      "company_name": "Parsons Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 44,
   "ageYear": 2024

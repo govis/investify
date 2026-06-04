@@ -2,24 +2,84 @@
   "id": "Frank Calderoni",
   "name": "Frank Calderoni",
   "background": "Former Chairman and CEO of Anaplan, Inc. Director since 2012.",
-  "pictureUrl": null,
+  "pictureUrl": "/managers-assets/Frank Calderoni.jpg",
   "companies": [
     {
       "name": "Adobe Inc.",
       "ticker": "ADBE",
       "exchange": "NASDAQ",
       "website": "https://www.adobe.com",
-      "title": "Independent Director",
-      "startDate": "2012-05-01",
+      "logoUrl": "/companies-assets/ADBE.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2018",
       "endDate": null,
-      "formattedStartDate": "2012 May",
+      "formattedStartDate": "2018",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Anaplan, Inc.",
+      "ticker": "PLAN",
+      "exchange": "NYSE",
+      "website": "https://www.anaplan.com",
+      "logoUrl": "/companies-assets/PLAN.NYSE.png",
+      "title": "CEO and President",
+      "startDate": "2017",
+      "endDate": "2022",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Red Hat, Inc.",
+      "ticker": "RHT",
+      "exchange": "NYSE",
+      "website": "https://www.redhat.com",
+      "logoUrl": "/companies-assets/RHT.NYSE.svg",
+      "title": "EVP, Operations and CFO",
+      "startDate": "2015",
+      "endDate": "2017",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "website": "https://www.cisco.com",
+      "logoUrl": "/companies-assets/CSCO.NASDAQ.svg",
+      "title": "EVP and CFO",
+      "startDate": "2004",
+      "endDate": "2015",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "QLogic Corporation",
+      "ticker": "QLGC",
+      "exchange": "NASDAQ",
+      "website": "https://www.qlogic.com",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Logo_of_QLogic_Corporation.svg",
+      "title": "CFO",
+      "startDate": "1997",
+      "endDate": "2004",
+      "formattedStartDate": "1997",
+      "formattedEndDate": "2004"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/frankacalderoni",
+      "person_name": "Frank Calderoni",
+      "company_name": "Anaplan",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

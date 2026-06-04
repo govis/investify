@@ -6,20 +6,55 @@
   "age_year": 2024,
   "background": "Prabhakar Raghavan has served as Senior Vice President, Knowledge & Information at Google since June 2020. He previously served as Senior Vice President, Ads, Commerce and Payments from 2018 to 2020. Before joining Google in 2012, he was at Yahoo! Labs.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Alphabet Inc.",
+      "ticker": "GOOGL",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chief Technologist (formerly Senior Vice President, Knowledge & Information)",
+      "website": "https://abc.xyz",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Yahoo Inc.",
+      "ticker": "YHOO",
+      "exchange": "NASDAQ",
+      "website": "https://www.yahooinc.com",
+      "title_or_role": "Head of Yahoo! Labs / Senior Vice President",
+      "start_date": "2005",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Verity, Inc.",
+      "ticker": "VRTY",
+      "exchange": "NASDAQ",
+      "website": "https://www.verity.com",
+      "title_or_role": "Chief Technology Officer (CTO)",
+      "start_date": "2004",
+      "end_date": "2005",
+      "validated": true
+    },
+    {
+      "name": "International Business Machines Corporation (IBM)",
+      "ticker": "IBM",
+      "exchange": "NYSE",
+      "website": "https://www.ibm.com",
+      "title_or_role": "Research Staff Member / Manager",
+      "start_date": "1990",
+      "end_date": "2004",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI",
     "Defense"
   ],
   "socials": [],
   "committees": [],
-  "companies": [
-    {
-      "name": "Alphabet Inc.",
-      "ticker": "GOOGL",
-      "exchange": "NASDAQ",
-      "title_or_role": "Senior Vice President, Knowledge & Information",
-      "start_date": "2020-06-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

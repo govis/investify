@@ -9,18 +9,102 @@
       "ticker": "LRCX",
       "exchange": "NASDAQ",
       "website": "https://www.lamresearch.com",
+      "logoUrl": "/companies-assets/LRCX.NASDAQ.svg",
       "title": "Director",
-      "startDate": "2011-01-01",
+      "startDate": "February 2011",
       "endDate": null,
-      "formattedStartDate": "2011 January",
+      "formattedStartDate": "February 2011",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Seagate Technology Holdings plc",
+      "ticker": "STX",
+      "exchange": "NASDAQ",
+      "website": "https://www.seagate.com",
+      "logoUrl": "/companies-assets/STX.NASDAQ.svg",
+      "title": "Lead Independent Director",
+      "startDate": "Prior to 2013",
+      "endDate": null,
+      "formattedStartDate": "Prior to 2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Adobe Inc.",
+      "ticker": "ADBE",
+      "exchange": "NASDAQ",
+      "website": "https://www.adobe.com",
+      "logoUrl": "/companies-assets/ADBE.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "Prior to 2013",
+      "endDate": "Retired from board",
+      "formattedStartDate": "Prior to 2013",
+      "formattedEndDate": "Retired from board"
+    },
+    {
+      "name": "Dialog Semiconductor plc",
+      "ticker": "DLGN",
+      "exchange": "XETRA/LSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Director",
+      "startDate": "February 2013",
+      "endDate": "2021",
+      "formattedStartDate": "February 2013",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Solectron Corporation",
+      "ticker": "SLR",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "/companies-assets/SLR.NYSE.svg",
+      "title": "CEO",
+      "startDate": "2003",
+      "endDate": "2007",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2007"
+    },
+    {
+      "name": "Maxtor Corporation",
+      "ticker": "MXTR",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Maxtor_logo.svg/1280px-Maxtor_logo.svg.png",
+      "title": "CEO",
+      "startDate": "1996",
+      "endDate": "2003",
+      "formattedStartDate": "1996",
+      "formattedEndDate": "2003"
+    },
+    {
+      "name": "Dell Technologies Inc.",
+      "ticker": "DELL",
+      "exchange": "NYSE",
+      "website": "https://www.dell.com",
+      "logoUrl": "/companies-assets/DELL.NYSE.svg",
+      "title": "President of Global Operations",
+      "startDate": "2007",
+      "endDate": "2009",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2009"
     }
   ],
   "investmentTheses": [
     "AI",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michael-cannon-a8135711",
+      "person_name": "Michael Cannon",
+      "company_name": "Lam Research Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation and Human Resources Committee"
   ],

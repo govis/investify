@@ -6,19 +6,35 @@
   "age_year": null,
   "background": "Pol Le Roux joined Lynas in 2010 and is the Chief Operating Officer. He has over 30 years of experience in the rare earths industry, including senior roles in sales, marketing, and operations.",
   "picture_url": null,
-  "investment_theses": [
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Lynas Rare Earths Limited",
       "ticker": "LYC",
       "exchange": "ASX",
       "title_or_role": "Chief Operating Officer",
-      "start_date": "2022-01-01",
-      "end_date": null
+      "website": "https://lynasrareearths.com/",
+      "start_date": "October 2010",
+      "end_date": null,
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/pol-le-roux-9abaa3",
+      "person_name": "Pol Le Roux",
+      "company_name": "Lynas Rare Earths Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

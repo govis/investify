@@ -9,18 +9,42 @@
       "ticker": "CW",
       "exchange": "NYSE",
       "website": "https://www.curtisswright.com",
-      "title": "Independent Director",
-      "startDate": "2011-01-01",
+      "logoUrl": "/companies-assets/CW.NYSE.svg",
+      "title": "Director",
+      "startDate": "2012",
       "endDate": null,
-      "formattedStartDate": "2011 January",
+      "formattedStartDate": "2012",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Advanced Micro Devices, Inc. (AMD)",
+      "ticker": "AMD",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "logoUrl": "/companies-assets/AMD.NASDAQ.svg",
+      "title": "Executive Vice President, Chief Operations and Administrative Officer (formerly CFO)",
+      "startDate": "2004",
+      "endDate": "2011",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2011"
     }
   ],
   "investmentTheses": [
     "Defense",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/robert-rivet",
+      "person_name": "Robert Rivet",
+      "company_name": "Advanced Micro Devices, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Executive Compensation Committee"

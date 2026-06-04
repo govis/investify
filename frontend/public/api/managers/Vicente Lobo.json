@@ -7,19 +7,31 @@
     {
       "name": "Sigma Lithium Corporation",
       "ticker": "SGML",
-      "exchange": "NASDAQ",
-      "website": "https://www.sigmalithiumresources.com",
-      "title": "Independent Director",
-      "startDate": "2021-07-01",
+      "exchange": "NASDAQ / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Advisor / Chairman of the Board's Technical Committee",
+      "startDate": "2019",
       "endDate": null,
-      "formattedStartDate": "2021 July",
+      "formattedStartDate": "2019",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://br.linkedin.com/in/vicente-humberto-lobo-cruz-a82967175",
+      "person_name": "Vicente Humberto Lobo Cruz",
+      "company_name": "Sigma Lithium Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Technical Committee"
   ],

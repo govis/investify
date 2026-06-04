@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Revival Gold Inc.",
-      "ticker": "RVG",
+      "name": "Greenlane Renewables Inc.",
+      "ticker": "GRN",
       "exchange": "TSX",
-      "website": "https://revival-gold.com",
-      "title": "Independent Director",
-      "startDate": "2021-01-01",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Operating Officer / Chief Legal Officer",
+      "startDate": "2019",
+      "endDate": "2023",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Kuya Silver Corp.",
+      "ticker": "KUYA",
+      "exchange": "CSE",
+      "website": "https://kuyasilver.com/",
+      "logoUrl": "/companies-assets/KUYA.CSE.png",
+      "title": "Chairman / Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2021 January",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/mauralendon",
+      "person_name": "Maura Lendon",
+      "company_name": "Revival Gold Inc., Greenlane Renewables Inc., Kuya Silver Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation, Governance and Nominating Committee"

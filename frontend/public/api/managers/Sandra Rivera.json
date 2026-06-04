@@ -9,17 +9,53 @@
       "ticker": "EQIX",
       "exchange": "NASDAQ",
       "website": "https://www.equinix.com",
-      "title": "Independent Director",
-      "startDate": "2019-01-01",
+      "logoUrl": "/companies-assets/EQIX.NASDAQ.svg",
+      "title": "Board of Directors",
+      "startDate": "2019",
       "endDate": null,
-      "formattedStartDate": "2019 January",
+      "formattedStartDate": "2019",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "logoUrl": "/companies-assets/INTC.NASDAQ.svg",
+      "title": "Executive Vice President, Chief People Officer; EVP & GM Data Center and AI Group",
+      "startDate": "2000",
+      "endDate": "2024",
+      "formattedStartDate": "2000",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Altera (Intel spinout)",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Executive Officer",
+      "startDate": "2023",
+      "endDate": "2025",
+      "formattedStartDate": "2023",
+      "formattedEndDate": "2025"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sandra-rivera-6a24291",
+      "person_name": "Sandra Rivera",
+      "company_name": "Altera",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Governance Committee"
   ],

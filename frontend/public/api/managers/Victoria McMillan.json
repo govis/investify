@@ -5,22 +5,58 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Lahontan Gold Corp.",
-      "ticker": "LG",
+      "name": "Lundin Mining Corp.",
+      "ticker": "LUN",
       "exchange": "TSX",
-      "website": "https://lahontangoldcorp.com/",
+      "website": "https://www.lundinmining.com",
+      "logoUrl": "/companies-assets/LUN.TSX.svg",
       "title": "Director",
-      "startDate": "2023-06-15",
+      "startDate": "2025",
       "endDate": null,
-      "formattedStartDate": "2023 June",
+      "formattedStartDate": "2025",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Versamet Royalties Corp.",
+      "ticker": "VRMTD",
+      "exchange": "OTC",
+      "website": "https://versametroyalties.com",
+      "logoUrl": "/companies-assets/VRMTD.OTC.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Eclipse Gold Mining Corp.",
+      "ticker": "EGLD",
+      "exchange": "TSXV",
+      "website": "https://www.eclipsegoldmining.com",
+      "logoUrl": "https://www.eclipsegoldmining.com/site/templates/images/logo.png",
+      "title": "Chief Financial Officer",
+      "startDate": "2019",
+      "endDate": "2021",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2021"
     }
   ],
   "investmentTheses": [
     "Gold",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/victoria-mcmillan-cpa-ca-icd-d-6b293aaa",
+      "person_name": "Victoria McMillan",
+      "company_name": "Lundin Mining Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee"
   ],

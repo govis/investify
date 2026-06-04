@@ -9,18 +9,42 @@
       "ticker": "VRT",
       "exchange": "NYSE",
       "website": "https://www.vertiv.com",
-      "title": "Chief Technology Officer",
-      "startDate": "2021-02-01",
+      "logoUrl": "/companies-assets/VRT.NYSE.svg",
+      "title": "President, Asia-Pacific",
+      "startDate": "2016",
       "endDate": null,
-      "formattedStartDate": "2021 February",
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Emerson Electric Co.",
+      "ticker": "EMR",
+      "exchange": "NYSE",
+      "website": "https://www.emerson.com",
+      "logoUrl": "/companies-assets/EMR.NYSE.svg",
+      "title": "President, Emerson Network Power Asia Pacific",
+      "startDate": "2009",
+      "endDate": "2016",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2016"
     }
   ],
   "investmentTheses": [
     "AI",
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/stephen-liang-5a024a6",
+      "person_name": "Stephen Liang",
+      "company_name": "Vertiv",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 57,
   "ageYear": 2024

@@ -6,14 +6,27 @@
   "companies": [
     {
       "name": "Centerra Gold Inc.",
-      "ticker": "CGAU",
-      "exchange": "NYSE",
-      "website": "https://www.centerragold.com",
-      "title": "Director, President and Chief Executive Officer",
+      "ticker": "CG",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and Chief Executive Officer",
       "startDate": "2023-05-01",
       "endDate": null,
-      "formattedStartDate": "2023 May",
+      "formattedStartDate": "May 2023",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Kinross Gold Corporation",
+      "ticker": "K (TSX), KGC (NYSE)",
+      "exchange": "TSX, NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Vice President and Chief Technical Officer",
+      "startDate": "2009-01-01",
+      "endDate": "2023-04-01",
+      "formattedStartDate": "January 2009",
+      "formattedEndDate": "April 2023"
     }
   ],
   "investmentTheses": [

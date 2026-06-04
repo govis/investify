@@ -6,20 +6,44 @@
   "companies": [
     {
       "name": "Sandstorm Gold Ltd.",
-      "ticker": "SAND",
-      "exchange": "NYSE",
-      "website": "https://www.sandstormgold.com",
-      "title": "Independent Director",
-      "startDate": "2021-01-01",
+      "ticker": "TSX: SSL / NYSE: SAND",
+      "exchange": "Toronto Stock Exchange / New York Stock Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2017",
       "endDate": null,
-      "formattedStartDate": "2021 January",
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Arras Minerals Corp.",
+      "ticker": "TSX.V: ARRK / OTCQX: ARRKF",
+      "exchange": "TSX Venture Exchange / OTCQX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "March 3, 2022",
+      "endDate": null,
+      "formattedStartDate": "March 3, 2022",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/vera-kobalia-gcb-d-01ab6976",
+      "person_name": "Vera Kobalia",
+      "company_name": "Sandstorm Gold Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee"
   ],

@@ -6,23 +6,59 @@
   "age_year": 2024,
   "background": "Mr. Stevenson is a senior mining executive with over 40 years of experience. He was a founding partner of Bedrock Resources and SOS Investors and held various senior positions at Rio Tinto.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Vista Gold Corp.",
+      "ticker": "VGZ",
+      "exchange": "NYSE American / TSX",
+      "title_or_role": "Director (Chair since April 2023)",
+      "website": "https://vistagold.com",
+      "start_date": "2007",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Quaterra Resources Inc.",
+      "ticker": "QTA",
+      "exchange": "TSX.V",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "July 2007",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "Uranium Resources Inc. (now Westwater Resources, Inc.)",
+      "ticker": "WWR",
+      "exchange": "NYSE American",
+      "website": "https://www.westwaterresources.net",
+      "title_or_role": "Director",
+      "start_date": "December 2013",
+      "end_date": "July 2017",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Gold",
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/tracy-stevenson-b639272a",
+      "person_name": "Tracy Stevenson",
+      "company_name": "Vista Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"
   ],
-  "companies": [
-    {
-      "name": "Vista Gold Corp.",
-      "ticker": "VGZ",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2007-11-01",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

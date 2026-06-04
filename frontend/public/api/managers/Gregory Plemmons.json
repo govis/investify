@@ -9,17 +9,29 @@
       "ticker": "ODFL",
       "exchange": "NASDAQ",
       "website": "https://www.odfl.com",
+      "logoUrl": "/companies-assets/ODFL.NASDAQ.png",
       "title": "Executive Vice President and Chief Operating Officer",
-      "startDate": "2024-07-01",
+      "startDate": "2023",
       "endDate": null,
-      "formattedStartDate": "2024 July",
+      "formattedStartDate": "2023",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/greg-plemmons-4a5a5a1a",
+      "person_name": "Gregory Plemmons",
+      "company_name": "Old Dominion Freight Line, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 56,
   "ageYear": 2024

@@ -9,11 +9,36 @@
       "ticker": "NVDA",
       "exchange": "NASDAQ",
       "website": "https://www.nvidia.com",
-      "title": "Independent Director",
-      "startDate": "2013-01-01",
+      "logoUrl": "/companies-assets/NVDA.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2013",
       "endDate": null,
-      "formattedStartDate": "2013 January",
+      "formattedStartDate": "2013",
       "formattedEndDate": ""
+    },
+    {
+      "name": "The Interpublic Group of Companies, Inc.",
+      "ticker": "IPG",
+      "exchange": "NYSE",
+      "website": "interpublic.com",
+      "logoUrl": "/companies-assets/IPG.NYSE.svg",
+      "title": "Director",
+      "startDate": "2011",
+      "endDate": null,
+      "formattedStartDate": "2011",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Modern Times Group MTG AB",
+      "ticker": "MTG-B",
+      "exchange": "STO",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": "2023",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2023"
     }
   ],
   "investmentTheses": [
@@ -21,7 +46,18 @@
     "Defense",
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dawn-hudson1",
+      "person_name": "Dawn Hudson",
+      "company_name": "NVIDIA Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee"
   ],

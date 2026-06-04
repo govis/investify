@@ -6,22 +6,48 @@
   "age_year": 2024,
   "background": "CEO of GSK plc.",
   "picture_url": null,
-  "investment_theses": [
-    "AI",
-    "Defense"
-  ],
-  "socials": [],
-  "committees": [
-    "Compensation Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Microsoft Corporation",
       "ticker": "MSFT",
       "exchange": "NASDAQ",
-      "title_or_role": "Independent Director",
-      "start_date": "2019-12-01",
-      "end_date": null
+      "title_or_role": "Director",
+      "website": "https://www.microsoft.com",
+      "start_date": "2019-12-11",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "GSK plc",
+      "ticker": "GSK",
+      "exchange": "LSE",
+      "website": "https://www.gsk.com",
+      "title_or_role": "Director",
+      "start_date": "2017-01-01",
+      "end_date": "2025-12-31",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/emmawalmsleygsk",
+      "person_name": "Emma Walmsley",
+      "company_name": "GSK",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

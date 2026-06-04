@@ -6,28 +6,55 @@
   "age_year": 2024,
   "background": "Mr. Himbeault is the Vice President, Operations and Regulatory Affairs. He has over 25 years of experience in the mining industry, with a focus on environmental management, regulatory compliance, and operations in the uranium sector.",
   "picture_url": null,
-  "investment_theses": [
-    "Nuclear",
-    "Reshoring"
-  ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Denison Mines Corp.",
-      "ticker": "DNN",
-      "exchange": "NYSE",
-      "title_or_role": "Vice President, Operations and Regulatory Affairs",
-      "start_date": "2022-01-01",
-      "end_date": null
+      "ticker": "DML",
+      "exchange": "TSX",
+      "title_or_role": "Vice President, Operations & Regulatory Affairs",
+      "website": "https://denisonmines.com/",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
     },
     {
       "name": "Denison Mines Corp.",
       "ticker": "DNN",
       "exchange": "TSX",
       "title_or_role": "Vice President, Operations and Regulatory Affairs",
+      "website": "https://denisonmines.com",
       "start_date": "2022-01-01",
       "end_date": null
+    },
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCO",
+      "exchange": "TSX",
+      "website": "https://www.cameco.com/",
+      "title_or_role": "Manager, Maintenance & Operations",
+      "start_date": "2004",
+      "end_date": "2022",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/kevin-himbeault-78a33093",
+      "person_name": "Kevin Himbeault",
+      "company_name": "Denison Mines Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

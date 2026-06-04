@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Dundee Precious Metals Inc.",
-      "ticker": "DPM",
+      "name": "Teranga Gold Corporation",
+      "ticker": "TGZ",
       "exchange": "TSX",
-      "website": "https://www.dundeeprecious.com",
+      "website": "https://terangagold.com",
+      "logoUrl": "/companies-assets/TGZ.TSX.png",
+      "title": "Senior Vice President and Chief Financial Officer",
+      "startDate": "2016",
+      "endDate": "2021",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Galiano Gold Inc.",
+      "ticker": "GAU",
+      "exchange": "TSX",
+      "website": "https://www.galianogold.com",
+      "logoUrl": "/companies-assets/GAU.TSX.svg",
       "title": "Chief Financial Officer",
-      "startDate": "2022-01-01",
-      "endDate": null,
-      "formattedStartDate": "2022 January",
-      "formattedEndDate": ""
+      "startDate": "2021",
+      "endDate": "2023",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2023"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/navin-dyal",
+      "person_name": "Navin Dyal",
+      "company_name": "Dundee Precious Metals Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 48,
   "ageYear": 2024

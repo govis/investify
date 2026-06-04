@@ -9,11 +9,48 @@
       "ticker": "GM",
       "exchange": "NYSE",
       "website": "https://www.gm.com",
-      "title": "Independent Director",
-      "startDate": "2015-06-09",
+      "logoUrl": "/companies-assets/GM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2015",
       "endDate": null,
-      "formattedStartDate": "2015 June",
+      "formattedStartDate": "2015",
       "formattedEndDate": ""
+    },
+    {
+      "name": "The Procter & Gamble Company",
+      "ticker": "PG",
+      "exchange": "NYSE",
+      "website": "https://www.pg.com",
+      "logoUrl": "/companies-assets/PG.NYSE.svg",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Novartis AG",
+      "ticker": "NVS",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "CEO",
+      "startDate": "2010",
+      "endDate": "2018",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Graphite Bio, Inc.",
+      "ticker": "GRPH",
+      "exchange": "NASDAQ",
+      "website": "graphitebio.com",
+      "logoUrl": "/companies-assets/GRPH.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": "2023",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2023"
     }
   ],
   "investmentTheses": [

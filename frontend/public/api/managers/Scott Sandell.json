@@ -5,21 +5,45 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Cloudflare, Inc.",
-      "ticker": "NET",
+      "name": "Coursera, Inc.",
+      "ticker": "COUR",
       "exchange": "NYSE",
-      "website": "https://www.cloudflare.com",
-      "title": "Lead Independent Director",
-      "startDate": "2012-12-01",
+      "website": "https://www.coursera.org",
+      "logoUrl": "/companies-assets/COUR.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "April 2012",
       "endDate": null,
-      "formattedStartDate": "2012 December",
+      "formattedStartDate": "April 2012",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Tableau Software, Inc.",
+      "ticker": "DATA",
+      "exchange": "NYSE",
+      "website": "https://www.tableau.com",
+      "logoUrl": "/companies-assets/DATA.NYSE.svg",
+      "title": "Member, Board of Directors / Lead Independent Director",
+      "startDate": "2004",
+      "endDate": "May 2015",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "May 2015"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/scottsandell",
+      "person_name": "Scott Sandell",
+      "company_name": "NEA",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee",
     "Nominating and Corporate Governance Committee"

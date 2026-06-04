@@ -9,17 +9,65 @@
       "ticker": "CS",
       "exchange": "TSX",
       "website": "https://capstonecopper.com",
-      "title": "Independent Director",
-      "startDate": "2016-01-01",
+      "logoUrl": "/companies-assets/CS.TSX.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": "2024-05-30",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "May 2024"
+    },
+    {
+      "name": "New Gold Inc.",
+      "ticker": "NGD",
+      "exchange": "TSX",
+      "website": "newgold.com",
+      "logoUrl": "/companies-assets/NGD.TSX.svg",
+      "title": "President & CEO",
+      "startDate": "2007",
+      "endDate": "2016",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Yamana Gold Inc.",
+      "ticker": "YRI",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": "2023",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Southern Arc Minerals Inc.",
+      "ticker": "SA",
+      "exchange": "TSXV",
+      "website": "southernarcminerals.com",
+      "logoUrl": "/companies-assets/SA.TSXV.svg",
+      "title": "Director",
+      "startDate": null,
       "endDate": null,
-      "formattedStartDate": "2016 January",
+      "formattedStartDate": "",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Electrification"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bob-gallagher-b18754a",
+      "person_name": "Bob Gallagher",
+      "company_name": "New Gold Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Human Resources and Compensation Committee",
     "Technical and Operational Performance Committee"

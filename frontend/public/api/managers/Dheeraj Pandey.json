@@ -2,24 +2,47 @@
   "id": "Dheeraj Pandey",
   "name": "Dheeraj Pandey",
   "background": "Co-founder and CEO of DevRev. Former CEO of Nutanix. Director since 2021.",
-  "pictureUrl": null,
+  "pictureUrl": "/managers-assets/Dheeraj Pandey.jpg",
   "companies": [
     {
       "name": "Adobe Inc.",
       "ticker": "ADBE",
       "exchange": "NASDAQ",
       "website": "https://www.adobe.com",
-      "title": "Independent Director",
-      "startDate": "2021-03-01",
+      "logoUrl": "/companies-assets/ADBE.NASDAQ.svg",
+      "title": "Director (Board of Directors)",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2021 March",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Nutanix, Inc.",
+      "ticker": "NTNX",
+      "exchange": "NASDAQ",
+      "website": "https://www.nutanix.com",
+      "logoUrl": "/companies-assets/NTNX.NASDAQ.svg",
+      "title": "Co-founder, Chief Executive Officer, and Chairman",
+      "startDate": "2009",
+      "endDate": "2020",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2020"
     }
   ],
   "investmentTheses": [
     "AI"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dpandey",
+      "person_name": "Dheeraj Pandey",
+      "company_name": "DevRev",
+      "potential_picture_url": null,
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/C5603AQF43vWj2J_WZA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1608678249767?e=2147483647&v=beta&t=07oQ-tC0q4b-8e-kH9qR-25eT-Yq2VvYf-u8Yh3_G3M",
+      "picture_url_li_search": "https://assets.website-files.com/606cae0c4e05dc45295b04a7/606cae0c4e05dc6dab5b0994_5ff2b148c8595f12edbb2010_5f30fbf9fe54f0d64e950c02_41_dheeraj%25252520pandey-p-500.png"
+    }
+  ],
   "committees": [
     "Governance and Sustainability Committee"
   ],

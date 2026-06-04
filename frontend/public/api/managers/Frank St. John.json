@@ -9,17 +9,29 @@
       "ticker": "LMT",
       "exchange": "NYSE",
       "website": "https://www.lockheedmartin.com",
-      "title": "Chief Operating Officer",
-      "startDate": "2020-06-15",
-      "endDate": null,
-      "formattedStartDate": "2020 June",
-      "formattedEndDate": ""
+      "logoUrl": "/companies-assets/LMT.NYSE.svg",
+      "title": "Executive Vice President",
+      "startDate": "August 2018",
+      "endDate": "June 2020",
+      "formattedStartDate": "August 2018",
+      "formattedEndDate": "June 2020"
     }
   ],
   "investmentTheses": [
     "Defense"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/frank-st-john",
+      "person_name": "Frank St. John",
+      "company_name": "Lockheed Martin Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": 57,
   "ageYear": 2024

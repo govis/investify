@@ -6,6 +6,28 @@
   "age_year": 2024,
   "background": "Retired Deputy Head of Risk Management at JPMorgan Chase. Former Vice Chair of Bank One Corporation.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "ticker": "JPM",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.jpmorganchase.com",
+      "start_date": "2013-09-16",
+      "end_date": null
+    },
+    {
+      "name": "Federal Home Loan Mortgage Corporation (Freddie Mac)",
+      "ticker": "FMCC",
+      "exchange": "OTC",
+      "website": "https://www.freddiemac.com",
+      "title_or_role": "Director",
+      "start_date": "2008",
+      "end_date": "2013",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "AI",
     "Electrification"
@@ -15,14 +37,6 @@
     "Directors' Risk Policy Committee (Chair)",
     "Regulatory Compliance & Public Responsibility Committee"
   ],
-  "companies": [
-    {
-      "name": "JPMorgan Chase & Co.",
-      "ticker": "JPM",
-      "exchange": "NYSE",
-      "title_or_role": "Independent Director",
-      "start_date": "2013-09-16",
-      "end_date": null
-    }
-  ]
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
 }

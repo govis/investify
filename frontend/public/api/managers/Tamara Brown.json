@@ -9,17 +9,65 @@
       "ticker": "OLA",
       "exchange": "TSX",
       "website": "https://www.orlamining.com",
-      "title": "Independent Director",
-      "startDate": "2022-04-01",
+      "logoUrl": "/companies-assets/OLA.TSX.svg",
+      "title": "Director",
+      "startDate": "2020",
       "endDate": null,
-      "formattedStartDate": "2022 April",
+      "formattedStartDate": "2020",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Lithium Royalty Corp.",
+      "ticker": "LIRC",
+      "exchange": "TSX",
+      "website": "lithiumroyaltycorp.com",
+      "logoUrl": "/companies-assets/LIRC.TSX.svg",
+      "title": "Independent Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "New Found Gold Corp.",
+      "ticker": "NFGC",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "29Metals Limited",
+      "ticker": "29M",
+      "exchange": "ASX",
+      "website": "https://www.29metals.com/",
+      "logoUrl": "/companies-assets/29M.ASX.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2023-04-17",
+      "endDate": "2024",
+      "formattedStartDate": "April 2023",
+      "formattedEndDate": "2024"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/tamara-brown-19a20434",
+      "person_name": "Tamara Brown",
+      "company_name": "Orla Mining Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Compensation Committee (Chair)",
     "Environmental, Sustainability, Health & Safety Committee"

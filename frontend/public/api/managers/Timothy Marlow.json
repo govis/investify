@@ -5,14 +5,15 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Platinum Group Metals Ltd.",
-      "ticker": "PTM",
-      "exchange": "NYSE",
-      "website": "https://www.platinumgroupmetals.net",
+      "name": "Alcon Silver Corp.",
+      "ticker": "N/A",
+      "exchange": "Private",
+      "website": null,
+      "logoUrl": null,
       "title": "Independent Director",
-      "startDate": "2014-01-01",
+      "startDate": "2016",
       "endDate": null,
-      "formattedStartDate": "2014 January",
+      "formattedStartDate": "2016",
       "formattedEndDate": ""
     }
   ],

@@ -2,24 +2,108 @@
   "id": "Andrew Langham",
   "name": "Andrew Langham",
   "background": "General Counsel of Icahn Enterprises L.P.",
-  "pictureUrl": null,
+  "pictureUrl": "/managers-assets/Andrew Langham.jpg",
   "companies": [
     {
       "name": "Cheniere Energy, Inc.",
       "ticker": "LNG",
       "exchange": "NYSE",
       "website": "https://www.cheniere.com",
-      "title": "Independent Director",
-      "startDate": "2016-08-22",
+      "logoUrl": "/companies-assets/LNG.NYSE.svg",
+      "title": "Director",
+      "startDate": "2018",
       "endDate": null,
-      "formattedStartDate": "2016 August",
+      "formattedStartDate": "2018",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Freeport-McMoRan Inc.",
+      "ticker": "FCX",
+      "exchange": "NYSE",
+      "website": "https://www.fcx.com",
+      "logoUrl": "/companies-assets/FCX.NYSE.svg",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": "2020",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Icahn Enterprises L.P.",
+      "ticker": "IEP",
+      "exchange": "NASDAQ",
+      "website": "https://www.ielp.com",
+      "logoUrl": "https://www.ielp.com/images/logo.png",
+      "title": "General Counsel",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Occidental Petroleum Corporation",
+      "ticker": "OXY",
+      "exchange": "NYSE",
+      "website": "https://www.oxy.com",
+      "logoUrl": "/companies-assets/OXY.NYSE.svg",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": "2021",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "CVR Energy, Inc.",
+      "ticker": "CVI",
+      "exchange": "NYSE",
+      "website": "https://www.cvrenergy.com",
+      "logoUrl": "/companies-assets/CVI.NYSE.png",
+      "title": "Director",
+      "startDate": "2012",
+      "endDate": "2020",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "CVR Partners, LP",
+      "ticker": "UAN",
+      "exchange": "NYSE",
+      "website": "https://www.cvrpartners.com",
+      "logoUrl": "/companies-assets/UAN.NYSE.png",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": "2020",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "CVR Refining, LP",
+      "ticker": "CVRR",
+      "exchange": "NYSE",
+      "website": "https://www.cvrenergy.com",
+      "logoUrl": "/companies-assets/CVRR.NYSE.png",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": "2019",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2019"
     }
   ],
   "investmentTheses": [
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/andrew-langham-9a17a5b3/",
+      "person_name": "Andrew Langham",
+      "company_name": "Icahn Enterprises L.P.",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
   "committees": [
     "Audit Committee",
     "Compensation Committee"

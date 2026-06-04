@@ -6,20 +6,46 @@
   "age_year": 2024,
   "background": "Dr. Elif Balkas joined Wolfspeed in 2006 and has served as Chief Technology Officer since 2022. She previously served as Vice President of R&D and has held various leadership roles in the company's materials and power business units.",
   "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Wolfspeed, Inc.",
+      "ticker": "WOLF",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chief Technology Officer",
+      "website": "https://www.wolfspeed.com",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Wolfspeed, Inc. (formerly Cree, Inc.)",
+      "ticker": "WOLF (formerly CREE)",
+      "exchange": "NASDAQ",
+      "website": "https://www.wolfspeed.com",
+      "title_or_role": "Various roles including Director of Research and Development, Materials",
+      "start_date": "2006",
+      "end_date": "2023",
+      "validated": true
+    }
+  ],
   "investment_theses": [
     "Electrification",
     "Reshoring"
   ],
-  "socials": [],
-  "committees": [],
-  "companies": [
+  "socials": [
     {
-      "name": "Wolfspeed, Inc.",
-      "ticker": "WOLF",
-      "exchange": "NYSE",
-      "title_or_role": "Chief Technology Officer",
-      "start_date": "2022-01-01",
-      "end_date": null
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/elifbalkas",
+      "person_name": "Elif Balkas",
+      "company_name": "Wolfspeed",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
     }
-  ]
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

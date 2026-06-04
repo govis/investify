@@ -9,17 +9,65 @@
       "ticker": "VGCX",
       "exchange": "TSX",
       "website": "https://vgcx.com",
+      "logoUrl": "/companies-assets/VGCX.TSX.svg",
       "title": "Independent Director",
-      "startDate": "2007-07-31",
+      "startDate": "2011",
       "endDate": null,
-      "formattedStartDate": "2007 July",
+      "formattedStartDate": "2011",
       "formattedEndDate": ""
+    },
+    {
+      "name": "Kinross Gold Corp.",
+      "ticker": "K",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Treasurer & Senior Vice President",
+      "startDate": "2006",
+      "endDate": "2010",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2010"
+    },
+    {
+      "name": "Aecon Group, Inc.",
+      "ticker": "ARE",
+      "exchange": "TSX",
+      "website": "https://www.aecon.com",
+      "logoUrl": "/companies-assets/ARE.TSX.svg",
+      "title": "Treasurer",
+      "startDate": "2011",
+      "endDate": "2016",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Barrick Gold Corp.",
+      "ticker": "GOLD",
+      "exchange": "NYSE",
+      "website": "https://www.barrick.com",
+      "logoUrl": "/companies-assets/GOLD.NYSE.svg",
+      "title": "Treasury Manager",
+      "startDate": "1998",
+      "endDate": "1998",
+      "formattedStartDate": "1998",
+      "formattedEndDate": "1998"
     }
   ],
   "investmentTheses": [
     "Gold"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/christopher-hill-3a5385",
+      "person_name": "Christopher Hill",
+      "company_name": "Victoria Gold Corp., Kinross Gold Corp., Aecon Group, Inc., Barrick Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/C4D03AQEqeTgz9_Nuqw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516901769495?e=2147483647&v=beta&t=smrXjPw_tBvHtbCY_0THgbT6n7OGgGQ6F7aUYHy_1H0",
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit Committee (Chair)",
     "Corporate Governance and Nominating Committee"

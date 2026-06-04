@@ -6,22 +6,77 @@
   "age_year": 2024,
   "background": "Mr. Flatley has served as a member of our Board since 2021. He is the former Chairman and CEO of Illumina, Inc.",
   "picture_url": null,
-  "investment_theses": [
-    "Electrification"
-  ],
-  "socials": [],
-  "committees": [
-    "Audit Committee",
-    "Compensation Committee"
-  ],
-  "companies": [
+  "picture_local": null,
+  "company_affiliations": [
     {
       "name": "Rivian Automotive, Inc.",
       "ticker": "RIVN",
       "exchange": "NASDAQ",
       "title_or_role": "Independent Director",
+      "website": "https://rivian.com",
       "start_date": "2021-01-01",
       "end_date": null
+    },
+    {
+      "name": "Illumina, Inc.",
+      "ticker": "ILMN",
+      "exchange": "NASDAQ",
+      "website": "https://www.illumina.com",
+      "title_or_role": "President and CEO (1999\u20132016), Executive Chairman (2016\u20132019), Chairman of the Board (2019\u20132021)",
+      "start_date": "1999",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Denali Therapeutics Inc.",
+      "ticker": "DNLI",
+      "exchange": "NASDAQ",
+      "website": "https://www.denalitherapeutics.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Coherent, Inc.",
+      "ticker": "COHR",
+      "exchange": "NYSE",
+      "website": "https://www.coherent.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2011",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Molecular Dynamics, Inc.",
+      "ticker": "MDYN",
+      "exchange": "NASDAQ",
+      "website": "N/A",
+      "title_or_role": "President and CEO",
+      "start_date": "1994",
+      "end_date": "1998",
+      "validated": true
     }
-  ]
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jay-flatley-0b35a164",
+      "person_name": "Jay Flatley",
+      "company_name": "Illumina, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
 }

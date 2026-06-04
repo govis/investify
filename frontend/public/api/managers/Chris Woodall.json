@@ -7,13 +7,38 @@
     {
       "name": "Perseus Mining Limited",
       "ticker": "PRU",
-      "exchange": "ASX",
-      "website": "https://perseusmining.com/",
+      "exchange": "ASX, TSX",
+      "website": null,
+      "logoUrl": null,
       "title": "Chief Operating Officer",
-      "startDate": "2016-01-01",
-      "endDate": null,
-      "formattedStartDate": "2016 January",
-      "formattedEndDate": ""
+      "startDate": "2016-09-01",
+      "endDate": "2023-06-30",
+      "formattedStartDate": "September 2016",
+      "formattedEndDate": "June 2023"
+    },
+    {
+      "name": "Goldcorp Inc.",
+      "ticker": "G",
+      "exchange": "NYSE, TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Vice President, Canada and US Operations",
+      "startDate": "2013-01-01",
+      "endDate": "2016-12-31",
+      "formattedStartDate": "January 2013",
+      "formattedEndDate": "December 2016"
+    },
+    {
+      "name": "Barrick Gold Corporation",
+      "ticker": "GOLD, ABX",
+      "exchange": "NYSE, TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Global Director Mining - Operations Support",
+      "startDate": "2000-01-01",
+      "endDate": "2012-12-31",
+      "formattedStartDate": "January 2000",
+      "formattedEndDate": "December 2012"
     }
   ],
   "investmentTheses": [

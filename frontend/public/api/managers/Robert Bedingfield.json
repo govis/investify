@@ -7,13 +7,26 @@
     {
       "name": "Science Applications International Corporation",
       "ticker": "SAIC",
-      "exchange": "NASDAQ",
-      "website": "https://www.saic.com",
-      "title": "Independent Director",
-      "startDate": "2013-09-27",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director / Chairman of the Audit Committee",
+      "startDate": "2013",
       "endDate": null,
-      "formattedStartDate": "2013 September",
+      "formattedStartDate": "2013",
       "formattedEndDate": ""
+    },
+    {
+      "name": "GeoPark Limited",
+      "ticker": "GPRK",
+      "exchange": "NYSE",
+      "website": "https://www.geo-park.com",
+      "logoUrl": "/companies-assets/GPRK.NYSE.svg",
+      "title": "Independent Non-Executive Director / Chair of the Audit Committee",
+      "startDate": "March 2015",
+      "endDate": "2022",
+      "formattedStartDate": "March 2015",
+      "formattedEndDate": "2022"
     }
   ],
   "investmentTheses": [

@@ -5,36 +5,27 @@
   "pictureUrl": null,
   "companies": [
     {
-      "name": "Freeport-McMoRan Inc.",
-      "ticker": "FCX",
+      "name": "United Parcel Service, Inc.",
+      "ticker": "UPS",
       "exchange": "NYSE",
-      "website": "https://www.fcx.com",
+      "website": "https://www.ups.com",
+      "logoUrl": "/companies-assets/UPS.NYSE.svg",
+      "title": "Chairman of the Board",
+      "startDate": "2016",
+      "endDate": "2020",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Target Corporation",
+      "ticker": "TGT",
+      "exchange": "NYSE",
+      "website": "https://www.target.com",
+      "logoUrl": "/companies-assets/TGT.NYSE.svg",
       "title": "Director",
-      "startDate": "2021-01-01",
+      "startDate": "2021",
       "endDate": null,
-      "formattedStartDate": "2021 January",
-      "formattedEndDate": ""
-    },
-    {
-      "name": "Northrop Grumman Corporation",
-      "ticker": "NOC",
-      "exchange": "NYSE",
-      "website": "https://www.northropgrumman.com",
-      "title": "Independent Director",
-      "startDate": "2020-01-01",
-      "endDate": null,
-      "formattedStartDate": "2020 January",
-      "formattedEndDate": ""
-    },
-    {
-      "name": "The Southern Company",
-      "ticker": "SO",
-      "exchange": "NYSE",
-      "website": "https://www.southerncompany.com",
-      "title": "Independent Director",
-      "startDate": "2020-10-01",
-      "endDate": null,
-      "formattedStartDate": "2020 October",
+      "formattedStartDate": "2021",
       "formattedEndDate": ""
     }
   ],
@@ -44,7 +35,18 @@
     "Nuclear",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/davidabneyups",
+      "person_name": "David Abney",
+      "company_name": "United Parcel Service",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Audit",
     "Audit Committee",

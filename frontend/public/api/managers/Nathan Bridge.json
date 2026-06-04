@@ -7,19 +7,43 @@
     {
       "name": "CanAlaska Uranium Ltd.",
       "ticker": "CVV",
-      "exchange": "TSX",
+      "exchange": "TSXV",
       "website": "https://canalaska.com/",
+      "logoUrl": "/companies-assets/CVV.TSXV.png",
       "title": "Vice President, Exploration",
-      "startDate": "2021-01-01",
+      "startDate": "2022",
       "endDate": null,
-      "formattedStartDate": "2021 January",
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Maxus Mining Corp.",
+      "ticker": "MAXS",
+      "exchange": "CSE",
+      "website": "https://maxusmining.com/",
+      "logoUrl": "/companies-assets/MAXS.CSE.png",
+      "title": "Technical Advisor",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
       "formattedEndDate": ""
     }
   ],
   "investmentTheses": [
     "Nuclear"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/nathan-bridge-p-geo-msc-28186073",
+      "person_name": "Nathan Bridge",
+      "company_name": "CanAlaska Uranium Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [],
   "age": null,
   "ageYear": null

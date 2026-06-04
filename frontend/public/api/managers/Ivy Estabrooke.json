@@ -9,10 +9,35 @@
       "ticker": "UUUU",
       "exchange": "NYSE",
       "website": "https://www.energyfuels.com",
-      "title": "Independent Director",
-      "startDate": "2023-01-01",
+      "logoUrl": "/companies-assets/UUUU.NYSE.svg",
+      "title": "Director",
+      "startDate": "2022-01-25",
+      "endDate": "2026-04-13",
+      "formattedStartDate": "January 2022",
+      "formattedEndDate": "April 2026"
+    },
+    {
+      "name": "Rare Earths Americas Inc.",
+      "ticker": "REA",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2026-04-13",
       "endDate": null,
-      "formattedStartDate": "2023 January",
+      "formattedStartDate": "April 2026",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "URZ3 Energy Corp.",
+      "ticker": "URZ3",
+      "exchange": "TSXV",
+      "website": "https://www.urz3.com",
+      "logoUrl": "/companies-assets/URZ3.TSXV.png",
+      "title": "Director",
+      "startDate": "2026-04-13",
+      "endDate": null,
+      "formattedStartDate": "April 2026",
       "formattedEndDate": ""
     }
   ],
@@ -20,7 +45,18 @@
     "Nuclear",
     "Reshoring"
   ],
-  "socials": [],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ivyestabrooke",
+      "person_name": "Ivy Estabrooke",
+      "company_name": "Energy Fuels Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
   "committees": [
     "Environment, Health and Safety Committee",
     "Governance and Nominating Committee"
