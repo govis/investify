@@ -55,6 +55,12 @@ if (!fs.existsSync(ASSETS_DIR)) fs.mkdirSync(ASSETS_DIR, { recursive: true });
 if (!fs.existsSync(COMPANIES_ASSETS_DIR)) fs.mkdirSync(COMPANIES_ASSETS_DIR, { recursive: true });
 if (!fs.existsSync(MANAGERS_ASSETS_DIR)) fs.mkdirSync(MANAGERS_ASSETS_DIR, { recursive: true });
 
+// Windows reserved filenames helper
+function getSafeFilename(name) {
+  const reserved = /^(CON|PRN|AUX|NUL|COM[1-9]|LPT[1-9])(\..*)?$/i;
+  return reserved.test(name) ? `_${name}` : name;
+}
+
 const COMPANIES_OUTPUT_DIR = path.join(OUTPUT_DIR, 'companies');
 if (!fs.existsSync(COMPANIES_OUTPUT_DIR)) fs.mkdirSync(COMPANIES_OUTPUT_DIR, { recursive: true });
 
@@ -102,7 +108,7 @@ async function processCompanies() {
             const localLogoPath = path.join(COMPANIES_DIR, folderName, profile.logo_local);
             if (fs.existsSync(localLogoPath)) {
               const extension = path.extname(profile.logo_local);
-              const targetLogoName = `${folderName}${extension}`;
+              const targetLogoName = getSafeFilename(`${folderName}${extension}`);
               const targetLogoPath = path.join(COMPANIES_ASSETS_DIR, targetLogoName);
               fs.copyFileSync(localLogoPath, targetLogoPath);
               logoUrl = `/companies-assets/${targetLogoName}`;
