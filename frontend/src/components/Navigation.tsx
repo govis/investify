@@ -15,7 +15,7 @@ const Navigation: React.FC = () => {
   ];
 
   return (
-    <nav style={{ position: 'fixed', top: '24px', left: '24px', zIndex: 1000 }}>
+    <nav className="nav-container">
       <button 
         onClick={toggleMenu}
         style={{
@@ -32,7 +32,7 @@ const Navigation: React.FC = () => {
         }}
         aria-label="Toggle Menu"
       >
-        {isOpen ? <X size={24} /> : <Menu size={24} />}
+        {isOpen ? <X size={24} color="#333" /> : <Menu size={24} color="#333" />}
       </button>
 
       {isOpen && (
@@ -53,7 +53,7 @@ const Navigation: React.FC = () => {
           <div style={{
             position: 'absolute',
             top: '48px',
-            left: 0,
+            right: 0,
             background: '#fff',
             border: '1px solid #ddd',
             borderRadius: '12px',

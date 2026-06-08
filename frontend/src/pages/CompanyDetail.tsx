@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useParams, Link, useNavigate } from 'react-router-dom';
 import { ChevronLeft } from 'lucide-react';
+import Navigation from '../components/Navigation';
 
 interface InvestmentThesis {
   thesis_name: string;
@@ -63,13 +64,16 @@ const CompanyDetail: React.FC = () => {
     : company.tabs?.find(t => t.label === activeTab)?.content || '';
 
   return (
-    <div style={{ padding: '24px', maxWidth: '900px', margin: '0 auto', textAlign: 'left' }}>
-      <Link to="/companies" style={{ display: 'flex', alignItems: 'center', color: '#666', marginBottom: '24px', textDecoration: 'none' }}>
-        <ChevronLeft size={20} />
-        All Companies
-      </Link>
+    <div style={{ padding: '24px', maxWidth: '900px', margin: '0 auto', textAlign: 'left', position: 'relative' }}>
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginTop: '16px', marginBottom: '24px' }}>
+        <Link to="/companies" style={{ display: 'flex', alignItems: 'center', color: '#666', textDecoration: 'none' }}>
+          <ChevronLeft size={20} />
+          All Companies
+        </Link>
+        <Navigation />
+      </div>
 
-      <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', marginBottom: '32px' }}>
+      <div className="manager-header" style={{ marginBottom: '32px' }}>
         <div>
           <h1 style={{ 
             textAlign: 'left', 

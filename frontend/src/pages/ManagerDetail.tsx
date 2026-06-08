@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { ChevronLeft, User, ExternalLink, Calendar, Briefcase } from 'lucide-react';
+import Navigation from '../components/Navigation';
 
 const LinkedInIcon = ({ size = 28 }: { size?: number }) => (
   <svg 
@@ -77,15 +78,18 @@ const ManagerDetail: React.FC = () => {
   const linkedIn = manager.socials?.find(s => s.name === 'LinkedIn');
 
   return (
-    <div style={{ padding: '24px', maxWidth: '900px', margin: '0 auto', textAlign: 'left' }}>
-      <Link to="/managers" style={{ display: 'flex', alignItems: 'center', color: '#666', marginBottom: '24px', textDecoration: 'none' }}>
-        <ChevronLeft size={20} />
-        All Officers and Directors
-      </Link>
+    <div style={{ padding: '24px', maxWidth: '900px', margin: '0 auto', textAlign: 'left', position: 'relative' }}>
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginTop: '16px', marginBottom: '24px' }}>
+        <Link to="/managers" style={{ display: 'flex', alignItems: 'center', color: '#666', textDecoration: 'none' }}>
+          <ChevronLeft size={20} />
+          All Officers and Directors
+        </Link>
+        <Navigation />
+      </div>
 
-      <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', marginBottom: '40px' }}>
+      <div className="manager-header">
         <div style={{ flex: 1 }}>
-          <div style={{ display: 'flex', alignItems: 'center', gap: '16px', marginBottom: '16px' }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '16px', marginBottom: '16px', flexWrap: 'wrap' }}>
             <h1 style={{ 
               textAlign: 'left', 
               margin: 0, 
@@ -145,18 +149,7 @@ const ManagerDetail: React.FC = () => {
           </div>
         </div>
 
-        <div style={{ 
-          width: '140px', 
-          height: '140px', 
-          marginLeft: '40px',
-          display: 'flex', 
-          alignItems: 'center', 
-          justifyContent: 'center', 
-          backgroundColor: '#f0f0f0', 
-          borderRadius: '50%', 
-          border: '1px solid #eee', 
-          overflow: 'hidden' 
-        }}>
+        <div className="manager-picture-container">
           {manager.pictureUrl ? (
             <img src={manager.pictureUrl} alt={manager.name} style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
           ) : (
@@ -177,18 +170,9 @@ const ManagerDetail: React.FC = () => {
           <h2 style={{ fontSize: '1.5rem', marginBottom: '24px', borderBottom: '2px solid #eee', paddingBottom: '8px' }}>Corporate History</h2>
           <div style={{ display: 'grid', gridTemplateColumns: '1fr', gap: '20px' }}>
             {manager.companies.map((company, index) => (
-              <div key={index} style={{ 
-                padding: '24px', 
-                backgroundColor: '#f9f9f9', 
-                borderRadius: '12px', 
-                border: '1px solid #eee',
-                display: 'flex',
-                justifyContent: 'space-between',
-                alignItems: 'center',
-                gap: '24px'
-              }}>
-                <div>
-                  <div style={{ display: 'flex', alignItems: 'center', gap: '16px', marginBottom: '8px' }}>
+              <div key={index} className="history-card">
+                <div className="history-card-content">
+                  <div className="history-card-header">
                     <h3 style={{ margin: 0, fontSize: '1.3rem' }}>
                       <Link 
                         to={`/company/${company.ticker}.${company.exchange}`}
@@ -196,28 +180,30 @@ const ManagerDetail: React.FC = () => {
                       >
                         {company.name}
                       </Link>
-                      <span style={{ fontWeight: 'normal', color: '#666', marginLeft: '8px' }}>
+                      <span style={{ fontWeight: 'normal', color: '#666', marginLeft: '8px', fontSize: '0.9rem' }}>
                         ({company.ticker}.{company.exchange})
                       </span>
                     </h3>
                     {company.website && (
-                      <a 
-                        href={company.website} 
-                        target="_blank" 
-                        rel="noopener noreferrer" 
-                        style={{ 
-                          color: '#0066cc', 
-                          textDecoration: 'none', 
-                          fontSize: '0.95rem',
-                          display: 'flex',
-                          alignItems: 'center',
-                          gap: '4px',
-                          fontWeight: '500'
-                        }}
-                      >
-                        Website
-                        <ExternalLink size={14} />
-                      </a>
+                      <div style={{ width: '100%', marginTop: '-4px' }}>
+                        <a 
+                          href={company.website} 
+                          target="_blank" 
+                          rel="noopener noreferrer" 
+                          style={{ 
+                            color: '#0066cc', 
+                            textDecoration: 'none', 
+                            fontSize: '0.9rem',
+                            display: 'flex',
+                            alignItems: 'center',
+                            gap: '4px',
+                            fontWeight: '500'
+                          }}
+                        >
+                          Website
+                          <ExternalLink size={12} />
+                        </a>
+                      </div>
                     )}
                   </div>
                   <p style={{ margin: '0 0 12px 0', color: '#0066cc', fontWeight: '600', fontSize: '1.1rem' }}>
@@ -237,18 +223,7 @@ const ManagerDetail: React.FC = () => {
                   </div>
                 </div>
                 {company.logoUrl && (
-                  <div style={{ 
-                    width: '60px', 
-                    height: '60px', 
-                    display: 'flex', 
-                    alignItems: 'center', 
-                    justifyContent: 'center', 
-                    backgroundColor: '#fff', 
-                    borderRadius: '8px', 
-                    border: '1px solid #eee',
-                    padding: '4px',
-                    flexShrink: 0
-                  }}>
+                  <div className="history-card-logo">
                     <img src={company.logoUrl} alt={company.name} style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'contain' }} />
                   </div>
                 )}

@@ -23,9 +23,16 @@ const CompanyList: React.FC = () => {
   const [companies, setCompanies] = useState<Company[]>([]);
   const [loading, setLoading] = useState(true);
   const [searchParams, setSearchParams] = useSearchParams();
+  const [isMobile, setIsMobile] = useState(window.innerWidth <= 768);
 
   const page = parseInt(searchParams.get('page') || '1', 10);
   const pageSize = parseInt(searchParams.get('pageSize') || '50', 10);
+
+  useEffect(() => {
+    const handleResize = () => setIsMobile(window.innerWidth <= 768);
+    window.addEventListener('resize', handleResize);
+    return () => window.removeEventListener('resize', handleResize);
+  }, []);
 
   useEffect(() => {
     document.title = "Investify - Companies";
@@ -58,9 +65,7 @@ const CompanyList: React.FC = () => {
 
   return (
     <div style={{ padding: '24px', maxWidth: '1200px', margin: '0 auto', textAlign: 'left' }}>
-      <Navigation />
-
-      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end', marginBottom: '48px', marginTop: '64px' }}>
+      <div className="list-header">
         <h1 style={{ 
           textAlign: 'left', 
           margin: 0, 
@@ -71,26 +76,29 @@ const CompanyList: React.FC = () => {
           All Public Companies
         </h1>
         
-        <div style={{ display: 'flex', alignItems: 'center', gap: '12px', color: '#666', fontSize: '0.95rem' }}>
-          <span>Show:</span>
-          <select 
-            value={pageSize} 
-            onChange={handlePageSizeChange}
-            style={{
-              padding: '6px 12px',
-              borderRadius: '8px',
-              border: '1px solid #ddd',
-              backgroundColor: '#fff',
-              cursor: 'pointer',
-              fontSize: '0.95rem',
-              color: '#333',
-              outline: 'none'
-            }}
-          >
-            <option value="50">50 per page</option>
-            <option value="100">100 per page</option>
-            <option value="200">200 per page</option>
-          </select>
+        <div className="list-header-controls">
+          <div style={{ display: 'flex', alignItems: 'center', gap: '12px', color: '#666', fontSize: '0.95rem' }}>
+            <span className="hide-mobile">Show:</span>
+            <select 
+              value={pageSize} 
+              onChange={handlePageSizeChange}
+              style={{
+                padding: '6px 12px',
+                borderRadius: '8px',
+                border: '1px solid #ddd',
+                backgroundColor: '#fff',
+                cursor: 'pointer',
+                fontSize: '0.95rem',
+                color: '#333',
+                outline: 'none'
+              }}
+            >
+              <option value="50">50{isMobile ? '' : ' per page'}</option>
+              <option value="100">100{isMobile ? '' : ' per page'}</option>
+              <option value="200">200{isMobile ? '' : ' per page'}</option>
+            </select>
+          </div>
+          <Navigation />
         </div>
       </div>
 

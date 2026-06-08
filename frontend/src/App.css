@@ -28,3 +28,126 @@
   transform: translateY(-5px);
   box-shadow: 0 8px 16px rgba(0,0,0,0.1);
 }
+
+.manager-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+
+.manager-picture-container {
+  width: 140px;
+  height: 140px;
+  margin-left: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f0f0f0;
+  border-radius: 50%;
+  border: 1px solid #eee;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.history-card {
+  padding: 24px;
+  background-color: #f9f9f9;
+  border-radius: 12px;
+  border: 1px solid #eee;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 24px;
+}
+
+.history-card-content {
+  flex: 1;
+}
+
+.history-card-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 8px 16px;
+  margin-bottom: 8px;
+}
+
+.history-card-logo {
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff;
+  border-radius: 8px;
+  border: 1px solid #eee;
+  padding: 4px;
+  flex-shrink: 0;
+}
+
+.nav-container {
+  z-index: 1000;
+  position: relative;
+}
+
+@media (max-width: 768px) {
+  .manager-header {
+    flex-direction: column-reverse;
+    align-items: flex-start;
+    text-align: left;
+  }
+
+  .manager-header h1 {
+    text-align: left !important;
+  }
+
+  .manager-picture-container {
+    margin-left: 0;
+    margin-bottom: 24px;
+  }
+
+  .history-card {
+    flex-direction: column-reverse;
+    align-items: flex-start;
+    padding: 20px;
+  }
+
+  .history-card-logo {
+    margin-bottom: 16px;
+    align-self: flex-start;
+  }
+}
+
+.list-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 48px;
+  margin-top: 16px;
+  gap: 24px;
+}
+
+.list-header-controls {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  flex-shrink: 0;
+  margin-top: 8px;
+}
+
+@media (max-width: 768px) {
+  .list-header {
+    align-items: flex-start;
+  }
+
+  .list-header-controls {
+    flex-direction: column-reverse;
+    align-items: flex-end;
+    gap: 12px;
+  }
+
+  .hide-mobile {
+    display: none;
+  }
+}

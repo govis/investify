@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useParams, Link, useNavigate } from 'react-router-dom';
 import { ChevronLeft } from 'lucide-react';
+import Navigation from '../components/Navigation';
 
 interface ThesisDetail {
   id: string;
@@ -56,11 +57,14 @@ const ThesisDetail: React.FC = () => {
     : thesis.tabs?.find(t => t.label === activeTab)?.content || '';
 
   return (
-    <div style={{ padding: '24px', maxWidth: '900px', margin: '0 auto', textAlign: 'left' }}>
-      <Link to="/" style={{ display: 'flex', alignItems: 'center', color: '#666', marginBottom: '24px', textDecoration: 'none' }}>
-        <ChevronLeft size={20} />
-        Investment Themes
-      </Link>
+    <div style={{ padding: '24px', maxWidth: '900px', margin: '0 auto', textAlign: 'left', position: 'relative' }}>
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginTop: '16px', marginBottom: '24px' }}>
+        <Link to="/" style={{ display: 'flex', alignItems: 'center', color: '#666', textDecoration: 'none' }}>
+          <ChevronLeft size={20} />
+          Investment Themes
+        </Link>
+        <Navigation />
+      </div>
 
       {thesis.tabs && thesis.tabs.length > 0 && (
         <div style={{ 
