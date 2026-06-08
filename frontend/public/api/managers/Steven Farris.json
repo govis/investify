@@ -1,0 +1,67 @@
+{
+  "id": "Steven Farris",
+  "name": "Steven Farris",
+  "background": "Mr. Farris has served as Chairman of the Board since 2016. He was previously the Chairman and CEO of Apache Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cheniere Energy, Inc.",
+      "ticker": "LNG",
+      "exchange": "NYSE",
+      "website": "https://www.cheniere.com",
+      "logoUrl": "/companies-assets/LNG.NYSE.svg",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Livent Corporation",
+      "ticker": "LTHM",
+      "exchange": "NYSE",
+      "website": "https://www.livent.com",
+      "logoUrl": "/companies-assets/LTHM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": "2024",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Apache Corporation (now APA Corporation)",
+      "ticker": "APA",
+      "exchange": "NASDAQ",
+      "website": "https://apacorp.com",
+      "logoUrl": "/companies-assets/APA.NASDAQ.svg",
+      "title": "President, CEO, Chairman",
+      "startDate": "1988",
+      "endDate": "2015",
+      "formattedStartDate": "1988",
+      "formattedEndDate": "2015"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/steven-farris-90b886143",
+      "person_name": "Steven Farris",
+      "company_name": "Cheniere Energy, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Governance and Nominating Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 76,
+  "ageYear": 2024
+}

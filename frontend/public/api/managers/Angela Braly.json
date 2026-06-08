@@ -1,0 +1,77 @@
+{
+  "id": "Angela Braly",
+  "name": "Angela Braly",
+  "background": "Former Chairman, President, and CEO of WellPoint, Inc. (now Elevance Health).",
+  "pictureUrl": "/managers-assets/Angela Braly.jpg",
+  "companies": [
+    {
+      "name": "Elevance Health, Inc. (formerly WellPoint, Inc.)",
+      "ticker": "ELV",
+      "exchange": "NYSE",
+      "website": "https://www.elevancehealth.com",
+      "logoUrl": "/companies-assets/ELV.NYSE.svg",
+      "title": "President, Chief Executive Officer, and Chair of the Board",
+      "startDate": "2007",
+      "endDate": "2012",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "The Procter & Gamble Company",
+      "ticker": "PG",
+      "exchange": "NYSE",
+      "website": "https://www.pg.com",
+      "logoUrl": "/companies-assets/PG.NYSE.svg",
+      "title": "Director",
+      "startDate": "2009",
+      "endDate": "2023",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Lowe's Companies, Inc.",
+      "ticker": "LOW",
+      "exchange": "NYSE",
+      "website": "https://www.lowes.com",
+      "logoUrl": "/companies-assets/LOW.NYSE.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": "2023",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Brookfield Asset Management Ltd.",
+      "ticker": "BAM",
+      "exchange": "NYSE/TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/angelabraly",
+      "person_name": "Angela Braly",
+      "company_name": "Elevance Health, Inc.",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Public Issues and Contributions Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

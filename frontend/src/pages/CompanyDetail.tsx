@@ -1,6 +1,12 @@
 import React, { useEffect, useState } from 'react';
-import { useParams, Link } from 'react-router-dom';
+import { useParams, Link, useNavigate } from 'react-router-dom';
 import { ChevronLeft } from 'lucide-react';
+import Navigation from '../components/Navigation';
+
+interface InvestmentThesis {
+  thesis_name: string;
+  company_type: string;
+}
 
 interface CompanyDetail {
   id: string;
@@ -10,12 +16,16 @@ interface CompanyDetail {
   website?: string;
   country?: string;
   type?: string;
+  investment_theses?: InvestmentThesis[];
+  tabs?: { label: string; content: string }[];
 }
 
 const CompanyDetail: React.FC = () => {
   const { id } = useParams();
+  const navigate = useNavigate();
   const [company, setCompany] = useState<CompanyDetail | null>(null);
   const [loading, setLoading] = useState(true);
+  const [activeTab, setActiveTab] = useState('Company');
 
   useEffect(() => {
     if (id) {
@@ -35,17 +45,35 @@ const CompanyDetail: React.FC = () => {
       });
   }, [id]);
 
+  const handleContentClick = (e: React.MouseEvent<HTMLDivElement>) => {
+    const target = e.target as HTMLElement;
+    if (target.tagName === 'A') {
+      const href = target.getAttribute('href');
+      if (href && href.startsWith('/')) {
+        e.preventDefault();
+        navigate(href);
+      }
+    }
+  };
+
   if (loading) return <div style={{ padding: '24px' }}>Loading...</div>;
   if (!company) return <div style={{ padding: '24px' }}>Company not found.</div>;
 
-  return (
-    <div style={{ padding: '24px', maxWidth: '900px', margin: '0 auto', textAlign: 'left' }}>
-      <Link to="/companies" style={{ display: 'flex', alignItems: 'center', color: '#666', marginBottom: '24px', textDecoration: 'none' }}>
-        <ChevronLeft size={20} />
-        All Companies
-      </Link>
+  const currentTabContent = activeTab === 'Company' 
+    ? company.content 
+    : company.tabs?.find(t => t.label === activeTab)?.content || '';
 
-      <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', marginBottom: '32px' }}>
+  return (
+    <div style={{ padding: '24px', maxWidth: '900px', margin: '0 auto', textAlign: 'left', position: 'relative' }}>
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginTop: '16px', marginBottom: '24px' }}>
+        <Link to="/companies" style={{ display: 'flex', alignItems: 'center', color: '#666', textDecoration: 'none' }}>
+          <ChevronLeft size={20} />
+          All Companies
+        </Link>
+        <Navigation />
+      </div>
+
+      <div className="manager-header" style={{ marginBottom: '32px' }}>
         <div>
           <h1 style={{ 
             textAlign: 'left', 
@@ -68,6 +96,32 @@ const CompanyDetail: React.FC = () => {
             )}
             {company.country && <div><strong>Country:</strong> {company.country}</div>}
             {company.type && <div><strong>Type:</strong> {company.type}</div>}
+            
+            {company.investment_theses && company.investment_theses.length > 0 && (
+              <div style={{ marginTop: '8px' }}>
+                <strong>Investment Theses:</strong>
+                <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px', marginTop: '4px' }}>
+                  {company.investment_theses.map((thesis, index) => (
+                    <Link 
+                      key={index} 
+                      to={`/thesis/${thesis.thesis_name}`}
+                      style={{ 
+                        display: 'inline-block',
+                        padding: '4px 12px',
+                        backgroundColor: '#f0f0f0',
+                        borderRadius: '16px',
+                        color: '#333',
+                        textDecoration: 'none',
+                        fontSize: '0.9rem',
+                        border: '1px solid #ddd'
+                      }}
+                    >
+                      {thesis.thesis_name}
+                    </Link>
+                  ))}
+                </div>
+              </div>
+            )}
           </div>
         </div>
         {company.logoUrl && (
@@ -77,10 +131,43 @@ const CompanyDetail: React.FC = () => {
         )}
       </div>
 
+      {company.tabs && company.tabs.length > 0 && (
+        <div style={{ 
+          display: 'flex', 
+          borderBottom: '2px solid #eee', 
+          marginBottom: '32px', 
+          gap: '12px',
+          paddingBottom: '0px'
+        }}>
+          {['Company', ...company.tabs.map(t => t.label)].map(tabLabel => (
+            <button
+              key={tabLabel}
+              onClick={() => setActiveTab(tabLabel)}
+              style={{
+                padding: '12px 24px',
+                border: 'none',
+                background: activeTab === tabLabel ? '#f0f0f0' : 'none',
+                cursor: 'pointer',
+                fontSize: '1rem',
+                fontWeight: activeTab === tabLabel ? 'bold' : '500',
+                color: activeTab === tabLabel ? '#000' : '#666',
+                borderBottom: activeTab === tabLabel ? '3px solid #000' : '3px solid transparent',
+                marginBottom: '-2px',
+                borderRadius: '8px 8px 0 0',
+                transition: 'all 0.2s ease'
+              }}
+            >
+              {tabLabel}
+            </button>
+          ))}
+        </div>
+      )}
+
       <div 
         className="company-content" 
-        dangerouslySetInnerHTML={{ __html: company.content }} 
+        dangerouslySetInnerHTML={{ __html: currentTabContent }} 
         style={{ lineHeight: '1.6', fontSize: '1.1rem' }}
+        onClick={handleContentClick}
       />
     </div>
   );

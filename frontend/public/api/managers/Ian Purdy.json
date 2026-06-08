@@ -1,0 +1,50 @@
+{
+  "id": "Ian Purdy",
+  "name": "Ian Purdy",
+  "background": "Mr Purdy is a highly-respected executive with over 30 years’ experience within Australian and international resources companies. He has gained significant experience in the uranium industry through his roles as CFO of Paladin Energy and as a non-executive director of several uranium companies. He has also held senior executive roles with Quadrant Energy, Brookfield Asset Management, Wesfarmers, North Ltd and Mobil Oil Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Paladin Energy Ltd",
+      "ticker": "PDN",
+      "exchange": "ASX",
+      "website": "https://www.paladinenergy.com.au",
+      "logoUrl": "/companies-assets/PDN.ASX.svg",
+      "title": "Chief Executive Officer",
+      "startDate": "February 2020",
+      "endDate": "September 2024",
+      "formattedStartDate": "February 2020",
+      "formattedEndDate": "September 2024"
+    },
+    {
+      "name": "Mirabela Nickel Ltd",
+      "ticker": "MBN",
+      "exchange": "ASX",
+      "website": "N/A",
+      "logoUrl": "https://www.marketscreener.com/images/reuters/2014-02-18T083510Z_1_LYNXNPEA1H08O_RTROPTP_2_MINING-MIRABELA.JPG",
+      "title": "Chief Executive Officer, Managing Director",
+      "startDate": "2011",
+      "endDate": "2013",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2013"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ian-purdy-4a5a5a12/",
+      "person_name": "Ian Purdy",
+      "company_name": "Paladin Energy Ltd",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 52,
+  "ageYear": 2024
+}

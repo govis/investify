@@ -1,0 +1,74 @@
+{
+  "id": "George Burns",
+  "name": "George Burns",
+  "background": "George Burns has over 35 years of experience in the mineral sector including executive, operations and project development leadership roles. Prior to joining Eldorado, he was Executive Vice President and Chief Operating Officer at Goldcorp. He has also held positions at Centerra Gold Inc., Asarco LLC, and Cyprus Amax Minerals Company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Eldorado Gold Corporation",
+      "ticker": "ELD",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and Chief Executive Officer",
+      "startDate": "2017-02-01",
+      "endDate": null,
+      "formattedStartDate": "February 2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Goldcorp Inc.",
+      "ticker": "GG",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Vice President and Chief Operating Officer",
+      "startDate": null,
+      "endDate": "2017-01-31",
+      "formattedStartDate": "",
+      "formattedEndDate": "January 2017"
+    },
+    {
+      "name": "Centerra Gold Inc.",
+      "ticker": "CG",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Vice President and Chief Operating Officer",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Turquoise Hill Resources Ltd.",
+      "ticker": "TRQ",
+      "exchange": "NYSE",
+      "website": "https://www.turquoisehill.com",
+      "logoUrl": "/companies-assets/TRQ.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/georgeburns-eld",
+      "person_name": "George Burns",
+      "company_name": "Eldorado Gold Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 64,
+  "ageYear": 2024
+}

@@ -1,0 +1,31 @@
+{
+  "id": "Mark Hildebrandt",
+  "name": "Mark Hildebrandt",
+  "background": "Managing Member of Waldman Trigoboff Hildebrandt & Calnan, P.A. He has served on the HEICO board since 2008.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "HEICO Corporation",
+      "ticker": "HEI",
+      "exchange": "NYSE",
+      "website": "https://www.heico.com",
+      "logoUrl": "/companies-assets/HEI.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "2008-09-15",
+      "endDate": null,
+      "formattedStartDate": "September 2008",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Finance Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

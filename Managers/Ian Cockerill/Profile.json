@@ -1,0 +1,79 @@
+{
+  "name": "Ian Cockerill",
+  "first_name": "Ian",
+  "last_name": "Cockerill",
+  "age": 70,
+  "age_year": 2024,
+  "background": "Ian Cockerill has over 45 years of experience in the global natural resources industry. He previously served as CEO of Gold Fields and Anglo Coal, and was a non-executive director of Endeavour since 2019 before being appointed CEO.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "LSE/TSX",
+      "title_or_role": "Senior Independent Director",
+      "website": "endeavourmining.com",
+      "start_date": "2022",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "TSX",
+      "title_or_role": "Chief Executive Officer, Executive Director",
+      "website": "https://www.endeavourmining.com",
+      "start_date": "2024-01-04",
+      "end_date": null
+    },
+    {
+      "name": "Gold Fields Limited",
+      "ticker": "GFI",
+      "exchange": "NYSE",
+      "website": "goldfields.com",
+      "title_or_role": "Managing Director and COO",
+      "start_date": "1999",
+      "end_date": "2002",
+      "validated": true
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX/LSE/NYSE",
+      "website": "bhp.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2019",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Polymetal International plc (now Solidcore Resources)",
+      "ticker": "POLY",
+      "exchange": "LSE",
+      "website": "solidcore-resources.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2019",
+      "end_date": "2024",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/ian-cockerill-22018230",
+      "person_name": "Ian Cockerill",
+      "company_name": "Endeavour Mining",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

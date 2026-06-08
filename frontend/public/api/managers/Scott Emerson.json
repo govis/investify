@@ -1,0 +1,42 @@
+{
+  "id": "Scott Emerson",
+  "name": "Scott Emerson",
+  "background": "Mr. Emerson has over 30 years of experience in the capital markets and has served as a director and officer of several public companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "GoldHaven Resources Corp.",
+      "ticker": "GOH",
+      "exchange": "CSE",
+      "website": "https://goldhavenresources.com",
+      "logoUrl": "/companies-assets/GOH.CSE.png",
+      "title": "Director / Officer (CEO/President)",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Kingsmen Resources Ltd.",
+      "ticker": "KNG",
+      "exchange": "TSXV",
+      "website": "https://kingsmenresources.com/",
+      "logoUrl": "/companies-assets/KNG.TSXV.png",
+      "title": "President & CEO",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

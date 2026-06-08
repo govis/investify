@@ -1,0 +1,39 @@
+{
+  "id": "Edward Lee",
+  "name": "Edward Lee",
+  "background": "Mr. Lee is a Chartered Professional Accountant with over 25 years of experience in financial reporting and corporate finance for public companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Western Magnesium Corporation",
+      "ticker": "WMG.H",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman & Chief Executive Officer",
+      "startDate": "2012",
+      "endDate": "2018",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Adanac Molybdenum Corp.",
+      "ticker": "AUA",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "/companies-assets/AUA.TSX.png",
+      "title": "Director & Vice President-Corporate Development",
+      "startDate": "2005",
+      "endDate": "2009",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2009"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2023
+}

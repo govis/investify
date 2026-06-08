@@ -1,0 +1,28 @@
+{
+  "name": "Paul Guedes",
+  "first_name": "Paul",
+  "last_name": "Guedes",
+  "age": 52,
+  "age_year": 2023,
+  "background": "Mr. Guedes has over 20 years of experience in corporate communications and investor relations.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Western Magnesium Corporation",
+      "ticker": "WMG",
+      "exchange": "TSX",
+      "title_or_role": "Corporate Secretary",
+      "website": "https://westernmagnesium.com",
+      "start_date": "2019-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

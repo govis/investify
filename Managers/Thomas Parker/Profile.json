@@ -1,0 +1,43 @@
+{
+  "name": "Thomas Parker",
+  "first_name": "Thomas",
+  "last_name": "Parker",
+  "age": 81,
+  "age_year": 2024,
+  "background": "Mr. Parker has over 50 years of experience in the mining industry, including executive roles at High Plains Uranium and Anderson & Schwab.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Ur-Energy Inc.",
+      "ticker": "URG",
+      "exchange": "NYSE American",
+      "title_or_role": "Lead Independent Director",
+      "website": "https://www.ur-energy.com",
+      "start_date": "2007",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "High Plains Uranium, Inc.",
+      "ticker": "N/A",
+      "exchange": "TSX-V",
+      "website": null,
+      "title_or_role": "President & Chief Executive Officer",
+      "start_date": "2006",
+      "end_date": "2007",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

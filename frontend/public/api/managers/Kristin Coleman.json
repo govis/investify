@@ -1,0 +1,63 @@
+{
+  "id": "Kristin Coleman",
+  "name": "Kristin Coleman",
+  "background": "Ms. Coleman has served as Executive Vice President, General Counsel and Corporate Secretary since November 2022. Prior to joining Albemarle, she served as Executive Vice President, General Counsel and Corporate Secretary of US Foods Holding Corp.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "US Foods Holding Corp.",
+      "ticker": "USFD",
+      "exchange": "NYSE",
+      "website": "https://www.usfoods.com",
+      "logoUrl": "/companies-assets/USFD.NYSE.svg",
+      "title": "Executive Vice President, General Counsel and Chief Compliance Officer",
+      "startDate": "2017-02-01",
+      "endDate": "2022-11-28",
+      "formattedStartDate": "February 2017",
+      "formattedEndDate": "November 2022"
+    },
+    {
+      "name": "Sears Holdings Corporation",
+      "ticker": "SHLDQ",
+      "exchange": "NASDAQ",
+      "website": "https://www.searsholdings.com",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Sears_Holdings_Corporation_logo.png/493px-Sears_Holdings_Corporation_logo.png",
+      "title": "Senior Vice President, General Counsel and Corporate Secretary",
+      "startDate": "2014-07-07",
+      "endDate": "2017-07-07",
+      "formattedStartDate": "July 2014",
+      "formattedEndDate": "July 2017"
+    },
+    {
+      "name": "Brunswick Corporation",
+      "ticker": "BC",
+      "exchange": "NYSE",
+      "website": "https://www.brunswick.com",
+      "logoUrl": "/companies-assets/BC.NYSE.svg",
+      "title": "Vice President, General Counsel and Corporate Secretary",
+      "startDate": "2009-05-20",
+      "endDate": "2014-07-07",
+      "formattedStartDate": "May 2009",
+      "formattedEndDate": "July 2014"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kristinnicolecoleman",
+      "person_name": "Kristin Coleman",
+      "company_name": "Albemarle Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

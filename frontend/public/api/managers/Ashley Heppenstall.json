@@ -1,0 +1,90 @@
+{
+  "id": "Ashley Heppenstall",
+  "name": "Ashley Heppenstall",
+  "background": "Mr. Heppenstall has over 30 years of experience in the oil and gas and resource sectors. He was the President and CEO of Lundin Petroleum AB from 2002 to 2015.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lundin Gold Inc.",
+      "ticker": "LUG",
+      "exchange": "TSX",
+      "website": "https://lundingold.com",
+      "logoUrl": "/companies-assets/LUG.TSX.svg",
+      "title": "Director",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Lundin Mining Corporation",
+      "ticker": "LUN",
+      "exchange": "TSX",
+      "website": "https://www.lundinmining.com",
+      "logoUrl": "/companies-assets/LUN.TSX.svg",
+      "title": "Lead Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "International Petroleum Corporation",
+      "ticker": "IPCO",
+      "exchange": "TSX",
+      "website": "international-petroleum.com",
+      "logoUrl": "/companies-assets/IPCO.TSX.svg",
+      "title": "Chair of the Board",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Aker BP ASA",
+      "ticker": "AKRBP",
+      "exchange": "OSE (STO)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Lundin Petroleum AB",
+      "ticker": "LUPE",
+      "exchange": "STO",
+      "website": "lundin-energy.com",
+      "logoUrl": "/companies-assets/LUPE.STO.svg",
+      "title": "President & CEO",
+      "startDate": "2002",
+      "endDate": "2015",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Lundin Oil AB",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "Finance Director",
+      "startDate": "1998",
+      "endDate": "2002",
+      "formattedStartDate": "1998",
+      "formattedEndDate": "2002"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

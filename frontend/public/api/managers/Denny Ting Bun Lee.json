@@ -1,0 +1,54 @@
+{
+  "id": "Denny Ting Bun Lee",
+  "name": "Denny Ting Bun Lee",
+  "background": "Served as chief financial officer of NetEase, Inc. from 2002 to 2007. He is an independent non-executive director of NetEase, Inc. and several other companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NetEase, Inc.",
+      "ticker": "NTES",
+      "exchange": "NASDAQ",
+      "website": "https://ir.netease.com/",
+      "logoUrl": "/companies-assets/NTES.NASDAQ.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2002-04",
+      "endDate": "2007-06",
+      "formattedStartDate": "April 2002",
+      "formattedEndDate": "June 2007"
+    },
+    {
+      "name": "Jianpu Technology Inc.",
+      "ticker": "JT",
+      "exchange": "NYSE",
+      "website": "https://ir.jianpu.ai/",
+      "logoUrl": "/companies-assets/JT.NYSE.png",
+      "title": "Independent Director",
+      "startDate": "2017-11",
+      "endDate": null,
+      "formattedStartDate": "November 2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "New Oriental Education & Technology Group Inc.",
+      "ticker": "EDU",
+      "exchange": "NYSE",
+      "website": "https://investor.neworiental.org/",
+      "logoUrl": "/companies-assets/EDU.NYSE.png",
+      "title": "Independent Director",
+      "startDate": "2006-09",
+      "endDate": null,
+      "formattedStartDate": "September 2006",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 56,
+  "ageYear": 2024
+}

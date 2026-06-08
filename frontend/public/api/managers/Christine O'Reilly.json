@@ -1,0 +1,79 @@
+{
+  "id": "Christine O'Reilly",
+  "name": "Christine O'Reilly",
+  "background": "Christine O'Reilly has over 30 years' experience in financial and infrastructure sectors. She was previously CEO of the GasNet Group and Co-Head of Unlisted Infrastructure at Colonial First State Global Asset Management.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Australia and New Zealand Banking Group Limited",
+      "ticker": "ANZ",
+      "exchange": "ASX",
+      "website": "https://www.anz.com",
+      "logoUrl": "/companies-assets/ANZ.ASX.svg",
+      "title": "Non-executive Director",
+      "startDate": "November 2021",
+      "endDate": null,
+      "formattedStartDate": "November 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Stockland Limited",
+      "ticker": "SGP",
+      "exchange": "ASX",
+      "website": "https://www.stockland.com.au",
+      "logoUrl": "/companies-assets/SGP.ASX.svg",
+      "title": "Non-executive Director",
+      "startDate": "August 2018",
+      "endDate": "October 2024",
+      "formattedStartDate": "August 2018",
+      "formattedEndDate": "October 2024"
+    },
+    {
+      "name": "Medibank Private Limited",
+      "ticker": "MPL",
+      "exchange": "ASX",
+      "website": "https://www.medibank.com.au",
+      "logoUrl": "/companies-assets/MPL.ASX.svg",
+      "title": "Non-executive Director",
+      "startDate": "March 2014",
+      "endDate": "November 2021",
+      "formattedStartDate": "March 2014",
+      "formattedEndDate": "November 2021"
+    },
+    {
+      "name": "Transurban Group",
+      "ticker": "TCL",
+      "exchange": "ASX",
+      "website": "https://www.transurban.com",
+      "logoUrl": "/companies-assets/TCL.ASX.svg",
+      "title": "Non-executive Director",
+      "startDate": "April 2012",
+      "endDate": "October 2020",
+      "formattedStartDate": "April 2012",
+      "formattedEndDate": "October 2020"
+    },
+    {
+      "name": "CSL Limited",
+      "ticker": "CSL",
+      "exchange": "ASX",
+      "website": "https://www.csl.com",
+      "logoUrl": "/companies-assets/CSL.ASX.svg",
+      "title": "Non-executive Director",
+      "startDate": "February 2011",
+      "endDate": "October 2020",
+      "formattedStartDate": "February 2011",
+      "formattedEndDate": "October 2020"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Remuneration Committee (Chair)",
+    "Risk and Audit Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

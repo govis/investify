@@ -1,0 +1,62 @@
+{
+  "id": "Ian Edwards",
+  "name": "Ian Edwards",
+  "background": "Ian L. Edwards was appointed President and Chief Executive Officer of AtkinsRéalis in October 2019. He joined the company in 2014 and has over 30 years of experience in the global engineering and construction industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AtkinsRéalis Group Inc.",
+      "ticker": "ATRL",
+      "exchange": "TSX",
+      "website": "https://www.atkinsrealis.com",
+      "logoUrl": "/companies-assets/ATRL.TSX.svg",
+      "title": "President and Chief Executive Officer",
+      "startDate": "June 2019",
+      "endDate": null,
+      "formattedStartDate": "June 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "CAE Inc.",
+      "ticker": "CAE",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "August 2024",
+      "endDate": null,
+      "formattedStartDate": "August 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Leighton Group (now CIMIC Group)",
+      "ticker": "CIM",
+      "exchange": "ASX",
+      "website": "https://www.cimic.com.au",
+      "logoUrl": "/companies-assets/CIM.ASX.svg",
+      "title": "Managing Director, Leighton Asia, India and Offshore",
+      "startDate": "2008",
+      "endDate": "2014",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2014"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/ian-l-edwards",
+      "person_name": "Ian L. Edwards",
+      "company_name": "AtkinsRéalis",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 62,
+  "ageYear": 2024
+}

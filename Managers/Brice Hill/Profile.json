@@ -1,0 +1,71 @@
+{
+  "name": "Brice Hill",
+  "first_name": "Brice",
+  "last_name": "Hill",
+  "age": 57,
+  "age_year": 2024,
+  "background": "Brice Hill is Senior Vice President and Chief Financial Officer of Applied Materials, joining in March 2022. He previously served as Executive Vice President and Chief Financial Officer of Xilinx, Inc. and spent 25 years at Intel Corporation in various finance and strategy leadership positions.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Applied Materials, Inc.",
+      "ticker": "AMAT",
+      "exchange": "NASDAQ",
+      "title_or_role": "Senior Vice President and Chief Financial Officer",
+      "website": "https://www.appliedmaterials.com",
+      "start_date": "March 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Xilinx, Inc.",
+      "ticker": "XLNX",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "April 9, 2020",
+      "end_date": "February 2022",
+      "validated": true
+    },
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "title_or_role": "Various senior finance roles (including capacity strategy, PC desktop and chipsets, and data center)",
+      "start_date": "Not publicly specified",
+      "end_date": "April 2020",
+      "validated": true
+    },
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "website": "https://www.gm.com",
+      "title_or_role": "Various finance positions",
+      "start_date": "Not publicly specified",
+      "end_date": "Prior to Intel tenure",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/brice-hill-16670529/",
+      "person_name": "Brice Hill",
+      "company_name": "Applied Materials",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

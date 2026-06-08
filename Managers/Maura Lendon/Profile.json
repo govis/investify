@@ -1,0 +1,62 @@
+{
+  "name": "Maura Lendon",
+  "first_name": "Maura",
+  "last_name": "Lendon",
+  "age": 60,
+  "age_year": 2024,
+  "background": "Ms. Lendon is a legal executive with over 30 years of experience. She was previously Chief General Counsel and Senior Vice President with Hudbay Minerals Inc. and held senior roles with Primero Mining Corp.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Revival Gold Inc.",
+      "ticker": "RVG",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://revival-gold.com",
+      "start_date": "2021-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Greenlane Renewables Inc.",
+      "ticker": "GRN",
+      "exchange": "TSX",
+      "website": "https://www.greenlanebiogas.com/",
+      "title_or_role": "Chief Operating Officer / Chief Legal Officer",
+      "start_date": "2019",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Kuya Silver Corp.",
+      "ticker": "KUYA",
+      "exchange": "CSE",
+      "website": "https://kuyasilver.com/",
+      "title_or_role": "Chairman / Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/mauralendon",
+      "person_name": "Maura Lendon",
+      "company_name": "Revival Gold Inc., Greenlane Renewables Inc., Kuya Silver Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation, Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

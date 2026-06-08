@@ -1,0 +1,89 @@
+{
+  "id": "Alan Krusi",
+  "name": "Alan Krusi",
+  "background": "Independent Director. Former executive at AECOM and Realogy Holdings Corp.",
+  "pictureUrl": "/managers-assets/Alan Krusi.jpg",
+  "companies": [
+    {
+      "name": "Comfort Systems USA, Inc.",
+      "ticker": "FIX",
+      "exchange": "NYSE",
+      "website": "https://www.comfortsystemsusa.com",
+      "logoUrl": "/companies-assets/FIX.NYSE.svg",
+      "title": "Director (Chairman of the Board)",
+      "startDate": "March 2008",
+      "endDate": null,
+      "formattedStartDate": "March 2008",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Granite Construction Incorporated",
+      "ticker": "GVA",
+      "exchange": "NYSE",
+      "website": "https://www.graniteconstruction.com",
+      "logoUrl": "/companies-assets/GVA.NYSE.svg",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "AECOM Technology Corporation",
+      "ticker": "ACM",
+      "exchange": "NYSE",
+      "website": "https://aecom.com",
+      "logoUrl": "/companies-assets/ACM.NYSE.svg",
+      "title": "President, Strategic Development",
+      "startDate": "2008",
+      "endDate": "March 2015",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "March 2015"
+    },
+    {
+      "name": "Blue Earth, Inc.",
+      "ticker": "BBLU",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "/companies-assets/BBLU.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "August 2014",
+      "endDate": "2016",
+      "formattedStartDate": "August 2014",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Layne Christensen Company",
+      "ticker": "LAYN",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "https://www.graniteconstruction.com/sites/default/files/2020-05/Layne_Logo_0.png",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": "2018",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2018"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/alan-krusi-5a873b21",
+      "person_name": "Alan Krusi",
+      "company_name": "SSR Mining Inc., Comfort Systems USA, Inc., Granite Construction Incorporated, AECOM Technology Corporation, Blue Earth, Inc., Layne Christensen Company",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
+  "committees": [
+    "Corporate Governance and Nominating Committee",
+    "Technical Committee"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

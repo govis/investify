@@ -1,0 +1,41 @@
+{
+  "name": "Ronald Vance",
+  "first_name": "Ronald",
+  "last_name": "Vance",
+  "age": 70,
+  "age_year": 2024,
+  "background": "Mr. Vance was Senior Vice President, Corporate Development of Teck Resources Limited.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Royal Gold, Inc.",
+      "ticker": "RGLD",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.royalgold.com",
+      "start_date": "2013-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Ivanhoe Electric Inc.",
+      "ticker": "IE",
+      "exchange": "NYSE American",
+      "website": "https://ivanhoeelectric.com/",
+      "title_or_role": "Director",
+      "start_date": "2023-06-01",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation, Nominating and Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

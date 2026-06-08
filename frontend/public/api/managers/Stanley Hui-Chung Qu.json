@@ -1,0 +1,50 @@
+{
+  "id": "Stanley Hui-Chung Qu",
+  "name": "Stanley Hui-Chung Qu",
+  "background": "Mr. Stanley Hui-Chung Qu has served as our chief financial officer since July 2024. Prior to this role, he served as our senior vice president of finance since May 2019. Prior to joining us, Mr. Qu held several senior financial management positions at Lear Corporation and Johnson Controls from 2001 to 2016. He worked at PricewaterhouseCoopers from 2000 to 2001.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NIO Inc.",
+      "ticker": "NIO",
+      "exchange": "NYSE",
+      "website": "https://www.nio.com",
+      "logoUrl": "/companies-assets/NIO.NYSE.svg",
+      "title": "Vice President of Finance",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Lear Corporation",
+      "ticker": "LEA",
+      "exchange": "NYSE",
+      "website": "https://www.lear.com",
+      "logoUrl": "/companies-assets/LEA.NYSE.svg",
+      "title": "Various senior finance roles (including Finance Director for Lear China)",
+      "startDate": "2007",
+      "endDate": "2018",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2018"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/stanley-qu-85555a12",
+      "person_name": "Stanley Qu",
+      "company_name": "NIO",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 45,
+  "ageYear": 2024
+}

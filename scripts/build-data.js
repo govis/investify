@@ -6,77 +6,70 @@ const MarkdownIt = require('markdown-it');
 const md = new MarkdownIt();
 const THESES_DIR = path.join(__dirname, '../Theses');
 const COMPANIES_DIR = path.join(__dirname, '../Companies');
+const MANAGERS_DIR = path.join(__dirname, '../Managers');
 const OUTPUT_DIR = path.join(__dirname, '../frontend/public/api');
 const ASSETS_DIR = path.join(__dirname, '../frontend/public/theses-assets');
 const COMPANIES_ASSETS_DIR = path.join(__dirname, '../frontend/public/companies-assets');
+const MANAGERS_ASSETS_DIR = path.join(__dirname, '../frontend/public/managers-assets');
+
+// Helper to format date
+function formatTenureDate(dateStr) {
+  if (!dateStr) return '';
+  
+  const cleanDate = dateStr.trim();
+  if (['Unknown', '~', 'None', 'N/A', 'null', 'undefined'].includes(cleanDate)) return '';
+  
+  // Handle YYYY-MM-DD or YYYY-MM
+  if (cleanDate.includes('-')) {
+    const parts = dateStr.split('-');
+    const year = parts[0];
+    const month = parseInt(parts[1], 10);
+    const months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+    if (month >= 1 && month <= 12) {
+      return `${months[month - 1]} ${year}`;
+    }
+    return year;
+  }
+
+  // Handle "Month YYYY"
+  const months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+  const monthMatch = dateStr.match(new RegExp(`(${months.join('|')})\\s+(\\d{4})`, 'i'));
+  if (monthMatch) {
+    const month = monthMatch[1];
+    const year = monthMatch[2];
+    const capitalizedMonth = month.charAt(0).toUpperCase() + month.slice(1).toLowerCase();
+    return `${capitalizedMonth} ${year}`;
+  }
+
+  // If it's just YYYY
+  if (/^\d{4}$/.test(dateStr)) {
+    return dateStr;
+  }
+
+  return dateStr;
+}
 
 // Create output directories if they don't exist
 if (!fs.existsSync(OUTPUT_DIR)) fs.mkdirSync(OUTPUT_DIR, { recursive: true });
 if (!fs.existsSync(ASSETS_DIR)) fs.mkdirSync(ASSETS_DIR, { recursive: true });
 if (!fs.existsSync(COMPANIES_ASSETS_DIR)) fs.mkdirSync(COMPANIES_ASSETS_DIR, { recursive: true });
+if (!fs.existsSync(MANAGERS_ASSETS_DIR)) fs.mkdirSync(MANAGERS_ASSETS_DIR, { recursive: true });
+
+// Windows reserved filenames helper
+function getSafeFilename(name) {
+  const reserved = /^(CON|PRN|AUX|NUL|COM[1-9]|LPT[1-9])(\..*)?$/i;
+  return reserved.test(name) ? `_${name}` : name;
+}
 
 const COMPANIES_OUTPUT_DIR = path.join(OUTPUT_DIR, 'companies');
 if (!fs.existsSync(COMPANIES_OUTPUT_DIR)) fs.mkdirSync(COMPANIES_OUTPUT_DIR, { recursive: true });
 
-const companyMapping = {
-  names: {}, // name.toLowerCase() -> id
-  tickers: {}, // TICKER -> id
-  aliases: {} // alias.toLowerCase() -> id
-};
+const MANAGERS_OUTPUT_DIR = path.join(OUTPUT_DIR, 'managers');
+if (!fs.existsSync(MANAGERS_OUTPUT_DIR)) fs.mkdirSync(MANAGERS_OUTPUT_DIR, { recursive: true });
 
 const companiesList = [];
-
-// Function to simplify company names (e.g., "Cameco Corporation" -> "Cameco")
-const getCompanyAliases = (fullName) => {
-  const aliases = [];
-  const commonSuffixes = [' Corporation', ' Corp.', ' Corp', ' Limited', ' Ltd.', ' Ltd', ' Inc.', ' Inc', ' Group', ' PLC', ' Co.', ' Co', ' Company', ' SE', ' SA', ' AG', ' NV'];
-  
-  // List of common words that should NOT be used as standalone aliases
-  const commonWords = ['Global', 'Energy', 'Uranium', 'Fission', 'Atomic', 'Mining', 'Resources', 'Metals', 'Materials', 'Systems', 'Technologies', 'Dynamics', 'Electric', 'Power', 'International', 'American', 'Canadian', 'Australian', 'Venture', 'Digital', 'Solutions', 'Holdings', 'Western', 'Deep', 'Southern', 'Northern', 'Central', 'Standard', 'Universal', 'Resour', 'BWX', 'Northrop', 'Peninsula'];
-
-  let simplified = fullName;
-  let changed = true;
-  while (changed) {
-    changed = false;
-    // Strip trailing commas and dots before checking suffixes
-    simplified = simplified.replace(/[,.]$/, '').trim();
-    
-    for (const suffix of commonSuffixes) {
-      if (simplified.toLowerCase().endsWith(suffix.toLowerCase())) {
-        // Add the version BEFORE stripping this suffix as an alias too (e.g., "BHP Group", "BWX Technologies")
-        const currentSimplified = simplified.replace(/[,.]$/, '').trim();
-        if (currentSimplified !== fullName && currentSimplified.length >= 3 && !commonWords.includes(currentSimplified)) {
-          if (!aliases.includes(currentSimplified)) aliases.push(currentSimplified);
-        }
-        simplified = simplified.substring(0, simplified.length - suffix.length).trim();
-        changed = true;
-      }
-    }
-  }
-  
-  // Final cleanup of the simplified name
-  simplified = simplified.replace(/[,.]$/, '').trim();
-
-  if (simplified !== fullName && simplified.length >= 3 && !commonWords.includes(simplified)) {
-    if (!aliases.includes(simplified)) aliases.push(simplified);
-  }
-
-  // Handle "Oklo Inc." -> "Oklo Inc" (without dot)
-  if (fullName.endsWith('.')) {
-    const noDot = fullName.substring(0, fullName.length - 1);
-    if (!aliases.includes(noDot)) aliases.push(noDot);
-  }
-
-  // Handle cases like "BHP Group" -> "BHP"
-  const words = fullName.split(' ');
-  const firstWord = words[0].replace(/[.,]$/, ''); // Strip trailing punctuation
-  
-  if (words.length <= 4 && firstWord.length >= 3 && !aliases.includes(firstWord) && !commonWords.includes(firstWord)) {
-    aliases.push(firstWord);
-  }
-
-  return aliases;
-};
+const companyWebsites = {}; // Added to track websites for manager linking
+const companyLogos = {}; // Added to track logos for manager linking
 
 // 1. Process Companies
 async function processCompanies() {
@@ -86,100 +79,146 @@ async function processCompanies() {
     });
 
     for (const folderName of companyFolders) {
-      const profilePath = path.join(COMPANIES_DIR, folderName, 'Profile.md');
-      if (fs.existsSync(profilePath)) {
-        const content = fs.readFileSync(profilePath, 'utf8');
-        const lines = content.split('\n');
-        let name = '';
-        let logoUrl = '';
-        let website = '';
-        let country = '';
-        let type = '';
-        let titleLineIndex = -1;
-        const metadataIndices = [];
-        
-        for (let i = 0; i < lines.length; i++) {
-          const line = lines[i].trim();
-          if (line.startsWith('# ')) {
-            name = line.replace('# ', '').trim();
-            titleLineIndex = i;
-            metadataIndices.push(i);
-          } else if (line.startsWith('**Logo:**')) {
-            logoUrl = line.replace('**Logo:**', '').trim();
-            metadataIndices.push(i);
-          } else if (line.startsWith('**Website:**')) {
-            const rawWebsite = line.replace('**Website:**', '').trim();
-            const match = rawWebsite.match(/\[(.*?)\]\((.*?)\)/);
-            website = match ? match[2] : rawWebsite;
-            metadataIndices.push(i);
-          } else if (line.startsWith('**Country:**')) {
-            country = line.replace('**Country:**', '').trim();
-            metadataIndices.push(i);
-          } else if (line.startsWith('**Type:**')) {
-            type = line.replace('**Type:**', '').trim();
-            metadataIndices.push(i);
-          }
-        }
+      const profileJsonPath = path.join(COMPANIES_DIR, folderName, 'Profile.json');
+      
+      let name = '';
+      let logoUrl = '';
+      let website = '';
+      let country = '';
+      let type = '';
+      let description = '';
+      let ticker = folderName.split('.')[0];
+      let investment_theses = [];
 
-        /* 
-        let localLogoUrl = '';
-        if (logoUrl) {
+      if (fs.existsSync(profileJsonPath)) {
+        try {
+          const profile = JSON.parse(fs.readFileSync(profileJsonPath, 'utf8'));
+          ticker = profile.ticker || ticker;
+          name = profile.name;
+          if (!name && profile.description) {
+              const match = profile.description.match(/^([^.,]+?)\s+(?:is a|provides|builds|pioneered)/i);
+              if (match) name = match[1].trim();
+          }
+          if (!name) name = ticker;
+
+          logoUrl = profile.logo_url || '';
+          
+          // Handle local logo
+          if (profile.logo_local) {
+            const localLogoPath = path.join(COMPANIES_DIR, folderName, profile.logo_local);
+            if (fs.existsSync(localLogoPath)) {
+              const extension = path.extname(profile.logo_local);
+              const targetLogoName = getSafeFilename(`${folderName}${extension}`);
+              const targetLogoPath = path.join(COMPANIES_ASSETS_DIR, targetLogoName);
+              fs.copyFileSync(localLogoPath, targetLogoPath);
+              logoUrl = `/companies-assets/${targetLogoName}`;
+            }
+          }
+
+          website = profile.website || '';
+          companyWebsites[folderName] = website; // Store website mapping
+          companyLogos[folderName] = logoUrl; // Store logo mapping
+          country = profile.country_of_domicile || '';
+          description = profile.description || '';
+          investment_theses = profile.investment_theses || [];
+          
+          if (investment_theses.length > 0) {
+              type = investment_theses[0].company_type;
+          }
+        } catch (e) {
+          console.error(`Error parsing ${profileJsonPath}:`, e.message);
+        }
+      }
+
+      if (name) {
+        const tabs = [];
+        const managementPath = path.join(COMPANIES_DIR, folderName, 'Management.json');
+        if (fs.existsSync(managementPath)) {
           try {
-            const companyAssetDir = path.join(COMPANIES_ASSETS_DIR, folderName);
-            if (!fs.existsSync(companyAssetDir)) fs.mkdirSync(companyAssetDir, { recursive: true });
+            const management = JSON.parse(fs.readFileSync(managementPath, 'utf8'));
+            let managementHtml = '';
             
-            // Extract extension
-            let ext = logoUrl.split('.').pop().split(/[?#]/)[0];
-            if (ext.length > 4) ext = 'png'; // Fallback if no extension in URL
-            const logoFileName = `logo.${ext}`;
-            const logoPath = path.join(companyAssetDir, logoFileName);
-            
-            await downloadFile(logoUrl, logoPath);
-            localLogoUrl = `/companies-assets/${folderName}/${logoFileName}`;
-            console.log(`Downloaded logo for ${folderName}`);
-          } catch (err) {
-            console.warn(`Failed to download logo for ${folderName}: ${err.message}`);
+            if (management.executives && management.executives.length > 0) {
+              managementHtml += '<h2 style="margin-top: 0; margin-bottom: 24px;">Officers</h2>';
+              management.executives.forEach(exec => {
+                const startDate = (exec.tenure_dates && exec.tenure_dates.length > 0) ? exec.tenure_dates[0].start_date : null;
+                const formattedDate = formatTenureDate(startDate);
+                
+                managementHtml += `<div style="margin-bottom: 32px; padding: 20px; background-color: #f9f9f9; border-radius: 12px; border: 1px solid #eee;">`;
+                managementHtml += `<h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.25rem;"><a href="/manager/${encodeURIComponent(exec.name)}" style="color: inherit; text-decoration: none; border-bottom: 1px dashed #0066cc;">${exec.name}</a>${formattedDate ? `<span style="color: #666; font-weight: normal; font-size: 1rem; margin-left: 8px;">${formattedDate}</span>` : ''}</h3>`;
+                if (exec.tenure_dates && exec.tenure_dates.length > 0) {
+                  managementHtml += `<p style="margin-top: 0; margin-bottom: 12px; color: #0066cc; font-weight: 600;">${exec.tenure_dates[0].title}</p>`;
+                }
+                managementHtml += `<p style="margin-bottom: 0; line-height: 1.6; font-size: 1rem; color: #333;">${exec.background}</p>`;
+                managementHtml += `</div>`;
+              });
+            }
+
+            if (management.board_of_directors && management.board_of_directors.length > 0) {
+              managementHtml += '<h2 style="margin-top: 40px; margin-bottom: 24px;">Directors</h2>';
+              management.board_of_directors.forEach(dir => {
+                const startDate = (dir.tenure_dates && dir.tenure_dates.length > 0) ? dir.tenure_dates[0].start_date : null;
+                const formattedDate = formatTenureDate(startDate);
+
+                managementHtml += `<div style="margin-bottom: 32px; padding: 20px; background-color: #f9f9f9; border-radius: 12px; border: 1px solid #eee;">`;
+                managementHtml += `<h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.25rem;"><a href="/manager/${encodeURIComponent(dir.name)}" style="color: inherit; text-decoration: none; border-bottom: 1px dashed #0066cc;">${dir.name}</a>${formattedDate ? `<span style="color: #666; font-weight: normal; font-size: 1rem; margin-left: 8px;">${formattedDate}</span>` : ''}</h3>`;
+                if (dir.tenure_dates && dir.tenure_dates.length > 0) {
+                  managementHtml += `<p style="margin-top: 0; margin-bottom: 12px; color: #0066cc; font-weight: 600;">${dir.tenure_dates[0].role || dir.tenure_dates[0].title}</p>`;
+                }
+                managementHtml += `<p style="margin-bottom: 0; line-height: 1.6; font-size: 1rem; color: #333;">${dir.background}</p>`;
+                managementHtml += `</div>`;
+              });
+            }
+
+            if (management.sources && management.sources.length > 0) {
+              managementHtml += '<h2 style="margin-top: 40px; margin-bottom: 16px;">Sources</h2>';
+              managementHtml += '<ul style="padding-left: 20px; line-height: 1.6;">';
+              management.sources.forEach(src => {
+                managementHtml += `<li style="margin-bottom: 8px; color: #333;">`;
+                managementHtml += `<a href="${src.source_url}" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none;">${src.source_description}</a>`;
+                if (src.as_of_date) {
+                  managementHtml += `<span style="color: #666; font-size: 0.9rem; margin-left: 8px;">(As of: ${src.as_of_date})</span>`;
+                }
+                managementHtml += `</li>`;
+              });
+              managementHtml += '</ul>';
+            }
+
+            if (managementHtml) {
+              tabs.push({
+                label: 'Management',
+                content: managementHtml
+              });
+            }
+          } catch (e) {
+            console.error(`Error parsing ${managementPath}:`, e.message);
           }
         }
-        */
-        let localLogoUrl = logoUrl; // Just use the original URL if we want to show it, or set to empty string if preferred.
 
-
-        // Create content without the metadata lines
-        const contentWithoutMetadata = lines
-          .filter((_, idx) => !metadataIndices.includes(idx))
-          .join('\n');
-
-        const ticker = folderName.split('.')[0];
         const detail = {
           id: folderName,
           name,
           ticker,
-          logoUrl: localLogoUrl,
+          logoUrl,
           website,
           country,
           type,
-          content: md.render(contentWithoutMetadata)
+          investment_theses,
+          content: md.render(description),
+          tabs: tabs.length > 0 ? tabs : undefined
         };
         fs.writeFileSync(path.join(COMPANIES_OUTPUT_DIR, `${folderName}.json`), JSON.stringify(detail, null, 2));
         console.log(`Successfully generated company ${folderName}.json`);
-
-        if (name) {
-          companyMapping.names[name.toLowerCase()] = folderName;
-          const aliases = getCompanyAliases(name);
-          aliases.forEach(alias => {
-            companyMapping.aliases[alias.toLowerCase()] = folderName;
-          });
-        }
-        companyMapping.tickers[ticker] = folderName;
 
         companiesList.push({
           id: folderName,
           name,
           ticker,
+          logoUrl, // Added logoUrl to the list
           website,
           country,
-          type
+          type,
+          investment_theses
         });
       }
     }
@@ -191,80 +230,109 @@ async function processCompanies() {
   }
 }
 
-// Helper to replace company names/tickers with links in markdown
-const linkifyCompanies = (content) => {
-  if (!content) return content;
-  
-  // To be safe, we also exclude common terms that happen to be tickers
-  const excludedTickers = ['HBM', 'SMR', 'EU', 'LNG'];
-  
-  // Context keywords that allow a standalone ticker to be linked
-  const contextKeywords = ['Ticker', 'Symbol', 'NYSE', 'NASDAQ', 'ASX', 'TSX', 'LSE', 'ETR', 'SIX', 'HK', 'OTC', 'BIT', 'ST', 'OSL', 'EPA', 'CSE'];
+// 2. Process Managers
+async function processManagers() {
+  const managersList = [];
+  if (fs.existsSync(MANAGERS_DIR)) {
+    const managerFolders = fs.readdirSync(MANAGERS_DIR).filter(f => {
+      return fs.statSync(path.join(MANAGERS_DIR, f)).isDirectory();
+    });
 
-  const lines = content.split('\n');
-  const processedLines = lines.map(line => {
-    let newLine = line;
-    
-    // Skip markdown headers and table headers/separators
-    if (line.trim().startsWith('#')) return line;
-    if (line.trim().startsWith('|') && (line.toLowerCase().includes('ticker') || line.includes('---'))) return line;
-
-    // Keep track of which companies (by ID) we've already linked on this line
-    const linkedIdsOnThisLine = new Set();
-
-    // Combine all names and aliases into one list and sort by length descending
-    // This ensures "Northrop Grumman" is tried before "Northrop"
-    const allIdentifiers = [
-      ...Object.keys(companyMapping.names).map(name => ({ text: name, type: 'name' })),
-      ...Object.keys(companyMapping.aliases).map(alias => ({ text: alias, type: 'alias' }))
-    ].sort((a, b) => b.text.length - a.text.length);
-
-    for (const item of allIdentifiers) {
-      const id = companyMapping.names[item.text] || companyMapping.aliases[item.text];
-      if (!id || linkedIdsOnThisLine.has(id)) continue;
-
-      const escapedText = item.text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-      // Use lookahead/lookbehind to ensure whole word/phrase
-      //(?<!\[|/) ensures we aren't at the start of a markdown link text or URL path
-      //(?!\]|/|\w) ensures we aren't at the end of markdown link text, URL path, or inside a word
-      // Removed 'g' flag to only replace the FIRST occurrence on the line
-      const regex = new RegExp(`(?<!\\[|/)\\b${escapedText}\\b(?![\\ ]/]|\\w)`, 'i');
+    for (const folderName of managerFolders) {
+      const profileJsonPath = path.join(MANAGERS_DIR, folderName, 'Profile.json');
       
-      if (regex.test(newLine)) {
-        newLine = newLine.replace(regex, (match) => `[${match}](/company/${id})`);
-        linkedIdsOnThisLine.add(id);
-      }
-    }
+      if (fs.existsSync(profileJsonPath)) {
+        try {
+          const profile = JSON.parse(fs.readFileSync(profileJsonPath, 'utf8'));
+          
+          let pictureUrl = profile.picture_url || null;
+          
+          // Handle local picture
+          if (profile.picture_local) {
+            const localPicturePath = path.join(MANAGERS_DIR, folderName, profile.picture_local);
+            if (fs.existsSync(localPicturePath)) {
+              const extension = path.extname(profile.picture_local);
+              const targetPictureName = `${folderName}${extension}`;
+              const targetPicturePath = path.join(MANAGERS_ASSETS_DIR, targetPictureName);
+              fs.copyFileSync(localPicturePath, targetPicturePath);
+              pictureUrl = `/managers-assets/${targetPictureName}`;
+            }
+          }
 
-    // Then, try to link by Ticker if not already linked for that company and if context exists
-    const tickers = Object.keys(companyMapping.tickers).sort((a, b) => b.length - a.length);
-    for (const ticker of tickers) {
-      if (excludedTickers.includes(ticker)) continue;
-      
-      const id = companyMapping.tickers[ticker];
-      
-      // If this line already contains a link to this company (from name/alias match), skip ticker linking
-      if (linkedIdsOnThisLine.has(id)) continue;
+          // Filter for validated affiliations
+          const companies = (profile.company_affiliations || []).filter(c => c.validated === true);
+          
+          const managerData = {
+            id: folderName,
+            name: profile.name,
+            background: profile.background,
+            pictureUrl: pictureUrl,
+            companies: companies.map(c => {
+              const companyId = `${c.ticker}.${c.exchange}`;
+              return {
+                name: c.name,
+                ticker: c.ticker,
+                exchange: c.exchange,
+                website: companyWebsites[companyId] || null,
+                logoUrl: companyLogos[companyId] || null,
+                title: c.title_or_role,
+                startDate: c.start_date,
+                endDate: c.end_date,
+                formattedStartDate: formatTenureDate(c.start_date),
+                formattedEndDate: formatTenureDate(c.end_date)
+              };
+            }),
+            investmentTheses: profile.investment_theses || [],
+            socials: profile.socials || [],
+            committees: profile.committees || [],
+            age: profile.age,
+            ageYear: profile.age_year
+          };
 
-      // Removed 'g' flag
-      const tickerRegex = new RegExp(`(?<!\\[|/|\\()\\b${ticker}\\b(?![\\]\\)/])`, 'i');
-      
-      if (tickerRegex.test(newLine)) {
-        const hasContext = contextKeywords.some(kw => newLine.includes(kw));
-        if (hasContext) {
-          newLine = newLine.replace(tickerRegex, (match) => `[${match}](/company/${id})`);
-          linkedIdsOnThisLine.add(id);
+          fs.writeFileSync(path.join(MANAGERS_OUTPUT_DIR, `${folderName}.json`), JSON.stringify(managerData, null, 2));
+          console.log(`Successfully generated manager ${folderName}.json`);
+
+          // Sort companies for the summary list: current roles first, then by start date descending
+          const sortedCompanies = [...companies].sort((a, b) => {
+            const aIsCurrent = !a.end_date || a.end_date === 'Present';
+            const bIsCurrent = !b.end_date || b.end_date === 'Present';
+            
+            if (aIsCurrent && !bIsCurrent) return -1;
+            if (!aIsCurrent && bIsCurrent) return 1;
+            
+            // If both are current or both are past, sort by start date descending
+            const aStart = a.start_date || '';
+            const bStart = b.start_date || '';
+            return bStart.localeCompare(aStart);
+          });
+
+          managersList.push({
+            name: profile.name,
+            first_name: profile.first_name,
+            last_name: profile.last_name,
+            pictureUrl: pictureUrl,
+            companies: sortedCompanies.slice(0, 2).map(c => ({
+              name: c.name,
+              ticker: c.ticker,
+              exchange: c.exchange,
+              role: c.title_or_role
+            })),
+            investment_theses: profile.investment_theses || []
+          });
+        } catch (e) {
+          console.error(`Error parsing manager ${profileJsonPath}:`, e.message);
         }
       }
     }
+    
+    // Sort managers by name
+    managersList.sort((a, b) => a.name.localeCompare(b.name));
+    fs.writeFileSync(path.join(OUTPUT_DIR, 'managers.json'), JSON.stringify(managersList, null, 2));
+    console.log('Successfully generated managers.json');
+  }
+}
 
-    return newLine;
-  });
-
-  return processedLines.join('\n');
-};
-
-// 2. Helper to parse thesis file
+// 3. Helper to parse thesis file
 const parseThesis = (folderName) => {
   const folderPath = path.join(THESES_DIR, folderName);
   const shortMdPath = path.join(folderPath, 'Short.md');
@@ -300,9 +368,6 @@ const parseThesis = (folderName) => {
     }
   }
 
-  theme = theme.trim();
-  summary = summary.trim();
-
   const cardImagePath = path.join(folderPath, 'CardImage.jpg');
   let imageUrl = '';
   if (fs.existsSync(cardImagePath)) {
@@ -324,6 +389,7 @@ const parseThesis = (folderName) => {
 async function main() {
   try {
     await processCompanies();
+    await processManagers();
 
     const folders = fs.readdirSync(THESES_DIR).filter(f => {
       return fs.statSync(path.join(THESES_DIR, f)).isDirectory();
@@ -350,16 +416,12 @@ async function main() {
 
       if (fs.existsSync(fullMdPath)) {
         let content = fs.readFileSync(fullMdPath, 'utf8');
-        content = linkifyCompanies(content);
-
         const baseInfo = thesesMap[folderName] || {};
-        
         const tabs = [];
         if (fs.existsSync(tabsDirPath) && fs.statSync(tabsDirPath).isDirectory()) {
           const tabFiles = fs.readdirSync(tabsDirPath).filter(f => f.endsWith('.md'));
           tabFiles.forEach(tabFile => {
             let tabContent = fs.readFileSync(path.join(tabsDirPath, tabFile), 'utf8');
-            tabContent = linkifyCompanies(tabContent);
             tabs.push({
               label: tabFile.replace('.md', ''),
               content: md.render(tabContent)
@@ -381,7 +443,6 @@ async function main() {
     const sourcesPath = path.join(THESES_DIR, 'Sources.md');
     if (fs.existsSync(sourcesPath)) {
       let sourcesContent = fs.readFileSync(sourcesPath, 'utf8');
-      sourcesContent = linkifyCompanies(sourcesContent);
       const sourcesData = {
         title: 'Sources',
         content: md.render(sourcesContent)

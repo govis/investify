@@ -1,0 +1,77 @@
+{
+  "id": "Bryn Jones",
+  "name": "Bryn Jones",
+  "background": "Mr. Jones is an industrial chemist with over 20 years’ experience in the mining industry, specifically in uranium. He is also a director of several other ASX-listed companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "5E Advanced Materials, Inc.",
+      "ticker": "FEAM",
+      "exchange": "NASDAQ",
+      "website": "5eadvancedmaterials.com",
+      "logoUrl": "/companies-assets/FEAM.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "DevEx Resources Limited",
+      "ticker": "DEV",
+      "exchange": "ASX",
+      "website": "https://devexresources.com.au/",
+      "logoUrl": "/companies-assets/DEV.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2009",
+      "endDate": null,
+      "formattedStartDate": "2009",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Australian Rare Earths Limited",
+      "ticker": "AR3",
+      "exchange": "ASX",
+      "website": "ar3.com.au",
+      "logoUrl": "/companies-assets/AR3.ASX.webp",
+      "title": "Non-Executive Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Uranium Equities Limited (now PhosEnergy Limited)",
+      "ticker": "PEA",
+      "exchange": "ASX",
+      "website": "phosenergy.com",
+      "logoUrl": "/companies-assets/PEA.ASX.jpg",
+      "title": "Managing Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bryn-jones-7a5a2a1b/",
+      "person_name": "Bryn Jones",
+      "company_name": "entX Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "age": 46,
+  "ageYear": 2024
+}

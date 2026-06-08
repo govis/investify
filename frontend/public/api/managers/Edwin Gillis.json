@@ -1,0 +1,42 @@
+{
+  "id": "Edwin Gillis",
+  "name": "Edwin Gillis",
+  "background": "Edwin J. Gillis has been a director since 2006. He was formerly the CFO of Veritas Software Corporation and CFO of PTC Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "LogMeIn, Inc. (now GoTo)",
+      "ticker": "LOGM",
+      "exchange": "NASDAQ",
+      "website": "www.goto.com",
+      "logoUrl": "/companies-assets/LOGM.NASDAQ.svg",
+      "title": "Director (Board Member)",
+      "startDate": "2008",
+      "endDate": "2020",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Sprinklr, Inc.",
+      "ticker": "CXM",
+      "exchange": "NYSE",
+      "website": "www.sprinklr.com",
+      "logoUrl": "/companies-assets/CXM.NYSE.svg",
+      "title": "Director (Board Member)",
+      "startDate": "2016-09-13",
+      "endDate": null,
+      "formattedStartDate": "September 2016",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 75,
+  "ageYear": 2024
+}

@@ -1,0 +1,122 @@
+{
+  "name": "Jeane Hull",
+  "first_name": "Jeane",
+  "last_name": "Hull",
+  "age": 68,
+  "age_year": 2024,
+  "background": "Ms. Hull was formerly the EVP and Chief Technical Officer of Peabody Energy. She has extensive experience in engineering and operations.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Hudbay Minerals Inc.",
+      "ticker": "HBM",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.hudbayminerals.com",
+      "start_date": "2023-06-01",
+      "end_date": null
+    },
+    {
+      "name": "Peabody Energy Corporation",
+      "ticker": "BTU",
+      "exchange": "NYSE",
+      "website": "https://www.peabodyenergy.com",
+      "title_or_role": "Executive Vice President and Chief Technical Officer",
+      "start_date": "2013",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Epiroc AB",
+      "ticker": "EPI-A",
+      "exchange": "STO",
+      "website": "https://www.epirocgroup.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Coeur Mining, Inc.",
+      "ticker": "CDE",
+      "exchange": "NYSE",
+      "website": "https://www.coeur.com",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Interfor Corporation",
+      "ticker": "IFP",
+      "exchange": "TSX",
+      "website": "https://www.interfor.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cloud Peak Energy Inc.",
+      "ticker": "CLD",
+      "exchange": "NYSE",
+      "website": "https://www.cloudpeakenergy.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Trevali Mining Corporation",
+      "ticker": "TV",
+      "exchange": "TSX",
+      "website": "https://www.trevali.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Copper Mountain Mining Corporation",
+      "ticker": "CMMC",
+      "exchange": "TSX",
+      "website": "https://www.cumtn.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Pretium Resources Inc.",
+      "ticker": "PVG",
+      "exchange": "TSX",
+      "website": "https://www.pretivm.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2022",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jeane-hull-9a347366",
+      "person_name": "Jeane Hull",
+      "company_name": "Hudbay Minerals Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Environmental, Health, Safety and Sustainability Committee",
+    "Technical Committee (Chair)"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

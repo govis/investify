@@ -1,0 +1,50 @@
+{
+  "name": "Kjell Gruner",
+  "first_name": "Kjell",
+  "last_name": "Gruner",
+  "age": 57,
+  "age_year": 2024,
+  "background": "Dr. Gruner has served as our Chief Commercial Officer and President, Business Growth since September 2023. Prior to joining Rivian, Dr. Gruner served as President and Chief Executive Officer of Porsche Cars North America, Inc. from 2020 to 2023. He holds a Ph.D. in Marketing from the University of Stuttgart.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Rivian Automotive, Inc.",
+      "ticker": "RIVN",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chief Commercial Officer",
+      "website": "https://rivian.com/",
+      "start_date": "September 2023",
+      "end_date": "August 2024",
+      "validated": true
+    },
+    {
+      "name": "LiveWire Group, Inc.",
+      "ticker": "LVWR",
+      "exchange": "NYSE",
+      "website": "https://www.livewire.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "September 2022",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dr-kjell-gruner-364a65b",
+      "person_name": "Kjell Gruner",
+      "company_name": "Rivian Automotive, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

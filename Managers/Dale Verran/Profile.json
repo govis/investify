@@ -1,0 +1,61 @@
+{
+  "name": "Dale Verran",
+  "first_name": "Dale",
+  "last_name": "Verran",
+  "age": 47,
+  "age_year": 2024,
+  "background": "Mr. Verran is a Professional Geoscientist with over 20 years of experience in the mining industry. He was previously Vice President, Exploration for Denison Mines Corp. and has held senior roles with various exploration and mining companies.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Fortune Bay Corp.",
+      "ticker": "FOR",
+      "exchange": "TSXV",
+      "title_or_role": "Chief Executive Officer",
+      "website": "https://fortunebaycorp.com/",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Antler Gold Inc.",
+      "ticker": "ANTL",
+      "exchange": "TSXV",
+      "website": "https://antlergold.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2020",
+      "end_date": "October 3, 2025",
+      "validated": true
+    },
+    {
+      "name": "Denison Mines Corp.",
+      "ticker": "DML",
+      "exchange": "TSX",
+      "website": "https://denisonmines.com/",
+      "title_or_role": "Vice President, Exploration",
+      "start_date": "Prior to 2020",
+      "end_date": "2020",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dale-verran",
+      "person_name": "Dale Verran",
+      "company_name": "Fortune Bay Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

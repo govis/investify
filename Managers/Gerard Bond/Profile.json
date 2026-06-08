@@ -1,0 +1,68 @@
+{
+  "name": "Gerard Bond",
+  "first_name": "Gerard",
+  "last_name": "Bond",
+  "age": 58,
+  "age_year": 2024,
+  "background": "Mr. Bond was appointed President and CEO in April 2022. He has over 25 years of experience in the global financial and resources industry, including 10 years at Newcrest Mining as CFO and several senior executive roles at BHP.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC",
+      "exchange": "ASX",
+      "title_or_role": "Managing Director, President and Chief Executive Officer",
+      "website": "https://oceanagold.com",
+      "start_date": "2022-04-04",
+      "end_date": null
+    },
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC",
+      "exchange": "TSX",
+      "title_or_role": "Director, President and Chief Executive Officer",
+      "website": "https://oceanagold.com",
+      "start_date": "2022-04-04",
+      "end_date": null
+    },
+    {
+      "name": "Newcrest Mining Limited",
+      "ticker": "NCM",
+      "exchange": "ASX",
+      "website": "https://www.newcrest.com/",
+      "title_or_role": "Finance Director and Chief Financial Officer",
+      "start_date": "January 2012",
+      "end_date": "January 2022",
+      "validated": true
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX, NYSE, LSE",
+      "website": "https://www.bhp.com/",
+      "title_or_role": "Various senior executive roles (including Deputy CFO of Aluminium, CFO and Acting President of Nickel, and Head of Group Human Resources)",
+      "start_date": "1997",
+      "end_date": "2011",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/gerard-bond-b43717132",
+      "person_name": "Gerard Bond",
+      "company_name": "OceanaGold Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

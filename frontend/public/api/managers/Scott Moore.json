@@ -1,0 +1,42 @@
+{
+  "id": "Scott Moore",
+  "name": "Scott Moore",
+  "background": "CEO of Euro Manganese Inc. and has extensive experience in the mining and metals industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Li-Cycle Holdings Corp.",
+      "ticker": "LICY",
+      "exchange": "NYSE",
+      "website": "https://li-cycle.com",
+      "logoUrl": "/companies-assets/LICY.NYSE.svg",
+      "title": "Director (Board of Directors)",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "iClick Interactive Asia Group Limited",
+      "ticker": "ICLK",
+      "exchange": "NASDAQ",
+      "website": "https://ir.i-click.com",
+      "logoUrl": "https://ir.i-click.com/wp-content/uploads/2018/05/logo.png",
+      "title": "Director (Board of Directors)",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Health, Safety, Environmental and Plant Operations Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

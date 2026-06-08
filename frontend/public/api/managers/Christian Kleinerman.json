@@ -1,0 +1,62 @@
+{
+  "id": "Christian Kleinerman",
+  "name": "Christian Kleinerman",
+  "background": "Christian Kleinerman has served as our Executive Vice President, Product Management since April 2024, and previously served as our Senior Vice President, Product Management since 2017. Prior to joining Snowflake, he held various product management roles at Google and Microsoft.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Snowflake Inc.",
+      "ticker": "SNOW",
+      "exchange": "NYSE",
+      "website": "https://www.snowflake.com",
+      "logoUrl": "/companies-assets/SNOW.NYSE.svg",
+      "title": "Executive Vice President, Product Management",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Alphabet Inc. (Google)",
+      "ticker": "GOOGL",
+      "exchange": "NASDAQ",
+      "website": "https://abc.xyz",
+      "logoUrl": "/companies-assets/GOOGL.NASDAQ.svg",
+      "title": "Vice President, Product Management (YouTube Infrastructure and Data Systems)",
+      "startDate": "2010",
+      "endDate": "2015",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "https://www.microsoft.com",
+      "logoUrl": "/companies-assets/MSFT.NASDAQ.svg",
+      "title": "Program Manager (SQL Server Team)",
+      "startDate": "1998",
+      "endDate": "2010",
+      "formattedStartDate": "1998",
+      "formattedEndDate": "2010"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/christian-kleinerman-a973102/",
+      "person_name": "Christian Kleinerman",
+      "company_name": "Snowflake Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 45,
+  "ageYear": 2024
+}

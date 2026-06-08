@@ -1,0 +1,59 @@
+{
+  "name": "Toni Townes-Whitley",
+  "first_name": "Toni",
+  "last_name": "Townes-Whitley",
+  "age": 60,
+  "age_year": 2024,
+  "background": "Ms. Townes-Whitley has served as our Chief Executive Officer since October 2023. Prior to joining SAIC, she served as President, U.S. Regulated Industries at Microsoft from 2018 to 2023. Before Microsoft, she was President of CGI Federal and held management roles at Unisys Corporation.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Science Applications International Corporation",
+      "ticker": "SAIC",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chief Executive Officer, Director",
+      "website": "https://www.saic.com",
+      "start_date": "2023-10-02",
+      "end_date": null
+    },
+    {
+      "name": "Nasdaq, Inc.",
+      "ticker": "NDAQ",
+      "exchange": "NASDAQ",
+      "website": "https://www.nasdaq.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Empowerment & Inclusion Capital I Corp.",
+      "ticker": "EPWR",
+      "exchange": "NYSE",
+      "website": "https://www.empowermentcapital.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2021",
+      "end_date": "2023",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/toni-townes-whitley-5555551",
+      "person_name": "Toni Townes-Whitley",
+      "company_name": "Science Applications International Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

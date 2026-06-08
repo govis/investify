@@ -1,0 +1,75 @@
+{
+  "id": "Roger Lemaitre",
+  "name": "Roger Lemaitre",
+  "background": "Mr. Lemaitre is a Professional Engineer and Geologist with more than 30 years of experience in the mining industry. He has held senior positions with several mining companies, including serving as President and CEO of UEX Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "O2Gold Inc.",
+      "ticker": "OTGO.H",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Homeland Uranium Corp.",
+      "ticker": "HLU.V",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "President, Chief Executive Officer & Director",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "UEX Corporation",
+      "ticker": "UEX",
+      "exchange": "TSX",
+      "website": "https://www.uexcorporation.com/",
+      "logoUrl": "https://www.marketscreener.com/images/reuters/2022/08/16/1660645600_UEX_CORPORATION.jpg",
+      "title": "President & CEO",
+      "startDate": "2013",
+      "endDate": "2022",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Valleyview Resources Ltd.",
+      "ticker": "VVR",
+      "exchange": "TSXV",
+      "website": "https://www.valleyviewresources.com/",
+      "logoUrl": "https://www.homeland-uranium.com/wp-content/uploads/2025/03/Homeland-Uranium-Logo.png",
+      "title": "President, Chief Executive Officer & Director",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/roger-lemaitre-35812939",
+      "person_name": "Roger Lemaitre",
+      "company_name": "Consolidated Lithium Metals Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

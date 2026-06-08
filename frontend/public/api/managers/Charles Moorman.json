@@ -1,0 +1,44 @@
+{
+  "id": "Charles Moorman",
+  "name": "Charles Moorman",
+  "background": "Former Chairman and CEO of Norfolk Southern Corporation. Director since 2012.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Norfolk Southern Corporation",
+      "ticker": "NSC",
+      "exchange": "NYSE",
+      "website": "www.norfolk-southern.com",
+      "logoUrl": "/companies-assets/NSC.NYSE.svg",
+      "title": "Chairman",
+      "startDate": "2006",
+      "endDate": "2015",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Duke Energy Corporation",
+      "ticker": "DUK",
+      "exchange": "NYSE",
+      "website": "https://www.duke-energy.com",
+      "logoUrl": "/companies-assets/DUK.NYSE.svg",
+      "title": "Director",
+      "startDate": "2008",
+      "endDate": "2019",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2019"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Board Governance Committee"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

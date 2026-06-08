@@ -1,0 +1,65 @@
+{
+  "id": "Kristina Peterson",
+  "name": "Kristina Peterson",
+  "background": "Ms. Peterson has served as a director since 2022. She has over 25 years of experience in the energy and financial sectors, including leadership roles at Brookfield Renewable and SunEdison.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Blink Charging Co.",
+      "ticker": "BLNK",
+      "exchange": "NASDAQ",
+      "website": "https://www.blinkcharging.com",
+      "logoUrl": "/companies-assets/BLNK.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "April 21, 2023",
+      "endDate": null,
+      "formattedStartDate": "April 21, 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Invinity Energy Systems plc",
+      "ticker": "IES",
+      "exchange": "LSE (AIM)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Director",
+      "startDate": "November 2021",
+      "endDate": null,
+      "formattedStartDate": "November 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Electriq Power Holdings, Inc.",
+      "ticker": "ELIQ",
+      "exchange": "OTC",
+      "website": "https://electriqpower.com",
+      "logoUrl": "https://electriqpower.com/wp-content/uploads/2022/10/Electriq-Power-Logo-H-Color.png",
+      "title": "Independent Director",
+      "startDate": "August 25, 2023",
+      "endDate": "May 3, 2024",
+      "formattedStartDate": "August 25, 2023",
+      "formattedEndDate": "May 3, 2024"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kristina-peterson-897b403",
+      "person_name": "Kristina Peterson",
+      "company_name": "Blink Charging Co.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee (Chair)"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

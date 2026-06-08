@@ -1,0 +1,40 @@
+{
+  "id": "Diego Diaz Pilas",
+  "name": "Diego Diaz Pilas",
+  "background": "Mr. Diaz is the Global Head of Ventures & Technology at Iberdrola. He has served as a non-executive director since 2021.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Wallbox N.V.",
+      "ticker": "WBX",
+      "exchange": "NYSE",
+      "website": "https://wallbox.com",
+      "logoUrl": "/companies-assets/WBX.NYSE.svg",
+      "title": "Director (Non-Executive)",
+      "startDate": "2021",
+      "endDate": "2022-12-13",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "December 2022"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://es.linkedin.com/in/diegodiazpilas/es",
+      "person_name": "Diego Diaz Pilas",
+      "company_name": "Wallbox N.V.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 49,
+  "ageYear": 2024
+}

@@ -1,0 +1,66 @@
+{
+  "id": "John Fitzgerald",
+  "name": "John Fitzgerald",
+  "background": "Mr Fitzgerald has over 30 years’ experience in the resources sector. He has held senior positions at NM Rothschild & Sons, Investec Bank, and Commonwealth Bank. He is a Director of Turaco Gold and was previously Chairman of Exore Resources.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Northern Star Resources Limited",
+      "ticker": "NST",
+      "exchange": "ASX",
+      "website": "https://www.nsrltd.com",
+      "logoUrl": "/companies-assets/NST.ASX.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2012",
+      "endDate": null,
+      "formattedStartDate": "2012",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Turaco Gold Limited",
+      "ticker": "TCG",
+      "exchange": "ASX",
+      "website": "https://turacogold.com.au/",
+      "logoUrl": "/companies-assets/TCG.ASX.png",
+      "title": "Non-Executive Chairman",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Medallion Metals Limited",
+      "ticker": "MM8",
+      "exchange": "ASX",
+      "website": "https://medallionmetals.com.au/",
+      "logoUrl": "/companies-assets/MM8.ASX.png",
+      "title": "Non-Executive Chairman",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/john-fitzgerald-75393914",
+      "person_name": "John Fitzgerald",
+      "company_name": "Northern Star Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee (Chair)",
+    "Nomination Committee",
+    "Remuneration Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

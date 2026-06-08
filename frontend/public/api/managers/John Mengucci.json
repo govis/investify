@@ -1,0 +1,50 @@
+{
+  "id": "John Mengucci",
+  "name": "John Mengucci",
+  "background": "Mr. Mengucci has served as President and Chief Executive Officer of CACI since July 2019. He previously served as Chief Operating Officer from 2012 to 2019. Before joining CACI, he held leadership positions at Lockheed Martin Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "CACI International Inc",
+      "ticker": "CACI",
+      "exchange": "NYSE",
+      "website": "https://www.caci.com",
+      "logoUrl": "/companies-assets/CACI.NYSE.svg",
+      "title": "President and Chief Executive Officer (Director)",
+      "startDate": "June 2019",
+      "endDate": null,
+      "formattedStartDate": "June 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Lockheed Martin Corporation",
+      "ticker": "LMT",
+      "exchange": "NYSE",
+      "website": "https://www.lockheedmartin.com",
+      "logoUrl": "/companies-assets/LMT.NYSE.svg",
+      "title": "President, Information Systems and Global Solutions (Civil and Defense segments)",
+      "startDate": "Prior to 2012",
+      "endDate": "2012",
+      "formattedStartDate": "Prior to 2012",
+      "formattedEndDate": "2012"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/john-mengucci-612a079",
+      "person_name": "John Mengucci",
+      "company_name": "CACI International Inc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 62,
+  "ageYear": 2024
+}

@@ -1,0 +1,89 @@
+{
+  "id": "Gillian Winckler",
+  "name": "Gillian Winckler",
+  "background": "Ms. Winckler is a former mining executive and investment banker with over 25 years of experience in the metals and mining industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Capstone Copper Corp.",
+      "ticker": "CS",
+      "exchange": "TSX",
+      "website": "https://capstonecopper.com",
+      "logoUrl": "/companies-assets/CS.TSX.svg",
+      "title": "Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Pan American Silver Corp.",
+      "ticker": "PAAS",
+      "exchange": "TSX / NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director, Chair of the Board",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "West Fraser Timber Co. Ltd.",
+      "ticker": "WFG",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "FLSmidth & Co. A/S",
+      "ticker": "FLT",
+      "exchange": "Nasdaq Copenhagen",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Arizona Mining, Inc.",
+      "ticker": "AZ",
+      "exchange": "TSX",
+      "website": "http://www.arizonamining.com",
+      "logoUrl": "/companies-assets/AZ.TSX.svg",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": "2018",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2018"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gillian-winckler-4a5b2a12",
+      "person_name": "Gillian Winckler",
+      "company_name": "Pan American Silver Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Human Resources and Compensation Committee",
+    "Technical and Operational Performance Committee"
+  ],
+  "age": 51,
+  "ageYear": 2024
+}

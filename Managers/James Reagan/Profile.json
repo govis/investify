@@ -1,0 +1,80 @@
+{
+  "name": "James Reagan",
+  "first_name": "James",
+  "last_name": "Reagan",
+  "age": 61,
+  "age_year": 2024,
+  "background": "James G. Reagan has served as our Executive Vice President and General Counsel since 2017. Prior to joining Leidos, he was Senior Vice President and General Counsel at Vencore, Inc.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Leidos Holdings, Inc.",
+      "ticker": "LDOS",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Vice President and General Counsel",
+      "website": "https://www.leidos.com",
+      "start_date": "2017-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Science Applications International Corporation",
+      "ticker": "SAIC",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.saic.com",
+      "start_date": "2023-12-13",
+      "end_date": null
+    },
+    {
+      "name": "Deltek, Inc.",
+      "ticker": "PROJ",
+      "exchange": "NASDAQ",
+      "website": "www.deltek.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "2005",
+      "end_date": "May 16, 2008",
+      "validated": true
+    },
+    {
+      "name": "Vangent, Inc.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "www.vangent.com",
+      "title_or_role": "Senior Vice President and Chief Financial Officer",
+      "start_date": "2008",
+      "end_date": "2011",
+      "validated": true
+    },
+    {
+      "name": "Pacific Architects and Engineers Incorporated (PAE)",
+      "ticker": "PAE",
+      "exchange": "NASDAQ",
+      "website": "www.pae.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "2012",
+      "end_date": "2012",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jim-reagan-7a5a5a10",
+      "person_name": "James Reagan",
+      "company_name": "Science Applications International Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

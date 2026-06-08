@@ -1,0 +1,43 @@
+{
+  "id": "Christopher Reynolds",
+  "name": "Christopher Reynolds",
+  "background": "Mr. Reynolds has over 30 years of experience in the mining industry, specifically in the areas of corporate finance and administration. He is currently the CFO of Seabridge Gold Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lahontan Gold Corp.",
+      "ticker": "LG",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Golcap Resources Corp.",
+      "ticker": "GCP",
+      "exchange": "CSE",
+      "website": "https://golcapresources.com/",
+      "logoUrl": "/companies-assets/GCP.CSE.png",
+      "title": "Interim Chief Executive Officer & Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 56,
+  "ageYear": 2024
+}

@@ -1,0 +1,76 @@
+{
+  "id": "Peggy Alford",
+  "name": "Peggy Alford",
+  "background": "Executive Vice President, Global Sales at PayPal Holdings, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Meta Platforms, Inc.",
+      "ticker": "META",
+      "exchange": "NASDAQ",
+      "website": "https://about.meta.com",
+      "logoUrl": "/companies-assets/META.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "The Macerich Company",
+      "ticker": "MAC",
+      "exchange": "NYSE",
+      "website": "macerich.com",
+      "logoUrl": "/companies-assets/MAC.NYSE.svg",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": "2023",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "PayPal Holdings, Inc.",
+      "ticker": "PYPL",
+      "exchange": "NASDAQ",
+      "website": "https://www.paypal.com",
+      "logoUrl": "/companies-assets/PYPL.NASDAQ.svg",
+      "title": "Senior Vice President",
+      "startDate": "2011",
+      "endDate": "2023",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "eBay Inc.",
+      "ticker": "EBAY",
+      "exchange": "NASDAQ",
+      "website": "ebay.com",
+      "logoUrl": "/companies-assets/EBAY.NASDAQ.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/peggyalford",
+      "person_name": "Peggy Alford",
+      "company_name": "PayPal Holdings, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 52,
+  "ageYear": 2024
+}

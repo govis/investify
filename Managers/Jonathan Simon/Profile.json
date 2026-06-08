@@ -1,0 +1,58 @@
+{
+  "name": "Jonathan Simon",
+  "first_name": "Jonathan",
+  "last_name": "Simon",
+  "age": 51,
+  "age_year": 2024,
+  "background": "Senior Vice President and General Counsel of Van Eck Associates Corporation since 2014.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "VanEck Rare Earth/Strategic Metals ETF",
+      "ticker": "SETM",
+      "exchange": "NYSE",
+      "title_or_role": "Vice President and Secretary",
+      "website": "https://www.vaneck.com/us/en/investments/rare-earth-strategic-metals-etf-remx/",
+      "start_date": "2014",
+      "end_date": null
+    },
+    {
+      "name": "Apollo Global Management, Inc.",
+      "ticker": "APO",
+      "exchange": "NYSE",
+      "website": "https://www.apollo.com",
+      "title_or_role": "Managing Director and Global Head of Leadership Development and Diversity",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "ticker": "JPM",
+      "exchange": "NYSE",
+      "website": "https://www.jpmorganchase.com",
+      "title_or_role": "Executive Director",
+      "start_date": null,
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Citigroup Inc.",
+      "ticker": "C",
+      "exchange": "NYSE",
+      "website": "https://www.citigroup.com",
+      "title_or_role": "Managing Director (Corporate & Investment Banking)",
+      "start_date": null,
+      "end_date": "Prior to JPMorgan Chase role",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "Steve Lines",
+  "name": "Steve Lines",
+  "background": "Mr. Lines has over 20 years of experience in environmental management and permitting for mining projects. He previously worked at Fortune Minerals and De Beers.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "First Mining Gold Corp.",
+      "ticker": "FF",
+      "exchange": "TSX",
+      "website": "https://firstmininggold.com",
+      "logoUrl": "/companies-assets/FF.TSX.png",
+      "title": "Vice President, Sustainability",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/steve-lines-8381165",
+      "person_name": "Steve Lines",
+      "company_name": "First Mining Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 48,
+  "ageYear": 2024
+}

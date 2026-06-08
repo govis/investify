@@ -1,0 +1,59 @@
+{
+  "name": "Jeremy Langford",
+  "first_name": "Jeremy",
+  "last_name": "Langford",
+  "age": 53,
+  "age_year": 2024,
+  "background": "Mr. Langford is a mining engineer with over 25 years of experience in the mining industry. He was previously the COO of Endeavour Mining Corporation.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Artemis Gold Inc.",
+      "ticker": "ARTG",
+      "exchange": "TSX",
+      "title_or_role": "President and Chief Operating Officer",
+      "website": "https://www.artemisgoldinc.com",
+      "start_date": "2022-09-01",
+      "end_date": null
+    },
+    {
+      "name": "Montage Gold Corp.",
+      "ticker": "MAU",
+      "exchange": "TSX",
+      "website": "https://www.montagegold.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2025-07-07",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Oceanic Iron Ore Corp.",
+      "ticker": "FEO",
+      "exchange": "TSXV",
+      "website": "https://oceanicironore.com/",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jeremy-r-langford",
+      "person_name": "Jeremy Langford",
+      "company_name": "Artemis Gold Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

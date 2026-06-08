@@ -1,0 +1,39 @@
+{
+  "id": "Christopher Brooks",
+  "name": "Christopher Brooks",
+  "background": "Christopher J. Brooks has served as Senior Vice President and Chief Operating Officer since July 2023. He previously served as Senior Vice President - Operations from May 2018 to June 2023.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Old Dominion Freight Line, Inc.",
+      "ticker": "ODFL",
+      "exchange": "NASDAQ",
+      "website": "https://www.odfl.com",
+      "logoUrl": "/companies-assets/ODFL.NASDAQ.png",
+      "title": "Senior Vice President, Human Resources & Safety",
+      "startDate": "June 2015",
+      "endDate": null,
+      "formattedStartDate": "June 2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "National General Insurance Co.",
+      "ticker": "NGHC",
+      "exchange": "NASDAQ",
+      "website": "https://www.nationalgeneral.com",
+      "logoUrl": "/companies-assets/NGHC.NASDAQ.png",
+      "title": "Senior Vice President, Human Resources",
+      "startDate": null,
+      "endDate": "Prior to June 2015",
+      "formattedStartDate": "",
+      "formattedEndDate": "June 2015"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 53,
+  "ageYear": 2024
+}

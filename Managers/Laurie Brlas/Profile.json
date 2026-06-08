@@ -1,0 +1,122 @@
+{
+  "name": "Laurie Brlas",
+  "first_name": "Laurie",
+  "last_name": "Brlas",
+  "age": 66,
+  "age_year": 2024,
+  "background": "Former Executive Vice President and Chief Financial Officer of Newmont Mining Corporation. Former CFO of Cliffs Natural Resources.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Constellation Energy Corporation",
+      "ticker": "CEG",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.constellationenergy.com",
+      "start_date": "2022-02-01",
+      "end_date": null
+    },
+    {
+      "name": "Constellation Energy Corporation",
+      "ticker": "CEG",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.constellationenergy.com",
+      "start_date": "2022-02-01",
+      "end_date": null
+    },
+    {
+      "name": "Albemarle Corporation",
+      "ticker": "ALB",
+      "exchange": "NYSE",
+      "website": "https://www.albemarle.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Autoliv, Inc.",
+      "ticker": "ALV",
+      "exchange": "NYSE",
+      "website": "https://www.autoliv.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Graphic Packaging Holding Company",
+      "ticker": "GPK",
+      "exchange": "NYSE",
+      "website": "https://www.graphicpkg.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Newmont Corporation",
+      "ticker": "NEM",
+      "exchange": "NYSE",
+      "website": "https://www.newmont.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "2013",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Cleveland-Cliffs Inc.",
+      "ticker": "CLF",
+      "exchange": "NYSE",
+      "website": "https://www.clevelandcliffs.com",
+      "title_or_role": "Executive Vice President and President, Global Operations / CFO",
+      "start_date": "2006",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Perrigo Company plc",
+      "ticker": "PRGO",
+      "exchange": "NYSE",
+      "website": "https://www.perrigo.com",
+      "title_or_role": "Director",
+      "start_date": "2009",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "STERIS plc",
+      "ticker": "STE",
+      "exchange": "NYSE",
+      "website": "https://www.steris.com",
+      "title_or_role": "Senior Vice President and Chief Financial Officer",
+      "start_date": "2000",
+      "end_date": "2006",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/laurie-brlas-50539310",
+      "person_name": "Laurie Brlas",
+      "company_name": "Constellation Energy Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Audit Committee (Chair)",
+    "Finance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

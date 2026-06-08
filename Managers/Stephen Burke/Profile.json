@@ -1,0 +1,73 @@
+{
+  "name": "Stephen Burke",
+  "first_name": "Stephen",
+  "last_name": "Burke",
+  "age": 65,
+  "age_year": 2024,
+  "background": "Former CEO of NBCUniversal and former COO of Comcast Corporation.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "ticker": "JPM",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.jpmorganchase.com",
+      "start_date": "2004",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Comcast Corporation",
+      "ticker": "CMCSA",
+      "exchange": "NASDAQ",
+      "website": "https://www.comcastcorporation.com",
+      "title_or_role": "Senior Executive Vice President (formerly COO and CEO of NBCUniversal)",
+      "start_date": "1998",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Berkshire Hathaway Inc.",
+      "ticker": "BRK.B",
+      "exchange": "NYSE",
+      "website": "https://www.berkshirehathaway.com",
+      "title_or_role": "Director",
+      "start_date": "2009",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Walt Disney Company",
+      "ticker": "DIS",
+      "exchange": "NYSE",
+      "website": "https://www.thewaltdisneycompany.com",
+      "title_or_role": "President of ABC Broadcasting",
+      "start_date": "1986",
+      "end_date": "1998",
+      "validated": true
+    },
+    {
+      "name": "Bank One Corporation",
+      "ticker": "ONE",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2003",
+      "end_date": "2004",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation & Management Development Committee (Chair)",
+    "Corporate Governance & Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

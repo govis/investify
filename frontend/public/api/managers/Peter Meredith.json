@@ -1,0 +1,66 @@
+{
+  "id": "Peter Meredith",
+  "name": "Peter Meredith",
+  "background": "Mr. Meredith has over 40 years of experience in the mining industry and was previously the CFO of Ivanhoe Mines Ltd.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Capstone Copper Corp.",
+      "ticker": "CS",
+      "exchange": "TSX",
+      "website": "https://capstonecopper.com",
+      "logoUrl": "/companies-assets/CS.TSX.svg",
+      "title": "Director / Lead Independent Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Ivanhoe Mines Ltd.",
+      "ticker": "IVN",
+      "exchange": "TSX",
+      "website": "ivanhoemines.com",
+      "logoUrl": "/companies-assets/IVN.TSX.svg",
+      "title": "Officer / Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Great Canadian Gaming Corp.",
+      "ticker": "GC",
+      "exchange": "TSX",
+      "website": "gcgaming.com",
+      "logoUrl": "/companies-assets/GC.TSX.svg",
+      "title": "Director / Chairman",
+      "startDate": null,
+      "endDate": "2021",
+      "formattedStartDate": "",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Entrée Resources Ltd.",
+      "ticker": "ETG",
+      "exchange": "TSX",
+      "website": "https://www.entreeresourcesltd.com/",
+      "logoUrl": "/companies-assets/ETG.TSX.png",
+      "title": "Director",
+      "startDate": "2004",
+      "endDate": null,
+      "formattedStartDate": "2004",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Governance and Nominating Committee"
+  ],
+  "age": 80,
+  "ageYear": 2024
+}

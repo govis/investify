@@ -1,0 +1,77 @@
+{
+  "id": "Diane Jurgens",
+  "name": "Diane Jurgens",
+  "background": "Diane Jurgens is an independent non-executive director. She was formerly the CTO of BHP and has held senior leadership roles at The Walt Disney Company and General Motors.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Standard Chartered PLC",
+      "ticker": "STAN",
+      "exchange": "LSE",
+      "website": "https://www.sc.com",
+      "logoUrl": "/companies-assets/STAN.LSE.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "March 2024",
+      "endDate": null,
+      "formattedStartDate": "March 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Infosys Limited",
+      "ticker": "INFY",
+      "exchange": "NYSE",
+      "website": "infosys.com",
+      "logoUrl": "/companies-assets/INFY.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "April 2026",
+      "endDate": null,
+      "formattedStartDate": "April 2026",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "The Walt Disney Company",
+      "ticker": "DIS",
+      "exchange": "NYSE",
+      "website": "https://thewaltdisneycompany.com",
+      "logoUrl": "/companies-assets/DIS.NYSE.svg",
+      "title": "Chief Information Officer",
+      "startDate": "October 2020",
+      "endDate": "2023",
+      "formattedStartDate": "October 2020",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "NYSE",
+      "website": "https://www.bhp.com",
+      "logoUrl": "/companies-assets/BHP.NYSE.svg",
+      "title": "Chief Technology Officer",
+      "startDate": "2015",
+      "endDate": "2020",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2020"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dejurgens",
+      "person_name": "Diane Jurgens",
+      "company_name": "AngloGold Ashanti plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee",
+    "Social, Ethics and Sustainability Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

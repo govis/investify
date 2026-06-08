@@ -1,0 +1,67 @@
+{
+  "id": "Wendy Kei",
+  "name": "Wendy Kei",
+  "background": "Ms. Kei is a corporate director and was formerly the CFO of Dominion Diamond Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Centerra Gold Inc.",
+      "ticker": "CG",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Karora Resources Inc.",
+      "ticker": "KRR",
+      "exchange": "TSX",
+      "website": "https://www.karoraresources.com",
+      "logoUrl": "/companies-assets/KRR.TSX.jpg",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "NFI Group Inc.",
+      "ticker": "NFI",
+      "exchange": "TSX",
+      "website": "https://www.nfigroup.com",
+      "logoUrl": "/companies-assets/NFI.TSX.svg",
+      "title": "Director / Chair of the Board",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/wendykei",
+      "person_name": "Wendy Kei",
+      "company_name": "NFI Group Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Audit Committee (Chair)",
+    "Corporate Governance and Nominating Committee",
+    "Sustainable Development Committee"
+  ],
+  "age": 51,
+  "ageYear": 2024
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Richard Parkhouse",
+  "first_name": "Richard",
+  "last_name": "Parkhouse",
+  "age": 63,
+  "age_year": 2024,
+  "background": "Mr. Parkhouse has over 30 years of experience in the financial services and resource sectors. He has held various senior management roles and has extensive experience in corporate finance and investor relations.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Forsys Metals Corp.",
+      "ticker": "FSY",
+      "exchange": "TSX",
+      "title_or_role": "Executive Director (Investor Relations)",
+      "website": "https://www.forsysmetals.com/",
+      "start_date": "October 8, 2021",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/richard-parkhouse-88a81627",
+      "person_name": "Richard Parkhouse",
+      "company_name": "Forsys Metals Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

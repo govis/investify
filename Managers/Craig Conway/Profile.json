@@ -1,0 +1,112 @@
+{
+  "name": "Craig Conway",
+  "first_name": "Craig",
+  "last_name": "Conway",
+  "age": 69,
+  "age_year": 2024,
+  "background": "Former President and CEO of PeopleSoft, Inc. He has served as a Director since 2005.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Salesforce, Inc.",
+      "ticker": "CRM",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.salesforce.com",
+      "start_date": "2005",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nutanix, Inc.",
+      "ticker": "NTNX",
+      "exchange": "NASDAQ",
+      "website": "https://www.nutanix.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Paylocity Holding Corporation",
+      "ticker": "PCTY",
+      "exchange": "NASDAQ",
+      "website": "https://www.paylocity.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Guidewire Software, Inc.",
+      "ticker": "GWRE",
+      "exchange": "NYSE",
+      "website": "https://www.guidewire.com",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Advanced Micro Devices, Inc. (AMD)",
+      "ticker": "AMD",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "title_or_role": "Director",
+      "start_date": "2005",
+      "end_date": "2011",
+      "validated": true
+    },
+    {
+      "name": "Unisys Corporation",
+      "ticker": "UIS",
+      "exchange": "NYSE",
+      "website": "https://www.unisys.com",
+      "title_or_role": "Director",
+      "start_date": "2007",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "Pegasystems Inc.",
+      "ticker": "PEGA",
+      "exchange": "NASDAQ",
+      "website": "https://www.pega.com",
+      "title_or_role": "Director",
+      "start_date": "2006",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "SuccessFactors, Inc.",
+      "ticker": "SFSF",
+      "exchange": "NASDAQ",
+      "website": "https://www.successfactors.com",
+      "title_or_role": "Director",
+      "start_date": "2007",
+      "end_date": "2012",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/craig-conway-17667896",
+      "person_name": "Craig Conway",
+      "company_name": "Salesforce, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": "https://media.licdn.com/dms/image/v2/C4E03AQEYZV-8FNVMAg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1608581438082?e=2147483647&v=beta&t=juOzKLAOwP_PXztQ-kBJyfkSc2PJCqfj46F5HCmN840",
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/C4E03AQEYZV-8FNVMAg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1608581438082?e=2147483647&v=beta&t=juOzKLAOwP_PXztQ-kBJyfkSc2PJCqfj46F5HCmN840",
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

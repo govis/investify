@@ -1,0 +1,74 @@
+{
+  "id": "Henry Dubois",
+  "name": "Henry Dubois",
+  "background": "Mr. Dubois has served as our Chief Financial Officer since September 2021. Previously, Mr. Dubois served as Chief Financial Officer of Legacy BlackSky from August 2021 to September 2021 and as a consultant to Legacy BlackSky from December 2020 to August 2021. Prior to joining Legacy BlackSky, Mr. Dubois served as Managing Director of HED Consulting from 2013 to 2021 and held executive roles at GeoEye, Inc. and DigitalGlobe, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "GeoEye, Inc.",
+      "ticker": "GEOY",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/GeoEye_logo.svg/500px-GeoEye_logo.svg.png",
+      "title": "Chief Financial Officer",
+      "startDate": "2006",
+      "endDate": "2012",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "DigitalGlobe, Inc.",
+      "ticker": "DGI",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/DigitalGlobe_logo.svg/512px-DigitalGlobe_logo.svg.png",
+      "title": "President, Chief Financial Officer, Chief Operating Officer",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Hooper Holmes, Inc.",
+      "ticker": "HH",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "https://www.hooperholmes.com/images/logo.png",
+      "title": "President, Chief Executive Officer, and Director",
+      "startDate": "2013",
+      "endDate": "2018",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Endurance Acquisition Corp.",
+      "ticker": "EDNC",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "/companies-assets/EDNC.NASDAQ.svg",
+      "title": "Independent Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/henry-dubois-b79703",
+      "person_name": "Henry Dubois",
+      "company_name": "BlackSky Technology Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

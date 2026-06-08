@@ -1,0 +1,40 @@
+{
+  "name": "Kristine Martin Anderson",
+  "first_name": "Kristine",
+  "last_name": "Martin Anderson",
+  "age": 53,
+  "age_year": 2024,
+  "background": "Ms. Anderson is our Chief Operating Officer. She joined Booz Allen in 2006 and previously led the firm's Civil business and Health business.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Booz Allen Hamilton Holding Corporation",
+      "ticker": "BAH",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Vice President and Chief Operating Officer",
+      "website": "https://www.boozallen.com",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kristine-martin-anderson-9957663",
+      "person_name": "Kristine Martin Anderson",
+      "company_name": "Booz Allen Hamilton",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

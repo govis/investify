@@ -1,0 +1,30 @@
+{
+  "id": "Scott Anderson",
+  "name": "Scott Anderson",
+  "background": "Mr. Anderson has served as a director since 2011. He is the President and CEO of Northeast Securities, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Kratos Defense & Security Solutions, Inc.",
+      "ticker": "KTOS",
+      "exchange": "NASDAQ",
+      "website": "https://www.kratosdefense.com",
+      "logoUrl": "/companies-assets/KTOS.NASDAQ.svg",
+      "title": "Director (Board Member)",
+      "startDate": "2007",
+      "endDate": null,
+      "formattedStartDate": "2007",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

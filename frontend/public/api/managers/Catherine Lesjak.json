@@ -1,0 +1,55 @@
+{
+  "id": "Catherine Lesjak",
+  "name": "Catherine Lesjak",
+  "background": "Former CFO of HP Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "General Electric Company",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "website": "https://www.geaerospace.com",
+      "logoUrl": "/companies-assets/GE.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "March 1, 2019",
+      "endDate": null,
+      "formattedStartDate": "March 1, 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Hewlett-Packard Company (now HP Inc.)",
+      "ticker": "HPQ",
+      "exchange": "NYSE",
+      "website": "hp.com",
+      "logoUrl": "/companies-assets/HPQ.NYSE.jpg",
+      "title": "Interim Chief Operating Officer (COO)",
+      "startDate": "July 1, 2018",
+      "endDate": "January 1, 2019",
+      "formattedStartDate": "July 1, 2018",
+      "formattedEndDate": "January 1, 2019"
+    },
+    {
+      "name": "SunPower Corporation",
+      "ticker": "SPWR",
+      "exchange": "NASDAQ",
+      "website": "https://us.sunpower.com",
+      "logoUrl": "/companies-assets/SPWR.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "June 6, 2013",
+      "endDate": "2024",
+      "formattedStartDate": "June 6, 2013",
+      "formattedEndDate": "2024"
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Finance and Capital Allocation Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

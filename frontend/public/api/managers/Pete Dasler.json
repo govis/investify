@@ -1,0 +1,65 @@
+{
+  "id": "Pete Dasler",
+  "name": "Pete Dasler",
+  "background": "Mr. Dasler is a Professional Geologist with over 40 years of experience in the mineral exploration and mining industry. He has served as a director and officer of several public mining companies and was the President and CEO of Canex Metals Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sitka Gold Corp.",
+      "ticker": "SIG",
+      "exchange": "TSX-V",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "Unknown",
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "CanAlaska Uranium Ltd.",
+      "ticker": "CVV",
+      "exchange": "TSX-V",
+      "website": null,
+      "logoUrl": null,
+      "title": "President, CEO, and Director",
+      "startDate": "2004",
+      "endDate": null,
+      "formattedStartDate": "2004",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "New Age Metals Inc.",
+      "ticker": "NAM",
+      "exchange": "TSX-V",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice President, Business Development",
+      "startDate": "Unknown",
+      "endDate": "Unknown",
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/pete-dasler-4a5b2a12",
+      "person_name": "Pete Dasler",
+      "company_name": "CanAlaska Uranium Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

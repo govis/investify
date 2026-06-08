@@ -1,0 +1,32 @@
+{
+  "name": "Philip Reade",
+  "first_name": "Philip",
+  "last_name": "Reade",
+  "age": 58,
+  "age_year": 2024,
+  "background": "Mr. Reade is a Managing Director at Northwestern Capital Partners and has extensive experience in investment banking and private equity.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Aura Minerals Inc.",
+      "ticker": "ORA",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://auraminerals.com/",
+      "start_date": "2017-05-28",
+      "end_date": "2022-07-26",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

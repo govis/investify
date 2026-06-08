@@ -1,0 +1,110 @@
+{
+  "id": "John McConnell",
+  "name": "John McConnell",
+  "background": "Mr. McConnell has over 35 years of experience in the mining industry. He has been the President and CEO of Victoria Gold since 2010. Previously, he was President and CEO of Western Keltic Mines Inc. and held senior positions with De Beers Canada and Breakwater Resources Ltd.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Victoria Gold Corp.",
+      "ticker": "VGCX",
+      "exchange": "TSX",
+      "website": "https://vgcx.com",
+      "logoUrl": "/companies-assets/VGCX.TSX.svg",
+      "title": "President, CEO, and Director",
+      "startDate": "2010",
+      "endDate": "August 2024",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "August 2024"
+    },
+    {
+      "name": "Lahontan Gold Corp.",
+      "ticker": "LG",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chair and Director",
+      "startDate": null,
+      "endDate": "August 2024",
+      "formattedStartDate": "",
+      "formattedEndDate": "August 2024"
+    },
+    {
+      "name": "Abacus Mining and Exploration Corp.",
+      "ticker": "AME",
+      "exchange": "TSXV",
+      "website": "https://www.amemining.com",
+      "logoUrl": "/companies-assets/AME.TSXV.png",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Worthington Enterprises, Inc.",
+      "ticker": "WOR",
+      "exchange": "NYSE",
+      "website": "https://www.worthingtonenterprises.com",
+      "logoUrl": "/companies-assets/WOR.NYSE.svg",
+      "title": "Chairman and CEO",
+      "startDate": "1990",
+      "endDate": null,
+      "formattedStartDate": "1990",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Huntington Bancshares, Inc.",
+      "ticker": "HBAN",
+      "exchange": "NASDAQ",
+      "website": "https://www.huntington.com",
+      "logoUrl": "/companies-assets/HBAN.NASDAQ.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "ProCentury Corporation",
+      "ticker": "PROS",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "/companies-assets/PROS.NASDAQ.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Tim Hortons Inc.",
+      "ticker": "THI",
+      "exchange": "TSX/NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/john-mcconnell-ba79a741",
+      "person_name": "John McConnell",
+      "company_name": "Victoria Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/C4D03AQF5665WtGnlPQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1553375728159?e=2147483647&v=beta&t=MiBpDfg4ahxAnBNc_-nvbVxaTkoD4JkVbS22riSgZPc",
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 66,
+  "ageYear": 2024
+}

@@ -1,0 +1,52 @@
+{
+  "id": "Rainer Feurer",
+  "name": "Rainer Feurer",
+  "background": "Dr. Feurer has served as a member of our Board since December 2021. He is a Senior Vice President at BMW Group, where he has held various leadership positions since 1998.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Solid Power, Inc.",
+      "ticker": "SLDP",
+      "exchange": "NASDAQ",
+      "website": "https://www.solidpowerbattery.com",
+      "logoUrl": "/companies-assets/SLDP.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "May 2021",
+      "endDate": "June 30, 2026",
+      "formattedStartDate": "May 2021",
+      "formattedEndDate": "June 30, 2026"
+    },
+    {
+      "name": "Bayerische Motoren Werke AG (BMW Group)",
+      "ticker": "BAMXF",
+      "exchange": "OTC",
+      "website": "https://www.bmwgroup.com/",
+      "logoUrl": "/companies-assets/BAMXF.OTC.png",
+      "title": "Senior Vice President, Corporate Investments",
+      "startDate": "1998",
+      "endDate": null,
+      "formattedStartDate": "1998",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://de.linkedin.com/in/rainer-feurer-9719a790",
+      "person_name": "Rainer Feurer",
+      "company_name": "BMW Group",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 55,
+  "ageYear": 2024
+}

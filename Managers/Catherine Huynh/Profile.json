@@ -1,0 +1,39 @@
+{
+  "name": "Catherine Huynh",
+  "first_name": "Catherine",
+  "last_name": "Huynh",
+  "age": null,
+  "age_year": null,
+  "background": "Ms. Huynh is a qualified accountant with over 15 years' experience in financial management and corporate advisory, specifically within the resources sector.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lotus Resources Limited",
+      "ticker": "LOT",
+      "exchange": "ASX",
+      "title_or_role": "Company Secretary",
+      "website": "https://lotusresources.com.au",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Arafura Rare Earths Limited",
+      "ticker": "ARU",
+      "exchange": "ASX",
+      "website": "https://www.arultd.com",
+      "title_or_role": "Group Financial Controller / Joint Company Secretary",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "Susan Mackenzie",
+  "name": "Susan Mackenzie",
+  "background": "Ms. Mackenzie is a professional engineer with over 30 years of experience in the energy sector, including senior roles at Petro-Canada.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "enCore Energy Corp.",
+      "ticker": "EU / ENCU",
+      "exchange": "TSX / NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

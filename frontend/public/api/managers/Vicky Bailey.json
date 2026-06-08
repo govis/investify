@@ -1,0 +1,89 @@
+{
+  "id": "Vicky Bailey",
+  "name": "Vicky Bailey",
+  "background": "President of Anderson Stratton Enterprises, LLC. Former Assistant Secretary for the Office of Policy and International Affairs at the U.S. Department of Energy.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cheniere Energy, Inc.",
+      "ticker": "LNG",
+      "exchange": "NYSE",
+      "website": "https://www.cheniere.com",
+      "logoUrl": "/companies-assets/LNG.NYSE.svg",
+      "title": "Director",
+      "startDate": "2005",
+      "endDate": null,
+      "formattedStartDate": "2005",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "TXNM Energy, Inc.",
+      "ticker": "TXNM",
+      "exchange": "NYSE",
+      "website": "https://www.txnmenergy.com",
+      "logoUrl": "/companies-assets/TXNM.NYSE.png",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "EQT Corporation",
+      "ticker": "EQT",
+      "exchange": "NYSE",
+      "website": "https://www.eqt.com",
+      "logoUrl": "/companies-assets/EQT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2004",
+      "endDate": null,
+      "formattedStartDate": "2004",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Equitrans Midstream Corporation",
+      "ticker": "ETRN",
+      "exchange": "NYSE",
+      "website": "https://www.equitransmidstream.com",
+      "logoUrl": "/companies-assets/ETRN.NYSE.png",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": "2024",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Scottish Power PLC",
+      "ticker": "SPW",
+      "exchange": "LSE",
+      "website": "https://www.scottishpower.co.uk",
+      "logoUrl": "https://www.scottishpower.co.uk/assets/images/sp-logo.svg",
+      "title": "Director",
+      "startDate": "2003",
+      "endDate": "2006",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2006"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/vicky-bailey-152a7912",
+      "person_name": "Vicky Bailey",
+      "company_name": "Anderson Stratton Enterprises, LLC",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Governance and Nominating Committee",
+    "Sustainability and Corporate Responsibility Committee"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

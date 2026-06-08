@@ -1,0 +1,51 @@
+{
+  "name": "Douglas Tobler",
+  "first_name": "Douglas",
+  "last_name": "Tobler",
+  "age": 62,
+  "age_year": 2024,
+  "background": "Mr. Tobler has served as Chief Financial Officer of Vista Gold Corp. since July 2019. He has more than 35 years of financial management experience, including over 20 years in the mining industry. Previously, he served as CFO of Lydian International and Alacer Gold Corp.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Vista Gold Corp.",
+      "ticker": "VGZ",
+      "exchange": "NYSE American",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://www.vistagold.com",
+      "start_date": "June 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lydian International Ltd.",
+      "ticker": "LYD",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2013",
+      "end_date": "June 2019",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/douglas-tobler-b6540742",
+      "person_name": "Douglas Tobler",
+      "company_name": "Vista Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

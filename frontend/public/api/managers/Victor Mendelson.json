@@ -1,0 +1,50 @@
+{
+  "id": "Victor Mendelson",
+  "name": "Victor Mendelson",
+  "background": "Victor H. Mendelson has served as HEICO’s Co-President since 2024 and previously as Co-President from 2009 to 2024. He has been the President of HEICO’s Electronic Technologies Group since 1996.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "HEICO Corporation",
+      "ticker": "HEI",
+      "exchange": "NYSE",
+      "website": "https://www.heico.com",
+      "logoUrl": "/companies-assets/HEI.NYSE.svg",
+      "title": "Co-President",
+      "startDate": "1990",
+      "endDate": null,
+      "formattedStartDate": "1990",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Terrapin 3 Acquisition Corporation",
+      "ticker": "TRTL",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "/companies-assets/TRTL.NASDAQ.png",
+      "title": "Director",
+      "startDate": "2014",
+      "endDate": "2016",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2016"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/victor-mendelson-6ba6807",
+      "person_name": "Victor Mendelson",
+      "company_name": "HEICO Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 56,
+  "ageYear": 2024
+}

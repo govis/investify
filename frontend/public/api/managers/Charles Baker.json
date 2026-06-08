@@ -1,0 +1,31 @@
+{
+  "id": "Charles Baker",
+  "name": "Charles Baker",
+  "background": "Independent Trustee. Formerly a partner at DLA Piper LLP (US).",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "UnitedHealth Group Incorporated",
+      "ticker": "UNH",
+      "exchange": "NYSE",
+      "website": "https://www.unitedhealthgroup.com",
+      "logoUrl": "/companies-assets/UNH.NYSE.svg",
+      "title": "Director (Member of the Board of Directors)",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Governance Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

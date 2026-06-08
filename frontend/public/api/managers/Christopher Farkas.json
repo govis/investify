@@ -1,0 +1,28 @@
+{
+  "id": "Christopher Farkas",
+  "name": "Christopher Farkas",
+  "background": "Mr. Farkas has served as Vice President and Chief Financial Officer since May 2021. He previously served as Vice President and Corporate Controller from 2014 to 2021.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Curtiss-Wright Corporation",
+      "ticker": "CW",
+      "exchange": "NYSE",
+      "website": "https://www.curtisswright.com",
+      "logoUrl": "/companies-assets/CW.NYSE.svg",
+      "title": "Vice President - Finance and Corporate Controller",
+      "startDate": "Prior to 2019",
+      "endDate": "May 2020",
+      "formattedStartDate": "Prior to 2019",
+      "formattedEndDate": "May 2020"
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

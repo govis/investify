@@ -1,0 +1,39 @@
+{
+  "id": "Theodore Ted Colbert III",
+  "name": "Theodore \"Ted\" Colbert III",
+  "background": "Mr. Colbert was Executive Vice President and President and CEO of Boeing Defense, Space & Security. He previously served as CEO of Boeing Global Services and Chief Information Officer.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "The Boeing Company",
+      "ticker": "BA",
+      "exchange": "NYSE",
+      "website": "https://www.boeing.com",
+      "logoUrl": "/companies-assets/BA.NYSE.svg",
+      "title": "Various senior executive roles, including President and CEO of Boeing Defense, Space & Security (BDS)",
+      "startDate": "2009",
+      "endDate": "2024",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Archer-Daniels-Midland Company",
+      "ticker": "ADM",
+      "exchange": "NYSE",
+      "website": "https://www.adm.com",
+      "logoUrl": "/companies-assets/ADM.NYSE.png",
+      "title": "Member of the Board of Directors",
+      "startDate": "May 2021",
+      "endDate": null,
+      "formattedStartDate": "May 2021",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 50,
+  "ageYear": 2024
+}

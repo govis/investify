@@ -1,0 +1,54 @@
+{
+  "name": "Susan Gordon",
+  "first_name": "Susan",
+  "last_name": "Gordon",
+  "age": 65,
+  "age_year": 2024,
+  "background": "Ms. Gordon has served as a member of our Board since September 2021. Ms. Gordon served as the Principal Deputy Director of National Intelligence from 2017 to 2019 and as Deputy Director of the National Geospatial-Intelligence Agency from 2015 to 2017.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "BlackSky Technology Inc.",
+      "ticker": "BKSY",
+      "exchange": "NYSE",
+      "title_or_role": "Member, Board of Directors",
+      "website": "https://www.blacksky.com",
+      "start_date": "2021-10-05",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CACI International Inc",
+      "ticker": "CACI",
+      "exchange": "NYSE",
+      "title_or_role": "Member, Board of Directors",
+      "website": "https://www.caci.com",
+      "start_date": "2020-02-12",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/susan-gordon-2a68a31",
+      "person_name": "Susan Gordon",
+      "company_name": "BlackSky Technology Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee",
+    "Security and Risk Assessment Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

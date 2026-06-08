@@ -1,0 +1,51 @@
+{
+  "id": "Scott Davis",
+  "name": "Scott Davis",
+  "background": "Mr. Davis is a partner of Cross Davis & Company LLP, a firm focused on providing accounting and management services to publicly listed companies. He has over 20 years of experience in the financial sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Tudor Gold Corp.",
+      "ticker": "TUD",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Goldstorm Metals Corp.",
+      "ticker": "GSTM",
+      "exchange": "TSXV",
+      "website": "https://goldstormmetals.com/",
+      "logoUrl": "/companies-assets/GSTM.TSXV.png",
+      "title": "Chief Financial Officer and Secretary",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "C2C Gold Corp.",
+      "ticker": "CTOC",
+      "exchange": "CSE",
+      "website": "https://c2cmetals.com",
+      "logoUrl": "/companies-assets/CTOC.CSE.png",
+      "title": "Chief Financial Officer",
+      "startDate": "2021",
+      "endDate": "2023",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2023"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 51,
+  "ageYear": 2024
+}

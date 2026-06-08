@@ -1,0 +1,83 @@
+{
+  "name": "Dan Lougher",
+  "first_name": "Dan",
+  "last_name": "Lougher",
+  "age": 64,
+  "age_year": 2024,
+  "background": "Mr. Lougher is a highly experienced mining executive with over 40 years of experience in the industry, including as CEO of Western Areas Limited.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Perseus Mining Limited",
+      "ticker": "PRU",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://perseusmining.com/",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Alligator Energy Limited",
+      "ticker": "AGE",
+      "exchange": "ASX",
+      "website": "https://www.alligatorenergy.com.au/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2025-12-15",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "American West Metals Limited",
+      "ticker": "AW1",
+      "exchange": "ASX",
+      "website": "https://www.aw1metals.com/",
+      "title_or_role": "Non-Executive Chairman",
+      "start_date": "2022-11-09",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "St Barbara Limited",
+      "ticker": "SBM",
+      "exchange": "ASX",
+      "website": "https://stbarbara.com.au/",
+      "title_or_role": "Managing Director / CEO",
+      "start_date": "2022",
+      "end_date": "2023-06-30",
+      "validated": true
+    },
+    {
+      "name": "Western Areas Limited",
+      "ticker": "WSA",
+      "exchange": "ASX",
+      "website": "https://www.westernareas.com.au/",
+      "title_or_role": "Managing Director / CEO",
+      "start_date": "2012",
+      "end_date": "2022",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/dan-lougher-93b8998",
+      "person_name": "Dan Lougher",
+      "company_name": "Western Areas Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee",
+    "Technical Committee (Chair)"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

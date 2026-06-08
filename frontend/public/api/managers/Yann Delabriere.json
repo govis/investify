@@ -1,0 +1,101 @@
+{
+  "id": "Yann Delabriere",
+  "name": "Yann Delabriere",
+  "background": "Yann Delabriere has been a member of the Supervisory Board since 2020. He was previously Chairman and CEO of Faurecia and IDEMIA.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "STMicroelectronics N.V.",
+      "ticker": "STM",
+      "exchange": "NYSE / Euronext Paris",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Director",
+      "startDate": "2013",
+      "endDate": "May 2024",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "May 2024"
+    },
+    {
+      "name": "Faurecia (now FORVIA)",
+      "ticker": "EO",
+      "exchange": "Euronext Paris",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman and Chief Executive Officer",
+      "startDate": "2007",
+      "endDate": "2017",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Alstom",
+      "ticker": "ALO",
+      "exchange": "Euronext Paris",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director / Lead Independent Director",
+      "startDate": "March 2017",
+      "endDate": "2021",
+      "formattedStartDate": "March 2017",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Capgemini SE",
+      "ticker": "CAP",
+      "exchange": "Euronext Paris",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Director / Chairman of the Audit Committee",
+      "startDate": "2004",
+      "endDate": "2016",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "LeddarTech Holdings Inc.",
+      "ticker": "LDTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.leddartech.com",
+      "logoUrl": "https://leddartech.com/wp-content/uploads/2023/12/LeddarTech-Logo-2023.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Zodiac Aerospace",
+      "ticker": "ZOD",
+      "exchange": "Euronext Paris",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman of the Executive Board",
+      "startDate": "June 2017",
+      "endDate": "February 2018",
+      "formattedStartDate": "June 2017",
+      "formattedEndDate": "February 2018"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://fr.linkedin.com/in/yann-delabriere",
+      "person_name": "Yann Delabriere",
+      "company_name": "STMicroelectronics",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Strategic Committee"
+  ],
+  "age": 73,
+  "ageYear": 2023
+}

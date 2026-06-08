@@ -1,0 +1,42 @@
+{
+  "id": "Alice Gast",
+  "name": "Alice Gast",
+  "background": "President Emeritus of Imperial College London. Director since 2012.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Chevron Corporation",
+      "ticker": "CVX",
+      "exchange": "NYSE",
+      "website": "https://www.chevron.com",
+      "logoUrl": "/companies-assets/CVX.NYSE.svg",
+      "title": "Director",
+      "startDate": "2012",
+      "endDate": "2025",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2025"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/alicegast",
+      "person_name": "Alice Gast",
+      "company_name": "Chevron",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1,
+      "profile_status": "private"
+    }
+  ],
+  "committees": [
+    "Board Governance Committee",
+    "Public Policy and Sustainability Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

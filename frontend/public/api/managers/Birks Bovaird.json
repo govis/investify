@@ -1,0 +1,77 @@
+{
+  "id": "Birks Bovaird",
+  "name": "Birks Bovaird",
+  "background": "Mr. Bovaird is the Chairman of the Board. He has been a director of the Company since 2006. He has extensive experience in corporate finance and the resource industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Noble Mineral Exploration Inc.",
+      "ticker": "NOB",
+      "exchange": "TSXV",
+      "website": "https://noblemineralexploration.com/",
+      "logoUrl": "/companies-assets/NOB.TSXV.svg",
+      "title": "Independent Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Silver Bullet Mines Corp.",
+      "ticker": "SBMI",
+      "exchange": "TSXV",
+      "website": "https://www.silverbulletmines.com/",
+      "logoUrl": "https://brandfetch.com/silverbulletmines.com?id=1715693820934&t=1739886364531&width=256&height=256&format=png",
+      "title": "Chairman",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Copper Road Resources Inc.",
+      "ticker": "CRD",
+      "exchange": "TSXV",
+      "website": "https://copperroad.ca/",
+      "logoUrl": "/companies-assets/CRD.TSXV.png",
+      "title": "Independent Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Homeland Nickel, Inc.",
+      "ticker": "HNIK",
+      "exchange": "OTC",
+      "website": "http://www.homelandnickel.com/",
+      "logoUrl": "/companies-assets/HNIK.OTC.svg",
+      "title": "Independent Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/birks-bovaird-icd-d-7a09891",
+      "person_name": "Birks Bovaird",
+      "company_name": "Energy Fuels Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Governance and Nominating Committee"
+  ],
+  "age": 75,
+  "ageYear": 2024
+}

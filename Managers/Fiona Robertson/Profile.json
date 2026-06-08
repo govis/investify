@@ -1,0 +1,63 @@
+{
+  "name": "Fiona Robertson",
+  "first_name": "Fiona",
+  "last_name": "Robertson",
+  "age": null,
+  "age_year": null,
+  "background": "Ms Robertson has over 40 years\u2019 experience in corporate finance, investment banking, and the resource sector. She has held senior roles at Chase Manhattan Bank and Delta Gold.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Bellevue Gold Limited",
+      "ticker": "BGL",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://www.bellevuegold.com.au/",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Whitehaven Coal Limited",
+      "ticker": "WHC",
+      "exchange": "ASX",
+      "website": "https://whitehavencoal.com.au/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "16 February 2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "29Metals Limited",
+      "ticker": "29M",
+      "exchange": "ASX",
+      "website": "https://www.29metals.com/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/fiona-robertson-am-a9144426",
+      "person_name": "Fiona Robertson",
+      "company_name": "Bellevue Gold Limited, Whitehaven Coal Limited, 29Metals Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee (Chair)",
+    "Nomination and Remuneration Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

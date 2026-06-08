@@ -1,0 +1,72 @@
+{
+  "name": "Brenda Reichelderfer",
+  "first_name": "Brenda",
+  "last_name": "Reichelderfer",
+  "age": 65,
+  "age_year": 2024,
+  "background": "Ms. Reichelderfer is a Senior Vice President and Managing Director at TriVista. She has served as a director since 2013.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Moog Inc.",
+      "ticker": "MOG",
+      "exchange": "A.NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.moog.com",
+      "start_date": "2013",
+      "end_date": null
+    },
+    {
+      "name": "Federal Signal Corporation",
+      "ticker": "FSS",
+      "exchange": "NYSE",
+      "website": "https://www.federalsignal.com",
+      "title_or_role": "Director",
+      "start_date": "2006",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Meggitt PLC",
+      "ticker": "MGGT",
+      "exchange": "LSE",
+      "website": "https://www.meggitt.com",
+      "title_or_role": "Director",
+      "start_date": "2011-06",
+      "end_date": "2017-04",
+      "validated": true
+    },
+    {
+      "name": "ITT Corporation (now ITT Inc.)",
+      "ticker": "ITT",
+      "exchange": "NYSE",
+      "website": "https://www.itt.com",
+      "title_or_role": "Senior Vice President, Corporate Director of Engineering and Chief Technology Officer",
+      "start_date": "2005-11",
+      "end_date": "2008-05",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/brenda-reichelderfer-b99b814",
+      "person_name": "Brenda Reichelderfer",
+      "company_name": "Moog Inc., Federal Signal Corporation, Meggitt PLC",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Executive Compensation Committee",
+    "Nominating and Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

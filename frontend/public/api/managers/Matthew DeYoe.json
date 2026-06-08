@@ -1,0 +1,38 @@
+{
+  "id": "Matthew DeYoe",
+  "name": "Matthew DeYoe",
+  "background": "Former equity research analyst covering the chemicals and lithium sectors.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sigma Lithium Corporation",
+      "ticker": "SGML",
+      "exchange": "NASDAQ",
+      "website": "https://www.sigmalithiumresources.com",
+      "logoUrl": "/companies-assets/SGML.NASDAQ.svg",
+      "title": "Executive Vice President, Corporate Affairs and Strategic Development",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/matthew-deyoe-cfa-04276842",
+      "person_name": "Matthew DeYoe",
+      "company_name": "Sigma Lithium Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 40,
+  "ageYear": 2024
+}

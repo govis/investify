@@ -1,0 +1,60 @@
+{
+  "name": "Dean Hanisch",
+  "first_name": "Dean",
+  "last_name": "Hanisch",
+  "age": null,
+  "age_year": null,
+  "background": "Mr. Hanisch has over 20 years of experience in the financial services industry, specifically in the areas of corporate finance, mergers and acquisitions, and capital markets. He has held various senior management positions with several public and private companies.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Stria Lithium Inc.",
+      "ticker": "SRA",
+      "exchange": "TSXV",
+      "title_or_role": "Chief Executive Officer, Director",
+      "website": "https://strialithium.com/",
+      "start_date": "2022-06-01",
+      "end_date": null
+    },
+    {
+      "name": "Focus Graphite Inc.",
+      "ticker": "FMS",
+      "exchange": "TSXV",
+      "website": "https://focusgraphite.com/",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2025-01-07",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CTT Pharmaceutical Holdings, Inc.",
+      "ticker": "CTTH",
+      "exchange": "OTC",
+      "website": "https://cttpharma.com/",
+      "title_or_role": "President, Secretary, Treasurer and Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/dean-hanisch-9b60502",
+      "person_name": "Dean Hanisch",
+      "company_name": "Stria Lithium Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

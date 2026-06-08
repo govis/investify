@@ -1,0 +1,50 @@
+{
+  "name": "Cliff Revering",
+  "first_name": "Cliff",
+  "last_name": "Revering",
+  "age": 55,
+  "age_year": 2024,
+  "background": "Mr. Revering is a Professional Geoscientist with over 25 years of experience in the mining industry, with a focus on uranium exploration and development. He previously held senior roles at Cameco Corporation and SRK Consulting.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Atha Energy Corp.",
+      "ticker": "SASK",
+      "exchange": "TSXV",
+      "title_or_role": "Vice President, Exploration",
+      "website": "https://athaenergy.com/",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCO",
+      "exchange": "TSX",
+      "website": "https://www.cameco.com/",
+      "title_or_role": "Chief Geologist (Cigar Lake Mine)",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/cliff-revering-p-eng-5a5a5a1a",
+      "person_name": "Cliff Revering",
+      "company_name": "Atha Energy Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

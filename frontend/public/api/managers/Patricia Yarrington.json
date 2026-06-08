@@ -1,0 +1,30 @@
+{
+  "id": "Patricia Yarrington",
+  "name": "Patricia Yarrington",
+  "background": "Retired Vice President and CFO of Chevron Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Chevron Corporation",
+      "ticker": "CVX",
+      "exchange": "NYSE",
+      "website": "https://www.chevron.com",
+      "logoUrl": "/companies-assets/CVX.NYSE.svg",
+      "title": "Vice President and Treasurer",
+      "startDate": "2007-01-01",
+      "endDate": "2008-12-31",
+      "formattedStartDate": "January 2007",
+      "formattedEndDate": "December 2008"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Management Development and Compensation Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Alan Boeckmann",
+  "first_name": "Alan",
+  "last_name": "Boeckmann",
+  "age": 75,
+  "age_year": 2024,
+  "background": "Mr. Boeckmann has served as a member of our Board since May 2022. He is the former Executive Chairman and CEO of Fluor Corporation.",
+  "picture_url": null,
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
+    {
+      "name": "NuScale Power Corporation",
+      "ticker": "SMR",
+      "exchange": "NYSE",
+      "title_or_role": "Non-Executive Chairman",
+      "website": "https://www.nuscalepower.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Fluor Corporation",
+      "ticker": "FLR",
+      "exchange": "NYSE",
+      "website": "https://www.fluor.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Sempra",
+      "ticker": "SRE",
+      "exchange": "NYSE",
+      "website": "https://www.sempra.com",
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Archer-Daniels-Midland Company",
+      "ticker": "ADM",
+      "exchange": "NYSE",
+      "website": "https://www.adm.com",
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "BP p.l.c.",
+      "ticker": "BP",
+      "exchange": "NYSE",
+      "website": "https://www.bp.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2014",
+      "end_date": "2019",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/alan-boeckmann-95926866",
+      "person_name": "Alan Boeckmann",
+      "company_name": "NuScale Power Corporation, Fluor Corporation",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 0
+}

@@ -1,0 +1,40 @@
+{
+  "id": "Ernest Moniz",
+  "name": "Ernest Moniz",
+  "background": "CEO of the Energy Futures Initiative and the Nuclear Threat Initiative. Former U.S. Secretary of Energy.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "The Southern Company",
+      "ticker": "SO",
+      "exchange": "NYSE",
+      "website": "https://www.southerncompany.com",
+      "logoUrl": "/companies-assets/SO.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "February 2018",
+      "endDate": null,
+      "formattedStartDate": "February 2018",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ernestmoniz",
+      "person_name": "Ernest Moniz",
+      "company_name": "The Southern Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Operations, Environmental and Safety"
+  ],
+  "age": 79,
+  "ageYear": 2024
+}

@@ -1,0 +1,101 @@
+{
+  "id": "Abhi Talwalkar",
+  "name": "Abhi Talwalkar",
+  "background": "Former President and CEO of LSI Corporation. Director since 2017.",
+  "pictureUrl": "/managers-assets/Abhi Talwalkar.jpg",
+  "companies": [
+    {
+      "name": "Advanced Micro Devices, Inc.",
+      "ticker": "AMD",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "logoUrl": "/companies-assets/AMD.NASDAQ.svg",
+      "title": "Board of Directors",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Lam Research Corp.",
+      "ticker": "LRCX",
+      "exchange": "NASDAQ",
+      "website": "https://www.lamresearch.com",
+      "logoUrl": "/companies-assets/LRCX.NASDAQ.svg",
+      "title": "Board of Directors",
+      "startDate": "2011",
+      "endDate": "2023",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "TE Connectivity Ltd.",
+      "ticker": "TEL",
+      "exchange": "NYSE",
+      "website": "https://www.te.com",
+      "logoUrl": "/companies-assets/TEL.NYSE.svg",
+      "title": "Board of Directors",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "LSI Corporation",
+      "ticker": "LSI (Delisted)",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "President & CEO",
+      "startDate": "2005",
+      "endDate": "2014",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2014"
+    },
+    {
+      "name": "Emulex Corporation",
+      "ticker": "ELX (Delisted)",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board of Directors",
+      "startDate": "2012",
+      "endDate": "2015",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "logoUrl": "/companies-assets/INTC.NASDAQ.svg",
+      "title": "Various Executive Roles",
+      "startDate": "1993",
+      "endDate": "2005",
+      "formattedStartDate": "1993",
+      "formattedEndDate": "2005"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/abhi-talwalkar-26023154/",
+      "person_name": "Abhi Talwalkar",
+      "company_name": "LSI Corporation",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
+  "committees": [
+    "Compensation and Leadership Resources Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

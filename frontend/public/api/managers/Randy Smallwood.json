@@ -1,0 +1,50 @@
+{
+  "id": "Randy Smallwood",
+  "name": "Randy Smallwood",
+  "background": "Mr. Smallwood was involved in the founding of Wheaton in 2004 and was appointed President in 2010 and CEO in 2011. He previously served as Director of Project Development at Goldcorp Inc. and is currently the Chair of the World Gold Council.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Geologix Explorations Inc.",
+      "ticker": "GIX",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "http://www.geologix.ca/img/logo.png",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Wheaton River Minerals Ltd.",
+      "ticker": "WRM",
+      "exchange": "TSX",
+      "website": "https://www.goldcorp.com/",
+      "logoUrl": "/companies-assets/WRM.TSX.svg",
+      "title": "Director of Project Development",
+      "startDate": "2001",
+      "endDate": "2005",
+      "formattedStartDate": "2001",
+      "formattedEndDate": "2005"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/randy-smallwood-39092b17",
+      "person_name": "Randy Smallwood",
+      "company_name": "Wheaton Precious Metals Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 60,
+  "ageYear": 2024
+}

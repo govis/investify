@@ -1,0 +1,50 @@
+{
+  "id": "Barry Murphy",
+  "name": "Barry Murphy",
+  "background": "Mr. Murphy is a seasoned mining professional with over 30 years of experience in project development and operations, formerly with Anglo American.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Aclara Resources Inc.",
+      "ticker": "ARA",
+      "exchange": "TSX",
+      "website": "https://www.aclara.com",
+      "logoUrl": "/companies-assets/ARA.TSX.svg",
+      "title": "Former Chief Operating Officer",
+      "startDate": "Unknown",
+      "endDate": "2023",
+      "formattedStartDate": "",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Heliostar Metals Ltd.",
+      "ticker": "HSTR",
+      "exchange": "TSXV",
+      "website": "https://www.heliostarmetals.com",
+      "logoUrl": "/companies-assets/HSTR.TSXV.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/bmurphy-mining-exec",
+      "person_name": "Barry Murphy",
+      "company_name": "Aclara Resources Inc., Heliostar Metals Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 58,
+  "ageYear": 2024
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Ian Bruce",
+  "first_name": "Ian",
+  "last_name": "Bruce",
+  "age": 70,
+  "age_year": 2023,
+  "background": "Ian Bruce is the Chair of the Board. He is the former President and CEO of Peters & Co. Limited, an investment firm. He has extensive experience in investment banking and the oil and gas industry.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCO (TSX), CCJ (NYSE)",
+      "exchange": "TSX, NYSE",
+      "title_or_role": "Director, Chair of the Board",
+      "website": "https://www.cameco.com",
+      "start_date": "2012",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCO",
+      "exchange": "TSX",
+      "title_or_role": "Chair of the Board, Director",
+      "website": "https://www.cameco.com",
+      "start_date": "2018-05-01",
+      "end_date": null
+    },
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC (TSX)",
+      "exchange": "TSX",
+      "website": "https://oceanagold.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Corvus Gold Inc.",
+      "ticker": "KOR (TSX)",
+      "exchange": "TSX",
+      "website": "https://corvusgold.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Trevali Mining Corporation",
+      "ticker": "TV (TSX)",
+      "exchange": "TSX",
+      "website": "https://www.trevali.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating, Corporate Governance and Risk Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

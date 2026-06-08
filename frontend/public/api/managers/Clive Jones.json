@@ -1,0 +1,30 @@
+{
+  "id": "Clive Jones",
+  "name": "Clive Jones",
+  "background": "Clive Jones has over 30 years of experience in mineral exploration and management. He has been involved in the discovery and development of numerous mineral deposits and has served as a director of several ASX-listed companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cazaly Resources Ltd",
+      "ticker": "CAZ",
+      "exchange": "ASX",
+      "website": "https://cazalyresources.com.au/",
+      "logoUrl": "/companies-assets/CAZ.ASX.svg",
+      "title": "Chairman",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Remuneration and Nomination Committee (Chair)"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

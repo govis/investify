@@ -1,0 +1,39 @@
+{
+  "name": "Tracey Stearns",
+  "first_name": "Tracey",
+  "last_name": "Stearns",
+  "age": 54,
+  "age_year": 2024,
+  "background": "Ms. Stearns has served as our Senior Vice President and Chief People Officer since April 2023. She previously served as Vice President of Human Resources at AeroVironment since 2021 and held HR leadership roles at various technology companies.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "AeroVironment, Inc.",
+      "ticker": "AVAV",
+      "exchange": "NASDAQ",
+      "title_or_role": "Senior Vice President and Chief People Officer",
+      "website": "https://www.avinc.com",
+      "start_date": "2023-04-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/tracey-stearns-8a5a1a12/",
+      "person_name": "Tracey Stearns",
+      "company_name": "AeroVironment, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

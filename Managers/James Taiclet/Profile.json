@@ -1,0 +1,50 @@
+{
+  "name": "James Taiclet",
+  "first_name": "James",
+  "last_name": "Taiclet",
+  "age": 64,
+  "age_year": 2024,
+  "background": "Mr. Taiclet has served as Chairman, President and Chief Executive Officer of Lockheed Martin since June 2020. He previously served as Chairman, President and Chief Executive Officer of American Tower Corporation.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lockheed Martin Corporation",
+      "ticker": "LMT",
+      "exchange": "NYSE",
+      "title_or_role": "Chairman",
+      "website": "https://www.lockheedmartin.com",
+      "start_date": "March 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "American Tower Corporation",
+      "ticker": "AMT",
+      "exchange": "NYSE",
+      "website": "https://www.americantower.com",
+      "title_or_role": "Chairman, President and Chief Executive Officer",
+      "start_date": "2003",
+      "end_date": "June 2020",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/james-taiclet",
+      "person_name": "James Taiclet",
+      "company_name": "Lockheed Martin",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

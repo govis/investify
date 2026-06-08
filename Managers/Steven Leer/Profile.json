@@ -1,0 +1,83 @@
+{
+  "name": "Steven Leer",
+  "first_name": "Steven",
+  "last_name": "Leer",
+  "age": 71,
+  "age_year": 2024,
+  "background": "Former Chairman and CEO of Arch Coal, Inc. He has served on our board since 2013.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Parsons Corporation",
+      "ticker": "PSN",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.parsons.com",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Arch Resources, Inc.",
+      "ticker": "ARCH",
+      "exchange": "NYSE",
+      "website": "https://www.archrsc.com",
+      "title_or_role": "President, CEO, Chairman",
+      "start_date": "1992",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "Norfolk Southern Corporation",
+      "ticker": "NSC",
+      "exchange": "NYSE",
+      "website": "https://www.nscorp.com",
+      "title_or_role": "Director / Lead Independent Director",
+      "start_date": "2011",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "USG Corporation",
+      "ticker": "USG",
+      "exchange": "NYSE",
+      "website": "https://www.usg.com",
+      "title_or_role": "Director / Lead Director / Non-Executive Chairman",
+      "start_date": "2005",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Cenovus Energy Inc.",
+      "ticker": "CVE",
+      "exchange": "TSX / NYSE",
+      "website": "https://www.cenovus.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2021",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/steven-leer-4a5b2a12",
+      "person_name": "Steven Leer",
+      "company_name": "Arch Resources, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Responsibility Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

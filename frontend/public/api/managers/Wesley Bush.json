@@ -1,0 +1,93 @@
+{
+  "id": "Wesley Bush",
+  "name": "Wesley Bush",
+  "background": "Former Chairman and CEO of Northrop Grumman Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "website": "https://www.cisco.com",
+      "logoUrl": "/companies-assets/CSCO.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "website": "https://www.gm.com",
+      "logoUrl": "/companies-assets/GM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "website": "https://www.northropgrumman.com",
+      "logoUrl": "/companies-assets/NOC.NYSE.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2005",
+      "endDate": "2006",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2006"
+    },
+    {
+      "name": "Dow Inc.",
+      "ticker": "DOW",
+      "exchange": "NYSE",
+      "website": "https://www.dow.com",
+      "logoUrl": "/companies-assets/DOW.NYSE.svg",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "GE Aerospace",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "website": "https://www.geaerospace.com",
+      "logoUrl": "/companies-assets/GE.NYSE.svg",
+      "title": "Director",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "TRW Inc.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "Systems Engineer",
+      "startDate": "1987",
+      "endDate": "2002",
+      "formattedStartDate": "1987",
+      "formattedEndDate": "2002"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation and Management Development Committee",
+    "Finance Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

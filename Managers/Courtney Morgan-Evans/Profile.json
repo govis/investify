@@ -1,0 +1,29 @@
+{
+  "name": "Courtney Morgan-Evans",
+  "first_name": "Courtney",
+  "last_name": "Morgan-Evans",
+  "age": null,
+  "age_year": null,
+  "background": "Ms. Morgan-Evans is a human resources professional with over 20 years' experience in the mining and resources sector. She has held senior HR leadership roles with companies including Newcrest Mining and Fortescue Metals Group.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "De Grey Mining Limited",
+      "ticker": "DEG",
+      "exchange": "ASX",
+      "title_or_role": "General Manager Human Resources",
+      "website": "https://degreymining.com.au/",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Tony Makuch",
+  "first_name": "Tony",
+  "last_name": "Makuch",
+  "age": 65,
+  "age_year": 2024,
+  "background": "Mr. Makuch is a professional engineer with over 40 years of experience in the mining industry. He previously served as President and CEO of Kirkland Lake Gold Ltd. from 2016 to 2022, where he led the company through significant growth and its eventual merger with Agnico Eagle Mines Limited. He has also held executive roles at Lake Shore Gold Corp. and FNX Mining Company Inc.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Discovery Silver Corp.",
+      "ticker": "DSV",
+      "exchange": "TSX",
+      "title_or_role": "President, CEO and Director",
+      "website": "https://discoverysilver.com/",
+      "start_date": "January 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kirkland Lake Gold Ltd.",
+      "ticker": "KL",
+      "exchange": "TSX",
+      "website": "https://www.agnicoeagle.com/",
+      "title_or_role": "President and CEO",
+      "start_date": "2016",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Lake Shore Gold Corp.",
+      "ticker": "LSG",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "President and CEO",
+      "start_date": "2008",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "West Red Lake Gold Mines Ltd.",
+      "ticker": "WRLG",
+      "exchange": "TSXV",
+      "website": "https://westredlakegold.com/",
+      "title_or_role": "Director",
+      "start_date": "2023",
+      "end_date": "2025",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/tony-makuch-4a5b2a12",
+      "person_name": "Tony Makuch",
+      "company_name": "Discovery Silver Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

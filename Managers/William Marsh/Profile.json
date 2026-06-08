@@ -1,0 +1,103 @@
+{
+  "name": "William Marsh",
+  "first_name": "William",
+  "last_name": "Marsh",
+  "age": 68,
+  "age_year": 2024,
+  "background": "Geologist with over 40 years of experience in the uranium industry, including senior roles at Cameco Corp.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Fission Uranium Corp.",
+      "ticker": "FCU",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "fissionuranium.com",
+      "start_date": "Unknown",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "F3 Uranium Corp.",
+      "ticker": "FUU",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://f3uranium.com",
+      "start_date": "2022-11-01",
+      "end_date": null
+    },
+    {
+      "name": "F3 Uranium Corp. (formerly Fission 3.0)",
+      "ticker": "FUU",
+      "exchange": "TSXV",
+      "website": "f3uranium.com",
+      "title_or_role": "Director",
+      "start_date": "Unknown",
+      "end_date": "2021-09-21",
+      "validated": true
+    },
+    {
+      "name": "Advantage Lithium Corp.",
+      "ticker": "AAL",
+      "exchange": "TSXV",
+      "website": "advantagelithium.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "Unknown",
+      "validated": true
+    },
+    {
+      "name": "Pacific Asia China Energy",
+      "ticker": "PACE",
+      "exchange": "TSX",
+      "website": "N/A",
+      "title_or_role": "Director",
+      "start_date": "Unknown",
+      "end_date": "2008",
+      "validated": true
+    },
+    {
+      "name": "Crazy Horse Resources Inc.",
+      "ticker": "CZH",
+      "exchange": "TSXV",
+      "website": "N/A",
+      "title_or_role": "Director",
+      "start_date": "Unknown",
+      "end_date": "Unknown",
+      "validated": true
+    },
+    {
+      "name": "Wolfpack Capital Corp.",
+      "ticker": "WPK",
+      "exchange": "TSXV",
+      "website": "N/A",
+      "title_or_role": "Director",
+      "start_date": "Unknown",
+      "end_date": "Unknown",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/william-marsh-5b780190",
+      "person_name": "William Marsh",
+      "company_name": "Fission Uranium Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Technical Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

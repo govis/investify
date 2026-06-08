@@ -1,0 +1,39 @@
+{
+  "id": "Theresa Wagler",
+  "name": "Theresa Wagler",
+  "background": "Executive Vice President, Chief Financial Officer and Corporate Secretary since 2007. Joined the company in 1998 as Corporate Controller.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Steel Dynamics, Inc.",
+      "ticker": "STLD",
+      "exchange": "NASDAQ",
+      "website": "https://www.steeldynamics.com",
+      "logoUrl": "/companies-assets/STLD.NASDAQ.svg",
+      "title": "Executive Vice President, Chief Financial Officer, and Corporate Secretary",
+      "startDate": "May 2007",
+      "endDate": null,
+      "formattedStartDate": "May 2007",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "CF Industries Holdings, Inc.",
+      "ticker": "CF",
+      "exchange": "NYSE",
+      "website": "https://www.cfindustries.com",
+      "logoUrl": "/companies-assets/CF.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 54,
+  "ageYear": 2024
+}

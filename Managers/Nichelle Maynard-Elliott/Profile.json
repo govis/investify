@@ -1,0 +1,72 @@
+{
+  "name": "Nichelle Maynard-Elliott",
+  "first_name": "Nichelle",
+  "last_name": "Maynard-Elliott",
+  "age": 55,
+  "age_year": 2024,
+  "background": "Ms. Maynard-Elliott has served as a director since 2021. She previously served as Executive Director, M&A at Praxair, Inc. She also serves on the boards of Xerox Holdings Corporation and Element Solutions Inc.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lucid Group, Inc.",
+      "ticker": "LCID",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.lucidmotors.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Xerox Holdings Corporation",
+      "ticker": "XRX",
+      "exchange": "NASDAQ",
+      "website": "https://www.xerox.com",
+      "title_or_role": "Director",
+      "start_date": "May 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Aramark",
+      "ticker": "ARMK",
+      "exchange": "NYSE",
+      "website": "https://www.aramark.com",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Element Solutions Inc",
+      "ticker": "ESI",
+      "exchange": "NYSE",
+      "website": "https://www.elementsolutionsinc.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/nichelle-maynard-elliott",
+      "person_name": "Nichelle Maynard-Elliott",
+      "company_name": "Lucid Group, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

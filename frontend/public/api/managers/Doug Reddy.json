@@ -1,0 +1,62 @@
+{
+  "id": "Doug Reddy",
+  "name": "Doug Reddy",
+  "background": "Mr. Reddy is a professional geologist with over 35 years of experience in the mining industry. He has held senior roles at Endeavour Mining and Endeavour Financial.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Equinox Gold Corp.",
+      "ticker": "EQX",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "EVP Technical Services",
+      "startDate": "2020-03-01",
+      "endDate": "2020-09-01",
+      "formattedStartDate": "March 2020",
+      "formattedEndDate": "September 2020"
+    },
+    {
+      "name": "Leagold Mining Corporation",
+      "ticker": "LMC",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "EVP Technical Services",
+      "startDate": "2016-09-01",
+      "endDate": "2020-03-01",
+      "formattedStartDate": "September 2016",
+      "formattedEndDate": "March 2020"
+    },
+    {
+      "name": "Endeavour Mining Corporation",
+      "ticker": "EDV",
+      "exchange": "TSX",
+      "website": "https://www.endeavourmining.com",
+      "logoUrl": "/companies-assets/EDV.TSX.svg",
+      "title": "SVP Business Development",
+      "startDate": "2006-01-01",
+      "endDate": "2016-09-01",
+      "formattedStartDate": "January 2006",
+      "formattedEndDate": "September 2016"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/doug-reddy-62b38220",
+      "person_name": "Doug Reddy",
+      "company_name": "Equinox Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

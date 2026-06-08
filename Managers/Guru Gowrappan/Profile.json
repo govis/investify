@@ -1,0 +1,60 @@
+{
+  "name": "Guru Gowrappan",
+  "first_name": "Guru",
+  "last_name": "Gowrappan",
+  "age": 44,
+  "age_year": 2024,
+  "background": "Guru Gowrappan joined Viasat as President in April 2023. Prior to joining Viasat, he served as CEO of Verizon Media from 2018 to 2021 and held various leadership roles at Alibaba Group and Yahoo.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Viasat, Inc.",
+      "ticker": "VSAT",
+      "exchange": "NASDAQ",
+      "title_or_role": "President",
+      "website": "https://www.viasat.com",
+      "start_date": "April 2023",
+      "end_date": "January 2025",
+      "validated": true
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "ticker": "BK",
+      "exchange": "NYSE",
+      "website": "https://www.bnymellon.com",
+      "title_or_role": "Director",
+      "start_date": "April 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "One97 Communications Limited (Paytm)",
+      "ticker": "PAYTM",
+      "exchange": "NSE / BSE",
+      "website": "https://www.paytm.com",
+      "title_or_role": "Director",
+      "start_date": "October 2016",
+      "end_date": "2018",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gurug",
+      "person_name": "Guru Gowrappan",
+      "company_name": "Viasat",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

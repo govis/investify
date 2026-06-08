@@ -1,0 +1,62 @@
+{
+  "id": "Zachary Flood",
+  "name": "Zachary Flood",
+  "background": "Mr. Flood is a professional geologist with over 15 years of experience in mineral exploration. He is a co-founder of Kenorland Minerals Ltd. and has worked with Ivanhoe Mines and Rio Tinto.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Faraday Copper Corp.",
+      "ticker": "FDY",
+      "exchange": "TSX",
+      "website": "https://faradaycopper.com",
+      "logoUrl": "/companies-assets/FDY.TSX.png",
+      "title": "President, Chief Executive Officer, and Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Kenorland Minerals Ltd.",
+      "ticker": "KLD",
+      "exchange": "TSXV",
+      "website": "https://kenorlandminerals.com/",
+      "logoUrl": "/companies-assets/KLD.TSXV.svg",
+      "title": "President, Chief Executive Officer, and Director",
+      "startDate": "2020",
+      "endDate": "2022",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "CopperBank Resources Corp.",
+      "ticker": "CBK",
+      "exchange": "CSE",
+      "website": "https://faradaycopper.com/",
+      "logoUrl": "/companies-assets/CBK.CSE.svg",
+      "title": "President, Chief Executive Officer, and Director",
+      "startDate": "2014",
+      "endDate": "2022",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2022"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/zach-flood-b805591a",
+      "person_name": "Zachary Flood",
+      "company_name": "Faraday Copper Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 40,
+  "ageYear": 2024
+}

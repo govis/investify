@@ -1,0 +1,68 @@
+{
+  "id": "Catharine Farrow",
+  "name": "Catharine Farrow",
+  "background": "Dr. Catharine Farrow is a professional geoscientist with over 25 years of experience in the mining industry. She was previously the CEO of TMAC Resources Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "TMAC Resources Inc.",
+      "ticker": "TMR",
+      "exchange": "TSX",
+      "website": "https://www.tmacresources.com/",
+      "logoUrl": "https://www.marketscreener.com/images/reuters/2017-05-15T131000Z_1_LYNXMPED4E0O6_RTROPTP_3_TMAC-RESOURCES-INC.JPG",
+      "title": "Founding CEO, Director",
+      "startDate": "2012",
+      "endDate": "2017",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Centamin plc",
+      "ticker": "CEY",
+      "exchange": "LSE",
+      "website": "https://www.centamin.com",
+      "logoUrl": "/companies-assets/CEY.LSE.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "September 2019",
+      "endDate": null,
+      "formattedStartDate": "September 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Aclara Resources Inc.",
+      "ticker": "ARA",
+      "exchange": "TSX",
+      "website": "https://www.aclara.com",
+      "logoUrl": "/companies-assets/ARA.TSX.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "ALS Limited",
+      "ticker": "ALQ",
+      "exchange": "ASX",
+      "website": "https://www.alsglobal.com",
+      "logoUrl": "/companies-assets/ALQ.ASX.png",
+      "title": "Independent Non-Executive Director",
+      "startDate": "March 24, 2025",
+      "endDate": null,
+      "formattedStartDate": "March 24, 2025",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "ESG Committee",
+    "Sustainability Committee"
+  ],
+  "age": 59,
+  "ageYear": 2024
+}

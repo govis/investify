@@ -1,0 +1,43 @@
+{
+  "id": "Derrick Gill",
+  "name": "Derrick Gill",
+  "background": "Mr. Gill has over 35 years of experience in the mining and construction industries. He has held senior executive positions with major international mining companies and has extensive experience in project management.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Fortune Bay Corp.",
+      "ticker": "FOR",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Director",
+      "startDate": "2016-05-12",
+      "endDate": null,
+      "formattedStartDate": "May 2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Crosshair Energy Corporation",
+      "ticker": "CXZ",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "https://web.archive.org/web/20120502173817im_/http://www.crosshairenergy.com/themes/crosshair/images/logo.gif",
+      "title": "Director",
+      "startDate": "2008-05",
+      "endDate": "2013-08-29",
+      "formattedStartDate": "May 2008",
+      "formattedEndDate": "August 2013"
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

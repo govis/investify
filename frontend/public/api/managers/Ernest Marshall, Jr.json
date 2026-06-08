@@ -1,0 +1,51 @@
+{
+  "id": "Ernest Marshall, Jr",
+  "name": "Ernest Marshall, Jr.",
+  "background": "Ernest W. Marshall, Jr. is Executive Vice President and Chief Human Resources Officer. He joined Eaton in 2018. Prior to Eaton, he served in various HR leadership roles at GE Aviation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "LSI Industries Inc.",
+      "ticker": "LYTS",
+      "exchange": "NASDAQ",
+      "website": "https://www.lsicorp.com",
+      "logoUrl": "/companies-assets/LYTS.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "August 16, 2022",
+      "endDate": null,
+      "formattedStartDate": "August 16, 2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Republic Bank & Trust Company",
+      "ticker": "RBCAA",
+      "exchange": "NASDAQ",
+      "website": "https://www.republicbank.com",
+      "logoUrl": "/companies-assets/RBCAA.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "Prior to October 2021",
+      "endDate": null,
+      "formattedStartDate": "October 2021",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ernest-marshall-jr-8a5a5a10",
+      "person_name": "Ernest Marshall, Jr.",
+      "company_name": "Eaton Corporation plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

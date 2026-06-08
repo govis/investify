@@ -1,0 +1,44 @@
+{
+  "id": "Gregory Smith",
+  "name": "Gregory Smith",
+  "background": "Gregory D. Smith has been a director since 2021. He was previously CFO and Executive Vice President of Enterprise Operations at The Boeing Company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "American Airlines Group Inc.",
+      "ticker": "AAL",
+      "exchange": "NASDAQ",
+      "website": "https://www.aa.com",
+      "logoUrl": "/companies-assets/AAL.NASDAQ.svg",
+      "title": "Independent Chairman of the Board of Directors",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "The Boeing Company",
+      "ticker": "BA",
+      "exchange": "NYSE",
+      "website": "https://www.boeing.com",
+      "logoUrl": "/companies-assets/BA.NYSE.svg",
+      "title": "Vice President, Finance and Corporate Controller",
+      "startDate": "2010",
+      "endDate": "2012",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2012"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense",
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit & Finance Committee"
+  ],
+  "age": 57,
+  "ageYear": 2024
+}

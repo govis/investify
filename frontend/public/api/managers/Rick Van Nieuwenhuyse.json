@@ -1,0 +1,62 @@
+{
+  "id": "Rick Van Nieuwenhuyse",
+  "name": "Rick Van Nieuwenhuyse",
+  "background": "Mr. Van Nieuwenhuyse has served as our President and Chief Executive Officer since January 2020. He has over 40 years of experience in the natural resource sector. He was previously the President and CEO of Trilogy Metals Inc. and the founder of NovaGold Resources Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Contango ORE, Inc.",
+      "ticker": "CTGO",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "President, CEO, and Director",
+      "startDate": "2020-01-06",
+      "endDate": null,
+      "formattedStartDate": "January 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Trilogy Metals Inc.",
+      "ticker": "TMQ",
+      "exchange": "TSX / NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "President, CEO, and Director",
+      "startDate": "2012",
+      "endDate": "2019-09-05",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "September 2019"
+    },
+    {
+      "name": "NOVAGOLD Resources Inc.",
+      "ticker": "NG",
+      "exchange": "TSX / NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and CEO",
+      "startDate": "1999",
+      "endDate": "2012",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2012"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rick-van-nieuwenhuyse-4a5a5a12",
+      "person_name": "Rick Van Nieuwenhuyse",
+      "company_name": "Contango ORE, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 68,
+  "ageYear": 2023
+}

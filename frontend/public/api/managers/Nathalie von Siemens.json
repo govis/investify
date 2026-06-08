@@ -1,0 +1,64 @@
+{
+  "id": "Nathalie von Siemens",
+  "name": "Nathalie von Siemens",
+  "background": "Former Managing Director and spokesperson of the Board of Siemens Stiftung.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Siemens Aktiengesellschaft",
+      "ticker": "SIE",
+      "exchange": "Xetra",
+      "website": null,
+      "logoUrl": null,
+      "title": "Member of the Supervisory Board",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Siemens Healthineers AG",
+      "ticker": "SHL",
+      "exchange": "Xetra",
+      "website": "https://www.siemens-healthineers.com",
+      "logoUrl": "/companies-assets/SHL.Xetra.svg",
+      "title": "Member of the Supervisory Board",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "EssilorLuxottica S.A.",
+      "ticker": "EL",
+      "exchange": "Euronext Paris",
+      "website": null,
+      "logoUrl": null,
+      "title": "Member of the Board of Directors",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/nathalie-von-siemens-4a5b2a1a/",
+      "person_name": "Nathalie von Siemens",
+      "company_name": "Siemens Aktiengesellschaft",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Innovation and Finance Committee"
+  ],
+  "age": 53,
+  "ageYear": 2024
+}

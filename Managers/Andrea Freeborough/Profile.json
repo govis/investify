@@ -1,0 +1,42 @@
+{
+  "name": "Andrea Freeborough",
+  "first_name": "Andrea",
+  "last_name": "Freeborough",
+  "age": 51,
+  "age_year": 2024,
+  "background": "Ms. Freeborough was appointed Executive Vice-President and Chief Financial Officer on May 1, 2019. She joined Kinross in 2009 and has held several positions within the finance team, including Vice-President, Finance and Vice-President, Investor Relations and Corporate Development. Prior to joining Kinross, she was an Associate Partner at KPMG LLP.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Kinross Gold Corporation",
+      "ticker": "K",
+      "exchange": "TSX",
+      "title_or_role": "Vice President, Finance",
+      "website": "https://www.kinross.com",
+      "start_date": "2016-01",
+      "end_date": "2017-01",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/andrea-freeborough-b003a311/",
+      "person_name": "Andrea Freeborough",
+      "company_name": "Kinross Gold Corporation",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1,
+      "profile_status": "private"
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 1
+}

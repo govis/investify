@@ -1,0 +1,100 @@
+{
+  "id": "Heidi Roizen",
+  "name": "Heidi Roizen",
+  "background": "Ms. Roizen has served as a member of our board of directors since December 2021. She is a Partner at Threshold Ventures.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Planet Labs PBC",
+      "ticker": "PL",
+      "exchange": "NYSE",
+      "website": "https://www.planet.com",
+      "logoUrl": "/companies-assets/PL.NYSE.svg",
+      "title": "Director",
+      "startDate": "March 2018",
+      "endDate": null,
+      "formattedStartDate": "March 2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Invitation Homes Inc.",
+      "ticker": "INVH",
+      "exchange": "NYSE",
+      "website": "https://www.invitationhomes.com",
+      "logoUrl": "/companies-assets/INVH.NYSE.svg",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Daily Mail and General Trust plc (DMGT)",
+      "ticker": "DMGT",
+      "exchange": "LSE",
+      "website": "https://www.dmgt.com",
+      "logoUrl": "/companies-assets/DMGT.LSE.svg",
+      "title": "Director",
+      "startDate": "September 2012",
+      "endDate": "2022",
+      "formattedStartDate": "September 2012",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "TiVo Corporation",
+      "ticker": "TIVO",
+      "exchange": "NASDAQ",
+      "website": "https://www.tivo.com",
+      "logoUrl": "/companies-assets/TIVO.NASDAQ.png",
+      "title": "Director",
+      "startDate": "June 2009",
+      "endDate": "2016",
+      "formattedStartDate": "June 2009",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Great Plains Software",
+      "ticker": "GPSI",
+      "exchange": "NASDAQ",
+      "website": "https://www.microsoft.com",
+      "logoUrl": "/companies-assets/GPSI.NASDAQ.png",
+      "title": "Director",
+      "startDate": "1997",
+      "endDate": "2001",
+      "formattedStartDate": "1997",
+      "formattedEndDate": "2001"
+    },
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "exchange": "NASDAQ",
+      "website": "https://www.apple.com",
+      "logoUrl": "/companies-assets/AAPL.NASDAQ.svg",
+      "title": "Vice President of World Wide Developer Relations",
+      "startDate": "1996",
+      "endDate": "1997",
+      "formattedStartDate": "1996",
+      "formattedEndDate": "1997"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/heidiroizen",
+      "person_name": "Heidi Roizen",
+      "company_name": "Threshold Ventures",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

@@ -1,0 +1,38 @@
+{
+  "id": "Douglas Jellison",
+  "name": "Douglas Jellison",
+  "background": "Mr. Jellison has served as Executive Vice President since 2021. He previously served as Vice President from 2012 to 2020. He has been with Nucor since 1990.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Nucor Corporation",
+      "ticker": "NUE",
+      "exchange": "NYSE",
+      "website": "https://nucor.com",
+      "logoUrl": "/companies-assets/NUE.NYSE.svg",
+      "title": "Executive Vice President",
+      "startDate": "2021",
+      "endDate": "June 8, 2024",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "June 8, 2024"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/doug-jellison-5519213a",
+      "person_name": "Douglas Jellison",
+      "company_name": "Nucor Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 65,
+  "ageYear": 2024
+}

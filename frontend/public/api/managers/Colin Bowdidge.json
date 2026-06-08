@@ -1,0 +1,42 @@
+{
+  "id": "Colin Bowdidge",
+  "name": "Colin Bowdidge",
+  "background": "Dr. Bowdidge is a professional geologist with over 50 years of experience in mineral exploration and management.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sokoman Minerals Corp.",
+      "ticker": "SIC",
+      "exchange": "TSXV",
+      "website": "sokomanmineralscorp.com",
+      "logoUrl": "/companies-assets/SIC.TSXV.png",
+      "title": "Director",
+      "startDate": null,
+      "endDate": "2025",
+      "formattedStartDate": "",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "Spruce Ridge Resources Ltd.",
+      "ticker": "SHL",
+      "exchange": "TSXV",
+      "website": "spruceridgeresources.com",
+      "logoUrl": "/companies-assets/SHL.TSXV.svg",
+      "title": "VP Exploration & Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 78,
+  "ageYear": 2024
+}

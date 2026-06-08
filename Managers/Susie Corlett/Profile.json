@@ -1,0 +1,74 @@
+{
+  "name": "Susie Corlett",
+  "first_name": "Susie",
+  "last_name": "Corlett",
+  "age": 53,
+  "age_year": 2023,
+  "background": "Susie Corlett was appointed to the Board in June 2020. She is a geologist with over 25 years\u2019 experience in exploration, mining operations and investment banking.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Iluka Resources Limited",
+      "ticker": "ILU",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://www.iluka.com",
+      "start_date": "2019-06-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Mineral Resources Limited",
+      "ticker": "MIN",
+      "exchange": "ASX",
+      "website": "https://www.mineralresources.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2021-01-04",
+      "end_date": "2025-04-16",
+      "validated": true
+    },
+    {
+      "name": "Aurelia Metals Limited",
+      "ticker": "AMI",
+      "exchange": "ASX",
+      "website": "https://aureliametals.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2023-08-30",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Silex Systems Limited",
+      "ticker": "SLX",
+      "exchange": "ASX",
+      "website": "https://www.silex.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2024-11-01",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/susie-corlett-3379b65b",
+      "person_name": "Susie Corlett",
+      "company_name": "Iluka Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee",
+    "Nominations Committee",
+    "Sustainability Committee (Chair)"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

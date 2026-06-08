@@ -1,0 +1,55 @@
+{
+  "id": "Glenn Ives",
+  "name": "Glenn Ives",
+  "background": "Mr. Ives was the Chair of Deloitte Canada from 2010 to 2018 and has significant financial and governance expertise.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NervGen Pharma Corp.",
+      "ticker": "NGEN",
+      "exchange": "TSXV",
+      "website": "https://nervgen.com/",
+      "logoUrl": "/companies-assets/NGEN.TSXV.svg",
+      "title": "Director and Chair of the Board",
+      "startDate": "2021-09-09",
+      "endDate": "2025-07-03",
+      "formattedStartDate": "September 2021",
+      "formattedEndDate": "July 2025"
+    },
+    {
+      "name": "Vengold Inc.",
+      "ticker": "VNG",
+      "exchange": "TSX",
+      "website": "https://www.vengold.com/",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/TSX_logo.svg/1200px-TSX_logo.svg.png",
+      "title": "Director and Chief Financial Officer",
+      "startDate": "1993",
+      "endDate": "1999",
+      "formattedStartDate": "1993",
+      "formattedEndDate": "1999"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/glenn-ives-74b5b31b",
+      "person_name": "Glenn Ives",
+      "company_name": "Kinross Gold Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Audit and Risk Committee",
+    "Governance and Nominating Committee",
+    "Human Resources and Compensation Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

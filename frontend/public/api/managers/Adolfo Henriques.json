@@ -1,0 +1,55 @@
+{
+  "id": "Adolfo Henriques",
+  "name": "Adolfo Henriques",
+  "background": "Vice Chairman of Related Group. Former Chairman and CEO of Florida East Coast Industries. He joined the board in 2007.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "HEICO Corporation",
+      "ticker": "HEI",
+      "exchange": "NYSE",
+      "website": "https://www.heico.com",
+      "logoUrl": "/companies-assets/HEI.NYSE.svg",
+      "title": "Director",
+      "startDate": "2003",
+      "endDate": null,
+      "formattedStartDate": "2003",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Boston Private Financial Holdings, Inc.",
+      "ticker": "BPFH",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "/companies-assets/BPFH.NASDAQ.png",
+      "title": "Director",
+      "startDate": "2007",
+      "endDate": "2011",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2011"
+    },
+    {
+      "name": "Regions Financial Corporation",
+      "ticker": "RF",
+      "exchange": "NYSE",
+      "website": "https://www.regions.com",
+      "logoUrl": "/companies-assets/RF.NYSE.svg",
+      "title": "President - South Region",
+      "startDate": "1998",
+      "endDate": "2005",
+      "formattedStartDate": "1998",
+      "formattedEndDate": "2005"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Finance Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

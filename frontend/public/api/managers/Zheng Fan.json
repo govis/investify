@@ -1,0 +1,43 @@
+{
+  "id": "Zheng Fan",
+  "name": "Zheng Fan",
+  "background": "Mr. Zheng Fan has served as our independent director since October 2020. Mr. Fan served as a co-founder and vice president of Autohome from 1999 to 2016.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Li Auto Inc.",
+      "ticker": "LI",
+      "exchange": "NASDAQ",
+      "website": "https://www.lixiang.com",
+      "logoUrl": "/companies-assets/LI.NASDAQ.svg",
+      "title": "Non-Executive Director",
+      "startDate": "October 2020",
+      "endDate": null,
+      "formattedStartDate": "October 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Autohome Inc.",
+      "ticker": "ATHM",
+      "exchange": "NYSE",
+      "website": "https://ir.autohome.com.cn/",
+      "logoUrl": "/companies-assets/ATHM.NYSE.svg",
+      "title": "Co-founder and Vice President",
+      "startDate": "June 1999",
+      "endDate": "October 2016",
+      "formattedStartDate": "June 1999",
+      "formattedEndDate": "October 2016"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 45,
+  "ageYear": 2024
+}

@@ -1,0 +1,41 @@
+{
+  "name": "James Walker",
+  "first_name": "James",
+  "last_name": "Walker",
+  "age": 41,
+  "age_year": 2024,
+  "background": "Mr. Walker is the Chief Executive Officer and a Director of NANO Nuclear Energy Inc. He has over 15 years of experience in the nuclear industry, including roles in engineering, project management, and executive leadership. He previously served as the CEO of a private nuclear technology company.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "NANO Nuclear Energy Inc.",
+      "ticker": "NNE",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chief Executive Officer and Director",
+      "website": "https://nanonuclearenergy.com/",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jamesjohnwalker1",
+      "person_name": "James Walker",
+      "company_name": "NANO Nuclear Energy Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

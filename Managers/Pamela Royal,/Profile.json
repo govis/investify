@@ -1,0 +1,43 @@
+{
+  "name": "Pamela Royal,",
+  "first_name": "Pamela",
+  "last_name": "Royal,",
+  "age": 61,
+  "age_year": 2024,
+  "background": "President of Royal Dermatology and Aesthetic Center, P.C. Director since 2013.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Dominion Energy, Inc.",
+      "ticker": "D",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.dominionenergy.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/pamela-royal-503510a1",
+      "person_name": "Pamela Royal",
+      "company_name": "Dominion Energy, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Nominating and Corporate Governance Committee",
+    "Sustainability and Corporate Responsibility Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

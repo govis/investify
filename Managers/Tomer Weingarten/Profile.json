@@ -1,0 +1,40 @@
+{
+  "name": "Tomer Weingarten",
+  "first_name": "Tomer",
+  "last_name": "Weingarten",
+  "age": 41,
+  "age_year": 2024,
+  "background": "Tomer Weingarten is one of our co-founders and has served as our President and Chief Executive Officer and as a member of our board of directors since our inception in January 2013. Prior to SentinelOne, Mr. Weingarten led product development and strategy for the Trusteer subsidiary of IBM. He also co-founded and served as Vice President of Engineering of Carambola Media.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "SentinelOne, Inc.",
+      "ticker": "S",
+      "exchange": "NYSE",
+      "title_or_role": "Co-Founder, Chief Executive Officer, and Director",
+      "website": "https://www.sentinelone.com",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/tomer-weingarten",
+      "person_name": "Tomer Weingarten",
+      "company_name": "SentinelOne",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

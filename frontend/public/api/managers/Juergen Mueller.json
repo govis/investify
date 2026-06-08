@@ -1,0 +1,28 @@
+{
+  "id": "Juergen Mueller",
+  "name": "Juergen Mueller",
+  "background": "Juergen Mueller was the Chief Technology Officer and a member of the Executive Board. He left the company in September 2024.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "SAP SE",
+      "ticker": "SAP",
+      "exchange": "NYSE",
+      "website": "https://www.sap.com",
+      "logoUrl": "/companies-assets/SAP.NYSE.svg",
+      "title": "Chief Technology Officer (CTO) and Member of the Executive Board",
+      "startDate": "2019-01-01",
+      "endDate": "2024-09-03",
+      "formattedStartDate": "January 2019",
+      "formattedEndDate": "September 2024"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 42,
+  "ageYear": 2024
+}

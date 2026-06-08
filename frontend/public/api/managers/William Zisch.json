@@ -1,0 +1,89 @@
+{
+  "id": "William Zisch",
+  "name": "William Zisch",
+  "background": "Mr. Zisch has served as a director since 2020. He has over 40 years of experience in the mining industry, including roles at Newmont and Argonaut Gold.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Contango Ore, Inc.",
+      "ticker": "CTGO",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Argonaut Gold Inc.",
+      "ticker": "AR",
+      "exchange": "TSX",
+      "website": "argonautgold.com",
+      "logoUrl": "/companies-assets/AR.TSX.png",
+      "title": "Chief Operating Officer",
+      "startDate": "2016",
+      "endDate": "2019",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Midway Gold Corp.",
+      "ticker": "MDW",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and Chief Executive Officer",
+      "startDate": "2014",
+      "endDate": "2016",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Royal Gold, Inc.",
+      "ticker": "RGLD",
+      "exchange": "NASDAQ",
+      "website": "https://www.royalgold.com",
+      "logoUrl": "/companies-assets/RGLD.NASDAQ.svg",
+      "title": "Vice President of Operations",
+      "startDate": "2009",
+      "endDate": "2014",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2014"
+    },
+    {
+      "name": "Newmont Corporation",
+      "ticker": "NEM",
+      "exchange": "NYSE",
+      "website": "https://www.newmont.com",
+      "logoUrl": "/companies-assets/NEM.NYSE.svg",
+      "title": "Operations Manager / Vice President of African Operations",
+      "startDate": "1997",
+      "endDate": "2009",
+      "formattedStartDate": "1997",
+      "formattedEndDate": "2009"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/william-zisch-4220a466",
+      "person_name": "William Zisch",
+      "company_name": "Contango Ore, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 65,
+  "ageYear": 2023
+}

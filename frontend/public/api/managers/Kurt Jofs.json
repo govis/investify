@@ -1,0 +1,41 @@
+{
+  "id": "Kurt Jofs",
+  "name": "Kurt Jofs",
+  "background": "Former Executive Vice President of Ericsson. Chairman of TietoEVRY.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Telefonaktiebolaget LM Ericsson",
+      "ticker": "ERIC-B",
+      "exchange": "Nasdaq Stockholm",
+      "website": null,
+      "logoUrl": null,
+      "title": "Member of the Board of Directors",
+      "startDate": "2018",
+      "endDate": "2021",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "TietoEVRY",
+      "ticker": "TIETO",
+      "exchange": "Nasdaq Stockholm",
+      "website": null,
+      "logoUrl": null,
+      "title": "Member of the Board of Directors",
+      "startDate": "2010",
+      "endDate": "2019",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2019"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Remuneration Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Justin Rose",
+  "first_name": "Justin",
+  "last_name": "Rose",
+  "age": 46,
+  "age_year": 2024,
+  "background": "Justin Rose is President, Construction & Forestry and Power Systems. He is responsible for the company's global construction and forestry business and its engine and drivetrain business. Rose joined John Deere in 2022 from Boston Consulting Group.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Deere & Company",
+      "ticker": "DE",
+      "exchange": "NYSE",
+      "title_or_role": "Executive",
+      "website": "https://www.deere.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/justin-rose-8552a11",
+      "person_name": "Justin Rose",
+      "company_name": "Deere & Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

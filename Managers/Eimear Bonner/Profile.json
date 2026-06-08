@@ -1,0 +1,40 @@
+{
+  "name": "Eimear Bonner",
+  "first_name": "Eimear",
+  "last_name": "Bonner",
+  "age": 50,
+  "age_year": 2024,
+  "background": "Chief Financial Officer since April 2024. Previously Vice President and President of Chevron Technical Center.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Chevron Corporation",
+      "ticker": "CVX",
+      "exchange": "NYSE",
+      "title_or_role": "Chief Technology Officer / President, Chevron Technical Center",
+      "website": "https://www.chevron.com",
+      "start_date": "August 2, 2021",
+      "end_date": "February 29, 2024",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/eimearbonner",
+      "person_name": "Eimear Bonner",
+      "company_name": "Chevron",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

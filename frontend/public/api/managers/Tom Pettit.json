@@ -1,0 +1,86 @@
+{
+  "id": "Tom Pettit",
+  "name": "Tom Pettit",
+  "background": "Mr. Pettit has served as Chief Operations Officer since 2020. Prior to joining Generac, he held senior leadership roles at several global manufacturing companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Generac Holdings Inc.",
+      "ticker": "GNRC",
+      "exchange": "NYSE",
+      "website": "https://www.generac.com",
+      "logoUrl": "/companies-assets/GNRC.NYSE.svg",
+      "title": "Chief Operations Officer",
+      "startDate": "February 17, 2020",
+      "endDate": "November 1, 2022",
+      "formattedStartDate": "February 17, 2020",
+      "formattedEndDate": "November 1, 2022"
+    },
+    {
+      "name": "Xylem Inc.",
+      "ticker": "XYL",
+      "exchange": "NYSE",
+      "website": "https://www.xylem.com",
+      "logoUrl": "/companies-assets/XYL.NYSE.svg",
+      "title": "Chief Operating Officer",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "nVent Electric PLC",
+      "ticker": "NVT",
+      "exchange": "NYSE",
+      "website": "https://www.nvent.com",
+      "logoUrl": "/companies-assets/NVT.NYSE.svg",
+      "title": "Executive Vice President / Chief Integrated Supply Chain Officer",
+      "startDate": null,
+      "endDate": "2020",
+      "formattedStartDate": "",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Ryder System, Inc.",
+      "ticker": "R",
+      "exchange": "NYSE",
+      "website": "ryder.com",
+      "logoUrl": "/companies-assets/R.NYSE.svg",
+      "title": "Senior Vice President and General Manager, Supply Chain Solutions",
+      "startDate": null,
+      "endDate": "Prior to 2020",
+      "formattedStartDate": "",
+      "formattedEndDate": "Prior to 2020"
+    },
+    {
+      "name": "Pentair plc",
+      "ticker": "PNR",
+      "exchange": "NYSE",
+      "website": "pentair.com",
+      "logoUrl": "/companies-assets/PNR.NYSE.svg",
+      "title": "Senior Vice President, Global Operations and Supply",
+      "startDate": null,
+      "endDate": "Prior to 2020",
+      "formattedStartDate": "",
+      "formattedEndDate": "Prior to 2020"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/tompettit",
+      "person_name": "Tom Pettit",
+      "company_name": "Generac Holdings Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 54,
+  "ageYear": 2024
+}

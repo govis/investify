@@ -1,0 +1,42 @@
+{
+  "id": "Check Kian Low",
+  "name": "Check Kian Low",
+  "background": "Mr. Low has served as a director since 2006. He is a co-founder of NewSmith Capital Partners LLP and was previously a partner at Goldman Sachs, where he served as Chairman of Goldman Sachs (Asia).",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Broadcom Inc.",
+      "ticker": "AVGO",
+      "exchange": "NASDAQ",
+      "website": "https://www.broadcom.com",
+      "logoUrl": "/companies-assets/AVGO.NASDAQ.svg",
+      "title": "Director (Independent)",
+      "startDate": "December 2016",
+      "endDate": null,
+      "formattedStartDate": "December 2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Singapore Telecommunications Limited (Singtel)",
+      "ticker": "Z74",
+      "exchange": "SGX",
+      "website": "https://www.singtel.com",
+      "logoUrl": "/companies-assets/Z74.SGX.svg",
+      "title": "Lead Independent Director",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

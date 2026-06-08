@@ -1,0 +1,53 @@
+{
+  "id": "Marika Fredriksson",
+  "name": "Marika Fredriksson",
+  "background": "Marika Fredriksson was the CFO of Vestas Wind Systems. She has a strong background in finance and industrial management.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sandvik AB",
+      "ticker": "SAND",
+      "exchange": "Nasdaq Stockholm",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Member",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Vestas Wind Systems A/S",
+      "ticker": "VWS",
+      "exchange": "Nasdaq Copenhagen",
+      "website": null,
+      "logoUrl": null,
+      "title": "CFO and Group EVP",
+      "startDate": "2013",
+      "endDate": "2022",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "KONE Corporation",
+      "ticker": "KNEBV",
+      "exchange": "Nasdaq Helsinki",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Member",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Member of the Audit Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

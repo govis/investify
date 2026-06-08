@@ -1,0 +1,51 @@
+{
+  "id": "Geoffrey Smith",
+  "name": "Geoffrey Smith",
+  "background": "Mr. Smith is the Vice President, Corporate Development and Commercial. He is a corporate lawyer by training and has extensive experience in mergers and acquisitions, corporate finance, and commercial negotiations in the mining industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Denison Mines Corp.",
+      "ticker": "DML",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice President, Corporate Development and Commercial",
+      "startDate": "Not explicitly disclosed",
+      "endDate": null,
+      "formattedStartDate": "Not explicitly disclosed",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "EMX Royalty Corporation",
+      "ticker": "EMX",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Director",
+      "startDate": "2022-07-05",
+      "endDate": null,
+      "formattedStartDate": "July 2022",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/geoff-smith-cfa-4a5b2a12/",
+      "person_name": "Geoffrey Smith",
+      "company_name": "Denison Mines Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 45,
+  "ageYear": 2024
+}

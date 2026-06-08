@@ -1,0 +1,51 @@
+{
+  "id": "Mark Widmar",
+  "name": "Mark Widmar",
+  "background": "Mr. Widmar has served as our Chief Executive Officer since July 2016 and as a member of our board of directors since joining the company in 2011. He previously served as our Chief Financial Officer from 2011 to 2016.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "First Solar, Inc.",
+      "ticker": "FSLR",
+      "exchange": "NASDAQ",
+      "website": "https://www.firstsolar.com",
+      "logoUrl": "/companies-assets/FSLR.NASDAQ.svg",
+      "title": "Chief Accounting Officer",
+      "startDate": "February 2012",
+      "endDate": "June 2015",
+      "formattedStartDate": "February 2012",
+      "formattedEndDate": "June 2015"
+    },
+    {
+      "name": "Albemarle Corporation",
+      "ticker": "ALB",
+      "exchange": "NYSE",
+      "website": "https://www.albemarle.com",
+      "logoUrl": "/companies-assets/ALB.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "February 2026",
+      "endDate": null,
+      "formattedStartDate": "February 2026",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mark-widmar-55828b32",
+      "person_name": "Mark Widmar",
+      "company_name": "First Solar, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 58,
+  "ageYear": 2024
+}

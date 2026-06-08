@@ -1,0 +1,86 @@
+{
+  "id": "David Obstler",
+  "name": "David Obstler",
+  "background": "David Obstler has served as our Chief Financial Officer since 2018. Prior to joining Datadog, Mr. Obstler was the Chief Financial Officer of TravelClick, a hospitality technology company. He has also served as CFO at OpenLink Financial, MSCI Inc., and RiskMetrics Group. Mr. Obstler holds a B.A. from Yale University and an M.B.A. from Harvard Business School.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Datadog, Inc.",
+      "ticker": "DDOG",
+      "exchange": "NASDAQ",
+      "website": "https://www.datadoghq.com",
+      "logoUrl": "/companies-assets/DDOG.NASDAQ.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "November 2018",
+      "endDate": null,
+      "formattedStartDate": "November 2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Braze, Inc.",
+      "ticker": "BRZE",
+      "exchange": "NASDAQ",
+      "website": "https://www.braze.com",
+      "logoUrl": "/companies-assets/BRZE.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "May 2021",
+      "endDate": null,
+      "formattedStartDate": "May 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "MSCI Inc.",
+      "ticker": "MSCI",
+      "exchange": "NYSE",
+      "website": "https://www.msci.com",
+      "logoUrl": "/companies-assets/MSCI.NYSE.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2010",
+      "endDate": "2012",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "RiskMetrics Group, Inc.",
+      "ticker": "RMG",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "https://www.spectrumequity.com/wp-content/uploads/2020/06/riskmetrics-logo.png",
+      "title": "Chief Financial Officer",
+      "startDate": "2005",
+      "endDate": "2010",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2010"
+    },
+    {
+      "name": "Pinnacor Inc.",
+      "ticker": "PNCR",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "https://companieslogo.com/img/orig/PCOR.png",
+      "title": "Chief Financial Officer and Executive Vice President of Corporate Development",
+      "startDate": "2000",
+      "endDate": "2004",
+      "formattedStartDate": "2000",
+      "formattedEndDate": "2004"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/david-obstler-15a495",
+      "person_name": "David Obstler",
+      "company_name": "Datadog",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 64,
+  "ageYear": 2024
+}

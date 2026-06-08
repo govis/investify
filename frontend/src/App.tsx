@@ -3,6 +3,8 @@ import Home from './pages/Home';
 import ThesisDetail from './pages/ThesisDetail';
 import CompanyDetail from './pages/CompanyDetail';
 import CompanyList from './pages/CompanyList';
+import ManagerDetail from './pages/ManagerDetail';
+import ManagerList from './pages/ManagerList';
 import Sources from './pages/Sources';
 import './App.css';
 
@@ -15,6 +17,8 @@ function App() {
           <Route path="/thesis/:id" element={<ThesisDetail />} />
           <Route path="/company/:id" element={<CompanyDetail />} />
           <Route path="/companies" element={<CompanyList />} />
+          <Route path="/manager/:name" element={<ManagerDetail />} />
+          <Route path="/managers" element={<ManagerList />} />
           <Route path="/sources" element={<Sources />} />
         </Routes>
       </div>

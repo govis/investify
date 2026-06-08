@@ -1,0 +1,76 @@
+{
+  "id": "Donna Morea",
+  "name": "Donna Morea",
+  "background": "Ms. Morea has served as Chair of the Board since 2019. She was previously President of CGI Technologies and Solutions. She is an expert in IT professional services and strategic management.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Science Applications International Corporation",
+      "ticker": "SAIC",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director / Chair of the Board",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Truist Financial Corporation",
+      "ticker": "TFC",
+      "exchange": "NYSE",
+      "website": "https://www.truist.com",
+      "logoUrl": "/companies-assets/TFC.NYSE.svg",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "SunTrust Banks, Inc.",
+      "ticker": "STI",
+      "exchange": "NYSE",
+      "website": "https://www.truist.com",
+      "logoUrl": "/companies-assets/STI.NYSE.svg",
+      "title": "Director",
+      "startDate": "2012",
+      "endDate": "2019",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "CGI Inc.",
+      "ticker": "GIB",
+      "exchange": "NYSE",
+      "website": "https://www.cgi.com",
+      "logoUrl": "/companies-assets/GIB.NYSE.svg",
+      "title": "President, CGI Technologies and Solutions (Subsidiary)",
+      "startDate": "2004",
+      "endDate": "2011",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2011"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/donna-morea-bb62b830",
+      "person_name": "Donna Morea",
+      "company_name": "Science Applications International Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

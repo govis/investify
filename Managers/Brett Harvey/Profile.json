@@ -1,0 +1,62 @@
+{
+  "name": "Brett Harvey",
+  "first_name": "Brett",
+  "last_name": "Harvey",
+  "age": 73,
+  "age_year": 2024,
+  "background": "Brett Harvey is the Lead Independent Director. He was formerly the Chairman and CEO of CONSOL Energy Inc.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Barrick Gold Corporation",
+      "ticker": "GOLD",
+      "exchange": "NYSE / TSX",
+      "title_or_role": "Director",
+      "website": "https://www.barrick.com",
+      "start_date": "2005",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "ATI Inc.",
+      "ticker": "ATI",
+      "exchange": "NYSE",
+      "website": "https://www.atimaterials.com",
+      "title_or_role": "Director",
+      "start_date": "2007",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CNX Resources Corporation",
+      "ticker": "CNX",
+      "exchange": "NYSE",
+      "website": "https://www.cnx.com",
+      "title_or_role": "President, Chief Executive Officer, and Director",
+      "start_date": "1998",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "CNX Gas Corporation",
+      "ticker": "CXG",
+      "exchange": "NYSE",
+      "website": "N/A",
+      "title_or_role": "Chairman and Chief Executive Officer",
+      "start_date": "2005",
+      "end_date": "2014",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit & Risk Committee",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

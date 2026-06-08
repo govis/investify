@@ -1,0 +1,74 @@
+{
+  "id": "Tony Makuch",
+  "name": "Tony Makuch",
+  "background": "Mr. Makuch is a professional engineer with over 40 years of experience in the mining industry. He previously served as President and CEO of Kirkland Lake Gold Ltd. from 2016 to 2022, where he led the company through significant growth and its eventual merger with Agnico Eagle Mines Limited. He has also held executive roles at Lake Shore Gold Corp. and FNX Mining Company Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Discovery Silver Corp.",
+      "ticker": "DSV",
+      "exchange": "TSX",
+      "website": "https://discoverysilver.com",
+      "logoUrl": "/companies-assets/DSV.TSX.svg",
+      "title": "President, CEO and Director",
+      "startDate": "January 2023",
+      "endDate": null,
+      "formattedStartDate": "January 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Kirkland Lake Gold Ltd.",
+      "ticker": "KL",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and CEO",
+      "startDate": "2016",
+      "endDate": "2022",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Lake Shore Gold Corp.",
+      "ticker": "LSG",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "/companies-assets/LSG.TSX.svg",
+      "title": "President and CEO",
+      "startDate": "2008",
+      "endDate": "2016",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "West Red Lake Gold Mines Ltd.",
+      "ticker": "WRLG",
+      "exchange": "TSXV",
+      "website": "https://westredlakegold.com",
+      "logoUrl": "/companies-assets/WRLG.TSXV.svg",
+      "title": "Director",
+      "startDate": "2023",
+      "endDate": "2025",
+      "formattedStartDate": "2023",
+      "formattedEndDate": "2025"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/tony-makuch-4a5b2a12",
+      "person_name": "Tony Makuch",
+      "company_name": "Discovery Silver Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 65,
+  "ageYear": 2024
+}

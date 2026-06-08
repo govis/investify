@@ -1,0 +1,62 @@
+{
+  "id": "David Splett",
+  "name": "David Splett",
+  "background": "Mr. Splett has over 25 years of experience in the mining industry. He previously served as CFO for Latin America at Goldcorp and has held senior financial roles at Teck Resources.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Calibre Mining Corp.",
+      "ticker": "CXB",
+      "exchange": "TSX",
+      "website": "https://calibremining.com",
+      "logoUrl": "/companies-assets/CXB.TSX.svg",
+      "title": "Senior Vice President & Chief Financial Officer",
+      "startDate": "2021-11",
+      "endDate": "2024-07-31",
+      "formattedStartDate": "November 2021",
+      "formattedEndDate": "July 2024"
+    },
+    {
+      "name": "Mineros S.A.",
+      "ticker": "MINEROS",
+      "exchange": "TSX",
+      "website": "https://www.mineros.com.co",
+      "logoUrl": "/companies-assets/MINEROS.TSX.png",
+      "title": "Chief Financial Officer",
+      "startDate": "2025-07",
+      "endDate": null,
+      "formattedStartDate": "July 2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Elevation Gold Mining Corporation",
+      "ticker": "ELVT",
+      "exchange": "TSXV",
+      "website": "https://elevationgold.com",
+      "logoUrl": "/companies-assets/ELVT.TSXV.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2020",
+      "endDate": "2021-11",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "November 2021"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/david-splett-b21b2513",
+      "person_name": "David Splett",
+      "company_name": "Calibre Mining Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 56,
+  "ageYear": 2024
+}

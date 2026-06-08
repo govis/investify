@@ -1,0 +1,55 @@
+{
+  "id": "Paul Benson",
+  "name": "Paul Benson",
+  "background": "Mr. Benson was appointed as Chairman in 2021. He has over 30 years of experience in the mining sector, including as CEO of SSR Mining and CEO of Troy Resources.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "SSR Mining Inc.",
+      "ticker": "SSRM",
+      "exchange": "NASDAQ / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and Chief Executive Officer",
+      "startDate": "August 2015",
+      "endDate": "September 2020",
+      "formattedStartDate": "August 2015",
+      "formattedEndDate": "September 2020"
+    },
+    {
+      "name": "Troy Resources Limited",
+      "ticker": "TRY",
+      "exchange": "ASX / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Executive Officer and Managing Director",
+      "startDate": "2007",
+      "endDate": "2014",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2014"
+    },
+    {
+      "name": "Azimuth Resources Limited",
+      "ticker": "AZH",
+      "exchange": "ASX / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Director",
+      "startDate": "Prior to 2013",
+      "endDate": "2013",
+      "formattedStartDate": "Prior to 2013",
+      "formattedEndDate": "2013"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Governance and Nominating Committee",
+    "Remuneration and People Committee",
+    "Sustainability Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

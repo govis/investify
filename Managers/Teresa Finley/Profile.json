@@ -1,0 +1,53 @@
+{
+  "name": "Teresa Finley",
+  "first_name": "Teresa",
+  "last_name": "Finley",
+  "age": 62,
+  "age_year": 2024,
+  "background": "Former Chief Marketing and Business Development Officer of UPS.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Union Pacific Corporation",
+      "ticker": "UNP",
+      "exchange": "NYSE",
+      "title_or_role": "Director (Board of Directors)",
+      "website": "https://www.up.com",
+      "start_date": "February 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "TriMas Corporation",
+      "ticker": "TRS",
+      "exchange": "NASDAQ",
+      "website": "https://www.trimas.com",
+      "title_or_role": "Interim Chief Financial Officer",
+      "start_date": "March 20, 2025",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/teresa-finley-83092a12",
+      "person_name": "Teresa Finley",
+      "company_name": "Union Pacific Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Finance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

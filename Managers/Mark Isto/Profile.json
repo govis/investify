@@ -1,0 +1,50 @@
+{
+  "name": "Mark Isto",
+  "first_name": "Mark",
+  "last_name": "Isto",
+  "age": 62,
+  "age_year": 2024,
+  "background": "Mr. Isto has served as Executive Vice President and Chief Operating Officer since January 2020. He joined Royal Gold in 2015 as Vice President Operations.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Royal Gold, Inc.",
+      "ticker": "RGLD",
+      "exchange": "NASDAQ",
+      "title_or_role": "Executive Vice President and Chief Operating Officer",
+      "website": "https://www.royalgold.com",
+      "start_date": "2016",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "TriStar Gold Inc.",
+      "ticker": "TSG",
+      "exchange": "TSXV",
+      "website": "https://tristargold.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/mark-isto-0741a02a",
+      "person_name": "Mark Isto",
+      "company_name": "Royal Gold, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

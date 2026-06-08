@@ -1,0 +1,50 @@
+{
+  "id": "Joseph Dominguez",
+  "name": "Joseph Dominguez",
+  "background": "Joseph Dominguez is president and chief executive officer of Constellation. He previously served as CEO of ComEd from 2018 to 2022 and as executive vice president of governmental and regulatory affairs and public policy for Exelon from 2012 to 2018.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Exelon Corporation",
+      "ticker": "EXC",
+      "exchange": "NASDAQ",
+      "website": "https://www.exeloncorp.com",
+      "logoUrl": "/companies-assets/EXC.NASDAQ.svg",
+      "title": "Executive Vice President, Governmental and Regulatory Affairs and Public Policy",
+      "startDate": "2017",
+      "endDate": "2018",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Commonwealth Edison Company (ComEd)",
+      "ticker": "EXC",
+      "exchange": "NASDAQ",
+      "website": "https://www.exeloncorp.com",
+      "logoUrl": "/companies-assets/EXC.NASDAQ.svg",
+      "title": "Chief Executive Officer",
+      "startDate": "2018",
+      "endDate": "2022",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2022"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/joseph-dominguez-5a5b2a12",
+      "person_name": "Joseph Dominguez",
+      "company_name": "Constellation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

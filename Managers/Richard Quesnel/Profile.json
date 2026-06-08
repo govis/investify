@@ -1,0 +1,71 @@
+{
+  "name": "Richard Quesnel",
+  "first_name": "Richard",
+  "last_name": "Quesnel",
+  "age": 68,
+  "age_year": 2024,
+  "background": "Mr. Quesnel is a mining engineer with over 40 years of experience in the mining industry. He has held senior executive positions with several mining companies, including serving as President and CEO of Consolidated Thompson Iron Mines Ltd. and as a director of several other public companies.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Consolidated Lithium Metals Inc.",
+      "ticker": "CLM",
+      "exchange": "TSXV",
+      "title_or_role": "Executive Chairman / CEO",
+      "website": "https://consolidatedlithium.com/",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Jourdan Resources Inc.",
+      "ticker": "JOR",
+      "exchange": "TSXV",
+      "website": "https://www.jourdaninc.com/",
+      "title_or_role": "Executive Chairman",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sama Resources Inc.",
+      "ticker": "SME",
+      "exchange": "TSXV",
+      "website": "https://www.samaresources.com/",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NextSource Materials Inc.",
+      "ticker": "NEXT",
+      "exchange": "TSX",
+      "website": "https://www.nextsourcematerials.com/",
+      "title_or_role": "Director",
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/richard-quesnel-a9829b112",
+      "person_name": "Richard Quesnel",
+      "company_name": "Consolidated Lithium Metals Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

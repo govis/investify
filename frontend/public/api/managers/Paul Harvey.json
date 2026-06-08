@@ -1,0 +1,42 @@
+{
+  "id": "Paul Harvey",
+  "name": "Paul Harvey",
+  "background": "Mr. Harvey is a mining professional with over 35 years' experience in the resources sector, including senior executive roles at South32 and BHP.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "De Grey Mining Limited",
+      "ticker": "DEG",
+      "exchange": "ASX",
+      "website": "https://degreymining.com.au",
+      "logoUrl": "/companies-assets/DEG.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "July 5, 2022",
+      "endDate": null,
+      "formattedStartDate": "July 5, 2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "South32 Limited",
+      "ticker": "S32",
+      "exchange": "ASX",
+      "website": "https://www.south32.net",
+      "logoUrl": "/companies-assets/S32.ASX.svg",
+      "title": "Member of the Leadership Team (Executive)",
+      "startDate": "2015",
+      "endDate": "2019",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2019"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and Nomination Committee (Chair)"
+  ],
+  "age": null,
+  "ageYear": null
+}

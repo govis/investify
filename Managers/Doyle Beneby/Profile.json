@@ -1,0 +1,64 @@
+{
+  "name": "Doyle Beneby",
+  "first_name": "Doyle",
+  "last_name": "Beneby",
+  "age": 64,
+  "age_year": 2024,
+  "background": "Mr. Beneby is the former President and CEO of CPS Energy. He has extensive experience in the energy and utility sectors.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Quanta Services, Inc.",
+      "ticker": "PWR",
+      "exchange": "NYSE",
+      "title_or_role": "Director (Chairman of the Board)",
+      "website": "https://www.quantaservices.com",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Northland Power Inc.",
+      "ticker": "NPI",
+      "exchange": "TSX",
+      "website": "https://www.northlandpower.com",
+      "title_or_role": "Director",
+      "start_date": "May 2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Korn Ferry",
+      "ticker": "KFY",
+      "exchange": "NYSE",
+      "website": "https://www.kornferry.com",
+      "title_or_role": "Director",
+      "start_date": "September 2015",
+      "end_date": "2021",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/doylebeneby",
+      "person_name": "Doyle Beneby",
+      "company_name": "Quanta Services, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Investment Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

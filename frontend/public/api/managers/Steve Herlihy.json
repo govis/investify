@@ -1,0 +1,50 @@
+{
+  "id": "Steve Herlihy",
+  "name": "Steve Herlihy",
+  "background": "Steve Herlihy is a Chartered Accountant with over 30 years of experience in commercial and financial roles. He has served as CFO for several ASX-listed companies and has extensive experience in capital raisings and financial management in the resources sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Bannerman Energy Ltd",
+      "ticker": "BMN",
+      "exchange": "ASX",
+      "website": "https://bannermanenergy.com",
+      "logoUrl": "/companies-assets/BMN.ASX.png",
+      "title": "Chief Financial Officer",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Namibia Critical Metals Inc.",
+      "ticker": "NMI",
+      "exchange": "TSXV",
+      "website": "https://namibiacriticalmetals.com",
+      "logoUrl": "/companies-assets/NMI.TSXV.svg",
+      "title": "Director",
+      "startDate": "May 2023",
+      "endDate": null,
+      "formattedStartDate": "May 2023",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/stephen-herlihy",
+      "person_name": "Stephen Herlihy",
+      "company_name": "Bannerman Energy Ltd",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

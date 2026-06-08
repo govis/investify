@@ -1,0 +1,63 @@
+{
+  "name": "Lisa Crutchfield",
+  "first_name": "Lisa",
+  "last_name": "Crutchfield",
+  "age": 61,
+  "age_year": 2024,
+  "background": "Ms. Crutchfield is the Managing Principal of Hudson Strategic Advisers, LLC. She has served on the board since 2023.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Vistra Corp.",
+      "ticker": "VST",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.vistracorp.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Fulton Financial Corporation",
+      "ticker": "FULT",
+      "exchange": "NASDAQ",
+      "website": "https://www.fultonbank.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Buckeye Partners, L.P.",
+      "ticker": "BPL",
+      "exchange": "NYSE",
+      "website": "https://www.buckeye.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2019",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/lisa-crutchfield-8233996",
+      "person_name": "Lisa Crutchfield",
+      "company_name": "Hudson Strategic Advisers, LLC",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Sustainability and Relevant Public Policy Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

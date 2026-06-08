@@ -1,0 +1,51 @@
+{
+  "id": "Robb LeMasters",
+  "name": "Robb LeMasters",
+  "background": "Mr. LeMasters has served as Senior Vice President and Chief Financial Officer since 2021. He previously served as Senior Vice President, Strategy and Corporate Development from 2020 to 2021 and was a member of the Board of Directors from 2015 to 2020.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "BWX Technologies, Inc.",
+      "ticker": "BWXT",
+      "exchange": "NYSE",
+      "website": "https://www.bwxt.com",
+      "logoUrl": "/companies-assets/BWXT.NYSE.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2024",
+      "endDate": "2025",
+      "formattedStartDate": "2024",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "Lineage, Inc.",
+      "ticker": "LINE",
+      "exchange": "NASDAQ",
+      "website": "https://www.lineagelogistics.com",
+      "logoUrl": "/companies-assets/LINE.NASDAQ.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/robb-lemasters-898512ab",
+      "person_name": "Robb LeMasters",
+      "company_name": "Lineage, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 46,
+  "ageYear": 2024
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Amber Stanton",
+  "name": "Amber Stanton",
+  "background": "Ms Stanton is a corporate lawyer with over 20 years’ experience. She has held senior legal and company secretarial roles at several ASX-listed companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Bellevue Gold Limited",
+      "ticker": "BGL",
+      "exchange": "ASX",
+      "website": "https://www.bellevuegold.com.au",
+      "logoUrl": "/companies-assets/BGL.ASX.svg",
+      "title": "General Counsel and Company Secretary",
+      "startDate": "2021-07-26",
+      "endDate": null,
+      "formattedStartDate": "July 2021",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

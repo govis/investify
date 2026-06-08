@@ -1,0 +1,29 @@
+{
+  "name": "Greg Murphy",
+  "first_name": "Greg",
+  "last_name": "Murphy",
+  "age": 60,
+  "age_year": 2024,
+  "background": "Mr. Murphy has served as Executive Vice President of Business Services and General Counsel since 2021. He previously served as Vice President and General Counsel from 2015 to 2020.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Nucor Corporation",
+      "ticker": "NUE",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Vice President of Business Services and General Counsel",
+      "website": "https://nucor.com",
+      "start_date": "1989",
+      "end_date": "June 7, 2025",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "Steve Scudamore",
+  "name": "Steve Scudamore",
+  "background": "Steve Scudamore is an experienced non-executive director with a background in chartered accounting. He was a partner at KPMG for 28 years and specializes in audit, risk management, and corporate governance.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Australis Oil and Gas Limited",
+      "ticker": "ATS",
+      "exchange": "ASX",
+      "website": "https://www.australisoil.com",
+      "logoUrl": "/companies-assets/ATS.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "Nov 2016",
+      "endDate": null,
+      "formattedStartDate": "Nov 2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Altona Mining Limited",
+      "ticker": "AOH",
+      "exchange": "ASX",
+      "website": "https://www.altonamining.com",
+      "logoUrl": "/companies-assets/AOH.ASX.png",
+      "title": "Non-Executive Director",
+      "startDate": "18 Mar 2013",
+      "endDate": "2018",
+      "formattedStartDate": "18 Mar 2013",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Aquila Resources Limited",
+      "ticker": "AQA",
+      "exchange": "ASX",
+      "website": null,
+      "logoUrl": "/companies-assets/AQA.ASX.png",
+      "title": "Non-Executive Director",
+      "startDate": "2012",
+      "endDate": "2014",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2014"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/steve-scudamore-4a5a5a12",
+      "person_name": "Steve Scudamore",
+      "company_name": "Pilbara Minerals Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Audit and Risk Committee (Chair)",
+    "People and Culture Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

@@ -1,0 +1,74 @@
+{
+  "id": "Gordon Riske",
+  "name": "Gordon Riske",
+  "background": "Gordon Riske is a Director and former CEO of KION Group AG.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Atlas Copco AB",
+      "ticker": "ATCO-A",
+      "exchange": "Nasdaq Stockholm",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Member",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "KION GROUP AG",
+      "ticker": "KGX",
+      "exchange": "XETRA (Frankfurt Stock Exchange)",
+      "website": null,
+      "logoUrl": null,
+      "title": "CEO (Management Board)",
+      "startDate": "2006",
+      "endDate": "2021",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "MTU Aero Engines AG",
+      "ticker": "MTX",
+      "exchange": "XETRA (Frankfurt Stock Exchange)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman of the Supervisory Board",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "DEUTZ AG",
+      "ticker": "DEZ",
+      "exchange": "XETRA (Frankfurt Stock Exchange)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman of the Management Board",
+      "startDate": "2001",
+      "endDate": "2006",
+      "formattedStartDate": "2001",
+      "formattedEndDate": "2006"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://de.linkedin.com/in/gordon-riske-b5802a174",
+      "person_name": "Gordon Riske",
+      "company_name": "KION GROUP AG",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 67,
+  "ageYear": 2024
+}

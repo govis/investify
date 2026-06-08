@@ -1,0 +1,43 @@
+{
+  "id": "Clifford Weber",
+  "name": "Clifford Weber",
+  "background": "Independent Trustee. CEO of New York Digital Assets Group. Former Executive Vice President at the American Stock Exchange.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "PCSB Financial Corporation",
+      "ticker": "PCSB",
+      "exchange": "NASDAQ",
+      "website": "https://www.pcsb.com",
+      "logoUrl": "/companies-assets/PCSB.NASDAQ.png",
+      "title": "General Counsel",
+      "startDate": "2016",
+      "endDate": "2022",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Clough Global Equity Fund",
+      "ticker": "GLQ",
+      "exchange": "NYSE",
+      "website": "https://www.cloughcapital.com",
+      "logoUrl": "/companies-assets/GLQ.NYSE.png",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Governance Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

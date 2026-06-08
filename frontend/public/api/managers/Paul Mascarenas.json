@@ -1,0 +1,89 @@
+{
+  "id": "Paul Mascarenas",
+  "name": "Paul Mascarenas",
+  "background": "Paul A. Mascarenas has served as a director since 2014. He previously served as Chief Technical Officer and Vice President of Ford Motor Company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "ON Semiconductor Corporation",
+      "ticker": "ON",
+      "exchange": "NASDAQ",
+      "website": "https://www.onsemi.com",
+      "logoUrl": "/companies-assets/ON.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "BorgWarner Inc.",
+      "ticker": "BWA",
+      "exchange": "NYSE",
+      "website": "https://www.borgwarner.com",
+      "logoUrl": "/companies-assets/BWA.NYSE.svg",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "The Shyft Group, Inc.",
+      "ticker": "SHYF",
+      "exchange": "NASDAQ",
+      "website": "https://theshyftgroup.com",
+      "logoUrl": "https://theshyftgroup.com/wp-content/uploads/2020/06/Shyft-Group-Logo-1.png",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "United States Steel Corporation",
+      "ticker": "X",
+      "exchange": "NYSE",
+      "website": "https://www.ussteel.com",
+      "logoUrl": "/companies-assets/X.NYSE.svg",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "website": "https://www.ford.com",
+      "logoUrl": "/companies-assets/F.NYSE.svg",
+      "title": "Chief Technical Officer",
+      "startDate": "2009",
+      "endDate": "2014",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2014"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/paulmascarenas",
+      "person_name": "Paul Mascarenas",
+      "company_name": "ON Semiconductor Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

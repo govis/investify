@@ -1,0 +1,42 @@
+{
+  "id": "Carmel Daniele",
+  "name": "Carmel Daniele",
+  "background": "Ms. Daniele is the founder and CIO of CD Capital. She has over 25 years of experience in natural resources investment and investment banking.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lundin Gold Inc.",
+      "ticker": "LUG",
+      "exchange": "TSX",
+      "website": "https://lundingold.com",
+      "logoUrl": "/companies-assets/LUG.TSX.svg",
+      "title": "Director",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Filo Corp.",
+      "ticker": "FIL",
+      "exchange": "TSX",
+      "website": "filocorp.com",
+      "logoUrl": "/companies-assets/FIL.TSX.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 59,
+  "ageYear": 2024
+}

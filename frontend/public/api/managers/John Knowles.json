@@ -1,0 +1,31 @@
+{
+  "id": "John Knowles",
+  "name": "John Knowles",
+  "background": "Mr. Knowles is a Chartered Professional Accountant with over 30 years of experience in senior financial roles in the mining industry. He has served as CFO for several mining companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Uranium Royalty Corp.",
+      "ticker": "URC",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

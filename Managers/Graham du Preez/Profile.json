@@ -1,0 +1,60 @@
+{
+  "name": "Graham du Preez",
+  "first_name": "Graham",
+  "last_name": "du Preez",
+  "age": 52,
+  "age_year": 2024,
+  "background": "Mr. du Preez is a Chartered Accountant with over 25 years of experience in the mining industry. He previously served as CFO of Uranium Royalty Corp. and has held senior financial roles at several mining companies.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "IsoEnergy Ltd.",
+      "ticker": "ISO",
+      "exchange": "TSXV",
+      "title_or_role": "Chief Financial Officer",
+      "website": "www.isoenergy.ca",
+      "start_date": "March 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Harte Gold Corp.",
+      "ticker": "HRT",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "March 2, 2020",
+      "end_date": "February 2022",
+      "validated": true
+    },
+    {
+      "name": "Uranium One Inc.",
+      "ticker": "UUU",
+      "exchange": "TSX",
+      "website": "www.uranium1.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": null,
+      "end_date": "April 2013",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/graham-du-preez-ba5a501",
+      "person_name": "Graham du Preez",
+      "company_name": "IsoEnergy Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

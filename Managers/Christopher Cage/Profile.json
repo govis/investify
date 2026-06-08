@@ -1,0 +1,50 @@
+{
+  "name": "Christopher Cage",
+  "first_name": "Christopher",
+  "last_name": "Cage",
+  "age": 55,
+  "age_year": 2024,
+  "background": "Christopher R. Cage has served as our Chief Financial Officer since July 2022. He previously served as Senior Vice President and Chief Accounting Officer from 2016 to 2022. He has been with the company and its predecessor since 1996.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Leidos Holdings, Inc.",
+      "ticker": "LDOS",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "website": "https://www.leidos.com",
+      "start_date": "July 5, 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Leidos Holdings, Inc. (formerly SAIC)",
+      "ticker": "LDOS",
+      "exchange": "NYSE",
+      "website": "https://www.leidos.com",
+      "title_or_role": "Various finance and management roles (including Senior Vice President and Chief Accounting Officer)",
+      "start_date": "1996",
+      "end_date": "July 5, 2021",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/chris-cage-717bbb",
+      "person_name": "Christopher Cage",
+      "company_name": "Leidos Holdings, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

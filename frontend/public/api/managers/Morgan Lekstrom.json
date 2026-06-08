@@ -1,0 +1,74 @@
+{
+  "id": "Morgan Lekstrom",
+  "name": "Morgan Lekstrom",
+  "background": "Mr. Lekstrom has 17 years of experience in the mining industry, including executive roles at Silver Hammer Mining Corp. and Kuya Silver Corp. He has a background in project management and operations, having worked with Freeport McMoran and Rio Tinto.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NexGold Mining Corp.",
+      "ticker": "NEXG",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "President & Director",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Blackwolf Copper and Gold Ltd.",
+      "ticker": "BWCG",
+      "exchange": "TSXV",
+      "website": "https://blackwolfcopperandgold.com/",
+      "logoUrl": "/companies-assets/BWCG.TSXV.svg",
+      "title": "CEO & Director",
+      "startDate": "2021",
+      "endDate": "2024",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Streamex Corp.",
+      "ticker": "STEX",
+      "exchange": "NASDAQ",
+      "website": "https://ir.streamex.com/",
+      "logoUrl": "/companies-assets/STEX.NASDAQ.svg",
+      "title": "Co-Founder & Executive Chairman",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "NexMetals Mining Corp.",
+      "ticker": "NEXM",
+      "exchange": "TSXV",
+      "website": "https://nexmetalsmining.com/",
+      "logoUrl": "/companies-assets/NEXM.TSXV.png",
+      "title": "CEO & Director",
+      "startDate": "2025",
+      "endDate": "2026",
+      "formattedStartDate": "2025",
+      "formattedEndDate": "2026"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/morgan-lekstrom-b2704438",
+      "person_name": "Morgan Lekstrom",
+      "company_name": "NexGold Mining Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

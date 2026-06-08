@@ -1,0 +1,84 @@
+{
+  "name": "Teri McClure",
+  "first_name": "Teri",
+  "last_name": "McClure",
+  "age": 60,
+  "age_year": 2024,
+  "background": "Former Chief Human Resources Officer and Senior Vice President of Labor of United Parcel Service, Inc.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Fluor Corporation",
+      "ticker": "FLR",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.fluor.com",
+      "start_date": "October 1, 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lennar Corporation",
+      "ticker": "LEN",
+      "exchange": "NYSE",
+      "website": "https://www.lennar.com",
+      "title_or_role": "Director",
+      "start_date": "June 24, 2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "GMS Inc.",
+      "ticker": "GMS",
+      "exchange": "NYSE",
+      "website": "https://www.gms.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "JetBlue Airways Corporation",
+      "ticker": "JBLU",
+      "exchange": "NASDAQ",
+      "website": "https://www.jetblue.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "United Parcel Service, Inc. (UPS)",
+      "ticker": "UPS",
+      "exchange": "NYSE",
+      "website": "https://www.ups.com",
+      "title_or_role": "Chief Human Resources Officer and Senior Vice President, Labor (and various other senior legal/operations roles)",
+      "start_date": "1995",
+      "end_date": "2019",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/terimcclure",
+      "person_name": "Teri McClure",
+      "company_name": "United Parcel Service",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Governance Committee",
+    "Organization and Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

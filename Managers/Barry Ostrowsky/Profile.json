@@ -1,0 +1,53 @@
+{
+  "name": "Barry Ostrowsky",
+  "first_name": "Barry",
+  "last_name": "Ostrowsky",
+  "age": 73,
+  "age_year": 2024,
+  "background": "Retired Chief Executive Officer of RWJBarnabas Health.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Public Service Enterprise Group Incorporated",
+      "ticker": "PEG",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.pseg.com",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "PCTEL, Inc.",
+      "ticker": "PCTI",
+      "exchange": "NASDAQ",
+      "website": "https://www.pctel.com",
+      "title_or_role": "Director (Chairman of the Board)",
+      "start_date": null,
+      "end_date": "2023",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/barry-ostrowsky-9778a232",
+      "person_name": "Barry Ostrowsky",
+      "company_name": "RWJBarnabas Health",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Executive",
+    "Organization and Compensation (Chair)"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

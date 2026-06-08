@@ -1,0 +1,99 @@
+{
+  "name": "Greg Hall",
+  "first_name": "Greg",
+  "last_name": "Hall",
+  "age": 61,
+  "age_year": 2024,
+  "background": "Greg Hall is a Mining Engineer with over 35 years' experience in the resources sector, specifically in uranium, copper, and gold. He has held senior executive roles at WMC Resources and Rio Tinto, including as Mine Manager of Olympic Dam and Ranger Uranium Mine. He was the founding CEO of Toro Energy Limited and has served as a director of the Australian Uranium Association.",
+  "picture_url": "https://media.licdn.com/dms/image/v2/D5603AQGT0OGdvAJg2Q/profile-displayphoto-shrink_200_200/B56ZW95I5SHoAc-/0/1742647628890?e=2147483647&amp;v=beta&amp;t=V5YaZlBI7Cm928HfTawZamuwfQ0k4JX1Rr-wuNv7ItQ",
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
+    {
+      "name": "Alligator Energy Limited",
+      "ticker": "AGE",
+      "exchange": "ASX",
+      "title_or_role": "Chief Executive Officer, Managing Director",
+      "website": "https://www.alligatorenergy.com.au",
+      "start_date": "2015-05-01",
+      "end_date": null
+    },
+    {
+      "name": "Platinum Group Metals Ltd.",
+      "ticker": "PTM",
+      "exchange": "NYSE",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://www.platinumgroupmetals.net",
+      "start_date": "2022-04-01",
+      "end_date": null
+    },
+    {
+      "name": "Montero Mining & Exploration Ltd.",
+      "ticker": "MON",
+      "exchange": "TSXV",
+      "website": "https://monteromining.com/",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Silver Elephant Mining Corp.",
+      "ticker": "ELEF",
+      "exchange": "TSX",
+      "website": "https://silverelef.com/",
+      "title_or_role": "Co-Founder & Director",
+      "start_date": "2009",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nickel Creek Platinum Corp. (formerly Prophecy Platinum Corp.)",
+      "ticker": "NCP",
+      "exchange": "TSX",
+      "website": "https://www.nickelcreekplatinum.com/",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Silvercorp Metals Inc.",
+      "ticker": "SVM",
+      "exchange": "NYSE",
+      "website": "https://www.silvercorpmetals.com/",
+      "title_or_role": "Director and Audit Committee Chair",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CleanTech Vanadium Mining Corp.",
+      "ticker": "CTV",
+      "exchange": "TSXV",
+      "website": "https://cleantechctv.com/",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/greg-hall-1072a7119",
+      "person_name": "Greg Hall",
+      "company_name": "Alligator Energy Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

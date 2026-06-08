@@ -1,0 +1,77 @@
+{
+  "id": "Jay Flatley",
+  "name": "Jay Flatley",
+  "background": "Mr. Flatley has served as a member of our Board since 2021. He is the former Chairman and CEO of Illumina, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Illumina, Inc.",
+      "ticker": "ILMN",
+      "exchange": "NASDAQ",
+      "website": "https://www.illumina.com",
+      "logoUrl": "/companies-assets/ILMN.NASDAQ.svg",
+      "title": "President and CEO (1999–2016), Executive Chairman (2016–2019), Chairman of the Board (2019–2021)",
+      "startDate": "1999",
+      "endDate": "2021",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Denali Therapeutics Inc.",
+      "ticker": "DNLI",
+      "exchange": "NASDAQ",
+      "website": "https://www.denalitherapeutics.com",
+      "logoUrl": "/companies-assets/DNLI.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Coherent, Inc.",
+      "ticker": "COHR",
+      "exchange": "NYSE",
+      "website": "https://www.coherent.com",
+      "logoUrl": "/companies-assets/COHR.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2011",
+      "endDate": "2022",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Molecular Dynamics, Inc.",
+      "ticker": "MDYN",
+      "exchange": "NASDAQ",
+      "website": "N/A",
+      "logoUrl": "/companies-assets/MDYN.NASDAQ.svg",
+      "title": "President and CEO",
+      "startDate": "1994",
+      "endDate": "1998",
+      "formattedStartDate": "1994",
+      "formattedEndDate": "1998"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jay-flatley-0b35a164",
+      "person_name": "Jay Flatley",
+      "company_name": "Illumina, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

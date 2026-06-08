@@ -1,0 +1,53 @@
+{
+  "name": "Rebecca House",
+  "first_name": "Rebecca",
+  "last_name": "House",
+  "age": 51,
+  "age_year": 2024,
+  "background": "Senior Vice President, Chief People and Legal Officer at Rockwell Automation.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Marvell Technology, Inc.",
+      "ticker": "MRVL",
+      "exchange": "NASDAQ",
+      "title_or_role": "Member, Board of Directors",
+      "website": "https://www.marvell.com",
+      "start_date": "August 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rockwell Automation, Inc.",
+      "ticker": "ROK",
+      "exchange": "NYSE",
+      "title_or_role": "Senior Vice President, Chief People and Legal Officer and Secretary",
+      "website": "https://www.rockwellautomation.com",
+      "start_date": "January 2017",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rebecca-house-armstrong",
+      "person_name": "Rebecca House",
+      "company_name": "Rockwell Automation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Executive Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

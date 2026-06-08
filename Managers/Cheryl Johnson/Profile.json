@@ -1,0 +1,60 @@
+{
+  "name": "Cheryl Johnson",
+  "first_name": "Cheryl",
+  "last_name": "Johnson",
+  "age": 58,
+  "age_year": 2024,
+  "background": "Cheryl Johnson is chief human resources officer of Caterpillar Inc. She joined the company in 2017 from Textron Inc., where she served as vice president of human resources.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Caterpillar Inc.",
+      "ticker": "CAT",
+      "exchange": "NYSE",
+      "title_or_role": "Chief Human Resources Officer",
+      "website": "https://www.caterpillar.com",
+      "start_date": "2017",
+      "end_date": "April 30, 2025",
+      "validated": true
+    },
+    {
+      "name": "Flowserve Corporation",
+      "ticker": "FLS",
+      "exchange": "NYSE",
+      "website": "https://www.flowserve.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Textron Inc.",
+      "ticker": "TXT",
+      "exchange": "NYSE",
+      "website": "https://www.textron.com",
+      "title_or_role": "Executive Vice President of Human Resources",
+      "start_date": "~1997",
+      "end_date": "2017",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/cheryl-johnson-7a5a5a14",
+      "person_name": "Cheryl Johnson",
+      "company_name": "Caterpillar Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Katherine Arnold",
+  "first_name": "Katherine",
+  "last_name": "Arnold",
+  "age": 62,
+  "age_year": 2024,
+  "background": "Ms. Arnold is a professional engineer with over 35 years of experience in environmental engineering and permitting. She was previously Director of Environmental and Regulatory Affairs at Hudbay Minerals.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Faraday Copper Corp.",
+      "ticker": "FDY",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://faradaycopper.com/",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Arizona Metals Corp.",
+      "ticker": "AMC",
+      "exchange": "TSX",
+      "website": "https://www.arizonametalscorp.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "June 27, 2023",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/katherine-arnold-1819452a",
+      "person_name": "Katherine Arnold",
+      "company_name": "Faraday Copper Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Health, Safety, Environmental and Sustainability Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

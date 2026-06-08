@@ -1,0 +1,39 @@
+{
+  "id": "Mark Reuss",
+  "name": "Mark Reuss",
+  "background": "Mark L. Reuss has been President of GM since 2019. He has held numerous roles at GM, including Executive Vice President, Global Product Group and Cadillac.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "website": "https://www.gm.com",
+      "logoUrl": "/companies-assets/GM.NYSE.svg",
+      "title": "President (Current, 2019–Present); Executive Vice President, Global Product Development, Purchasing and Supply Chain (2013–2019); various other senior roles since 1990.",
+      "startDate": "1990",
+      "endDate": null,
+      "formattedStartDate": "1990",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mark-reuss",
+      "person_name": "Mark Reuss",
+      "company_name": "General Motors Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 60,
+  "ageYear": 2024
+}

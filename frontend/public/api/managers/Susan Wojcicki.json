@@ -1,0 +1,64 @@
+{
+  "id": "Susan Wojcicki",
+  "name": "Susan Wojcicki",
+  "background": "Former CEO of YouTube. She has served as a Director since 2014.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Salesforce, Inc.",
+      "ticker": "CRM",
+      "exchange": "NYSE",
+      "website": "https://www.salesforce.com",
+      "logoUrl": "/companies-assets/CRM.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "December 5, 2014",
+      "endDate": "August 9, 2024",
+      "formattedStartDate": "December 5, 2014",
+      "formattedEndDate": "August 9, 2024"
+    },
+    {
+      "name": "Alphabet Inc.",
+      "ticker": "GOOG / GOOGL",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Vice President / Executive",
+      "startDate": "1999",
+      "endDate": "2024",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "YouTube",
+      "ticker": "GOOG / GOOGL",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Executive Officer",
+      "startDate": "2014",
+      "endDate": "2023",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2023"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/susan-wojcicki-b136a99",
+      "person_name": "Susan Wojcicki",
+      "company_name": "YouTube",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 55,
+  "ageYear": 2024
+}

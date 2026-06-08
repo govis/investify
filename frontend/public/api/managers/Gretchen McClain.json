@@ -1,0 +1,77 @@
+{
+  "id": "Gretchen McClain",
+  "name": "Gretchen McClain",
+  "background": "Ms. McClain is an Operating Executive at The Carlyle Group and former CEO of Xylem Inc. She has extensive experience in technology and engineering.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AMETEK, Inc.",
+      "ticker": "AME",
+      "exchange": "NYSE",
+      "website": "https://www.ametek.com",
+      "logoUrl": "/companies-assets/AME.NYSE.png",
+      "title": "Director",
+      "startDate": "2014-09-10",
+      "endDate": null,
+      "formattedStartDate": "September 2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Xylem Inc.",
+      "ticker": "XYL",
+      "exchange": "NYSE",
+      "website": "https://www.xylem.com",
+      "logoUrl": "/companies-assets/XYL.NYSE.svg",
+      "title": "President & CEO",
+      "startDate": "2011-10-31",
+      "endDate": "2013-09-09",
+      "formattedStartDate": "October 2011",
+      "formattedEndDate": "September 2013"
+    },
+    {
+      "name": "Boart Longyear Limited",
+      "ticker": "BLY",
+      "exchange": "ASX",
+      "website": "https://www.boartlongyear.com",
+      "logoUrl": "/companies-assets/BLY.ASX.png",
+      "title": "Director",
+      "startDate": "2015-11-15",
+      "endDate": "2019-09-01",
+      "formattedStartDate": "November 2015",
+      "formattedEndDate": "September 2019"
+    },
+    {
+      "name": "Hennessy Capital Investment Corp. VI",
+      "ticker": "HCVI",
+      "exchange": "NASDAQ",
+      "website": "https://www.hennessycapllc.com",
+      "logoUrl": "/companies-assets/HCVI.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": "2023",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2023"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gretchen-mcclain-36255713",
+      "person_name": "Gretchen McClain",
+      "company_name": "Booz Allen Hamilton",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

@@ -1,0 +1,51 @@
+{
+  "id": "Ryan O'Connor",
+  "name": "Ryan O'Connor",
+  "background": "Chief Executive Officer of Global X Management Company LLC since April 2024. Previously held various leadership roles at Goldman Sachs Asset Management.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Global X ETFs",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Executive Officer",
+      "startDate": "April 8, 2024",
+      "endDate": null,
+      "formattedStartDate": "April 8, 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "ticker": "GS",
+      "exchange": "NYSE",
+      "website": "https://www.goldmansachs.com",
+      "logoUrl": "/companies-assets/GS.NYSE.svg",
+      "title": "Global Head of ETF Product, Goldman Sachs Asset Management",
+      "startDate": "Prior to 2024",
+      "endDate": "2024",
+      "formattedStartDate": "Prior to 2024",
+      "formattedEndDate": "2024"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ryan-o-connor-7b3b034",
+      "person_name": "Ryan O'Connor",
+      "company_name": "Global X ETFs",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 40,
+  "ageYear": 2024
+}

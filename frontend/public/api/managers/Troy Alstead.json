@@ -1,0 +1,65 @@
+{
+  "id": "Troy Alstead",
+  "name": "Troy Alstead",
+  "background": "Troy Alstead has served as a member of our Board since March 2021. Mr. Alstead previously served as Chief Operating Officer of Starbucks Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Array Technologies, Inc.",
+      "ticker": "ARRY",
+      "exchange": "NASDAQ",
+      "website": "https://arraytechinc.com",
+      "logoUrl": "/companies-assets/ARRY.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Starbucks Corporation",
+      "ticker": "SBUX",
+      "exchange": "NASDAQ",
+      "website": "https://www.starbucks.com",
+      "logoUrl": "/companies-assets/SBUX.NASDAQ.svg",
+      "title": "Chief Operating Officer (and various senior executive roles including CFO)",
+      "startDate": "1992",
+      "endDate": "2015",
+      "formattedStartDate": "1992",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Harley-Davidson, Inc.",
+      "ticker": "HOG",
+      "exchange": "NYSE",
+      "website": "harley-davidson.com",
+      "logoUrl": "/companies-assets/HOG.NYSE.svg",
+      "title": "Director (and Chairman of the Board effective October 1, 2025)",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/troy-alstead-4a5a5a10",
+      "person_name": "Troy Alstead",
+      "company_name": "Array Technologies, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

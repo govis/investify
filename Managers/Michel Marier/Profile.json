@@ -1,0 +1,52 @@
+{
+  "name": "Michel Marier",
+  "first_name": "Michel",
+  "last_name": "Marier",
+  "age": 46,
+  "age_year": 2024,
+  "background": "Mr Marier is a co-founder and partner of Integrated Asset Management (IAM). He has extensive experience in private equity and infrastructure investments. He previously held senior positions at Sentient Asset Management Canada.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Toro Energy Limited",
+      "ticker": "TOE",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://toroenergy.com.au/",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "LeadFX Inc.",
+      "ticker": "LFX",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2019",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/michel-marier-173167248",
+      "person_name": "Michel Marier",
+      "company_name": "Toro Energy Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

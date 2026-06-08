@@ -1,0 +1,65 @@
+{
+  "id": "Yvette Kanouff",
+  "name": "Yvette Kanouff",
+  "background": "Partner and Chief Technology Officer at JC2 Ventures. Former Senior Vice President and General Manager of the Service Provider Business at Cisco Systems.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Science Applications International Corporation",
+      "ticker": "SAIC",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Amdocs Limited",
+      "ticker": "DOX",
+      "exchange": "NASDAQ",
+      "website": "amdocs.com",
+      "logoUrl": "/companies-assets/DOX.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sprinklr, Inc.",
+      "ticker": "CXM",
+      "exchange": "NYSE",
+      "website": "www.sprinklr.com",
+      "logoUrl": "/companies-assets/CXM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Entegris, Inc.",
+      "ticker": "ENTG",
+      "exchange": "NASDAQ",
+      "website": "entegris.com",
+      "logoUrl": "/companies-assets/ENTG.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

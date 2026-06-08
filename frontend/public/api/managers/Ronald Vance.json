@@ -1,0 +1,30 @@
+{
+  "id": "Ronald Vance",
+  "name": "Ronald Vance",
+  "background": "Mr. Vance was Senior Vice President, Corporate Development of Teck Resources Limited.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Ivanhoe Electric Inc.",
+      "ticker": "IE",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2023-06-01",
+      "endDate": null,
+      "formattedStartDate": "June 2023",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation, Nominating and Governance Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

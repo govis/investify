@@ -1,0 +1,68 @@
+{
+  "id": "Robin Washington",
+  "name": "Robin Washington",
+  "background": "Former EVP and CFO of Gilead Sciences, Inc. She has served as a Director since 2013.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Gilead Sciences, Inc.",
+      "ticker": "GILD",
+      "exchange": "NASDAQ",
+      "website": "https://www.gilead.com",
+      "logoUrl": "/companies-assets/GILD.NASDAQ.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2008",
+      "endDate": "March 1, 2020",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "March 1, 2020"
+    },
+    {
+      "name": "Honeywell International Inc.",
+      "ticker": "HON",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Member, Board of Directors",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "MIPS Technologies, Inc.",
+      "ticker": "MIPS",
+      "exchange": "NASDAQ",
+      "website": "https://www.mips.com",
+      "logoUrl": "/companies-assets/MIPS.NASDAQ.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2007",
+      "endDate": "2013",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2013"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/robinlwashington",
+      "person_name": "Robin Washington",
+      "company_name": "Alphabet Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Audit and Compliance Committee",
+    "Leadership Development, Inclusion and Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

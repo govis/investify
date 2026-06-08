@@ -1,0 +1,64 @@
+{
+  "id": "Christina Lampe-Önnerud",
+  "name": "Christina Lampe-Önnerud",
+  "background": "Dr. Lampe-Önnerud has served as a director since 2020. She is the founder and CEO of Cadenza Innovation, Inc. and was the founder of Boston-Power, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Livent Corporation",
+      "ticker": "LTHM",
+      "exchange": "NYSE",
+      "website": "https://www.livent.com",
+      "logoUrl": "/companies-assets/LTHM.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2019",
+      "endDate": "2024-01-04",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "January 2024"
+    },
+    {
+      "name": "ON Semiconductor Corporation",
+      "ticker": "ON",
+      "exchange": "NASDAQ",
+      "website": "https://www.onsemi.com",
+      "logoUrl": "/companies-assets/ON.NASDAQ.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2023-09-01",
+      "endDate": null,
+      "formattedStartDate": "September 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Arcadium Lithium plc",
+      "ticker": "ALTM",
+      "exchange": "NYSE",
+      "website": "https://www.arcadiumlithium.com",
+      "logoUrl": "/companies-assets/ALTM.NYSE.png",
+      "title": "Member, Board of Directors",
+      "startDate": "2024-01-04",
+      "endDate": null,
+      "formattedStartDate": "January 2024",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/lampeonnerud/",
+      "person_name": "Christina Lampe-Önnerud",
+      "company_name": "Cadenza Innovation",
+      "profile_status": "not_found",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Sustainability Committee"
+  ],
+  "age": 56,
+  "ageYear": 2023
+}

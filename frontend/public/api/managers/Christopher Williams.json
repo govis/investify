@@ -1,0 +1,66 @@
+{
+  "id": "Christopher Williams",
+  "name": "Christopher Williams",
+  "background": "Chairman of Siebert Williams Shank & Co., LLC.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Union Pacific Corporation",
+      "ticker": "UNP",
+      "exchange": "NYSE",
+      "website": "https://www.up.com",
+      "logoUrl": "/companies-assets/UNP.NYSE.svg",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Ameriprise Financial, Inc.",
+      "ticker": "AMP",
+      "exchange": "NYSE",
+      "website": "https://www.ameriprise.com",
+      "logoUrl": "/companies-assets/AMP.NYSE.svg",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "The Clorox Company",
+      "ticker": "CLX",
+      "exchange": "NYSE",
+      "website": "thecloroxcompany.com",
+      "logoUrl": "/companies-assets/CLX.NYSE.svg",
+      "title": "Director",
+      "startDate": "2005",
+      "endDate": null,
+      "formattedStartDate": "2005",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Walmart Inc.",
+      "ticker": "WMT",
+      "exchange": "NYSE",
+      "website": "walmart.com",
+      "logoUrl": "/companies-assets/WMT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2009",
+      "endDate": "2019",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2019"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation and Benefits Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

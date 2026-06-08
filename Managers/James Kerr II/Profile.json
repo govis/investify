@@ -1,0 +1,60 @@
+{
+  "name": "James Kerr II",
+  "first_name": "James",
+  "last_name": "Kerr II",
+  "age": 60,
+  "age_year": 2024,
+  "background": "Mr. Kerr is chairman, president and CEO of Southern Company Gas and executive vice president of Southern Company. He previously served as chief legal officer and chief compliance officer.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "The Southern Company",
+      "ticker": "SO",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Vice President, General Counsel and Chief Compliance Officer",
+      "website": "https://www.southerncompany.com",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "AGL Resources Inc.",
+      "ticker": "GAS",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Executive Vice President, General Counsel and Chief Compliance Officer",
+      "start_date": "2014",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Southern Company Gas",
+      "ticker": "SO",
+      "exchange": "NYSE",
+      "website": "https://www.southerncompanygas.com",
+      "title_or_role": "Chairman of the Board of Directors, CEO and President",
+      "start_date": "2023-03-31",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jim-kerr-352893a7",
+      "person_name": "James Kerr II",
+      "company_name": "Southern Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

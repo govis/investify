@@ -1,0 +1,74 @@
+{
+  "id": "John Giannandrea",
+  "name": "John Giannandrea",
+  "background": "John Giannandrea is Apple’s senior vice president of Machine Learning and AI Strategy, reporting to CEO Tim Cook. John joined Apple in 2018 and oversees the strategy for Artificial Intelligence and Machine Learning across the company and the development of Core ML and Siri technologies.",
+  "pictureUrl": "https://www.mactech.com/wp-content/uploads/2018/12/John-Giannandrea-two.jpg",
+  "companies": [
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "exchange": "NASDAQ",
+      "website": "https://www.apple.com",
+      "logoUrl": "/companies-assets/AAPL.NASDAQ.svg",
+      "title": "Senior Vice President, Machine Learning and AI Strategy",
+      "startDate": "2018",
+      "endDate": "2026",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2026"
+    },
+    {
+      "name": "Alphabet Inc. (Google)",
+      "ticker": "GOOGL",
+      "exchange": "NASDAQ",
+      "website": "https://abc.xyz",
+      "logoUrl": "/companies-assets/GOOGL.NASDAQ.svg",
+      "title": "Senior Vice President, Engineering (Head of Search and Artificial Intelligence)",
+      "startDate": "2010",
+      "endDate": "2018",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Netscape Communications Corporation",
+      "ticker": "NSCP",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Netscape_logo.svg/1200px-Netscape_logo.svg.png",
+      "title": "Chief Technologist",
+      "startDate": "1994",
+      "endDate": "1999",
+      "formattedStartDate": "1994",
+      "formattedEndDate": "1999"
+    },
+    {
+      "name": "General Magic, Inc.",
+      "ticker": "GMGC",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/18/General_Magic_logo.png",
+      "title": "Senior Engineer",
+      "startDate": "Early 1990s",
+      "endDate": "1994",
+      "formattedStartDate": "Early 1990s",
+      "formattedEndDate": "1994"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/johngiannandrea",
+      "person_name": "John Giannandrea",
+      "company_name": "Apple",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 59,
+  "ageYear": 2024
+}

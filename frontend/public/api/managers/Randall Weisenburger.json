@@ -1,0 +1,89 @@
+{
+  "id": "Randall Weisenburger",
+  "name": "Randall Weisenburger",
+  "background": "Mr. Weisenburger is the Managing Member of Mile 26 Capital LLC. He was previously the CFO of Omnicom Group Inc. and a founding member of Wasserstein Perella & Co.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "MP Materials Corp.",
+      "ticker": "MP",
+      "exchange": "NYSE",
+      "website": "https://mpmaterials.com",
+      "logoUrl": "/companies-assets/MP.NYSE.svg",
+      "title": "Director",
+      "startDate": "July 2018",
+      "endDate": null,
+      "formattedStartDate": "July 2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Omnicom Group Inc.",
+      "ticker": "OMC",
+      "exchange": "NYSE",
+      "website": "https://www.omnicomgroup.com",
+      "logoUrl": "/companies-assets/OMC.NYSE.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "1998",
+      "endDate": "2014",
+      "formattedStartDate": "1998",
+      "formattedEndDate": "2014"
+    },
+    {
+      "name": "Valero Energy Corporation",
+      "ticker": "VLO",
+      "exchange": "NYSE",
+      "website": "https://www.valero.com",
+      "logoUrl": "/companies-assets/VLO.NYSE.svg",
+      "title": "Director",
+      "startDate": "2011",
+      "endDate": null,
+      "formattedStartDate": "2011",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Carnival Corporation & plc",
+      "ticker": "CCL",
+      "exchange": "NYSE",
+      "website": "https://www.carnivalcorp.com",
+      "logoUrl": "/companies-assets/CCL.NYSE.svg",
+      "title": "Director",
+      "startDate": "2009",
+      "endDate": null,
+      "formattedStartDate": "2009",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "East West Bancorp, Inc.",
+      "ticker": "EWBC",
+      "exchange": "NASDAQ",
+      "website": "https://www.eastwestbank.com/",
+      "logoUrl": "/companies-assets/EWBC.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/randall-weisenburger-6ab7046",
+      "person_name": "Randall Weisenburger",
+      "company_name": "Mile 26 Capital LLC",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

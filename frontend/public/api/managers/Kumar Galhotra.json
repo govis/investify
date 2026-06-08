@@ -1,0 +1,28 @@
+{
+  "id": "Kumar Galhotra",
+  "name": "Kumar Galhotra",
+  "background": "Kumar Galhotra is Chief Operating Officer, Ford Blue. He previously served as President, Ford Blue and President, Americas & International Markets Group.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "website": "https://www.ford.com",
+      "logoUrl": "/companies-assets/F.NYSE.svg",
+      "title": "Various Engineering and Leadership roles (including Vice President, Engineering)",
+      "startDate": "1988",
+      "endDate": "2018",
+      "formattedStartDate": "1988",
+      "formattedEndDate": "2018"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 58,
+  "ageYear": 2024
+}

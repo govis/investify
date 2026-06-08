@@ -1,0 +1,42 @@
+{
+  "id": "Derek Rance",
+  "name": "Derek Rance",
+  "background": "Mr. Rance is a Professional Engineer and experienced mining executive. He was formerly the President and CEO of Iron Ore Company of Canada.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Global Atomic Corporation",
+      "ticker": "GLO",
+      "exchange": "TSX",
+      "website": "https://globalatomiccorp.com",
+      "logoUrl": "/companies-assets/GLO.TSX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2009",
+      "endDate": null,
+      "formattedStartDate": "2009",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/derek-rance-45b666b",
+      "person_name": "Derek Rance",
+      "company_name": "Global Atomic Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee",
+    "Technical Committee"
+  ],
+  "age": 84,
+  "ageYear": 2024
+}

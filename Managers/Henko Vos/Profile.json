@@ -1,0 +1,80 @@
+{
+  "name": "Henko Vos",
+  "first_name": "Henko",
+  "last_name": "Vos",
+  "age": null,
+  "age_year": null,
+  "background": "Mr. Vos is a member of the Governance Institute of Australia and the South African Institute of Chartered Accountants. He has more than 20 years of experience in public practice and management within the mining and resources sector.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Oreterra Limited",
+      "ticker": "ORE",
+      "exchange": "ASX",
+      "title_or_role": "Company Secretary",
+      "website": "https://oreterra.com.au",
+      "start_date": "2023-11-01",
+      "end_date": null
+    },
+    {
+      "name": "Helios Energy Ltd",
+      "ticker": "HE8",
+      "exchange": "ASX",
+      "website": "https://heliosenergyltd.com",
+      "title_or_role": "Company Secretary / Non-Executive Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nimy Resources Ltd",
+      "ticker": "NIM",
+      "exchange": "ASX",
+      "website": "https://nimy.com.au",
+      "title_or_role": "Chief Financial Officer / Director of Finance",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Mt Malcolm Mines NL",
+      "ticker": "M2M",
+      "exchange": "ASX",
+      "website": "https://mtmalcolm.com.au",
+      "title_or_role": "Company Secretary",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Triangle Energy (Global) Ltd",
+      "ticker": "TEG",
+      "exchange": "ASX",
+      "website": "https://triangleenergy.com.au",
+      "title_or_role": "Company Secretary",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/henko-vos",
+      "person_name": "Henko Vos",
+      "company_name": "Nimy Resources Ltd",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

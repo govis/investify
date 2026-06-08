@@ -1,0 +1,62 @@
+{
+  "name": "Jeneanne Hanley",
+  "first_name": "Jeneanne",
+  "last_name": "Hanley",
+  "age": 52,
+  "age_year": 2024,
+  "background": "Jeneanne Hanley was formerly the Senior Vice President and President of the E-Systems division at Lear Corporation.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "KLA Corporation",
+      "ticker": "KLAC",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.kla.com",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "QuantumScape Corporation",
+      "ticker": "QS",
+      "exchange": "NYSE",
+      "website": "https://www.quantumscape.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Tenneco Inc.",
+      "ticker": "TEN",
+      "exchange": "NYSE",
+      "website": "https://www.tenneco.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2019",
+      "end_date": "2022",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jeneanne-hanley",
+      "person_name": "Jeneanne Hanley",
+      "company_name": "KLA Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

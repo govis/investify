@@ -1,0 +1,86 @@
+{
+  "id": "Rhylin Bailie",
+  "name": "Rhylin Bailie",
+  "background": "Ms. Bailie has over 25 years of experience in investor relations and communications for mining companies, including roles at NovaGold Resources and Goldcorp.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Equinox Gold Corp.",
+      "ticker": "EQX",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "VP, Investor Relations",
+      "startDate": "Oct 2016",
+      "endDate": null,
+      "formattedStartDate": "Oct 2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Luna Gold Corp.",
+      "ticker": "LGC",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "/companies-assets/LGC.TSX.png",
+      "title": "VP, Investor Relations",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Southern Arc Minerals Inc.",
+      "ticker": "SA",
+      "exchange": "TSXV",
+      "website": "southernarcminerals.com",
+      "logoUrl": "/companies-assets/SA.TSXV.svg",
+      "title": "Investor Relations",
+      "startDate": "July 2011",
+      "endDate": "Oct 2016",
+      "formattedStartDate": "July 2011",
+      "formattedEndDate": "Oct 2016"
+    },
+    {
+      "name": "Eagle Hill Exploration Corp.",
+      "ticker": "EAG",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": "https://www.eaglehillexploration.com/images/logo.png",
+      "title": "Investor Relations",
+      "startDate": "July 2011",
+      "endDate": "Oct 2016",
+      "formattedStartDate": "July 2011",
+      "formattedEndDate": "Oct 2016"
+    },
+    {
+      "name": "Sandspring Resources Ltd.",
+      "ticker": "SSP",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": "/companies-assets/SSP.TSXV.svg",
+      "title": "Investor Relations",
+      "startDate": "July 2011",
+      "endDate": "Oct 2016",
+      "formattedStartDate": "July 2011",
+      "formattedEndDate": "Oct 2016"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/rhylin-bailie-f-ciri-5138033",
+      "person_name": "Rhylin Bailie",
+      "company_name": "Equinox Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 51,
+  "ageYear": 2024
+}

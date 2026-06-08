@@ -1,0 +1,62 @@
+{
+  "id": "DeEtte Gray",
+  "name": "DeEtte Gray",
+  "background": "Ms. Gray has served as President of Business and Information Technology Solutions since 2017. Prior to CACI, she held leadership roles at BAE Systems.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "CACI International Inc",
+      "ticker": "CACI",
+      "exchange": "NYSE",
+      "website": "https://www.caci.com",
+      "logoUrl": "/companies-assets/CACI.NYSE.svg",
+      "title": "President of U.S. Operations",
+      "startDate": "May 2017",
+      "endDate": null,
+      "formattedStartDate": "May 2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "BAE Systems plc",
+      "ticker": "BA.L",
+      "exchange": "LSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "President, Intelligence & Security Sector",
+      "startDate": "June 2012",
+      "endDate": "2017",
+      "formattedStartDate": "June 2012",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Lockheed Martin Corporation",
+      "ticker": "LMT",
+      "exchange": "NYSE",
+      "website": "https://www.lockheedmartin.com",
+      "logoUrl": "/companies-assets/LMT.NYSE.svg",
+      "title": "Various Executive/Management roles in IT services",
+      "startDate": "1999",
+      "endDate": "2012",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2012"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/deette-gray-31099638",
+      "person_name": "DeEtte Gray",
+      "company_name": "CACI International Inc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

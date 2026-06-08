@@ -1,0 +1,39 @@
+{
+  "name": "Andrew Ross",
+  "first_name": "Andrew",
+  "last_name": "Ross",
+  "age": 62,
+  "age_year": 2024,
+  "background": "Mr. Ross has served as President and Chief Operating Officer since January 2023. He previously served as Vice President and President \u2013 Engineered Materials Group from 2015 to 2022.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Parker-Hannifin Corporation",
+      "ticker": "PH",
+      "exchange": "NYSE",
+      "title_or_role": "President and Chief Operating Officer",
+      "website": "https://www.parker.com",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Symbotic Inc.",
+      "ticker": "SYM",
+      "exchange": "NASDAQ",
+      "website": "https://www.symbotic.com",
+      "title_or_role": "Director",
+      "start_date": "August 26, 2025",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

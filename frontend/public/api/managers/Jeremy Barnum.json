@@ -1,0 +1,39 @@
+{
+  "id": "Jeremy Barnum",
+  "name": "Jeremy Barnum",
+  "background": "Mr. Barnum has been Chief Financial Officer since May 2021. He previously served as Head of Global Research for the Corporate & Investment Bank from 2021 to 2021 and as Chief Financial Officer of the Corporate & Investment Bank from 2013 to 2021.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "ticker": "JPM",
+      "exchange": "NYSE",
+      "website": "https://www.jpmorganchase.com",
+      "logoUrl": "/companies-assets/JPM.NYSE.svg",
+      "title": "Head of Global Research, Corporate & Investment Bank",
+      "startDate": "Prior to 2013",
+      "endDate": "2013",
+      "formattedStartDate": "Prior to 2013",
+      "formattedEndDate": "2013"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jeremy-barnum-0bb425b",
+      "person_name": "Jeremy Barnum",
+      "company_name": "JPMorgan Chase & Co.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 51,
+  "ageYear": 2024
+}

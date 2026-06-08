@@ -1,0 +1,43 @@
+{
+  "id": "Barbara Filas",
+  "name": "Barbara Filas",
+  "background": "Ms. Filas is a mining engineer with over 40 years of experience in the mining industry, including executive leadership and technical roles.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Energy Fuels Inc.",
+      "ticker": "UUUU",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Austin Gold Corp.",
+      "ticker": "AUST",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Environment, Health and Safety Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

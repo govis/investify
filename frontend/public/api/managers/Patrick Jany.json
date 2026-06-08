@@ -1,0 +1,50 @@
+{
+  "id": "Patrick Jany",
+  "name": "Patrick Jany",
+  "background": "Patrick Jany joined Maersk in 2020 from Clariant AG, where he was the CFO. He has extensive experience in finance and executive management from various roles at Sandoz and Clariant.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "A.P. Møller - Mærsk A/S",
+      "ticker": "MAERSK-B",
+      "exchange": "STO",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Financial Officer (CFO)",
+      "startDate": "2020",
+      "endDate": "2026",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2026"
+    },
+    {
+      "name": "Comet Holding AG",
+      "ticker": "COTN",
+      "exchange": "LSE",
+      "website": "https://www.comet-group.com",
+      "logoUrl": "/companies-assets/COTN.LSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/patrick-jany-5a5b5a1b",
+      "person_name": "Patrick Jany",
+      "company_name": "A.P. Møller - Mærsk A/S",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 58,
+  "ageYear": 2024
+}

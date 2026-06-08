@@ -1,0 +1,65 @@
+{
+  "id": "Mick McMullen",
+  "name": "Mick McMullen",
+  "background": "Mr. McMullen is a mining professional with over 25 years of experience. He was previously the CEO and President of Detour Gold Corporation and CEO of Stillwater Mining Company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC",
+      "exchange": "TSX",
+      "website": "https://oceanagold.com",
+      "logoUrl": "/companies-assets/OGC.TSX.svg",
+      "title": "Director",
+      "startDate": "May 2021",
+      "endDate": null,
+      "formattedStartDate": "May 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Detour Gold Corporation",
+      "ticker": "DGC",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Detour_Gold_logo.svg/1200px-Detour_Gold_logo.svg.png",
+      "title": "CEO",
+      "startDate": "2018",
+      "endDate": "2020",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Stillwater Mining Company",
+      "ticker": "SWC",
+      "exchange": "NYSE",
+      "website": "https://www.sibanyestillwater.com/",
+      "logoUrl": "/companies-assets/SWC.NYSE.svg",
+      "title": "President & CEO",
+      "startDate": "2013",
+      "endDate": "2017",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2017"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mickmcmullen",
+      "person_name": "Mick McMullen",
+      "company_name": "OceanaGold Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Remuneration and People Committee (Chair)",
+    "Sustainability Committee"
+  ],
+  "age": 54,
+  "ageYear": 2024
+}

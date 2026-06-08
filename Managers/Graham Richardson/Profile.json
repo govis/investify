@@ -1,0 +1,50 @@
+{
+  "name": "Graham Richardson",
+  "first_name": "Graham",
+  "last_name": "Richardson",
+  "age": 44,
+  "age_year": 2024,
+  "background": "Mr. Richardson is a Chartered Professional Accountant with over 15 years of experience in finance and accounting. He was previously CFO of Nova Royalty Corp. and has held senior roles at Teck Resources and KPMG.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Faraday Copper Corp.",
+      "ticker": "FDY",
+      "exchange": "TSX",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://faradaycopper.com",
+      "start_date": "October 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Fireweed Metals Corp.",
+      "ticker": "FWZ",
+      "exchange": "TSXV",
+      "website": "https://fireweedmetals.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "September 30, 2024",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/graham-richardson-888307b4",
+      "person_name": "Graham Richardson",
+      "company_name": "Faraday Copper Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

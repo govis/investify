@@ -1,0 +1,53 @@
+{
+  "id": "Leanne Caret",
+  "name": "Leanne Caret",
+  "background": "Former Executive Vice President of The Boeing Company and President and CEO of Boeing Defense, Space & Security.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "RTX Corporation",
+      "ticker": "RTX",
+      "exchange": "NYSE",
+      "website": "https://www.rtx.com",
+      "logoUrl": "/companies-assets/RTX.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "The Boeing Company",
+      "ticker": "BA",
+      "exchange": "NYSE",
+      "website": "https://www.boeing.com",
+      "logoUrl": "/companies-assets/BA.NYSE.svg",
+      "title": "President and CEO, Boeing Defense, Space & Security (BDS)",
+      "startDate": "2016",
+      "endDate": "2022",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2022"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/leannecaret",
+      "person_name": "Leanne Caret",
+      "company_name": "The Boeing Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance Committee"
+  ],
+  "age": 57,
+  "ageYear": 2024
+}

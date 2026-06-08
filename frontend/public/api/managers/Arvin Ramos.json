@@ -1,0 +1,76 @@
+{
+  "id": "Arvin Ramos",
+  "name": "Arvin Ramos",
+  "background": "Mr. Ramos holds a degree in commerce from the University of Windsor and is a member of the Chartered Professional Accountants of Ontario. He has over 15 years of experience in the mining industry and has served as CFO for several junior mining companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Consolidated Lithium Metals Inc.",
+      "ticker": "CLM",
+      "exchange": "TSXV",
+      "website": "https://consolidatedlithium.com/",
+      "logoUrl": "/companies-assets/CLM.TSXV.png",
+      "title": "Chief Financial Officer",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "QcX Gold Corp.",
+      "ticker": "QCXGF",
+      "exchange": "OTC",
+      "website": "https://qcxgold.com/",
+      "logoUrl": "/companies-assets/QCXGF.OTC.png",
+      "title": "Chief Financial Officer & Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Generic Gold Corp.",
+      "ticker": "GGCPF",
+      "exchange": "OTC",
+      "website": "https://genericgold.ca/",
+      "logoUrl": "/companies-assets/GGCPF.OTC.png",
+      "title": "Chief Financial Officer & Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "AireSurf Networks Holdings, Inc.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Financial Officer & Director",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/arvin-ramos-cpa-ca-4b5a5a1a",
+      "person_name": "Arvin Ramos",
+      "company_name": "Generic Gold Corp.",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1,
+      "profile_status": "private"
+    }
+  ],
+  "committees": [],
+  "age": 45,
+  "ageYear": 2024
+}

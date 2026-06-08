@@ -1,0 +1,39 @@
+{
+  "id": "Ananda Martin",
+  "name": "Ananda Martin",
+  "background": "Ms. Martin has served as our General Counsel since January 2021. Prior to joining Spire, she was a partner at Paul Hastings LLP. She holds a B.A. from Yale University and a J.D. from Harvard Law School.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Spire Global, Inc.",
+      "ticker": "SPIR",
+      "exchange": "NYSE",
+      "website": "https://spire.com",
+      "logoUrl": "/companies-assets/SPIR.NYSE.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Legend Biotech Corporation",
+      "ticker": "LEGN",
+      "exchange": "NASDAQ",
+      "website": "https://www.legendbiotech.com",
+      "logoUrl": "/companies-assets/LEGN.NASDAQ.svg",
+      "title": "VP, Global Compliance",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 51,
+  "ageYear": 2024
+}

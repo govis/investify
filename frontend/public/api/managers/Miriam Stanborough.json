@@ -1,0 +1,65 @@
+{
+  "id": "Miriam Stanborough",
+  "name": "Miriam Stanborough",
+  "background": "Miriam Stanborough is a chemical engineer with over 20 years of experience in the minerals processing industry. She has held roles at Monadelphous, Iluka Resources, and Alcoa.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Pilbara Minerals Limited",
+      "ticker": "PLS",
+      "exchange": "ASX",
+      "website": "https://www.pilbaraminerals.com.au",
+      "logoUrl": "/companies-assets/PLS.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "BCI Minerals Limited",
+      "ticker": "BCI",
+      "exchange": "ASX",
+      "website": "https://bciminerals.com.au",
+      "logoUrl": "/companies-assets/BCI.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Australian Vanadium Limited",
+      "ticker": "AVL",
+      "exchange": "ASX",
+      "website": "https://www.australianvanadium.com.au/",
+      "logoUrl": "/companies-assets/AVL.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/miriamstanborough",
+      "person_name": "Miriam Stanborough",
+      "company_name": "Pilbara Minerals Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "People and Culture Committee (Chair)",
+    "Sustainability Committee"
+  ],
+  "age": null,
+  "ageYear": null
+}

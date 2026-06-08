@@ -1,0 +1,73 @@
+{
+  "name": "Tamara Brown",
+  "first_name": "Tamara",
+  "last_name": "Brown",
+  "age": 52,
+  "age_year": 2024,
+  "background": "Ms. Brown is a mining professional with over 25 years of experience in finance and business development.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Orla Mining Ltd.",
+      "ticker": "OLA",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://orlamining.com/",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lithium Royalty Corp.",
+      "ticker": "LIRC",
+      "exchange": "TSX",
+      "website": "https://lithiumroyaltycorp.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "New Found Gold Corp.",
+      "ticker": "NFGC",
+      "exchange": "TSX",
+      "website": "https://newfoundgold.ca/",
+      "title_or_role": "Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "29Metals Limited",
+      "ticker": "29M",
+      "exchange": "ASX",
+      "website": "https://www.29metals.com/",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2023-04-17",
+      "end_date": "2024",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/tamara-brown-19a20434",
+      "person_name": "Tamara Brown",
+      "company_name": "Orla Mining Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee (Chair)",
+    "Environmental, Sustainability, Health & Safety Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

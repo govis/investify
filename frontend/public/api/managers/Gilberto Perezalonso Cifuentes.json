@@ -1,0 +1,78 @@
+{
+  "id": "Gilberto Perezalonso Cifuentes",
+  "name": "Gilberto Perezalonso Cifuentes",
+  "background": "Director since 2002. Former CEO of Aeromexico and former CFO of Grupo Televisa.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Southern Copper Corporation",
+      "ticker": "SCCO",
+      "exchange": "NYSE",
+      "website": "https://www.southerncoppercorp.com",
+      "logoUrl": "/companies-assets/SCCO.NYSE.svg",
+      "title": "Director",
+      "startDate": "June 2002",
+      "endDate": "October 16, 2024",
+      "formattedStartDate": "June 2002",
+      "formattedEndDate": "October 16, 2024"
+    },
+    {
+      "name": "Controladora Vuela Compañía de Aviación, S.A.B. de C.V. (Volaris)",
+      "ticker": "VLRS",
+      "exchange": "NYSE",
+      "website": "https://ir.volaris.com",
+      "logoUrl": "/companies-assets/VLRS.NYSE.svg",
+      "title": "Chairman of the Board",
+      "startDate": "2011",
+      "endDate": "2017",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Grupo Aeroméxico, S.A.B. de C.V.",
+      "ticker": "AEROMEX",
+      "exchange": "BMV",
+      "website": "https://aeromexico.com",
+      "logoUrl": "/companies-assets/AEROMEX.BMV.svg",
+      "title": "Chief Executive Officer",
+      "startDate": "2004",
+      "endDate": "2005",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2005"
+    },
+    {
+      "name": "Grupo Televisa, S.A.B.",
+      "ticker": "TV",
+      "exchange": "NYSE",
+      "website": "https://www.televisair.com",
+      "logoUrl": "/companies-assets/TV.NYSE.png",
+      "title": "Executive Vice President of Administration and Finance",
+      "startDate": "1998",
+      "endDate": "2001",
+      "formattedStartDate": "1998",
+      "formattedEndDate": "2001"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gilberto-perezalonso-cifuentes-5a5b5a1a",
+      "person_name": "Gilberto Perezalonso Cifuentes",
+      "company_name": "Southern Copper Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 81,
+  "ageYear": 2024
+}

@@ -1,0 +1,28 @@
+{
+  "id": "Tom Zhu",
+  "name": "Tom Zhu",
+  "background": "Tom Zhu has served as our Senior Vice President, Automotive since April 2023. He joined Tesla in 2014 and has held various leadership roles, including leading operations for Gigafactory Shanghai.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Tesla, Inc.",
+      "ticker": "TSLA",
+      "exchange": "NASDAQ",
+      "website": "https://www.tesla.com",
+      "logoUrl": "/companies-assets/TSLA.NASDAQ.svg",
+      "title": "Senior Vice President of Automotive",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 44,
+  "ageYear": 2024
+}

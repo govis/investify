@@ -1,0 +1,42 @@
+{
+  "id": "Leon Panetta",
+  "name": "Leon Panetta",
+  "background": "Former U.S. Secretary of Defense and former Director of the Central Intelligence Agency.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Oracle Corporation",
+      "ticker": "ORCL",
+      "exchange": "NYSE",
+      "website": "https://www.oracle.com",
+      "logoUrl": "/companies-assets/ORCL.NYSE.svg",
+      "title": "Director",
+      "startDate": "2015-02-02",
+      "endDate": null,
+      "formattedStartDate": "February 2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "New York Stock Exchange (NYSE)",
+      "ticker": "ICE",
+      "exchange": "NYSE",
+      "website": "https://www.nyse.com",
+      "logoUrl": "/companies-assets/ICE.NYSE.png",
+      "title": "Director",
+      "startDate": "1997",
+      "endDate": "2003",
+      "formattedStartDate": "1997",
+      "formattedEndDate": "2003"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Nomination and Governance Committee"
+  ],
+  "age": 86,
+  "ageYear": 2024
+}

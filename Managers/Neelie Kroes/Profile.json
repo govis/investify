@@ -1,0 +1,31 @@
+{
+  "name": "Neelie Kroes",
+  "first_name": "Neelie",
+  "last_name": "Kroes",
+  "age": 82,
+  "age_year": 2024,
+  "background": "Former Vice President of the European Commission. She has served as a Director since 2016.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Salesforce, Inc.",
+      "ticker": "CRM",
+      "exchange": "NYSE",
+      "title_or_role": "Director (Board of Directors)",
+      "website": "https://www.salesforce.com",
+      "start_date": "May 2016",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Privacy and Ethical Use Advisory Council"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Elizabeth Comstock",
+  "first_name": "Elizabeth",
+  "last_name": "Comstock",
+  "age": 63,
+  "age_year": 2024,
+  "background": "Elizabeth Comstock has served as a member of our Board since July 2021. Ms. Comstock previously served as Vice Chair of General Electric and as President of Integrated Media at NBC Universal.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "EVgo Inc.",
+      "ticker": "EVGO",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.evgo.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "General Electric Company",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "website": "https://www.ge.com",
+      "title_or_role": "Vice Chair",
+      "start_date": "2003",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "NIKE, Inc.",
+      "ticker": "NKE",
+      "exchange": "NYSE",
+      "website": "https://www.nike.com",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": "2017",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bethcomstock",
+      "person_name": "Elizabeth Comstock",
+      "company_name": "General Electric Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Nominating and Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

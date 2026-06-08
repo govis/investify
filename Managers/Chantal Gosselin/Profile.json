@@ -1,0 +1,72 @@
+{
+  "name": "Chantal Gosselin",
+  "first_name": "Chantal",
+  "last_name": "Gosselin",
+  "age": 56,
+  "age_year": 2024,
+  "background": "Ms. Gosselin is a corporate director with over 25 years of experience in the mining industry and financial services.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Wheaton Precious Metals Corp.",
+      "ticker": "WPM",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://www.wheatonpm.com",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Pan American Silver Corp.",
+      "ticker": "PAAS",
+      "exchange": "TSX",
+      "website": "https://www.panamericansilver.com",
+      "title_or_role": "Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Prime Mining Corp.",
+      "ticker": "PRYM",
+      "exchange": "TSX",
+      "website": "https://www.primeminingcorp.ca",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ero Copper Corp.",
+      "ticker": "ERO",
+      "exchange": "TSX",
+      "website": "https://www.erocopper.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lundin Gold Inc.",
+      "ticker": "LUG",
+      "exchange": "TSX",
+      "website": "https://www.lundingold.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Sustainability Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "Henry Samueli, Ph",
+  "name": "Henry Samueli, Ph.",
+  "background": "Dr. Samueli has served as Chairman of the Board since 2018. He co-founded Broadcom Corporation in 1991 and served as its Chief Technical Officer and a director until its acquisition by Broadcom Inc. in 2016. He is a Fellow of the IEEE and a member of the National Academy of Engineering.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Broadcom Inc.",
+      "ticker": "AVGO",
+      "exchange": "NASDAQ",
+      "website": "https://www.broadcom.com",
+      "logoUrl": "/companies-assets/AVGO.NASDAQ.svg",
+      "title": "Chairman of the Board / Co-Founder",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Broadcom Corporation (Predecessor)",
+      "ticker": "BRCM",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Co-Founder, Chief Technical Officer, Chairman of the Board",
+      "startDate": "1991",
+      "endDate": "2016",
+      "formattedStartDate": "1991",
+      "formattedEndDate": "2016"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/henry-samueli-4a5a5a1",
+      "person_name": "Henry Samueli",
+      "company_name": "Broadcom Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 69,
+  "ageYear": 2024
+}

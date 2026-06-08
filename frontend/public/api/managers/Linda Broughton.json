@@ -1,0 +1,42 @@
+{
+  "id": "Linda Broughton",
+  "name": "Linda Broughton",
+  "background": "Ms. Broughton is a senior environmental and mining professional with over 30 years of experience in risk management and sustainability.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC",
+      "exchange": "TSX",
+      "website": "https://oceanagold.com",
+      "logoUrl": "/companies-assets/OGC.TSX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "April 2023",
+      "endDate": null,
+      "formattedStartDate": "April 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Avino Silver & Gold Mines Ltd.",
+      "ticker": "ASM",
+      "exchange": "TSX / NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Director",
+      "startDate": "February 4, 2026",
+      "endDate": null,
+      "formattedStartDate": "February 4, 2026",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Sustainability Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

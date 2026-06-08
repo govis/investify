@@ -1,0 +1,53 @@
+{
+  "id": "Mary Pat McCarthy",
+  "name": "Mary Pat McCarthy",
+  "background": "Ms. McCarthy was a Vice Chair at KPMG LLP and has extensive experience in audit and risk management.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Palo Alto Networks, Inc.",
+      "ticker": "PANW",
+      "exchange": "NASDAQ",
+      "website": "https://www.paloaltonetworks.com",
+      "logoUrl": "/companies-assets/PANW.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2016-10",
+      "endDate": "2026-01-23",
+      "formattedStartDate": "October 2016",
+      "formattedEndDate": "January 2026"
+    },
+    {
+      "name": "Andeavor (formerly Tesoro Corporation)",
+      "ticker": "ANDV",
+      "exchange": "NYSE",
+      "website": "https://www.andeavor.com",
+      "logoUrl": "/companies-assets/ANDV.NYSE.png",
+      "title": "Director",
+      "startDate": "2012",
+      "endDate": "2018",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2018"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mary-pat-mccarthy-28512914",
+      "person_name": "Mary Pat McCarthy",
+      "company_name": "Micron Technology, Inc., Palo Alto Networks, Inc., Andeavor",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 68,
+  "ageYear": 2023
+}

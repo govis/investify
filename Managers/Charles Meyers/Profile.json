@@ -1,0 +1,50 @@
+{
+  "name": "Charles Meyers",
+  "first_name": "Charles",
+  "last_name": "Meyers",
+  "age": 58,
+  "age_year": 2024,
+  "background": "Charles Meyers served as our President and CEO from 2018 to 2024 and transitioned to Executive Chairman in June 2024.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Equinix, Inc.",
+      "ticker": "EQIX",
+      "exchange": "NASDAQ",
+      "title_or_role": "President of Strategy, Services, and Innovation",
+      "website": "www.equinix.com",
+      "start_date": "2013",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Fastly, Inc.",
+      "ticker": "FSLY",
+      "exchange": "NYSE",
+      "website": "www.fastly.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2021-07-08",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/charles-meyers-he-him-43b2701",
+      "person_name": "Charles Meyers",
+      "company_name": "Equinix",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

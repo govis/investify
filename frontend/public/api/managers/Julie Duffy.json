@@ -1,0 +1,38 @@
+{
+  "id": "Julie Duffy",
+  "name": "Julie Duffy",
+  "background": "Ms. Duffy has served as Executive Vice President, Human Resources since July 2017. She previously served as Vice President and Deputy General Counsel from 2011 to 2017.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Textron Inc.",
+      "ticker": "TXT",
+      "exchange": "NYSE",
+      "website": "https://www.textron.com",
+      "logoUrl": "/companies-assets/TXT.NYSE.svg",
+      "title": "Corporate Legal Team Member",
+      "startDate": "1997",
+      "endDate": "2009",
+      "formattedStartDate": "1997",
+      "formattedEndDate": "2009"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/julie-duffy-3020a7a",
+      "person_name": "Julie Duffy",
+      "company_name": "Textron Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 54,
+  "ageYear": 2024
+}

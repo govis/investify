@@ -1,0 +1,38 @@
+{
+  "id": "Jeffrey MacLauchlan",
+  "name": "Jeffrey MacLauchlan",
+  "background": "Mr. MacLauchlan has served as Executive Vice President and Chief Financial Officer since May 2022. He previously served as Senior Vice President of Corporate Development at CACI.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "CACI International Inc",
+      "ticker": "CACI",
+      "exchange": "NYSE",
+      "website": "https://www.caci.com",
+      "logoUrl": "/companies-assets/CACI.NYSE.svg",
+      "title": "Executive Vice President, Chief Financial Officer, and Treasurer",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jeffrey-maclauchlan-b5aba9179",
+      "person_name": "Jeffrey MacLauchlan",
+      "company_name": "CACI International Inc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 64,
+  "ageYear": 2024
+}

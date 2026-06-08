@@ -1,0 +1,77 @@
+{
+  "id": "Kiran Patel",
+  "name": "Kiran Patel",
+  "background": "Kiran Patel was formerly the Executive Vice President and General Manager of the Small Business Group at Intuit Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "KLA Corporation",
+      "ticker": "KLAC",
+      "exchange": "NASDAQ",
+      "website": "https://www.kla.com",
+      "logoUrl": "/companies-assets/KLAC.NASDAQ.svg",
+      "title": "Director (Board of Directors)",
+      "startDate": "2000",
+      "endDate": null,
+      "formattedStartDate": "2000",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Intuit Inc.",
+      "ticker": "INTU",
+      "exchange": "NASDAQ",
+      "website": "intuit.com",
+      "logoUrl": "/companies-assets/INTU.NASDAQ.svg",
+      "title": "Director (Board of Directors)",
+      "startDate": "2000",
+      "endDate": "2008",
+      "formattedStartDate": "2000",
+      "formattedEndDate": "2008"
+    },
+    {
+      "name": "BEA Systems, Inc.",
+      "ticker": "BEAS",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "/companies-assets/BEAS.NASDAQ.png",
+      "title": "Director (Board of Directors)",
+      "startDate": "2002",
+      "endDate": "2008",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "2008"
+    },
+    {
+      "name": "Eaton Corporation",
+      "ticker": "ETN",
+      "exchange": "NYSE",
+      "website": "https://www.eaton.com",
+      "logoUrl": "/companies-assets/ETN.NYSE.svg",
+      "title": "Director (Board of Directors)",
+      "startDate": "2002",
+      "endDate": "2012",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "Solectron Corporation",
+      "ticker": "SLR",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "/companies-assets/SLR.NYSE.svg",
+      "title": "Director (Board of Directors)",
+      "startDate": "2003",
+      "endDate": "2007",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2007"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 75,
+  "ageYear": 2024
+}

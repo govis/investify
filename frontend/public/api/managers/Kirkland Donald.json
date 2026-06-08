@@ -1,0 +1,41 @@
+{
+  "id": "Kirkland Donald",
+  "name": "Kirkland Donald",
+  "background": "Admiral Kirkland H. Donald, U.S. Navy (Ret.), has served as Chairman of the Board since 2020. He was the President and Chief Executive Officer of Systems Planning and Analysis, Inc. and served as Director, Naval Nuclear Propulsion Program.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Centrus Energy Corp",
+      "ticker": "LEU",
+      "exchange": "NYSE",
+      "website": "https://www.centrusenergy.com",
+      "logoUrl": "/companies-assets/LEU.NYSE.png",
+      "title": "Director",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Entergy Corporation",
+      "ticker": "ETR",
+      "exchange": "NYSE",
+      "website": "https://www.entergy.com",
+      "logoUrl": "/companies-assets/ETR.NYSE.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Executive Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

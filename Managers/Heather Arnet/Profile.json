@@ -1,0 +1,41 @@
+{
+  "name": "Heather Arnet",
+  "first_name": "Heather",
+  "last_name": "Arnet",
+  "age": 48,
+  "age_year": 2024,
+  "background": "Chief Executive Officer of the Women's and Girls' Foundation. She has served in this role since 2004.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Textron Inc.",
+      "ticker": "TXT",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.textron.com",
+      "start_date": "2023-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/heatherarnet",
+      "person_name": "Heather Arnet",
+      "company_name": "Women and Girls Foundation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

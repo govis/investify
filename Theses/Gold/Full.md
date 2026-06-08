@@ -69,7 +69,7 @@ The post-pandemic economic regime has been characterized by "sticky" inflation t
 
 For institutional investors, the breakdown of the negative correlation between stocks and bonds is a critical concern. In a "stagflationary" environment—slow growth combined with high inflation—both traditional equities and fixed-income assets can suffer simultaneous declines. Gold, however, has demonstrated a negative correlation to economic activity, making it a superior diversifier during periods of economic contraction. At a 3-year investment horizon, gold's sensitivity (beta) to realized inflation is 1.6, while its sensitivity to inflation expectations is as high as 16.8, far exceeding that of traditional commodities.
 
-| Asset Correlation & Sensitivity (3yr Horizon) | Gold (PHYS/IAU) | Commodities (GSCI) |
+| Asset Correlation & Sensitivity (3yr Horizon) | Gold ([PHYS](/company/PHYS.NYSE)/[IAU](/company/IAU.NYSE)) | Commodities (GSCI) |
 | :---- | :---- | :---- |
 | **Realized Inflation (CPI) Beta** | 1.6 | 2.9   |
 | **Inflation Expectations Beta** | 16.8 | 12.7   |
@@ -105,26 +105,26 @@ Institutional asset managers are currently in the early stages of a "Great Re-An
 
 ## **Identification of Investment Opportunities**
 
-### **1\. Physical Bullion Funds: The Structural Advantage of PHYS**
+### **1\. Physical Bullion Funds: The Structural Advantage of [PHYS](/company/PHYS.NYSE)**
 
-For institutional investors, the choice of vehicle is as critical as the asset allocation itself. While the iShares Gold Trust (IAU) and SPDR Gold Shares (GLD) are popular for their liquidity, the **Sprott Physical Gold Trust (PHYS)** offers unique structural advantages that align with the Basel III regulatory shift and institutional risk management.
+For institutional investors, the choice of vehicle is as critical as the asset allocation itself. While the [iShares Gold Trust](/company/IAU.NYSE) (IAU) and [SPDR Gold Shares](/company/GLD.NYSE) (GLD) are popular for their liquidity, the **[Sprott Physical Gold Trust](/company/PHYS.NYSE) (PHYS)** offers unique structural advantages that align with the Basel III regulatory shift and institutional risk management.
 
 * **Drivers and Catalysts**:  
-  * **Fully Allocated Gold**: PHYS holds only fully allocated and unencumbered London Good Delivery (LGD) gold bullion, stored at the Royal Canadian Mint. This structure carries no counterparty risk from private financial institutions, a critical factor for Basel III Tier 1 HQLA status.  
-  * **Physical Redemption**: Unlike most ETFs, unitholders of PHYS have the right to redeem their units for physical gold bullion (minimum 400 oz) on a monthly basis. This provides a direct link to the physical market and a "final resort" for liquidity during systemic crises.  
-  * **Tax Efficiency**: For non-corporate US investors, PHYS offers a potential tax advantage, as gains are taxed at capital gains rates (15/20%) rather than the 28% "collectibles" rate applied to many other gold vehicles.
+  * **Fully Allocated Gold**: [PHYS](/company/PHYS.NYSE) holds only fully allocated and unencumbered London Good Delivery (LGD) gold bullion, stored at the Royal Canadian Mint. This structure carries no counterparty risk from private financial institutions, a critical factor for Basel III Tier 1 HQLA status.  
+  * **Physical Redemption**: Unlike most ETFs, unitholders of [PHYS](/company/PHYS.NYSE) have the right to redeem their units for physical gold bullion (minimum 400 oz) on a monthly basis. This provides a direct link to the physical market and a "final resort" for liquidity during systemic crises.  
+  * **Tax Efficiency**: For non-corporate US investors, [PHYS](/company/PHYS.NYSE) offers a potential tax advantage, as gains are taxed at capital gains rates (15/20%) rather than the 28% "collectibles" rate applied to many other gold vehicles.
 
 ### **2\. Tier 1 Gold Miners: Quality and Jurisdictional Safety**
 
 In an environment of rising costs and geopolitical uncertainty, institutional capital should focus on "Tier 1" miners that combine low AISC with production in safe-haven jurisdictions.
 
-* **Agnico Eagle Mines (AEM)**:  
-  * **Drivers**: AEM is the "gold standard" for jurisdictional safety, with a production profile concentrated in Canada, Australia, and Finland. It maintains a superior Return on Equity (13.8%) and a low long-term debt-to-capitalization ratio of 2.8%.  
+* **[Agnico Eagle Mines](/company/AEM.NYSE) (AEM)**:  
+  * **Drivers**: [AEM](/company/AEM.NYSE) is the "gold standard" for jurisdictional safety, with a production profile concentrated in Canada, Australia, and Finland. It maintains a superior Return on Equity (13.8%) and a low long-term debt-to-capitalization ratio of 2.8%.  
   * **Catalysts**: Consistent dividend growth and a 15-year reserve life provide long-term visibility. The stock has historically traded at a premium to its peers due to its lower financial and political risk profile.  
-* **Northern Star Resources (NST)**:  
-  * **Drivers**: The second-largest ASX-listed gold producer, NST operates in the stable jurisdictions of Western Australia and Alaska. The company is currently undergoing a massive mill expansion at KCGM, targeting early FY27 commissioning to reach an annual production scale of 1.8–2.0 million ounces.  
-  * **Catalysts**: NST is a leader in mining technology, utilizing advanced automation and remote operating centers to lower unit costs in underground mining. With gold prices above $5,000/oz, the company's strong net cash position and operating cash flow (AUD 738M in Q2 FY26) support aggressive development and shareholder returns.  
-* **Barrick Gold (GOLD)**:  
+* **[Northern Star Resources](/company/NST.ASX) (NST)**:  
+  * **Drivers**: The second-largest ASX-listed gold producer, [NST](/company/NST.ASX) operates in the stable jurisdictions of Western Australia and Alaska. The company is currently undergoing a massive mill expansion at KCGM, targeting early FY27 commissioning to reach an annual production scale of 1.8–2.0 million ounces.  
+  * **Catalysts**: [NST](/company/NST.ASX) is a leader in mining technology, utilizing advanced automation and remote operating centers to lower unit costs in underground mining. With gold prices above $5,000/oz, the company's strong net cash position and operating cash flow (AUD 738M in Q2 FY26) support aggressive development and shareholder returns.  
+* **[Barrick Gold](/company/GOLD.NYSE) (GOLD)**:  
   * **Drivers**: Barrick is a global titan with a significant stake in the world's largest gold mining complex, Nevada Gold Mines.  
   * **Catalysts**: The strategic spin-off of its North American assets (NewCo) is a major catalyst for a re-rating of the stock. At a forward P/E of 14.7x, Barrick trades at a discount to Agnico Eagle, offering significant upside as it simplifies its corporate structure and unlocks the value of its high-grade Fourmile project in Nevada.
 
@@ -132,31 +132,31 @@ In an environment of rising costs and geopolitical uncertainty, institutional ca
 
 Royalty companies provide leveraged exposure to the gold price without the direct operational risks and cost inflation associated with mining.
 
-* **Franco-Nevada (FNV)**:  
-  * **Drivers**: FNV possesses the most diversified portfolio in the sector, with over 415 assets across precious metals and energy. It operates with an EBITDA margin exceeding 80%.  
+* **[Franco-Nevada](/company/FNV.NYSE) (FNV)**:  
+  * **Drivers**: [FNV](/company/FNV.NYSE) possesses the most diversified portfolio in the sector, with over 415 assets across precious metals and energy. It operates with an EBITDA margin exceeding 80%.  
   * **Catalysts**: The company is debt-free with $3.1 billion in available capital for opportunistic acquisitions. Its exposure to energy royalties provides a natural hedge against the rising energy costs that impact traditional miners.  
-* **Wheaton Precious Metals (WPM)**:  
-  * **Drivers**: WPM focuses on streaming agreements, often with large-scale base metal producers. This model allows the company to purchase byproduct gold and silver at fixed, predictable prices.  
-  * **Catalysts**: WPM reported record revenues of $2.31 billion in 2025\. Its market capitalization of $75 billion reflects its status as the premier large-cap vehicle for institutional precious metals exposure.
+* **[Wheaton Precious Metals](/company/WPM.NYSE) (WPM)**:  
+  * **Drivers**: [WPM](/company/WPM.NYSE) focuses on streaming agreements, often with large-scale base metal producers. This model allows the company to purchase byproduct gold and silver at fixed, predictable prices.  
+  * **Catalysts**: [WPM](/company/WPM.NYSE) reported record revenues of $2.31 billion in 2025\. Its market capitalization of $75 billion reflects its status as the premier large-cap vehicle for institutional precious metals exposure.
 
 ### **Investor Matrix: Western & Allies Gold Equity Comparison (2025/2026 Estimates)**
 
 | Company | Ticker | Market Cap (USD) | 2025/26 AISC (per oz) | Debt/Cap (%) | Dividend Yield | Primary Jurisdictions |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| **Agnico Eagle** | AEM | \~$45B | US$1,250-$1,300   | 2.8%   | 1.0%   | Canada, Australia, Finland   |
-| **Northern Star** | NST | \~A$21B | A$2,600-$2,800   | Low   | \~1.5% | Australia, Alaska   |
-| **Barrick Gold** | GOLD | \~$35B | US$1,460-$1,560   | 12.2%   | 1.8%   | Global (Nevada focus)   |
-| **Franco-Nevada** | FNV | \~$51B | N/A (Royalty) | Debt-Free   | 1.2%   | Americas, Africa, Australia   |
-| **Wheaton PM** | WPM | \~$75B | N/A (Streaming) | 0.01%   | 0.72%   | Global   |
-| **Newmont** | NEM | \~$60B | US$1,400+ | Moderate | 1.67%   | Global (Australia focus)   |
+| **[Agnico Eagle](/company/AEM.NYSE)** | [AEM](/company/AEM.NYSE) | \~$45B | US$1,250-$1,300   | 2.8%   | 1.0%   | Canada, Australia, Finland   |
+| **[Northern Star](/company/NST.ASX)** | [NST](/company/NST.ASX) | \~A$21B | A$2,600-$2,800   | Low   | \~1.5% | Australia, Alaska   |
+| **[Barrick Gold](/company/GOLD.NYSE)** | [GOLD](/company/GOLD.NYSE) | \~$35B | US$1,460-$1,560   | 12.2%   | 1.8%   | Global (Nevada focus)   |
+| **[Franco-Nevada](/company/FNV.NYSE)** | [FNV](/company/FNV.NYSE) | \~$51B | N/A (Royalty) | Debt-Free   | 1.2%   | Americas, Africa, Australia   |
+| **[Wheaton PM](/company/WPM.NYSE)** | [WPM](/company/WPM.NYSE) | \~$75B | N/A (Streaming) | 0.01%   | 0.72%   | Global   |
+| **[Newmont](/company/NEM.NYSE)** | [NEM](/company/NEM.NYSE) | \~$60B | US$1,400+ | Moderate | 1.67%   | Global (Australia focus)   |
 
 ### **Investor Matrix: Physical Gold Investment Vehicles (2026)**
 
 | Vehicle | Structure | Redemption | Management Fee | Storage | Tax Status (US) |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| **Sprott (PHYS)** | Closed-end Trust | Monthly (Physical)   | 0.40%   | Royal Canadian Mint   | Capital Gains   |
-| **iShares (IAU)** | Grantor Trust | Cash/Authorized Only | 0.25% | Commercial Vaults | Collectible (28%) |
-| **SPDR (GLD)** | Grantor Trust | Cash/Authorized Only | 0.40% | Commercial Vaults | Collectible (28%) |
+| **Sprott ([PHYS](/company/PHYS.NYSE))** | Closed-end Trust | Monthly (Physical)   | 0.40%   | Royal Canadian Mint   | Capital Gains   |
+| **iShares ([IAU](/company/IAU.NYSE))** | Grantor Trust | Cash/Authorized Only | 0.25% | Commercial Vaults | Collectible (28%) |
+| **SPDR ([GLD](/company/GLD.NYSE))** | Grantor Trust | Cash/Authorized Only | 0.40% | Commercial Vaults | Collectible (28%) |
 | **Phys. Delivery** | Coins/Bars | Immediate | N/A | Self/Private Vault | Collectible (28%) |
 
 ## **Strategic Synthesis**

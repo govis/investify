@@ -1,0 +1,59 @@
+{
+  "name": "Josephine Man",
+  "first_name": "Josephine",
+  "last_name": "Man",
+  "age": 49,
+  "age_year": 2024,
+  "background": "Ms. Man has over 20 years of experience in finance and accounting. She has served as the Chief Financial Officer of several publicly traded companies in the mining and technology sectors.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Uranium Royalty Corp.",
+      "ticker": "URC",
+      "exchange": "TSX",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://www.uraniumroyalty.com/",
+      "start_date": "Prior to 2024",
+      "end_date": "August 1, 2025",
+      "validated": true
+    },
+    {
+      "name": "Uranium Royalty Corp.",
+      "ticker": "UROY",
+      "exchange": "TSX",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://www.uraniumroyalty.com/",
+      "start_date": "2018-08-01",
+      "end_date": null
+    },
+    {
+      "name": "Uranium Energy Corp.",
+      "ticker": "UEC",
+      "exchange": "NYSE American",
+      "website": "https://www.uraniumenergy.com/",
+      "title_or_role": "Chief Financial Officer, Treasurer, Secretary",
+      "start_date": "October 1, 2024",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/josephine-man-7a6a5543",
+      "person_name": "Josephine Man",
+      "company_name": "Uranium Royalty Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

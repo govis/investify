@@ -1,0 +1,43 @@
+{
+  "id": "Kevin Smith",
+  "name": "Kevin Smith",
+  "background": "Sir Kevin Smith joined the Board in 2015. He was previously CEO of GKN plc and has a deep background in the aerospace and automotive industries.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "GKN plc",
+      "ticker": "GKN",
+      "exchange": "LSE",
+      "website": "https://www.gkn.com",
+      "logoUrl": "/companies-assets/GKN.LSE.svg",
+      "title": "Managing Director, GKN Aerospace",
+      "startDate": "1999-11-01",
+      "endDate": "2002-12-31",
+      "formattedStartDate": "November 1999",
+      "formattedEndDate": "December 2002"
+    },
+    {
+      "name": "Babcock International Group PLC",
+      "ticker": "BAB",
+      "exchange": "LSE",
+      "website": "https://www.babcockinternational.com",
+      "logoUrl": "/companies-assets/BAB.LSE.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2023-06-01",
+      "endDate": null,
+      "formattedStartDate": "June 2023",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominations & Governance Committee",
+    "Remuneration Committee"
+  ],
+  "age": 69,
+  "ageYear": 2023
+}

@@ -1,0 +1,62 @@
+{
+  "id": "Eric Bach",
+  "name": "Eric Bach",
+  "background": "Mr. Bach has served as our Senior Vice President, Product and Chief Engineer since February 2021. He joined Lucid in 2015 as Vice President, Hardware Engineering. Previously, he held engineering leadership positions at Tesla and Volkswagen AG.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lucid Group, Inc.",
+      "ticker": "LCID",
+      "exchange": "NASDAQ",
+      "website": "https://www.lucidmotors.com",
+      "logoUrl": "/companies-assets/LCID.NASDAQ.svg",
+      "title": "Senior Vice President of Product and Chief Engineer",
+      "startDate": "2017",
+      "endDate": "2025",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "Tesla, Inc.",
+      "ticker": "TSLA",
+      "exchange": "NASDAQ",
+      "website": "https://www.tesla.com",
+      "logoUrl": "/companies-assets/TSLA.NASDAQ.svg",
+      "title": "Engineer",
+      "startDate": "Prior to 2017",
+      "endDate": "Prior to 2017",
+      "formattedStartDate": "Prior to 2017",
+      "formattedEndDate": "Prior to 2017"
+    },
+    {
+      "name": "Volkswagen AG",
+      "ticker": "VOW3",
+      "exchange": "LSE",
+      "website": "https://volkswagen-group.com",
+      "logoUrl": "/companies-assets/VOW3.LSE.svg",
+      "title": "Engineer/Management roles",
+      "startDate": "Prior to 2017",
+      "endDate": "Prior to 2017",
+      "formattedStartDate": "Prior to 2017",
+      "formattedEndDate": "Prior to 2017"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/eric-bach-a476345",
+      "person_name": "Eric Bach",
+      "company_name": "Lucid Group, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 53,
+  "ageYear": 2024
+}

@@ -1,0 +1,38 @@
+{
+  "id": "Matthew Ofilos",
+  "name": "Matthew Ofilos",
+  "background": "Mr. Ofilos has served as our Chief Financial Officer since July 2022. He joined Parsons in 2021 as Executive Vice President, Finance. Prior to joining Parsons, he held various leadership roles at Amazon Web Services and Lockheed Martin.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Parsons Corporation",
+      "ticker": "PSN",
+      "exchange": "NYSE",
+      "website": "https://www.parsons.com",
+      "logoUrl": "/companies-assets/PSN.NYSE.svg",
+      "title": "Executive Vice President of Finance",
+      "startDate": "November 2021",
+      "endDate": "July 2022",
+      "formattedStartDate": "November 2021",
+      "formattedEndDate": "July 2022"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mattofilos",
+      "person_name": "Matthew Ofilos",
+      "company_name": "Parsons Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 44,
+  "ageYear": 2024
+}

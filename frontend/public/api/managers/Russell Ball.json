@@ -1,0 +1,53 @@
+{
+  "id": "Russell Ball",
+  "name": "Russell Ball",
+  "background": "Mr. Ball has over 30 years of experience in the mining industry. He was previously CFO and EVP of Corporate Development at Newmont Mining and CFO of Goldcorp Inc. He currently serves on the boards of several public mining companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Calibre Mining Corp.",
+      "ticker": "CXB",
+      "exchange": "TSX",
+      "website": "https://calibremining.com",
+      "logoUrl": "/companies-assets/CXB.TSX.svg",
+      "title": "Chief Executive Officer and Director",
+      "startDate": "2018",
+      "endDate": "February 2021",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "February 2021"
+    },
+    {
+      "name": "Benjamin Hill Mining Corp.",
+      "ticker": "BNN",
+      "exchange": "CSE",
+      "website": "https://benjaminhillmining.com/",
+      "logoUrl": "/companies-assets/BNN.CSE.png",
+      "title": "Senior Advisor",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/russell-ball-8a5b2a12",
+      "person_name": "Russell Ball",
+      "company_name": "Calibre Mining Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation and Nominating Committee"
+  ],
+  "age": 56,
+  "ageYear": 2024
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Andy Saperstein",
+  "first_name": "Andy",
+  "last_name": "Saperstein",
+  "age": 57,
+  "age_year": 2024,
+  "background": "Mr. Saperstein has served as Co-President of Morgan Stanley since January 2024 and Head of Wealth Management.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Morgan Stanley",
+      "ticker": "MS",
+      "exchange": "NYSE",
+      "title_or_role": "Co-President",
+      "website": "https://www.morganstanley.com",
+      "start_date": "2006",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Merrill Lynch",
+      "ticker": "BAC",
+      "exchange": "NYSE",
+      "website": "https://www.ml.com",
+      "title_or_role": "Chief Operating Officer of the Direct Division; Member of the Global Private Client Executive Committee",
+      "start_date": "Prior to 2006",
+      "end_date": "2006",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

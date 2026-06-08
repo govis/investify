@@ -1,0 +1,31 @@
+{
+  "id": "Robert Kirkwood",
+  "name": "Robert Kirkwood",
+  "background": "Mr. Kirkwood has over 35 years of experience in the mining and energy industries.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Energy Fuels Inc.",
+      "ticker": "UUUU",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Director",
+      "startDate": "2017",
+      "endDate": "October 15, 2025",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "October 15, 2025"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Environment, Health and Safety Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

@@ -1,0 +1,39 @@
+{
+  "id": "Sara Ponessa",
+  "name": "Sara Ponessa",
+  "background": "Ms. Ponessa has served as our Vice President, General Counsel and Secretary since 2018. Prior to joining Livent, she was Senior Counsel at FMC from 2014 to 2018. Previously, she served as Vice President and Assistant General Counsel at AstraZeneca.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Livent Corporation",
+      "ticker": "LTHM",
+      "exchange": "NYSE",
+      "website": "https://www.livent.com",
+      "logoUrl": "/companies-assets/LTHM.NYSE.svg",
+      "title": "General Counsel and Secretary",
+      "startDate": "2018",
+      "endDate": "2025-06-01",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "June 2025"
+    },
+    {
+      "name": "FMC Corporation",
+      "ticker": "FMC",
+      "exchange": "NYSE",
+      "website": "https://www.fmc.com",
+      "logoUrl": "/companies-assets/FMC.NYSE.svg",
+      "title": "Executive Vice President, General Counsel, and Corporate Secretary",
+      "startDate": "2025-06-01",
+      "endDate": null,
+      "formattedStartDate": "June 2025",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 50,
+  "ageYear": 2023
+}

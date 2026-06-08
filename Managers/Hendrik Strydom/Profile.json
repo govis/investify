@@ -1,0 +1,50 @@
+{
+  "name": "Hendrik Strydom",
+  "first_name": "Hendrik",
+  "last_name": "Strydom",
+  "age": 58,
+  "age_year": 2024,
+  "background": "Dr. Strydom has served as our Chief Technology Officer since September 2021. He is a nuclear physicist with extensive experience in isotope separation and enrichment technologies.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "ASP Isotopes Inc.",
+      "ticker": "ASPI",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.aspisotopes.com",
+      "start_date": "January 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "ASP Isotopes Inc.",
+      "ticker": "ASPI",
+      "exchange": "NYSE",
+      "title_or_role": "Chief Technology Officer",
+      "website": "https://aspisotopes.com",
+      "start_date": "2021-09-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://za.linkedin.com/in/hendrik-strydom-69947123",
+      "person_name": "Hendrik Strydom",
+      "company_name": "ASP Isotopes Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

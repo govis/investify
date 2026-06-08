@@ -1,0 +1,85 @@
+{
+  "name": "Wesley Bush",
+  "first_name": "Wesley",
+  "last_name": "Bush",
+  "age": 63,
+  "age_year": 2024,
+  "background": "Former Chairman and CEO of Northrop Grumman Corporation.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "cisco.com",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "gm.com",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "website": "northropgrumman.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2005",
+      "end_date": "2006",
+      "validated": true
+    },
+    {
+      "name": "Dow Inc.",
+      "ticker": "DOW",
+      "exchange": "NYSE",
+      "website": "dow.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "GE Aerospace",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "website": "geaerospace.com",
+      "title_or_role": "Director",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "TRW Inc.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "N/A",
+      "title_or_role": "Systems Engineer",
+      "start_date": "1987",
+      "end_date": "2002",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation and Management Development Committee",
+    "Finance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

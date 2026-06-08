@@ -1,0 +1,88 @@
+{
+  "id": "Deborah Kerr",
+  "name": "Deborah Kerr",
+  "background": "Deborah L. Kerr has been a member of our Board since November 2017. She was previously the Executive Vice President and Chief Product and Technology Officer of Sabre Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NetApp, Inc.",
+      "ticker": "NTAP",
+      "exchange": "NASDAQ",
+      "website": "https://www.netapp.com",
+      "logoUrl": "/companies-assets/NTAP.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2017-11",
+      "endDate": null,
+      "formattedStartDate": "November 2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Vodafone Group Plc",
+      "ticker": "VOD",
+      "exchange": "LSE",
+      "website": "https://www.vodafone.com",
+      "logoUrl": "/companies-assets/VOD.LSE.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2021-10",
+      "endDate": null,
+      "formattedStartDate": "October 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "EXLService Holdings, Inc.",
+      "ticker": "EXLS",
+      "exchange": "NASDAQ",
+      "website": "https://www.exlservice.com",
+      "logoUrl": "/companies-assets/EXLS.NASDAQ.png",
+      "title": "Director",
+      "startDate": "2015-01",
+      "endDate": "2021",
+      "formattedStartDate": "January 2015",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Chico's FAS, Inc.",
+      "ticker": "CHS",
+      "exchange": "NYSE",
+      "website": "https://www.chicosfas.com",
+      "logoUrl": "/companies-assets/CHS.NYSE.svg",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": "2023",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Sabre Corporation",
+      "ticker": "SABR",
+      "exchange": "NASDAQ",
+      "website": "https://www.sabre.com",
+      "logoUrl": "/companies-assets/SABR.NASDAQ.svg",
+      "title": "Executive Vice President, Chief Product and Technology Officer",
+      "startDate": "2013",
+      "endDate": "2016",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2016"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/deborahkerr",
+      "person_name": "Deborah Kerr",
+      "company_name": "NetApp, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 52,
+  "ageYear": 2024
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Rodney Slater",
+  "first_name": "Rodney",
+  "last_name": "Slater",
+  "age": 69,
+  "age_year": 2024,
+  "background": "Rodney Slater has served as a member of our Board since July 2021. Mr. Slater served as the U.S. Secretary of Transportation from 1997 to 2001.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "EVgo Inc.",
+      "ticker": "EVGO",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.evgo.com/",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Stagwell Inc.",
+      "ticker": "STGW",
+      "exchange": "NASDAQ",
+      "website": "https://www.stagwellglobal.com/",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "MDC Partners Inc.",
+      "ticker": "MDCA",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": "2021",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating and Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

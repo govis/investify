@@ -1,0 +1,53 @@
+{
+  "id": "Lisa Pankratz",
+  "name": "Lisa Pankratz",
+  "background": "Ms. Pankratz has over 30 years of experience in the investment management and financial services industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "B2Gold Corp.",
+      "ticker": "BTG",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "January 1, 2023",
+      "endDate": null,
+      "formattedStartDate": "January 1, 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sherritt International Corporation",
+      "ticker": "S",
+      "exchange": "TSX",
+      "website": "https://www.sherritt.com",
+      "logoUrl": "/companies-assets/S.TSX.png",
+      "title": "Director (Chair of the Audit Committee)",
+      "startDate": "Prior to 2016",
+      "endDate": "2022",
+      "formattedStartDate": "Prior to 2016",
+      "formattedEndDate": "2022"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/lisa-pankratz-fcpa-fca-cfa-172b6759",
+      "person_name": "Lisa Pankratz",
+      "company_name": "B2Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

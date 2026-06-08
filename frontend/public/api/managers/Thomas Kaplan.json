@@ -1,0 +1,62 @@
+{
+  "id": "Thomas Kaplan",
+  "name": "Thomas Kaplan",
+  "background": "Dr. Kaplan is the Chairman of the Board and has been a director since 2008. He is an entrepreneur and investor in the natural resources sector and is the Chairman and CEO of The Electrum Group LLC.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NOVAGOLD RESOURCES INC.",
+      "ticker": "NG",
+      "exchange": "TSX / NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman of the Board",
+      "startDate": "2011",
+      "endDate": null,
+      "formattedStartDate": "2011",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Apex Silver Mines Ltd. (now known as Golden Minerals Company)",
+      "ticker": "AUMN",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Founder, Chief Executive Officer, and Chairman",
+      "startDate": "1993",
+      "endDate": "2004",
+      "formattedStartDate": "1993",
+      "formattedEndDate": "2004"
+    },
+    {
+      "name": "Golden Minerals Company",
+      "ticker": "AUMN",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman and Director",
+      "startDate": "2009",
+      "endDate": "2011",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2011"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/thomaskaplan",
+      "person_name": "Thomas Kaplan",
+      "company_name": "The Electrum Group",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

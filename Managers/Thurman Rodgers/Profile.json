@@ -1,0 +1,93 @@
+{
+  "name": "Thurman Rodgers",
+  "first_name": "Thurman",
+  "last_name": "Rodgers",
+  "age": 75,
+  "age_year": 2024,
+  "background": "T.J. Rodgers has served as a director since January 2017. He is the founder and former CEO of Cypress Semiconductor Corporation.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Enphase Energy, Inc.",
+      "ticker": "ENPH",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://enphase.com/",
+      "start_date": "January 2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Enovix Corporation",
+      "ticker": "ENVX",
+      "exchange": "NASDAQ",
+      "website": "https://www.enovix.com/",
+      "title_or_role": "Director",
+      "start_date": "July 2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "FTC Solar, Inc.",
+      "ticker": "FTCI",
+      "exchange": "NASDAQ",
+      "website": "https://www.ftcsolar.com/",
+      "title_or_role": "Director / Chairman of the Board",
+      "start_date": "January 2017",
+      "end_date": "January 2023",
+      "validated": true
+    },
+    {
+      "name": "Cypress Semiconductor Corporation",
+      "ticker": "CY",
+      "exchange": "NASDAQ",
+      "website": "https://www.infineon.com/",
+      "title_or_role": "Founder, President, CEO, and Director",
+      "start_date": "1982",
+      "end_date": "August 2016",
+      "validated": true
+    },
+    {
+      "name": "SunPower Corporation",
+      "ticker": "SPWR",
+      "exchange": "NASDAQ",
+      "website": "https://us.sunpower.com/",
+      "title_or_role": "Director",
+      "start_date": "May 2002",
+      "end_date": "May 2011",
+      "validated": true
+    },
+    {
+      "name": "Complete Solaria, Inc.",
+      "ticker": "CSLR",
+      "exchange": "NASDAQ",
+      "website": "https://completesolaria.com/",
+      "title_or_role": "Director",
+      "start_date": "July 2023",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/thurman-rodgers-345515a2",
+      "person_name": "Thurman Rodgers",
+      "company_name": "Cypress Semiconductor Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

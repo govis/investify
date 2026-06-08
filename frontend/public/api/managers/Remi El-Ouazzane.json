@@ -1,0 +1,62 @@
+{
+  "id": "Remi El-Ouazzane",
+  "name": "Remi El-Ouazzane",
+  "background": "Remi El-Ouazzane is President, Microcontrollers and Digital ICs Group, a position he has held since 2022. He is a member of ST’s Executive Committee. Prior to joining ST, El-Ouazzane was Chief Operating Officer of Intel’s Artificial Intelligence Products Group. He also served as CEO of Movidius before its acquisition by Intel.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "STMicroelectronics N.V.",
+      "ticker": "STM",
+      "exchange": "NYSE",
+      "website": "https://www.st.com",
+      "logoUrl": "/companies-assets/STM.NYSE.svg",
+      "title": "President, Microcontrollers and Digital ICs Group (Member of Executive Committee)",
+      "startDate": "January 1, 2022",
+      "endDate": null,
+      "formattedStartDate": "January 1, 2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "logoUrl": "/companies-assets/INTC.NASDAQ.svg",
+      "title": "Vice President and Chief Operating Officer, AI Products Group",
+      "startDate": "2016",
+      "endDate": "2021",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Texas Instruments Incorporated",
+      "ticker": "TXN",
+      "exchange": "NASDAQ",
+      "website": "https://www.ti.com",
+      "logoUrl": "/companies-assets/TXN.NASDAQ.svg",
+      "title": "Vice President and Worldwide General Manager, Open Multimedia Applications Platform (OMAP)",
+      "startDate": "1997",
+      "endDate": "2012",
+      "formattedStartDate": "1997",
+      "formattedEndDate": "2012"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ch.linkedin.com/in/remi-el-ouazzane-6a1111",
+      "person_name": "Remi El-Ouazzane",
+      "company_name": "STMicroelectronics",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 50,
+  "ageYear": 2023
+}

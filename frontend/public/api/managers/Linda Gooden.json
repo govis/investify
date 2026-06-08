@@ -1,0 +1,78 @@
+{
+  "id": "Linda Gooden",
+  "name": "Linda Gooden",
+  "background": "Former Executive Vice President, Information Systems & Global Solutions of Lockheed Martin Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lockheed Martin Corporation",
+      "ticker": "LMT",
+      "exchange": "NYSE",
+      "website": "https://www.lockheedmartin.com",
+      "logoUrl": "/companies-assets/LMT.NYSE.svg",
+      "title": "Executive Vice President, Information Systems & Global Solutions",
+      "startDate": "2007",
+      "endDate": "2013",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "The Home Depot, Inc.",
+      "ticker": "HD",
+      "exchange": "NYSE",
+      "website": "https://www.homedepot.com",
+      "logoUrl": "/companies-assets/HD.NYSE.svg",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": "2024",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Automatic Data Processing, Inc. (ADP)",
+      "ticker": "ADP",
+      "exchange": "NASDAQ",
+      "website": "https://www.adp.com",
+      "logoUrl": "/companies-assets/ADP.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": "2023",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "WGL Holdings, Inc.",
+      "ticker": "WGL",
+      "exchange": "NYSE",
+      "website": "www.wglholdings.com",
+      "logoUrl": "https://www.washingtongas.com/etc.clientlibs/wgl/clientlibs/clientlib-site/resources/images/logo.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": "2018",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2018"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/linda-gooden-488a4841",
+      "person_name": "Linda Gooden",
+      "company_name": "Lockheed Martin Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Governance and Corporate Responsibility Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

@@ -1,0 +1,30 @@
+{
+  "id": "James Camaren",
+  "name": "James Camaren",
+  "background": "Former chairman and CEO of Utilities, Inc. Director since 2002.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NextEra Energy, Inc.",
+      "ticker": "NEE",
+      "exchange": "NYSE",
+      "website": "https://www.nexteraenergy.com",
+      "logoUrl": "/companies-assets/NEE.NYSE.svg",
+      "title": "Director",
+      "startDate": "2002",
+      "endDate": null,
+      "formattedStartDate": "2002",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Nuclear"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

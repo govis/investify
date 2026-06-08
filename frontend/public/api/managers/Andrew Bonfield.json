@@ -1,0 +1,74 @@
+{
+  "id": "Andrew Bonfield",
+  "name": "Andrew Bonfield",
+  "background": "Andrew Bonfield is chief financial officer of Caterpillar Inc. Before joining Caterpillar in 2018, he served as CFO of National Grid plc and held senior finance roles at Cadbury plc, Bristol-Myers Squibb, and SmithKline Beecham.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Caterpillar Inc.",
+      "ticker": "CAT",
+      "exchange": "NYSE",
+      "website": "https://www.caterpillar.com",
+      "logoUrl": "/companies-assets/CAT.NYSE.svg",
+      "title": "Executive Advisor / CFO Emeritus",
+      "startDate": "2026-05",
+      "endDate": null,
+      "formattedStartDate": "May 2026",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Reckitt Benckiser Group plc",
+      "ticker": "RKT",
+      "exchange": "LSE",
+      "website": "reckitt.com",
+      "logoUrl": "/companies-assets/RKT.LSE.svg",
+      "title": "Senior Independent Director",
+      "startDate": "2024-05",
+      "endDate": null,
+      "formattedStartDate": "May 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "National Grid plc",
+      "ticker": "NGG",
+      "exchange": "NYSE / LSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Group Chief Financial Officer / Board Member",
+      "startDate": "2010-11",
+      "endDate": "2018-07",
+      "formattedStartDate": "November 2010",
+      "formattedEndDate": "July 2018"
+    },
+    {
+      "name": "Kingfisher plc",
+      "ticker": "KGF",
+      "exchange": "LSE",
+      "website": "kingfisher.com",
+      "logoUrl": "/companies-assets/KGF.LSE.png",
+      "title": "Non-Executive Director",
+      "startDate": "2002",
+      "endDate": "2012",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "2012"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/andrew-bonfield-4b13a720",
+      "person_name": "Andrew Bonfield",
+      "company_name": "Caterpillar Inc.",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1
+    }
+  ],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

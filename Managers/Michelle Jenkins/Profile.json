@@ -1,0 +1,61 @@
+{
+  "name": "Michelle Jenkins",
+  "first_name": "Michelle",
+  "last_name": "Jenkins",
+  "age": null,
+  "age_year": null,
+  "background": "Ms. Jenkins is a Chartered Accountant with over 25 years of experience in the mining sector. She has held senior financial and executive roles at various mining companies, including Bullion Resources and Kumba Resources.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Peninsula Energy Limited",
+      "ticker": "PEN",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://www.pel.net.au",
+      "start_date": "2022-06-01",
+      "end_date": null
+    },
+    {
+      "name": "Kumba Iron Ore Limited",
+      "ticker": "KIO",
+      "exchange": "Johannesburg Stock Exchange",
+      "website": "https://www.angloamericankumba.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2019-11-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Orion Minerals Limited",
+      "ticker": "ORN",
+      "exchange": "Australian Securities Exchange",
+      "website": "https://orionminerals.com.au",
+      "title_or_role": "Executive - Finance & Administration (South Africa)",
+      "start_date": "Unknown",
+      "end_date": "Unknown",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michelle-jenkins-41a7a0aa",
+      "person_name": "Michelle Jenkins",
+      "company_name": "Orion Minerals Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Management Committee (Chair)"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

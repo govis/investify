@@ -1,0 +1,101 @@
+{
+  "name": "Scott Hicks",
+  "first_name": "Scott",
+  "last_name": "Hicks",
+  "age": 45,
+  "age_year": 2024,
+  "background": "Mr. Hicks is a corporate director with over 15 years of experience in the resource sector, specifically in corporate finance and M&A.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Sprott Physical Uranium Trust",
+      "ticker": "U",
+      "exchange": "UN.TSX",
+      "title_or_role": "Independent Trustee",
+      "website": "https://sprott.com/investment-strategies/physical-commodity-funds/uranium/",
+      "start_date": "2021-07-19",
+      "end_date": null
+    },
+    {
+      "name": "Strategic Resources Inc.",
+      "ticker": "SR",
+      "exchange": "TSXV",
+      "website": "https://strategic-res.com/",
+      "title_or_role": "CEO and Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Fuerte Metals Corp.",
+      "ticker": "FMT",
+      "exchange": "TSXV",
+      "website": "https://fuertemetals.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Blue Jay Gold Corp.",
+      "ticker": "BJGC",
+      "exchange": "TSXV",
+      "website": "https://bluejaygold.com/",
+      "title_or_role": "Chairman",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Luminex Resources Corp.",
+      "ticker": "LR",
+      "exchange": "TSXV",
+      "website": "https://luminexresources.com/",
+      "title_or_role": "VP Corporate Development & Communications",
+      "start_date": "2018",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Lumina Gold Corp.",
+      "ticker": "LUM",
+      "exchange": "TSXV",
+      "website": "https://luminagold.com/",
+      "title_or_role": "VP Corporate Development & Communications",
+      "start_date": "2018",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Anfield Gold Corp.",
+      "ticker": "ANFG",
+      "exchange": "TSXV",
+      "website": "N/A",
+      "title_or_role": "VP Corporate Development & Communications",
+      "start_date": "2017",
+      "end_date": "2017",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dscotthicks",
+      "person_name": "Scott Hicks",
+      "company_name": "Strategic Resources Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

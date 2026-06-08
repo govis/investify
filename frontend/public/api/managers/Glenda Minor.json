@@ -1,0 +1,93 @@
+{
+  "id": "Glenda Minor",
+  "name": "Glenda Minor",
+  "background": "Chief Executive Officer and Principal of Silket Advisory Services. Former SVP and Controller of Evraz North America Limited.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Albemarle Corporation",
+      "ticker": "ALB",
+      "exchange": "NYSE",
+      "website": "https://www.albemarle.com",
+      "logoUrl": "/companies-assets/ALB.NYSE.svg",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Curtiss-Wright Corporation",
+      "ticker": "CW",
+      "exchange": "NYSE",
+      "website": "https://www.curtisswright.com",
+      "logoUrl": "/companies-assets/CW.NYSE.svg",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Kaiser Aluminum Corporation",
+      "ticker": "KALU",
+      "exchange": "NASDAQ",
+      "website": "kaiseraluminum.com",
+      "logoUrl": "https://www.kaiseraluminum.com/wp-content/themes/kaiser/assets/images/logo.svg",
+      "title": "Director",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Radius Recycling",
+      "ticker": "RDUS",
+      "exchange": "NASDAQ",
+      "website": "radiusrecycling.com",
+      "logoUrl": "/companies-assets/RDUS.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": "2023",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Visteon Corporation",
+      "ticker": "VC",
+      "exchange": "NASDAQ",
+      "website": "visteon.com",
+      "logoUrl": "/companies-assets/VC.NASDAQ.svg",
+      "title": "Vice President",
+      "startDate": "2005",
+      "endDate": "2013",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2013"
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Electrification",
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/glenda-minor-442a59",
+      "person_name": "Glenda Minor",
+      "company_name": "Silket Advisory Services",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Finance Committee",
+    "Nominating & Governance Committee"
+  ],
+  "age": 67,
+  "ageYear": 2024
+}

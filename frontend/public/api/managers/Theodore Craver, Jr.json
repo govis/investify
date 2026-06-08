@@ -1,0 +1,65 @@
+{
+  "id": "Theodore Craver, Jr",
+  "name": "Theodore Craver, Jr.",
+  "background": "Retired Chairman, President and Chief Executive Officer of Edison International.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Edison International",
+      "ticker": "EIX",
+      "exchange": "NYSE",
+      "website": "https://www.edison.com",
+      "logoUrl": "/companies-assets/EIX.NYSE.svg",
+      "title": "Executive Vice President / CFO",
+      "startDate": "1996",
+      "endDate": "2008",
+      "formattedStartDate": "1996",
+      "formattedEndDate": "2008"
+    },
+    {
+      "name": "Wells Fargo & Company",
+      "ticker": "WFC",
+      "exchange": "NYSE",
+      "website": "wellsfargo.com",
+      "logoUrl": "/companies-assets/WFC.NYSE.svg",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": "2023",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Health Net, Inc.",
+      "ticker": "HNT",
+      "exchange": "NYSE",
+      "website": "healthnet.com",
+      "logoUrl": "/companies-assets/HNT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2004",
+      "endDate": "2016",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2016"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/theodore-craver-jr-4a5b2a12",
+      "person_name": "Theodore Craver, Jr.",
+      "company_name": "Edison International",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Finance and Risk Management Committee"
+  ],
+  "age": 72,
+  "ageYear": 2024
+}

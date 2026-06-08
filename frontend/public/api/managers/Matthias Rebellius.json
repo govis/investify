@@ -1,0 +1,62 @@
+{
+  "id": "Matthias Rebellius",
+  "name": "Matthias Rebellius",
+  "background": "Matthias Rebellius is CEO of Smart Infrastructure and a member of the Managing Board. He has been with Siemens since 1988 in various management positions.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Siemens Aktiengesellschaft (Siemens AG)",
+      "ticker": "SIE",
+      "exchange": "Xetra",
+      "website": null,
+      "logoUrl": null,
+      "title": "Member of the Managing Board; CEO of Smart Infrastructure",
+      "startDate": "2020-10-01",
+      "endDate": null,
+      "formattedStartDate": "October 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Siemens Energy AG",
+      "ticker": "ENR",
+      "exchange": "Xetra",
+      "website": "https://www.siemens-energy.com",
+      "logoUrl": "/companies-assets/ENR.Xetra.svg",
+      "title": "Member of the Supervisory Board",
+      "startDate": "2020-09-25",
+      "endDate": null,
+      "formattedStartDate": "September 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Siemens Limited (India)",
+      "ticker": "SIEMENS",
+      "exchange": "National Stock Exchange of India (NSE)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Director",
+      "startDate": "2020-09-24",
+      "endDate": null,
+      "formattedStartDate": "September 2020",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ch.linkedin.com/in/matthias-rebellius",
+      "person_name": "Matthias Rebellius",
+      "company_name": "Siemens",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 59,
+  "ageYear": 2024
+}

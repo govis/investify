@@ -1,0 +1,89 @@
+{
+  "name": "James Sykes",
+  "first_name": "James",
+  "last_name": "Sykes",
+  "age": 43,
+  "age_year": 2024,
+  "background": "Mr. Sykes has over 15 years of uranium exploration and discovery experience in the Athabasca Basin. He was instrumental in the discovery of the Roughrider, Arrow, and Triple R deposits. He previously served as Vice President, Exploration for Appia Energy Corp. and has held roles with NexGen Energy, Hathor Exploration, and Rio Tinto.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Baselode Energy Corp.",
+      "ticker": "FIND",
+      "exchange": "TSX",
+      "title_or_role": "Chief Executive Officer and President, Director",
+      "website": "https://baselode.com",
+      "start_date": "2020-06-01",
+      "end_date": null
+    },
+    {
+      "name": "Appia Rare Earths & Uranium Corp.",
+      "ticker": "CSE:API",
+      "exchange": "CSE",
+      "website": "https://appiareu.com/",
+      "title_or_role": "Vice-President, Exploration & Development",
+      "start_date": "2018",
+      "end_date": "2021-05-31",
+      "validated": true
+    },
+    {
+      "name": "Metal Energy Corp.",
+      "ticker": "TSXV:MERG",
+      "exchange": "TSXV",
+      "website": "https://metalenergy.ca/",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2021-06-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "American Eagle Gold Corp.",
+      "ticker": "TSXV:AE",
+      "exchange": "TSXV",
+      "website": "https://americaneaglegold.ca/",
+      "title_or_role": "Independent Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kintavar Exploration Inc.",
+      "ticker": "TSXV:KTR",
+      "exchange": "TSXV",
+      "website": "https://kintavar.com/",
+      "title_or_role": "Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Dark Star Minerals Inc.",
+      "ticker": "CSE:BATT",
+      "exchange": "CSE",
+      "website": "https://darkstarminerals.com/",
+      "title_or_role": "Director",
+      "start_date": "2025-09-09",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/james-sykes-88b09364",
+      "person_name": "James Sykes",
+      "company_name": "Baselode Energy Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

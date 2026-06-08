@@ -1,0 +1,27 @@
+{
+  "id": "Clay Neff",
+  "name": "Clay Neff",
+  "background": "President, Chevron International Exploration & Production since 2020.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Chevron Corporation",
+      "ticker": "CVX",
+      "exchange": "NYSE",
+      "website": "https://www.chevron.com",
+      "logoUrl": "/companies-assets/CVX.NYSE.svg",
+      "title": "President, Chevron Africa and Latin America Exploration and Production Company",
+      "startDate": "January 2017",
+      "endDate": "2022",
+      "formattedStartDate": "January 2017",
+      "formattedEndDate": "2022"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

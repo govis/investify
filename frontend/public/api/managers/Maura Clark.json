@@ -1,0 +1,77 @@
+{
+  "id": "Maura Clark",
+  "name": "Maura Clark",
+  "background": "Ms. Clark is a former Managing Director of Investment Banking at Goldman Sachs and has extensive experience in finance and capital markets.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Newmont Corporation",
+      "ticker": "NEM",
+      "exchange": "NYSE",
+      "website": "https://www.newmont.com",
+      "logoUrl": "/companies-assets/NEM.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Fortis Inc.",
+      "ticker": "FTS",
+      "exchange": "TSX",
+      "website": "https://www.fortisinc.com",
+      "logoUrl": "/companies-assets/FTS.TSX.svg",
+      "title": "Independent Director",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Nutrien Ltd.",
+      "ticker": "NTR",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Centrica PLC",
+      "ticker": "CNA",
+      "exchange": "LSE",
+      "website": "https://www.centrica.com",
+      "logoUrl": "/companies-assets/CNA.LSE.svg",
+      "title": "President, Direct Energy Business",
+      "startDate": "2013",
+      "endDate": "2016",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2016"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/maura-clark-5831244",
+      "person_name": "Maura Clark",
+      "company_name": "Newmont Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Governance and Nominating Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

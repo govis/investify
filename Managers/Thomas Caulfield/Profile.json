@@ -1,0 +1,50 @@
+{
+  "name": "Thomas Caulfield",
+  "first_name": "Thomas",
+  "last_name": "Caulfield",
+  "age": 64,
+  "age_year": 2024,
+  "background": "Dr. Caulfield is the President and Chief Executive Officer of GlobalFoundries. He joined the company in 2014 and was appointed CEO in 2018. Prior to GF, he served as President and COO of Soraa and held executive positions at Ausra and Novellus Systems. He spent 17 years at IBM in various leadership roles.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "GlobalFoundries Inc.",
+      "ticker": "GFS",
+      "exchange": "NASDAQ",
+      "title_or_role": "President and Chief Executive Officer",
+      "website": "https://gf.com",
+      "start_date": "2018",
+      "end_date": "April 2025",
+      "validated": true
+    },
+    {
+      "name": "Western Digital Corporation",
+      "ticker": "WDC",
+      "exchange": "NASDAQ",
+      "website": "https://www.westerndigital.com",
+      "title_or_role": "Board Member",
+      "start_date": "2021",
+      "end_date": "February 2025",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/thomascaulfield",
+      "person_name": "Thomas Caulfield",
+      "company_name": "GlobalFoundries",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

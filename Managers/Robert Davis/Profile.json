@@ -1,0 +1,53 @@
+{
+  "name": "Robert Davis",
+  "first_name": "Robert",
+  "last_name": "Davis",
+  "age": 57,
+  "age_year": 2024,
+  "background": "Chairman, Chief Executive Officer and President of Merck & Co., Inc.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Duke Energy Corporation",
+      "ticker": "DUK",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.duke-energy.com",
+      "start_date": "2018-01-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Merck & Co., Inc.",
+      "ticker": "MRK",
+      "exchange": "NYSE",
+      "website": "https://www.merck.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2014-01-01",
+      "end_date": "2015-12-31",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/robert-davis-merck",
+      "person_name": "Robert Davis",
+      "company_name": "Merck & Co., Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation and People Development Committee",
+    "Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

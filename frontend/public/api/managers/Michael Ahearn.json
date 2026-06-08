@@ -1,0 +1,39 @@
+{
+  "id": "Michael Ahearn",
+  "name": "Michael Ahearn",
+  "background": "Co-founder of First Solar and served as CEO from 2000 to 2009 and again from 2011 to 2012. He is the Chairman of the Board.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "First Solar, Inc.",
+      "ticker": "FSLR",
+      "exchange": "NASDAQ",
+      "website": "https://www.firstsolar.com",
+      "logoUrl": "/companies-assets/FSLR.NASDAQ.svg",
+      "title": "Non-Executive Chairman",
+      "startDate": "2012",
+      "endDate": "2021",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2021"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michaeltahearn",
+      "person_name": "Michael Ahearn",
+      "company_name": "First Solar, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 67,
+  "ageYear": 2024
+}

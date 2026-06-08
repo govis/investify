@@ -1,0 +1,44 @@
+{
+  "id": "Michael Clark",
+  "name": "Michael Clark",
+  "background": "President of B-Filer Inc. since 2012. Formerly Executive Vice President at Northern Trust.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sprott Focus Trust, Inc.",
+      "ticker": "FUND",
+      "exchange": "NASDAQ",
+      "website": "https://sprott.com/investment-strategies/sprott-focus-trust/",
+      "logoUrl": "/companies-assets/FUND.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Avino Silver & Gold Mines Ltd.",
+      "ticker": "ASM",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Governance Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

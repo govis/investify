@@ -1,0 +1,54 @@
+{
+  "id": "Tye Burt",
+  "name": "Tye Burt",
+  "background": "Mr. Burt has over 30 years of experience in the global mining industry. He was President and CEO of Kinross Gold Corporation from 2005 to 2012 and has held senior roles at Barrick Gold and in investment banking.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Kinross Gold Corporation",
+      "ticker": "K",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and Chief Executive Officer",
+      "startDate": "2005-03",
+      "endDate": "2012-08",
+      "formattedStartDate": "March 2005",
+      "formattedEndDate": "August 2012"
+    },
+    {
+      "name": "ArcelorMittal",
+      "ticker": "MT",
+      "exchange": "NYSE",
+      "website": "https://corporate.arcelormittal.com",
+      "logoUrl": "/companies-assets/MT.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "2012-05",
+      "endDate": "2017-05",
+      "formattedStartDate": "May 2012",
+      "formattedEndDate": "May 2017"
+    },
+    {
+      "name": "Boart Longyear Limited",
+      "ticker": "BLY",
+      "exchange": "ASX",
+      "website": "https://www.boartlongyear.com",
+      "logoUrl": "/companies-assets/BLY.ASX.png",
+      "title": "Non-Executive Director",
+      "startDate": "2019-08",
+      "endDate": "2024-11",
+      "formattedStartDate": "August 2019",
+      "formattedEndDate": "November 2024"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

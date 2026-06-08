@@ -1,0 +1,51 @@
+{
+  "id": "Donghui Ma",
+  "name": "Donghui Ma",
+  "background": "Mr. Donghui Ma has served as our director since October 2022 and our president since January 2023. Mr. Ma served as our chief engineer from September 2015 to December 2022. Prior to joining our company, Mr. Ma served as a dean of the research institute of SANY Heavy Vehicle Body Co., Ltd. from 2011 to 2015. Prior to that, Mr. Ma worked at IAT Automobile Technology Co., Ltd. and JMC (Jiangling Motors Co., Ltd.).",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Li Auto Inc.",
+      "ticker": "LI",
+      "exchange": "NASDAQ",
+      "website": "https://www.lixiang.com",
+      "logoUrl": "/companies-assets/LI.NASDAQ.svg",
+      "title": "President (Executive Director)",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "formattedStartDate": "January 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sany Heavy Industry Co., Ltd.",
+      "ticker": "600031",
+      "exchange": "Shanghai Stock Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Research Director",
+      "startDate": "2011-06-01",
+      "endDate": "2015-09-01",
+      "formattedStartDate": "June 2011",
+      "formattedEndDate": "September 2015"
+    },
+    {
+      "name": "IAT Automobile Technology Co., Ltd.",
+      "ticker": "300424",
+      "exchange": "Shenzhen Stock Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Project Manager",
+      "startDate": "2010-06-01",
+      "endDate": "2011-06-01",
+      "formattedStartDate": "June 2010",
+      "formattedEndDate": "June 2011"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 49,
+  "ageYear": 2024
+}

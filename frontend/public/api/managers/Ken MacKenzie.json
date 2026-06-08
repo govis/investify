@@ -1,0 +1,42 @@
+{
+  "id": "Ken MacKenzie",
+  "name": "Ken MacKenzie",
+  "background": "Ken MacKenzie was appointed Chairman in September 2017. He was formerly the Managing Director and CEO of Amcor Limited. He has extensive global experience in complex manufacturing and supply chains.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Amcor Limited (now Amcor plc)",
+      "ticker": "AMCR",
+      "exchange": "NYSE / ASX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Managing Director and Chief Executive Officer",
+      "startDate": "2005",
+      "endDate": "2015",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Wesfarmers Limited",
+      "ticker": "WES",
+      "exchange": "ASX",
+      "website": "https://www.wesfarmers.com.au",
+      "logoUrl": "/companies-assets/WES.ASX.svg",
+      "title": "Chair-elect / Director",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Nomination and Governance Committee (Chair)"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

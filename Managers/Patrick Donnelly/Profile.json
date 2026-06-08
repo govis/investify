@@ -1,0 +1,70 @@
+{
+  "name": "Patrick Donnelly",
+  "first_name": "Patrick",
+  "last_name": "Donnelly",
+  "age": 49,
+  "age_year": 2024,
+  "background": "Mr. Donnelly was appointed Senior Vice President, Legal and Organizational Effectiveness in 2022. He joined Hudbay in 2008 and has served as General Counsel since 2011.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Hudbay Minerals Inc.",
+      "ticker": "HBM",
+      "exchange": "TSX / NYSE",
+      "title_or_role": "Senior VP, Legal & Organizational Effectiveness",
+      "website": "hudbayminerals.com",
+      "start_date": "2008",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hana Mining Ltd.",
+      "ticker": "HMG",
+      "exchange": "TSXV",
+      "website": "hanamining.com",
+      "title_or_role": "VP, Corporate Development",
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Copper Mountain Mining Corp.",
+      "ticker": "CMMC",
+      "exchange": "TSX",
+      "website": "cu-mt.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "HudBay Arizona Corp.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/patrickd11",
+      "person_name": "Patrick Donnelly",
+      "company_name": "Hudbay Minerals Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

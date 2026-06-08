@@ -1,0 +1,72 @@
+{
+  "name": "Victoria McMillan",
+  "first_name": "Victoria",
+  "last_name": "McMillan",
+  "age": 45,
+  "age_year": 2024,
+  "background": "Ms. McMillan is a finance professional with over 20 years of experience in the mining industry. She is currently the CFO of several junior exploration companies.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lahontan Gold Corp.",
+      "ticker": "LG",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://lahontangoldcorp.com/",
+      "start_date": "2023-06-15",
+      "end_date": null
+    },
+    {
+      "name": "Lundin Mining Corp.",
+      "ticker": "LUN",
+      "exchange": "TSX",
+      "website": "https://lundinmining.com",
+      "title_or_role": "Director",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Versamet Royalties Corp.",
+      "ticker": "VRMTD",
+      "exchange": "OTC",
+      "website": "https://versametroyalties.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Eclipse Gold Mining Corp.",
+      "ticker": "EGLD",
+      "exchange": "TSXV",
+      "website": "https://www.eclipsegoldmining.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2019",
+      "end_date": "2021",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/victoria-mcmillan-cpa-ca-icd-d-6b293aaa",
+      "person_name": "Victoria McMillan",
+      "company_name": "Lundin Mining Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

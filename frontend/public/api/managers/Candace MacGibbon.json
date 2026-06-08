@@ -1,0 +1,91 @@
+{
+  "id": "Candace MacGibbon",
+  "name": "Candace MacGibbon",
+  "background": "Ms. MacGibbon is a Chartered Professional Accountant with over 25 years of experience in the mining sector and capital markets.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "INV Metals Inc.",
+      "ticker": "INV",
+      "exchange": "TSX",
+      "website": "https://www.invmetals.com/",
+      "logoUrl": "https://www.invmetals.com/wp-content/uploads/2018/05/inv-metals-logo.png",
+      "title": "Chief Executive Officer",
+      "startDate": "2015",
+      "endDate": "2021",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Kinross Gold Corporation",
+      "ticker": "K / KGC",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": "2020",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "TransAlta Corporation",
+      "ticker": "TA / TAC",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": "2020",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Carbon Streaming Corporation",
+      "ticker": "NETZ",
+      "exchange": "NEO/CBOE Canada",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": "2023",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Conic Metals Corp. (now Nickel 28 Capital Corp.)",
+      "ticker": "NKL",
+      "exchange": "TSXV",
+      "website": "https://www.nickel28.com/",
+      "logoUrl": "/companies-assets/NKL.TSXV.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": "2022",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2022"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/candace-macgibbon-7a5a5a12",
+      "person_name": "Candace MacGibbon",
+      "company_name": "Osisko Gold Royalties Ltd",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Human Resources Committee"
+  ],
+  "age": 52,
+  "ageYear": 2024
+}

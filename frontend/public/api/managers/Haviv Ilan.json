@@ -1,0 +1,38 @@
+{
+  "id": "Haviv Ilan",
+  "name": "Haviv Ilan",
+  "background": "Haviv Ilan is president and chief executive officer of Texas Instruments. He has been with the company since 1999, serving in various leadership roles including chief operating officer and senior vice president of Analog Signal Chain.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Texas Instruments Incorporated",
+      "ticker": "TXN",
+      "exchange": "NASDAQ",
+      "website": "https://www.ti.com",
+      "logoUrl": "/companies-assets/TXN.NASDAQ.svg",
+      "title": "Senior Vice President",
+      "startDate": "2014",
+      "endDate": "2020",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2020"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/haviv-ilan-5a5a5a1",
+      "person_name": "Haviv Ilan",
+      "company_name": "Texas Instruments",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

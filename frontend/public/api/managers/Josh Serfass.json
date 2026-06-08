@@ -1,0 +1,42 @@
+{
+  "id": "Josh Serfass",
+  "name": "Josh Serfass",
+  "background": "Mr. Serfass is the Executive Vice President, Corporate Development and Investor Relations at Integra Resources Corp. He has extensive experience in capital markets and corporate strategy.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Canterra Minerals Corp.",
+      "ticker": "CTM",
+      "exchange": "TSXV",
+      "website": "https://canterraminerals.com/",
+      "logoUrl": "/companies-assets/CTM.TSXV.png",
+      "title": "Independent Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/joshua-serfass-8697b76",
+      "person_name": "Josh Serfass",
+      "company_name": "Integra Resources Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 39,
+  "ageYear": 2024
+}

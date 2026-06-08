@@ -1,0 +1,53 @@
+{
+  "name": "Karen Swager",
+  "first_name": "Karen",
+  "last_name": "Swager",
+  "age": 54,
+  "age_year": 2024,
+  "background": "Independent Director. Senior Vice President at The Mosaic Company with over 25 years of experience in the mining industry.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "SSR Mining Inc.",
+      "ticker": "SSRM",
+      "exchange": "NASDAQ",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://www.ssrmining.com",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Mosaic Company",
+      "ticker": "MOS",
+      "exchange": "NYSE",
+      "website": "https://www.mosaicco.com",
+      "title_or_role": "Executive Vice President \u2013 Operations",
+      "start_date": "2004",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/karen-swager-20b33114",
+      "person_name": "Karen Swager",
+      "company_name": "The Mosaic Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Environmental, Health, Safety and Sustainability Committee",
+    "Technical Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

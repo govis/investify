@@ -1,0 +1,38 @@
+{
+  "id": "Derek Owens",
+  "name": "Derek Owens",
+  "background": "Derek Owens is senior vice president and general counsel of Caterpillar Inc. He joined Caterpillar in 2019 and previously served as vice president and deputy general counsel.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Caterpillar Inc.",
+      "ticker": "CAT",
+      "exchange": "NYSE",
+      "website": "https://www.caterpillar.com",
+      "logoUrl": "/companies-assets/CAT.NYSE.svg",
+      "title": "Chief Legal Officer and General Counsel",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "formattedStartDate": "January 2024",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/derekoowens",
+      "person_name": "Derek Owens",
+      "company_name": "Caterpillar Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 59,
+  "ageYear": 2024
+}

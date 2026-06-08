@@ -1,0 +1,89 @@
+{
+  "id": "Lizanne Thomas",
+  "name": "Lizanne Thomas",
+  "background": "Former Partner-in-Charge of the Southern U.S. Region of the law firm Jones Day.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "The Southern Company",
+      "ticker": "SO",
+      "exchange": "NYSE",
+      "website": "https://www.southerncompany.com",
+      "logoUrl": "/companies-assets/SO.NYSE.svg",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Atlantic Capital Bancshares, Inc.",
+      "ticker": "ACBI",
+      "exchange": "NASDAQ",
+      "website": "atlanticcapitalbank.com",
+      "logoUrl": "/companies-assets/ACBI.NASDAQ.png",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": "2022",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "American Software, Inc.",
+      "ticker": "AMSWA",
+      "exchange": "NASDAQ",
+      "website": "logility.com",
+      "logoUrl": "/companies-assets/AMSWA.NASDAQ.png",
+      "title": "Director",
+      "startDate": "2007",
+      "endDate": "2024",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen, Inc.",
+      "ticker": "PLKI",
+      "exchange": "NASDAQ",
+      "website": "popeyes.com",
+      "logoUrl": "https://news.popeyes.com/media-assets/logos-fonts/PLK%20logo.png",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": "2017",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Krispy Kreme Doughnuts, Inc.",
+      "ticker": "KKD",
+      "exchange": "NYSE",
+      "website": "krispykreme.com",
+      "logoUrl": "/companies-assets/KKD.NYSE.svg",
+      "title": "Director",
+      "startDate": "2004",
+      "endDate": "2007",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2007"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/lizanne-thomas-49272b4",
+      "person_name": "Lizanne Thomas",
+      "company_name": "Jones Day",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation and Management Succession",
+    "Governance"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

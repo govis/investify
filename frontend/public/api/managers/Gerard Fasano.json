@@ -1,0 +1,39 @@
+{
+  "id": "Gerard Fasano",
+  "name": "Gerard Fasano",
+  "background": "Gerard A. Fasano has served as President of the Defense Systems Sector since January 2024. He previously served as President of the Defense Group from 2018 to 2023. He joined Leidos in 2016 following the Lockheed Martin IS&GS merger.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Leidos Holdings, Inc.",
+      "ticker": "LDOS",
+      "exchange": "NYSE",
+      "website": "https://www.leidos.com",
+      "logoUrl": "/companies-assets/LDOS.NYSE.svg",
+      "title": "Executive Vice President and Chief Growth Officer",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "V2X, Inc.",
+      "ticker": "VVX",
+      "exchange": "NYSE",
+      "website": "https://gov2x.com",
+      "logoUrl": "/companies-assets/VVX.NYSE.svg",
+      "title": "Director",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

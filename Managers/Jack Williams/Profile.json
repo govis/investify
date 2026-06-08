@@ -1,0 +1,29 @@
+{
+  "name": "Jack Williams",
+  "first_name": "Jack",
+  "last_name": "Williams",
+  "age": 60,
+  "age_year": 2024,
+  "background": "Senior Vice President since 2014. Joined the company in 1987 and held various roles in exploration and production.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Exxon Mobil Corporation",
+      "ticker": "XOM",
+      "exchange": "NYSE",
+      "title_or_role": "Senior Vice President",
+      "website": "https://www.exxonmobil.com",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

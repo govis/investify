@@ -1,0 +1,28 @@
+{
+  "id": "Paul Smith",
+  "name": "Paul Smith",
+  "background": "Mr. Smith is a Chartered Professional Accountant with over 30 years of experience in financial management and reporting. He has served as CFO for several public mining companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "ServiceNow, Inc.",
+      "ticker": "NOW",
+      "exchange": "NYSE",
+      "website": "https://www.servicenow.com",
+      "logoUrl": "/companies-assets/NOW.NYSE.svg",
+      "title": "Advisor",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

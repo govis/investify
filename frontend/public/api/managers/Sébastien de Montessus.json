@@ -1,0 +1,62 @@
+{
+  "id": "Sébastien de Montessus",
+  "name": "Sébastien de Montessus",
+  "background": "Former President and CEO. He was terminated for cause in January 2024 following an investigation into an irregular payment instruction.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "LSE",
+      "website": "https://www.endeavourmining.com",
+      "logoUrl": "/companies-assets/EDV.LSE.svg",
+      "title": "President and CEO",
+      "startDate": "2016",
+      "endDate": "2024",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "La Mancha Resources Inc.",
+      "ticker": "LMA",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "https://www.marketscreener.com/images/reuters/2012-07-13T121300Z_01_BTRE86C0V1L00_RTROPTP_2_LA-MANCHA-RESOURCES.jpg",
+      "title": "Director",
+      "startDate": "2012",
+      "endDate": "2012",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "Mansa Resources Ltd",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "CEO",
+      "startDate": "2026",
+      "endDate": null,
+      "formattedStartDate": "2026",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://fr.linkedin.com/in/sebastien-de-montessus",
+      "person_name": "Sébastien de Montessus",
+      "company_name": "Endeavour Mining plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 49,
+  "ageYear": 2024
+}

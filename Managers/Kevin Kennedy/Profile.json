@@ -1,0 +1,82 @@
+{
+  "name": "Kevin Kennedy",
+  "first_name": "Kevin",
+  "last_name": "Kennedy",
+  "age": 68,
+  "age_year": 2024,
+  "background": "Former President and Chief Executive Officer of Avaya Inc.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Digital Realty Trust, Inc.",
+      "ticker": "DLR",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.digitalrealty.com",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "KLA Corporation",
+      "ticker": "KLAC",
+      "exchange": "NASDAQ",
+      "website": "https://www.kla.com",
+      "title_or_role": "Director",
+      "start_date": "2006",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "JDS Uniphase Corporation",
+      "ticker": "JDSU",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "CEO and Director",
+      "start_date": "2003",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Rambus Inc.",
+      "ticker": "RMBS",
+      "exchange": "NASDAQ",
+      "website": "https://www.rambus.com",
+      "title_or_role": "Chairman and Director",
+      "start_date": "2005",
+      "end_date": "2008",
+      "validated": true
+    },
+    {
+      "name": "Quanergy Systems, Inc.",
+      "ticker": "QNGY",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "CEO and Director",
+      "start_date": "2020",
+      "end_date": "2022",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kevin-kennedy-7b767824",
+      "person_name": "Kevin Kennedy",
+      "company_name": "Digital Realty Trust, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

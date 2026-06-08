@@ -1,0 +1,53 @@
+{
+  "id": "David Ransom",
+  "name": "David Ransom",
+  "background": "Dr. Ransom has over 45 years of experience in the mining industry as a geologist and consultant.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Perseus Mining Limited",
+      "ticker": "PRU",
+      "exchange": "ASX / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Director",
+      "startDate": "2019",
+      "endDate": "2024",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Investigator Resources Limited",
+      "ticker": "IVR",
+      "exchange": "ASX",
+      "website": "https://investres.com.au",
+      "logoUrl": "/companies-assets/IVR.ASX.svg",
+      "title": "Non-Executive Chairman",
+      "startDate": "2017",
+      "endDate": "2020",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Unity Mining Limited (formerly Bendigo Mining Limited)",
+      "ticker": "UML",
+      "exchange": "ASX",
+      "website": "N/A",
+      "logoUrl": "/companies-assets/UML.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2007",
+      "endDate": "2014",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2014"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Technical Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

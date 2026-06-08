@@ -1,0 +1,92 @@
+{
+  "name": "Stephen Luczo",
+  "first_name": "Stephen",
+  "last_name": "Luczo",
+  "age": 66,
+  "age_year": 2024,
+  "background": "Former Chairman and CEO of Seagate Technology.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Morgan Stanley",
+      "ticker": "MS",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "morganstanley.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Seagate Technology",
+      "ticker": "STX",
+      "exchange": "NASDAQ",
+      "website": "seagate.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2019",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "microsoft.com",
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "VMware, Inc.",
+      "ticker": "VMW",
+      "exchange": "NYSE",
+      "website": "vmware.com",
+      "title_or_role": "Director",
+      "start_date": "2007",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Veritas Technologies",
+      "ticker": "VRT",
+      "exchange": "NASDAQ",
+      "website": "veritas.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "AT&T Inc.",
+      "ticker": "T",
+      "exchange": "NYSE",
+      "website": "att.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": "2023",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/stephen-luczo-4a5b2a1",
+      "person_name": "Stephen Luczo",
+      "company_name": "Seagate Technology",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Operations and Technology Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "Stephen Cohen",
+  "name": "Stephen Cohen",
+  "background": "Mr. Cohen is one of our co-founders and has served as our President since 2020 and as a member of our Board since 2003. He previously served as our Secretary from 2003 to 2020. Mr. Cohen holds a B.S. in Computer Science from Stanford University.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Palantir Technologies Inc.",
+      "ticker": "PLTR",
+      "exchange": "NYSE",
+      "website": "https://www.palantir.com",
+      "logoUrl": "/companies-assets/PLTR.NYSE.svg",
+      "title": "Co-Founder, President, Secretary, and Director",
+      "startDate": "2003",
+      "endDate": null,
+      "formattedStartDate": "2003",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/stephen-cohen-5520563?authType=NAME_SEARCH&authToken=SMNl&locale=en_US&srchid=116663941481157781440&srchindex=1&srchtotal=1321&trkInfo=VSRPsearchId:116663941481157781440,VSRPtargetId:9072782,VSRPcmpt:primary,VSRPnm:true,authType:NAME_SEARCH",
+      "person_name": "Stephen Cohen",
+      "company_name": "Palantir Technologies Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 41,
+  "ageYear": 2024
+}

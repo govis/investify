@@ -1,0 +1,62 @@
+{
+  "id": "Karin Hoeing",
+  "name": "Karin Hoeing",
+  "background": "Karin joined BAE Systems in 2018 as Group Human Resources Director. She previously worked at Schlumberger for over 20 years in various international roles.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "BAE Systems plc",
+      "ticker": "BA.",
+      "exchange": "London Stock Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Group ESG, Culture & Business Transformation Director",
+      "startDate": "2018-02-01",
+      "endDate": null,
+      "formattedStartDate": "February 2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Smiths Group plc",
+      "ticker": "SMIN",
+      "exchange": "London Stock Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Non-Executive Director",
+      "startDate": "2020-04-02",
+      "endDate": "2025-11-19",
+      "formattedStartDate": "April 2020",
+      "formattedEndDate": "November 2025"
+    },
+    {
+      "name": "SLB Ltd.",
+      "ticker": "SLB",
+      "exchange": "NYSE",
+      "website": "https://www.slb.com",
+      "logoUrl": "/companies-assets/SLB.NYSE.svg",
+      "title": "President, Wireline Division",
+      "startDate": "1996-01-01",
+      "endDate": "2018-02-01",
+      "formattedStartDate": "January 1996",
+      "formattedEndDate": "February 2018"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/karin-hoeing-cosentino",
+      "person_name": "Karin Hoeing",
+      "company_name": "BAE Systems plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 54,
+  "ageYear": 2024
+}

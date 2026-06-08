@@ -1,0 +1,88 @@
+{
+  "id": "Gerald Held",
+  "name": "Gerald Held",
+  "background": "Gerald Held has been a member of our Board since December 2009. He is the Chief Executive Officer of Held Consulting Group, LLC.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NetApp, Inc.",
+      "ticker": "NTAP",
+      "exchange": "NASDAQ",
+      "website": "https://www.netapp.com",
+      "logoUrl": "/companies-assets/NTAP.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "December 2009",
+      "endDate": null,
+      "formattedStartDate": "December 2009",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Informatica Inc.",
+      "ticker": "INFA",
+      "exchange": "NYSE",
+      "website": "https://www.informatica.com",
+      "logoUrl": "/companies-assets/INFA.NYSE.svg",
+      "title": "Director",
+      "startDate": "Unknown",
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Business Objects S.A.",
+      "ticker": "BOBJ",
+      "exchange": "NASDAQ",
+      "website": "www.sap.com",
+      "logoUrl": "/companies-assets/BOBJ.NASDAQ.svg",
+      "title": "Lead Independent Director",
+      "startDate": "Unknown",
+      "endDate": "2008",
+      "formattedStartDate": "",
+      "formattedEndDate": "2008"
+    },
+    {
+      "name": "Great Elm Group, Inc.",
+      "ticker": "GEG",
+      "exchange": "NASDAQ",
+      "website": "www.greatelmgroup.com",
+      "logoUrl": "/companies-assets/GEG.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "Unknown",
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Openwave Systems Inc.",
+      "ticker": "OPWV",
+      "exchange": "NASDAQ",
+      "website": "N/A",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Openwave_logo.svg/1200px-Openwave_logo.svg.png",
+      "title": "Director",
+      "startDate": "1993",
+      "endDate": null,
+      "formattedStartDate": "1993",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jerry-held",
+      "person_name": "Gerald Held",
+      "company_name": "Held Consulting Group, LLC",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 76,
+  "ageYear": 2024
+}

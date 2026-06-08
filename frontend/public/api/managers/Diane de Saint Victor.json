@@ -1,0 +1,100 @@
+{
+  "id": "Diane de Saint Victor",
+  "name": "Diane de Saint Victor",
+  "background": "Diane de Saint Victor was the General Counsel and Company Secretary of ABB. She has extensive experience in legal, compliance, and corporate governance.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "A.P. Møller - Mærsk A/S",
+      "ticker": "MAERSK-B",
+      "exchange": "CPH/STO",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Member",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Transocean Ltd.",
+      "ticker": "RIG",
+      "exchange": "NYSE",
+      "website": "https://www.deepwater.com",
+      "logoUrl": "/companies-assets/RIG.NYSE.png",
+      "title": "Non-Executive Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "WNS (Holdings) Limited",
+      "ticker": "WNS",
+      "exchange": "NYSE",
+      "website": "https://www.wns.com",
+      "logoUrl": "/companies-assets/WNS.NYSE.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Imperial Brands PLC",
+      "ticker": "IMB",
+      "exchange": "LSE",
+      "website": "https://www.imperialbrandsplc.com",
+      "logoUrl": "https://www.imperialbrandsplc.com/content/dam/imperial-brands/corporate/logos/Imperial_Brands_Logo.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2021-11-15",
+      "endDate": "2025-01-29",
+      "formattedStartDate": "November 2021",
+      "formattedEndDate": "January 2025"
+    },
+    {
+      "name": "ABB Ltd",
+      "ticker": "ABB",
+      "exchange": "NYSE/SIX",
+      "website": null,
+      "logoUrl": null,
+      "title": "General Counsel and Company Secretary",
+      "startDate": "2007",
+      "endDate": "2020",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Barclays PLC",
+      "ticker": "BCS",
+      "exchange": "NYSE/LSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ch.linkedin.com/in/dianedesaintvictor/fr",
+      "person_name": "Diane de Saint Victor",
+      "company_name": "ABB",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Member of the Audit Committee"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

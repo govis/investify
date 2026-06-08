@@ -1,0 +1,75 @@
+{
+  "id": "Rahul Ghai",
+  "name": "Rahul Ghai",
+  "background": "Mr. Ghai has served as Senior Vice President and CFO of GE since September 2023, and CFO of GE Aerospace since August 2022. He previously served as CFO of Otis Worldwide Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "General Electric Company",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "website": "https://www.geaerospace.com",
+      "logoUrl": "/companies-assets/GE.NYSE.svg",
+      "title": "Senior Vice President and Chief Financial Officer",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "GE Aerospace",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "website": "https://www.geaerospace.com",
+      "logoUrl": "/companies-assets/GE.NYSE.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "August 2022",
+      "endDate": null,
+      "formattedStartDate": "August 2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Otis Worldwide Corporation",
+      "ticker": "OTIS",
+      "exchange": "NYSE",
+      "website": "https://www.otis.com",
+      "logoUrl": "/companies-assets/OTIS.NYSE.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "September 2019",
+      "endDate": "August 2022",
+      "formattedStartDate": "September 2019",
+      "formattedEndDate": "August 2022"
+    },
+    {
+      "name": "Harris Corporation",
+      "ticker": "LHX",
+      "exchange": "NYSE",
+      "website": "https://www.l3harris.com",
+      "logoUrl": "/companies-assets/LHX.NYSE.svg",
+      "title": "Senior Vice President and Chief Financial Officer",
+      "startDate": "February 2017",
+      "endDate": "September 2019",
+      "formattedStartDate": "February 2017",
+      "formattedEndDate": "September 2019"
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rahul-ghai-30b2604",
+      "person_name": "Rahul Ghai",
+      "company_name": "GE Aerospace",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 52,
+  "ageYear": 2024
+}

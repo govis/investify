@@ -1,0 +1,74 @@
+{
+  "id": "Jeffrey Quartermaine",
+  "name": "Jeffrey Quartermaine",
+  "background": "Mr. Quartermaine has more than 30 years of experience in senior financial and strategic management roles with ASX and TSX-listed resources companies. He has been central to the development of Perseus Mining into a multi-mine gold producer.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Perseus Mining Limited",
+      "ticker": "PRU",
+      "exchange": "ASX",
+      "website": "https://perseusmining.com/",
+      "logoUrl": "/companies-assets/PRU.ASX.svg",
+      "title": "Managing Director & CEO",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Valor Resources Ltd",
+      "ticker": "VAL",
+      "exchange": "ASX",
+      "website": "https://www.valorresources.com.au",
+      "logoUrl": "https://www.valorresources.com.au/wp-content/uploads/2021/05/Valor-Resources-Logo-1.png",
+      "title": "Chief Financial Officer & Executive Director",
+      "startDate": "Unknown",
+      "endDate": "Unknown",
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Tri Origin Minerals Ltd",
+      "ticker": "TRO",
+      "exchange": "ASX",
+      "website": null,
+      "logoUrl": "https://www.bloomberg.com/markets/api/company/logo/TRO:AU",
+      "title": "Chief Financial Officer & Company Secretary",
+      "startDate": "2008",
+      "endDate": "Unknown",
+      "formattedStartDate": "2008",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Amara Mining Ltd",
+      "ticker": "AMA",
+      "exchange": "LSE (AIM)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "Unknown",
+      "endDate": "2016",
+      "formattedStartDate": "",
+      "formattedEndDate": "2016"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/jeffrey-quartermaine-470b103aa",
+      "person_name": "Jeffrey Quartermaine",
+      "company_name": "Perseus Mining Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 68,
+  "ageYear": 2024
+}

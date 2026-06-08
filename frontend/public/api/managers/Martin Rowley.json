@@ -1,0 +1,88 @@
+{
+  "id": "Martin Rowley",
+  "name": "Martin Rowley",
+  "background": "Mr. Rowley was a co-founder of First Quantum Minerals Ltd. and served as its Executive Director until 2017. He is currently the Chairman of Forsys Metals Corp. and has extensive experience in the mining industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "First Quantum Minerals Ltd.",
+      "ticker": "FM",
+      "exchange": "TSX",
+      "website": "https://first-quantum.com",
+      "logoUrl": "/companies-assets/FM.TSX.svg",
+      "title": "Co-founder, Chief Financial Officer, Director, Executive Director (Business Development)",
+      "startDate": "1996",
+      "endDate": "2017-06-30",
+      "formattedStartDate": "1996",
+      "formattedEndDate": "June 2017"
+    },
+    {
+      "name": "Allkem Limited",
+      "ticker": "AKE",
+      "exchange": "ASX",
+      "website": "https://www.allkem.co",
+      "logoUrl": "/companies-assets/AKE.ASX.svg",
+      "title": "Chairman",
+      "startDate": null,
+      "endDate": "2022-11",
+      "formattedStartDate": "",
+      "formattedEndDate": "November 2022"
+    },
+    {
+      "name": "Galaxy Resources Ltd.",
+      "ticker": "GXY",
+      "exchange": "ASX",
+      "website": "https://www.gxy.com",
+      "logoUrl": "/companies-assets/GXY.ASX.svg",
+      "title": "Chairman",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Lithium One Inc.",
+      "ticker": "LI",
+      "exchange": "TSXV",
+      "website": "https://www.lithium1.com",
+      "logoUrl": "/companies-assets/LI.TSXV.svg",
+      "title": "Chairman",
+      "startDate": "2009",
+      "endDate": null,
+      "formattedStartDate": "2009",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Atlas Lithium Corporation",
+      "ticker": "ATLX",
+      "exchange": "NASDAQ",
+      "website": "https://www.atlas-lithium.com",
+      "logoUrl": "/companies-assets/ATLX.NASDAQ.webp",
+      "title": "Lead Strategic Advisor",
+      "startDate": "2023-09",
+      "endDate": null,
+      "formattedStartDate": "September 2023",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/martin-rowley",
+      "person_name": "Martin Rowley",
+      "company_name": "Forsys Metals Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

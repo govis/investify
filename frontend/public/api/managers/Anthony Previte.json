@@ -1,0 +1,62 @@
+{
+  "id": "Anthony Previte",
+  "name": "Anthony Previte",
+  "background": "Co-Founder of Terran Orbital and former CEO of Tyvak Nano-Satellite Systems. He has extensive experience in satellite manufacturing and operations.",
+  "pictureUrl": "/managers-assets/Anthony Previte.jpg",
+  "companies": [
+    {
+      "name": "Terran Orbital Corporation",
+      "ticker": "LLAP",
+      "exchange": "NYSE",
+      "website": "https://terranorbital.com",
+      "logoUrl": "/companies-assets/LLAP.NYSE.svg",
+      "title": "Co-Founder, Chief Strategy Officer, Executive Vice President (Director)",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "FriendFinder Networks Inc.",
+      "ticker": "FFN",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "https://www.friendfinder.com/images/ff_logo.png",
+      "title": "President and Chief Executive Officer",
+      "startDate": "2012",
+      "endDate": "2013",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Globix Corporation",
+      "ticker": "GBIX / GEX",
+      "exchange": "NASDAQ / AMEX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Technology Officer & Chief Operating Officer",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/anthony-previte-7366095",
+      "person_name": "Anthony Previte",
+      "company_name": "Terran Orbital Corporation",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

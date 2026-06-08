@@ -1,0 +1,42 @@
+{
+  "id": "Claire Kennedy",
+  "name": "Claire Kennedy",
+  "background": "Ms. Kennedy is Senior Advisor, Clients and Industries at Bennett Jones LLP and is a professional engineer.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Constellation Software Inc.",
+      "ticker": "CSU",
+      "exchange": "TSX",
+      "website": "https://www.csisoftware.com",
+      "logoUrl": "/companies-assets/CSU.TSX.svg",
+      "title": "Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Neo Performance Materials Inc.",
+      "ticker": "NEO",
+      "exchange": "TSX",
+      "website": "https://www.neomaterials.com",
+      "logoUrl": "/companies-assets/NEO.TSX.png",
+      "title": "Director / Chair of the Board",
+      "startDate": "2017",
+      "endDate": "2025",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2025"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee",
+    "Human Resources and Compensation Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

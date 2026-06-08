@@ -1,0 +1,51 @@
+{
+  "id": "Anshul Sadana",
+  "name": "Anshul Sadana",
+  "background": "Anshul Sadana has served as our Chief Operating Officer since May 2019. Previously, he served as our Senior Vice President, Customer Engineering from January 2016 to May 2019. Mr. Sadana joined Arista in 2007 and has held various leadership roles in engineering and customer advocacy. Prior to Arista, he held engineering positions at Cisco Systems and Nortel Networks. Mr. Sadana holds a B.E. in Electronics and Communication from the University of Delhi and an M.S. in Computer Science from the University of Illinois at Chicago.",
+  "pictureUrl": "/managers-assets/Anshul Sadana.jpg",
+  "companies": [
+    {
+      "name": "Arista Networks, Inc.",
+      "ticker": "ANET",
+      "exchange": "NASDAQ",
+      "website": "https://www.arista.com",
+      "logoUrl": "/companies-assets/ANET.NASDAQ.png",
+      "title": "Chief Operating Officer",
+      "startDate": "2007",
+      "endDate": "2024-05-21",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "May 2024"
+    },
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "website": "https://www.cisco.com",
+      "logoUrl": "/companies-assets/CSCO.NASDAQ.svg",
+      "title": "Manager-Senior Engineering",
+      "startDate": null,
+      "endDate": "2007",
+      "formattedStartDate": "",
+      "formattedEndDate": "2007"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/anshulsadana/",
+      "person_name": "Anshul Sadana",
+      "company_name": "Arista Networks",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
+  "committees": [],
+  "age": 47,
+  "ageYear": 2024
+}

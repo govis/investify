@@ -1,0 +1,50 @@
+{
+  "id": "Marc-Antoine Audet",
+  "name": "Marc-Antoine Audet",
+  "background": "Mr. Audet has over 15 years of experience in finance and the mining industry. He previously served as Vice President, Corporate Development and Investor Relations at G Mining Ventures. He holds a Bachelor of Commerce from HEC Montréal and is a CFA charterholder.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "G Mining Ventures Corp.",
+      "ticker": "GMIN",
+      "exchange": "TSX",
+      "website": "https://www.gminingventures.com",
+      "logoUrl": "/companies-assets/GMIN.TSX.svg",
+      "title": "Director",
+      "startDate": "Not specified",
+      "endDate": null,
+      "formattedStartDate": "Not specified",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sama Resources Inc.",
+      "ticker": "SME",
+      "exchange": "TSXV",
+      "website": "https://samaresources.com/",
+      "logoUrl": "/companies-assets/SME.TSXV.png",
+      "title": "President & CEO",
+      "startDate": "Not specified",
+      "endDate": null,
+      "formattedStartDate": "Not specified",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/marc-antoine-audet-78990241",
+      "person_name": "Marc-Antoine Audet",
+      "company_name": "Sama Resources Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 39,
+  "ageYear": 2024
+}

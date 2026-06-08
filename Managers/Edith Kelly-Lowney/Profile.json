@@ -1,0 +1,31 @@
+{
+  "name": "Edith Kelly-Lowney",
+  "first_name": "Edith",
+  "last_name": "Kelly-Lowney",
+  "age": 72,
+  "age_year": 2024,
+  "background": "Former Senior Vice President and Chief Financial Officer of Dial Corporation. Extensive experience in finance and accounting.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Entergy Corporation",
+      "ticker": "ETR",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.entergy.com",
+      "start_date": "2015-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Personnel"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

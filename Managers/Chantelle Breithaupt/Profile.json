@@ -1,0 +1,60 @@
+{
+  "name": "Chantelle Breithaupt",
+  "first_name": "Chantelle",
+  "last_name": "Breithaupt",
+  "age": 53,
+  "age_year": 2024,
+  "background": "Chantelle Breithaupt has served as our Chief Financial Officer since February 2024. Prior to joining Arista, Ms. Breithaupt served as Senior Vice President and Chief Financial Officer of Aspen Technology, Inc. from 2021 to 2023. Previously, she held various senior finance roles at Cisco Systems, Inc. and General Electric Company. Ms. Breithaupt holds a B.A. in Economics and Business from Wilfrid Laurier University.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Arista Networks, Inc.",
+      "ticker": "ANET",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chief Financial Officer & Senior Vice President",
+      "website": "https://www.arista.com",
+      "start_date": "January 2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Aspen Technology, Inc.",
+      "ticker": "AZPN",
+      "exchange": "NASDAQ",
+      "website": "https://www.aspentech.com",
+      "title_or_role": "Senior Vice President & Chief Financial Officer",
+      "start_date": "March 2021",
+      "end_date": "December 2023",
+      "validated": true
+    },
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "website": "https://www.cisco.com",
+      "title_or_role": "Vice President, Finance (Customer Experience Division)",
+      "start_date": "~2014",
+      "end_date": "~2021",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/chantelle-breithaupt",
+      "person_name": "Chantelle Breithaupt",
+      "company_name": "Arista Networks",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

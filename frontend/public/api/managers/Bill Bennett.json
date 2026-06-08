@@ -1,0 +1,40 @@
+{
+  "id": "Bill Bennett",
+  "name": "Bill Bennett",
+  "background": "Mr. Bennett is a former British Columbia Cabinet Minister who served as Minister of Energy and Mines and Minister Responsible for Core Review. He has extensive experience in government relations and the mining industry in British Columbia.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "DLP Resources Inc.",
+      "ticker": "DLP",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman",
+      "startDate": "2025-11",
+      "endDate": null,
+      "formattedStartDate": "November 2025",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bill-bennett-mba",
+      "person_name": "Bill Bennett",
+      "company_name": "DLP Resources Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 73,
+  "ageYear": 2024
+}

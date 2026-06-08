@@ -1,0 +1,76 @@
+{
+  "id": "Tal Payne",
+  "name": "Tal Payne",
+  "background": "Ms. Payne has served as a director since 2015. She is the Chief Financial and Operations Officer of Check Point Software Technologies Ltd.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "SolarEdge Technologies, Inc.",
+      "ticker": "SEDG",
+      "exchange": "NASDAQ",
+      "website": "https://www.solaredge.com",
+      "logoUrl": "/companies-assets/SEDG.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2015-03",
+      "endDate": "2024-11-05",
+      "formattedStartDate": "March 2015",
+      "formattedEndDate": "November 2024"
+    },
+    {
+      "name": "Check Point Software Technologies Ltd.",
+      "ticker": "CHKP",
+      "exchange": "NASDAQ",
+      "website": "https://www.checkpoint.com",
+      "logoUrl": "/companies-assets/CHKP.NASDAQ.svg",
+      "title": "Chief Financial Officer (CFO) and Chief Operating Officer (COO)",
+      "startDate": "2008",
+      "endDate": "2022",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "ironSource Ltd.",
+      "ticker": "IS",
+      "exchange": "NYSE",
+      "website": "https://www.is.com/",
+      "logoUrl": "/companies-assets/IS.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2021-02",
+      "endDate": "2022-11",
+      "formattedStartDate": "February 2021",
+      "formattedEndDate": "November 2022"
+    },
+    {
+      "name": "Gilat Satellite Networks Ltd.",
+      "ticker": "GILT",
+      "exchange": "NASDAQ",
+      "website": "https://www.gilat.com",
+      "logoUrl": "/companies-assets/GILT.NASDAQ.svg",
+      "title": "Chief Financial Officer (CFO)",
+      "startDate": "2003",
+      "endDate": "2008",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2008"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://il.linkedin.com/in/tal-payne-83241054",
+      "person_name": "Tal Payne",
+      "company_name": "Check Point Software Technologies Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 52,
+  "ageYear": 2024
+}

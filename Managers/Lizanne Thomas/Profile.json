@@ -1,0 +1,83 @@
+{
+  "name": "Lizanne Thomas",
+  "first_name": "Lizanne",
+  "last_name": "Thomas",
+  "age": 66,
+  "age_year": 2024,
+  "background": "Former Partner-in-Charge of the Southern U.S. Region of the law firm Jones Day.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "The Southern Company",
+      "ticker": "SO",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "southerncompany.com",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Atlantic Capital Bancshares, Inc.",
+      "ticker": "ACBI",
+      "exchange": "NASDAQ",
+      "website": "atlanticcapitalbank.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "American Software, Inc.",
+      "ticker": "AMSWA",
+      "exchange": "NASDAQ",
+      "website": "logility.com",
+      "title_or_role": "Director",
+      "start_date": "2007",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen, Inc.",
+      "ticker": "PLKI",
+      "exchange": "NASDAQ",
+      "website": "popeyes.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Krispy Kreme Doughnuts, Inc.",
+      "ticker": "KKD",
+      "exchange": "NYSE",
+      "website": "krispykreme.com",
+      "title_or_role": "Director",
+      "start_date": "2004",
+      "end_date": "2007",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/lizanne-thomas-49272b4",
+      "person_name": "Lizanne Thomas",
+      "company_name": "Jones Day",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation and Management Succession",
+    "Governance"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

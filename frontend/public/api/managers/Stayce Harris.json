@@ -1,0 +1,65 @@
+{
+  "id": "Stayce Harris",
+  "name": "Stayce Harris",
+  "background": "Retired Lieutenant General of the U.S. Air Force. Former Inspector General of the Air Force.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "BlackRock Health Sciences Trust",
+      "ticker": "BME",
+      "exchange": "NYSE",
+      "website": "blackrock.com",
+      "logoUrl": "/companies-assets/BME.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "BlackRock Capital Allocation Term Trust",
+      "ticker": "BCAT",
+      "exchange": "NYSE",
+      "website": "blackrock.com",
+      "logoUrl": "/companies-assets/BCAT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "BlackRock MuniYield California Fund, Inc.",
+      "ticker": "MYC",
+      "exchange": "NYSE",
+      "website": "blackrock.com",
+      "logoUrl": "/companies-assets/MYC.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/stayce-harris",
+      "person_name": "Stayce Harris",
+      "company_name": "The Boeing Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Aerospace Safety",
+    "Governance & Public Policy"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

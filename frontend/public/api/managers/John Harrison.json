@@ -1,0 +1,41 @@
+{
+  "id": "John Harrison",
+  "name": "John Harrison",
+  "background": "Mr. Harrison has over 45 years of experience in the financial services, mining, and energy sectors. He was previously a Managing Director at Woodside Energy and has held senior roles at various investment banks.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Peninsula Energy Limited",
+      "ticker": "PEN",
+      "exchange": "ASX",
+      "website": "https://www.pel.net.au",
+      "logoUrl": "/companies-assets/PEN.ASX.svg",
+      "title": "Non-Executive Director / Non-Executive Chairman",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/john-harrison-73b731182",
+      "person_name": "John Harrison",
+      "company_name": "Peninsula Energy Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/C5603AQGDM9Fa_7FX-Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517765785621?e=2147483647&v=beta&t=KQY2eowXSjWIwsAPGF2_SBQOxSPU-3gxZT_FJAK2KcY",
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Management Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "age": null,
+  "ageYear": null
+}

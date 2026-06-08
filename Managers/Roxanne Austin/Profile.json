@@ -1,0 +1,112 @@
+{
+  "name": "Roxanne Austin",
+  "first_name": "Roxanne",
+  "last_name": "Austin",
+  "age": 63,
+  "age_year": 2024,
+  "background": "President and CEO of Austin Investment Advisors. Former President and COO of DIRECTV.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "CrowdStrike Holdings, Inc.",
+      "ticker": "CRWD",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.crowdstrike.com",
+      "start_date": "2018-07-01",
+      "end_date": null
+    },
+    {
+      "name": "Target Corporation",
+      "ticker": "TGT",
+      "exchange": "NYSE",
+      "website": "https://www.target.com",
+      "title_or_role": "Director",
+      "start_date": "2002",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Teledyne Technologies Incorporated",
+      "ticker": "TDY",
+      "exchange": "NYSE",
+      "website": "https://www.teledyne.com",
+      "title_or_role": "Director",
+      "start_date": "2006",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Ericsson",
+      "ticker": "ERIC",
+      "exchange": "NASDAQ",
+      "website": "https://www.ericsson.com",
+      "title_or_role": "Director",
+      "start_date": "2008",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Abbott Laboratories",
+      "ticker": "ABT",
+      "exchange": "NYSE",
+      "website": "https://www.abbott.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "AbbVie Inc.",
+      "ticker": "ABBV",
+      "exchange": "NYSE",
+      "website": "https://www.abbvie.com",
+      "title_or_role": "Lead Independent Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Freshworks Inc.",
+      "ticker": "FRSH",
+      "exchange": "NASDAQ",
+      "website": "https://www.freshworks.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Verizon Communications Inc.",
+      "ticker": "VZ",
+      "exchange": "NYSE",
+      "website": "https://www.verizon.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/roxanne-austin-634604104",
+      "person_name": "Roxanne Austin",
+      "company_name": "Austin Investment Advisors",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

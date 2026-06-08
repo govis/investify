@@ -1,0 +1,40 @@
+{
+  "id": "Charles Gray",
+  "name": "Charles Gray",
+  "background": "Charles J. Gray has been Vice President and President of the Semiconductor Test Division since 2020. He joined Teradyne in 1993 and has held various management positions in engineering and marketing.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Teradyne, Inc.",
+      "ticker": "TER",
+      "exchange": "NASDAQ",
+      "website": "https://www.teradyne.com",
+      "logoUrl": "/companies-assets/TER.NASDAQ.svg",
+      "title": "Vice President, General Counsel, and Secretary",
+      "startDate": "Not publicly specified",
+      "endDate": null,
+      "formattedStartDate": "Not publicly specified",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Amphenol Corporation",
+      "ticker": "APH",
+      "exchange": "NYSE",
+      "website": "https://www.amphenol.com",
+      "logoUrl": "/companies-assets/APH.NYSE.png",
+      "title": "Held leadership roles following Amphenol's acquisition of Teradyne’s Connection Systems Division",
+      "startDate": "Not publicly specified",
+      "endDate": "Not publicly specified",
+      "formattedStartDate": "Not publicly specified",
+      "formattedEndDate": "Not publicly specified"
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 59,
+  "ageYear": 2024
+}

@@ -1,0 +1,66 @@
+{
+  "id": "Linda Mills",
+  "name": "Linda Mills",
+  "background": "Ms. Mills previously served as Corporate Vice President of Operations for Northrop Grumman Corporation. She has significant experience in large-scale systems integration and operations.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Mercury Systems, Inc.",
+      "ticker": "MRCY",
+      "exchange": "NASDAQ",
+      "website": "https://www.mrcy.com",
+      "logoUrl": "/companies-assets/MRCY.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "website": "https://www.northropgrumman.com",
+      "logoUrl": "/companies-assets/NOC.NYSE.svg",
+      "title": "Corporate Vice President",
+      "startDate": "Unknown",
+      "endDate": "2014",
+      "formattedStartDate": "",
+      "formattedEndDate": "2014"
+    },
+    {
+      "name": "Navient Corporation",
+      "ticker": "NAVI",
+      "exchange": "NASDAQ",
+      "website": "navient.com",
+      "logoUrl": "/companies-assets/NAVI.NASDAQ.svg",
+      "title": "Director / Chair",
+      "startDate": "2014",
+      "endDate": "2024",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "American International Group, Inc. (AIG)",
+      "ticker": "AIG",
+      "exchange": "NYSE",
+      "website": "https://aig.com",
+      "logoUrl": "/companies-assets/AIG.NYSE.png",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": "2023",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2023"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Governance Committee"
+  ],
+  "age": 73,
+  "ageYear": 2023
+}

@@ -1,0 +1,42 @@
+{
+  "id": "Joseph Rigby",
+  "name": "Joseph Rigby",
+  "background": "Retired Chairman, President and Chief Executive Officer of Pepco Holdings, Inc. Director since 2017.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Pepco Holdings, Inc.",
+      "ticker": "POM",
+      "exchange": "NYSE",
+      "website": "https://www.pepco.com",
+      "logoUrl": "/companies-assets/POM.NYSE.svg",
+      "title": "Chairman, President and Chief Executive Officer",
+      "startDate": "2009-05",
+      "endDate": "2016-03",
+      "formattedStartDate": "May 2009",
+      "formattedEndDate": "March 2016"
+    },
+    {
+      "name": "South Jersey Industries, Inc.",
+      "ticker": "SJI",
+      "exchange": "NYSE",
+      "website": "https://www.sjindustries.com",
+      "logoUrl": "/companies-assets/SJI.NYSE.png",
+      "title": "Director and Non-Executive Chairman",
+      "startDate": "2016-05",
+      "endDate": "2025-02",
+      "formattedStartDate": "May 2016",
+      "formattedEndDate": "February 2025"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Finance and Risk Committee"
+  ],
+  "age": 67,
+  "ageYear": 2024
+}

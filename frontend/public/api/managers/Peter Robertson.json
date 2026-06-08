@@ -1,0 +1,43 @@
+{
+  "id": "Peter Robertson",
+  "name": "Peter Robertson",
+  "background": "Mr. Robertson has served as a Director since 2009. He is the former Vice Chairman of the Board of Chevron Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Jacobs Solutions Inc.",
+      "ticker": "J",
+      "exchange": "NYSE",
+      "website": "https://www.jacobs.com",
+      "logoUrl": "/companies-assets/J.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "2012",
+      "endDate": null,
+      "formattedStartDate": "2012",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Chevron Corporation",
+      "ticker": "CVX",
+      "exchange": "NYSE",
+      "website": "https://www.chevron.com",
+      "logoUrl": "/companies-assets/CVX.NYSE.svg",
+      "title": "Vice Chairman of the Board of Directors",
+      "startDate": "1973",
+      "endDate": "2009",
+      "formattedStartDate": "1973",
+      "formattedEndDate": "2009"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Human Resource and Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 77,
+  "ageYear": 2024
+}

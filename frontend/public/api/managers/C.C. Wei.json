@@ -1,0 +1,28 @@
+{
+  "id": "C.C. Wei",
+  "name": "C.C. Wei",
+  "background": "Dr. C.C. Wei is the Chairman and Chief Executive Officer of TSMC. Prior to becoming Chairman in June 2024, he served as CEO since 2018 and President and Co-CEO from 2013 to 2018. He joined TSMC in 1998 and has held various senior positions in operations and R&D. He holds a Ph.D. in electrical engineering from Yale University.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Taiwan Semiconductor Manufacturing Company Limited",
+      "ticker": "TSM",
+      "exchange": "NYSE",
+      "website": "https://www.tsmc.com",
+      "logoUrl": "/companies-assets/TSM.NYSE.svg",
+      "title": "Chairman and Chief Executive Officer",
+      "startDate": "June 2018",
+      "endDate": null,
+      "formattedStartDate": "June 2018",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 71,
+  "ageYear": 2024
+}

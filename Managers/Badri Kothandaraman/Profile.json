@@ -1,0 +1,51 @@
+{
+  "name": "Badri Kothandaraman",
+  "first_name": "Badri",
+  "last_name": "Kothandaraman",
+  "age": 52,
+  "age_year": 2024,
+  "background": "Badri Kothandaraman joined Enphase in April 2017 as Chief Operating Officer and was appointed President and Chief Executive Officer in September 2017. Prior to joining Enphase, he served in various capacities at Cypress Semiconductor for 21 years, including Executive Vice President of the Data Communications Division.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Enphase Energy, Inc.",
+      "ticker": "ENPH",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director, President and Chief Executive Officer",
+      "website": "https://enphase.com",
+      "start_date": "2017-09-01",
+      "end_date": null
+    },
+    {
+      "name": "Cypress Semiconductor Corporation",
+      "ticker": "CY",
+      "exchange": "NASDAQ",
+      "website": "www.cypress.com",
+      "title_or_role": "Executive Vice President",
+      "start_date": "1995",
+      "end_date": "2017",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/badrinarayanan-kothandaraman",
+      "person_name": "Badrinarayanan Kothandaraman",
+      "company_name": "Enphase Energy",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 1
+}

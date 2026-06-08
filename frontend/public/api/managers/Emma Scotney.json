@@ -1,0 +1,64 @@
+{
+  "id": "Emma Scotney",
+  "name": "Emma Scotney",
+  "background": "Ms. Scotney is a lawyer and strategic business advisor with over 25 years' experience in the resources, agricultural, and property sectors.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "De Grey Mining Limited",
+      "ticker": "DEG",
+      "exchange": "ASX",
+      "website": "https://degreymining.com.au",
+      "logoUrl": "/companies-assets/DEG.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "January 2023",
+      "endDate": null,
+      "formattedStartDate": "January 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Minerals 260 Limited",
+      "ticker": "MI6",
+      "exchange": "ASX",
+      "website": "https://minerals260.com.au/",
+      "logoUrl": "/companies-assets/MI6.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "October 2021",
+      "endDate": null,
+      "formattedStartDate": "October 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Santana Minerals Limited",
+      "ticker": "SMI",
+      "exchange": "ASX",
+      "website": "https://santanaminerals.com/",
+      "logoUrl": "/companies-assets/SMI.ASX.webp",
+      "title": "Non-Executive Director",
+      "startDate": "May 2023",
+      "endDate": null,
+      "formattedStartDate": "May 2023",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/emmascotney",
+      "person_name": "Emma Scotney",
+      "company_name": "De Grey Mining Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee"
+  ],
+  "age": null,
+  "ageYear": null
+}

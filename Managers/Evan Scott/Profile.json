@@ -1,0 +1,40 @@
+{
+  "name": "Evan Scott",
+  "first_name": "Evan",
+  "last_name": "Scott",
+  "age": 54,
+  "age_year": 2024,
+  "background": "Mr. Scott has served as Senior Vice President, General Counsel and Corporate Secretary since 2023.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lockheed Martin Corporation",
+      "ticker": "LMT",
+      "exchange": "NYSE",
+      "title_or_role": "Vice President and CFO of Lockheed Martin Space; Vice President and Treasurer; Vice President and CFO of Missiles and Fire Control",
+      "website": "https://www.lockheedmartin.com",
+      "start_date": "June 1999",
+      "end_date": "April 2025",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/evan-scott-lockheed-martin",
+      "person_name": "Evan Scott",
+      "company_name": "Lockheed Martin Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

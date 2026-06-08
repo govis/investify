@@ -1,0 +1,41 @@
+{
+  "id": "Henry Ford III",
+  "name": "Henry Ford III",
+  "background": "Former Director, Investor Relations, Ford Motor Company. Son of Edsel B. Ford II.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "website": "https://www.ford.com",
+      "logoUrl": "/companies-assets/F.NYSE.svg",
+      "title": "Director (Member of the Board of Directors)",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/henry-ford-iii-85450250",
+      "person_name": "Henry Ford III",
+      "company_name": "Ford Motor Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Sustainability, Innovation and Policy Committee"
+  ],
+  "age": 43,
+  "ageYear": 2024
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Charles Woodburn",
+  "first_name": "Charles",
+  "last_name": "Woodburn",
+  "age": 53,
+  "age_year": 2024,
+  "background": "Charles joined BAE Systems in 2017 as Chief Operating Officer and was appointed Chief Executive later that year. He previously held senior roles at Schlumberger and Expro Group.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "BAE Systems plc",
+      "ticker": "BA.L",
+      "exchange": "LSE",
+      "title_or_role": "Chief Executive Officer",
+      "website": "https://www.baesystems.com",
+      "start_date": "July 2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Expro Group Holdings N.V.",
+      "ticker": "XPRO",
+      "exchange": "NYSE",
+      "website": "https://www.expro.com",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "September 2010",
+      "end_date": "2016",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/charles-woodburn-7a5b5a1b",
+      "person_name": "Charles Woodburn",
+      "company_name": "BAE Systems plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

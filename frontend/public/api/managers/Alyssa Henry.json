@@ -1,0 +1,90 @@
+{
+  "id": "Alyssa Henry",
+  "name": "Alyssa Henry",
+  "background": "Alyssa Henry has been a director since 2020. She was previously CEO of Square (now Block, Inc.) and held leadership roles at Amazon Web Services and Microsoft.",
+  "pictureUrl": "/managers-assets/Alyssa Henry.jpg",
+  "companies": [
+    {
+      "name": "PayPal Holdings, Inc.",
+      "ticker": "PYPL",
+      "exchange": "NASDAQ",
+      "website": "https://www.paypal.com",
+      "logoUrl": "/companies-assets/PYPL.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "March 2026",
+      "endDate": null,
+      "formattedStartDate": "March 2026",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Samsara Inc.",
+      "ticker": "IOT",
+      "exchange": "NYSE",
+      "website": "https://www.samsara.com",
+      "logoUrl": "/companies-assets/IOT.NYSE.svg",
+      "title": "Director",
+      "startDate": "August 2024",
+      "endDate": null,
+      "formattedStartDate": "August 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Block, Inc.",
+      "ticker": "SQ",
+      "exchange": "NYSE",
+      "website": "https://www.block.xyz",
+      "logoUrl": "/companies-assets/SQ.NYSE.png",
+      "title": "CEO of Square",
+      "startDate": "2014",
+      "endDate": "October 2, 2023",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "October 2, 2023"
+    },
+    {
+      "name": "Confluent, Inc.",
+      "ticker": "CFLT",
+      "exchange": "NASDAQ",
+      "website": "https://www.confluent.io",
+      "logoUrl": "/companies-assets/CFLT.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "May 2021",
+      "endDate": "2024",
+      "formattedStartDate": "May 2021",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Unity Software Inc.",
+      "ticker": "U",
+      "exchange": "NYSE",
+      "website": "https://unity.com",
+      "logoUrl": "/companies-assets/U.NYSE.svg",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": "November 30, 2022",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "November 30, 2022"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/alyssa-henry-0905692",
+      "person_name": "Alyssa Henry",
+      "company_name": "PayPal",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/C5603AQH3Yk6R-6QZ5A/profile-displayphoto-shrink_200_200/0/1628173428935?e=1752019200&v=beta&t=o1n4wYy7eF-7sO1v4aE8o05b0t9kZ8I0d6W2R0q8Q-I",
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
+  "committees": [
+    "Audit & Finance Committee"
+  ],
+  "age": 53,
+  "ageYear": 2024
+}

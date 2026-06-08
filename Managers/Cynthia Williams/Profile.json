@@ -1,0 +1,53 @@
+{
+  "name": "Cynthia Williams",
+  "first_name": "Cynthia",
+  "last_name": "Williams",
+  "age": 55,
+  "age_year": 2024,
+  "background": "Cynthia Williams joined the board in 2022. She currently serves as a senior executive at a leading technology firm and brings expertise in digital transformation and scaling operations.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Aterian, Inc.",
+      "ticker": "ATER",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://ir.aterian.io",
+      "start_date": "2022-04-01",
+      "end_date": "2024-07-01",
+      "validated": true
+    },
+    {
+      "name": "Funko, Inc.",
+      "ticker": "FNKO",
+      "exchange": "NASDAQ",
+      "website": "https://investor.funko.com",
+      "title_or_role": "Chief Executive Officer and Member of the Board of Directors",
+      "start_date": "2024-05-20",
+      "end_date": "2025-07-05",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/cynthia-williams-8a5a1a1",
+      "person_name": "Cynthia Williams",
+      "company_name": "Funko, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

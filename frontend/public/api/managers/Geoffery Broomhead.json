@@ -1,0 +1,55 @@
+{
+  "id": "Geoffery Broomhead",
+  "name": "Geoffery Broomhead",
+  "background": "Mr. Broomhead has over 30 years of experience in the financial services and investment industries. He has held senior positions in investment banking and has been involved in numerous capital markets transactions.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Ucore Rare Metals Inc.",
+      "ticker": "UCU",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "PharmX Technologies Limited",
+      "ticker": "PHX",
+      "exchange": "ASX",
+      "website": "https://pharmx.com.au/",
+      "logoUrl": "/companies-assets/PHX.ASX.svg",
+      "title": "Managing Director / CEO",
+      "startDate": "2009-09-01",
+      "endDate": null,
+      "formattedStartDate": "September 2009",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Hastings Rare Metals Ltd",
+      "ticker": "HAS",
+      "exchange": "ASX",
+      "website": "https://hastingstechnologymetals.com/",
+      "logoUrl": "https://hastingstechnologymetals.com/wp-content/uploads/2021/04/Hastings-Logo-2021.png",
+      "title": "Non-Executive Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

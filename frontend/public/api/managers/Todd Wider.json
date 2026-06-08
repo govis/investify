@@ -1,0 +1,56 @@
+{
+  "id": "Todd Wider",
+  "name": "Todd Wider",
+  "background": "Dr. Wider has served as a director since September 2021. He is a surgeon and an Emmy and Academy Award-winning documentary film producer.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "ASP Isotopes Inc.",
+      "ticker": "ASPI",
+      "exchange": "NASDAQ",
+      "website": "https://aspisotopes.com",
+      "logoUrl": "/companies-assets/ASPI.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Genenta Science S.p.A.",
+      "ticker": "GNTA",
+      "exchange": "NASDAQ",
+      "website": "https://www.genenta.com/",
+      "logoUrl": "/companies-assets/GNTA.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2024-05-02",
+      "endDate": null,
+      "formattedStartDate": "May 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Abeona Therapeutics Inc.",
+      "ticker": "ABEO",
+      "exchange": "NASDAQ",
+      "website": "https://www.abeonatherapeutics.com/",
+      "logoUrl": "/companies-assets/ABEO.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": "2022",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2022"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 59,
+  "ageYear": 2024
+}

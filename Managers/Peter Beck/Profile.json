@@ -1,0 +1,40 @@
+{
+  "name": "Peter Beck",
+  "first_name": "Peter",
+  "last_name": "Beck",
+  "age": 47,
+  "age_year": 2024,
+  "background": "Mr. Beck is the founder of Rocket Lab and has served as the President, Chief Executive Officer and Chairman of the Board of Directors since June 2013. Mr. Beck has also served as the Chief Engineer since January 2021. From 2013 to 2019, Mr. Beck also served as the Chief Financial Officer and Treasurer. Since founding the company in 2006, Mr. Beck has grown Rocket Lab into a global organization that develops and launches advanced rocket technology and space systems.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Rocket Lab USA, Inc.",
+      "ticker": "RKLB",
+      "exchange": "NASDAQ",
+      "title_or_role": "Founder, President, Chief Executive Officer, and Chairman of the Board",
+      "website": "https://www.rocketlabusa.com/",
+      "start_date": "July 2013",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/peter-beck-ab7b63b",
+      "person_name": "Peter Beck",
+      "company_name": "Rocket Lab",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

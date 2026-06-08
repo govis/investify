@@ -1,0 +1,62 @@
+{
+  "name": "David De Witt",
+  "first_name": "David",
+  "last_name": "De Witt",
+  "age": 71,
+  "age_year": 2024,
+  "background": "Chairman of Pathway Capital Ltd. and a director of several public companies.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Sandstorm Gold Ltd.",
+      "ticker": "SAND",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.sandstormgold.com",
+      "start_date": "2008-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Peru Copper, Inc.",
+      "ticker": "PCR",
+      "exchange": "TSX",
+      "website": "https://www.marketscreener.com",
+      "title_or_role": "Director & Vice President-Corporate Development",
+      "start_date": "2004",
+      "end_date": "2007",
+      "validated": true
+    },
+    {
+      "name": "Lowell Copper Inc.",
+      "ticker": "JDL",
+      "exchange": "TSXV",
+      "website": "https://www.lowellcopper.com",
+      "title_or_role": "Director & Corporate Secretary",
+      "start_date": null,
+      "end_date": "2016",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/david-e-de-witt-60941a48",
+      "person_name": "David De Witt",
+      "company_name": "Sandstorm Gold Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

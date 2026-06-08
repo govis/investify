@@ -1,0 +1,39 @@
+{
+  "id": "Armando Pimentel, Jr",
+  "name": "Armando Pimentel, Jr.",
+  "background": "Mr. Pimentel is President and Chief Executive Officer of Florida Power & Light Company. He previously served as president and CEO of NextEra Energy Resources and as CFO of NextEra Energy.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NextEra Energy, Inc.",
+      "ticker": "NEE",
+      "exchange": "NYSE",
+      "website": "https://www.nexteraenergy.com",
+      "logoUrl": "/companies-assets/NEE.NYSE.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2008",
+      "endDate": "2011",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2011"
+    },
+    {
+      "name": "Ameriprise Financial, Inc.",
+      "ticker": "AMP",
+      "exchange": "NYSE",
+      "website": "https://www.ameriprise.com",
+      "logoUrl": "/companies-assets/AMP.NYSE.svg",
+      "title": "Director",
+      "startDate": "2022-09-12",
+      "endDate": null,
+      "formattedStartDate": "September 2022",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

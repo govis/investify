@@ -1,0 +1,79 @@
+{
+  "name": "Carrie Mierkey",
+  "first_name": "Carrie",
+  "last_name": "Mierkey",
+  "age": 45,
+  "age_year": 2024,
+  "background": "Ms. Mierkey is the Chief Financial Officer of the Company. She is a Certified Public Accountant with over 15 years of experience in finance and accounting, primarily in the mining industry.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "enCore Energy Corp.",
+      "ticker": "EU",
+      "exchange": "NYSE American",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://encoreuranium.com",
+      "start_date": "2021-02-01",
+      "end_date": "2023-12-23",
+      "validated": true
+    },
+    {
+      "name": "enCore Energy Corp.",
+      "ticker": "EU",
+      "exchange": "TSX",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://encoreuranium.com",
+      "start_date": "2021-07-01",
+      "end_date": null
+    },
+    {
+      "name": "C2C Metals Corp.",
+      "ticker": "CTOC",
+      "exchange": "CSE",
+      "website": "https://c2cmetals.com",
+      "title_or_role": "Director",
+      "start_date": "2022-06-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nuclear Fuels Inc.",
+      "ticker": "NF",
+      "exchange": "CSE",
+      "website": "https://nuclearfuels.com",
+      "title_or_role": "Director",
+      "start_date": "2023-07-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Scorpio Gold Corporation",
+      "ticker": "SGN",
+      "exchange": "TSXV",
+      "website": "https://scorpiogold.com",
+      "title_or_role": "Director",
+      "start_date": "2024-05-01",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/carrie-mierkey-cpa-bba-5a5a5a1a",
+      "person_name": "Carrie Mierkey",
+      "company_name": "enCore Energy Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

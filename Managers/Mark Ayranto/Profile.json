@@ -1,0 +1,60 @@
+{
+  "name": "Mark Ayranto",
+  "first_name": "Mark",
+  "last_name": "Ayranto",
+  "age": 52,
+  "age_year": 2024,
+  "background": "Mr. Ayranto has over 20 years of experience in the mining industry, specifically in the Yukon. He has been with Victoria Gold since 2009 and oversees corporate development and sustainability.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Victoria Gold Corp.",
+      "ticker": "VGCX",
+      "exchange": "TSX",
+      "title_or_role": "Chief Operating Officer",
+      "website": "https://www.vgcx.com",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Banyan Gold Corp.",
+      "ticker": "BYN",
+      "exchange": "TSXV",
+      "website": "https://www.banyangold.com",
+      "title_or_role": "Founder / Former Chair",
+      "start_date": "2011",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Silverco Mining Ltd.",
+      "ticker": "SICO",
+      "exchange": "TSXV",
+      "website": "https://www.silvercomining.com",
+      "title_or_role": "President, CEO and Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/mark-ayranto-2888aa21",
+      "person_name": "Mark Ayranto",
+      "company_name": "Victoria Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

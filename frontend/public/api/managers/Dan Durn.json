@@ -1,0 +1,74 @@
+{
+  "id": "Dan Durn",
+  "name": "Dan Durn",
+  "background": "Mr. Durn has served as Executive Vice President and Chief Financial Officer since October 2021. Prior to joining Adobe, he was Senior Vice President and Chief Financial Officer of Applied Materials, Inc. from 2017 to 2021.",
+  "pictureUrl": "/managers-assets/Dan Durn.jpg",
+  "companies": [
+    {
+      "name": "Adobe Inc.",
+      "ticker": "ADBE",
+      "exchange": "NASDAQ",
+      "website": "https://www.adobe.com",
+      "logoUrl": "/companies-assets/ADBE.NASDAQ.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "October 2021",
+      "endDate": null,
+      "formattedStartDate": "October 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Marvell Technology, Inc.",
+      "ticker": "MRVL",
+      "exchange": "NASDAQ",
+      "website": "https://www.marvell.com",
+      "logoUrl": "/companies-assets/MRVL.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "April 2024",
+      "endDate": null,
+      "formattedStartDate": "April 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Applied Materials, Inc.",
+      "ticker": "AMAT",
+      "exchange": "NASDAQ",
+      "website": "https://www.appliedmaterials.com",
+      "logoUrl": "/companies-assets/AMAT.NASDAQ.svg",
+      "title": "Senior Vice President and Chief Financial Officer",
+      "startDate": "2017",
+      "endDate": "October 2021",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "October 2021"
+    },
+    {
+      "name": "NXP Semiconductors N.V.",
+      "ticker": "NXPI",
+      "exchange": "NASDAQ",
+      "website": "https://www.nxp.com",
+      "logoUrl": "/companies-assets/NXPI.NASDAQ.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "December 2015",
+      "endDate": "August 2017",
+      "formattedStartDate": "December 2015",
+      "formattedEndDate": "August 2017"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dan-durn-a02a8960",
+      "person_name": "Dan Durn",
+      "company_name": "Adobe Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 57,
+  "ageYear": 2024
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Carol Banducci",
+  "first_name": "Carol",
+  "last_name": "Banducci",
+  "age": 64,
+  "age_year": 2024,
+  "background": "Ms. Banducci was formerly the EVP and CFO of IAMGOLD Corporation. She has extensive experience in financial management and corporate strategy in the mining and manufacturing sectors.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Hudbay Minerals Inc.",
+      "ticker": "HBM",
+      "exchange": "TSX/NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.hudbayminerals.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "ARC Resources Ltd.",
+      "ticker": "ARX",
+      "exchange": "TSX",
+      "website": "https://www.arcresources.com",
+      "title_or_role": "Director",
+      "start_date": "November 4, 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "IAMGOLD Corporation",
+      "ticker": "IMG",
+      "exchange": "TSX/NYSE",
+      "website": "https://www.iamgold.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "2007",
+      "end_date": "March 31, 2021",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/carol-banducci-62703012",
+      "person_name": "Carol Banducci",
+      "company_name": "IAMGOLD Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

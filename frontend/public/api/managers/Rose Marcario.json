@@ -1,0 +1,40 @@
+{
+  "id": "Rose Marcario",
+  "name": "Rose Marcario",
+  "background": "Ms. Marcario has served as a member of our Board since 2021. She was formerly the President and CEO of Patagonia, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Rivian Automotive, Inc.",
+      "ticker": "RIVN",
+      "exchange": "NASDAQ",
+      "website": "https://rivian.com",
+      "logoUrl": "/companies-assets/RIVN.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2020",
+      "endDate": "2026-01-01",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "January 2026"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rose-marcario-06703716",
+      "person_name": "Rose Marcario",
+      "company_name": "Rivian Automotive, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Nominating and Governance Committee"
+  ],
+  "age": 59,
+  "ageYear": 2024
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Robert Shapard",
+  "first_name": "Robert",
+  "last_name": "Shapard",
+  "age": 68,
+  "age_year": 2024,
+  "background": "Robert S. Shapard has served as the independent Chairman of the Board since 2022. He was previously the Chairman and CEO of Oncor Electric Delivery Company LLC.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Leidos Holdings, Inc.",
+      "ticker": "LDOS",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.leidos.com",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Tenet Healthcare Corporation",
+      "ticker": "THC",
+      "exchange": "NYSE",
+      "website": "https://www.tenethealth.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2005",
+      "end_date": "2006",
+      "validated": true
+    },
+    {
+      "name": "Exelon Corporation",
+      "ticker": "EXC",
+      "exchange": "NASDAQ",
+      "website": "https://www.exeloncorp.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "2002",
+      "end_date": "2005",
+      "validated": true
+    },
+    {
+      "name": "Covanta Energy Corp.",
+      "ticker": "CVA",
+      "exchange": "NYSE",
+      "website": "https://www.covanta.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "Prior to 2002",
+      "end_date": "2002",
+      "validated": true
+    },
+    {
+      "name": "Ultramar Diamond Shamrock",
+      "ticker": "UDS",
+      "exchange": "NYSE",
+      "website": "N/A",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "Prior to 2002",
+      "end_date": "Prior to 2002",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Ethics Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Edward Fenster",
+  "first_name": "Edward",
+  "last_name": "Fenster",
+  "age": 46,
+  "age_year": 2024,
+  "background": "Edward Fenster is one of our co-founders and has served as Executive Chair of our Board since March 2014. He previously served as our Co-Chief Executive Officer from 2008 to 2014. Prior to Sunrun, Mr. Fenster was at Asurion and Blackstone.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Sunrun Inc.",
+      "ticker": "RUN",
+      "exchange": "NASDAQ",
+      "title_or_role": "Co-Founder, Co-Executive Chair, Member of the Board of Directors",
+      "website": "https://www.sunrun.com",
+      "start_date": "2007",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/edward-fenster-529a861",
+      "person_name": "Edward Fenster",
+      "company_name": "Sunrun",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

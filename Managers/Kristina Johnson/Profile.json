@@ -1,0 +1,82 @@
+{
+  "name": "Kristina Johnson",
+  "first_name": "Kristina",
+  "last_name": "Johnson",
+  "age": 67,
+  "age_year": 2024,
+  "background": "Former President of The Ohio State University. Former Chancellor of the State University of New York.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.cisco.com",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Minerals Technologies Inc.",
+      "ticker": "MTX",
+      "exchange": "NYSE",
+      "website": "https://www.mineralstech.com",
+      "title_or_role": "Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "DuPont de Nemours, Inc.",
+      "ticker": "DD",
+      "exchange": "NYSE",
+      "website": "https://www.dupont.com",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Boston Scientific Corporation",
+      "ticker": "BSX",
+      "exchange": "NYSE",
+      "website": "https://www.bostonscientific.com",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "The AES Corporation",
+      "ticker": "AES",
+      "exchange": "NYSE",
+      "website": "https://www.aes.com",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": "2019",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kristina-m-johnson-phd-85555a12",
+      "person_name": "Kristina M. Johnson, PhD",
+      "company_name": "Cisco Systems, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Nomination and Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

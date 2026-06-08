@@ -1,0 +1,52 @@
+{
+  "id": "Persio Lisboa",
+  "name": "Persio Lisboa",
+  "background": "Former President and CEO of Navistar International Corporation. Director since 2021.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "James Hardie Industries plc",
+      "ticker": "JHX",
+      "exchange": "ASX",
+      "website": "https://www.jameshardie.com",
+      "logoUrl": "/companies-assets/JHX.ASX.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "February 2018",
+      "endDate": null,
+      "formattedStartDate": "February 2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Navistar International Corporation",
+      "ticker": "NAV (Delisted/Acquired)",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Vice President and Chief Operating Officer",
+      "startDate": "March 2017",
+      "endDate": "June 30, 2020",
+      "formattedStartDate": "March 2017",
+      "formattedEndDate": "June 30, 2020"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/persio-lisboa-18a312a",
+      "person_name": "Persio Lisboa",
+      "company_name": "J.B. Hunt Transport Services, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

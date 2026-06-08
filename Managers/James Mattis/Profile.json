@@ -1,0 +1,42 @@
+{
+  "name": "James Mattis",
+  "first_name": "James",
+  "last_name": "Mattis",
+  "age": 73,
+  "age_year": 2024,
+  "background": "General, U.S. Marine Corps (Retired). Former U.S. Secretary of Defense.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "General Dynamics Corporation",
+      "ticker": "GD",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.gd.com",
+      "start_date": "2019-08",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Theranos, Inc.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "N/A",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2016-12",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Finance",
+    "Governance"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

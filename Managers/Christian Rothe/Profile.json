@@ -1,0 +1,49 @@
+{
+  "name": "Christian Rothe",
+  "first_name": "Christian",
+  "last_name": "Rothe",
+  "age": 53,
+  "age_year": 2024,
+  "background": "Christian Rothe is Senior Vice President and Chief Financial Officer. He joined Rockwell Automation in 2023 from Graco Inc.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Rockwell Automation, Inc.",
+      "ticker": "ROK",
+      "exchange": "NYSE",
+      "title_or_role": "Senior Vice President and Chief Financial Officer",
+      "website": "https://www.rockwellautomation.com",
+      "start_date": "2023-11-01",
+      "end_date": null
+    },
+    {
+      "name": "Graco Inc.",
+      "ticker": "GGG",
+      "exchange": "NYSE",
+      "website": "https://www.graco.com",
+      "title_or_role": "President, Global Industrial Division",
+      "start_date": "2018",
+      "end_date": "2024",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/christian-rothe-7a5a2a12",
+      "person_name": "Christian Rothe",
+      "company_name": "Rockwell Automation, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

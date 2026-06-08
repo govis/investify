@@ -1,0 +1,52 @@
+{
+  "name": "Helmut Finger",
+  "first_name": "Helmut",
+  "last_name": "Finger",
+  "age": 78,
+  "age_year": 2024,
+  "background": "Mr. Finger is a businessman with extensive experience in international trade and finance, particularly in the European markets.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Tudor Gold Corp.",
+      "ticker": "TUD",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "https://tudor-gold.com/",
+      "start_date": "Not specified",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Goldstorm Metals Corp.",
+      "ticker": "GSTM",
+      "exchange": "TSXV",
+      "website": "https://goldstormmetals.com/",
+      "title_or_role": "Advisor",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://de.linkedin.com/in/helmut-finger-a914a832",
+      "person_name": "Helmut Finger",
+      "company_name": "Tudor Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Maureen Jensen",
+  "first_name": "Maureen",
+  "last_name": "Jensen",
+  "age": 67,
+  "age_year": 2024,
+  "background": "Former Chair and CEO of the Ontario Securities Commission (OSC).",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Franco-Nevada Corporation",
+      "ticker": "FNV",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://www.franco-nevada.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cboe Canada",
+      "ticker": "CBOE",
+      "exchange": "NASDAQ",
+      "website": "https://www.cboe.ca",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": "2022",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/maureen-jensen-846a1136",
+      "person_name": "Maureen Jensen",
+      "company_name": "Franco-Nevada Corporation, Cboe Canada",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "ESG Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

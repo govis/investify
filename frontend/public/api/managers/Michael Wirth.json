@@ -1,0 +1,50 @@
+{
+  "id": "Michael Wirth",
+  "name": "Michael Wirth",
+  "background": "Chairman of the Board and Chief Executive Officer since 2018. Previously Vice Chairman of the Board and Executive Vice President of Midstream and Development.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Chevron Corporation",
+      "ticker": "CVX",
+      "exchange": "NYSE",
+      "website": "https://www.chevron.com",
+      "logoUrl": "/companies-assets/CVX.NYSE.svg",
+      "title": "Executive Vice President (Downstream/Midstream)",
+      "startDate": "2006",
+      "endDate": "2017",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Ampol Limited (formerly Caltex Australia Limited)",
+      "ticker": "ALD",
+      "exchange": "ASX",
+      "website": "https://www.ampol.com.au",
+      "logoUrl": "/companies-assets/ALD.ASX.svg",
+      "title": "Director",
+      "startDate": "2001",
+      "endDate": "2003-12-05",
+      "formattedStartDate": "2001",
+      "formattedEndDate": "December 2003"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mpwirth",
+      "person_name": "Michael Wirth",
+      "company_name": "Chevron",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 63,
+  "ageYear": 2024
+}

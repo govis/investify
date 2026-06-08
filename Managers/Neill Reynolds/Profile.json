@@ -1,0 +1,71 @@
+{
+  "name": "Neill Reynolds",
+  "first_name": "Neill",
+  "last_name": "Reynolds",
+  "age": 54,
+  "age_year": 2024,
+  "background": "Neill P. Reynolds joined Wolfspeed in August 2018 as Executive Vice President and Chief Financial Officer. Prior to joining Wolfspeed, Mr. Reynolds served as Senior Vice President of Finance, Strategy and Corporate Development at NXP Semiconductors N.V. and held various finance leadership roles at General Electric Company.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Wolfspeed, Inc.",
+      "ticker": "WOLF",
+      "exchange": "NYSE",
+      "title_or_role": "Chief Financial Officer",
+      "website": "wolfspeed.com",
+      "start_date": "August 2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NXP Semiconductors N.V.",
+      "ticker": "NXPI",
+      "exchange": "NASDAQ",
+      "website": "nxp.com",
+      "title_or_role": "Senior Vice President, Finance, Strategy and Procurement",
+      "start_date": "Prior to 2018",
+      "end_date": "August 2018",
+      "validated": true
+    },
+    {
+      "name": "General Electric Company",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "website": "ge.com",
+      "title_or_role": "Various Senior Financial Roles",
+      "start_date": "Prior to NXP",
+      "end_date": "Prior to NXP",
+      "validated": true
+    },
+    {
+      "name": "Ralliant",
+      "ticker": "RALL",
+      "exchange": "NYSE",
+      "website": "ralliant.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/neill-reynolds-b2842514",
+      "person_name": "Neill Reynolds",
+      "company_name": "Wolfspeed",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

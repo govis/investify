@@ -1,0 +1,53 @@
+{
+  "id": "Robert Paré",
+  "name": "Robert Paré",
+  "background": "Strategic Advisor at Fasken Martineau DuMoulin LLP.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AtkinsRéalis Group Inc.",
+      "ticker": "ATRL",
+      "exchange": "TSX",
+      "website": "https://www.atkinsrealis.com",
+      "logoUrl": "/companies-assets/ATRL.TSX.svg",
+      "title": "Director",
+      "startDate": "April 2018",
+      "endDate": null,
+      "formattedStartDate": "April 2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "National Bank of Canada",
+      "ticker": "NA",
+      "exchange": "TSX",
+      "website": "https://www.nbc.ca",
+      "logoUrl": "/companies-assets/NA.TSX.svg",
+      "title": "Chairman of the Board (Director)",
+      "startDate": "2010",
+      "endDate": null,
+      "formattedStartDate": "2010",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/robertpare",
+      "person_name": "Robert Paré",
+      "company_name": "AtkinsRéalis Group Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Governance, Ethics and Sustainability Committee",
+    "Human Resources Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Joe Dick",
+  "first_name": "Joe",
+  "last_name": "Dick",
+  "age": 62,
+  "age_year": 2024,
+  "background": "Joe Dick has over 35 years of experience in the mining industry. He previously served as Executive Vice President and Chief Operating Officer at Eldorado before transitioning to a strategic role.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Eldorado Gold Corporation",
+      "ticker": "EGO",
+      "exchange": "TSX / NYSE",
+      "title_or_role": "Executive Vice President and Chief Operating Officer",
+      "website": "https://www.eldoradogold.com",
+      "start_date": "December 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Goldcorp Inc.",
+      "ticker": "G",
+      "exchange": "TSX / NYSE",
+      "website": "https://www.newmont.com",
+      "title_or_role": "Senior Vice President, Latin American Operations",
+      "start_date": "2016",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Barrick Gold Corporation",
+      "ticker": "GOLD",
+      "exchange": "TSX / NYSE",
+      "website": "https://www.barrick.com",
+      "title_or_role": "General Manager, Pueblo Viejo",
+      "start_date": "2004",
+      "end_date": "2014",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/joseph-dick-12333612",
+      "person_name": "Joseph Dick",
+      "company_name": "Eldorado Gold Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

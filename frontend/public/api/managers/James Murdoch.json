@@ -1,0 +1,102 @@
+{
+  "id": "James Murdoch",
+  "name": "James Murdoch",
+  "background": "James Murdoch has been a member of the Board since July 2017. He is the founder and CEO of Lupa Systems, an investment holding company, and former CEO of 21st Century Fox.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Tesla, Inc.",
+      "ticker": "TSLA",
+      "exchange": "NASDAQ",
+      "website": "https://www.tesla.com",
+      "logoUrl": "/companies-assets/TSLA.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "News Corporation",
+      "ticker": "NWSA",
+      "exchange": "NASDAQ",
+      "website": "newscorp.com",
+      "logoUrl": "/companies-assets/NWSA.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": "2020",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "21st Century Fox",
+      "ticker": "FOXA",
+      "exchange": "NASDAQ",
+      "website": "21cf.com",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/21st_Century_Fox_logo.svg/1200px-21st_Century_Fox_logo.svg.png",
+      "title": "CEO",
+      "startDate": "2015",
+      "endDate": "2019",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Sky plc (formerly BSkyB)",
+      "ticker": "SKY",
+      "exchange": "LSE",
+      "website": "sky.com",
+      "logoUrl": "/companies-assets/SKY.LSE.svg",
+      "title": "Chairman",
+      "startDate": "2007",
+      "endDate": "2012",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "Sotheby's",
+      "ticker": "BID",
+      "exchange": "NYSE",
+      "website": "sothebys.com",
+      "logoUrl": "/companies-assets/BID.NYSE.svg",
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": "2012",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "GlaxoSmithKline plc",
+      "ticker": "GSK",
+      "exchange": "LSE/NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2009",
+      "endDate": "2012",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2012"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jamesrmurdoch",
+      "person_name": "James Murdoch",
+      "company_name": "Lupa Systems",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee (Chair)"
+  ],
+  "age": 51,
+  "ageYear": 2024
+}

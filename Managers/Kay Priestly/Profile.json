@@ -1,0 +1,82 @@
+{
+  "name": "Kay Priestly",
+  "first_name": "Kay",
+  "last_name": "Priestly",
+  "age": 68,
+  "age_year": 2024,
+  "background": "Independent Director. Former CEO of Turquoise Hill Resources Ltd. and executive at Rio Tinto.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "SSR Mining Inc.",
+      "ticker": "SSRM",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.ssrmining.com",
+      "start_date": "2020-09-16",
+      "end_date": null
+    },
+    {
+      "name": "TechnipFMC plc",
+      "ticker": "FTI",
+      "exchange": "NYSE",
+      "website": "https://www.technipfmc.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Turquoise Hill Resources Ltd.",
+      "ticker": "TRQ",
+      "exchange": "NYSE",
+      "website": "https://www.turquoisehill.com",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2012-05",
+      "end_date": "2014-12",
+      "validated": true
+    },
+    {
+      "name": "New Gold Inc.",
+      "ticker": "NGD",
+      "exchange": "TSX",
+      "website": "https://www.newgold.com",
+      "title_or_role": "Director",
+      "start_date": "2015-07",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Alacer Gold Corp.",
+      "ticker": "ASR",
+      "exchange": "TSX",
+      "website": "https://www.alacergold.com",
+      "title_or_role": "Director",
+      "start_date": "2019-08",
+      "end_date": "2020-09",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kay-priestly-a736607a",
+      "person_name": "Kay Priestly",
+      "company_name": "SSR Mining Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

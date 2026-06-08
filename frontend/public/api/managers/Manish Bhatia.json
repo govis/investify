@@ -1,0 +1,63 @@
+{
+  "id": "Manish Bhatia",
+  "name": "Manish Bhatia",
+  "background": "Manish Bhatia is Executive Vice President, Global Operations. He joined Micron in 2017 from Western Digital Corporation, where he held various executive roles in operations and supply chain.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Micron Technology, Inc.",
+      "ticker": "MU",
+      "exchange": "NASDAQ",
+      "website": "https://www.micron.com",
+      "logoUrl": "/companies-assets/MU.NASDAQ.svg",
+      "title": "Executive Vice President, Global Operations",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Western Digital Corporation",
+      "ticker": "WDC",
+      "exchange": "NASDAQ",
+      "website": "https://www.westerndigital.com",
+      "logoUrl": "/companies-assets/WDC.NASDAQ.svg",
+      "title": "Executive Vice President, Silicon Operations",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "SanDisk Corporation",
+      "ticker": "N/A",
+      "exchange": "Delisted",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Vice President",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/manishhbhatia",
+      "person_name": "Manish Bhatia",
+      "company_name": "Micron Technology, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 52,
+  "ageYear": 2023
+}

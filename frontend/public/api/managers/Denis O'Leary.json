@@ -1,0 +1,42 @@
+{
+  "id": "Denis O'Leary",
+  "name": "Denis O'Leary",
+  "background": "Private investor. Former executive at J.P. Morgan Chase & Co.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "CrowdStrike Holdings, Inc.",
+      "ticker": "CRWD",
+      "exchange": "NASDAQ",
+      "website": "https://www.crowdstrike.com",
+      "logoUrl": "/companies-assets/CRWD.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "December 2011",
+      "endDate": null,
+      "formattedStartDate": "December 2011",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Fiserv, Inc.",
+      "ticker": "FI",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director, Lead Director, Chairman of the Board",
+      "startDate": "2008",
+      "endDate": "2022",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2022"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 67,
+  "ageYear": 2024
+}

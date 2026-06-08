@@ -1,0 +1,41 @@
+{
+  "name": "Ryan Taylor",
+  "first_name": "Ryan",
+  "last_name": "Taylor",
+  "age": 44,
+  "age_year": 2024,
+  "background": "Mr. Taylor has served as our Chief Revenue Officer and Chief Legal Officer since 2022. He previously served as our Chief Legal Officer and Business Affairs Officer from 2020 to 2022. Mr. Taylor joined Palantir in 2010. Mr. Taylor holds a B.S. and M.S. in Management Science & Engineering from Stanford University and a J.D. from Harvard Law School.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Palantir Technologies Inc.",
+      "ticker": "PLTR",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chief Revenue Officer and Chief Legal Officer",
+      "website": "https://www.palantir.com",
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ryan-taylor-67673a4",
+      "person_name": "Ryan Taylor",
+      "company_name": "Palantir Technologies",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

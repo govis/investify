@@ -1,0 +1,32 @@
+{
+  "name": "Doug Adams",
+  "first_name": "Doug",
+  "last_name": "Adams",
+  "age": 52,
+  "age_year": 2024,
+  "background": "Mr. Adams has over 25 years of experience in the investment industry, specializing in the resource sector. He has held senior positions at several Canadian investment dealers.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "ATHA Energy Corp.",
+      "ticker": "SASK",
+      "exchange": "CSE",
+      "title_or_role": "VP, Exploration",
+      "website": "https://athaenergy.com/",
+      "start_date": null,
+      "end_date": "2024-02-12",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

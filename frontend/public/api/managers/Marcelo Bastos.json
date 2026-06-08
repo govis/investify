@@ -1,0 +1,91 @@
+{
+  "id": "Marcelo Bastos",
+  "name": "Marcelo Bastos",
+  "background": "Marcelo Bastos was appointed to the Board in February 2019. He is an experienced resources executive with over 30 years’ experience in the mining industry, including senior roles at BHP, Vale and MMG.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Iluka Resources Limited",
+      "ticker": "ILU",
+      "exchange": "ASX",
+      "website": "https://www.iluka.com",
+      "logoUrl": "/companies-assets/ILU.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "Feb 2014",
+      "endDate": "Aug 2024",
+      "formattedStartDate": "Feb 2014",
+      "formattedEndDate": "Aug 2024"
+    },
+    {
+      "name": "Aurizon Holdings Limited",
+      "ticker": "AZJ",
+      "exchange": "ASX",
+      "website": "https://www.aurizon.com.au",
+      "logoUrl": "/companies-assets/AZJ.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "Nov 2017",
+      "endDate": null,
+      "formattedStartDate": "Nov 2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Anglo American PLC",
+      "ticker": "AAL",
+      "exchange": "LSE",
+      "website": "https://www.angloamerican.com",
+      "logoUrl": "/companies-assets/AAL.LSE.svg",
+      "title": "Non-Executive Director",
+      "startDate": "Apr 2019",
+      "endDate": null,
+      "formattedStartDate": "Apr 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "IGO Limited",
+      "ticker": "IGO",
+      "exchange": "ASX",
+      "website": "https://www.igo.com.au",
+      "logoUrl": "/companies-assets/IGO.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "Jul 2024",
+      "endDate": null,
+      "formattedStartDate": "Jul 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "OZ Minerals Limited",
+      "ticker": "OZL",
+      "exchange": "ASX",
+      "website": "https://www.ozminerals.com",
+      "logoUrl": "/companies-assets/OZL.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "Sep 2018",
+      "endDate": "Apr 2019",
+      "formattedStartDate": "Sep 2018",
+      "formattedEndDate": "Apr 2019"
+    },
+    {
+      "name": "MMG Limited",
+      "ticker": "1208",
+      "exchange": "HKEX",
+      "website": "https://www.mmg.com",
+      "logoUrl": "/companies-assets/1208.HKEX.svg",
+      "title": "Chief Operating Officer",
+      "startDate": "2011",
+      "endDate": "2014",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2014"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "People and Performance Committee",
+    "Sustainability Committee"
+  ],
+  "age": 60,
+  "ageYear": 2023
+}

@@ -1,0 +1,65 @@
+{
+  "id": "Catherine MacGregor",
+  "name": "Catherine MacGregor",
+  "background": "CEO of Engie S.A.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "ENGIE SA",
+      "ticker": "ENGI",
+      "exchange": "Euronext Paris",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Executive Officer and Board Member",
+      "startDate": "January 2021",
+      "endDate": null,
+      "formattedStartDate": "January 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "TechnipFMC plc",
+      "ticker": "FTI",
+      "exchange": "NYSE",
+      "website": "https://www.technipfmc.com",
+      "logoUrl": "/companies-assets/FTI.NYSE.svg",
+      "title": "Various Senior Executive Roles (including President, Subsea)",
+      "startDate": "2003",
+      "endDate": "2020",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "SLB (formerly Schlumberger)",
+      "ticker": "SLB",
+      "exchange": "NYSE",
+      "website": "https://www.slb.com",
+      "logoUrl": "/companies-assets/SLB.NYSE.svg",
+      "title": "Various Senior Executive Roles",
+      "startDate": "1998",
+      "endDate": "2003",
+      "formattedStartDate": "1998",
+      "formattedEndDate": "2003"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/catherine-fiamma-macgregor-3008171/",
+      "person_name": "Catherine MacGregor",
+      "company_name": "ENGIE SA",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 52,
+  "ageYear": 2024
+}

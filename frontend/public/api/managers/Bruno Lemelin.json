@@ -1,0 +1,39 @@
+{
+  "id": "Bruno Lemelin",
+  "name": "Bruno Lemelin",
+  "background": "Mr. Lemelin has over 25 years of experience in the mining industry. He joined IAMGOLD in 2014 and has held various senior operational roles, including Senior Vice President, Operations and Projects.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "IAMGOLD Corporation",
+      "ticker": "IMG",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Operating Officer",
+      "startDate": "2023-09-27",
+      "endDate": null,
+      "formattedStartDate": "September 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Aya Gold & Silver Inc.",
+      "ticker": "AYA",
+      "exchange": "TSX",
+      "website": "https://ayagoldsilver.com",
+      "logoUrl": "/companies-assets/AYA.TSX.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 51,
+  "ageYear": 2024
+}

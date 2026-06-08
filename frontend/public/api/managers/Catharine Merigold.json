@@ -1,0 +1,30 @@
+{
+  "id": "Catharine Merigold",
+  "name": "Catharine Merigold",
+  "background": "Ms. Merigold has served as a director since 2015. She is the founder and a Managing Partner of Vista Ventures, a venture capital firm.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AeroVironment, Inc.",
+      "ticker": "AVAV",
+      "exchange": "NASDAQ",
+      "website": "https://www.avinc.com",
+      "logoUrl": "/companies-assets/AVAV.NASDAQ.svg",
+      "title": "Member, Board of Directors (also serves as Lead Independent Director and Chair of the Nominating and Governance Committee)",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

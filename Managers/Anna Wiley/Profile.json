@@ -1,0 +1,30 @@
+{
+  "name": "Anna Wiley",
+  "first_name": "Anna",
+  "last_name": "Wiley",
+  "age": 48,
+  "age_year": 2024,
+  "background": "Anna Wiley was appointed President Australia in July 2024. She previously served as Asset President Western Australia Iron Ore and has extensive experience in mining operations.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX",
+      "title_or_role": "Executive",
+      "website": "https://www.bhp.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

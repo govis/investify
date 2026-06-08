@@ -1,0 +1,90 @@
+{
+  "id": "Shirley In't Veld",
+  "name": "Shirley In't Veld",
+  "background": "Ms. In't Veld has over 30 years of experience in the mining and energy sectors. She was formerly the CEO of Verve Energy and has served on the boards of Northern Star Resources and Alumina Limited.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Karora Resources Inc.",
+      "ticker": "KRR",
+      "exchange": "TSX",
+      "website": "https://www.karoraresources.com",
+      "logoUrl": "/companies-assets/KRR.TSX.jpg",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Alumina Limited",
+      "ticker": "AWC",
+      "exchange": "ASX",
+      "website": "https://www.aluminalimited.com",
+      "logoUrl": "/companies-assets/AWC.ASX.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "APA Group",
+      "ticker": "APA",
+      "exchange": "ASX",
+      "website": "https://www.apa.com.au",
+      "logoUrl": "/companies-assets/APA.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2018",
+      "endDate": "2024-03-28",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "March 2024"
+    },
+    {
+      "name": "DEVELOP Global Limited",
+      "ticker": "DVP",
+      "exchange": "ASX",
+      "website": "https://www.develop.com.au",
+      "logoUrl": "/companies-assets/DVP.ASX.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Americas Gold and Silver Corporation",
+      "ticker": "USA",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "DUET Group",
+      "ticker": "DUE",
+      "exchange": "ASX",
+      "website": "https://www.duet.net.au/",
+      "logoUrl": "https://www.duet.net.au/images/duet-logo.png",
+      "title": "Non-Executive Director",
+      "startDate": null,
+      "endDate": "2017",
+      "formattedStartDate": "",
+      "formattedEndDate": "2017"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Technical, Safety and Sustainability Committee"
+  ],
+  "age": 67,
+  "ageYear": 2024
+}

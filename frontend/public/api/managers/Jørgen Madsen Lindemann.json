@@ -1,0 +1,81 @@
+{
+  "id": "Jørgen Madsen Lindemann",
+  "name": "Jørgen Madsen Lindemann",
+  "background": "Jørgen Madsen Lindemann is the CEO of SAS. He was previously the President and CEO of Modern Times Group (MTG).",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Viaplay Group AB",
+      "ticker": "VPLAY B",
+      "exchange": "STO",
+      "website": null,
+      "logoUrl": null,
+      "title": "President & CEO",
+      "startDate": "2023-06-05",
+      "endDate": null,
+      "formattedStartDate": "June 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Modern Times Group MTG AB",
+      "ticker": "MTG B",
+      "exchange": "STO",
+      "website": null,
+      "logoUrl": null,
+      "title": "President & CEO",
+      "startDate": "1994",
+      "endDate": "2020",
+      "formattedStartDate": "1994",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Zalando SE",
+      "ticker": "ZAL",
+      "exchange": "STO",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Director",
+      "startDate": "2016",
+      "endDate": "2021",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Bambuser AB",
+      "ticker": "BUSER",
+      "exchange": "STO",
+      "website": "bambuser.com",
+      "logoUrl": "/companies-assets/BUSER.STO.svg",
+      "title": "Board Member",
+      "startDate": "2020",
+      "endDate": "2023",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2023"
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://dk.linkedin.com/in/jmlindemann",
+      "person_name": "Jørgen Madsen Lindemann",
+      "company_name": "SAS",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Member of the Nomination Committee",
+    "Member of the Remuneration Committee",
+    "Nominations & Governance Committee",
+    "Remuneration Committee (Chair)"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

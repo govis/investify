@@ -1,0 +1,52 @@
+{
+  "name": "Michael Daniels",
+  "first_name": "Michael",
+  "last_name": "Daniels",
+  "age": 78,
+  "age_year": 2024,
+  "background": "Mr. Daniels has served as Chairman of the Board since 2021. He was previously Chairman and CEO of Mobile 365 and a senior executive at SAIC.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "CACI International Inc",
+      "ticker": "CACI",
+      "exchange": "NYSE",
+      "title_or_role": "Chairman of the Board",
+      "website": "https://www.caci.com",
+      "start_date": "2013",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "BlackBerry Limited",
+      "ticker": "BB",
+      "exchange": "NYSE",
+      "website": "https://www.blackberry.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Science Applications International Corporation (SAIC)",
+      "ticker": "SAIC",
+      "exchange": "NYSE",
+      "website": "https://www.saic.com",
+      "title_or_role": "Senior Executive",
+      "start_date": "1986",
+      "end_date": "2004",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee",
+    "Executive Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

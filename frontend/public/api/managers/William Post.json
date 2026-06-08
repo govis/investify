@@ -1,0 +1,55 @@
+{
+  "id": "William Post",
+  "name": "William Post",
+  "background": "Former Chairman and CEO of Pinnacle West Capital Corporation. He has served on the board since 2010.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "First Solar, Inc.",
+      "ticker": "FSLR",
+      "exchange": "NASDAQ",
+      "website": "https://www.firstsolar.com",
+      "logoUrl": "/companies-assets/FSLR.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "June 1, 2010",
+      "endDate": null,
+      "formattedStartDate": "June 1, 2010",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Pinnacle West Capital Corporation",
+      "ticker": "PNW",
+      "exchange": "NYSE",
+      "website": "https://www.pinnaclewest.com",
+      "logoUrl": "/companies-assets/PNW.NYSE.svg",
+      "title": "Chairman and Chief Executive Officer",
+      "startDate": "Prior to 2009",
+      "endDate": "April 2009",
+      "formattedStartDate": "Prior to 2009",
+      "formattedEndDate": "April 2009"
+    },
+    {
+      "name": "US Airways Group, Inc.",
+      "ticker": "LCC",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "https://1000logos.net/wp-content/uploads/2021/05/US-Airways-logo.png",
+      "title": "Member of the Board of Directors",
+      "startDate": "September 2011",
+      "endDate": "December 2013",
+      "formattedStartDate": "September 2011",
+      "formattedEndDate": "December 2013"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Governance Committee"
+  ],
+  "age": 73,
+  "ageYear": 2024
+}

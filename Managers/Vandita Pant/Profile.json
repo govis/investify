@@ -1,0 +1,70 @@
+{
+  "name": "Vandita Pant",
+  "first_name": "Vandita",
+  "last_name": "Pant",
+  "age": 54,
+  "age_year": 2024,
+  "background": "Vandita Pant was appointed Chief Financial Officer in March 2024. She previously served as Chief Commercial Officer and has extensive experience in banking and finance across Asia and Europe.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://www.bhp.com",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "NYSE",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://www.bhp.com",
+      "start_date": "2024-03-01",
+      "end_date": null
+    },
+    {
+      "name": "NatWest Group plc",
+      "ticker": "NWG",
+      "exchange": "LSE",
+      "website": "https://www.natwestgroup.com",
+      "title_or_role": "Business Treasurer",
+      "start_date": "2008",
+      "end_date": "2010",
+      "validated": true
+    },
+    {
+      "name": "ABN AMRO Bank N.V.",
+      "ticker": "ABN",
+      "exchange": "AEX",
+      "website": "https://www.abnamro.com",
+      "title_or_role": "Executive Director, Head of Strategy, Global Markets",
+      "start_date": null,
+      "end_date": "2008",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/vandita-pant-4923b51",
+      "person_name": "Vandita Pant",
+      "company_name": "BHP Group Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

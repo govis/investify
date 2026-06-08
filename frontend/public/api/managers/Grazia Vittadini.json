@@ -1,0 +1,64 @@
+{
+  "id": "Grazia Vittadini",
+  "name": "Grazia Vittadini",
+  "background": "Former CTO of Airbus and Rolls-Royce. Expert in aerospace and technology.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Siemens Aktiengesellschaft",
+      "ticker": "SIE",
+      "exchange": "LSE",
+      "website": "https://www.siemens.com",
+      "logoUrl": "/companies-assets/SIE.LSE.svg",
+      "title": "Member of the Supervisory Board",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Airbus SE",
+      "ticker": "AIR",
+      "exchange": "LSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Technology Officer (CTO)",
+      "startDate": "2018",
+      "endDate": "2021",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Deutsche Lufthansa AG",
+      "ticker": "LHA",
+      "exchange": "LSE",
+      "website": "https://www.lufthansagroup.com",
+      "logoUrl": "https://www.lufthansagroup.com/content/dam/lhg/logos/lufthansa-group-logo.svg",
+      "title": "Chief Technology Officer (CTO) / Executive Board Member",
+      "startDate": "2024-07-01",
+      "endDate": null,
+      "formattedStartDate": "July 2024",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://de.linkedin.com/in/grazia-vittadini-bb3668a7",
+      "person_name": "Grazia Vittadini",
+      "company_name": "Deutsche Lufthansa AG",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Innovation and Finance Committee"
+  ],
+  "age": 54,
+  "ageYear": 2024
+}

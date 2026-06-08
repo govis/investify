@@ -1,0 +1,41 @@
+{
+  "id": "Bilal Khan",
+  "name": "Bilal Khan",
+  "background": "Bilal Khan has served as a member of our Board since October 2020. Mr. Khan is a Senior Managing Director at Blackstone in the Private Equity Group.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Array Technologies, Inc.",
+      "ticker": "ARRY",
+      "exchange": "NASDAQ",
+      "website": "https://arraytechinc.com",
+      "logoUrl": "/companies-assets/ARRY.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "August 2021",
+      "endDate": null,
+      "formattedStartDate": "August 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Blackstone Inc.",
+      "ticker": "BX",
+      "exchange": "NYSE",
+      "website": "https://www.blackstone.com/",
+      "logoUrl": "/companies-assets/BX.NYSE.svg",
+      "title": "Senior Managing Director, Private Equity Group",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 43,
+  "ageYear": 2024
+}

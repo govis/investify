@@ -1,0 +1,65 @@
+{
+  "id": "Bernard Harris, Jr",
+  "name": "Bernard Harris, Jr.",
+  "background": "Chief Executive Officer and Managing Partner of Vesalius Ventures, Inc. and former NASA astronaut.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "RTX Corporation",
+      "ticker": "RTX",
+      "exchange": "NYSE",
+      "website": "https://www.rtx.com",
+      "logoUrl": "/companies-assets/RTX.NYSE.svg",
+      "title": "Director",
+      "startDate": "2002",
+      "endDate": null,
+      "formattedStartDate": "2002",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "U.S. Physical Therapy, Inc.",
+      "ticker": "USPH",
+      "exchange": "NYSE",
+      "website": "https://www.usph.com",
+      "logoUrl": "/companies-assets/USPH.NYSE.svg",
+      "title": "Director",
+      "startDate": "2005",
+      "endDate": null,
+      "formattedStartDate": "2005",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "SPACEHAB, Inc.",
+      "ticker": "ASTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.astrotechcorp.com",
+      "logoUrl": "/companies-assets/ASTC.NASDAQ.png",
+      "title": "Vice President and Chief Scientist",
+      "startDate": "1996",
+      "endDate": "2002",
+      "formattedStartDate": "1996",
+      "formattedEndDate": "2002"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bernardharrisjr/",
+      "person_name": "Bernard Harris, Jr.",
+      "company_name": "Vesalius Ventures, Inc.",
+      "profile_status": "not_found",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Human Capital & Compensation",
+    "Public Policy & Corporate Responsibility"
+  ],
+  "age": 67,
+  "ageYear": 2024
+}

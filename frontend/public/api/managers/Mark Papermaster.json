@@ -1,0 +1,62 @@
+{
+  "id": "Mark Papermaster",
+  "name": "Mark Papermaster",
+  "background": "Mr. Papermaster is AMD’s Executive Vice President and Chief Technology Officer. He joined AMD in 2011. Previously, he was Vice President of the Silicon Engineering Group at Cisco Systems, Inc. and Senior Vice President of Devices Hardware Engineering at Apple Inc. He also spent 26 years at IBM.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Advanced Micro Devices, Inc.",
+      "ticker": "AMD",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "logoUrl": "/companies-assets/AMD.NASDAQ.svg",
+      "title": "Chief Technology Officer and Executive Vice President",
+      "startDate": "2011-10",
+      "endDate": null,
+      "formattedStartDate": "October 2011",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "exchange": "NASDAQ",
+      "website": "https://www.apple.com",
+      "logoUrl": "/companies-assets/AAPL.NASDAQ.svg",
+      "title": "Senior Vice President of Devices Hardware Engineering",
+      "startDate": "2009-04",
+      "endDate": "2010-08",
+      "formattedStartDate": "April 2009",
+      "formattedEndDate": "August 2010"
+    },
+    {
+      "name": "International Business Machines Corp.",
+      "ticker": "IBM",
+      "exchange": "NYSE",
+      "website": "https://www.ibm.com",
+      "logoUrl": "/companies-assets/IBM.NYSE.svg",
+      "title": "Vice President, Blade Development Unit",
+      "startDate": "1982",
+      "endDate": "2008",
+      "formattedStartDate": "1982",
+      "formattedEndDate": "2008"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mark-papermaster-66914925",
+      "person_name": "Mark Papermaster",
+      "company_name": "Advanced Micro Devices, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 62,
+  "ageYear": 2024
+}

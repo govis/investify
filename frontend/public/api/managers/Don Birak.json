@@ -1,0 +1,66 @@
+{
+  "id": "Don Birak",
+  "name": "Don Birak",
+  "background": "Mr. Birak is a geologist with over 40 years of experience in the mining industry. He was previously Senior Vice President of Exploration with Coeur Mining, Inc. and held senior roles with AngloGold Ashanti and Homestake Mining Company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Revival Gold Inc.",
+      "ticker": "RVG",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Advisor (formerly Director)",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Stria Lithium Inc.",
+      "ticker": "SRA",
+      "exchange": "TSXV",
+      "website": "https://strialithium.com/",
+      "logoUrl": "/companies-assets/SRA.TSXV.svg",
+      "title": "Director",
+      "startDate": "2024-01-11",
+      "endDate": null,
+      "formattedStartDate": "January 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Silver Hammer Mining Corp.",
+      "ticker": "HAMR",
+      "exchange": "CSE",
+      "website": "https://silverhammermining.com/",
+      "logoUrl": "/companies-assets/HAMR.CSE.png",
+      "title": "Board Advisor",
+      "startDate": "2023-03-15",
+      "endDate": null,
+      "formattedStartDate": "March 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Blackwolf Copper and Gold Ltd.",
+      "ticker": "BWCG",
+      "exchange": "TSXV",
+      "website": "https://blackwolfcopperandgold.com/",
+      "logoUrl": "/companies-assets/BWCG.TSXV.svg",
+      "title": "Director",
+      "startDate": "2020-08-12",
+      "endDate": "2023-09-12",
+      "formattedStartDate": "August 2020",
+      "formattedEndDate": "September 2023"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation, Governance and Nominating Committee",
+    "Technical and Health, Safety, Environmental and Social Committee"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

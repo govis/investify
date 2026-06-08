@@ -1,0 +1,38 @@
+{
+  "id": "Jeff Child",
+  "name": "Jeff Child",
+  "background": "Jason Child is our Chief Financial Officer and has served on our board since November 2022.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Amerigroup Corporation",
+      "ticker": "AGP",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "/companies-assets/AGP.NYSE.png",
+      "title": "Director",
+      "startDate": "2004",
+      "endDate": "2012",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2012"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jason-child-4555a11",
+      "person_name": "Jason Child",
+      "company_name": "Arm Holdings plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

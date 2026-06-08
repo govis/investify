@@ -1,0 +1,51 @@
+{
+  "id": "Bonn Smith",
+  "name": "Bonn Smith",
+  "background": "Mr. Smith has over 20 years of experience in the capital markets, specializing in corporate development and investor relations for resource companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "GoldHaven Resources Corp.",
+      "ticker": "GHVN",
+      "exchange": "CSE (Canadian Securities Exchange)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Executive Officer",
+      "startDate": "March 2023",
+      "endDate": null,
+      "formattedStartDate": "March 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Magnum Goldcorp Inc.",
+      "ticker": "MGI",
+      "exchange": "TSXV (TSX Venture Exchange)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Executive Officer (following the amalgamation with Atlântico Energy Metals)",
+      "startDate": "October 2025",
+      "endDate": null,
+      "formattedStartDate": "October 2025",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/bonnsmith",
+      "person_name": "Bonn Smith",
+      "company_name": "GoldHaven Resources Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 42,
+  "ageYear": 2024
+}

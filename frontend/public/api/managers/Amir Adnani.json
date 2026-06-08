@@ -1,0 +1,77 @@
+{
+  "id": "Amir Adnani",
+  "name": "Amir Adnani",
+  "background": "Mr. Adnani is an entrepreneur and the founder of several public companies in the resource sector. He is the founder and CEO of Uranium Energy Corp and the Chairman of GoldMining Inc. He has extensive experience in capital markets and corporate development.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Uranium Royalty Corp.",
+      "ticker": "UROY",
+      "exchange": "NASDAQ",
+      "website": "https://www.uraniumroyalty.com",
+      "logoUrl": "/companies-assets/UROY.NASDAQ.svg",
+      "title": "Chairman",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Uranium Energy Corp.",
+      "ticker": "UEC",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "President, Chief Executive Officer, Director, Founder",
+      "startDate": "2005",
+      "endDate": null,
+      "formattedStartDate": "2005",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "GoldMining Inc.",
+      "ticker": "GOLD",
+      "exchange": "TSX",
+      "website": "https://www.goldmining.com",
+      "logoUrl": "/companies-assets/GOLD.TSX.svg",
+      "title": "Co-Chairman, Founder",
+      "startDate": "2009",
+      "endDate": null,
+      "formattedStartDate": "2009",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Gold Royalty Corp.",
+      "ticker": "GROY",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/amiradnani/",
+      "person_name": "Amir Adnani",
+      "company_name": "Uranium Energy Corp",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1,
+      "profile_status": "private"
+    }
+  ],
+  "committees": [],
+  "age": 46,
+  "ageYear": 2024
+}

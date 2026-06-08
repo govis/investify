@@ -1,0 +1,51 @@
+{
+  "id": "Anna Sudlow",
+  "name": "Anna Sudlow",
+  "background": "Ms Sudlow is a corporate finance professional with over 25 years’ experience across the energy and resources sectors. She has held senior finance roles with Woodside Energy and several ASX-listed mining companies. She is a Fellow of CPA Australia and a Graduate of the Australian Institute of Company Directors.",
+  "pictureUrl": "/managers-assets/Anna Sudlow.jpg",
+  "companies": [
+    {
+      "name": "Australian Vanadium Limited",
+      "ticker": "AVL",
+      "exchange": "ASX",
+      "website": "https://www.australianvanadium.com.au/",
+      "logoUrl": "/companies-assets/AVL.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2023-06-01",
+      "endDate": "2024-12-31",
+      "formattedStartDate": "June 2023",
+      "formattedEndDate": "December 2024"
+    },
+    {
+      "name": "Tap Oil Limited",
+      "ticker": "TAP",
+      "exchange": "ASX",
+      "website": "https://www.tapoil.com.au/",
+      "logoUrl": "https://media.licdn.com/dms/image/v2/C560BAQG1-1-1-1/company-logo_200_200/company-logo_200_200/0/1630656000000?e=2147483647&v=beta&t=5-y-z-w-x-v-u-t-s-r-q-p-o-n-m-l-k-j-i-h-g-f-e-d-c-b-a",
+      "title": "Commercial & Investor Relations Manager",
+      "startDate": "2014",
+      "endDate": "2016",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2016"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/anna-sudlow-99691324/",
+      "person_name": "Anna Sudlow",
+      "company_name": "Paladin Energy",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
+  "committees": [],
+  "age": 48,
+  "ageYear": 2024
+}

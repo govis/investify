@@ -1,0 +1,42 @@
+{
+  "name": "Leona Aglukkaq",
+  "first_name": "Leona",
+  "last_name": "Aglukkaq",
+  "age": 56,
+  "age_year": 2024,
+  "background": "Ms. Aglukkaq is a former Canadian politician who served as a Member of Parliament and held several cabinet positions, including Minister of Health and Minister of the Environment.",
+  "picture_url": "https://nunatsiaq.com/wp-content/uploads/2021/03/Leona_Aqlukkaq-1229x1536.png",
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Agnico Eagle Mines Limited",
+      "ticker": "AEM",
+      "exchange": "NYSE/TSX",
+      "title_or_role": "Director",
+      "website": "https://www.agnicoeagle.com",
+      "start_date": "April 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Victoria Gold Corp.",
+      "ticker": "VGCX",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://vgcx.com",
+      "start_date": "June 2022",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee (Chair)",
+    "Health, Safety, Environment and Sustainable Development Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

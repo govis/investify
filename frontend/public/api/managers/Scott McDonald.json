@@ -1,0 +1,30 @@
+{
+  "id": "Scott McDonald",
+  "name": "Scott McDonald",
+  "background": "Mr. McDonald is a senior executive with experience in corporate development and finance within the mining sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lundin Gold Inc.",
+      "ticker": "LUG",
+      "exchange": "TSX",
+      "website": "https://lundingold.com",
+      "logoUrl": "/companies-assets/LUG.TSX.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 51,
+  "ageYear": 2024
+}

@@ -1,0 +1,90 @@
+{
+  "id": "George Shaheen",
+  "name": "George Shaheen",
+  "background": "George T. Shaheen has been a member of our Board since June 2004. He was previously the Chief Executive Officer of Siebel Systems, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NetApp, Inc.",
+      "ticker": "NTAP",
+      "exchange": "NASDAQ",
+      "website": "https://www.netapp.com",
+      "logoUrl": "/companies-assets/NTAP.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2004",
+      "endDate": null,
+      "formattedStartDate": "2004",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Green Dot Corporation",
+      "ticker": "GDOT",
+      "exchange": "NYSE",
+      "website": "greendot.com",
+      "logoUrl": "/companies-assets/GDOT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Marcus & Millichap, Inc.",
+      "ticker": "MMI",
+      "exchange": "NYSE",
+      "website": "marcusmillichap.com",
+      "logoUrl": "/companies-assets/MMI.NYSE.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Korn Ferry",
+      "ticker": "KFY",
+      "exchange": "NYSE",
+      "website": "https://www.kornferry.com",
+      "logoUrl": "/companies-assets/KFY.NYSE.svg",
+      "title": "Director / Non-Executive Chair",
+      "startDate": "2007",
+      "endDate": "2019",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Siebel Systems, Inc.",
+      "ticker": "SEBL (Acquired)",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "CEO",
+      "startDate": "2005",
+      "endDate": "2006",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2006"
+    },
+    {
+      "name": "Webvan Group, Inc.",
+      "ticker": "WBVN (Defunct)",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "CEO",
+      "startDate": "1999",
+      "endDate": "2001",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2001"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee (Chair)",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 80,
+  "ageYear": 2024
+}

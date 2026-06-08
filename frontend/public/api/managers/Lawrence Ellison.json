@@ -1,0 +1,63 @@
+{
+  "id": "Lawrence Ellison",
+  "name": "Lawrence Ellison",
+  "background": "Mr. Ellison has been Oracle’s Chairman of the Board and Chief Technology Officer since September 2014. He served as Oracle’s Chief Executive Officer from June 1977, when he founded Oracle, until September 2014.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Oracle Corporation",
+      "ticker": "ORCL",
+      "exchange": "NYSE",
+      "website": "https://www.oracle.com",
+      "logoUrl": "/companies-assets/ORCL.NYSE.svg",
+      "title": "Co-Founder, CTO, Executive Chairman",
+      "startDate": "1977",
+      "endDate": null,
+      "formattedStartDate": "1977",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Tesla, Inc.",
+      "ticker": "TSLA",
+      "exchange": "NASDAQ",
+      "website": "https://www.tesla.com",
+      "logoUrl": "/companies-assets/TSLA.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": "2022",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "exchange": "NASDAQ",
+      "website": "https://www.apple.com",
+      "logoUrl": "/companies-assets/AAPL.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "1997",
+      "endDate": "2002",
+      "formattedStartDate": "1997",
+      "formattedEndDate": "2002"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/larry-ellison-8a5b2a1",
+      "person_name": "Lawrence Ellison",
+      "company_name": "Oracle Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 80,
+  "ageYear": 2024
+}

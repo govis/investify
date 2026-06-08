@@ -1,0 +1,40 @@
+{
+  "name": "Bill Lytle",
+  "first_name": "Bill",
+  "last_name": "Lytle",
+  "age": 58,
+  "age_year": 2024,
+  "background": "Mr. Lytle has been with B2Gold since 2007 and was appointed Senior Vice President, Operations in 2016.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "B2Gold Corp.",
+      "ticker": "BTG",
+      "exchange": "NYSE",
+      "title_or_role": "Senior Vice President and Chief Operating Officer",
+      "website": "https://www.b2gold.com",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/billlytle",
+      "person_name": "Bill Lytle",
+      "company_name": "B2Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

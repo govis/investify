@@ -1,0 +1,70 @@
+{
+  "name": "Teresa Briggs",
+  "first_name": "Teresa",
+  "last_name": "Briggs",
+  "age": 63,
+  "age_year": 2024,
+  "background": "Former Vice Chair and West Region Managing Partner of Deloitte LLP.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "ServiceNow, Inc.",
+      "ticker": "NOW",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.servicenow.com",
+      "start_date": "2019-03-01",
+      "end_date": null
+    },
+    {
+      "name": "Snowflake Inc.",
+      "ticker": "SNOW",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.snowflake.com",
+      "start_date": "2020-03-01",
+      "end_date": null
+    },
+    {
+      "name": "DocuSign, Inc.",
+      "ticker": "DOCU",
+      "exchange": "NASDAQ",
+      "website": "https://www.docusign.com",
+      "title_or_role": "Board of Directors",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Warby Parker Inc.",
+      "ticker": "WRBY",
+      "exchange": "NYSE",
+      "website": "https://www.warbyparker.com",
+      "title_or_role": "Board of Directors",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/teresabriggs",
+      "person_name": "Teresa Briggs",
+      "company_name": "Deloitte",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

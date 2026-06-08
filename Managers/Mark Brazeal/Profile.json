@@ -1,0 +1,50 @@
+{
+  "name": "Mark Brazeal",
+  "first_name": "Mark",
+  "last_name": "Brazeal",
+  "age": 54,
+  "age_year": 2024,
+  "background": "Mr. Brazeal has served as Chief Legal and Corporate Affairs Officer since June 2021. He joined Broadcom as Chief Legal Officer in December 2016. Prior to that, he was Chief Legal Officer and Senior Vice President, IP Licensing at SanDisk Corporation.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Broadcom Inc.",
+      "ticker": "AVGO",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chief Legal and Corporate Affairs Officer",
+      "website": "https://www.broadcom.com",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SanDisk Corporation",
+      "ticker": "SNDK",
+      "exchange": "NASDAQ",
+      "website": "https://www.sandisk.com",
+      "title_or_role": "Chief Legal Officer and Senior Vice President, IP Licensing",
+      "start_date": "2007",
+      "end_date": "2016-05",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mark-d-brazeal",
+      "person_name": "Mark Brazeal",
+      "company_name": "Broadcom Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

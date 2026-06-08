@@ -1,0 +1,29 @@
+{
+  "name": "Kuanysh Omarbekov",
+  "first_name": "Kuanysh",
+  "last_name": "Omarbekov",
+  "age": 42,
+  "age_year": 2024,
+  "background": "Kuanysh Omarbekov serves as the Chief Operating Officer. He has over 15 years of experience in the uranium mining industry, having held various management positions within Kazatomprom's subsidiaries, including Director of the Mining Department.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "National Atomic Company Kazatomprom JSC",
+      "ticker": "KAP",
+      "exchange": "LSE",
+      "title_or_role": "Chief Operating Officer / Member of the Management Board",
+      "website": "https://www.kazatomprom.kz/en",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

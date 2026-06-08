@@ -1,0 +1,40 @@
+{
+  "name": "Laszlo Kopits",
+  "first_name": "Laszlo",
+  "last_name": "Kopits",
+  "age": 58,
+  "age_year": 2024,
+  "background": "Laszlo Kopits has served as our General Counsel since 2017. Prior to joining Datadog, Mr. Kopits was the General Counsel of Dealertrack Technologies, Inc. and held various legal roles at Thomson Reuters. Mr. Kopits holds a B.A. from Johns Hopkins University and a J.D. from Columbia Law School.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Datadog, Inc.",
+      "ticker": "DDOG",
+      "exchange": "NASDAQ",
+      "title_or_role": "General Counsel",
+      "website": "https://www.datadoghq.com",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/laszlo-kopits-459b33",
+      "person_name": "Laszlo Kopits",
+      "company_name": "Datadog, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

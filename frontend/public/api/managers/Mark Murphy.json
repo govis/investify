@@ -1,0 +1,52 @@
+{
+  "id": "Mark Murphy",
+  "name": "Mark Murphy",
+  "background": "Mark Murphy is Executive Vice President and Chief Financial Officer. Before joining Micron in 2022, he served as CFO of Qorvo, Inc. and held senior financial positions at Delphi Automotive and Praxair.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Micron Technology, Inc.",
+      "ticker": "MU",
+      "exchange": "NASDAQ",
+      "website": "https://www.micron.com",
+      "logoUrl": "/companies-assets/MU.NASDAQ.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Qorvo, Inc.",
+      "ticker": "QRVO",
+      "exchange": "NASDAQ",
+      "website": "https://www.qorvo.com",
+      "logoUrl": "/companies-assets/QRVO.NASDAQ.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2016",
+      "endDate": "2021",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Delphi Automotive PLC (now Aptiv PLC)",
+      "ticker": "APTV",
+      "exchange": "NYSE",
+      "website": "https://www.aptiv.com",
+      "logoUrl": "/companies-assets/APTV.NYSE.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2015",
+      "endDate": "2016",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2016"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 56,
+  "ageYear": 2023
+}

@@ -1,0 +1,41 @@
+{
+  "id": "Bernard Bot",
+  "name": "Bernard Bot",
+  "background": "Bernard Bot is the CFO of Logitech. He has previously served as CFO of Travelport and Aer Lingus, and held senior roles at TNT Express.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Kingfisher plc",
+      "ticker": "KGF",
+      "exchange": "LSE",
+      "website": "kingfisher.com",
+      "logoUrl": "/companies-assets/KGF.LSE.png",
+      "title": "Chief Financial Officer & Executive Director",
+      "startDate": "October 21, 2019",
+      "endDate": "January 2025",
+      "formattedStartDate": "October 21, 2019",
+      "formattedEndDate": "January 2025"
+    },
+    {
+      "name": "Travelport Worldwide Limited",
+      "ticker": "TVPT",
+      "exchange": "NYSE",
+      "website": "https://www.travelport.com",
+      "logoUrl": "/companies-assets/TVPT.NYSE.svg",
+      "title": "Executive Vice President & Chief Financial Officer",
+      "startDate": "January 1, 2016",
+      "endDate": "September 2019",
+      "formattedStartDate": "January 1, 2016",
+      "formattedEndDate": "September 2019"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Chair of the Audit Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

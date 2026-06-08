@@ -1,0 +1,69 @@
+{
+  "name": "Ryan O'Connor",
+  "first_name": "Ryan",
+  "last_name": "O'Connor",
+  "age": 40,
+  "age_year": 2024,
+  "background": "Chief Executive Officer of Global X Management Company LLC since April 2024. Previously held various leadership roles at Goldman Sachs Asset Management.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Global X Lithium & Battery Tech ETF",
+      "ticker": "LIT",
+      "exchange": "NYSE",
+      "title_or_role": "Chief Executive Officer",
+      "website": "https://www.globalxetfs.com/funds/lit/",
+      "start_date": "2024-04-08",
+      "end_date": null
+    },
+    {
+      "name": "Global X Uranium ETF",
+      "ticker": "URA",
+      "exchange": "NYSE",
+      "title_or_role": "Chief Executive Officer",
+      "website": "https://www.globalxetfs.com/funds/ura/",
+      "start_date": "2024-04-08",
+      "end_date": null
+    },
+    {
+      "name": "Global X ETFs",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "https://www.globalxetfs.com",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "April 8, 2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "ticker": "GS",
+      "exchange": "NYSE",
+      "website": "https://www.goldmansachs.com",
+      "title_or_role": "Global Head of ETF Product, Goldman Sachs Asset Management",
+      "start_date": "Prior to 2024",
+      "end_date": "2024",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ryan-o-connor-7b3b034",
+      "person_name": "Ryan O'Connor",
+      "company_name": "Global X ETFs",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,113 @@
+{
+  "id": "Stephen Stewart",
+  "name": "Stephen Stewart",
+  "background": "Mr. Stewart is the Chairman of the Orefinders Resources and Mistango River Resources. He has over 15 years of experience in the resource sector, focusing on corporate development and capital markets. He is also the founder of the Young Mining Professionals.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Baselode Energy Corp.",
+      "ticker": "FIND",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman / Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "American Eagle Gold Corp.",
+      "ticker": "AE",
+      "exchange": "TSXV",
+      "website": "https://americaneaglegold.ca/",
+      "logoUrl": "/companies-assets/AE.TSXV.svg",
+      "title": "Chairman / Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Orecap Invest Corp.",
+      "ticker": "OCI",
+      "exchange": "TSXV",
+      "website": "orecap.ca",
+      "logoUrl": "/companies-assets/OCI.TSXV.svg",
+      "title": "Chairman / Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "XXIX Metal Corp.",
+      "ticker": "XXIX",
+      "exchange": "TSXV",
+      "website": "https://xxix.ca",
+      "logoUrl": "/companies-assets/XXIX.TSXV.png",
+      "title": "Chairman / Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Mistango River Resources Inc.",
+      "ticker": "MIS",
+      "exchange": "CSE",
+      "website": "https://mistango.com",
+      "logoUrl": "/companies-assets/MIS.CSE.png",
+      "title": "Chairman / Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Metal Energy Corp.",
+      "ticker": "MERG",
+      "exchange": "TSXV",
+      "website": "https://metalenergy.ca/",
+      "logoUrl": "/companies-assets/MERG.TSXV.svg",
+      "title": "Chairman / Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Orefinders Resources Inc.",
+      "ticker": "ORX",
+      "exchange": "TSXV",
+      "website": "https://orefinders.ca",
+      "logoUrl": "/companies-assets/ORX.TSXV.png",
+      "title": "CEO / Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Awalé Resources Ltd.",
+      "ticker": "ARIC",
+      "exchange": "TSXV",
+      "website": "https://awaleresources.com",
+      "logoUrl": "/companies-assets/ARIC.TSXV.webp",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 44,
+  "ageYear": 2024
+}

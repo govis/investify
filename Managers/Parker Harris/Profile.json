@@ -1,0 +1,40 @@
+{
+  "name": "Parker Harris",
+  "first_name": "Parker",
+  "last_name": "Harris",
+  "age": 57,
+  "age_year": 2024,
+  "background": "Co-founder of Salesforce and Slack CTO. He has served as a Director since 2018.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Salesforce, Inc.",
+      "ticker": "CRM",
+      "exchange": "NYSE",
+      "title_or_role": "Co-Founder and Director",
+      "website": "https://www.salesforce.com",
+      "start_date": "1999",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/parker-harris",
+      "person_name": "Parker Harris",
+      "company_name": "Salesforce",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

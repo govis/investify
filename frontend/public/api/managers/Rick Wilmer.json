@@ -1,0 +1,50 @@
+{
+  "id": "Rick Wilmer",
+  "name": "Rick Wilmer",
+  "background": "Rick Wilmer has served as our President and Chief Executive Officer and as a member of our Board since November 2023. Prior to that, he served as our Chief Operating Officer from July 2022 to November 2023. Prior to joining ChargePoint, Mr. Wilmer served as Head of Customer Relations and Operations at Pliops, a data processor company, from January 2021 to June 2022. From 2017 to 2020, he was the Chief Executive Officer of Chowbotics, a food robotics company. Mr. Wilmer has also held various leadership roles at companies such as Mojo Networks, Leyden Energy, and Santur Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "ChargePoint Holdings, Inc.",
+      "ticker": "CHPT",
+      "exchange": "NYSE",
+      "website": "https://www.chargepoint.com",
+      "logoUrl": "/companies-assets/CHPT.NYSE.svg",
+      "title": "Chief Customer and Operations Officer",
+      "startDate": "Jul 2022",
+      "endDate": "Nov 2023",
+      "formattedStartDate": "Jul 2022",
+      "formattedEndDate": "Nov 2023"
+    },
+    {
+      "name": "DoorDash, Inc.",
+      "ticker": "DASH",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Head of Chowbotics",
+      "startDate": "Feb 2021",
+      "endDate": "Jul 2022",
+      "formattedStartDate": "Feb 2021",
+      "formattedEndDate": "Jul 2022"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rick-wilmer-4522111/",
+      "person_name": "Rick Wilmer",
+      "company_name": "ChargePoint",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 59,
+  "ageYear": 2024
+}

@@ -1,0 +1,76 @@
+{
+  "id": "Lara Sweet",
+  "name": "Lara Sweet",
+  "background": "Lara Sweet has served as a member of our board of directors since March 2024. Ms. Sweet served as the Chief Financial Officer of Snap Inc. from May 2019 to March 2021.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Fastly, Inc.",
+      "ticker": "FSLY",
+      "exchange": "NYSE",
+      "website": "https://www.fastly.com",
+      "logoUrl": "/companies-assets/FSLY.NYSE.svg",
+      "title": "Director",
+      "startDate": "2023-06",
+      "endDate": null,
+      "formattedStartDate": "June 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "MediaAlpha, Inc.",
+      "ticker": "MAX",
+      "exchange": "NYSE",
+      "website": "https://www.mediaalpha.com",
+      "logoUrl": "/companies-assets/MAX.NYSE.svg",
+      "title": "Director",
+      "startDate": "2020-10",
+      "endDate": "2026-05",
+      "formattedStartDate": "October 2020",
+      "formattedEndDate": "May 2026"
+    },
+    {
+      "name": "Entravision Communications Corp.",
+      "ticker": "EVC",
+      "exchange": "NYSE",
+      "website": "https://www.entravision.com",
+      "logoUrl": "/companies-assets/EVC.NYSE.svg",
+      "title": "Director",
+      "startDate": "2023-10",
+      "endDate": "2026-05",
+      "formattedStartDate": "October 2023",
+      "formattedEndDate": "May 2026"
+    },
+    {
+      "name": "Snap Inc.",
+      "ticker": "SNAP",
+      "exchange": "NYSE",
+      "website": "https://www.snap.com",
+      "logoUrl": "/companies-assets/SNAP.NYSE.svg",
+      "title": "Chief Accounting Officer",
+      "startDate": "2017-01",
+      "endDate": "2019-01",
+      "formattedStartDate": "January 2017",
+      "formattedEndDate": "January 2019"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/lara-sweet-0790304",
+      "person_name": "Lara Sweet",
+      "company_name": "Snap Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 49,
+  "ageYear": 2024
+}

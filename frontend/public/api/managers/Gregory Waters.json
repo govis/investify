@@ -1,0 +1,52 @@
+{
+  "id": "Gregory Waters",
+  "name": "Gregory Waters",
+  "background": "Gregory L. Waters has served as a director since 2020. He previously served as President and Chief Executive Officer of Integrated Device Technology, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Integrated Device Technology, Inc.",
+      "ticker": "IDTI",
+      "exchange": "NASDAQ",
+      "website": "https://www.idt.com",
+      "logoUrl": "/companies-assets/IDTI.NASDAQ.svg",
+      "title": "President, CEO, and Director",
+      "startDate": "2014-01-06",
+      "endDate": "2019-03-31",
+      "formattedStartDate": "January 2014",
+      "formattedEndDate": "March 2019"
+    },
+    {
+      "name": "Skyworks Solutions, Inc.",
+      "ticker": "SWKS",
+      "exchange": "NASDAQ",
+      "website": "https://www.skyworksinc.com",
+      "logoUrl": "/companies-assets/SWKS.NASDAQ.svg",
+      "title": "Executive Vice President and General Manager, Front-End Solutions",
+      "startDate": "2003-04-01",
+      "endDate": "2012-12-31",
+      "formattedStartDate": "April 2003",
+      "formattedEndDate": "December 2012"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gcwaters",
+      "person_name": "Gregory Waters",
+      "company_name": "ON Semiconductor Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

@@ -1,0 +1,64 @@
+{
+  "id": "Paul Gill",
+  "name": "Paul Gill",
+  "background": "Mr. Gill is the President of AJS Management Inc., a company providing management consulting services.",
+  "pictureUrl": "/managers-assets/Paul Gill.jpg",
+  "companies": [
+    {
+      "name": "Azincourt Energy Corp.",
+      "ticker": "AZI",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "President, CEO, and Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Lomiko Metals Inc.",
+      "ticker": "LMR",
+      "exchange": "TSXV",
+      "website": "https://lomiko.com",
+      "logoUrl": "/companies-assets/LMR.TSXV.png",
+      "title": "Former President, CEO, and Director",
+      "startDate": "2011",
+      "endDate": "2020",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Grenville Gold Corp. (now known as Grenville Strategic Royalty Corp.)",
+      "ticker": "GRC",
+      "exchange": "TSXV",
+      "website": "https://www.grenvilleroyalty.com",
+      "logoUrl": null,
+      "title": "Former President, CEO, and Director",
+      "startDate": "2008",
+      "endDate": "2012",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2012"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/paul-gill-mba",
+      "person_name": "Paul Gill",
+      "company_name": "Azincourt Energy Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

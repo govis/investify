@@ -1,0 +1,51 @@
+{
+  "id": "Mary Hassett",
+  "name": "Mary Hassett",
+  "background": "Ms. Hassett has been our Senior Vice President and Chief Human Resources Officer since May 2020. Prior to joining Lam, she spent 25 years at Hewlett Packard Enterprise in various HR leadership roles.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lam Research Corporation",
+      "ticker": "LRCX",
+      "exchange": "NASDAQ",
+      "website": "https://www.lamresearch.com",
+      "logoUrl": "/companies-assets/LRCX.NASDAQ.svg",
+      "title": "Chief Human Resources Officer",
+      "startDate": "August 2020",
+      "endDate": null,
+      "formattedStartDate": "August 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Hewlett Packard Enterprise Company",
+      "ticker": "HPE",
+      "exchange": "NYSE",
+      "website": "https://www.arubanetworks.com",
+      "logoUrl": "https://www.arubanetworks.com/assets/images/logos/Aruba_a_Hewlett_Packard_Enterprise_company-Logo.png",
+      "title": "Senior Vice President, Human Resources (Hybrid IT organization)",
+      "startDate": "Prior to 2020",
+      "endDate": "August 2020",
+      "formattedStartDate": "Prior to 2020",
+      "formattedEndDate": "August 2020"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mary-hassett-5734272",
+      "person_name": "Mary Hassett",
+      "company_name": "Lam Research Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 56,
+  "ageYear": 2024
+}

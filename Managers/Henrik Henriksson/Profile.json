@@ -1,0 +1,101 @@
+{
+  "name": "Henrik Henriksson",
+  "first_name": "Henrik",
+  "last_name": "Henriksson",
+  "age": 54,
+  "age_year": 2024,
+  "background": "CEO of H2 Green Steel. Former CEO of Scania.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Saab AB",
+      "ticker": "SAAB-B",
+      "exchange": "STO",
+      "title_or_role": "Member of the Board",
+      "website": "https://www.saab.com",
+      "start_date": "2021-04-13",
+      "end_date": null
+    },
+    {
+      "name": "Saab Aktiebolag",
+      "ticker": "SAAB",
+      "exchange": "STO",
+      "title_or_role": "Member of the Board",
+      "website": "https://www.saab.com",
+      "start_date": "2021-04-13",
+      "end_date": null
+    },
+    {
+      "name": "Scania AB",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "https://www.scania.com",
+      "title_or_role": "President and CEO",
+      "start_date": "2016-01-01",
+      "end_date": "2021-05-01",
+      "validated": true
+    },
+    {
+      "name": "TRATON SE",
+      "ticker": "8TRA",
+      "exchange": "Frankfurt Stock Exchange",
+      "website": "https://www.traton.com",
+      "title_or_role": "Member of the Executive Board",
+      "start_date": "2012-06-01",
+      "end_date": "2021-05-01",
+      "validated": true
+    },
+    {
+      "name": "AB Electrolux",
+      "ticker": "ELUX-B",
+      "exchange": "Nasdaq Stockholm",
+      "website": "https://www.electroluxgroup.com",
+      "title_or_role": "Board Member",
+      "start_date": "2020-01-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hexagon AB",
+      "ticker": "HEXA-B",
+      "exchange": "Nasdaq Stockholm",
+      "website": "https://hexagon.com",
+      "title_or_role": "Board Member",
+      "start_date": "2021-01-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Creades AB",
+      "ticker": "CREAD-A",
+      "exchange": "Nasdaq Stockholm",
+      "website": "https://www.creades.se",
+      "title_or_role": "Board Member",
+      "start_date": "2021-01-01",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://se.linkedin.com/in/henrik-henriksson-b4893112a",
+      "person_name": "Henrik Henriksson",
+      "company_name": "H2 Green Steel",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Remuneration Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

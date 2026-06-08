@@ -1,0 +1,38 @@
+{
+  "id": "Dave Rouleau",
+  "name": "Dave Rouleau",
+  "background": "Mr. Rouleau has over 30 years of experience in mine operations and management. He joined Victoria Gold in 2017 and was previously Vice President, Operations at Taseko Mines Limited.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Osisko Development Corp.",
+      "ticker": "ODV",
+      "exchange": "NYSE",
+      "website": "https://osiskodev.com/",
+      "logoUrl": "/companies-assets/ODV.NYSE.svg",
+      "title": "Vice President, Project Development",
+      "startDate": "2025-01-09",
+      "endDate": null,
+      "formattedStartDate": "January 2025",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/david-rouleau-b32b79123",
+      "person_name": "David Rouleau",
+      "company_name": "Victoria Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

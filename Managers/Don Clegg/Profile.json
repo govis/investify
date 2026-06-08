@@ -1,0 +1,40 @@
+{
+  "name": "Don Clegg",
+  "first_name": "Don",
+  "last_name": "Clegg",
+  "age": 67,
+  "age_year": 2023,
+  "background": "Don Clegg has served as Senior Vice President, Worldwide Sales since 2019. He joined Supermicro in 2006 and has held various roles in sales and marketing. Prior to Supermicro, he held leadership roles at several technology companies.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Super Micro Computer, Inc.",
+      "ticker": "SMCI",
+      "exchange": "NASDAQ",
+      "title_or_role": "Senior Vice President, Worldwide Sales",
+      "website": "https://www.supermicro.com",
+      "start_date": "April 2006",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/don-clegg-8423061",
+      "person_name": "Don Clegg",
+      "company_name": "Super Micro Computer, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

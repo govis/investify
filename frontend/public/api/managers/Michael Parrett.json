@@ -1,0 +1,42 @@
+{
+  "id": "Michael Parrett",
+  "name": "Michael Parrett",
+  "background": "Mr. Parrett is the Chair of the Board. He is a corporate director and was formerly the President and CEO of Billiton Metals Canada Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Stillwater Mining Company",
+      "ticker": "SWC",
+      "exchange": "NYSE",
+      "website": "https://www.sibanyestillwater.com/",
+      "logoUrl": "/companies-assets/SWC.NYSE.svg",
+      "title": "Director",
+      "startDate": "2009",
+      "endDate": "2017",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Pengrowth Energy Corporation",
+      "ticker": "PGF",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "https://www.logo.wine/a/logo/Pengrowth_Energy/Pengrowth_Energy-Logo.wine.svg",
+      "title": "Director",
+      "startDate": "2004",
+      "endDate": "2016",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2016"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Human Resources and Compensation Committee"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

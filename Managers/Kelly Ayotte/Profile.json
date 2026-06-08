@@ -1,0 +1,82 @@
+{
+  "name": "Kelly Ayotte",
+  "first_name": "Kelly",
+  "last_name": "Ayotte",
+  "age": 55,
+  "age_year": 2024,
+  "background": "Former U.S. Senator for New Hampshire and former Attorney General of New Hampshire.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Caterpillar Inc.",
+      "ticker": "CAT",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.caterpillar.com",
+      "start_date": "2017-01-01",
+      "end_date": null
+    },
+    {
+      "name": "News Corp",
+      "ticker": "NWSA",
+      "exchange": "NASDAQ",
+      "website": "https://newscorp.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "April 1, 2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Blackstone Inc.",
+      "ticker": "BX",
+      "exchange": "NYSE",
+      "website": "https://www.blackstone.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2020",
+      "end_date": "November 14, 2024",
+      "validated": true
+    },
+    {
+      "name": "Bloom Energy Corporation",
+      "ticker": "BE",
+      "exchange": "NYSE",
+      "website": "https://www.bloomenergy.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "November 2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "BXP (Boston Properties, Inc.)",
+      "ticker": "BXP",
+      "exchange": "NYSE",
+      "website": "https://www.bxp.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kellyayotte",
+      "person_name": "Kelly Ayotte",
+      "company_name": "Caterpillar Inc., News Corp, Blackstone Inc., Bloom Energy Corporation, BXP",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Public Policy and Sustainability Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

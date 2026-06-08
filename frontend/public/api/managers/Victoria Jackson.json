@@ -1,0 +1,30 @@
+{
+  "id": "Victoria Jackson",
+  "name": "Victoria Jackson",
+  "background": "Ms. Jackson is an experienced lawyer and executive with over 25 years' experience in the mining and energy sectors. She has held senior roles at South32 and BHP.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Deep Yellow Limited",
+      "ticker": "DYLLF",
+      "exchange": "OTCQX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Director",
+      "startDate": "October 2022",
+      "endDate": null,
+      "formattedStartDate": "October 2022",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Remuneration Committee (Chair)"
+  ],
+  "age": 52,
+  "ageYear": 2024
+}

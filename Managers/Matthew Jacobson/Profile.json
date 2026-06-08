@@ -1,0 +1,62 @@
+{
+  "name": "Matthew Jacobson",
+  "first_name": "Matthew",
+  "last_name": "Jacobson",
+  "age": 37,
+  "age_year": 2024,
+  "background": "General Partner at ICONIQ Capital.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Datadog, Inc.",
+      "ticker": "DDOG",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.datadoghq.com/",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "GitLab Inc.",
+      "ticker": "GTLB",
+      "exchange": "NASDAQ",
+      "website": "https://about.gitlab.com/",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Braze, Inc.",
+      "ticker": "BRZE",
+      "exchange": "NASDAQ",
+      "website": "https://www.braze.com/",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2022",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/matthew-jacobson-4645106",
+      "person_name": "Matthew Jacobson",
+      "company_name": "ICONIQ Capital",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

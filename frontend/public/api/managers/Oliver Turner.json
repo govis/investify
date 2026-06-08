@@ -1,0 +1,50 @@
+{
+  "id": "Oliver Turner",
+  "name": "Oliver Turner",
+  "background": "Mr. Turner has over 15 years of experience in the mining industry, specifically in capital markets and corporate development. Prior to Karora, he was Senior Vice President at a Canadian precious metals producer.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Karora Resources Inc.",
+      "ticker": "KRR",
+      "exchange": "TSX",
+      "website": "https://www.karoraresources.com",
+      "logoUrl": "/companies-assets/KRR.TSX.jpg",
+      "title": "EVP, Corporate Development",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Americas Gold and Silver Corporation",
+      "ticker": "USAS",
+      "exchange": "TSX",
+      "website": "https://americas-gold.com",
+      "logoUrl": "/companies-assets/USAS.TSX.svg",
+      "title": "EVP, Corporate Development",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/oliver-turner-8a5b2a12",
+      "person_name": "Oliver Turner",
+      "company_name": "Karora Resources Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

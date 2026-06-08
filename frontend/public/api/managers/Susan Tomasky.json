@@ -1,0 +1,53 @@
+{
+  "id": "Susan Tomasky",
+  "name": "Susan Tomasky",
+  "background": "Former President of AEP Transmission and former General Counsel of the Federal Energy Regulatory Commission.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Marathon Petroleum Corporation",
+      "ticker": "MPC",
+      "exchange": "NYSE",
+      "website": "https://www.marathonpetroleum.com",
+      "logoUrl": "/companies-assets/MPC.NYSE.svg",
+      "title": "Director",
+      "startDate": "2012",
+      "endDate": "2025",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "American Electric Power Company, Inc.",
+      "ticker": "AEP",
+      "exchange": "NASDAQ",
+      "website": "https://www.aep.com",
+      "logoUrl": "/companies-assets/AEP.NASDAQ.png",
+      "title": "President, AEP Transmission (and other senior executive roles including CFO and General Counsel)",
+      "startDate": "1998",
+      "endDate": "2011",
+      "formattedStartDate": "1998",
+      "formattedEndDate": "2011"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/susan-tomasky-b9161212",
+      "person_name": "Susan Tomasky",
+      "company_name": "Public Service Enterprise Group Incorporated",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Executive",
+    "Governance and Nominating (Chair)"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

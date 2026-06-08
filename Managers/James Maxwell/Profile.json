@@ -1,0 +1,61 @@
+{
+  "name": "James Maxwell",
+  "first_name": "James",
+  "last_name": "Maxwell",
+  "age": 44,
+  "age_year": 2024,
+  "background": "Mr. Maxwell is a professional geoscientist with over 20 years of experience in mineral exploration. He has held senior roles at Sabina Gold & Silver and Claude Resources.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "First Mining Gold Corp.",
+      "ticker": "FF",
+      "exchange": "TSX",
+      "title_or_role": "VP, Exploration & Project Operations",
+      "website": "https://firstmininggold.com/",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cassiar Gold Corp.",
+      "ticker": "GLDC",
+      "exchange": "TSXV",
+      "website": "https://cassiargold.com/",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sabina Gold & Silver Corp.",
+      "ticker": "SBB",
+      "exchange": "TSX",
+      "website": "https://www.sabinagoldsilver.com/",
+      "title_or_role": "Director of Exploration",
+      "start_date": null,
+      "end_date": "2021",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/james-maxwell-86b5ab32",
+      "person_name": "James Maxwell",
+      "company_name": "First Mining Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

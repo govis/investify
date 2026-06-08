@@ -1,0 +1,74 @@
+{
+  "name": "Rani Borkar",
+  "first_name": "Rani",
+  "last_name": "Borkar",
+  "age": 62,
+  "age_year": 2024,
+  "background": "Rani Borkar is Corporate Vice President, Azure Hardware Systems and Infrastructure at Microsoft Corporation. She previously held leadership roles at Intel and IBM.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Applied Materials, Inc.",
+      "ticker": "AMAT",
+      "exchange": "NASDAQ",
+      "title_or_role": "Member, Board of Directors",
+      "website": "https://www.appliedmaterials.com",
+      "start_date": "December 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "https://www.microsoft.com",
+      "title_or_role": "Corporate Vice President, Azure Hardware Systems and Infrastructure",
+      "start_date": "June 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "IBM Corporation",
+      "ticker": "IBM",
+      "exchange": "NYSE",
+      "website": "https://www.ibm.com",
+      "title_or_role": "Vice President, OpenPOWER Development",
+      "start_date": "2016",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "title_or_role": "Corporate Vice President and General Manager, Intel Architecture Development Group",
+      "start_date": "1988",
+      "end_date": "2016",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rani-borkar-555a111",
+      "person_name": "Rani Borkar",
+      "company_name": "Microsoft",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Strategy Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

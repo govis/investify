@@ -1,0 +1,53 @@
+{
+  "name": "Gloria Flach",
+  "first_name": "Gloria",
+  "last_name": "Flach",
+  "age": 63,
+  "age_year": 2024,
+  "background": "Former Chief Operating Officer of Northrop Grumman Corporation.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Emerson Electric Co.",
+      "ticker": "EMR",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.emerson.com",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "website": "https://www.northropgrumman.com",
+      "title_or_role": "Corporate Vice President and Chief Operating Officer",
+      "start_date": "1981",
+      "end_date": "2017-12-31",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gloria-flach-5a5b5a12",
+      "person_name": "Gloria Flach",
+      "company_name": "Northrop Grumman Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit",
+    "Finance"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

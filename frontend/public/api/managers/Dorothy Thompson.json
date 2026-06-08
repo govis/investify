@@ -1,0 +1,55 @@
+{
+  "id": "Dorothy Thompson",
+  "name": "Dorothy Thompson",
+  "background": "Retired Chief Executive Officer of Drax Group plc. She served as CEO from 2005 to 2017.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Drax Group plc",
+      "ticker": "DRX",
+      "exchange": "LSE",
+      "website": "https://www.drax.com",
+      "logoUrl": "/companies-assets/DRX.LSE.svg",
+      "title": "Chief Executive Officer and Director",
+      "startDate": "2005",
+      "endDate": "2017",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Tullow Oil plc",
+      "ticker": "TLW",
+      "exchange": "LSE",
+      "website": "https://www.tullowoil.com",
+      "logoUrl": "/companies-assets/TLW.LSE.jpg",
+      "title": "Non-Executive Chair",
+      "startDate": "2018",
+      "endDate": "2024",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Rotork plc",
+      "ticker": "ROR",
+      "exchange": "LSE",
+      "website": "https://www.rotork.com",
+      "logoUrl": "/companies-assets/ROR.LSE.svg",
+      "title": "Chair",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Finance"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

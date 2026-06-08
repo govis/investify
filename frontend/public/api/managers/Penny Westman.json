@@ -1,0 +1,41 @@
+{
+  "id": "Penny Westman",
+  "name": "Penny Westman",
+  "background": "Ms. Westman is a lawyer with over 35 years of experience in the mining industry, including senior roles at Barrick Gold Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Osisko Gold Royalties Ltd",
+      "ticker": "OR",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/penny-westman-7990895",
+      "person_name": "Penny Westman",
+      "company_name": "Osisko Gold Royalties Ltd",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Environmental and Sustainability Committee",
+    "Governance and Nomination Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

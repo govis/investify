@@ -1,0 +1,41 @@
+{
+  "id": "Founder and former CEO",
+  "name": "Founder and former CEO",
+  "background": "Founder and former CEO of Cypress Semiconductor; Chairman of Enphase Energy.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Nextpower Inc. (formerly Nextracker Inc.)",
+      "ticker": "NXT",
+      "exchange": "NASDAQ",
+      "website": "https://www.nextracker.com",
+      "logoUrl": "/companies-assets/NXT.NASDAQ.svg",
+      "title": "Founder & CEO",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "SunPower Corporation",
+      "ticker": "SPWR",
+      "exchange": "NASDAQ",
+      "website": "https://us.sunpower.com",
+      "logoUrl": "/companies-assets/SPWR.NASDAQ.svg",
+      "title": "President, Systems Division",
+      "startDate": "2007",
+      "endDate": "2009",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2009"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 76,
+  "ageYear": 2024
+}

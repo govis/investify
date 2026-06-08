@@ -1,0 +1,40 @@
+{
+  "id": "Joseph Joe Lonsdale",
+  "name": "Joseph \"Joe\" Lonsdale",
+  "background": "Managing Partner at 8VC and co-founder of Palantir Technologies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "ServiceNow, Inc.",
+      "ticker": "NOW",
+      "exchange": "NYSE",
+      "website": "https://www.servicenow.com",
+      "logoUrl": "/companies-assets/NOW.NYSE.svg",
+      "title": "Board of Directors",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jtlonsdale",
+      "person_name": "Joe Lonsdale",
+      "company_name": "8VC",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 41,
+  "ageYear": 2024
+}

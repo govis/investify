@@ -1,0 +1,68 @@
+{
+  "name": "Peter Johnston",
+  "first_name": "Peter",
+  "last_name": "Johnston",
+  "age": 45,
+  "age_year": 2024,
+  "background": "Mr. Johnston is a Chartered Professional Accountant with over 15 years of financial experience in the mining and manufacturing sectors. He previously served as Corporate Controller for the Company.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Electra Battery Materials Corporation",
+      "ticker": "ELBM",
+      "exchange": "TSX",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://electrabmc.com",
+      "start_date": "2023-08-15",
+      "end_date": null
+    },
+    {
+      "name": "Jervois Global Limited",
+      "ticker": "JRV",
+      "exchange": "ASX",
+      "website": "https://jervoisglobal.com/",
+      "title_or_role": "Chairman / Non-Executive Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Tronox Holdings plc",
+      "ticker": "TROX",
+      "exchange": "NYSE",
+      "website": "https://www.tronox.com/",
+      "title_or_role": "Interim CEO",
+      "start_date": "May 15, 2017",
+      "end_date": "November 30, 2017",
+      "validated": true
+    },
+    {
+      "name": "Vault Minerals Limited (formerly Red 5 Limited)",
+      "ticker": "VAU",
+      "exchange": "ASX",
+      "website": "https://vaultminerals.com.au/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Glencore plc",
+      "ticker": "GLEN",
+      "exchange": "LSE",
+      "website": "https://www.glencore.com/",
+      "title_or_role": "Global Head of Nickel Assets",
+      "start_date": "May 2013",
+      "end_date": "December 2015",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

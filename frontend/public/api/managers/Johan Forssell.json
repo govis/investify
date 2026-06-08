@@ -1,0 +1,76 @@
+{
+  "id": "Johan Forssell",
+  "name": "Johan Forssell",
+  "background": "Johan Forssell is a Director and the President and CEO of Investor AB.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Investor AB",
+      "ticker": "INVE-B.ST",
+      "exchange": "STO",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and CEO",
+      "startDate": "2015",
+      "endDate": "2024",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Epiroc AB",
+      "ticker": "EPI-A.ST",
+      "exchange": "STO",
+      "website": null,
+      "logoUrl": null,
+      "title": "Member of the Board of Directors",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Wärtsilä Oyj Abp",
+      "ticker": "WRT1V.HE",
+      "exchange": "HE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Member of the Board of Directors",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "ABB Ltd",
+      "ticker": "ABBN.SW",
+      "exchange": "SWX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Member of the Board of Directors",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://se.linkedin.com/in/johan-forssell-9975183",
+      "person_name": "Johan Forssell",
+      "company_name": "Investor AB",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Remuneration Committee"
+  ],
+  "age": 53,
+  "ageYear": 2024
+}

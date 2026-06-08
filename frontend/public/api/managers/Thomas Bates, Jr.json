@@ -1,0 +1,89 @@
+{
+  "id": "Thomas Bates, Jr",
+  "name": "Thomas Bates, Jr.",
+  "background": "Independent Director. Adjunct Professor at Texas Christian University and former executive in the energy industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "SSR Mining Inc.",
+      "ticker": "SSRM",
+      "exchange": "NASDAQ",
+      "website": "https://www.ssrmining.com",
+      "logoUrl": "/companies-assets/SSRM.NASDAQ.svg",
+      "title": "Director (Lead Independent Director)",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "TETRA Technologies, Inc.",
+      "ticker": "TTI",
+      "exchange": "NYSE",
+      "website": "https://www.tetratec.com",
+      "logoUrl": "/companies-assets/TTI.NYSE.svg",
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": null,
+      "formattedStartDate": "2010",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Weatherford International plc",
+      "ticker": "WFRD",
+      "exchange": "NASDAQ",
+      "website": "https://www.weatherford.com",
+      "logoUrl": "/companies-assets/WFRD.NASDAQ.svg",
+      "title": "Chairman of the Board",
+      "startDate": "2019",
+      "endDate": "2022",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Hercules Offshore, Inc.",
+      "ticker": "HERO",
+      "exchange": "NASDAQ",
+      "website": "N/A",
+      "logoUrl": "/companies-assets/HERO.NASDAQ.svg",
+      "title": "Chairman of the Board",
+      "startDate": "2007",
+      "endDate": "2016",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Vantage Drilling International",
+      "ticker": "VTDRF",
+      "exchange": "OTC",
+      "website": "https://vantagedrilling.com",
+      "logoUrl": "/companies-assets/VTDRF.OTC.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/thomas-bates-jr-5a5b2a12",
+      "person_name": "Thomas Bates, Jr.",
+      "company_name": "Weatherford International",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation and Leadership Development Committee"
+  ],
+  "age": 74,
+  "ageYear": 2024
+}

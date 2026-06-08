@@ -1,0 +1,42 @@
+{
+  "name": "Mich\u00e8le Flournoy",
+  "first_name": "Mich\u00e8le",
+  "last_name": "Flournoy",
+  "age": 63,
+  "age_year": 2024,
+  "background": "Ms. Flournoy is Co-Founder and Managing Partner of WestExec Advisors. She previously served as U.S. Under Secretary of Defense for Policy.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Booz Allen Hamilton Holding Corporation",
+      "ticker": "BAH",
+      "exchange": "NYSE",
+      "title_or_role": "Member, Board of Directors",
+      "website": "https://www.boozallen.com",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CSRA Inc.",
+      "ticker": "CSRA",
+      "exchange": "NYSE",
+      "website": "https://www.gd.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2015-11-30",
+      "end_date": "2018-04-02",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

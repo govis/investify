@@ -1,0 +1,51 @@
+{
+  "id": "Nathalie Laurin",
+  "name": "Nathalie Laurin",
+  "background": "Ms. Laurin has over 30 years of experience in administration and accounting. She has served as CFO for several public companies in the resource sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Delta Resources Limited",
+      "ticker": "DLTA",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director / Officer",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Critical Elements Lithium Corp.",
+      "ticker": "CRE",
+      "exchange": "TSXV",
+      "website": "cecorp.ca",
+      "logoUrl": "/companies-assets/CRE.TSXV.png",
+      "title": "CFO / Secretary",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/nathalielaurin",
+      "person_name": "Nathalie Laurin",
+      "company_name": "Critical Elements Lithium Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 58,
+  "ageYear": 2024
+}

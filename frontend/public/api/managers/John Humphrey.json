@@ -1,0 +1,42 @@
+{
+  "id": "John Humphrey",
+  "name": "John Humphrey",
+  "background": "John Humphrey was appointed as a Non-Executive Director on 15 May 2017 and as Chairman on 30 November 2023. He is a former Executive Dean of the Faculty of Law at Queensland University of Technology and a former Senior Partner of King & Wood Mallesons.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Spotless Group Holdings Limited",
+      "ticker": "SPO",
+      "exchange": "ASX",
+      "website": "https://www.spotless.com.au/",
+      "logoUrl": "/companies-assets/SPO.ASX.svg",
+      "title": "Chairman and Non-Executive Director",
+      "startDate": "2017-01-01",
+      "endDate": "2021-01-31",
+      "formattedStartDate": "January 2017",
+      "formattedEndDate": "January 2021"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/john-humphrey-7a5a5a1a/",
+      "person_name": "John Humphrey",
+      "company_name": "Lynas Rare Earths Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee",
+    "Nomination and Governance Committee (Chair)",
+    "Remuneration Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

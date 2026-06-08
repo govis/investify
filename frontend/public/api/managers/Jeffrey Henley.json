@@ -1,0 +1,40 @@
+{
+  "id": "Jeffrey Henley",
+  "name": "Jeffrey Henley",
+  "background": "Mr. Henley has been Vice Chairman of the Board since September 2014. He served as Chairman of the Board from 2004 to 2014 and as Executive Vice President and Chief Financial Officer from 1991 to 2004.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Oracle Corporation",
+      "ticker": "ORCL",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "CFO & EVP",
+      "startDate": "1991-03",
+      "endDate": "2004-07",
+      "formattedStartDate": "March 1991",
+      "formattedEndDate": "July 2004"
+    },
+    {
+      "name": "Saga Corporation",
+      "ticker": "N/A (Delisted)",
+      "exchange": "NYSE (Historical)",
+      "website": null,
+      "logoUrl": null,
+      "title": "EVP & CFO",
+      "startDate": "Prior to 1991",
+      "endDate": "1991",
+      "formattedStartDate": "Prior to 1991",
+      "formattedEndDate": "1991"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 79,
+  "ageYear": 2024
+}

@@ -1,0 +1,104 @@
+{
+  "name": "Andrew Langham",
+  "first_name": "Andrew",
+  "last_name": "Langham",
+  "age": 50,
+  "age_year": 2024,
+  "background": "General Counsel of Icahn Enterprises L.P.",
+  "picture_url": null,
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
+    {
+      "name": "Cheniere Energy, Inc.",
+      "ticker": "LNG",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.cheniere.com",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Freeport-McMoRan Inc.",
+      "ticker": "FCX",
+      "exchange": "NYSE",
+      "website": "https://www.fcx.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Icahn Enterprises L.P.",
+      "ticker": "IEP",
+      "exchange": "NASDAQ",
+      "website": "https://www.ielp.com",
+      "title_or_role": "General Counsel",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Occidental Petroleum Corporation",
+      "ticker": "OXY",
+      "exchange": "NYSE",
+      "website": "https://www.oxy.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "CVR Energy, Inc.",
+      "ticker": "CVI",
+      "exchange": "NYSE",
+      "website": "https://www.cvrenergy.com",
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "CVR Partners, LP",
+      "ticker": "UAN",
+      "exchange": "NYSE",
+      "website": "https://www.cvrpartners.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "CVR Refining, LP",
+      "ticker": "CVRR",
+      "exchange": "NYSE",
+      "website": "https://www.cvrenergy.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2019",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/andrew-langham-9a17a5b3/",
+      "person_name": "Andrew Langham",
+      "company_name": "Icahn Enterprises L.P.",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 0
+}

@@ -1,0 +1,75 @@
+{
+  "id": "Pablo Mercado",
+  "name": "Pablo Mercado",
+  "background": "Mr. Mercado has over 20 years of experience in finance and corporate development in the energy industry. He previously served as CFO of EnLink Midstream, LLC and held senior roles at ConocoPhillips.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lithium Americas Corp.",
+      "ticker": "LAC",
+      "exchange": "NYSE",
+      "website": "https://www.lithiumamericas.com",
+      "logoUrl": "/companies-assets/LAC.NYSE.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2023-05",
+      "endDate": null,
+      "formattedStartDate": "May 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "EnLink Midstream, LLC",
+      "ticker": "ENLC",
+      "exchange": "NYSE",
+      "website": "https://www.enlink.com",
+      "logoUrl": "/companies-assets/ENLC.NYSE.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2020-07",
+      "endDate": "2023-05",
+      "formattedStartDate": "July 2020",
+      "formattedEndDate": "May 2023"
+    },
+    {
+      "name": "Forum Energy Technologies, Inc.",
+      "ticker": "FET",
+      "exchange": "NYSE",
+      "website": "https://www.f-e-t.com",
+      "logoUrl": "/companies-assets/FET.NYSE.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2013",
+      "endDate": "2020-07",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "July 2020"
+    },
+    {
+      "name": "Comfort Systems USA, Inc.",
+      "ticker": "FIX",
+      "exchange": "NYSE",
+      "website": "https://www.comfortsystemsusa.com",
+      "logoUrl": "/companies-assets/FIX.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/pablo-mercado-63013495",
+      "person_name": "Pablo Mercado",
+      "company_name": "Lithium Americas Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 46,
+  "ageYear": 2024
+}

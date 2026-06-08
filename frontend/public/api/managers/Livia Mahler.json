@@ -1,0 +1,90 @@
+{
+  "id": "Livia Mahler",
+  "name": "Livia Mahler",
+  "background": "Livia Mahler has over 30 years of experience in the venture capital and investment sectors.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "LSE/TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Director",
+      "startDate": "2016-10-01",
+      "endDate": null,
+      "formattedStartDate": "October 2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Ivanhoe Mines Ltd",
+      "ticker": "IVN",
+      "exchange": "TSX",
+      "website": "ivanhoemines.com",
+      "logoUrl": "/companies-assets/IVN.TSX.svg",
+      "title": "Director",
+      "startDate": "2013-05-01",
+      "endDate": "2016-05-01",
+      "formattedStartDate": "May 2013",
+      "formattedEndDate": "May 2016"
+    },
+    {
+      "name": "Turquoise Hill Resources",
+      "ticker": "TRQ",
+      "exchange": "NYSE/TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2009-03-01",
+      "endDate": "2013-05-01",
+      "formattedStartDate": "March 2009",
+      "formattedEndDate": "May 2013"
+    },
+    {
+      "name": "Diversified Royalty Corp",
+      "ticker": "DIV",
+      "exchange": "TSX",
+      "website": "https://www.diversifiedroyaltycorp.com",
+      "logoUrl": "/companies-assets/DIV.TSX.png",
+      "title": "Director",
+      "startDate": "2011-06-01",
+      "endDate": "2014-11-01",
+      "formattedStartDate": "June 2011",
+      "formattedEndDate": "November 2014"
+    },
+    {
+      "name": "DuSolo Fertilizers Inc",
+      "ticker": "DSF",
+      "exchange": "TSXV",
+      "website": "https://www.dusolo.com",
+      "logoUrl": "/companies-assets/DSF.TSXV.svg",
+      "title": "Director",
+      "startDate": "2014-01-01",
+      "endDate": "2016-01-01",
+      "formattedStartDate": "January 2014",
+      "formattedEndDate": "January 2016"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/livia-mahler-879100",
+      "person_name": "Livia Mahler",
+      "company_name": "Endeavour Mining plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Nomination and Governance Committee",
+    "Remuneration Committee (Chair)"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

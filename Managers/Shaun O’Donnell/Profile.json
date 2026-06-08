@@ -1,0 +1,40 @@
+{
+  "name": "Shaun O\u2019Donnell",
+  "first_name": "Shaun",
+  "last_name": "O\u2019Donnell",
+  "age": 48,
+  "age_year": 2024,
+  "background": "Mr. O\u2019Donnell has served as the Chief Operating Officer since October 2017. Prior to that, he served as the Vice President of New Zealand Operations from June 2013 to October 2017. Before joining Rocket Lab, Mr. O\u2019Donnell held various leadership roles in the telecommunications and technology sectors.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Rocket Lab USA, Inc.",
+      "ticker": "RKLB",
+      "exchange": "NASDAQ",
+      "title_or_role": "GNC Lead, Vice President-Global Operations, Chief Engineer-Special Programs",
+      "website": "https://rocketlabcorp.com/",
+      "start_date": "September 2007",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://nz.linkedin.com/in/shaun-o-donnell-30b22a4a",
+      "person_name": "Shaun O'Donnell",
+      "company_name": "Rocket Lab",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

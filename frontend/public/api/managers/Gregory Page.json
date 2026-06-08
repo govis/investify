@@ -1,0 +1,69 @@
+{
+  "id": "Gregory Page",
+  "name": "Gregory Page",
+  "background": "Former Chairman and CEO of Cargill, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Deere & Company",
+      "ticker": "DE",
+      "exchange": "NYSE",
+      "website": "https://www.deere.com",
+      "logoUrl": "/companies-assets/DE.NYSE.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Eaton Corporation plc",
+      "ticker": "ETN",
+      "exchange": "NYSE",
+      "website": "https://www.eaton.com",
+      "logoUrl": "/companies-assets/ETN.NYSE.svg",
+      "title": "Non-Executive Chair of the Board",
+      "startDate": "2003",
+      "endDate": null,
+      "formattedStartDate": "2003",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "3M Company",
+      "ticker": "MMM",
+      "exchange": "NYSE",
+      "website": "3m.com",
+      "logoUrl": "/companies-assets/MMM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2003",
+      "endDate": "2025-08-11",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "August 2025"
+    },
+    {
+      "name": "Corteva Agriscience",
+      "ticker": "CTVA",
+      "exchange": "NYSE",
+      "website": "corteva.com",
+      "logoUrl": "/companies-assets/CTVA.NYSE.svg",
+      "title": "Non-Executive Chair of the Board",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Finance",
+    "Finance Committee",
+    "Governance"
+  ],
+  "age": 72,
+  "ageYear": 2024
+}

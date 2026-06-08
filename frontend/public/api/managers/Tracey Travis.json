@@ -1,0 +1,77 @@
+{
+  "id": "Tracey Travis",
+  "name": "Tracey Travis",
+  "background": "Executive Vice President and CFO of The Estée Lauder Companies Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Meta Platforms, Inc.",
+      "ticker": "META",
+      "exchange": "NASDAQ",
+      "website": "https://about.meta.com",
+      "logoUrl": "/companies-assets/META.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "March 2020",
+      "endDate": null,
+      "formattedStartDate": "March 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Accenture plc",
+      "ticker": "ACN",
+      "exchange": "NYSE",
+      "website": "https://www.accenture.com",
+      "logoUrl": "/companies-assets/ACN.NYSE.svg",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Hyatt Hotels Corporation",
+      "ticker": "H",
+      "exchange": "NYSE",
+      "website": "hyatt.com",
+      "logoUrl": "/companies-assets/H.NYSE.svg",
+      "title": "Director",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "The Estée Lauder Companies Inc.",
+      "ticker": "EL",
+      "exchange": "NYSE",
+      "website": "elcompanies.com",
+      "logoUrl": "/companies-assets/EL.NYSE.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2012",
+      "endDate": "June 2025",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "June 2025"
+    },
+    {
+      "name": "Campbell Soup Company",
+      "ticker": "CPB",
+      "exchange": "NYSE",
+      "website": "https://investor.campbellsoupcompany.com",
+      "logoUrl": "/companies-assets/CPB.NYSE.svg",
+      "title": "Director",
+      "startDate": "2011",
+      "endDate": "2017",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2017"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

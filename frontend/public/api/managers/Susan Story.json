@@ -1,0 +1,54 @@
+{
+  "id": "Susan Story",
+  "name": "Susan Story",
+  "background": "Retired President and Chief Executive Officer of American Water Works Company, Inc. Director since 2017.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Dominion Energy, Inc.",
+      "ticker": "D",
+      "exchange": "NYSE",
+      "website": "https://www.dominionenergy.com",
+      "logoUrl": "/companies-assets/D.NYSE.svg",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Newmont Corporation",
+      "ticker": "NEM",
+      "exchange": "NYSE",
+      "website": "https://www.newmont.com",
+      "logoUrl": "/companies-assets/NEM.NYSE.svg",
+      "title": "Director",
+      "startDate": "September 10, 2020",
+      "endDate": null,
+      "formattedStartDate": "September 10, 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "American Water Works Company, Inc.",
+      "ticker": "AWK",
+      "exchange": "NYSE",
+      "website": "https://www.amwater.com",
+      "logoUrl": "/companies-assets/AWK.NYSE.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "April 2013",
+      "endDate": "May 2014",
+      "formattedStartDate": "April 2013",
+      "formattedEndDate": "May 2014"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Sustainability and Corporate Responsibility Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

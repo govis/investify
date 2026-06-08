@@ -1,0 +1,78 @@
+{
+  "id": "William Parrett",
+  "name": "William Parrett",
+  "background": "Former CEO of Deloitte Touche Tohmatsu.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Blackstone Inc.",
+      "ticker": "BX",
+      "exchange": "NYSE",
+      "website": "https://www.blackstone.com/",
+      "logoUrl": "/companies-assets/BX.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2007",
+      "endDate": null,
+      "formattedStartDate": "2007",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Thermo Fisher Scientific Inc.",
+      "ticker": "TMO",
+      "exchange": "NYSE",
+      "website": "thermofisher.com",
+      "logoUrl": "/companies-assets/TMO.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2008",
+      "endDate": null,
+      "formattedStartDate": "2008",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Eastman Kodak Company",
+      "ticker": "KODK",
+      "exchange": "NYSE",
+      "website": "kodak.com",
+      "logoUrl": "/companies-assets/KODK.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2007",
+      "endDate": "2012",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "UBS Group AG",
+      "ticker": "UBS",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Member of the Board of Directors",
+      "startDate": "2008",
+      "endDate": "2018",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Thoughtworks Holding, Inc.",
+      "ticker": "TWKS",
+      "exchange": "NASDAQ",
+      "website": "https://www.thoughtworks.com",
+      "logoUrl": "/companies-assets/TWKS.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2021",
+      "endDate": "2024",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2024"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 79,
+  "ageYear": 2024
+}

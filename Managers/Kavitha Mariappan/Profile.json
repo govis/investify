@@ -1,0 +1,62 @@
+{
+  "name": "Kavitha Mariappan",
+  "first_name": "Kavitha",
+  "last_name": "Mariappan",
+  "age": 51,
+  "age_year": 2024,
+  "background": "Kavitha Mariappan has been a director since 2022. She is the Executive Vice President, Customer Experience and Transformation at Zscaler, Inc.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Teradyne, Inc.",
+      "ticker": "TER",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.teradyne.com",
+      "start_date": "2022-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Zscaler, Inc.",
+      "ticker": "ZS",
+      "exchange": "NASDAQ",
+      "website": "https://www.zscaler.com",
+      "title_or_role": "Executive Vice President, Customer Experience and Transformation",
+      "start_date": "October 2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rubrik, Inc.",
+      "ticker": "RBRK",
+      "exchange": "NYSE",
+      "website": "https://www.rubrik.com",
+      "title_or_role": "Chief Transformation Officer",
+      "start_date": "April 2025",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kmariappan",
+      "person_name": "Kavitha Mariappan",
+      "company_name": "Zscaler",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

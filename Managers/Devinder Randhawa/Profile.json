@@ -1,0 +1,78 @@
+{
+  "name": "Devinder Randhawa",
+  "first_name": "Devinder",
+  "last_name": "Randhawa",
+  "age": 64,
+  "age_year": 2024,
+  "background": "Founder of Fission Uranium and Fission Energy. Experienced in corporate finance and resource company management.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Fission Uranium Corp.",
+      "ticker": "FCU",
+      "exchange": "TSX",
+      "title_or_role": "Chairman",
+      "website": "https://fissionuranium.com",
+      "start_date": "2013-02-13",
+      "end_date": null
+    },
+    {
+      "name": "F3 Uranium Corp.",
+      "ticker": "FUU",
+      "exchange": "TSX",
+      "title_or_role": "Chairman, Chief Executive Officer",
+      "website": "https://f3uranium.com",
+      "start_date": "2022-11-01",
+      "end_date": null
+    },
+    {
+      "name": "Strathmore Plus Uranium Corp.",
+      "ticker": "SUU",
+      "exchange": "CSE",
+      "website": "https://strathmoreplusuranium.com",
+      "title_or_role": "Chief Executive Officer / Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Genesis AI Corp.",
+      "ticker": "AIG",
+      "exchange": "CSE",
+      "website": "https://genesisai.ca",
+      "title_or_role": "Chairman / CEO / Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Fission Energy Corp.",
+      "ticker": "FIS",
+      "exchange": "TSXV (Delisted)",
+      "website": null,
+      "title_or_role": "Chairman / CEO",
+      "start_date": "2007",
+      "end_date": "2013",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/devinder-randhawa",
+      "person_name": "Devinder Randhawa",
+      "company_name": "Fission Uranium Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

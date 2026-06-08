@@ -1,0 +1,89 @@
+{
+  "id": "Amy Banse",
+  "name": "Amy Banse",
+  "background": "Former Managing Director and Head of Funds for Comcast Ventures. Director since 2012.",
+  "pictureUrl": "/managers-assets/Amy Banse.jpg",
+  "companies": [
+    {
+      "name": "Adobe Inc.",
+      "ticker": "ADBE",
+      "exchange": "NASDAQ",
+      "website": "https://www.adobe.com",
+      "logoUrl": "/companies-assets/ADBE.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2012",
+      "endDate": null,
+      "formattedStartDate": "2012",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Comcast Corporation",
+      "ticker": "CMCSA",
+      "exchange": "NASDAQ",
+      "website": "comcastcorporation.com",
+      "logoUrl": "/companies-assets/CMCSA.NASDAQ.svg",
+      "title": "Senior Vice President / EVP",
+      "startDate": "1991",
+      "endDate": "2020",
+      "formattedStartDate": "1991",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "The Clorox Company",
+      "ticker": "CLX",
+      "exchange": "NYSE",
+      "website": "thecloroxcompany.com",
+      "logoUrl": "/companies-assets/CLX.NYSE.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": "2024",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Lennar Corporation",
+      "ticker": "LEN",
+      "exchange": "NYSE",
+      "website": "lennar.com",
+      "logoUrl": "/companies-assets/LEN.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "On Holding AG",
+      "ticker": "ONON",
+      "exchange": "NYSE",
+      "website": "on-running.com",
+      "logoUrl": "/companies-assets/ONON.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/amybanse",
+      "person_name": "Amy Banse",
+      "company_name": "Mastry, Inc.",
+      "profile_status": "success",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Executive Committee",
+    "Governance and Sustainability Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

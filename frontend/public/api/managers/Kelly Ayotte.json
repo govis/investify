@@ -1,0 +1,77 @@
+{
+  "id": "Kelly Ayotte",
+  "name": "Kelly Ayotte",
+  "background": "Former U.S. Senator for New Hampshire and former Attorney General of New Hampshire.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "News Corp",
+      "ticker": "NWSA",
+      "exchange": "NASDAQ",
+      "website": "newscorp.com",
+      "logoUrl": "/companies-assets/NWSA.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "April 1, 2017",
+      "endDate": null,
+      "formattedStartDate": "April 1, 2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Blackstone Inc.",
+      "ticker": "BX",
+      "exchange": "NYSE",
+      "website": "https://www.blackstone.com/",
+      "logoUrl": "/companies-assets/BX.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2020",
+      "endDate": "November 14, 2024",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "November 14, 2024"
+    },
+    {
+      "name": "Bloom Energy Corporation",
+      "ticker": "BE",
+      "exchange": "NYSE",
+      "website": "https://www.bloomenergy.com",
+      "logoUrl": "/companies-assets/BE.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "November 2017",
+      "endDate": null,
+      "formattedStartDate": "November 2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "BXP (Boston Properties, Inc.)",
+      "ticker": "BXP",
+      "exchange": "NYSE",
+      "website": "bxp.com",
+      "logoUrl": "/companies-assets/BXP.NYSE.png",
+      "title": "Member of the Board of Directors",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kellyayotte",
+      "person_name": "Kelly Ayotte",
+      "company_name": "Caterpillar Inc., News Corp, Blackstone Inc., Bloom Energy Corporation, BXP",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Public Policy and Sustainability Committee"
+  ],
+  "age": 55,
+  "ageYear": 2024
+}

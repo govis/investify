@@ -1,0 +1,42 @@
+{
+  "id": "Matthew Levatich",
+  "name": "Matthew Levatich",
+  "background": "Former President and CEO of Harley-Davidson, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Emerson Electric Co.",
+      "ticker": "EMR",
+      "exchange": "NYSE",
+      "website": "https://www.emerson.com",
+      "logoUrl": "/companies-assets/EMR.NYSE.svg",
+      "title": "Director (Member of the Board of Directors)",
+      "startDate": "August 2012",
+      "endDate": null,
+      "formattedStartDate": "August 2012",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Harley-Davidson, Inc.",
+      "ticker": "HOG",
+      "exchange": "NYSE",
+      "website": "harley-davidson.com",
+      "logoUrl": "/companies-assets/HOG.NYSE.svg",
+      "title": "President and Chief Executive Officer",
+      "startDate": "May 1, 2015",
+      "endDate": "February 28, 2020",
+      "formattedStartDate": "May 1, 2015",
+      "formattedEndDate": "February 28, 2020"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation",
+    "Finance"
+  ],
+  "age": 59,
+  "ageYear": 2024
+}

@@ -1,0 +1,65 @@
+{
+  "id": "Hernán Büchi Buc",
+  "name": "Hernán Büchi Buc",
+  "background": "Mr. Büchi has been a director since 2017. He is a civil engineer and holds a degree from the Universidad de Chile and an MBA from Columbia University. He served as Chile's Minister of Finance from 1985 to 1989.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sociedad Química y Minera de Chile S.A. (SQM)",
+      "ticker": "SQM",
+      "exchange": "NYSE",
+      "website": "https://www.sqm.com",
+      "logoUrl": "/companies-assets/SQM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Compañía Sud Americana de Vapores S.A. (CSAV)",
+      "ticker": "VAPORES",
+      "exchange": "SNSE",
+      "website": "https://www.csav.com",
+      "logoUrl": "/companies-assets/VAPORES.SNSE.png",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "S.A.C.I. Falabella",
+      "ticker": "FALABELLA",
+      "exchange": "SNSE",
+      "website": "https://www.falabella.com",
+      "logoUrl": "/companies-assets/FALABELLA.SNSE.png",
+      "title": "Director",
+      "startDate": "1996",
+      "endDate": null,
+      "formattedStartDate": "1996",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Banco de Chile",
+      "ticker": "CHILE",
+      "exchange": "SNSE",
+      "website": "https://www.bancochile.cl",
+      "logoUrl": "/companies-assets/CHILE.SNSE.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Directors' Committee"
+  ],
+  "age": 75,
+  "ageYear": 2024
+}

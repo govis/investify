@@ -1,0 +1,39 @@
+{
+  "id": "Scott Donnelly",
+  "name": "Scott Donnelly",
+  "background": "Mr. Donnelly has served as Chairman of the Board since September 2010 and as President and Chief Executive Officer since December 2009. He previously served as President and Chief Operating Officer from June 2008 to December 2009. Prior to joining Textron, he was President and CEO of GE Aviation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Textron Inc.",
+      "ticker": "TXT",
+      "exchange": "NYSE",
+      "website": "https://www.textron.com",
+      "logoUrl": "/companies-assets/TXT.NYSE.svg",
+      "title": "Chairman, President, and CEO (2009–2025); Executive Chairman (Effective January 4, 2026)",
+      "startDate": "2008",
+      "endDate": null,
+      "formattedStartDate": "2008",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Medtronic plc",
+      "ticker": "MDT",
+      "exchange": "NYSE",
+      "website": "medtronic.com",
+      "logoUrl": "/companies-assets/MDT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 62,
+  "ageYear": 2024
+}

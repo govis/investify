@@ -1,0 +1,82 @@
+{
+  "name": "Garnet Dawson",
+  "first_name": "Garnet",
+  "last_name": "Dawson",
+  "age": 66,
+  "age_year": 2024,
+  "background": "Mr. Dawson is a geologist with over 40 years of experience in the exploration and mining industry. He has held senior management positions with several public companies and has been involved in the discovery and development of several mineral deposits.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "EagleOne Metals Corp.",
+      "ticker": "EAGL",
+      "exchange": "CSE",
+      "title_or_role": "Director",
+      "website": "https://eagleonemetals.com",
+      "start_date": "2023-06-01",
+      "end_date": null
+    },
+    {
+      "name": "Freegold Ventures Ltd.",
+      "ticker": "FVL",
+      "exchange": "TSX",
+      "website": "https://freegoldventures.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Spanish Mountain Gold Ltd.",
+      "ticker": "SPA",
+      "exchange": "TSXV",
+      "website": "https://spanishmountaingold.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "U.S. GoldMining Inc.",
+      "ticker": "USGO",
+      "exchange": "NASDAQ",
+      "website": "https://www.usgoldmining.us/",
+      "title_or_role": "President",
+      "start_date": "2015",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "GoldMining Inc.",
+      "ticker": "GLDG",
+      "exchange": "NYSE American",
+      "website": "https://www.goldmining.com/",
+      "title_or_role": "CEO",
+      "start_date": "2014",
+      "end_date": "2021",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/garnet-dawson-4a5b2a12",
+      "person_name": "Garnet Dawson",
+      "company_name": "GoldMining Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

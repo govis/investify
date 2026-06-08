@@ -1,0 +1,50 @@
+{
+  "id": "Sheldon Vanderkooy",
+  "name": "Sheldon Vanderkooy",
+  "background": "Sheldon Vanderkooy is the Chief Financial Officer of Triple Flag. Prior to this role, he served as the company's General Counsel. Before joining Triple Flag, he was Assistant General Counsel at First Quantum Minerals Ltd. and a partner at Blake, Cassels & Graydon LLP.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "First Quantum Minerals Ltd.",
+      "ticker": "FM",
+      "exchange": "TSX",
+      "website": "https://first-quantum.com",
+      "logoUrl": "/companies-assets/FM.TSX.svg",
+      "title": "Assistant General Counsel",
+      "startDate": "2013",
+      "endDate": "2015",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Inmet Mining Corporation",
+      "ticker": "IMN",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/a2/Inmet_Mining_logo.png",
+      "title": "Senior Director, Legal Affairs",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/sheldon-vanderkooy-74253123",
+      "person_name": "Sheldon Vanderkooy",
+      "company_name": "Triple Flag Precious Metals Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 53,
+  "ageYear": 2024
+}

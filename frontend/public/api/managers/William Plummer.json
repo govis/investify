@@ -1,0 +1,74 @@
+{
+  "id": "William Plummer",
+  "name": "William Plummer",
+  "background": "William B. Plummer has served as Executive Vice President and Chief Financial Officer since December 2008. He previously held senior finance roles at Dow Jones & Company and Alcoa.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "United Rentals, Inc.",
+      "ticker": "URI",
+      "exchange": "NYSE",
+      "website": "https://www.unitedrentals.com",
+      "logoUrl": "/companies-assets/URI.NYSE.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2008",
+      "endDate": "2019",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Waste Management, Inc.",
+      "ticker": "WM",
+      "exchange": "NYSE",
+      "website": "https://www.wm.com",
+      "logoUrl": "/companies-assets/WM.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "August 19, 2019",
+      "endDate": null,
+      "formattedStartDate": "August 19, 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Global Payments Inc.",
+      "ticker": "GPN",
+      "exchange": "NYSE",
+      "website": "https://www.globalpayments.com",
+      "logoUrl": "/companies-assets/GPN.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "John Wiley & Sons, Inc.",
+      "ticker": "WLY",
+      "exchange": "NYSE",
+      "website": "https://www.wiley.com",
+      "logoUrl": "/companies-assets/WLY.NYSE.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/william-plummer-4216191",
+      "person_name": "William Plummer",
+      "company_name": "United Rentals, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 65,
+  "ageYear": 2024
+}

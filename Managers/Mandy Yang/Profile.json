@@ -1,0 +1,41 @@
+{
+  "name": "Mandy Yang",
+  "first_name": "Mandy",
+  "last_name": "Yang",
+  "age": 51,
+  "age_year": 2024,
+  "background": "Mandy Yang was appointed Chief Financial Officer in June 2023. She joined Enphase in 2018 and previously served as Vice President, Finance and Corporate Controller. Before Enphase, she held finance leadership roles at Tesla and Spansion.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Enphase Energy, Inc.",
+      "ticker": "ENPH",
+      "exchange": "NASDAQ",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "website": "https://enphase.com",
+      "start_date": "February 2022",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mandy-yang-8aa39b13",
+      "person_name": "Mandy Yang",
+      "company_name": "Enphase Energy, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "William Madia",
+  "name": "William Madia",
+  "background": "Former Director of Oak Ridge National Laboratory and Pacific Northwest National Laboratory. He is a Vice President Emeritus at Stanford University.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Centrus Energy Corp.",
+      "ticker": "LEU",
+      "exchange": "NYSE",
+      "website": "https://www.centrusenergy.com",
+      "logoUrl": "/companies-assets/LEU.NYSE.png",
+      "title": "Director",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "EnergySolutions, Inc.",
+      "ticker": "ES",
+      "exchange": "NYSE",
+      "website": "https://www.energysolutions.com/",
+      "logoUrl": "/companies-assets/ES.NYSE.png",
+      "title": "Director",
+      "startDate": "2007",
+      "endDate": "2013",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2013"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/william-madia-57460554",
+      "person_name": "William Madia",
+      "company_name": "Centrus Energy Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Governance Committee"
+  ],
+  "age": 76,
+  "ageYear": 2024
+}

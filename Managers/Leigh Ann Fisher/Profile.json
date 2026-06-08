@@ -1,0 +1,53 @@
+{
+  "name": "Leigh Ann Fisher",
+  "first_name": "Leigh",
+  "last_name": "Ann Fisher",
+  "age": 61,
+  "age_year": 2024,
+  "background": "Independent Director. Former executive at Alcoa Corp with extensive experience in human resources and operations.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "SSR Mining Inc.",
+      "ticker": "SSRM",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.ssrmining.com",
+      "start_date": "2022-03",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Alcoa Corporation",
+      "ticker": "AA",
+      "exchange": "NYSE",
+      "website": "https://www.alcoa.com",
+      "title_or_role": "Executive Vice President and Chief Administrative Officer",
+      "start_date": "2016",
+      "end_date": "2020",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/leigh-ann-fisher-166bb241",
+      "person_name": "Leigh Ann Fisher",
+      "company_name": "Alcoa Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation and Leadership Development Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

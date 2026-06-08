@@ -1,0 +1,53 @@
+{
+  "name": "Timothy Harvey",
+  "first_name": "Timothy",
+  "last_name": "Harvey",
+  "age": 56,
+  "age_year": 2024,
+  "background": "Mr. Harvey has served as a member of our Board since September 2021. Mr. Harvey is currently an Executive Partner at Silversmith Capital Partners. Previously, he served as President of Commercial Solutions at BAE Systems and held leadership roles at Vastera, Inc.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "BlackSky Technology Inc.",
+      "ticker": "BKSY",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.blacksky.com/",
+      "start_date": "September 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Vertex Energy, Inc.",
+      "ticker": "VTNR",
+      "exchange": "NASDAQ",
+      "website": "https://www.vertexenergy.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2013",
+      "end_date": "2021",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/tim-harvey-b87b85",
+      "person_name": "Timothy Harvey",
+      "company_name": "Silversmith Capital Partners",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

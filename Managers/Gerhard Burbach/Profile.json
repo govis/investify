@@ -1,0 +1,63 @@
+{
+  "name": "Gerhard Burbach",
+  "first_name": "Gerhard",
+  "last_name": "Burbach",
+  "age": 62,
+  "age_year": 2024,
+  "background": "Mr. Burbach served as President, Chief Executive Officer and Director of Thoratec Corporation from 2006 to 2014.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "BWX Technologies, Inc.",
+      "ticker": "BWXT",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.bwxt.com",
+      "start_date": "2018-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Thoratec Corporation",
+      "ticker": "THOR",
+      "exchange": "NASDAQ",
+      "website": "https://www.thoratec.com",
+      "title_or_role": "President, Chief Executive Officer, and Director",
+      "start_date": "2006",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "Standard BioTools Inc.",
+      "ticker": "LAB",
+      "exchange": "NASDAQ",
+      "website": "https://www.standardbio.com/",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": "June 14, 2023",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gerhard-burbach-4a5a2a1",
+      "person_name": "Gerhard Burbach",
+      "company_name": "BWX Technologies, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

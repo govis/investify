@@ -1,0 +1,72 @@
+{
+  "name": "Warwick Morley-Jepson",
+  "first_name": "Warwick",
+  "last_name": "Morley-Jepson",
+  "age": 66,
+  "age_year": 2024,
+  "background": "Mr. Morley-Jepson has over 40 years of experience in the mining industry, including senior roles at Kinross Gold and Gold Fields Limited.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Wesdome Gold Mines Ltd.",
+      "ticker": "WDO",
+      "exchange": "TSX",
+      "title_or_role": "Chair of the Board",
+      "website": "https://www.wesdome.com",
+      "start_date": "2019-06-01",
+      "end_date": null
+    },
+    {
+      "name": "Kinross Gold Corporation",
+      "ticker": "KGC",
+      "exchange": "NYSE",
+      "website": "https://www.kinross.com",
+      "title_or_role": "Chief Operating Officer",
+      "start_date": "2014-10-01",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Amaroq Minerals Ltd.",
+      "ticker": "AMRQ",
+      "exchange": "LSE",
+      "website": "https://www.amaroqminerals.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NexMetals Mining Corp.",
+      "ticker": "NEXM",
+      "exchange": "TSXV",
+      "website": "https://nexmetalsmining.com",
+      "title_or_role": "Director",
+      "start_date": "2026-01-08",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://za.linkedin.com/in/warwick-morley-jepson-909ba612",
+      "person_name": "Warwick Morley-Jepson",
+      "company_name": "Wesdome Gold Mines Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Governance and Nominating Committee",
+    "Technical Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

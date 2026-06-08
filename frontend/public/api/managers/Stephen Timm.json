@@ -1,0 +1,38 @@
+{
+  "id": "Stephen Timm",
+  "name": "Stephen Timm",
+  "background": "Stephen J. Timm is President of Collins Aerospace. He has been with the company and its predecessors for over 20 years.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "RTX Corporation",
+      "ticker": "RTX",
+      "exchange": "NYSE",
+      "website": "https://www.rtx.com",
+      "logoUrl": "/companies-assets/RTX.NYSE.svg",
+      "title": "President, Collins Aerospace",
+      "startDate": "2020",
+      "endDate": "2024",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2024"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/steve-timm",
+      "person_name": "Stephen Timm",
+      "company_name": "Collins Aerospace",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

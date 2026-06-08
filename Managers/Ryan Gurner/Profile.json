@@ -1,0 +1,59 @@
+{
+  "name": "Ryan Gurner",
+  "first_name": "Ryan",
+  "last_name": "Gurner",
+  "age": 46,
+  "age_year": 2024,
+  "background": "Mr Gurner is a Chartered Accountant with over 20 years\u2019 experience in the mining and professional services industries. He has held senior financial roles at various ASX-listed companies and was previously Chief Financial Officer at Northern Star.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Northern Star Resources Limited",
+      "ticker": "NST",
+      "exchange": "ASX",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://www.nsrltd.com",
+      "start_date": "2021-07-22",
+      "end_date": null
+    },
+    {
+      "name": "RTG Mining Limited",
+      "ticker": "RTG",
+      "exchange": "ASX",
+      "website": "https://www.rtgmining.com",
+      "title_or_role": "Chief Financial Officer and Secretary",
+      "start_date": null,
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Echo Resources Limited",
+      "ticker": "EAR",
+      "exchange": "ASX",
+      "website": "https://www.echoresources.com.au",
+      "title_or_role": "Director",
+      "start_date": "2019-10-16",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/ryan-gurner-50619232",
+      "person_name": "Ryan Gurner",
+      "company_name": "Northern Star Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

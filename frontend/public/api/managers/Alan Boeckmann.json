@@ -1,0 +1,89 @@
+{
+  "id": "Alan Boeckmann",
+  "name": "Alan Boeckmann",
+  "background": "Mr. Boeckmann has served as a member of our Board since May 2022. He is the former Executive Chairman and CEO of Fluor Corporation.",
+  "pictureUrl": "/managers-assets/Alan Boeckmann.jpg",
+  "companies": [
+    {
+      "name": "NuScale Power Corporation",
+      "ticker": "SMR",
+      "exchange": "NYSE",
+      "website": "https://www.nuscalepower.com",
+      "logoUrl": "/companies-assets/SMR.NYSE.svg",
+      "title": "Non-Executive Chairman",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Fluor Corporation",
+      "ticker": "FLR",
+      "exchange": "NYSE",
+      "website": "https://www.fluor.com",
+      "logoUrl": "/companies-assets/FLR.NYSE.svg",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": "2021",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Sempra",
+      "ticker": "SRE",
+      "exchange": "NYSE",
+      "website": "https://www.sempra.com",
+      "logoUrl": "/companies-assets/SRE.NYSE.svg",
+      "title": "Director",
+      "startDate": "2012",
+      "endDate": null,
+      "formattedStartDate": "2012",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Archer-Daniels-Midland Company",
+      "ticker": "ADM",
+      "exchange": "NYSE",
+      "website": "https://www.adm.com",
+      "logoUrl": "/companies-assets/ADM.NYSE.png",
+      "title": "Director",
+      "startDate": "2012",
+      "endDate": "2024",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "BP p.l.c.",
+      "ticker": "BP",
+      "exchange": "NYSE",
+      "website": "https://www.bp.com",
+      "logoUrl": "/companies-assets/BP.NYSE.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2014",
+      "endDate": "2019",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2019"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/alan-boeckmann-95926866",
+      "person_name": "Alan Boeckmann",
+      "company_name": "NuScale Power Corporation, Fluor Corporation",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 75,
+  "ageYear": 2024
+}

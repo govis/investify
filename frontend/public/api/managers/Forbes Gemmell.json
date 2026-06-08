@@ -1,0 +1,62 @@
+{
+  "id": "Forbes Gemmell",
+  "name": "Forbes Gemmell",
+  "background": "Mr. Gemmell has over 15 years of experience in the capital markets and mining industry. He previously served as Vice President, Corporate Development and Investor Relations at Discovery Silver. Prior to joining the company, he worked in equity research and investment banking focused on the mining sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Discovery Silver Corp.",
+      "ticker": "DSV",
+      "exchange": "TSX",
+      "website": "https://discoverysilver.com",
+      "logoUrl": "/companies-assets/DSV.TSX.svg",
+      "title": "VP, Corporate Development",
+      "startDate": "2020-01",
+      "endDate": "2025-06",
+      "formattedStartDate": "January 2020",
+      "formattedEndDate": "June 2025"
+    },
+    {
+      "name": "Guyana Goldfields Inc.",
+      "ticker": "GUY",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "https://www.guyanagoldfields.com/themes/custom/guyanagoldfields/logo.png",
+      "title": "Corporate Development",
+      "startDate": "Prior to 2020",
+      "endDate": "Prior to 2020",
+      "formattedStartDate": "Prior to 2020",
+      "formattedEndDate": "Prior to 2020"
+    },
+    {
+      "name": "Lago Dourado Minerals Ltd.",
+      "ticker": "LDM",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": "https://www.g2goldfields.com/wp-content/uploads/2020/07/G2-Goldfields-Logo-1.png",
+      "title": "Corporate Development",
+      "startDate": "Prior to 2020",
+      "endDate": "Prior to 2020",
+      "formattedStartDate": "Prior to 2020",
+      "formattedEndDate": "Prior to 2020"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/forbes-gemmell-cfa-9484a42b",
+      "person_name": "Forbes Gemmell",
+      "company_name": "Discovery Silver Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 42,
+  "ageYear": 2024
+}

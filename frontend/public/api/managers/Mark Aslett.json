@@ -1,0 +1,38 @@
+{
+  "id": "Mark Aslett",
+  "name": "Mark Aslett",
+  "background": "Mr. Aslett served as our President and CEO from 2007 until 2023. He has a background in technology and defense, previously serving in leadership roles at Enterasys Networks and Marconi plc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Mercury Systems, Inc.",
+      "ticker": "MRCY",
+      "exchange": "NASDAQ",
+      "website": "https://www.mrcy.com",
+      "logoUrl": "/companies-assets/MRCY.NASDAQ.svg",
+      "title": "President, Chief Executive Officer, and Director",
+      "startDate": "November 2007",
+      "endDate": null,
+      "formattedStartDate": "November 2007",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/maslett",
+      "person_name": "Mark Aslett",
+      "company_name": "Mercury Systems, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2023
+}

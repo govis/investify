@@ -1,0 +1,53 @@
+{
+  "id": "Dean Dalla Valle",
+  "name": "Dean Dalla Valle",
+  "background": "Dean joined the Board in 2022. He has 40 years of experience in the resources sector, including senior roles at BHP and as CEO of Pacific National.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Rio Tinto Group",
+      "ticker": "RIO",
+      "exchange": "ASX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Non-Executive Director",
+      "startDate": "2023-06-01",
+      "endDate": null,
+      "formattedStartDate": "June 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX",
+      "website": "https://www.bhp.com",
+      "logoUrl": "/companies-assets/BHP.ASX.svg",
+      "title": "Chief Commercial Officer",
+      "startDate": "1977",
+      "endDate": "2016",
+      "formattedStartDate": "1977",
+      "formattedEndDate": "2016"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/dean-dalla-valle-a51236103",
+      "person_name": "Dean Dalla Valle",
+      "company_name": "Rio Tinto Group",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Remuneration Committee",
+    "Sustainability Committee"
+  ],
+  "age": 64,
+  "ageYear": 2023
+}

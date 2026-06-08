@@ -1,0 +1,40 @@
+{
+  "name": "Lee Klarich",
+  "first_name": "Lee",
+  "last_name": "Klarich",
+  "age": 49,
+  "age_year": 2024,
+  "background": "Lee Klarich has served as our Chief Product Officer since August 2017. He joined us in May 2006 and has served in various product management roles, including Executive Vice President, Product Management.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Palo Alto Networks, Inc.",
+      "ticker": "PANW",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chief Product and Technology Officer (CPTO) and Member of the Board of Directors",
+      "website": "https://www.paloaltonetworks.com",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/leeklarich",
+      "person_name": "Lee Klarich",
+      "company_name": "Palo Alto Networks",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

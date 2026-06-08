@@ -1,0 +1,62 @@
+{
+  "id": "Jon Winter",
+  "name": "Jon Winter",
+  "background": "Mr. Winter has over 30 years of experience in the uranium industry, specifically in ISR operations. He has held senior management positions with Uranium One and Power Resources.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Peninsula Energy Limited",
+      "ticker": "PEN",
+      "exchange": "ASX",
+      "website": "https://www.pel.net.au",
+      "logoUrl": "/companies-assets/PEN.ASX.svg",
+      "title": "Senior Management",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "enCore Energy Corp.",
+      "ticker": "EU",
+      "exchange": "NASDAQ / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Manager, Permitting & Regulatory Affairs",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Nexus Uranium Corp.",
+      "ticker": "NEXU",
+      "exchange": "TSXV / CSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Advisory Board Member",
+      "startDate": "March 2026",
+      "endDate": null,
+      "formattedStartDate": "March 2026",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/winterjon",
+      "person_name": "Jon Winter",
+      "company_name": "enCore Energy Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

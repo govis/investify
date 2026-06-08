@@ -1,0 +1,29 @@
+{
+  "name": "Ross Armstrong",
+  "first_name": "Ross",
+  "last_name": "Armstrong",
+  "age": null,
+  "age_year": null,
+  "background": "Mr Armstrong is a finance professional with over 20 years of experience in the resources sector. He has held senior financial roles in several ASX-listed companies and has extensive experience in financial management, corporate governance, and project financing.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Aura Energy Limited",
+      "ticker": "AEE",
+      "exchange": "ASX",
+      "title_or_role": "Director",
+      "website": "https://auraenergy.com.au/",
+      "start_date": "2021-06-01",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

@@ -1,0 +1,124 @@
+{
+  "id": "Tim Warman",
+  "name": "Tim Warman",
+  "background": "Mr. Warman is a geologist with over 30 years of experience. He was previously CEO of Fiore Gold Ltd. and held senior roles with Dalradian Resources Inc. and Aurelian Resources Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Revival Gold Inc.",
+      "ticker": "RVG",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Fuerte Metals Corporation",
+      "ticker": "FMT",
+      "exchange": "TSXV",
+      "website": "https://fuertemetals.com/",
+      "logoUrl": "/companies-assets/FMT.TSXV.png",
+      "title": "CEO & Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Atacama Copper Corporation",
+      "ticker": "ACOP",
+      "exchange": "TSXV",
+      "website": "https://fuertemetals.com",
+      "logoUrl": "/companies-assets/ACOP.TSXV.png",
+      "title": "CEO & Director",
+      "startDate": "2022",
+      "endDate": "2023",
+      "formattedStartDate": "2022",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Fiore Gold Ltd.",
+      "ticker": "F",
+      "exchange": "TSXV",
+      "website": "https://fioregold.com",
+      "logoUrl": "https://fioregold.com/wp-content/uploads/2017/09/fiore-gold-logo.png",
+      "title": "CEO",
+      "startDate": "2017",
+      "endDate": "2022",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Continental Gold Inc.",
+      "ticker": "CNL",
+      "exchange": "TSX",
+      "website": "continentalgold.com",
+      "logoUrl": "/companies-assets/CNL.TSX.svg",
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": "2018",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Dalradian Resources Inc.",
+      "ticker": "DNA",
+      "exchange": "TSX",
+      "website": "dalradian.com",
+      "logoUrl": "/companies-assets/DNA.TSX.svg",
+      "title": "President",
+      "startDate": "2012",
+      "endDate": "2015",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Malbex Resources Inc.",
+      "ticker": "MBG",
+      "exchange": "TSXV",
+      "website": "malbex.com",
+      "logoUrl": "https://www.marketscreener.com/images/logos/25600200.png",
+      "title": "CEO",
+      "startDate": "2009",
+      "endDate": "2012",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "Aurelian Resources Inc.",
+      "ticker": "ARU",
+      "exchange": "TSX",
+      "website": "aurelian.ca",
+      "logoUrl": "/companies-assets/ARU.TSX.png",
+      "title": "VP, Corporate Development",
+      "startDate": "2006",
+      "endDate": "2008",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2008"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/tim-warman-b9a9a612",
+      "person_name": "Tim Warman",
+      "company_name": "Revival Gold Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Technical and Health, Safety, Environmental and Social Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

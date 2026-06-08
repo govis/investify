@@ -1,0 +1,49 @@
+{
+  "name": "Tim Campbell",
+  "first_name": "Tim",
+  "last_name": "Campbell",
+  "age": 55,
+  "age_year": 2024,
+  "background": "Mr. Campbell has over 25 years of experience in the mining sector, focusing on corporate development, regulatory compliance, and investor relations.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Global Atomic Corporation",
+      "ticker": "GLO",
+      "exchange": "TSX",
+      "title_or_role": "Vice President, ESG and Corporate Secretary",
+      "website": "https://globalatomiccorp.com",
+      "start_date": "2017-12-22",
+      "end_date": null
+    },
+    {
+      "name": "Silvermet Inc.",
+      "ticker": "SYI",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Officer / Director",
+      "start_date": "Unknown",
+      "end_date": "2017",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/timothyalancampbell",
+      "person_name": "Tim Campbell",
+      "company_name": "Global Atomic Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

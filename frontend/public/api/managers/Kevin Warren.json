@@ -1,0 +1,77 @@
+{
+  "id": "Kevin Warren",
+  "name": "Kevin Warren",
+  "background": "Former Chief Marketing Officer of UPS. Former executive at Xerox Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Assurant, Inc.",
+      "ticker": "AIZ",
+      "exchange": "NYSE",
+      "website": "https://www.assurant.com",
+      "logoUrl": "/companies-assets/AIZ.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "January 15, 2025",
+      "endDate": null,
+      "formattedStartDate": "January 15, 2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Fiserv, Inc.",
+      "ticker": "FI",
+      "exchange": "NYSE",
+      "website": "https://www.fiserv.com",
+      "logoUrl": "/companies-assets/FI.NYSE.svg",
+      "title": "Member, Board of Directors (Audit Committee Chair)",
+      "startDate": "2020",
+      "endDate": "2026",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2026"
+    },
+    {
+      "name": "Illinois Tool Works Inc.",
+      "ticker": "ITW",
+      "exchange": "NYSE",
+      "website": "https://www.itw.com",
+      "logoUrl": "/companies-assets/ITW.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "2012",
+      "endDate": "2021",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "United Parcel Service, Inc. (UPS)",
+      "ticker": "UPS",
+      "exchange": "NYSE",
+      "website": "https://www.ups.com",
+      "logoUrl": "/companies-assets/UPS.NYSE.svg",
+      "title": "EVP and Chief Marketing and Customer Experience Officer",
+      "startDate": "2018",
+      "endDate": "2022",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2022"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kevinmwarren?miniProfileUrn=urn:li:fs_miniProfile:ACoAAA8l5-gBHXW5PBnvMklvg32bXr0Hiv2bo7k",
+      "person_name": "Kevin Warren",
+      "company_name": "United Parcel Service",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit",
+    "Finance"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

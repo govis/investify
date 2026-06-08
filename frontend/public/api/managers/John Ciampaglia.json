@@ -1,0 +1,101 @@
+{
+  "id": "John Ciampaglia",
+  "name": "John Ciampaglia",
+  "background": "Mr. Ciampaglia is the Chief Executive Officer of Sprott Asset Management LP and a Senior Managing Director of Sprott Inc. He has more than 25 years of experience in the investment industry and has held senior positions at several Canadian investment firms.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sprott Physical Gold Trust",
+      "ticker": "PHYS",
+      "exchange": "NYSE / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Trustee / Officer",
+      "startDate": "2010",
+      "endDate": null,
+      "formattedStartDate": "2010",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sprott Energy Transition Materials ETF",
+      "ticker": "SETM",
+      "exchange": "NASDAQ",
+      "website": "https://www.sprottetfs.com/setm-sprott-energy-transition-materials-etf/",
+      "logoUrl": "/companies-assets/SETM.NASDAQ.svg",
+      "title": "Officer (Sprott Asset Management, Manager of the ETF)",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sprott Physical Uranium Trust",
+      "ticker": "SPUT",
+      "exchange": "TSX / OTC",
+      "website": null,
+      "logoUrl": null,
+      "title": "Trustee / Officer",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sprott Uranium Miners ETF",
+      "ticker": "URNM",
+      "exchange": "NYSE Arca",
+      "website": null,
+      "logoUrl": null,
+      "title": "Officer (Sprott Asset Management, Manager of the ETF)",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sprott Inc.",
+      "ticker": "SII",
+      "exchange": "NYSE / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Managing Partner",
+      "startDate": "September 2010",
+      "endDate": null,
+      "formattedStartDate": "September 2010",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sprott Asset Management",
+      "ticker": "SII",
+      "exchange": "NYSE / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Executive Officer",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold",
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/john-ciampaglia-cfa-fcsi-84856322",
+      "person_name": "John Ciampaglia",
+      "company_name": "Sprott Asset Management",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 54,
+  "ageYear": 2024
+}

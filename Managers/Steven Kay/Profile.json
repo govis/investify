@@ -1,0 +1,33 @@
+{
+  "name": "Steven Kay",
+  "first_name": "Steven",
+  "last_name": "Kay",
+  "age": 74,
+  "age_year": 2024,
+  "background": "Mr. Kay has over 40 years of experience in the legal and corporate sectors. He has served as a director and officer of several public companies and has extensive experience in corporate governance and regulatory compliance.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Ucore Rare Metals Inc.",
+      "ticker": "UCU",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "https://ucore.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

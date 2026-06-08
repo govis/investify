@@ -1,0 +1,53 @@
+{
+  "name": "Joseph Compofelice",
+  "first_name": "Joseph",
+  "last_name": "Compofelice",
+  "age": 74,
+  "age_year": 2023,
+  "background": "Mr. Compofelice has served as a director since 2010. He is currently the Chairman and CEO of Modelpoint, Inc. and has extensive experience in the energy and service industries.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Contango ORE, Inc.",
+      "ticker": "CTGO",
+      "exchange": "NYSE American",
+      "title_or_role": "Director",
+      "website": "https://www.contangoore.com",
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Trico Marine Services, Inc.",
+      "ticker": "TRMAQ",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Chairman of the Audit Committee, Chairman of the Board, Chief Executive Officer",
+      "start_date": "2003",
+      "end_date": "2010",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/joseph-compofelice-67a7862a",
+      "person_name": "Joseph Compofelice",
+      "company_name": "Modelpoint, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

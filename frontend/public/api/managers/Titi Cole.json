@@ -1,0 +1,40 @@
+{
+  "id": "Titi Cole",
+  "name": "Titi Cole",
+  "background": "CEO of Legacy Franchises at Citigroup. Previously held executive roles at Wells Fargo and Bank of America.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Citigroup Inc.",
+      "ticker": "C",
+      "exchange": "NYSE",
+      "website": "citigroup.com",
+      "logoUrl": "/companies-assets/C.NYSE.svg",
+      "title": "Director",
+      "startDate": "2025-01-31",
+      "endDate": null,
+      "formattedStartDate": "January 2025",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/titi-cole-680ab37",
+      "person_name": "Titi Cole",
+      "company_name": "Citigroup",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 53,
+  "ageYear": 2024
+}

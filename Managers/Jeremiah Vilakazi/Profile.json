@@ -1,0 +1,32 @@
+{
+  "name": "Jeremiah Vilakazi",
+  "first_name": "Jeremiah",
+  "last_name": "Vilakazi",
+  "age": 63,
+  "age_year": 2023,
+  "background": "Jerry Vilakazi was appointed as an independent non-executive director on 1 January 2013. He is the Executive Chairman of Palama Group.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Sibanye Stillwater Limited",
+      "ticker": "SBSW",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.sibanyestillwater.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Risk Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

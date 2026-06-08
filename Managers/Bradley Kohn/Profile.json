@@ -1,0 +1,61 @@
+{
+  "name": "Bradley Kohn",
+  "first_name": "Bradley",
+  "last_name": "Kohn",
+  "age": 55,
+  "age_year": 2024,
+  "background": "Bradley D. Kohn joined Wolfspeed in 2013 and serves as General Counsel and Secretary. Prior to joining Wolfspeed, he was General Counsel at Solarflare Communications and held legal roles at Broadcom Corporation.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Wolfspeed, Inc.",
+      "ticker": "WOLF",
+      "exchange": "NYSE",
+      "title_or_role": "Senior Vice President, General Counsel",
+      "website": "https://www.wolfspeed.com",
+      "start_date": "2013",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Martin Marietta Materials, Inc.",
+      "ticker": "MLM",
+      "exchange": "NYSE",
+      "website": "https://www.martinmarietta.com",
+      "title_or_role": "Senior Vice President, General Counsel and Corporate Secretary",
+      "start_date": "2024",
+      "end_date": "2026",
+      "validated": true
+    },
+    {
+      "name": "MEMC Electronic Materials, Inc.",
+      "ticker": "WFR",
+      "exchange": "NYSE",
+      "website": "https://www.sunedison.com",
+      "title_or_role": "Senior Vice President, General Counsel and Corporate Secretary",
+      "start_date": "2004",
+      "end_date": "2012",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bradley-kohn-47b6b140",
+      "person_name": "Bradley Kohn",
+      "company_name": "Wolfspeed, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "Jim O'Brien",
+  "name": "Jim O'Brien",
+  "background": "Former Chairman and Chief Executive Officer of Ashland Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Albemarle Corporation",
+      "ticker": "ALB",
+      "exchange": "NYSE",
+      "website": "https://www.albemarle.com",
+      "logoUrl": "/companies-assets/ALB.NYSE.svg",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Eastman Chemical Company",
+      "ticker": "EMN",
+      "exchange": "NYSE",
+      "website": "https://www.eastman.com",
+      "logoUrl": "/companies-assets/EMN.NYSE.svg",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Ashland Inc.",
+      "ticker": "ASH",
+      "exchange": "NYSE",
+      "website": "https://www.ashland.com",
+      "logoUrl": "/companies-assets/ASH.NYSE.svg",
+      "title": "Senior Vice President and Group Operating Officer",
+      "startDate": "2001",
+      "endDate": "2002",
+      "formattedStartDate": "2001",
+      "formattedEndDate": "2002"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Executive Committee",
+    "Nominating & Governance Committee"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

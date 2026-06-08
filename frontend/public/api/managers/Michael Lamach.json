@@ -1,0 +1,77 @@
+{
+  "id": "Michael Lamach",
+  "name": "Michael Lamach",
+  "background": "Former Executive Chair and Chief Executive Officer of Trane Technologies plc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Trane Technologies plc",
+      "ticker": "TT",
+      "exchange": "NYSE",
+      "website": "https://www.tranetechnologies.com",
+      "logoUrl": "/companies-assets/TT.NYSE.svg",
+      "title": "Executive Chair / CEO",
+      "startDate": "2004",
+      "endDate": "2021",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "PPG Industries, Inc.",
+      "ticker": "PPG",
+      "exchange": "NYSE",
+      "website": "https://www.ppg.com",
+      "logoUrl": "/companies-assets/PPG.NYSE.svg",
+      "title": "Director / Independent Lead Director",
+      "startDate": "2010",
+      "endDate": null,
+      "formattedStartDate": "2010",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Honeywell International Inc.",
+      "ticker": "HON",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director / Audit Committee Chair",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Johnson Controls, Inc.",
+      "ticker": "JCI",
+      "exchange": "NYSE",
+      "website": "https://www.johnsoncontrols.com",
+      "logoUrl": "/companies-assets/JCI.NYSE.svg",
+      "title": "Group President & Managing Director-Europe",
+      "startDate": null,
+      "endDate": "2004",
+      "formattedStartDate": "",
+      "formattedEndDate": "2004"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mikelamach",
+      "person_name": "Michael Lamach",
+      "company_name": "Trane Technologies",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit",
+    "Governance and Nominating"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

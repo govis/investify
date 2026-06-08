@@ -1,0 +1,50 @@
+{
+  "name": "Ken Miller",
+  "first_name": "Ken",
+  "last_name": "Miller",
+  "age": 52,
+  "age_year": 2024,
+  "background": "Mr. Miller has served as our Executive Vice President and Chief Financial Officer since February 2016. He joined Juniper in 1999 and has held various senior financial roles.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Juniper Networks, Inc.",
+      "ticker": "JNPR",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "website": "https://www.juniper.net",
+      "start_date": "February 2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Zebra Technologies Corporation",
+      "ticker": "ZBRA",
+      "exchange": "NASDAQ",
+      "website": "https://www.zebra.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "May 9, 2024",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/millerken",
+      "person_name": "Ken Miller",
+      "company_name": "Juniper Networks, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

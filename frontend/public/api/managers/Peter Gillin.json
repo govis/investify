@@ -1,0 +1,79 @@
+{
+  "id": "Peter Gillin",
+  "name": "Peter Gillin",
+  "background": "Mr. Gillin is a corporate director and has served on several boards in the mining and financial sectors. He was previously Chairman and CEO of Tahera Diamond Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Dundee Precious Metals Inc.",
+      "ticker": "DPM",
+      "exchange": "TSX",
+      "website": "https://www.dundeeprecious.com",
+      "logoUrl": "/companies-assets/DPM.TSX.svg",
+      "title": "Director, Deputy Chair, Chair of the Board",
+      "startDate": "2009",
+      "endDate": "2025",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "Wheaton Precious Metals Corp.",
+      "ticker": "WPM",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Founding Director",
+      "startDate": "2004",
+      "endDate": "2025",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "Turquoise Hill Resources Ltd.",
+      "ticker": "TRQ",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Chairman of the Board",
+      "startDate": "2012",
+      "endDate": "2022",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Sherritt International Corporation",
+      "ticker": "S",
+      "exchange": "TSX",
+      "website": "https://www.sherritt.com",
+      "logoUrl": "/companies-assets/S.TSX.png",
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": "2024",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2024"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/peter-gillin-37712a6",
+      "person_name": "Peter Gillin",
+      "company_name": "Dundee Precious Metals Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Governance and Nominating Committee",
+    "Human Resources Committee"
+  ],
+  "age": 75,
+  "ageYear": 2024
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Patrick Walta",
+  "first_name": "Patrick",
+  "last_name": "Walta",
+  "age": 42,
+  "age_year": 2024,
+  "background": "Mr. Walta is a qualified metallurgist and mineral economist with over 20 years of experience in the mining industry. He was the Managing Director of Newcrest Mining Limited.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Newmont Corporation",
+      "ticker": "NEM",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.newmont.com",
+      "start_date": "2023-11-01",
+      "end_date": null
+    },
+    {
+      "name": "Future Metals NL",
+      "ticker": "FME",
+      "exchange": "ASX",
+      "website": "https://future-metals.com.au/",
+      "title_or_role": "Executive Chairman",
+      "start_date": "2023-10",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "New Century Resources Limited",
+      "ticker": "NCZ",
+      "exchange": "ASX",
+      "website": "https://www.newcenturyresources.com/",
+      "title_or_role": "Managing Director",
+      "start_date": "2017-02",
+      "end_date": "2021-02",
+      "validated": true
+    },
+    {
+      "name": "Broken Hill Mines",
+      "ticker": "BHM",
+      "exchange": "ASX",
+      "website": "https://brokenhillmines.com.au/",
+      "title_or_role": "Executive Chair",
+      "start_date": "2022-09",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/patrick-walta-742a7136",
+      "person_name": "Patrick Walta",
+      "company_name": "Future Metals NL",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Safety and Sustainability Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

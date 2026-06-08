@@ -1,0 +1,32 @@
+{
+  "name": "Barbara Zvan",
+  "first_name": "Barbara",
+  "last_name": "Zvan",
+  "age": 52,
+  "age_year": 2023,
+  "background": "President and Chief Executive Officer of University Pension Plan Ontario since 2020. Previously, Chief Risk and Strategy Officer of Ontario Teachers' Pension Plan.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Sprott Uranium Miners ETF",
+      "ticker": "URNM",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Trustee",
+      "website": "https://sprottetfs.com/urnm-sprott-uranium-miners-etf/",
+      "start_date": "2018-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

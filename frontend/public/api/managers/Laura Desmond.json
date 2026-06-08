@@ -1,0 +1,52 @@
+{
+  "id": "Laura Desmond",
+  "name": "Laura Desmond",
+  "background": "Founder and CEO of Eagle Eight. Former CEO of Starcom Mediavest Group. Director since 2012.",
+  "pictureUrl": "/managers-assets/Laura Desmond.jpg",
+  "companies": [
+    {
+      "name": "Adobe Inc.",
+      "ticker": "ADBE",
+      "exchange": "NASDAQ",
+      "website": "https://www.adobe.com",
+      "logoUrl": "/companies-assets/ADBE.NASDAQ.svg",
+      "title": "Director (Board Member)",
+      "startDate": "2012",
+      "endDate": null,
+      "formattedStartDate": "2012",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "DoubleVerify Holdings, Inc.",
+      "ticker": "DV",
+      "exchange": "NYSE",
+      "website": "https://www.doubleverify.com/",
+      "logoUrl": "/companies-assets/DV.NYSE.svg",
+      "title": "Director (Board Member)",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/lauradesmond",
+      "person_name": "Laura Desmond",
+      "company_name": "Adobe Inc., DoubleVerify Holdings, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Executive Compensation Committee"
+  ],
+  "age": 59,
+  "ageYear": 2024
+}

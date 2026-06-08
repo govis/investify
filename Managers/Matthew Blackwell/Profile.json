@@ -1,0 +1,40 @@
+{
+  "name": "Matthew Blackwell",
+  "first_name": "Matthew",
+  "last_name": "Blackwell",
+  "age": 52,
+  "age_year": 2023,
+  "background": "Matthew Blackwell joined Iluka in 2004 and has held various senior positions including Head of Marketing and Procurement. He was appointed Head of Major Projects and Engineering in 2019. He holds a Bachelor of Engineering and a Master of Business Administration.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Iluka Resources Limited",
+      "ticker": "ILU",
+      "exchange": "ASX",
+      "title_or_role": "Head of Projects and Sales and Marketing",
+      "website": "https://www.iluka.com",
+      "start_date": "2004",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/matthew-blackwell-0378463",
+      "person_name": "Matthew Blackwell",
+      "company_name": "Iluka Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

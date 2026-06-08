@@ -1,0 +1,40 @@
+{
+  "name": "Matthew Flannery",
+  "first_name": "Matthew",
+  "last_name": "Flannery",
+  "age": 59,
+  "age_year": 2024,
+  "background": "Matthew J. Flannery has served as Chief Executive Officer of United Rentals since May 2019 and as President since March 2018. He previously served as Chief Operating Officer from 2012 to 2019 and has been with the company since 1998 in various leadership roles.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "United Rentals, Inc.",
+      "ticker": "URI",
+      "exchange": "NYSE",
+      "title_or_role": "President and Chief Executive Officer",
+      "website": "https://www.unitedrentals.com",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/matthewflannery",
+      "person_name": "Matthew Flannery",
+      "company_name": "United Rentals, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

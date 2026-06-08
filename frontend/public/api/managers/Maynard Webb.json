@@ -1,0 +1,88 @@
+{
+  "id": "Maynard Webb",
+  "name": "Maynard Webb",
+  "background": "Founder of Webb Investment Network and former COO of eBay Inc. He has served as a Director since 2006.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Salesforce, Inc.",
+      "ticker": "CRM",
+      "exchange": "NYSE",
+      "website": "https://www.salesforce.com",
+      "logoUrl": "/companies-assets/CRM.NYSE.svg",
+      "title": "Board Member",
+      "startDate": "2011",
+      "endDate": null,
+      "formattedStartDate": "2011",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Visa Inc.",
+      "ticker": "V",
+      "exchange": "NYSE",
+      "website": "visa.com",
+      "logoUrl": "/companies-assets/V.NYSE.svg",
+      "title": "Board Member",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "AppLovin Corporation",
+      "ticker": "APP",
+      "exchange": "NASDAQ",
+      "website": "applovin.com",
+      "logoUrl": "/companies-assets/APP.NASDAQ.svg",
+      "title": "Board Member",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Yahoo! Inc.",
+      "ticker": "YHOO (delisted)",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Member",
+      "startDate": "2012",
+      "endDate": "2016",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "eBay Inc.",
+      "ticker": "EBAY",
+      "exchange": "NASDAQ",
+      "website": "ebay.com",
+      "logoUrl": "/companies-assets/EBAY.NASDAQ.svg",
+      "title": "Chief Operating Officer",
+      "startDate": "2002",
+      "endDate": "2006",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "2006"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/maynardwebb",
+      "person_name": "Maynard Webb",
+      "company_name": "Salesforce, Inc., Visa Inc., AppLovin Corporation, Yahoo! Inc., eBay Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

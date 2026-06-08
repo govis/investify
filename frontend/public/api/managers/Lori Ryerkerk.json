@@ -1,0 +1,55 @@
+{
+  "id": "Lori Ryerkerk",
+  "name": "Lori Ryerkerk",
+  "background": "Chairman, Chief Executive Officer and President of Celanese Corporation since 2019. Previously Executive Vice President of Global Manufacturing, Shell Downstream Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Celanese Corporation",
+      "ticker": "CE",
+      "exchange": "NYSE",
+      "website": "https://www.celanese.com",
+      "logoUrl": "/companies-assets/CE.NYSE.svg",
+      "title": "Chairman, President & Chief Executive Officer",
+      "startDate": "2019",
+      "endDate": "2024",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Cencora, Inc.",
+      "ticker": "COR",
+      "exchange": "NYSE",
+      "website": "https://www.cencora.com",
+      "logoUrl": "/companies-assets/COR.NYSE.svg",
+      "title": "Director",
+      "startDate": "2025-06-01",
+      "endDate": null,
+      "formattedStartDate": "June 2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Norfolk Southern Corporation",
+      "ticker": "NSC",
+      "exchange": "NYSE",
+      "website": "www.norfolk-southern.com",
+      "logoUrl": "/companies-assets/NSC.NYSE.svg",
+      "title": "Director",
+      "startDate": "2025-01-27",
+      "endDate": null,
+      "formattedStartDate": "January 2025",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation and Organization",
+    "Governance"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

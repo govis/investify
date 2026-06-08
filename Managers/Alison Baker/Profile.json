@@ -1,0 +1,95 @@
+{
+  "name": "Alison Baker",
+  "first_name": "Alison",
+  "last_name": "Baker",
+  "age": 53,
+  "age_year": 2024,
+  "background": "Ms. Baker has over 25 years of experience in the provision of audit, capital markets and advisory services. She was previously a partner at PwC and EY.",
+  "picture_url": null,
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
+    {
+      "name": "Capstone Copper Corp.",
+      "ticker": "CS",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://capstonecopper.com",
+      "start_date": "2022-03-23",
+      "end_date": null
+    },
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "LSE",
+      "title_or_role": "Independent Non-Executive Director",
+      "website": "https://www.endeavourmining.com",
+      "start_date": "2020-03-23",
+      "end_date": null
+    },
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "TSX",
+      "title_or_role": "Independent Non-Executive Director",
+      "website": "https://www.endeavourmining.com",
+      "start_date": "2020-03-23",
+      "end_date": null
+    },
+    {
+      "name": "Helios Towers plc",
+      "ticker": "HTWS",
+      "exchange": "LSE",
+      "website": "https://www.heliostowers.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "Unknown",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rockhopper Exploration plc",
+      "ticker": "RKH",
+      "exchange": "LSE (AIM)",
+      "website": "https://www.rockhopperexploration.co.uk",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "Unknown",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Central Asia Metals plc",
+      "ticker": "CAML",
+      "exchange": "LSE (AIM)",
+      "website": "https://www.centralasiametals.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2025-09-03",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/alisonbakerab",
+      "person_name": "Alison Baker",
+      "company_name": "Capstone Copper Corp., Endeavour Mining plc, Helios Towers plc, Rockhopper Exploration plc, Central Asia Metals plc",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Audit Committee (Chair)",
+    "ESG Committee",
+    "Human Resources and Compensation Committee",
+    "Technical, Health & Safety Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 0
+}

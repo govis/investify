@@ -1,0 +1,62 @@
+{
+  "id": "Howard Wenger",
+  "name": "Howard Wenger",
+  "background": "Howard Wenger has served as President of Nextracker since February 2022. He previously held executive leadership roles at SunPower Corporation, including President of Business Units and President of SunPower Systems.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "SunPower Corporation",
+      "ticker": "SPWR",
+      "exchange": "NASDAQ",
+      "website": "https://us.sunpower.com",
+      "logoUrl": "/companies-assets/SPWR.NASDAQ.svg",
+      "title": "President, Business Units",
+      "startDate": "2007",
+      "endDate": "2017-03-03",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "March 2017"
+    },
+    {
+      "name": "PowerLight Corporation",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Vice President / Board Director",
+      "startDate": "1990s",
+      "endDate": "2007",
+      "formattedStartDate": "1990s",
+      "formattedEndDate": "2007"
+    },
+    {
+      "name": "Solaria Corporation",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Director",
+      "startDate": "2019",
+      "endDate": "2022",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2022"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/howardwenger",
+      "person_name": "Howard Wenger",
+      "company_name": "Nextracker Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 59,
+  "ageYear": 2024
+}

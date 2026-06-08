@@ -1,0 +1,51 @@
+{
+  "id": "Ajay Singh",
+  "name": "Ajay Singh",
+  "background": "Ajay Singh has served as our Chief Product Officer since January 2021. Prior to joining Pure, Mr. Singh served as Senior Vice President and General Manager of the Cloud Management Business Unit at VMware, Inc. from 2014 to 2021. Prior to VMware, Mr. Singh held various leadership roles at Hewlett-Packard Company and was the CEO of several startups.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "VMware, Inc.",
+      "ticker": "VMW",
+      "exchange": "NYSE",
+      "website": "https://www.vmware.com",
+      "logoUrl": "/companies-assets/VMW.NYSE.svg",
+      "title": "Senior Vice President and General Manager, Cloud Management business unit",
+      "startDate": null,
+      "endDate": "2022",
+      "formattedStartDate": "",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Hewlett-Packard Company (HP)",
+      "ticker": "HPQ",
+      "exchange": "NYSE",
+      "website": "hp.com",
+      "logoUrl": "/companies-assets/HPQ.NYSE.jpg",
+      "title": "Senior Vice President and General Manager, IT Operations Management software business",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ajaysinghvmware",
+      "person_name": "Ajay Singh",
+      "company_name": "Pure Storage",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1,
+      "profile_status": "private"
+    }
+  ],
+  "committees": [],
+  "age": 58,
+  "ageYear": 2024
+}

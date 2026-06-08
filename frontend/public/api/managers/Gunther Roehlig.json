@@ -1,0 +1,42 @@
+{
+  "id": "Gunther Roehlig",
+  "name": "Gunther Roehlig",
+  "background": "Mr. Roehlig has over 25 years of experience in the financial and investment industry, with a focus on the resource sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Zinc One Resources Inc.",
+      "ticker": "Z",
+      "exchange": "TSXV",
+      "website": "https://zincone.com/",
+      "logoUrl": "/companies-assets/Z.TSXV.svg",
+      "title": "Interim CEO",
+      "startDate": "2019-05-27",
+      "endDate": null,
+      "formattedStartDate": "May 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Hello Pal International Inc.",
+      "ticker": "HP",
+      "exchange": "CSE",
+      "website": "https://www.hellopal.com/",
+      "logoUrl": "/companies-assets/HP.CSE.png",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 54,
+  "ageYear": 2024
+}

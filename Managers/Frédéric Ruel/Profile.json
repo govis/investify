@@ -1,0 +1,60 @@
+{
+  "name": "Fr\u00e9d\u00e9ric Ruel",
+  "first_name": "Fr\u00e9d\u00e9ric",
+  "last_name": "Ruel",
+  "age": 47,
+  "age_year": 2024,
+  "background": "Mr. Ruel has over 20 years of experience in financial reporting and the mining industry. He has been with Osisko since its inception in 2014.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Osisko Gold Royalties Ltd",
+      "ticker": "OR",
+      "exchange": "TSX",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://www.osiskogoldroyalties.com",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Falco Resources Ltd.",
+      "ticker": "FPC",
+      "exchange": "TSXV",
+      "website": "https://www.falcores.com",
+      "title_or_role": "Vice President, Corporate Controller",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NioGold Mining Corp.",
+      "ticker": "NOX",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Chief Financial Officer",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/fr\u00e9d\u00e9ric-ruel-255b5126",
+      "person_name": "Fr\u00e9d\u00e9ric Ruel",
+      "company_name": "Osisko Gold Royalties Ltd",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

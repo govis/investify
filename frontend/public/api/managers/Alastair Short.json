@@ -1,0 +1,78 @@
+{
+  "id": "Alastair Short",
+  "name": "Alastair Short",
+  "background": "Former executive at various financial institutions.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "VanEck Funds",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Director, Vice Chairman of the Board, Chairman of the Audit Committee",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "EULAV Asset Management",
+      "ticker": "VALU",
+      "exchange": "NASDAQ",
+      "website": "https://www.valueline.com",
+      "logoUrl": "/companies-assets/VALU.NASDAQ.svg",
+      "title": "Chairman and Independent Director",
+      "startDate": "January 2011",
+      "endDate": null,
+      "formattedStartDate": "January 2011",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Total Fund Solution",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "Lead Independent Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Tremont Offshore Funds",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Director",
+      "startDate": "June 2009",
+      "endDate": null,
+      "formattedStartDate": "June 2009",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Contingency Capital, LLC",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Director, Chair of Audit Committee",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

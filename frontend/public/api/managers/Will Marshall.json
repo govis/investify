@@ -1,0 +1,38 @@
+{
+  "id": "Will Marshall",
+  "name": "Will Marshall",
+  "background": "Dr. Marshall is a co-founder of Planet and has served as our Chief Executive Officer and as a member of our board of directors since December 2010. Prior to Planet, Dr. Marshall was a Scientist at NASA Ames Research Center from 2005 to 2010. Dr. Marshall holds a Ph.D. in Physics from the University of Oxford and a B.A. in Physics from the University of Leicester.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Planet Labs PBC",
+      "ticker": "PL",
+      "exchange": "NYSE",
+      "website": "https://www.planet.com",
+      "logoUrl": "/companies-assets/PL.NYSE.svg",
+      "title": "Co-Founder, Chief Executive Officer, and Chairperson of the Board",
+      "startDate": "2010",
+      "endDate": null,
+      "formattedStartDate": "2010",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/will-marshall-planet",
+      "person_name": "Will Marshall",
+      "company_name": "Planet Labs PBC",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 46,
+  "ageYear": 2024
+}

@@ -1,0 +1,40 @@
+{
+  "id": "Timothy Teter",
+  "name": "Timothy Teter",
+  "background": "Timothy S. Teter joined NVIDIA in 2017 as Executive Vice President, General Counsel and Secretary. Prior to NVIDIA, Mr. Teter was a partner at the law firm of Cooley LLP, where he practiced for two decades and served as outside counsel to NVIDIA. Mr. Teter holds a B.S. degree in Mechanical Engineering from the University of California, Davis and a J.D. degree from Stanford Law School.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "exchange": "NASDAQ",
+      "website": "https://www.nvidia.com",
+      "logoUrl": "/companies-assets/NVDA.NASDAQ.svg",
+      "title": "Executive Vice President, General Counsel and Secretary",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/timothy-teter-3b4509121",
+      "person_name": "Timothy Teter",
+      "company_name": "NVIDIA Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 57,
+  "ageYear": 2024
+}

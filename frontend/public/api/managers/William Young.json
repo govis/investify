@@ -1,0 +1,53 @@
+{
+  "id": "William Young",
+  "name": "William Young",
+  "background": "William L. Young is the Chair of the Board. He is a corporate director and was previously a co-founder and partner of Monitor Clipper Partners.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Autolus Therapeutics plc",
+      "ticker": "AUTL",
+      "exchange": "NASDAQ",
+      "website": "https://www.autolus.com",
+      "logoUrl": "/companies-assets/AUTL.NASDAQ.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Praxis Precision Medicines, Inc.",
+      "ticker": "PRAX",
+      "exchange": "NASDAQ",
+      "website": "https://praxismedicines.com",
+      "logoUrl": "/companies-assets/PRAX.NASDAQ.svg",
+      "title": "Independent Director",
+      "startDate": "December 2016",
+      "endDate": null,
+      "formattedStartDate": "December 2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Theravance Biopharma, Inc.",
+      "ticker": "TBPH",
+      "exchange": "NASDAQ",
+      "website": "https://www.theravance.com",
+      "logoUrl": "/companies-assets/TBPH.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "Prior to 2021",
+      "endDate": "2023",
+      "formattedStartDate": "Prior to 2021",
+      "formattedEndDate": "2023"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Governance, Ethics and Sustainability Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

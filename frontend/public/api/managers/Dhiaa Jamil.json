@@ -1,0 +1,39 @@
+{
+  "id": "Dhiaa Jamil",
+  "name": "Dhiaa Jamil",
+  "background": "Dhiaa M. Jamil is Executive Vice President and Chief Operating Officer. He has held various leadership roles in nuclear and fossil generation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Duke Energy Corporation",
+      "ticker": "DUK",
+      "exchange": "NYSE",
+      "website": "https://www.duke-energy.com",
+      "logoUrl": "/companies-assets/DUK.NYSE.svg",
+      "title": "Executive Vice President and Chief Operating Officer (Retired/Former)",
+      "startDate": "1981",
+      "endDate": "2023",
+      "formattedStartDate": "1981",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Constellation Energy Corporation",
+      "ticker": "CEG",
+      "exchange": "NASDAQ",
+      "website": "https://www.constellationenergy.com",
+      "logoUrl": "/companies-assets/CEG.NASDAQ.svg",
+      "title": "Director (Member of the Board of Directors)",
+      "startDate": "June 12, 2023",
+      "endDate": null,
+      "formattedStartDate": "June 12, 2023",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 67,
+  "ageYear": 2024
+}

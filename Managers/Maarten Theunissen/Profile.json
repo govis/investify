@@ -1,0 +1,40 @@
+{
+  "name": "Maarten Theunissen",
+  "first_name": "Maarten",
+  "last_name": "Theunissen",
+  "age": 44,
+  "age_year": 2024,
+  "background": "Mr. Theunissen is a Chartered Accountant (South Africa) and a Registered Public Accountant (South Africa). He previously served as Vice President, Finance at IAMGOLD and held senior roles at KPMG.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "IAMGOLD Corporation",
+      "ticker": "IMG",
+      "exchange": "TSX",
+      "title_or_role": "Vice President, Finance",
+      "website": "https://www.iamgold.com",
+      "start_date": "2018",
+      "end_date": "September 2022",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/maarten-theunissen-b90907a",
+      "person_name": "Maarten Theunissen",
+      "company_name": "IAMGOLD Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

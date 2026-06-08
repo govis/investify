@@ -1,0 +1,78 @@
+{
+  "id": "Martin Gilbert",
+  "name": "Martin Gilbert",
+  "background": "Martin Gilbert was the co-founder and CEO of Aberdeen Asset Management. He is currently Chairman of Revolut and AssetCo plc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Aberdeen Asset Management PLC",
+      "ticker": "ADN",
+      "exchange": "LSE",
+      "website": "https://www.abrdn.com",
+      "logoUrl": "/companies-assets/ADN.LSE.svg",
+      "title": "Co-founder and Chief Executive Officer",
+      "startDate": "1983",
+      "endDate": "2017",
+      "formattedStartDate": "1983",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "FirstGroup plc",
+      "ticker": "FGP",
+      "exchange": "LSE",
+      "website": "https://www.firstgroup.com",
+      "logoUrl": "/companies-assets/FGP.LSE.svg",
+      "title": "Chairman",
+      "startDate": "1995-04",
+      "endDate": "2014-01",
+      "formattedStartDate": "April 1995",
+      "formattedEndDate": "January 2014"
+    },
+    {
+      "name": "Standard Life Aberdeen plc (now abrdn plc)",
+      "ticker": "ABDN",
+      "exchange": "LSE",
+      "website": "https://www.abrdn.com",
+      "logoUrl": "/companies-assets/ABDN.LSE.svg",
+      "title": "Vice Chairman",
+      "startDate": "2019-03",
+      "endDate": "2020-05",
+      "formattedStartDate": "March 2019",
+      "formattedEndDate": "May 2020"
+    },
+    {
+      "name": "Sky plc",
+      "ticker": "SKY",
+      "exchange": "LSE",
+      "website": "sky.com",
+      "logoUrl": "/companies-assets/SKY.LSE.svg",
+      "title": "Deputy Chairman",
+      "startDate": null,
+      "endDate": "2018",
+      "formattedStartDate": "",
+      "formattedEndDate": "2018"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/martin-gilbert-936a50130",
+      "person_name": "Martin Gilbert",
+      "company_name": "Revolut and AssetCo plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Nomination Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

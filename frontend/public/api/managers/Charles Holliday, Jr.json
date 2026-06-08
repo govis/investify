@@ -1,0 +1,78 @@
+{
+  "id": "Charles Holliday, Jr",
+  "name": "Charles Holliday, Jr.",
+  "background": "Former Chairman of Royal Dutch Shell plc and former Chairman and CEO of DuPont.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Deere & Company",
+      "ticker": "DE",
+      "exchange": "NYSE",
+      "website": "https://www.deere.com",
+      "logoUrl": "/companies-assets/DE.NYSE.svg",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "E. I. du Pont de Nemours and Company (DuPont)",
+      "ticker": "DD",
+      "exchange": "NYSE",
+      "website": "https://www.dupont.com",
+      "logoUrl": "/companies-assets/DD.NYSE.svg",
+      "title": "CEO and Chairman",
+      "startDate": "1998",
+      "endDate": "2008",
+      "formattedStartDate": "1998",
+      "formattedEndDate": "2008"
+    },
+    {
+      "name": "Bank of America Corporation",
+      "ticker": "BAC",
+      "exchange": "NYSE",
+      "website": "https://www.bankofamerica.com",
+      "logoUrl": "/companies-assets/BAC.NYSE.svg",
+      "title": "Director and Chairman",
+      "startDate": "2009",
+      "endDate": "2014",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2014"
+    },
+    {
+      "name": "Shell plc (formerly Royal Dutch Shell)",
+      "ticker": "SHEL",
+      "exchange": "LSE",
+      "website": "https://www.shell.com",
+      "logoUrl": "/companies-assets/SHEL.LSE.svg",
+      "title": "Chairman",
+      "startDate": "2015",
+      "endDate": "2021",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "HCA Healthcare, Inc.",
+      "ticker": "HCA",
+      "exchange": "NYSE",
+      "website": "https://www.hcahealthcare.com",
+      "logoUrl": "/companies-assets/HCA.NYSE.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Corporate Governance Committee"
+  ],
+  "age": 75,
+  "ageYear": 2024
+}

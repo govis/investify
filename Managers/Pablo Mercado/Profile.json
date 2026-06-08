@@ -1,0 +1,71 @@
+{
+  "name": "Pablo Mercado",
+  "first_name": "Pablo",
+  "last_name": "Mercado",
+  "age": 46,
+  "age_year": 2024,
+  "background": "Mr. Mercado has over 20 years of experience in finance and corporate development in the energy industry. He previously served as CFO of EnLink Midstream, LLC and held senior roles at ConocoPhillips.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lithium Americas Corp.",
+      "ticker": "LAC",
+      "exchange": "NYSE",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://www.lithiumamericas.com",
+      "start_date": "2023-05",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "EnLink Midstream, LLC",
+      "ticker": "ENLC",
+      "exchange": "NYSE",
+      "website": "https://www.enlink.com",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "start_date": "2020-07",
+      "end_date": "2023-05",
+      "validated": true
+    },
+    {
+      "name": "Forum Energy Technologies, Inc.",
+      "ticker": "FET",
+      "exchange": "NYSE",
+      "website": "https://www.f-e-t.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2013",
+      "end_date": "2020-07",
+      "validated": true
+    },
+    {
+      "name": "Comfort Systems USA, Inc.",
+      "ticker": "FIX",
+      "exchange": "NYSE",
+      "website": "https://www.comfortsystemsusa.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/pablo-mercado-63013495",
+      "person_name": "Pablo Mercado",
+      "company_name": "Lithium Americas Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

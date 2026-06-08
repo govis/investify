@@ -1,0 +1,52 @@
+{
+  "id": "Jeffrey Parr",
+  "name": "Jeffrey Parr",
+  "background": "Mr. Parr is the Vice-Chair of the Board. He was previously the Chair of the Board of Kirkland Lake Gold Ltd. He is a Chartered Professional Accountant with over 30 years of experience in the mining industry.",
+  "pictureUrl": "/managers-assets/Jeffrey Parr.jpg",
+  "companies": [
+    {
+      "name": "Discovery Silver Corp.",
+      "ticker": "DSV",
+      "exchange": "TSX",
+      "website": "https://discoverysilver.com",
+      "logoUrl": "/companies-assets/DSV.TSX.svg",
+      "title": "Independent Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Kirkland Lake Gold Ltd.",
+      "ticker": "KL",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Director",
+      "startDate": "2014",
+      "endDate": "2019",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2019"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/jeff-parr-8b16a09",
+      "person_name": "Jeffrey Parr",
+      "company_name": "Agnico Eagle Mines Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

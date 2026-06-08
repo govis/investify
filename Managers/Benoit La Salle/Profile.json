@@ -1,0 +1,74 @@
+{
+  "name": "Benoit La Salle",
+  "first_name": "Benoit",
+  "last_name": "La Salle",
+  "age": 61,
+  "age_year": 2024,
+  "background": "Mr. La Salle is a Chartered Professional Accountant and has over 25 years of experience in the mining industry. He is the founder of SEMAFO Inc. and has extensive experience in developing mining projects in Africa.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "GoviEx Uranium Inc.",
+      "ticker": "GXU",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "https://goviex.com",
+      "start_date": "2014-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Aya Gold & Silver Inc.",
+      "ticker": "AYA",
+      "exchange": "TSX",
+      "website": "https://ayagoldsilver.com",
+      "title_or_role": "President & CEO",
+      "start_date": "2020-04",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SEMAFO Inc.",
+      "ticker": "SMF",
+      "exchange": "TSX",
+      "website": "https://semafo.com",
+      "title_or_role": "Founder, President & CEO",
+      "start_date": "1995",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "20-20 Technologies Inc.",
+      "ticker": "TWT",
+      "exchange": "TSX",
+      "website": "https://2020spaces.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/benoit-la-salle-fcpa-mba-23402310a",
+      "person_name": "Benoit La Salle",
+      "company_name": "Aya Gold & Silver Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

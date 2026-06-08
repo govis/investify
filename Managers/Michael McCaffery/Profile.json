@@ -1,0 +1,63 @@
+{
+  "name": "Michael McCaffery",
+  "first_name": "Michael",
+  "last_name": "McCaffery",
+  "age": 70,
+  "age_year": 2024,
+  "background": "Chairman of Makena Capital Management and former President and CEO of Stanford Management Company.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.nvidia.com",
+      "start_date": "2015-01-01",
+      "end_date": null
+    },
+    {
+      "name": "C3.ai, Inc.",
+      "ticker": "AI",
+      "exchange": "NYSE",
+      "website": "https://c3.ai",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "KB Home",
+      "ticker": "KBH",
+      "exchange": "NYSE",
+      "website": "https://www.kbhome.com",
+      "title_or_role": "Director",
+      "start_date": "2003",
+      "end_date": "2015",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michael-mccaffery-executive",
+      "person_name": "Michael McCaffery",
+      "company_name": "Makena Capital Management",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

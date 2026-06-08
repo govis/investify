@@ -1,0 +1,62 @@
+{
+  "id": "Eugene Reilly",
+  "name": "Eugene Reilly",
+  "background": "Vice Chairman since January 2023. Previously served as Chief Investment Officer.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Strategic Hotels & Resorts, Inc.",
+      "ticker": "BEE",
+      "exchange": "NYSE",
+      "website": "https://www.strategichotels.com",
+      "logoUrl": "/companies-assets/BEE.NYSE.svg",
+      "title": "Director",
+      "startDate": "2009",
+      "endDate": "2016",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "American Tower Corporation",
+      "ticker": "AMT",
+      "exchange": "NYSE",
+      "website": "https://www.americantower.com",
+      "logoUrl": "/companies-assets/AMT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "AMB Property Corporation",
+      "ticker": "AMB",
+      "exchange": "NYSE",
+      "website": "https://www.prologis.com",
+      "logoUrl": "/companies-assets/AMB.NYSE.svg",
+      "title": "President, North America",
+      "startDate": "2003",
+      "endDate": "2011",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2011"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/eugenefreilly",
+      "person_name": "Eugene Reilly",
+      "company_name": "Prologis",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 62,
+  "ageYear": 2024
+}

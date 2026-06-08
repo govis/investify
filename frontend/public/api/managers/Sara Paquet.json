@@ -1,0 +1,31 @@
+{
+  "id": "Sara Paquet",
+  "name": "Sara Paquet",
+  "background": "Ms. Paquet has over 20 years of experience in finance and corporate management. She currently holds a senior executive position in a private corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Delta Resources Limited",
+      "ticker": "DLTA",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Compensation Committee"
+  ],
+  "age": 48,
+  "ageYear": 2024
+}

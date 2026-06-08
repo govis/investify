@@ -1,0 +1,51 @@
+{
+  "name": "Patrick Lord",
+  "first_name": "Patrick",
+  "last_name": "Lord",
+  "age": 58,
+  "age_year": 2024,
+  "background": "Dr. Lord has been our Executive Vice President and Chief Operating Officer since September 2023. He previously served as Executive Vice President, Customer Support Business Group and Global Operations from 2020 to 2023, and as Senior Vice President and General Manager of various business units since joining Lam in 2012.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lam Research Corporation",
+      "ticker": "LRCX",
+      "exchange": "NASDAQ",
+      "title_or_role": "Executive Vice President and Chief Operating Officer",
+      "website": "https://www.lamresearch.com",
+      "start_date": "2016",
+      "end_date": "March 2026",
+      "validated": true
+    },
+    {
+      "name": "Novellus Systems, Inc.",
+      "ticker": "NVLS",
+      "exchange": "NASDAQ",
+      "website": "N/A",
+      "title_or_role": "Senior Vice President & General Manager, CMP Business Unit",
+      "start_date": "Prior to 2012",
+      "end_date": "2012",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/patrick-lord-3202b52",
+      "person_name": "Patrick Lord",
+      "company_name": "Lam Research Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

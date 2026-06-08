@@ -1,0 +1,41 @@
+{
+  "name": "Paul Ferdenzi",
+  "first_name": "Paul",
+  "last_name": "Ferdenzi",
+  "age": 59,
+  "age_year": 2024,
+  "background": "Mr. Ferdenzi has served as Vice President, General Counsel, and Corporate Secretary since 2011. He has been with the Company since 1999.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Curtiss-Wright Corporation",
+      "ticker": "CW",
+      "exchange": "NYSE",
+      "title_or_role": "Vice President, Human Resources",
+      "website": "https://www.curtisswright.com",
+      "start_date": "2011-11",
+      "end_date": "2014",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/paul-ferdenzi-140bb06",
+      "person_name": "Paul Ferdenzi",
+      "company_name": "Curtiss-Wright Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

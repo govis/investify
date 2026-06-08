@@ -1,0 +1,66 @@
+{
+  "id": "Clayton Jones",
+  "name": "Clayton Jones",
+  "background": "Former Chairman and CEO of Rockwell Collins, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Deere & Company",
+      "ticker": "DE",
+      "exchange": "NYSE",
+      "website": "https://www.deere.com",
+      "logoUrl": "/companies-assets/DE.NYSE.svg",
+      "title": "Director",
+      "startDate": "2007",
+      "endDate": null,
+      "formattedStartDate": "2007",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Rockwell Collins, Inc.",
+      "ticker": "COL",
+      "exchange": "NYSE",
+      "website": "https://www.rockwellcollins.com",
+      "logoUrl": "/companies-assets/COL.NYSE.svg",
+      "title": "Chairman, President & CEO",
+      "startDate": "2001",
+      "endDate": "2013",
+      "formattedStartDate": "2001",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Unisys Corporation",
+      "ticker": "UIS",
+      "exchange": "NYSE",
+      "website": "https://www.unisys.com",
+      "logoUrl": "/companies-assets/UIS.NYSE.svg",
+      "title": "Director",
+      "startDate": "2004",
+      "endDate": "2014",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2014"
+    },
+    {
+      "name": "Cardinal Health, Inc.",
+      "ticker": "CAH",
+      "exchange": "NYSE",
+      "website": "https://www.cardinalhealth.com",
+      "logoUrl": "/companies-assets/CAH.NYSE.svg",
+      "title": "Director",
+      "startDate": "2007",
+      "endDate": "2017",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2017"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Corporate Governance Committee"
+  ],
+  "age": 74,
+  "ageYear": 2024
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Cashel Meagher",
+  "first_name": "Cashel",
+  "last_name": "Meagher",
+  "age": 56,
+  "age_year": 2024,
+  "background": "Mr. Meagher has over 25 years of experience in the mining industry. He previously served as Senior Vice President and Chief Operating Officer of Hudbay Minerals Inc.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Capstone Copper Corp.",
+      "ticker": "CS",
+      "exchange": "TSX",
+      "title_or_role": "President and Chief Operating Officer",
+      "website": "https://capstonecopper.com",
+      "start_date": "2022-01-05",
+      "end_date": null
+    },
+    {
+      "name": "Hudbay Minerals Inc.",
+      "ticker": "HBM",
+      "exchange": "TSX, NYSE",
+      "website": "https://www.hudbayminerals.com",
+      "title_or_role": "Senior Vice President and Chief Operating Officer",
+      "start_date": "November 2008",
+      "end_date": "January 2022",
+      "validated": true
+    },
+    {
+      "name": "North American Nickel Inc. (now Premium Nickel Resources Ltd.)",
+      "ticker": "PNRL",
+      "exchange": "TSXV",
+      "website": "https://premiumnickel.com",
+      "title_or_role": "Advisory Board Member",
+      "start_date": "May 2011",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/cashel-meagher-4a5a5a1a",
+      "person_name": "Cashel Meagher",
+      "company_name": "Capstone Copper",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

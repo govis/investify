@@ -1,0 +1,63 @@
+{
+  "id": "Peter Johnston",
+  "name": "Peter Johnston",
+  "background": "Mr. Johnston is a Chartered Professional Accountant with over 15 years of financial experience in the mining and manufacturing sectors. He previously served as Corporate Controller for the Company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Jervois Global Limited",
+      "ticker": "JRV",
+      "exchange": "ASX",
+      "website": "https://jervoisglobal.com/",
+      "logoUrl": "/companies-assets/JRV.ASX.png",
+      "title": "Chairman / Non-Executive Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Tronox Holdings plc",
+      "ticker": "TROX",
+      "exchange": "NYSE",
+      "website": "https://www.tronox.com/",
+      "logoUrl": "/companies-assets/TROX.NYSE.svg",
+      "title": "Interim CEO",
+      "startDate": "May 15, 2017",
+      "endDate": "November 30, 2017",
+      "formattedStartDate": "May 15, 2017",
+      "formattedEndDate": "November 30, 2017"
+    },
+    {
+      "name": "Vault Minerals Limited (formerly Red 5 Limited)",
+      "ticker": "VAU",
+      "exchange": "ASX",
+      "website": "https://vaultminerals.com.au/",
+      "logoUrl": "/companies-assets/VAU.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Glencore plc",
+      "ticker": "GLEN",
+      "exchange": "LSE",
+      "website": "https://www.glencore.com",
+      "logoUrl": "/companies-assets/GLEN.LSE.svg",
+      "title": "Global Head of Nickel Assets",
+      "startDate": "May 2013",
+      "endDate": "December 2015",
+      "formattedStartDate": "May 2013",
+      "formattedEndDate": "December 2015"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 45,
+  "ageYear": 2024
+}

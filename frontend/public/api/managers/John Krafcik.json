@@ -1,0 +1,76 @@
+{
+  "id": "John Krafcik",
+  "name": "John Krafcik",
+  "background": "Mr. Krafcik has served as a member of our Board since 2023. He is the former CEO of Waymo LLC.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Rivian Automotive, Inc.",
+      "ticker": "RIVN",
+      "exchange": "NASDAQ",
+      "website": "https://rivian.com",
+      "logoUrl": "/companies-assets/RIVN.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2023-07",
+      "endDate": null,
+      "formattedStartDate": "July 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Daimler Truck Holding AG",
+      "ticker": "DTG",
+      "exchange": "XETRA",
+      "website": "https://www.daimlertruck.com",
+      "logoUrl": "/companies-assets/DTG.XETRA.svg",
+      "title": "Member of the Supervisory Board",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "TrueCar, Inc.",
+      "ticker": "TRUE",
+      "exchange": "NASDAQ",
+      "website": "https://www.truecar.com",
+      "logoUrl": "/companies-assets/TRUE.NASDAQ.svg",
+      "title": "President",
+      "startDate": "2014",
+      "endDate": "2015",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Hyundai Motor Company",
+      "ticker": "HYMTF",
+      "exchange": "OTC",
+      "website": "https://www.hyundai.com",
+      "logoUrl": "/companies-assets/HYMTF.OTC.svg",
+      "title": "President and CEO of Hyundai Motor America",
+      "startDate": "2008",
+      "endDate": "2013",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2013"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/johnkrafcik",
+      "person_name": "John Krafcik",
+      "company_name": "Rivian Automotive, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

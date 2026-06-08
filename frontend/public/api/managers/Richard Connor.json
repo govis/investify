@@ -1,0 +1,42 @@
+{
+  "id": "Richard Connor",
+  "name": "Richard Connor",
+  "background": "Mr. Connor is a retired audit partner from KPMG LLP with over 38 years of experience.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Centerra Gold Inc.",
+      "ticker": "CG",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "AuRico Gold Inc.",
+      "ticker": "AUQ",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Vice President & CFO",
+      "startDate": null,
+      "endDate": "Prior to becoming CEO of AuRico Gold",
+      "formattedStartDate": "",
+      "formattedEndDate": "Prior to becoming CEO of AuRico Gold"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Risk Committee"
+  ],
+  "age": 75,
+  "ageYear": 2024
+}

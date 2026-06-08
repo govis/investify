@@ -1,0 +1,50 @@
+{
+  "id": "Dipak Golechha",
+  "name": "Dipak Golechha",
+  "background": "Dipak Golechha has served as our Chief Financial Officer since March 2021. Prior to joining us, Mr. Golechha served as President of Palo Alto Networks from December 2020 to March 2021. Previously, he was CEO of Excelitas Technologies Corp. and held various executive roles at Procter & Gamble.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Palo Alto Networks, Inc.",
+      "ticker": "PANW",
+      "exchange": "NASDAQ",
+      "website": "https://www.paloaltonetworks.com",
+      "logoUrl": "/companies-assets/PANW.NASDAQ.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "The Procter & Gamble Company",
+      "ticker": "PG",
+      "exchange": "NYSE",
+      "website": "https://www.pg.com",
+      "logoUrl": "/companies-assets/PG.NYSE.svg",
+      "title": "Global Divisional CFO / COO",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dipak-golechha-8b9a209",
+      "person_name": "Dipak Golechha",
+      "company_name": "Palo Alto Networks, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 52,
+  "ageYear": 2024
+}

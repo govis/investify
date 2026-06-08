@@ -1,0 +1,73 @@
+{
+  "name": "Cyndi Laval",
+  "first_name": "Cyndi",
+  "last_name": "Laval",
+  "age": 55,
+  "age_year": 2024,
+  "background": "Ms. Laval is a senior partner at Gowling WLG with over 25 years of experience in mining law, corporate finance, and M&A. She is recognized as a leading lawyer in the mining sector.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "K92 Mining Inc.",
+      "ticker": "KNT",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://k92mining.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Riley Gold Corp.",
+      "ticker": "RLYG",
+      "exchange": "TSXV",
+      "website": "https://rileygoldcorp.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "VR Resources Ltd.",
+      "ticker": "VRR",
+      "exchange": "TSXV",
+      "website": "https://vrr.ca",
+      "title_or_role": "Corporate Secretary",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Brazilian Gold Corp.",
+      "ticker": "BGC",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Secretary",
+      "start_date": null,
+      "end_date": "2013-10-31",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/cyndi-laval-4a5a5a15",
+      "person_name": "Cyndi Laval",
+      "company_name": "Gowling WLG",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Corporate Governance and Nominating Committee (Chair)",
+    "Health, Safety and Environmental Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

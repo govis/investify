@@ -1,0 +1,124 @@
+{
+  "id": "Craig Conway",
+  "name": "Craig Conway",
+  "background": "Former President and CEO of PeopleSoft, Inc. He has served as a Director since 2005.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Salesforce, Inc.",
+      "ticker": "CRM",
+      "exchange": "NYSE",
+      "website": "https://www.salesforce.com",
+      "logoUrl": "/companies-assets/CRM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2005",
+      "endDate": null,
+      "formattedStartDate": "2005",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Nutanix, Inc.",
+      "ticker": "NTNX",
+      "exchange": "NASDAQ",
+      "website": "https://www.nutanix.com",
+      "logoUrl": "/companies-assets/NTNX.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Paylocity Holding Corporation",
+      "ticker": "PCTY",
+      "exchange": "NASDAQ",
+      "website": "https://www.paylocity.com",
+      "logoUrl": "/companies-assets/PCTY.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Guidewire Software, Inc.",
+      "ticker": "GWRE",
+      "exchange": "NYSE",
+      "website": "https://www.guidewire.com",
+      "logoUrl": "/companies-assets/GWRE.NYSE.svg",
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": "2020",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Advanced Micro Devices, Inc. (AMD)",
+      "ticker": "AMD",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "logoUrl": "/companies-assets/AMD.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2005",
+      "endDate": "2011",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2011"
+    },
+    {
+      "name": "Unisys Corporation",
+      "ticker": "UIS",
+      "exchange": "NYSE",
+      "website": "https://www.unisys.com",
+      "logoUrl": "/companies-assets/UIS.NYSE.svg",
+      "title": "Director",
+      "startDate": "2007",
+      "endDate": "2014",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2014"
+    },
+    {
+      "name": "Pegasystems Inc.",
+      "ticker": "PEGA",
+      "exchange": "NASDAQ",
+      "website": "https://www.pega.com",
+      "logoUrl": "/companies-assets/PEGA.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2006",
+      "endDate": "2012",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "SuccessFactors, Inc.",
+      "ticker": "SFSF",
+      "exchange": "NASDAQ",
+      "website": "https://www.successfactors.com",
+      "logoUrl": "/companies-assets/SFSF.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2007",
+      "endDate": "2012",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2012"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/craig-conway-17667896",
+      "person_name": "Craig Conway",
+      "company_name": "Salesforce, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": "https://media.licdn.com/dms/image/v2/C4E03AQEYZV-8FNVMAg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1608581438082?e=2147483647&v=beta&t=juOzKLAOwP_PXztQ-kBJyfkSc2PJCqfj46F5HCmN840",
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/C4E03AQEYZV-8FNVMAg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1608581438082?e=2147483647&v=beta&t=juOzKLAOwP_PXztQ-kBJyfkSc2PJCqfj46F5HCmN840",
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

@@ -1,0 +1,103 @@
+{
+  "name": "Raymond Threlkeld",
+  "first_name": "Raymond",
+  "last_name": "Threlkeld",
+  "age": 76,
+  "age_year": 2024,
+  "background": "Mr. Threlkeld has over 40 years of experience in the mining industry. He was previously the President and CEO of Rainy River Resources and held senior roles at Barrick Gold.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Calibre Mining Corp.",
+      "ticker": "CXB",
+      "exchange": "TSX",
+      "title_or_role": "Senior Advisor / Director",
+      "website": "https://calibremining.com/",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Western Copper & Gold Corp.",
+      "ticker": "WRN",
+      "exchange": "TSX",
+      "website": "https://westerncoppercorp.com/",
+      "title_or_role": "Chairman",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "New Found Gold Corp.",
+      "ticker": "NFG",
+      "exchange": "TSXV",
+      "website": "https://newfoundgold.ca/",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kirkland Lake Gold Ltd.",
+      "ticker": "KL",
+      "exchange": "TSX",
+      "website": "https://www.kl.gold/",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Newmarket Gold Inc.",
+      "ticker": "NMI",
+      "exchange": "TSX",
+      "website": "https://www.newmarketgoldinc.com/",
+      "title_or_role": "Chairman",
+      "start_date": "2015",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Northern Empire Resources Corp.",
+      "ticker": "NM",
+      "exchange": "TSXV",
+      "website": "https://northernempireresources.com/",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "New Gold Inc.",
+      "ticker": "NGD",
+      "exchange": "TSX",
+      "website": "https://www.newgold.com/",
+      "title_or_role": "President & CEO / Director",
+      "start_date": "2009",
+      "end_date": "2012",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/raymond-threlkeld-9a6b14177",
+      "person_name": "Raymond Threlkeld",
+      "company_name": "Calibre Mining Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee (Chair)",
+    "Health, Safety, Environmental and Sustainability Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

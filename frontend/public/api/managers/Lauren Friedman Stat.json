@@ -1,0 +1,31 @@
+{
+  "id": "Lauren Friedman Stat",
+  "name": "Lauren Friedman Stat",
+  "background": "Ms. Stat has served as a member of our Board since 2020. She previously served in various roles at Accenture for 15 years, including as a Managing Director. Ms. Stat holds a B.S. in Science, Technology, and Society from Stanford University.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Palantir Technologies Inc.",
+      "ticker": "PLTR",
+      "exchange": "NYSE",
+      "website": "https://www.palantir.com",
+      "logoUrl": "/companies-assets/PLTR.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 41,
+  "ageYear": 2024
+}

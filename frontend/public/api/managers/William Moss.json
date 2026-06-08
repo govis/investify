@@ -1,0 +1,27 @@
+{
+  "id": "William Moss",
+  "name": "William Moss",
+  "background": "Mr. Moss has been Vice President and Controller since 2014. He joined General Dynamics in 2004 and has held various financial leadership roles.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "General Dynamics Corporation",
+      "ticker": "GD",
+      "exchange": "NYSE",
+      "website": "https://www.gd.com",
+      "logoUrl": "/companies-assets/GD.NYSE.svg",
+      "title": "Controller",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 54,
+  "ageYear": 2024
+}

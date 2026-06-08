@@ -1,0 +1,31 @@
+{
+  "id": "Linda Bammann",
+  "name": "Linda Bammann",
+  "background": "Retired Deputy Head of Risk Management at JPMorgan Chase. Former Vice Chair of Bank One Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Federal Home Loan Mortgage Corporation (Freddie Mac)",
+      "ticker": "FMCC",
+      "exchange": "OTC",
+      "website": "https://www.freddiemac.com",
+      "logoUrl": "/companies-assets/FMCC.OTC.svg",
+      "title": "Director",
+      "startDate": "2008",
+      "endDate": "2013",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2013"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Directors' Risk Policy Committee (Chair)",
+    "Regulatory Compliance & Public Responsibility Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

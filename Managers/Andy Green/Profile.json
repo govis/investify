@@ -1,0 +1,61 @@
+{
+  "name": "Andy Green",
+  "first_name": "Andy",
+  "last_name": "Green",
+  "age": 53,
+  "age_year": 2024,
+  "background": "Andy Green is executive vice president of HII and president of Mission Technologies. He was elected to this position in 2016. Green previously served as corporate vice president of strategy and corporate development.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Huntington Ingalls Industries, Inc.",
+      "ticker": "HII",
+      "exchange": "NYSE",
+      "title_or_role": "EVP & President, Technical Solutions",
+      "website": "https://hii.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "IG Group Holdings plc",
+      "ticker": "IGG",
+      "exchange": "LSE",
+      "website": "https://www.iggroup.com",
+      "title_or_role": "Chairman",
+      "start_date": "2014",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Avanti Communications Group plc",
+      "ticker": "AVN",
+      "exchange": "LSE",
+      "website": "https://www.avanti.space",
+      "title_or_role": "Senior Independent Non-Executive Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/andy-green-6091a14",
+      "person_name": "Andy Green",
+      "company_name": "HII",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 1
+}

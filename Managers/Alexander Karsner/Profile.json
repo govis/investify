@@ -1,0 +1,55 @@
+{
+  "name": "Alexander Karsner",
+  "first_name": "Alexander",
+  "last_name": "Karsner",
+  "age": 57,
+  "age_year": 2024,
+  "background": "Senior Strategist at X (formerly Google X) and former U.S. Assistant Secretary of Energy.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Exxon Mobil Corporation",
+      "ticker": "XOM",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.exxonmobil.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Applied Materials, Inc.",
+      "ticker": "AMAT",
+      "exchange": "NASDAQ",
+      "website": "https://www.appliedmaterials.com",
+      "title_or_role": "Director",
+      "start_date": "2008",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/alexanderkarsner",
+      "person_name": "Alexander Karsner",
+      "company_name": "Applied Materials",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1,
+      "profile_status": "private"
+    }
+  ],
+  "committees": [
+    "Finance Committee",
+    "Public Issues and Contributions Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 1
+}

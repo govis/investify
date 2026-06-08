@@ -1,0 +1,27 @@
+{
+  "id": "Masayuki Moriyama",
+  "name": "Masayuki Moriyama",
+  "background": "Joined Komatsu in 1983. Expert in marketing and mining equipment. Previously President of Mining Business Division.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Komatsu Ltd.",
+      "ticker": "KMTUY",
+      "exchange": "OTC",
+      "website": "https://www.komatsu.jp",
+      "logoUrl": "/companies-assets/KMTUY.OTC.svg",
+      "title": "Former Senior Managing Executive Officer; Former President of Mining Business Division",
+      "startDate": "Not publicly specified",
+      "endDate": "Retired",
+      "formattedStartDate": "Not publicly specified",
+      "formattedEndDate": "Retired"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 64,
+  "ageYear": 2024
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Joseph Gallucci",
+  "first_name": "Joseph",
+  "last_name": "Gallucci",
+  "age": null,
+  "age_year": null,
+  "background": "Joseph Gallucci is a senior executive with over 20 years of experience in investment banking and capital markets, specifically in the mining sector.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Skyharbour Resources Ltd.",
+      "ticker": "SYH",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "https://www.skyharbourltd.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Vox Royalty Corp.",
+      "ticker": "VOXR",
+      "exchange": "NASDAQ",
+      "website": "https://www.voxroyalty.com",
+      "title_or_role": "Director",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rockridge Resources Ltd.",
+      "ticker": "ROCK",
+      "exchange": "TSXV",
+      "website": "https://www.rockridgeresourcesltd.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Gunnison Copper Corp.",
+      "ticker": "GCU",
+      "exchange": "TSXV",
+      "website": "https://www.gunnisoncopper.com",
+      "title_or_role": "Director",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/joseph-gallucci-4a5a5a12",
+      "person_name": "Joseph Gallucci",
+      "company_name": "Skyharbour Resources Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Don Birak",
+  "first_name": "Don",
+  "last_name": "Birak",
+  "age": 69,
+  "age_year": 2024,
+  "background": "Mr. Birak is a geologist with over 40 years of experience in the mining industry. He was previously Senior Vice President of Exploration with Coeur Mining, Inc. and held senior roles with AngloGold Ashanti and Homestake Mining Company.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Revival Gold Inc.",
+      "ticker": "RVG",
+      "exchange": "TSXV",
+      "title_or_role": "Senior Advisor (formerly Director)",
+      "website": "https://revival-gold.com/",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Stria Lithium Inc.",
+      "ticker": "SRA",
+      "exchange": "TSXV",
+      "website": "https://strialithium.com/",
+      "title_or_role": "Director",
+      "start_date": "2024-01-11",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Silver Hammer Mining Corp.",
+      "ticker": "HAMR",
+      "exchange": "CSE",
+      "website": "https://silverhammermining.com/",
+      "title_or_role": "Board Advisor",
+      "start_date": "2023-03-15",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Blackwolf Copper and Gold Ltd.",
+      "ticker": "BWCG",
+      "exchange": "TSXV",
+      "website": "https://blackwolfcopperandgold.com/",
+      "title_or_role": "Director",
+      "start_date": "2020-08-12",
+      "end_date": "2023-09-12",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation, Governance and Nominating Committee",
+    "Technical and Health, Safety, Environmental and Social Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

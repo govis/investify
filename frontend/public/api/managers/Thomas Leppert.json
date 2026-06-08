@@ -1,0 +1,78 @@
+{
+  "id": "Thomas Leppert",
+  "name": "Thomas Leppert",
+  "background": "Former Chairman and CEO of The Turner Corporation. Former Mayor of Dallas.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Fluor Corporation",
+      "ticker": "FLR",
+      "exchange": "NYSE",
+      "website": "https://www.fluor.com",
+      "logoUrl": "/companies-assets/FLR.NYSE.svg",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Washington Mutual, Inc.",
+      "ticker": "WM",
+      "exchange": "NYSE",
+      "website": "https://www.wm.com",
+      "logoUrl": "/companies-assets/WM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2005",
+      "endDate": "2009",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2009"
+    },
+    {
+      "name": "View, Inc.",
+      "ticker": "VIEW",
+      "exchange": "NASDAQ",
+      "website": "https://view.com",
+      "logoUrl": "/companies-assets/VIEW.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": "2021",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "WS Atkins plc",
+      "ticker": "ATK",
+      "exchange": "LSE",
+      "website": "https://www.atkinsrealis.com",
+      "logoUrl": "/companies-assets/ATK.LSE.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": "2017",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2017"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/thomas-leppert-04951097",
+      "person_name": "Thomas Leppert",
+      "company_name": "Fluor Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Organization and Compensation Committee"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

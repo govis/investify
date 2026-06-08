@@ -1,0 +1,61 @@
+{
+  "name": "Debra Reed-Klages",
+  "first_name": "Debra",
+  "last_name": "Reed-Klages",
+  "age": 67,
+  "age_year": 2024,
+  "background": "Former Executive Chairman, President and CEO of Sempra Energy.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Caterpillar Inc.",
+      "ticker": "CAT",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.caterpillar.com",
+      "start_date": "2015-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Chevron Corporation",
+      "ticker": "CVX",
+      "exchange": "NYSE",
+      "website": "https://www.chevron.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lockheed Martin Corporation",
+      "ticker": "LMT",
+      "exchange": "NYSE",
+      "website": "https://www.lockheedmartin.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sempra Energy",
+      "ticker": "SRE",
+      "exchange": "NYSE",
+      "website": "https://www.sempra.com",
+      "title_or_role": "Chairman, President and Chief Executive Officer",
+      "start_date": "2011",
+      "end_date": "2018",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation and Human Capital Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

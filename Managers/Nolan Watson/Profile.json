@@ -1,0 +1,60 @@
+{
+  "name": "Nolan Watson",
+  "first_name": "Nolan",
+  "last_name": "Watson",
+  "age": 44,
+  "age_year": 2024,
+  "background": "Mr. Watson is the President and CEO of Sandstorm. He was the first employee of Silver Wheaton Corp. (now Wheaton Precious Metals Corp.) where he served as CFO. He is a Chartered Professional Accountant (BC), a Chartered Financial Analyst charterholder, and holds a Bachelor of Commerce degree.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Sandstorm Gold Ltd.",
+      "ticker": "SAND",
+      "exchange": "NYSE",
+      "title_or_role": "President & CEO",
+      "website": "sandstormgold.com",
+      "start_date": "2008",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Silver Wheaton Corp. (now Wheaton Precious Metals)",
+      "ticker": "WPM",
+      "exchange": "NYSE",
+      "website": "wheatonpm.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2006",
+      "end_date": "2008",
+      "validated": true
+    },
+    {
+      "name": "Sandstorm Metals & Energy Ltd.",
+      "ticker": "SND",
+      "exchange": "TSX",
+      "website": "N/A",
+      "title_or_role": "President & CEO",
+      "start_date": "2011",
+      "end_date": "2014",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/nolanrwatson",
+      "person_name": "Nolan Watson",
+      "company_name": "Sandstorm Gold Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "Mark Cicirelli",
+  "name": "Mark Cicirelli",
+  "background": "Mark Cicirelli is a Portfolio Manager at Elliott Investment Management L.P. He has extensive experience in investment management and corporate finance.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Triple Flag Precious Metals Corp.",
+      "ticker": "TFPM",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director (Non-Independent)",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Opus Bank",
+      "ticker": "OPB",
+      "exchange": "NASDAQ",
+      "website": "https://www.ppbi.com/",
+      "logoUrl": "https://logo.clearbit.com/opusbank.com",
+      "title": "Director",
+      "startDate": "Unknown",
+      "endDate": "2017",
+      "formattedStartDate": "",
+      "formattedEndDate": "2017"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mark-cicirelli-13b23",
+      "person_name": "Mark Cicirelli",
+      "company_name": "Elliott Investment Management L.P.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 48,
+  "ageYear": 2024
+}

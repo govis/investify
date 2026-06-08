@@ -1,0 +1,50 @@
+{
+  "id": "Craig Richardson",
+  "name": "Craig Richardson",
+  "background": "Craig Richardson is the Executive Vice President, Chief Legal Officer and Corporate Secretary. He joined Union Pacific in 2016.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Union Pacific Corporation",
+      "ticker": "UNP",
+      "exchange": "NYSE",
+      "website": "https://www.up.com",
+      "logoUrl": "/companies-assets/UNP.NYSE.svg",
+      "title": "Executive Vice President, Chief Legal Officer and Corporate Secretary",
+      "startDate": "December 2020",
+      "endDate": "March 31, 2025",
+      "formattedStartDate": "December 2020",
+      "formattedEndDate": "March 31, 2025"
+    },
+    {
+      "name": "El Paso Corporation",
+      "ticker": "EP",
+      "exchange": "NYSE",
+      "website": "N/A",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/El_Paso_Corporation_logo.svg/1200px-El_Paso_Corporation_logo.svg.png",
+      "title": "General Counsel, Pipeline Group",
+      "startDate": "~2001",
+      "endDate": "~2011",
+      "formattedStartDate": "~2001",
+      "formattedEndDate": "~2011"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/craig-richardson-8a5a5a12",
+      "person_name": "Craig Richardson",
+      "company_name": "Union Pacific Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

@@ -1,0 +1,54 @@
+{
+  "id": "Madeleine Kleiner",
+  "name": "Madeleine Kleiner",
+  "background": "Former Executive Vice President and General Counsel of Hilton Hotels Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "website": "https://www.northropgrumman.com",
+      "logoUrl": "/companies-assets/NOC.NYSE.svg",
+      "title": "Director",
+      "startDate": "2008",
+      "endDate": null,
+      "formattedStartDate": "2008",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Jack in the Box Inc.",
+      "ticker": "JACK",
+      "exchange": "NASDAQ",
+      "website": "https://www.jackinthebox.com",
+      "logoUrl": "/companies-assets/JACK.NASDAQ.png",
+      "title": "Director",
+      "startDate": "2011",
+      "endDate": "May 8, 2026",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "May 8, 2026"
+    },
+    {
+      "name": "Hilton Hotels Corporation",
+      "ticker": "HLT",
+      "exchange": "NYSE",
+      "website": "https://www.hilton.com",
+      "logoUrl": "/companies-assets/HLT.NYSE.svg",
+      "title": "Executive Vice President, General Counsel and Corporate Secretary",
+      "startDate": "January 2001",
+      "endDate": "February 2008",
+      "formattedStartDate": "January 2001",
+      "formattedEndDate": "February 2008"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation and Management Development Committee",
+    "Governance, Nominating and Sustainability Committee"
+  ],
+  "age": 72,
+  "ageYear": 2024
+}

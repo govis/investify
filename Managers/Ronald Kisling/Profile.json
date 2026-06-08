@@ -1,0 +1,50 @@
+{
+  "name": "Ronald Kisling",
+  "first_name": "Ronald",
+  "last_name": "Kisling",
+  "age": 63,
+  "age_year": 2024,
+  "background": "Ronald W. Kisling has served as our Chief Financial Officer since August 2021. Prior to joining Fastly, Mr. Kisling served as Chief Financial Officer of Fitbit, Inc., a wearable devices company, from June 2018 to August 2021, and as Fitbit\u2019s Chief Accounting Officer from September 2014 to June 2018.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Fastly, Inc.",
+      "ticker": "FSLY",
+      "exchange": "NYSE",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://www.fastly.com",
+      "start_date": "August 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Fitbit, Inc.",
+      "ticker": "FIT",
+      "exchange": "NYSE",
+      "website": "https://www.fitbit.com",
+      "title_or_role": "Chief Accounting Officer",
+      "start_date": "2014",
+      "end_date": "June 2018",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ronald-kisling-4a5a1a1",
+      "person_name": "Ronald Kisling",
+      "company_name": "Fastly, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

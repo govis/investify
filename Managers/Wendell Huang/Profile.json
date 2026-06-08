@@ -1,0 +1,60 @@
+{
+  "name": "Wendell Huang",
+  "first_name": "Wendell",
+  "last_name": "Huang",
+  "age": 61,
+  "age_year": 2024,
+  "background": "Wendell Huang is the Senior Vice President and Chief Financial Officer of TSMC. He joined TSMC in 1999 and has served in various financial roles, including Deputy CFO. Before TSMC, he worked in investment banking at Chase Manhattan Bank. He holds an MBA from Cornell University.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Taiwan Semiconductor Manufacturing Company Limited",
+      "ticker": "TSM",
+      "exchange": "NYSE",
+      "title_or_role": "Senior Vice President and Chief Financial Officer",
+      "website": "https://www.tsmc.com",
+      "start_date": "2019-09-01",
+      "end_date": null
+    },
+    {
+      "name": "Taiwan Semiconductor Manufacturing Company Limited (TSMC)",
+      "ticker": "TSM",
+      "exchange": "NYSE",
+      "website": "https://www.tsmc.com",
+      "title_or_role": "Chief Financial Officer & Vice President",
+      "start_date": "Not publicly specified",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Global Unichip Corp.",
+      "ticker": "3443",
+      "exchange": "TWSE",
+      "website": "https://www.globalunichip.com",
+      "title_or_role": "Director (Supervisory Board)",
+      "start_date": "Not publicly specified",
+      "end_date": "Not publicly specified",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://tw.linkedin.com/in/wendell-huang-bb085b28",
+      "person_name": "Wendell Huang",
+      "company_name": "Taiwan Semiconductor Manufacturing Company Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

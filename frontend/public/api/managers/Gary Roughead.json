@@ -1,0 +1,53 @@
+{
+  "id": "Gary Roughead",
+  "name": "Gary Roughead",
+  "background": "Admiral, U.S. Navy (Retired); former Chief of Naval Operations.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "website": "https://www.northropgrumman.com",
+      "logoUrl": "/companies-assets/NOC.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2012",
+      "endDate": null,
+      "formattedStartDate": "2012",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Walgreens Boots Alliance, Inc.",
+      "ticker": "WBA",
+      "exchange": "NASDAQ",
+      "website": "https://www.walgreensbootsalliance.com",
+      "logoUrl": "/companies-assets/WBA.NASDAQ.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2012",
+      "endDate": "2020",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2020"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gary-roughead-10350969",
+      "person_name": "Gary Roughead",
+      "company_name": "Northrop Grumman Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation and Management Development Committee",
+    "Governance, Nominating and Sustainability Committee"
+  ],
+  "age": 72,
+  "ageYear": 2024
+}

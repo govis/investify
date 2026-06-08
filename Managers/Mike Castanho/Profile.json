@@ -1,0 +1,40 @@
+{
+  "name": "Mike Castanho",
+  "first_name": "Mike",
+  "last_name": "Castanho",
+  "age": 45,
+  "age_year": 2024,
+  "background": "Mr. Castanho is a co-founder of Atha Energy and has over 20 years of experience in the capital markets and resource sector. He has been involved in the founding and financing of several successful resource companies.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "ATHA Energy Corp.",
+      "ticker": "ATHA",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "https://athaenergy.com/",
+      "start_date": "March 2023",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mike-castanho-4a5b2a12",
+      "person_name": "Mike Castanho",
+      "company_name": "ATHA Energy Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

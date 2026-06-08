@@ -1,0 +1,71 @@
+{
+  "name": "Wayne Hubert",
+  "first_name": "Wayne",
+  "last_name": "Hubert",
+  "age": 58,
+  "age_year": 2024,
+  "background": "Mr. Hubert is a mining executive with over 30 years of experience. He was previously CEO of Andean Resources Ltd. and held senior roles with Meridian Gold Inc. He is currently Chairman of Cassiar Gold Corp. and a Director of Inmet Mining.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Revival Gold Inc.",
+      "ticker": "RVG",
+      "exchange": "TSX",
+      "title_or_role": "Non-Executive Chairman",
+      "website": "https://revival-gold.com",
+      "start_date": "2017-01-01",
+      "end_date": null
+    },
+    {
+      "name": "InZinc Mining Ltd.",
+      "ticker": "IZN",
+      "exchange": "TSXV",
+      "website": "https://inzincmining.com/",
+      "title_or_role": "Chief Executive Officer & Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Austral Gold Limited",
+      "ticker": "AGLD",
+      "exchange": "ASX",
+      "website": "https://www.australgold.com/",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Candelaria Mining Corp.",
+      "ticker": "CAND",
+      "exchange": "TSXV",
+      "website": "https://www.candelariamining.com/",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Andean Resources Limited",
+      "ticker": "AND",
+      "exchange": "ASX",
+      "website": "https://www.asx.com.au/markets/company/and",
+      "title_or_role": "Chief Executive Officer & Director",
+      "start_date": "2006",
+      "end_date": "2010",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation, Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

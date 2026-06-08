@@ -1,0 +1,77 @@
+{
+  "id": "Garnet Dawson",
+  "name": "Garnet Dawson",
+  "background": "Mr. Dawson is a geologist with over 40 years of experience in the exploration and mining industry. He has held senior management positions with several public companies and has been involved in the discovery and development of several mineral deposits.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Freegold Ventures Ltd.",
+      "ticker": "FVL",
+      "exchange": "TSX",
+      "website": "https://freegoldventures.com/",
+      "logoUrl": "/companies-assets/FVL.TSX.png",
+      "title": "Independent Director",
+      "startDate": "2011",
+      "endDate": null,
+      "formattedStartDate": "2011",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Spanish Mountain Gold Ltd.",
+      "ticker": "SPA",
+      "exchange": "TSXV",
+      "website": "https://spanishmountaingold.com/",
+      "logoUrl": "/companies-assets/SPA.TSXV.svg",
+      "title": "Independent Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "U.S. GoldMining Inc.",
+      "ticker": "USGO",
+      "exchange": "NASDAQ",
+      "website": "https://www.usgoldmining.us/",
+      "logoUrl": "/companies-assets/USGO.NASDAQ.svg",
+      "title": "President",
+      "startDate": "2015",
+      "endDate": "2022",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "GoldMining Inc.",
+      "ticker": "GLDG",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "CEO",
+      "startDate": "2014",
+      "endDate": "2021",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2021"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/garnet-dawson-4a5b2a12",
+      "person_name": "Garnet Dawson",
+      "company_name": "GoldMining Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

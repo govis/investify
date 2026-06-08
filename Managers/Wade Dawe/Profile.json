@@ -1,0 +1,93 @@
+{
+  "name": "Wade Dawe",
+  "first_name": "Wade",
+  "last_name": "Dawe",
+  "age": 54,
+  "age_year": 2024,
+  "background": "Mr. Dawe is an experienced entrepreneur and financier based in Halifax, Nova Scotia. He has founded and served as an executive and director of several successful companies in the mining and technology sectors.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Fortune Bay Corp.",
+      "ticker": "FOR",
+      "exchange": "TSX",
+      "title_or_role": "Chairman",
+      "website": "https://fortunebaycorp.com",
+      "start_date": "2016-02-04",
+      "end_date": null
+    },
+    {
+      "name": "Torrent Capital Ltd.",
+      "ticker": "TORR",
+      "exchange": "TSXV",
+      "website": "https://www.torrentcapital.ca/",
+      "title_or_role": "Chairman and CEO",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Antler Gold Inc.",
+      "ticker": "ANTL",
+      "exchange": "TSXV",
+      "website": "https://www.antlergold.com/",
+      "title_or_role": "Founder / Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Pivot Technology Solutions Inc.",
+      "ticker": "PTG",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Chairman of the Board",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kneat.com, Inc.",
+      "ticker": "KSI",
+      "exchange": "TSX",
+      "website": "https://www.kneat.com/",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Linear Gold Corp.",
+      "ticker": "LRG",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Founder",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/wade-dawe-24193b35",
+      "person_name": "Wade Dawe",
+      "company_name": "Torrent Capital Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

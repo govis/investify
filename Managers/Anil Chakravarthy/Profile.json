@@ -1,0 +1,70 @@
+{
+  "name": "Anil Chakravarthy",
+  "first_name": "Anil",
+  "last_name": "Chakravarthy",
+  "age": 56,
+  "age_year": 2024,
+  "background": "Mr. Chakravarthy has served as President, Digital Experience Business since January 2020. Prior to joining Adobe, he was Chief Executive Officer of Informatica LLC from 2016 to 2020.",
+  "picture_url": "https://mumbrella.com.au/wp-content/uploads/2020/01/anil-chakravarthy-2048x1365.jpg",
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
+    {
+      "name": "Adobe Inc.",
+      "ticker": "ADBE",
+      "exchange": "NASDAQ",
+      "title_or_role": "Executive Vice President and General Manager, Digital Experience (later President, Customer Experience Orchestration)",
+      "website": "https://www.adobe.com",
+      "start_date": "January 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Fidelity National Information Services, Inc. (FIS)",
+      "ticker": "FIS",
+      "exchange": "NYSE",
+      "website": "https://www.fisglobal.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "January 2026",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "ANSYS, Inc.",
+      "ticker": "ANSS",
+      "exchange": "NASDAQ",
+      "website": "https://www.ansys.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Symantec Corporation (now Gen Digital Inc.)",
+      "ticker": "GEN",
+      "exchange": "NASDAQ",
+      "website": "https://www.gendigital.com",
+      "title_or_role": "Various leadership roles, including Executive Vice President of Information Security, Senior Vice President of Enterprise Security Group, and Senior Vice President of Storage and Availability Management Group",
+      "start_date": "2004",
+      "end_date": "2013",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/achakravarthy",
+      "person_name": "Anil Chakravarthy",
+      "company_name": "Adobe",
+      "profile_status": "success",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,79 @@
+{
+  "name": "Henry Dubois",
+  "first_name": "Henry",
+  "last_name": "Dubois",
+  "age": 61,
+  "age_year": 2024,
+  "background": "Mr. Dubois has served as our Chief Financial Officer since September 2021. Previously, Mr. Dubois served as Chief Financial Officer of Legacy BlackSky from August 2021 to September 2021 and as a consultant to Legacy BlackSky from December 2020 to August 2021. Prior to joining Legacy BlackSky, Mr. Dubois served as Managing Director of HED Consulting from 2013 to 2021 and held executive roles at GeoEye, Inc. and DigitalGlobe, Inc.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "BlackSky Technology Inc.",
+      "ticker": "BKSY",
+      "exchange": "NYSE",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://www.blacksky.com",
+      "start_date": "2021-09-01",
+      "end_date": null
+    },
+    {
+      "name": "GeoEye, Inc.",
+      "ticker": "GEOY",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2006",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "DigitalGlobe, Inc.",
+      "ticker": "DGI",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "President, Chief Financial Officer, Chief Operating Officer",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hooper Holmes, Inc.",
+      "ticker": "HH",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "President, Chief Executive Officer, and Director",
+      "start_date": "2013",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Endurance Acquisition Corp.",
+      "ticker": "EDNC",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Independent Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/henry-dubois-b79703",
+      "person_name": "Henry Dubois",
+      "company_name": "BlackSky Technology Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

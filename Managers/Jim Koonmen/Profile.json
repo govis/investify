@@ -1,0 +1,41 @@
+{
+  "name": "Jim Koonmen",
+  "first_name": "Jim",
+  "last_name": "Koonmen",
+  "age": 57,
+  "age_year": 2024,
+  "background": "Jim Koonmen was appointed as Executive Vice President and Chief Customer Officer in 2024. He joined ASML in 2007 through the acquisition of BRION and has held various leadership roles, including CEO of Cymer.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "ASML Holding N.V.",
+      "ticker": "ASML",
+      "exchange": "NASDAQ",
+      "title_or_role": "EVP/Chief Customer Officer",
+      "website": "https://www.asml.com",
+      "start_date": "2007",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jim-koonmen-0863121",
+      "person_name": "Jim Koonmen",
+      "company_name": "ASML",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Jane Judd",
+  "first_name": "Jane",
+  "last_name": "Judd",
+  "age": 65,
+  "age_year": 2024,
+  "background": "Ms. Judd has served as a director since 2012. She is a retired partner from KPMG LLP.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Kratos Defense & Security Solutions, Inc.",
+      "ticker": "KTOS",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.kratosdefense.com",
+      "start_date": "January 2011",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jane-judd-32435810",
+      "person_name": "Jane Judd",
+      "company_name": "Kratos Defense & Security Solutions, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee (Chair)"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

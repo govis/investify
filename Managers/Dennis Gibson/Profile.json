@@ -1,0 +1,50 @@
+{
+  "name": "Dennis Gibson",
+  "first_name": "Dennis",
+  "last_name": "Gibson",
+  "age": 70,
+  "age_year": 2024,
+  "background": "Mr. Gibson is a CPA with over 30 years of experience in senior financial positions. He has been the CFO of Laramide since 2006.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Laramide Resources Ltd.",
+      "ticker": "LAM",
+      "exchange": "TSX",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://laramide.com",
+      "start_date": "2006",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Treasury Metals Inc.",
+      "ticker": "TML",
+      "exchange": "TSX",
+      "website": "https://treasurymetals.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "07/2010",
+      "end_date": "03/2021",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/dennis-gibson-6761541a",
+      "person_name": "Dennis Gibson",
+      "company_name": "Laramide Resources Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

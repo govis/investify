@@ -1,0 +1,59 @@
+{
+  "name": "Gagan Dhingra",
+  "first_name": "Gagan",
+  "last_name": "Dhingra",
+  "age": 50,
+  "age_year": 2024,
+  "background": "Mr. Dhingra has served as our Interim Chief Financial Officer and Principal Financial Officer since December 2023. He joined Lucid in September 2022 as Vice President, Accounting and Principal Accounting Officer. Previously, he spent 14 years at Danaher Corporation in various accounting and finance leadership roles.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lucid Group, Inc.",
+      "ticker": "LCID",
+      "exchange": "NASDAQ",
+      "title_or_role": "Interim Chief Financial Officer",
+      "website": "https://www.lucidmotors.com",
+      "start_date": "2023-12-01",
+      "end_date": null
+    },
+    {
+      "name": "Anaplan, Inc.",
+      "ticker": "PLAN",
+      "exchange": "NYSE",
+      "website": "https://www.anaplan.com",
+      "title_or_role": "Vice President, Chief Accounting Officer, and Corporate Controller",
+      "start_date": "2020-08-20",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "McKesson Corporation",
+      "ticker": "MCK",
+      "exchange": "NYSE",
+      "website": "https://www.mckesson.com",
+      "title_or_role": "Director, Financial Reporting",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gagan-dhingra-gd",
+      "person_name": "Gagan Dhingra",
+      "company_name": "Lucid Group, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

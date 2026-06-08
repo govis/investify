@@ -1,0 +1,39 @@
+{
+  "id": "Roger Dassen",
+  "name": "Roger Dassen",
+  "background": "Roger Dassen was appointed as Executive Vice President and Chief Financial Officer in 2018. Before joining ASML, he was the CEO of Deloitte Netherlands and served as a member of the Global Board of Deloitte Touche Tohmatsu Limited.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "ASML Holding N.V.",
+      "ticker": "ASML",
+      "exchange": "NASDAQ",
+      "website": "https://www.asml.com",
+      "logoUrl": "/companies-assets/ASML.NASDAQ.svg",
+      "title": "Executive Vice President & Chief Financial Officer (Member of the Board of Management)",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://nl.linkedin.com/in/rogerdassen",
+      "person_name": "Roger Dassen",
+      "company_name": "ASML",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 58,
+  "ageYear": 2024
+}

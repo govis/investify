@@ -1,0 +1,63 @@
+{
+  "name": "Kristina Peterson",
+  "first_name": "Kristina",
+  "last_name": "Peterson",
+  "age": 58,
+  "age_year": 2024,
+  "background": "Ms. Peterson has served as a director since 2022. She has over 25 years of experience in the energy and financial sectors, including leadership roles at Brookfield Renewable and SunEdison.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Blink Charging Co.",
+      "ticker": "BLNK",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://blinkcharging.com",
+      "start_date": "April 21, 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Invinity Energy Systems plc",
+      "ticker": "IES",
+      "exchange": "LSE (AIM)",
+      "website": "https://invinity.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "November 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Electriq Power Holdings, Inc.",
+      "ticker": "ELIQ",
+      "exchange": "OTC",
+      "website": "https://electriqpower.com",
+      "title_or_role": "Independent Director",
+      "start_date": "August 25, 2023",
+      "end_date": "May 3, 2024",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kristina-peterson-897b403",
+      "person_name": "Kristina Peterson",
+      "company_name": "Blink Charging Co.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee (Chair)"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Christophe Fouquet",
+  "first_name": "Christophe",
+  "last_name": "Fouquet",
+  "age": 51,
+  "age_year": 2024,
+  "background": "Christophe Fouquet was appointed as President and Chief Executive Officer in April 2024. He joined ASML in 2008 and has held several leadership positions, including Executive Vice President and Chief Business Officer. He has been a member of the Board of Management since 2018.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "ASML Holding N.V.",
+      "ticker": "ASML",
+      "exchange": "NASDAQ",
+      "title_or_role": "President and Chief Executive Officer",
+      "website": "https://www.asml.com",
+      "start_date": "2024-04-24",
+      "end_date": null
+    },
+    {
+      "name": "KLA Corporation",
+      "ticker": "KLAC",
+      "exchange": "NASDAQ",
+      "website": "https://www.kla.com",
+      "title_or_role": "Marketing Director",
+      "start_date": "2003",
+      "end_date": "2008",
+      "validated": true
+    },
+    {
+      "name": "Applied Materials, Inc.",
+      "ticker": "AMAT",
+      "exchange": "NASDAQ",
+      "website": "https://www.appliedmaterials.com",
+      "title_or_role": "Global Product Manager",
+      "start_date": "1997",
+      "end_date": "2001",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/christophe-fouquet-65555a1",
+      "person_name": "Christophe Fouquet",
+      "company_name": "ASML",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

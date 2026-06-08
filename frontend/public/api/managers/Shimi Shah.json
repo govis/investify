@@ -1,0 +1,42 @@
+{
+  "id": "Shimi Shah",
+  "name": "Shimi Shah",
+  "background": "Venture capitalist and entrepreneur with over 20 years of experience in investing and corporate finance across various sectors.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "OnMobile Global Ltd.",
+      "ticker": "ONMOBILE",
+      "exchange": "NSE",
+      "website": "https://www.onmobile.com/",
+      "logoUrl": "/companies-assets/ONMOBILE.NSE.svg",
+      "title": "Independent Director",
+      "startDate": "2024-05-03",
+      "endDate": "2029-05-02",
+      "formattedStartDate": "May 2024",
+      "formattedEndDate": "May 2029"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/shimishah",
+      "person_name": "Shimi Shah",
+      "company_name": "Clean Air Metals Inc., OnMobile Global Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee (Chair)"
+  ],
+  "age": 52,
+  "ageYear": 2024
+}

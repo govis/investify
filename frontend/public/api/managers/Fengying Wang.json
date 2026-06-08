@@ -1,0 +1,38 @@
+{
+  "id": "Fengying Wang",
+  "name": "Fengying Wang",
+  "background": "Ms. Wang has served as our president since January 2023. Prior to joining us, she worked at Great Wall Motor Company Limited for over 30 years, where she served as the vice chairman and executive director from 2003 to 2022 and as the president from 2003 to 2022.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "XPeng Inc.",
+      "ticker": "XPEV",
+      "exchange": "NYSE",
+      "website": "https://www.xiaopeng.com",
+      "logoUrl": "/companies-assets/XPEV.NYSE.svg",
+      "title": "President",
+      "startDate": "January 2023",
+      "endDate": null,
+      "formattedStartDate": "January 2023",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/fengying-wang-1047291bb",
+      "person_name": "Fengying Wang",
+      "company_name": "XPeng Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 53,
+  "ageYear": 2024
+}

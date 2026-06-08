@@ -1,0 +1,74 @@
+{
+  "id": "Peter Kukielski",
+  "name": "Peter Kukielski",
+  "background": "Mr. Kukielski was appointed President and Chief Executive Officer of Hudbay in 2019. He has more than 30 years of experience in the mining industry. Previously, he was Executive Chairman of Waratah Resources Limited and President and CEO of Nevsun Resources Ltd. He also served as Chief Executive of ArcelorMittal Mining and held executive positions at Teck Resources and Falconbridge.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Hudbay Minerals Inc.",
+      "ticker": "HBM",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "President, CEO & Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCO",
+      "exchange": "TSX",
+      "website": "https://www.cameco.com",
+      "logoUrl": "/companies-assets/CCO.TSX.svg",
+      "title": "Independent Director",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Teck Resources Limited",
+      "ticker": "TECK",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Operating Officer",
+      "startDate": "2006",
+      "endDate": "2008",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2008"
+    },
+    {
+      "name": "Copper Mountain Mining Corporation",
+      "ticker": "CMMC",
+      "exchange": "TSX",
+      "website": "https://www.cumtn.com/",
+      "logoUrl": "/companies-assets/CMMC.TSX.png",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": "2023",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2023"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/peter-kukielski-4a5b2a12",
+      "person_name": "Peter Kukielski",
+      "company_name": "Hudbay Minerals Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 67,
+  "ageYear": 2024
+}

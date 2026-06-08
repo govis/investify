@@ -1,0 +1,102 @@
+{
+  "id": "Judy Bruner",
+  "name": "Judy Bruner",
+  "background": "Judy Bruner was Executive Vice President and Chief Financial Officer of SanDisk Corporation from 2004 until its acquisition by Western Digital in 2016.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Applied Materials, Inc.",
+      "ticker": "AMAT",
+      "exchange": "NASDAQ",
+      "website": "https://www.appliedmaterials.com",
+      "logoUrl": "/companies-assets/AMAT.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Qorvo, Inc.",
+      "ticker": "QRVO",
+      "exchange": "NASDAQ",
+      "website": "https://www.qorvo.com",
+      "logoUrl": "/companies-assets/QRVO.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Rapid7, Inc.",
+      "ticker": "RPD",
+      "exchange": "NASDAQ",
+      "website": "https://www.rapid7.com",
+      "logoUrl": "/companies-assets/RPD.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Seagate Technology plc",
+      "ticker": "STX",
+      "exchange": "NASDAQ",
+      "website": "https://www.seagate.com",
+      "logoUrl": "/companies-assets/STX.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": "2025",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "Varian Medical Systems, Inc.",
+      "ticker": "VAR",
+      "exchange": "NYSE",
+      "website": "https://www.varian.com",
+      "logoUrl": "/companies-assets/VAR.NYSE.png",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": "2021",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "SanDisk Corporation",
+      "ticker": "SNDK",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "/companies-assets/SNDK.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2002",
+      "endDate": "2004",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "2004"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/judy-bruner-163b4918",
+      "person_name": "Judy Bruner",
+      "company_name": "Applied Materials, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

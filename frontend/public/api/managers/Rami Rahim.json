@@ -1,0 +1,50 @@
+{
+  "id": "Rami Rahim",
+  "name": "Rami Rahim",
+  "background": "Mr. Rahim has served as our Chief Executive Officer since November 2014. He has been with Juniper since 1997, serving in various roles including Executive Vice President and General Manager of the Development and Innovation organization.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Juniper Networks, Inc.",
+      "ticker": "JNPR",
+      "exchange": "NYSE",
+      "website": "https://www.juniper.net",
+      "logoUrl": "/companies-assets/JNPR.NYSE.svg",
+      "title": "Chief Executive Officer and Member of the Board of Directors",
+      "startDate": "November 2014",
+      "endDate": "2025",
+      "formattedStartDate": "November 2014",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "Hewlett Packard Enterprise Company",
+      "ticker": "HPE",
+      "exchange": "NYSE",
+      "website": "https://www.arubanetworks.com",
+      "logoUrl": "https://www.arubanetworks.com/assets/images/logos/Aruba_a_Hewlett_Packard_Enterprise_company-Logo.png",
+      "title": "President & General Manager, HPE Networking",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ramirahim",
+      "person_name": "Rami Rahim",
+      "company_name": "Juniper Networks",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 53,
+  "ageYear": 2024
+}

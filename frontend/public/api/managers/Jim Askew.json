@@ -1,0 +1,65 @@
+{
+  "id": "Jim Askew",
+  "name": "Jim Askew",
+  "background": "Mr. Askew is a mining engineer with over 40 years’ experience as a Director and Chief Executive Officer of Australian and international publicly listed mining companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Syrah Resources Limited",
+      "ticker": "SYR",
+      "exchange": "ASX",
+      "website": "https://www.syrahresources.com.au",
+      "logoUrl": "/companies-assets/SYR.ASX.png",
+      "title": "Chairman",
+      "startDate": "2014-11",
+      "endDate": "2025-12-31",
+      "formattedStartDate": "November 2014",
+      "formattedEndDate": "December 2025"
+    },
+    {
+      "name": "Robex Resources Inc.",
+      "ticker": "RBX",
+      "exchange": "TSXV",
+      "website": "robexgold.com",
+      "logoUrl": "/companies-assets/RBX.TSXV.svg",
+      "title": "Non-Executive Chairman",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Endeavour Mining Corporation",
+      "ticker": "EDV",
+      "exchange": "TSX",
+      "website": "https://www.endeavourmining.com",
+      "logoUrl": "/companies-assets/EDV.TSX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2017-07",
+      "endDate": "2023-05",
+      "formattedStartDate": "July 2017",
+      "formattedEndDate": "May 2023"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jim-askew-64084370",
+      "person_name": "Jim Askew",
+      "company_name": "Syrah Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Nomination and Remuneration Committee",
+    "Risk and Sustainability Committee (Chair)"
+  ],
+  "age": 76,
+  "ageYear": 2024
+}

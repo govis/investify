@@ -1,0 +1,51 @@
+{
+  "id": "Ashley Johnson",
+  "name": "Ashley Johnson",
+  "background": "Ms. Johnson has served as our Chief Financial Officer and Treasurer since February 2020. Prior to joining Planet, Ms. Johnson served as Chief Financial Officer and Chief Operating Officer of Wealthfront from 2015 to 2020. Ms. Johnson holds a B.A. in International Relations and an M.A. in International Policy from Stanford University.",
+  "pictureUrl": "/managers-assets/Ashley Johnson.jpg",
+  "companies": [
+    {
+      "name": "Planet Labs PBC",
+      "ticker": "PL",
+      "exchange": "NYSE",
+      "website": "https://www.planet.com",
+      "logoUrl": "/companies-assets/PL.NYSE.svg",
+      "title": "President & Chief Financial Officer",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "ServiceSource International, Inc.",
+      "ticker": "SREV",
+      "exchange": "NASDAQ",
+      "website": "servicesource.com",
+      "logoUrl": "/companies-assets/SREV.NASDAQ.png",
+      "title": "Interim CEO / Chief Customer Officer",
+      "startDate": "2013",
+      "endDate": "2015",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2015"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ashleyfiegleinjohnson",
+      "person_name": "Ashley Fieglein Johnson",
+      "company_name": "Planet Labs PBC",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
+  "committees": [],
+  "age": 53,
+  "ageYear": 2024
+}

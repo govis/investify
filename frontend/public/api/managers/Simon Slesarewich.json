@@ -1,0 +1,50 @@
+{
+  "id": "Simon Slesarewich",
+  "name": "Simon Slesarewich",
+  "background": "Simon Slesarewich is a mining engineer with over 25 years' experience in the resources industry. He has held various executive and operational roles, including CEO of Northern Graphite and Boardwalk Resources. He has significant experience in project development and operations.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Alligator Energy Limited",
+      "ticker": "AGE",
+      "exchange": "ASX",
+      "website": "https://www.alligatorenergy.com.au",
+      "logoUrl": "/companies-assets/AGE.ASX.png",
+      "title": "Non-Executive Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Dateline Resources Limited",
+      "ticker": "DTR",
+      "exchange": "ASX",
+      "website": "https://www.datelineresources.com.au",
+      "logoUrl": "/companies-assets/DTR.ASX.svg",
+      "title": "Chief Operating Officer",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/simon-slesarewich-0a942020",
+      "person_name": "Simon Slesarewich",
+      "company_name": "Dateline Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

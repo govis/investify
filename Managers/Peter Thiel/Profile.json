@@ -1,0 +1,50 @@
+{
+  "name": "Peter Thiel",
+  "first_name": "Peter",
+  "last_name": "Thiel",
+  "age": 56,
+  "age_year": 2024,
+  "background": "Mr. Thiel is one of our co-founders and has served as the Chairman of our Board since 2003. He is a technology entrepreneur and investor, co-founding PayPal and serving as its CEO and Chairman. He was also the first outside investor in Facebook. Mr. Thiel holds a B.A. in Philosophy from Stanford University and a J.D. from Stanford Law School.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Palantir Technologies Inc.",
+      "ticker": "PLTR",
+      "exchange": "NYSE",
+      "title_or_role": "Chairman of the Board",
+      "website": "https://www.palantir.com",
+      "start_date": "2003-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Meta Platforms, Inc.",
+      "ticker": "META",
+      "exchange": "NASDAQ",
+      "website": "https://investor.meta.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2005",
+      "end_date": "2022",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/peterthiel",
+      "person_name": "Peter Thiel",
+      "company_name": "Palantir Technologies Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

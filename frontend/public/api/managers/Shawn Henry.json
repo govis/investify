@@ -1,0 +1,63 @@
+{
+  "id": "Shawn Henry",
+  "name": "Shawn Henry",
+  "background": "Shawn Henry has served as our Chief Security Officer since April 2012. From 1987 to March 2012, Mr. Henry served in various positions at the Federal Bureau of Investigation, including Executive Assistant Director of the Criminal, Cyber, Response and Services Branch.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "CrowdStrike Holdings, Inc.",
+      "ticker": "CRWD",
+      "exchange": "NASDAQ",
+      "website": "https://www.crowdstrike.com",
+      "logoUrl": "/companies-assets/CRWD.NASDAQ.svg",
+      "title": "Executive Advisor to the CEO (formerly Chief Security Officer)",
+      "startDate": "2012",
+      "endDate": null,
+      "formattedStartDate": "2012",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Clear Secure, Inc. (CLEAR)",
+      "ticker": "YOU",
+      "exchange": "NYSE",
+      "website": "https://www.clearme.com",
+      "logoUrl": "/companies-assets/YOU.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "ShoulderUp Technology Acquisition Corp.",
+      "ticker": "SUAC",
+      "exchange": "NYSE",
+      "website": "https://www.shoulderup.com",
+      "logoUrl": "/companies-assets/SUAC.NYSE.png",
+      "title": "Chairman of the Board / Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/shawn-henry-372bb74b",
+      "person_name": "Shawn Henry",
+      "company_name": "CrowdStrike",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

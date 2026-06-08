@@ -1,0 +1,53 @@
+{
+  "name": "Peyton Muldoon",
+  "first_name": "Peyton",
+  "last_name": "Muldoon",
+  "age": 55,
+  "age_year": 2024,
+  "background": "Licensed Real Estate Salesperson at Sotheby's International Realty since 2011.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Sprott Energy Transition Materials ETF",
+      "ticker": "SETM",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Trustee",
+      "website": "https://www.sprottetfs.com/setm-sprott-energy-transition-materials-etf/",
+      "start_date": "2018",
+      "end_date": null
+    },
+    {
+      "name": "Sprott Focus Trust, Inc.",
+      "ticker": "FUND",
+      "exchange": "NASDAQ",
+      "website": "https://sprottfocustrust.com",
+      "title_or_role": "Director",
+      "start_date": "March 26, 2018",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/peyton-muldoon-5477a84",
+      "person_name": "Peyton Muldoon",
+      "company_name": "Sotheby's International Realty",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

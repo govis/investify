@@ -1,0 +1,74 @@
+{
+  "name": "John Replogle",
+  "first_name": "John",
+  "last_name": "Replogle",
+  "age": 58,
+  "age_year": 2024,
+  "background": "John B. Replogle has served as a director since 2014. He is a partner at Raleigh Group and previously served as CEO of Seventh Generation, Inc. and Burt's Bees.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Wolfspeed, Inc.",
+      "ticker": "WOLF",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.wolfspeed.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Crocs, Inc.",
+      "ticker": "CROX",
+      "exchange": "NASDAQ",
+      "website": "https://investors.crocs.com",
+      "title_or_role": "Director",
+      "start_date": "January 1, 2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Grove Collaborative Holdings, Inc.",
+      "ticker": "GROV",
+      "exchange": "NYSE",
+      "website": "https://investors.grove.co",
+      "title_or_role": "Director and Chairman of the Board",
+      "start_date": "February 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sealy Corporation",
+      "ticker": "ZZ (Delisted/Acquired)",
+      "exchange": "NYSE",
+      "website": "N/A (Company acquired by Tempur-Pedic in 2013)",
+      "title_or_role": "Independent Director",
+      "start_date": "September 28, 2010",
+      "end_date": "2013 (Company acquisition)",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/johnbreplogle",
+      "person_name": "John Replogle",
+      "company_name": "Wolfspeed, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

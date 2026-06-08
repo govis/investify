@@ -1,0 +1,66 @@
+{
+  "id": "Frank Mariage",
+  "name": "Frank Mariage",
+  "background": "Mr. Mariage is a partner at Fasken Martineau DuMoulin LLP, specializing in securities law and mining law. He has been recognized as a leading lawyer in the mining sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Delta Resources Limited",
+      "ticker": "DLTA",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Abitibi Royalties, Inc.",
+      "ticker": "RZZ",
+      "exchange": "TSX",
+      "website": "https://www.abitibiroyalties.com/",
+      "logoUrl": "https://www.marketscreener.com/images/reuters/2023-05-15T143644Z_1_LYNXMPEJ4E0P0_RTROPTP_3_ABITIBI-ROYALTIES-INC.JPG",
+      "title": "Independent Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Val-d'Or Mining Corporation",
+      "ticker": "VZZ",
+      "exchange": "TSXV",
+      "website": "https://valdormining.com/",
+      "logoUrl": "/companies-assets/VZZ.TSXV.png",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": "2021",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2021"
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/frank-mariage/en",
+      "person_name": "Frank Mariage",
+      "company_name": "Fasken",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Compensation Committee"
+  ],
+  "age": 54,
+  "ageYear": 2024
+}

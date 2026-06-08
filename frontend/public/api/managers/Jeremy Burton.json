@@ -1,0 +1,64 @@
+{
+  "id": "Jeremy Burton",
+  "name": "Jeremy Burton",
+  "background": "CEO of Observe, Inc. Former CMO of Dell Technologies and Executive Director at EMC.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Snowflake Inc.",
+      "ticker": "SNOW",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Dell Technologies Inc.",
+      "ticker": "DELL",
+      "exchange": "NYSE",
+      "website": "https://www.dell.com",
+      "logoUrl": "/companies-assets/DELL.NYSE.svg",
+      "title": "Chief Marketing Officer",
+      "startDate": "2016",
+      "endDate": "2018",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "EMC Corporation",
+      "ticker": "EMC",
+      "exchange": "NYSE",
+      "website": "https://www.dell.com",
+      "logoUrl": "/companies-assets/EMC.NYSE.png",
+      "title": "President, Products and Marketing / Executive Vice President",
+      "startDate": "2010",
+      "endDate": "2016",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2016"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jburton0",
+      "person_name": "Jeremy Burton",
+      "company_name": "Observe, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 56,
+  "ageYear": 2024
+}

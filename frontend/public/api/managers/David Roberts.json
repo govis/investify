@@ -1,0 +1,42 @@
+{
+  "id": "David Roberts",
+  "name": "David Roberts",
+  "background": "Mr. Roberts served as President and Chief Executive Officer of Carlisle Companies Incorporated from 2007 to 2016 and as Chairman from 2014 to 2017.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Flowserve Corporation",
+      "ticker": "FLS",
+      "exchange": "NYSE",
+      "website": "https://www.flowserve.com",
+      "logoUrl": "/companies-assets/FLS.NYSE.svg",
+      "title": "Director",
+      "startDate": "November 2011",
+      "endDate": null,
+      "formattedStartDate": "November 2011",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Marathon Oil Corporation",
+      "ticker": "MRO",
+      "exchange": "NYSE",
+      "website": "https://www.marathonoil.com",
+      "logoUrl": "/companies-assets/MRO.NYSE.svg",
+      "title": "Senior Vice President, Business Development",
+      "startDate": "2006",
+      "endDate": "2008",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2008"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance & Nominating Committee",
+    "Organization & Compensation Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

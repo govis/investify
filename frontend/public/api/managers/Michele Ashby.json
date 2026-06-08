@@ -1,0 +1,41 @@
+{
+  "id": "Michele Ashby",
+  "name": "Michele Ashby",
+  "background": "Ms. Ashby is the CEO and Founder of Ashby Consulting Group and has over 30 years of experience in the mining and financial sectors.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Andean Precious Metals Corp.",
+      "ticker": "APM",
+      "exchange": "TSXV",
+      "website": "https://andeanpm.com/",
+      "logoUrl": "/companies-assets/APM.TSXV.png",
+      "title": "Independent Director",
+      "startDate": "2024-01-02",
+      "endDate": null,
+      "formattedStartDate": "January 2024",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/micheleashby1",
+      "person_name": "Michele Ashby",
+      "company_name": "Ashby Consulting Group",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Human Resources Committee",
+    "Sustainability Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

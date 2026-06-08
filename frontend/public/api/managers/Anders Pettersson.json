@@ -1,0 +1,54 @@
+{
+  "id": "Anders Pettersson",
+  "name": "Anders Pettersson",
+  "background": "Mr. Pettersson has served as a non-executive director since 2021. He was previously the CEO of Thule Group and has held various board positions at companies like ZetaDisplay AB and Purem GmbH.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Wallbox N.V.",
+      "ticker": "WBX",
+      "exchange": "NYSE",
+      "website": "https://wallbox.com",
+      "logoUrl": "/companies-assets/WBX.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "October 2021",
+      "endDate": null,
+      "formattedStartDate": "October 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "KlaraBo Sverige AB",
+      "ticker": "KLARA B",
+      "exchange": "Nasdaq Stockholm",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Director (Board Member)",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/anders-pettersson-42171120/",
+      "person_name": "Anders Pettersson",
+      "company_name": "Wallbox N.V.",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1,
+      "profile_status": "private"
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

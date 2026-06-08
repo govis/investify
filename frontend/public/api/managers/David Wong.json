@@ -1,0 +1,50 @@
+{
+  "id": "David Wong",
+  "name": "David Wong",
+  "background": "Chief Product Officer since 2021. Previously held product leadership roles at Facebook and Microsoft.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Thomson Reuters Corporation",
+      "ticker": "TRI",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Product Officer",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Nielsen Holdings Ltd.",
+      "ticker": "NLSN",
+      "exchange": "NYSE",
+      "website": "www.nielsen.com",
+      "logoUrl": "/companies-assets/NLSN.NYSE.svg",
+      "title": "Senior Vice President, Product Leadership",
+      "startDate": "2014",
+      "endDate": "2018",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2018"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dfwong",
+      "person_name": "David Wong",
+      "company_name": "Thomson Reuters Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 49,
+  "ageYear": 2024
+}

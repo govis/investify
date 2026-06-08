@@ -1,0 +1,53 @@
+{
+  "name": "David Stephens",
+  "first_name": "David",
+  "last_name": "Stephens",
+  "age": 48,
+  "age_year": 2024,
+  "background": "Mr. Stephens is the VP of Corporate Development at Agnico Eagle Mines Limited.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Orla Mining Ltd.",
+      "ticker": "OLA",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://orlamining.com/",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "San Cristobal Mining Inc.",
+      "ticker": "SCMIF",
+      "exchange": "OTC",
+      "website": "https://sancristobalmining.com/",
+      "title_or_role": "Vice President, Marketing and Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/david-stephens-8a5a5a10",
+      "person_name": "David Stephens",
+      "company_name": "Orla Mining Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

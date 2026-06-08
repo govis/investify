@@ -1,0 +1,43 @@
+{
+  "id": "Michael McCarthy",
+  "name": "Michael McCarthy",
+  "background": "Mr. McCarthy has served as our Chief Legal Officer and Head of Corporate Development since 2013. Previously, he was General Counsel at Infinera Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "QuantumScape Corporation",
+      "ticker": "QS",
+      "exchange": "NYSE",
+      "website": "https://www.quantumscape.com",
+      "logoUrl": "/companies-assets/QS.NYSE.png",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Union Pacific Corporation",
+      "ticker": "UNP",
+      "exchange": "NYSE",
+      "website": "https://www.up.com",
+      "logoUrl": "/companies-assets/UNP.NYSE.svg",
+      "title": "Director (Independent Chairperson)",
+      "startDate": "2008",
+      "endDate": null,
+      "formattedStartDate": "2008",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Executive Committee",
+    "Governance Committee"
+  ],
+  "age": 59,
+  "ageYear": 2024
+}

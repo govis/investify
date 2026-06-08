@@ -1,0 +1,50 @@
+{
+  "name": "Matt Mercier",
+  "first_name": "Matt",
+  "last_name": "Mercier",
+  "age": 48,
+  "age_year": 2024,
+  "background": "Mr. Mercier has served as our Chief Financial Officer since 2023. He joined Digital Realty in 2006 and has held various roles, including Senior Vice President, Global Finance and Corporate Planning.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Digital Realty Trust, Inc.",
+      "ticker": "DLR",
+      "exchange": "NYSE",
+      "title_or_role": "Senior Vice President, Global Finance & Accounting",
+      "website": "https://www.digitalrealty.com",
+      "start_date": "2006",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Equity Office Properties Trust",
+      "ticker": "EOP",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Asset Management role",
+      "start_date": "Prior to 2006",
+      "end_date": "2006",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mattmercier",
+      "person_name": "Matt Mercier",
+      "company_name": "Digital Realty Trust, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "Gary Brown",
+  "name": "Gary Brown",
+  "background": "Mr. Brown has over 30 years of experience in the mining sector and joined Wheaton in 2008. He previously held senior finance roles at Canico Resource Corp. and Zebra Environmental Corp.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Wheaton Precious Metals Corp.",
+      "ticker": "WPM",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Financial Officer",
+      "startDate": "2008",
+      "endDate": "2025-03-31",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "March 2025"
+    },
+    {
+      "name": "Atlas Energy Corp.",
+      "ticker": "ATLE",
+      "exchange": "TSXV",
+      "website": "https://atlasenergycorp.ca",
+      "logoUrl": "/companies-assets/ATLE.TSXV.svg",
+      "title": "Director",
+      "startDate": "2025-05-31",
+      "endDate": null,
+      "formattedStartDate": "May 2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Global Battery Metals Ltd.",
+      "ticker": "GBML",
+      "exchange": "TSXV",
+      "website": "https://gbml.ca",
+      "logoUrl": "/companies-assets/GBML.TSXV.svg",
+      "title": "Director",
+      "startDate": "2011-08-29",
+      "endDate": "2022",
+      "formattedStartDate": "August 2011",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Willow Biosciences Inc.",
+      "ticker": "WLLW",
+      "exchange": "TSX",
+      "website": "https://willowbio.com",
+      "logoUrl": "/companies-assets/WLLW.TSX.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": "2025",
+      "formattedStartDate": "",
+      "formattedEndDate": "2025"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gary-brown-7a5a5a1b",
+      "person_name": "Gary Brown",
+      "company_name": "Wheaton Precious Metals Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 64,
+  "ageYear": 2024
+}

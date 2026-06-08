@@ -1,0 +1,51 @@
+{
+  "name": "Sheila Murray",
+  "first_name": "Sheila",
+  "last_name": "Murray",
+  "age": 68,
+  "age_year": 2024,
+  "background": "Sheila Murray is the Chair of the Board of Teck. She was previously President of CI Financial Corp. and is a corporate lawyer by training.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Teck Resources Limited",
+      "ticker": "TECK",
+      "exchange": "TSX",
+      "title_or_role": "Board Chair / Director",
+      "website": "https://www.teck.com",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CI Financial Corp.",
+      "ticker": "CIX",
+      "exchange": "TSX",
+      "website": "https://www.cifinancial.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Granite Real Estate Investment Trust",
+      "ticker": "GRT.UN",
+      "exchange": "TSX",
+      "website": "https://granitereit.com",
+      "title_or_role": "Trustee / Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

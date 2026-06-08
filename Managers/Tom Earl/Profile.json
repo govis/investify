@@ -1,0 +1,49 @@
+{
+  "name": "Tom Earl",
+  "first_name": "Tom",
+  "last_name": "Earl",
+  "age": null,
+  "age_year": null,
+  "background": "Tom Earl is the Chief Commercial Officer of Venture Global LNG, responsible for the company's commercial strategy and LNG marketing.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Venture Global LNG, Inc.",
+      "ticker": "VG",
+      "exchange": "NYSE",
+      "title_or_role": "Chief Commercial Officer",
+      "website": "https://venturegloballng.com",
+      "start_date": "2017-01-01",
+      "end_date": null
+    },
+    {
+      "name": "TotalEnergies SE",
+      "ticker": "TTE",
+      "exchange": "NYSE / LSE",
+      "website": "https://totalenergies.com/",
+      "title_or_role": "Vice President of Development (Global LNG activities)",
+      "start_date": "2015",
+      "end_date": "2017",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/tom-earl-156b561a7",
+      "person_name": "Tom Earl",
+      "company_name": "Venture Global LNG",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

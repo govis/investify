@@ -1,0 +1,65 @@
+{
+  "id": "Edith Cooper",
+  "name": "Edith Cooper",
+  "background": "Co-founder of Medley and former Global Head of Human Capital Management at Goldman Sachs.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "ticker": "GS",
+      "exchange": "NYSE",
+      "website": "https://www.goldmansachs.com",
+      "logoUrl": "/companies-assets/GS.NYSE.svg",
+      "title": "Global Head of Human Capital Management",
+      "startDate": "1996",
+      "endDate": "2017",
+      "formattedStartDate": "1996",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Etsy, Inc.",
+      "ticker": "ETSY",
+      "exchange": "NASDAQ",
+      "website": "https://www.etsy.com",
+      "logoUrl": "/companies-assets/ETSY.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2018-04-05",
+      "endDate": null,
+      "formattedStartDate": "April 2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Slack Technologies, Inc.",
+      "ticker": "WORK",
+      "exchange": "NYSE",
+      "website": "https://slack.com",
+      "logoUrl": "/companies-assets/WORK.NYSE.svg",
+      "title": "Director",
+      "startDate": "2018-02-15",
+      "endDate": "2021-07-21",
+      "formattedStartDate": "February 2018",
+      "formattedEndDate": "July 2021"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/edithcooper",
+      "person_name": "Edith Cooper",
+      "company_name": "Medley",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Leadership Development and Compensation Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

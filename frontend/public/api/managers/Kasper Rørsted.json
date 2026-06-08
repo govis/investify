@@ -1,0 +1,66 @@
+{
+  "id": "Kasper Rørsted",
+  "name": "Kasper Rørsted",
+  "background": "Kasper Rørsted was the CEO of Adidas and previously the CEO of Henkel. He has extensive experience in global consumer goods and digital transformation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Adidas AG",
+      "ticker": "ADS",
+      "exchange": "Xetra",
+      "website": "https://www.adidas-group.com",
+      "logoUrl": "/companies-assets/ADS.Xetra.svg",
+      "title": "Chief Executive Officer (CEO)",
+      "startDate": "2016",
+      "endDate": "2022",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Henkel AG & Co. KGaA",
+      "ticker": "HEN3",
+      "exchange": "Xetra",
+      "website": "https://www.henkel.com",
+      "logoUrl": "/companies-assets/HEN3.Xetra.svg",
+      "title": "Executive Vice President (2005–2007); Vice Chairman of the Management Board (2007–2008); Chief Executive Officer (2008–2016)",
+      "startDate": "2005",
+      "endDate": "2016",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Nestlé S.A.",
+      "ticker": "NESN",
+      "exchange": "SIX Swiss Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Member of the Board of Directors",
+      "startDate": "2018",
+      "endDate": "2022",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2022"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kasper-r%C3%B8rsted-4a5b5a1/",
+      "person_name": "Kasper Rørsted",
+      "company_name": "Adidas AG",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Member of the Audit Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

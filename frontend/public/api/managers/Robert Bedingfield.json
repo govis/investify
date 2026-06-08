@@ -1,0 +1,41 @@
+{
+  "id": "Robert Bedingfield",
+  "name": "Robert Bedingfield",
+  "background": "Former Senior Partner at Ernst & Young LLP. He has extensive experience in financial reporting, audit, and risk management for major corporations.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Science Applications International Corporation",
+      "ticker": "SAIC",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director / Chairman of the Audit Committee",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "GeoPark Limited",
+      "ticker": "GPRK",
+      "exchange": "NYSE",
+      "website": "https://www.geo-park.com",
+      "logoUrl": "/companies-assets/GPRK.NYSE.svg",
+      "title": "Independent Non-Executive Director / Chair of the Audit Committee",
+      "startDate": "March 2015",
+      "endDate": "2022",
+      "formattedStartDate": "March 2015",
+      "formattedEndDate": "2022"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee (Chair)"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

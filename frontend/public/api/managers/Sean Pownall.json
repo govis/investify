@@ -1,0 +1,76 @@
+{
+  "id": "Sean Pownall",
+  "name": "Sean Pownall",
+  "background": "Mr. Pownall has been involved in the mineral exploration industry for over 30 years. He is the owner of More Core Diamond Drilling Services Ltd., which operates in North America and internationally.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Tudor Gold Corp.",
+      "ticker": "TUD",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": null,
+      "endDate": "2023",
+      "formattedStartDate": "",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Affinity Metals Corp.",
+      "ticker": "AFF",
+      "exchange": "TSXV",
+      "website": "https://www.affinity-metals.com",
+      "logoUrl": "/companies-assets/AFF.TSXV.svg",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Stinger Resources Inc.",
+      "ticker": "STNG",
+      "exchange": "CSE",
+      "website": "https://stingerresources.com",
+      "logoUrl": "/companies-assets/STNG.CSE.png",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "American Creek Resources Ltd.",
+      "ticker": "AMK",
+      "exchange": "TSXV",
+      "website": "https://www.americancreek.com",
+      "logoUrl": "/companies-assets/AMK.TSXV.png",
+      "title": "Director",
+      "startDate": "2004",
+      "endDate": "2021",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2021"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/sean-pownall-44226443",
+      "person_name": "Sean Pownall",
+      "company_name": "More Core Diamond Drilling Services Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 56,
+  "ageYear": 2024
+}

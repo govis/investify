@@ -1,0 +1,50 @@
+{
+  "name": "Pat Roche",
+  "first_name": "Pat",
+  "last_name": "Roche",
+  "age": 59,
+  "age_year": 2024,
+  "background": "Mr. Roche became Chief Executive Officer on February 1, 2023. He previously served as Chief Operating Officer from 2021 to 2023 and as President of the Industrial Systems segment from 2015 to 2021. He joined Moog in 1986.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Moog Inc.",
+      "ticker": "MOG.A / MOG.B",
+      "exchange": "NYSE",
+      "title_or_role": "President and Chief Executive Officer",
+      "website": "https://www.moog.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "EMCOR Group, Inc.",
+      "ticker": "EME",
+      "exchange": "NYSE",
+      "website": "https://www.emcorgroup.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "October 27, 2025",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/patroche",
+      "person_name": "Pat Roche",
+      "company_name": "Moog Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

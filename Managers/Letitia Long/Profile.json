@@ -1,0 +1,62 @@
+{
+  "name": "Letitia Long",
+  "first_name": "Letitia",
+  "last_name": "Long",
+  "age": 65,
+  "age_year": 2024,
+  "background": "Former Director of the National Geospatial-Intelligence Agency. She has served on our board since 2015.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Parsons Corporation",
+      "ticker": "PSN",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.parsons.com",
+      "start_date": "2015",
+      "end_date": null
+    },
+    {
+      "name": "T-Mobile US, Inc.",
+      "ticker": "TMUS",
+      "exchange": "NASDAQ",
+      "website": "https://www.t-mobile.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "June 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "COPT Defense Properties",
+      "ticker": "CDP",
+      "exchange": "NYSE",
+      "website": "https://www.copt.com",
+      "title_or_role": "Member, Board of Trustees (Board of Directors)",
+      "start_date": "October 2020",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/letitia-long-156aa883",
+      "person_name": "Letitia Long",
+      "company_name": "Parsons Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation and Management Development Committee",
+    "Corporate Governance and Responsibility Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

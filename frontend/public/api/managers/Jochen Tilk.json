@@ -1,0 +1,89 @@
+{
+  "id": "Jochen Tilk",
+  "name": "Jochen Tilk",
+  "background": "Jochen Tilk was appointed as an independent non-executive director and Chairman of the Board. He was previously the President and CEO of PotashCorp and Executive Chair of Nutrien Ltd.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AngloGold Ashanti plc",
+      "ticker": "AU",
+      "exchange": "NYSE",
+      "website": "https://www.anglogoldashanti.com",
+      "logoUrl": "/companies-assets/AU.NYSE.svg",
+      "title": "Chairman of the Board",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Emera Inc.",
+      "ticker": "EMA",
+      "exchange": "TSX",
+      "website": "https://www.emera.com",
+      "logoUrl": "/companies-assets/EMA.TSX.svg",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Nutrien Ltd.",
+      "ticker": "NTR",
+      "exchange": "TSX",
+      "website": "https://www.nutrien.com",
+      "logoUrl": "/companies-assets/NTR.TSX.svg",
+      "title": "Executive Chairman",
+      "startDate": "2018",
+      "endDate": "2018",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Potash Corporation of Saskatchewan Inc.",
+      "ticker": "POT",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "/companies-assets/POT.TSX.svg",
+      "title": "President and CEO",
+      "startDate": "2014",
+      "endDate": "2018",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Inmet Mining Corporation",
+      "ticker": "IMN",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/a2/Inmet_Mining_logo.png",
+      "title": "CEO",
+      "startDate": "2009",
+      "endDate": "2013",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2013"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jochen-tilk-4a5b2a12",
+      "person_name": "Jochen Tilk",
+      "company_name": "AngloGold Ashanti plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Investment Committee",
+    "Nominations Committee"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

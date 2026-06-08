@@ -1,0 +1,64 @@
+{
+  "id": "Julie Richardson",
+  "name": "Julie Richardson",
+  "background": "Former Managing Director at Providence Equity Partners and former head of the New York office of JP Morgan.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Datadog, Inc.",
+      "ticker": "DDOG",
+      "exchange": "NASDAQ",
+      "website": "https://www.datadoghq.com",
+      "logoUrl": "/companies-assets/DDOG.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Yext, Inc.",
+      "ticker": "YEXT",
+      "exchange": "NYSE",
+      "website": "https://www.yext.com",
+      "logoUrl": "/companies-assets/YEXT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "The Travelers Companies, Inc.",
+      "ticker": "TRV",
+      "exchange": "NYSE",
+      "website": "https://www.travelers.com",
+      "logoUrl": "/companies-assets/TRV.NYSE.svg",
+      "title": "Director",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/juliehenionrichardson",
+      "person_name": "Julie Richardson",
+      "company_name": "Datadog, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

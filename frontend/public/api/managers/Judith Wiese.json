@@ -1,0 +1,50 @@
+{
+  "id": "Judith Wiese",
+  "name": "Judith Wiese",
+  "background": "Judith Wiese is Chief People and Sustainability Officer (CPSO) and a member of the Managing Board. She joined Siemens in 2020 from Mars Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Siemens Aktiengesellschaft",
+      "ticker": "SIE",
+      "exchange": "XETRA",
+      "website": "https://www.siemens.com",
+      "logoUrl": "/companies-assets/SIE.XETRA.svg",
+      "title": "Member of the Managing Board, Chief People and Sustainability Officer, Labor Director",
+      "startDate": "2020-10-01",
+      "endDate": null,
+      "formattedStartDate": "October 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Koninklijke DSM N.V.",
+      "ticker": "DSM",
+      "exchange": "Euronext Amsterdam",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Human Resources Officer",
+      "startDate": "2017",
+      "endDate": "2020",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2020"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://de.linkedin.com/in/judithwiese",
+      "person_name": "Judith Wiese",
+      "company_name": "Siemens",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 53,
+  "ageYear": 2024
+}

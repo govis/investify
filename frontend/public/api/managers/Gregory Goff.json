@@ -1,0 +1,77 @@
+{
+  "id": "Gregory Goff",
+  "name": "Gregory Goff",
+  "background": "Former Executive Vice Chairman of Marathon Petroleum Corporation and former Chairman and CEO of Andeavor.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Exxon Mobil Corporation",
+      "ticker": "XOM",
+      "exchange": "NYSE",
+      "website": "https://www.exxonmobil.com",
+      "logoUrl": "/companies-assets/XOM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021-06",
+      "endDate": "2024-10",
+      "formattedStartDate": "June 2021",
+      "formattedEndDate": "October 2024"
+    },
+    {
+      "name": "Andeavor (formerly Tesoro Corporation)",
+      "ticker": "ANDV",
+      "exchange": "NYSE",
+      "website": "https://www.andeavor.com",
+      "logoUrl": "/companies-assets/ANDV.NYSE.png",
+      "title": "President and Chief Executive Officer",
+      "startDate": "2010-05",
+      "endDate": "2018-10",
+      "formattedStartDate": "May 2010",
+      "formattedEndDate": "October 2018"
+    },
+    {
+      "name": "Avient Corporation",
+      "ticker": "AVNT",
+      "exchange": "NYSE",
+      "website": "https://www.avient.com",
+      "logoUrl": "/companies-assets/AVNT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Enbridge Inc.",
+      "ticker": "ENB",
+      "exchange": "NYSE",
+      "website": "https://www.enbridge.com",
+      "logoUrl": "/companies-assets/ENB.NYSE.svg",
+      "title": "Director",
+      "startDate": "2020-02",
+      "endDate": "2021-06",
+      "formattedStartDate": "February 2020",
+      "formattedEndDate": "June 2021"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gregory-goff-4a5b8a12",
+      "person_name": "Gregory Goff",
+      "company_name": "Exxon Mobil Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Finance Committee"
+  ],
+  "age": 67,
+  "ageYear": 2024
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Lori McClenahan",
+  "first_name": "Lori",
+  "last_name": "McClenahan",
+  "age": 61,
+  "age_year": 2024,
+  "background": "Ms. McClenahan has over 30 years of experience in the junior resource sector.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Skeena Resources Limited",
+      "ticker": "SKE",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://skeenaresources.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "St. Elias Mines Ltd.",
+      "ticker": "SLI",
+      "exchange": "TSXV",
+      "website": "http://steliasmines.com",
+      "title_or_role": "President and CEO",
+      "start_date": "1997",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/lori-mcclenahan-b7316067",
+      "person_name": "Lori McClenahan",
+      "company_name": "St. Elias Mines Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

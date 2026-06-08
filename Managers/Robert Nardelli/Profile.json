@@ -1,0 +1,74 @@
+{
+  "name": "Robert Nardelli",
+  "first_name": "Robert",
+  "last_name": "Nardelli",
+  "age": 75,
+  "age_year": 2024,
+  "background": "Mr. Nardelli is the founder of XLR-8, LLC and previously served as Chairman and CEO of Chrysler LLC and The Home Depot, Inc.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "BWX Technologies, Inc.",
+      "ticker": "BWXT",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.bwxt.com",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "General Electric Company",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "website": "https://www.ge.com",
+      "title_or_role": "President and CEO of GE Power Systems",
+      "start_date": "1991",
+      "end_date": "2000",
+      "validated": true
+    },
+    {
+      "name": "The Home Depot, Inc.",
+      "ticker": "HD",
+      "exchange": "NYSE",
+      "website": "https://www.homedepot.com",
+      "title_or_role": "Chairman, President and CEO",
+      "start_date": "2000",
+      "end_date": "2007",
+      "validated": true
+    },
+    {
+      "name": "Chrysler Group LLC",
+      "ticker": "FCAU",
+      "exchange": "NYSE",
+      "website": "https://www.stellantis.com",
+      "title_or_role": "Chairman and CEO",
+      "start_date": "2007",
+      "end_date": "2009",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bobnardelli",
+      "person_name": "Robert Nardelli",
+      "company_name": "XLR-8, LLC",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

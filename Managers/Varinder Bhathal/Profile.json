@@ -1,0 +1,69 @@
+{
+  "name": "Varinder Bhathal",
+  "first_name": "Varinder",
+  "last_name": "Bhathal",
+  "age": 53,
+  "age_year": 2024,
+  "background": "Ms. Bhathal is the Chief Financial Officer of Sprott Asset Management LP and a Managing Director of Sprott Inc. She has over 20 years of experience in the financial services industry, specializing in investment funds and corporate finance.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Sprott Physical Gold Trust",
+      "ticker": "PHYS",
+      "exchange": "NYSE",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://sprott.com/investment-strategies/physical-bullion-trusts/gold/",
+      "start_date": "2017-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Sprott Energy Transition Materials ETF",
+      "ticker": "SETM",
+      "exchange": "NASDAQ",
+      "title_or_role": "Treasurer and Chief Financial Officer",
+      "website": "https://www.sprottetfs.com/setm-sprott-energy-transition-materials-etf/",
+      "start_date": "2018",
+      "end_date": null
+    },
+    {
+      "name": "Sprott Uranium Miners ETF",
+      "ticker": "URNM",
+      "exchange": "NYSE",
+      "title_or_role": "Treasurer and Chief Financial Officer",
+      "website": "https://sprottetfs.com/urnm-sprott-uranium-miners-etf/",
+      "start_date": "2018-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Sprott Inc.",
+      "ticker": "SII",
+      "exchange": "TSX",
+      "website": "https://sprott.com",
+      "title_or_role": "Managing Director, Chief Controller, and Treasurer",
+      "start_date": "Not publicly specified",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sprott Physical Battery Metals Trust",
+      "ticker": "SBAT.U",
+      "exchange": "TSX",
+      "website": "https://sprott.com/investment-strategies/physical-commodity-funds/battery-metals/",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "Not publicly specified",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold",
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

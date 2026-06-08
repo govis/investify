@@ -1,0 +1,50 @@
+{
+  "id": "James Bruno",
+  "name": "James Bruno",
+  "background": "Mr. Bruno was appointed Senior Vice President - European Solutions and President of U. S. Steel Košice in 2018. He joined the company in 2014.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "United States Steel Corporation",
+      "ticker": "X",
+      "exchange": "NYSE",
+      "website": "https://www.ussteel.com",
+      "logoUrl": "/companies-assets/X.NYSE.svg",
+      "title": "Senior Vice President – Automotive Solutions; President – U. S. Steel Košice; Executive Vice President, Business Development",
+      "startDate": "2014-12",
+      "endDate": null,
+      "formattedStartDate": "December 2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "TRW Automotive Holdings Corp.",
+      "ticker": "TRW",
+      "exchange": "NYSE",
+      "website": "https://www.trw.com",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TRW_logo.svg/1280px-TRW_logo.svg.png",
+      "title": "Senior Executive",
+      "startDate": "1994",
+      "endDate": "2014",
+      "formattedStartDate": "1994",
+      "formattedEndDate": "2014"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jim-bruno-2818337",
+      "person_name": "James Bruno",
+      "company_name": "United States Steel Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 62,
+  "ageYear": 2024
+}

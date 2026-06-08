@@ -1,0 +1,66 @@
+{
+  "id": "John Brough",
+  "name": "John Brough",
+  "background": "Mr. Brough was previously the President of Wittington Properties Limited and has extensive experience in real estate and finance.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Wheaton Precious Metals Corp.",
+      "ticker": "WPM",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": null,
+      "endDate": "2023",
+      "formattedStartDate": "",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Kinross Gold Corporation",
+      "ticker": "K",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "1994",
+      "endDate": "2020",
+      "formattedStartDate": "1994",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "First National Financial Corporation",
+      "ticker": "FN",
+      "exchange": "TSX",
+      "website": "https://www.firstnational.ca",
+      "logoUrl": "/companies-assets/FN.TSX.svg",
+      "title": "Director",
+      "startDate": "2006",
+      "endDate": "2022",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Choice Properties REIT",
+      "ticker": "CHP.UN",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Human Resources Committee"
+  ],
+  "age": 77,
+  "ageYear": 2024
+}

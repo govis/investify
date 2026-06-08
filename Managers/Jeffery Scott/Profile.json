@@ -1,0 +1,44 @@
+{
+  "name": "Jeffery Scott",
+  "first_name": "Jeffery",
+  "last_name": "Scott",
+  "age": 63,
+  "age_year": 2024,
+  "background": "Mr. Scott has over 30 years of experience in the energy and resource sectors. He has served as a director and officer of numerous public and private companies.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Atha Energy Corp.",
+      "ticker": "SASK",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "https://athaenergy.com/",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jefferyscott2",
+      "person_name": "Jeffery Scott",
+      "company_name": "Atha Energy Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/C4E03AQGn8cfgYNRkww/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1620069451435?e=2147483647&v=beta&t=lw7wqfdn30dFsqpnkmyPfvy_gsmhFMKvgoV5GdVGzmg",
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

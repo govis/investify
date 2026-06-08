@@ -1,0 +1,62 @@
+{
+  "name": "Turqi Alnowaiser",
+  "first_name": "Turqi",
+  "last_name": "Alnowaiser",
+  "age": 47,
+  "age_year": 2024,
+  "background": "Mr. Alnowaiser has served as a director since 2021. He is the Deputy Governor and Head of International Investments at the Public Investment Fund (PIF) of the Kingdom of Saudi Arabia.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lucid Group, Inc.",
+      "ticker": "LCID",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.lucidmotors.com",
+      "start_date": "2021-02-01",
+      "end_date": null
+    },
+    {
+      "name": "Uber Technologies, Inc.",
+      "ticker": "UBER",
+      "exchange": "NYSE",
+      "website": "https://www.uber.com",
+      "title_or_role": "Director",
+      "start_date": "2023-11-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hapag-Lloyd AG",
+      "ticker": "HLAG",
+      "exchange": "Xetra (Frankfurt Stock Exchange)",
+      "website": "https://www.hapag-lloyd.com",
+      "title_or_role": "Director",
+      "start_date": "2018-02-01",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/turqi-alnowaiser-5a5b5a1b",
+      "person_name": "Turqi Alnowaiser",
+      "company_name": "Public Investment Fund",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

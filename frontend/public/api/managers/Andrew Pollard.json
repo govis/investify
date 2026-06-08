@@ -1,0 +1,42 @@
+{
+  "id": "Andrew Pollard",
+  "name": "Andrew Pollard",
+  "background": "Mr. Pollard is the founder of Mining Plus and has extensive experience in the mining sector, specifically in corporate development and capital markets.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Western Uranium & Vanadium Corp.",
+      "ticker": "WUC",
+      "exchange": "CSE",
+      "website": "https://www.westernuranium.com/",
+      "logoUrl": "/companies-assets/WUC.CSE.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Blackrock Silver Corp.",
+      "ticker": "BRC",
+      "exchange": "TSXV",
+      "website": "blackrocksilver.com",
+      "logoUrl": "/companies-assets/BRC.TSXV.svg",
+      "title": "President, Chief Executive Officer & Director",
+      "startDate": "May 2019",
+      "endDate": null,
+      "formattedStartDate": "May 2019",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 40,
+  "ageYear": 2024
+}

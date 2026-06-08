@@ -1,0 +1,38 @@
+{
+  "id": "Rachel Rees",
+  "name": "Rachel Rees",
+  "background": "Ms. Rees is a Fellow of the Governance Institute of Australia and a Graduate of the Australian Institute of Company Directors. She has over 25 years of experience in senior executive roles in multinational listed and unlisted companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Peninsula Energy Limited",
+      "ticker": "PEN",
+      "exchange": "ASX",
+      "website": "https://www.pel.net.au",
+      "logoUrl": "/companies-assets/PEN.ASX.svg",
+      "title": "Executive Director Finance and Corporate Affairs / CFO / Joint Company Secretary",
+      "startDate": "2023-01-30",
+      "endDate": null,
+      "formattedStartDate": "January 2023",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rachel-rees-56861523",
+      "person_name": "Rachel Rees",
+      "company_name": "Peninsula Energy Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

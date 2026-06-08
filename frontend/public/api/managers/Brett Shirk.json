@@ -1,0 +1,74 @@
+{
+  "id": "Brett Shirk",
+  "name": "Brett Shirk",
+  "background": "Brett Shirk has served as our Chief Revenue Officer since February 2020. Prior to joining Fastly, Mr. Shirk served as Executive Vice President and Chief Revenue Officer of Rubrik, Inc., a cloud data management company, from January 2019 to February 2020.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Fastly, Inc.",
+      "ticker": "FSLY",
+      "exchange": "NYSE",
+      "website": "https://www.fastly.com",
+      "logoUrl": "/companies-assets/FSLY.NYSE.svg",
+      "title": "Chief Revenue Officer",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "CrowdStrike Holdings, Inc.",
+      "ticker": "CRWD",
+      "exchange": "NASDAQ",
+      "website": "https://www.crowdstrike.com",
+      "logoUrl": "/companies-assets/CRWD.NASDAQ.svg",
+      "title": "Chief Sales Officer",
+      "startDate": "2023",
+      "endDate": "2024",
+      "formattedStartDate": "2023",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Gen Digital Inc.",
+      "ticker": "GEN",
+      "exchange": "NASDAQ",
+      "website": "https://www.gendigital.com",
+      "logoUrl": "/companies-assets/GEN.NASDAQ.svg",
+      "title": "Executive Vice President-Worldwide Sales",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "VMware, Inc.",
+      "ticker": "VMW",
+      "exchange": "NYSE",
+      "website": "https://www.vmware.com",
+      "logoUrl": "/companies-assets/VMW.NYSE.svg",
+      "title": "Senior Vice President & General Manager",
+      "startDate": "2016",
+      "endDate": "2019",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2019"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/brett-shirk-1a02184",
+      "person_name": "Brett Shirk",
+      "company_name": "Fastly, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 52,
+  "ageYear": 2024
+}

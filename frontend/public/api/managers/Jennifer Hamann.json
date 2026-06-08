@@ -1,0 +1,50 @@
+{
+  "id": "Jennifer Hamann",
+  "name": "Jennifer Hamann",
+  "background": "Jennifer Hamann is the Executive Vice President and Chief Financial Officer. She has held various leadership roles in finance, audit, and investor relations since joining Union Pacific in 1992.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Union Pacific Corporation",
+      "ticker": "UNP",
+      "exchange": "NYSE",
+      "website": "https://www.up.com",
+      "logoUrl": "/companies-assets/UNP.NYSE.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2020-01-01",
+      "endDate": null,
+      "formattedStartDate": "January 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Steel Dynamics, Inc.",
+      "ticker": "STLD",
+      "exchange": "NASDAQ",
+      "website": "https://www.steeldynamics.com",
+      "logoUrl": "/companies-assets/STLD.NASDAQ.svg",
+      "title": "Independent Director",
+      "startDate": "2023-09-15",
+      "endDate": null,
+      "formattedStartDate": "September 2023",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jennifer-hamann-4a5a5a1a",
+      "person_name": "Jennifer Hamann",
+      "company_name": "Union Pacific Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 57,
+  "ageYear": 2024
+}

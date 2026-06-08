@@ -1,0 +1,62 @@
+{
+  "name": "Gale King",
+  "first_name": "Gale",
+  "last_name": "King",
+  "age": 61,
+  "age_year": 2024,
+  "background": "Former Executive Vice President and Chief Administrative Officer of Nationwide Mutual Insurance Company. Director since 2020.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "J.B. Hunt Transport Services, Inc.",
+      "ticker": "JBHT",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.jbhunt.com",
+      "start_date": "2020-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Unum Group",
+      "ticker": "UNM",
+      "exchange": "NYSE",
+      "website": "https://www.unum.com",
+      "title_or_role": "Director",
+      "start_date": "2022-05-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "AutoZone, Inc.",
+      "ticker": "AZO",
+      "exchange": "NYSE",
+      "website": "https://www.autozone.com",
+      "title_or_role": "Director",
+      "start_date": "2020-01-01",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gale-king-7183b219",
+      "person_name": "Gale King",
+      "company_name": "J.B. Hunt Transport Services, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

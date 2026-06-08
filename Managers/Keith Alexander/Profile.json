@@ -1,0 +1,52 @@
+{
+  "name": "Keith Alexander",
+  "first_name": "Keith",
+  "last_name": "Alexander",
+  "age": 72,
+  "age_year": 2024,
+  "background": "Former Director of the National Security Agency and former Commander of U.S. Cyber Command.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Amazon.com, Inc.",
+      "ticker": "AMZN",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.amazon.com",
+      "start_date": "2020-09-01",
+      "end_date": null
+    },
+    {
+      "name": "IronNet, Inc.",
+      "ticker": "IRNT",
+      "exchange": "NYSE",
+      "website": "https://www.ironnet.com",
+      "title_or_role": "Founder, Chairman of the Board, and Co-CEO",
+      "start_date": "2014",
+      "end_date": "2023",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kbaironnet",
+      "person_name": "Keith Alexander",
+      "company_name": "IronNet, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

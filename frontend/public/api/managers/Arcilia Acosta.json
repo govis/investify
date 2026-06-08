@@ -1,0 +1,65 @@
+{
+  "id": "Arcilia Acosta",
+  "name": "Arcilia Acosta",
+  "background": "Ms. Acosta is the President and CEO of CARCON Industries and Construction. She has served on the board since 2020.",
+  "pictureUrl": "/managers-assets/Arcilia Acosta.jpg",
+  "companies": [
+    {
+      "name": "Vistra Corp.",
+      "ticker": "VST",
+      "exchange": "NYSE",
+      "website": "https://www.vistracorp.com",
+      "logoUrl": "/companies-assets/VST.NYSE.svg",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Veritex Holdings, Inc.",
+      "ticker": "VBTX",
+      "exchange": "NASDAQ",
+      "website": "https://www.veritexbank.com",
+      "logoUrl": "/companies-assets/VBTX.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "LegacyTexas Financial Group, Inc.",
+      "ticker": "LTXB",
+      "exchange": "NASDAQ",
+      "website": "https://www.legacytexas.com",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/LegacyTexas_Bank_logo.svg/1200px-LegacyTexas_Bank_logo.svg.png",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": "2019",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2019"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/arciliaacosta/",
+      "person_name": "Arcilia Acosta",
+      "company_name": "CARCON Industries and Construction",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Social Responsibility and Compensation Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

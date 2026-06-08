@@ -1,0 +1,98 @@
+{
+  "id": "Kirk Hachigian",
+  "name": "Kirk Hachigian",
+  "background": "Mr. Hachigian is the Lead Independent Director of NextEra Energy. He is the retired chairman, president and CEO of JELD-WEN Holding, Inc. and former chairman and CEO of Cooper Industries plc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "PACCAR Inc.",
+      "ticker": "PCAR",
+      "exchange": "NASDAQ",
+      "website": "https://www.paccar.com",
+      "logoUrl": "/companies-assets/PCAR.NASDAQ.svg",
+      "title": "Independent Director",
+      "startDate": "2008",
+      "endDate": null,
+      "formattedStartDate": "2008",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Allegion plc",
+      "ticker": "ALLE",
+      "exchange": "NYSE",
+      "website": "https://www.allegion.com",
+      "logoUrl": "/companies-assets/ALLE.NYSE.png",
+      "title": "Director / Chairman",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cooper Industries plc",
+      "ticker": "CBE",
+      "exchange": "NYSE",
+      "website": "https://www.cooperindustries.com",
+      "logoUrl": "/companies-assets/CBE.NYSE.png",
+      "title": "President, CEO, Chairman",
+      "startDate": "2004",
+      "endDate": "2012",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "JELD-WEN Holding, Inc.",
+      "ticker": "JELD",
+      "exchange": "NYSE",
+      "website": "https://www.jeld-wen.com",
+      "logoUrl": "/companies-assets/JELD.NYSE.svg",
+      "title": "Chairman of the Board",
+      "startDate": "2014",
+      "endDate": "2019",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Trane Inc.",
+      "ticker": "TT",
+      "exchange": "NYSE",
+      "website": "https://www.tranetechnologies.com",
+      "logoUrl": "/companies-assets/TT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2007",
+      "endDate": "2008",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2008"
+    },
+    {
+      "name": "Irenic Acquisition Corp.",
+      "ticker": "IRNC",
+      "exchange": "NASDAQ",
+      "website": "https://www.irenicacquisition.com",
+      "logoUrl": "https://www.irenicacquisition.com/images/logo.png",
+      "title": "Independent Director",
+      "startDate": "2021",
+      "endDate": "2023",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2023"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kirkhachigian",
+      "person_name": "Kirk Hachigian",
+      "company_name": "NextEra Energy, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 64,
+  "ageYear": 2024
+}

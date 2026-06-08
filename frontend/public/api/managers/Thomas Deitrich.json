@@ -1,0 +1,52 @@
+{
+  "id": "Thomas Deitrich",
+  "name": "Thomas Deitrich",
+  "background": "Thomas L. Deitrich has served as a director since 2021. He is currently the President and Chief Executive Officer of Itron, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "ON Semiconductor Corporation",
+      "ticker": "ON",
+      "exchange": "NASDAQ",
+      "website": "https://www.onsemi.com",
+      "logoUrl": "/companies-assets/ON.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Itron, Inc.",
+      "ticker": "ITRI",
+      "exchange": "NASDAQ",
+      "website": "https://www.itron.com",
+      "logoUrl": "/companies-assets/ITRI.NASDAQ.svg",
+      "title": "President and Chief Executive Officer; Member of the Board of Directors",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/thomas-deitrich-8981983",
+      "person_name": "Thomas Deitrich",
+      "company_name": "Itron, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 57,
+  "ageYear": 2024
+}

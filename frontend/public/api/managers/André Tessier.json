@@ -1,0 +1,39 @@
+{
+  "id": "André Tessier",
+  "name": "André Tessier",
+  "background": "Mr. Tessier has over 35 years of experience in the mining industry. He has held various executive positions and has been involved in several mineral discoveries. He is a Professional Geologist and holds a B.Sc. in Geology from the University of Montreal and an M.Sc. in Economic Geology from Queen's University.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Delta Resources Limited",
+      "ticker": "DLTA",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and CEO",
+      "startDate": "June 2019",
+      "endDate": null,
+      "formattedStartDate": "June 2019",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/andre-tessier-640a4313",
+      "person_name": "André Tessier",
+      "company_name": "Delta Resources Limited",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1
+    }
+  ],
+  "committees": [],
+  "age": 62,
+  "ageYear": 2024
+}

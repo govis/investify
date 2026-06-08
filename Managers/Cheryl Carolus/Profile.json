@@ -1,0 +1,52 @@
+{
+  "name": "Cheryl Carolus",
+  "first_name": "Cheryl",
+  "last_name": "Carolus",
+  "age": 65,
+  "age_year": 2024,
+  "background": "Cheryl Carolus has been a member of the Board since 2009. She has held various leadership positions in the public and private sectors in South Africa.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Gold Fields Limited",
+      "ticker": "GFI",
+      "exchange": "NYSE",
+      "title_or_role": "Director / Chair",
+      "website": "goldfields.com",
+      "start_date": "2009",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Investec PLC",
+      "ticker": "INVP / ITCFY",
+      "exchange": "LSE / OTC",
+      "website": "investec.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "Unknown",
+      "end_date": "Unknown",
+      "validated": true
+    },
+    {
+      "name": "Grindrod Limited",
+      "ticker": "GND",
+      "exchange": "JSE",
+      "website": "grindrod.com",
+      "title_or_role": "Chair of the Board",
+      "start_date": "2022",
+      "end_date": "2024",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating and Governance Committee",
+    "Social, Ethics and Transformation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

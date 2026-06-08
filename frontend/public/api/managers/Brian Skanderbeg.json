@@ -1,0 +1,53 @@
+{
+  "id": "Brian Skanderbeg",
+  "name": "Brian Skanderbeg",
+  "background": "Mr. Skanderbeg is a geologist with over 20 years of experience and is currently President and CEO of GFG Resources Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "GFG Resources Inc.",
+      "ticker": "GFG",
+      "exchange": "TSXV",
+      "website": "https://www.gfgresources.com",
+      "logoUrl": "/companies-assets/GFG.TSXV.png",
+      "title": "President and CEO",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Claude Resources Inc.",
+      "ticker": "CRJ",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Claude_Resources_Logo.svg/1200px-Claude_Resources_Logo.svg.png",
+      "title": "Various roles (joined company)",
+      "startDate": "2007",
+      "endDate": "2012-09-01",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "September 2012"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/brian-skanderbeg-7a5b5a15",
+      "person_name": "Brian Skanderbeg",
+      "company_name": "GFG Resources Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Technical Committee (Chair)"
+  ],
+  "age": 49,
+  "ageYear": 2024
+}

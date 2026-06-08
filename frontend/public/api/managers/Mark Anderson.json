@@ -1,0 +1,64 @@
+{
+  "id": "Mark Anderson",
+  "name": "Mark Anderson",
+  "background": "Mark Anderson has served as a member of our board of directors since August 2020. Mr. Anderson has served as President, Revenue of Palo Alto Networks, Inc. since January 2024. Previously, he served as Chief Executive Officer of Alteryx, Inc. from October 2020 to March 2024. He also served as President of Palo Alto Networks from 2016 to 2018.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cloudflare, Inc.",
+      "ticker": "NET",
+      "exchange": "NYSE",
+      "website": "https://www.cloudflare.com",
+      "logoUrl": "/companies-assets/NET.NYSE.svg",
+      "title": "President of Revenue",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Palo Alto Networks, Inc.",
+      "ticker": "PANW",
+      "exchange": "NASDAQ",
+      "website": "https://www.paloaltonetworks.com",
+      "logoUrl": "/companies-assets/PANW.NASDAQ.svg",
+      "title": "President",
+      "startDate": "2016",
+      "endDate": "2018",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "F5, Inc.",
+      "ticker": "FFIV",
+      "exchange": "NASDAQ",
+      "website": "https://www.f5.com",
+      "logoUrl": "/companies-assets/FFIV.NASDAQ.svg",
+      "title": "Executive Vice President, Worldwide Sales",
+      "startDate": "2007",
+      "endDate": "2012",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2012"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mark-anderson-5b9874",
+      "person_name": "Mark Anderson",
+      "company_name": "Palo Alto Networks, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

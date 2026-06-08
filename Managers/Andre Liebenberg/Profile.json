@@ -1,0 +1,72 @@
+{
+  "name": "Andre Liebenberg",
+  "first_name": "Andre",
+  "last_name": "Liebenberg",
+  "age": 60,
+  "age_year": 2024,
+  "background": "Andre has over 30 years of experience in the resources industry. He was previously at BHP where he held various senior roles including Acting President of Energy Coal and Head of Group Investor Relations. Prior to BHP, he was at UBS in London and Old Mutual in South Africa.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Yellow Cake plc",
+      "ticker": "YCA",
+      "exchange": "LSE (AIM)",
+      "title_or_role": "Chief Executive Officer and Executive Director",
+      "website": "https://www.yellowcakeplc.com",
+      "start_date": "June 2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Zeta Resources Limited",
+      "ticker": "ZER",
+      "exchange": "ASX",
+      "website": "https://www.zetaresources.limited",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Danakali Limited",
+      "ticker": "DNK",
+      "exchange": "ASX / LSE",
+      "website": "https://www.danakali.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "October 2, 2017",
+      "end_date": "August 3, 2020",
+      "validated": true
+    },
+    {
+      "name": "BHP Group Limited (formerly BHP Billiton Ltd)",
+      "ticker": "BHP",
+      "exchange": "ASX / NYSE / LSE",
+      "website": "https://www.bhp.com",
+      "title_or_role": "Various senior executive roles, including CFO of Energy Coal, Acting President of Energy Coal, and Head of Group Investor Relations.",
+      "start_date": "Unknown",
+      "end_date": "March 2012",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/andre-liebenberg-11233010",
+      "person_name": "Andre Liebenberg",
+      "company_name": "Yellow Cake plc",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1,
+      "profile_status": "private"
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 1
+}

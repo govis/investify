@@ -1,0 +1,50 @@
+{
+  "name": "Christopher Calio",
+  "first_name": "Christopher",
+  "last_name": "Calio",
+  "age": 50,
+  "age_year": 2024,
+  "background": "Christopher T. Calio is President and Chief Executive Officer of RTX. He was appointed CEO in May 2024 and has been President since March 2023. Previously, he served as Chief Operating Officer and President of Pratt & Whitney.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "RTX Corporation",
+      "ticker": "RTX",
+      "exchange": "NYSE",
+      "title_or_role": "President, Pratt & Whitney",
+      "website": "https://www.rtx.com",
+      "start_date": "2020-01-01",
+      "end_date": "2023-02-28",
+      "validated": true
+    },
+    {
+      "name": "United Technologies Corporation",
+      "ticker": "UTX",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Various Leadership Roles",
+      "start_date": "2005",
+      "end_date": "2020",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/christopher-calio-8a5a5a1a",
+      "person_name": "Christopher Calio",
+      "company_name": "RTX Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

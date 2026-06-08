@@ -1,0 +1,58 @@
+{
+  "name": "Hilary Hageman",
+  "first_name": "Hilary",
+  "last_name": "Hageman",
+  "age": 54,
+  "age_year": 2024,
+  "background": "Hilary Hageman is the General Counsel and Corporate Secretary. She has over 20 years of legal experience, including roles at Cubic Corporation and CACI International, specializing in government contracting and corporate governance.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Terran Orbital Corporation",
+      "ticker": "LLAP",
+      "exchange": "NYSE",
+      "title_or_role": "General Counsel and Corporate Secretary",
+      "website": "https://terranorbital.com",
+      "start_date": "2022-07-01",
+      "end_date": null
+    },
+    {
+      "name": "Science Applications International Corporation",
+      "ticker": "SAIC",
+      "exchange": "NASDAQ",
+      "title_or_role": "Executive Vice President, General Counsel and Corporate Secretary",
+      "website": "https://www.saic.com",
+      "start_date": "2022-07-11",
+      "end_date": null
+    },
+    {
+      "name": "Cubic Corporation",
+      "ticker": "CUB",
+      "exchange": "NYSE",
+      "website": "https://www.cubic.com",
+      "title_or_role": "Senior Vice President, General Counsel, and Corporate Secretary",
+      "start_date": "2019-10-14",
+      "end_date": "2021-05-01",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/hilary-hageman-12b4326",
+      "person_name": "Hilary Hageman",
+      "company_name": "Terran Orbital Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

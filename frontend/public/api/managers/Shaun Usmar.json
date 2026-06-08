@@ -1,0 +1,77 @@
+{
+  "id": "Shaun Usmar",
+  "name": "Shaun Usmar",
+  "background": "Mr. Usmar is the Founder and CEO of Triple Flag Precious Metals Corp. and was previously CFO of Barrick Gold Corporation.",
+  "pictureUrl": "/managers-assets/Shaun Usmar.jpg",
+  "companies": [
+    {
+      "name": "Alamos Gold Inc.",
+      "ticker": "AGI",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Triple Flag Precious Metals Corp.",
+      "ticker": "TFPM",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Founder and CEO",
+      "startDate": "2016",
+      "endDate": "2024",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Barrick Gold Corporation",
+      "ticker": "ABX",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Executive Vice President and CFO",
+      "startDate": "2014",
+      "endDate": "2016",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Vale Base Metals",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Executive Officer",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/shaun-usmar",
+      "person_name": "Shaun Usmar",
+      "company_name": "Triple Flag Precious Metals Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Technical and Sustainability Committee"
+  ],
+  "age": 54,
+  "ageYear": 2024
+}

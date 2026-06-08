@@ -1,0 +1,50 @@
+{
+  "name": "Scott Berdahl",
+  "first_name": "Scott",
+  "last_name": "Berdahl",
+  "age": 38,
+  "age_year": 2024,
+  "background": "Mr. Berdahl is a professional geologist with over 15 years of experience in the mineral exploration industry. He has been involved in the discovery and development of several mineral deposits in the Yukon and elsewhere in Canada. He holds a B.Sc. in Geology from the University of British Columbia and an M.Sc. in Earth Science from the University of Waterloo.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Snowline Gold Corp.",
+      "ticker": "SGD",
+      "exchange": "TSXV",
+      "title_or_role": "Chief Executive Officer & Director (Co-Founder)",
+      "website": "https://snowlinegold.com/",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Milner Consolidated Silver Mines Ltd.",
+      "ticker": "MCA.H",
+      "exchange": "TSXV (NEX)",
+      "website": null,
+      "title_or_role": "Independent Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/scottberdahl",
+      "person_name": "Scott Berdahl",
+      "company_name": "Snowline Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

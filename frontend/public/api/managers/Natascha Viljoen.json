@@ -1,0 +1,74 @@
+{
+  "id": "Natascha Viljoen",
+  "name": "Natascha Viljoen",
+  "background": "Ms. Viljoen has served as Executive Vice President and Chief Operating Officer since October 2023. Previously, she was the CEO of Anglo American Platinum from 2020 to 2023.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Newmont Corporation",
+      "ticker": "NEM",
+      "exchange": "NYSE",
+      "website": "https://www.newmont.com",
+      "logoUrl": "/companies-assets/NEM.NYSE.svg",
+      "title": "President and Chief Executive Officer (CEO)",
+      "startDate": "January 1, 2026",
+      "endDate": null,
+      "formattedStartDate": "January 1, 2026",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Anglo American Platinum Limited",
+      "ticker": "AMS",
+      "exchange": "JSE",
+      "website": "https://www.angloamericanplatinum.com",
+      "logoUrl": "/companies-assets/AMS.JSE.svg",
+      "title": "Chief Executive Officer",
+      "startDate": "April 2020",
+      "endDate": "2023",
+      "formattedStartDate": "April 2020",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Anglo American plc",
+      "ticker": "AAL",
+      "exchange": "LSE",
+      "website": "https://www.angloamerican.com",
+      "logoUrl": "/companies-assets/AAL.LSE.svg",
+      "title": "Group Head of Processing",
+      "startDate": "2014",
+      "endDate": "2020",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Lonmin plc",
+      "ticker": "LMI",
+      "exchange": "LSE",
+      "website": "https://www.lonmin.com/",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Lonmin_logo.svg/1200px-Lonmin_logo.svg.png",
+      "title": "Executive Vice President (EVP) of Processing",
+      "startDate": "2008",
+      "endDate": "2014",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2014"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/natascha-viljoen-5a86279",
+      "person_name": "Natascha Viljoen",
+      "company_name": "Newmont Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 53,
+  "ageYear": 2024
+}

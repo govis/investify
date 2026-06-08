@@ -1,0 +1,52 @@
+{
+  "name": "James LaChance",
+  "first_name": "James",
+  "last_name": "LaChance",
+  "age": 58,
+  "age_year": 2024,
+  "background": "Founder and CEO of Discovery Capital Management. He has over 25 years of experience in investment management and corporate restructuring.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Terran Orbital Corporation",
+      "ticker": "LLAP",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://terranorbital.com",
+      "start_date": "2022-03-01",
+      "end_date": null
+    },
+    {
+      "name": "Energy XXI Ltd.",
+      "ticker": "EXXIQ",
+      "exchange": "OTC",
+      "website": "https://www.energyxxi.com",
+      "title_or_role": "Director",
+      "start_date": "2014-12-15",
+      "end_date": "2017-06-29",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/james-lachance-387b5b201",
+      "person_name": "James LaChance",
+      "company_name": "Terran Orbital Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

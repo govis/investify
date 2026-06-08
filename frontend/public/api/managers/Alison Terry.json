@@ -1,0 +1,41 @@
+{
+  "id": "Alison Terry",
+  "name": "Alison Terry",
+  "background": "Alison Terry is an experienced corporate executive with a background in sustainability, corporate affairs, and legal. She previously held senior executive roles at Fortescue Metals Group.",
+  "pictureUrl": "/managers-assets/Alison Terry.jpg",
+  "companies": [
+    {
+      "name": "Bannerman Energy Ltd",
+      "ticker": "BMN",
+      "exchange": "ASX",
+      "website": "https://bannermanenergy.com",
+      "logoUrl": "/companies-assets/BMN.ASX.png",
+      "title": "Lead Independent Non-Executive Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dralisonterry",
+      "person_name": "Alison Terry",
+      "company_name": "Bannerman Energy Ltd",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "age": 56,
+  "ageYear": 2024
+}

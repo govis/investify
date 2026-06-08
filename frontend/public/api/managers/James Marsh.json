@@ -1,0 +1,27 @@
+{
+  "id": "James Marsh",
+  "name": "James Marsh",
+  "background": "Mr. Marsh is a qualified industrial chemist with over 30 years’ experience in the mining and mineral processing industry. He has held senior positions with several major global companies including Rio Tinto and WMC Resources.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Andromeda Metals Limited",
+      "ticker": "ADN",
+      "exchange": "ASX",
+      "website": "https://www.andromet.com.au",
+      "logoUrl": "/companies-assets/ADN.ASX.webp",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": "2023-10-10",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "October 2023"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

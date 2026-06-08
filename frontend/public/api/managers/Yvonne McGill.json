@@ -1,0 +1,42 @@
+{
+  "id": "Yvonne McGill",
+  "name": "Yvonne McGill",
+  "background": "Yvonne McGill is Chief Financial Officer of Dell Technologies Inc. She has held various finance leadership positions at Dell since 1997.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "ManTech International Corporation",
+      "ticker": "MANT",
+      "exchange": "NASDAQ",
+      "website": "https://www.mantech.com",
+      "logoUrl": "/companies-assets/MANT.NASDAQ.png",
+      "title": "Assistant Controller",
+      "startDate": "Prior to 1997",
+      "endDate": "1997",
+      "formattedStartDate": "Prior to 1997",
+      "formattedEndDate": "1997"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/yvonne-mcgill-b93b6a6",
+      "person_name": "Yvonne McGill",
+      "company_name": "Dell Technologies",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Human Resources and Compensation Committee"
+  ],
+  "age": 55,
+  "ageYear": 2024
+}

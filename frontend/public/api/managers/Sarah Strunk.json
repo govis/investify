@@ -1,0 +1,41 @@
+{
+  "id": "Sarah Strunk",
+  "name": "Sarah Strunk",
+  "background": "Sarah Strunk is Chair of the Board of Directors of Fennemore Craig, P.C., a law firm. She has extensive experience in the mining industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Arizona Sonoran Copper Company Inc.",
+      "ticker": "ASCU",
+      "exchange": "TSX",
+      "website": "https://arizonasonoran.com/",
+      "logoUrl": "/companies-assets/ASCU.TSX.svg",
+      "title": "Director",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "formattedStartDate": "January 2022",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sarah-strunk-a5224321",
+      "person_name": "Sarah Strunk",
+      "company_name": "Fennemore Craig, P.C.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

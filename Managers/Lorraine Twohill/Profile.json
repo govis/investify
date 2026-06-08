@@ -1,0 +1,52 @@
+{
+  "name": "Lorraine Twohill",
+  "first_name": "Lorraine",
+  "last_name": "Twohill",
+  "age": 53,
+  "age_year": 2024,
+  "background": "Chief Marketing Officer at Google LLC. She joined our board in April 2019.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Palo Alto Networks, Inc.",
+      "ticker": "PANW",
+      "exchange": "NASDAQ",
+      "title_or_role": "Board Member",
+      "website": "https://www.paloaltonetworks.com",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Williams-Sonoma, Inc.",
+      "ticker": "WSM",
+      "exchange": "NYSE",
+      "website": "https://www.williams-sonomainc.com",
+      "title_or_role": "Board Member",
+      "start_date": "2012",
+      "end_date": "2017",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/lorraine-twohill-ba3a56185",
+      "person_name": "Lorraine Twohill",
+      "company_name": "Google",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

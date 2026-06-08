@@ -1,0 +1,41 @@
+{
+  "id": "Tobi Petrocelli",
+  "name": "Tobi Petrocelli",
+  "background": "Director of Environmental, Social, and Governance (ESG) Strategy at Mitsubishi UFJ Financial Group. Expert in corporate sustainability and governance.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Terran Orbital Corporation",
+      "ticker": "LLAP",
+      "exchange": "NYSE",
+      "website": "https://terranorbital.com",
+      "logoUrl": "/companies-assets/LLAP.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "March 25, 2022",
+      "endDate": null,
+      "formattedStartDate": "March 25, 2022",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/tobi-petrocelli-phd",
+      "person_name": "Tobi Petrocelli, PhD",
+      "company_name": "Terran Orbital Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 45,
+  "ageYear": 2024
+}

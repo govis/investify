@@ -1,0 +1,50 @@
+{
+  "id": "Warren Uyen",
+  "name": "Warren Uyen",
+  "background": "Mr. Uyen is a mining engineer with over 30 years of experience in underground and open-pit operations. He has held senior management positions at various mining operations globally.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "K92 Mining Inc.",
+      "ticker": "KNT",
+      "exchange": "TSX",
+      "website": "https://k92mining.com",
+      "logoUrl": "/companies-assets/KNT.TSX.svg",
+      "title": "Chief Operating Officer",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Eldorado Gold Corp.",
+      "ticker": "EGO",
+      "exchange": "NYSE",
+      "website": "https://www.eldoradogold.com",
+      "logoUrl": "/companies-assets/EGO.NYSE.svg",
+      "title": "General Manager - White Mountain Mine",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/warren-uyen",
+      "person_name": "Warren Uyen",
+      "company_name": "K92 Mining Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 58,
+  "ageYear": 2024
+}

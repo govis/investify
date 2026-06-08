@@ -1,0 +1,86 @@
+{
+  "id": "Mark Pitts",
+  "name": "Mark Pitts",
+  "background": "Mr. Pitts is a Fellow of the Institute of Chartered Accountants with more than 30 years' experience in statutory reporting and corporate compliance. He is a Partner in the corporate advisory firm Endeavour Corporate.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Deep Yellow Limited",
+      "ticker": "DYL",
+      "exchange": "ASX",
+      "website": "https://deepyellow.com.au",
+      "logoUrl": "/companies-assets/DYL.ASX.png",
+      "title": "Company Secretary / CFO",
+      "startDate": "2003",
+      "endDate": "2024",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Variscan Mines Limited",
+      "ticker": "VAR",
+      "exchange": "ASX",
+      "website": "https://www.variscan.com.au/",
+      "logoUrl": "/companies-assets/VAR.ASX.webp",
+      "title": "Company Secretary",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "GWR Group Limited",
+      "ticker": "GWR",
+      "exchange": "ASX",
+      "website": "https://gwrgroup.com.au/",
+      "logoUrl": "/companies-assets/GWR.ASX.svg",
+      "title": "Company Secretary",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Alliance Nickel Limited",
+      "ticker": "AXN",
+      "exchange": "ASX",
+      "website": "https://alliancenickel.com.au/",
+      "logoUrl": "/companies-assets/AXN.ASX.svg",
+      "title": "Company Secretary",
+      "startDate": "2009",
+      "endDate": null,
+      "formattedStartDate": "2009",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Black Cat Syndicate Limited",
+      "ticker": "BC8",
+      "exchange": "ASX",
+      "website": "https://www.blackcatsyndicate.com.au/",
+      "logoUrl": "/companies-assets/BC8.ASX.png",
+      "title": "Joint Company Secretary",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/markaripitts",
+      "person_name": "Mark Pitts",
+      "company_name": "Deep Yellow Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 62,
+  "ageYear": 2024
+}

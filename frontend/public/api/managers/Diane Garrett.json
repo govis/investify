@@ -1,0 +1,101 @@
+{
+  "id": "Diane Garrett",
+  "name": "Diane Garrett",
+  "background": "Dr. Garrett has more than 25 years of experience in the mining industry. She is currently the President and CEO of Hycroft Mining Holding Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NOVAGOLD RESOURCES INC.",
+      "ticker": "NG",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2012",
+      "endDate": null,
+      "formattedStartDate": "2012",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Hycroft Mining Holding Corporation",
+      "ticker": "HYMC",
+      "exchange": "NASDAQ",
+      "website": "hycroftmining.com",
+      "logoUrl": "/companies-assets/HYMC.NASDAQ.svg",
+      "title": "President, CEO & Executive Chairman",
+      "startDate": "2020-09-08",
+      "endDate": null,
+      "formattedStartDate": "September 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Nickel Creek Platinum Corp.",
+      "ticker": "NCP",
+      "exchange": "TSX",
+      "website": "nickelcreekplatinum.com",
+      "logoUrl": "/companies-assets/NCP.TSX.png",
+      "title": "President & CEO",
+      "startDate": "2013",
+      "endDate": "2016",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Revival Gold Inc.",
+      "ticker": "RVG",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Chairman",
+      "startDate": "2017",
+      "endDate": "2020",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC",
+      "exchange": "TSX",
+      "website": "https://oceanagold.com",
+      "logoUrl": "/companies-assets/OGC.TSX.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": "2020",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "TriStar Gold Inc.",
+      "ticker": "TSG",
+      "exchange": "TSXV",
+      "website": "tristargold.com",
+      "logoUrl": "/companies-assets/TSG.TSXV.png",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": "2020",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2020"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/diane-garrett-hycroft",
+      "person_name": "Diane Garrett",
+      "company_name": "Hycroft Mining Holding Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

@@ -1,0 +1,62 @@
+{
+  "id": "Galen McNamara",
+  "name": "Galen McNamara",
+  "background": "Mr. McNamara is an entrepreneur and geoscientist with over 15 years of experience. He is the co-founder and CEO of Summa Silver Corp. and was previously the Senior Project Geologist at NexGen Energy Ltd.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Summa Silver Corp.",
+      "ticker": "SSVR",
+      "exchange": "TSXV",
+      "website": "https://summasilver.com",
+      "logoUrl": "/companies-assets/SSVR.TSXV.svg",
+      "title": "CEO & Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Goldshore Resources Inc.",
+      "ticker": "GSHR",
+      "exchange": "TSXV",
+      "website": "https://goldshoreresources.com",
+      "logoUrl": "/companies-assets/GSHR.TSXV.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Aero Energy Limited",
+      "ticker": "AERO",
+      "exchange": "TSXV",
+      "website": "https://aeroenergy.ca",
+      "logoUrl": "/companies-assets/AERO.TSXV.svg",
+      "title": "Chairman",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/galen-mcnamara-02a52911",
+      "person_name": "Galen McNamara",
+      "company_name": "Summa Silver Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

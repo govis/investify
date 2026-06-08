@@ -1,0 +1,40 @@
+{
+  "name": "Eva Klas\u00e9n",
+  "first_name": "Eva",
+  "last_name": "Klas\u00e9n",
+  "age": 49,
+  "age_year": 2024,
+  "background": "Eva Klas\u00e9n is the Senior Vice President, Chief Legal Officer. She joined Atlas Copco in 2000 and has held several positions within the legal department.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Atlas Copco AB",
+      "ticker": "ATCO-A.ST",
+      "exchange": "Nasdaq Stockholm",
+      "title_or_role": "Vice President, Deputy Chief Legal Officer",
+      "website": "https://www.atlascopcogroup.com",
+      "start_date": "2000",
+      "end_date": "2021",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://se.linkedin.com/in/eva-klas\u00e9n-8b5a522",
+      "person_name": "Eva Klas\u00e9n",
+      "company_name": "Atlas Copco AB",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "Jean-Philippe Mai",
+  "name": "Jean-Philippe Mai",
+  "background": "Mr. Mai is a Professional Geologist with over 15 years of experience in the mining industry. He is currently the President and CEO of Kanadario Gold Inc. and has held senior positions with several other mining companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Consolidated Lithium Metals Inc.",
+      "ticker": "CLM",
+      "exchange": "TSXV",
+      "website": "https://consolidatedlithium.com/",
+      "logoUrl": "/companies-assets/CLM.TSXV.png",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Dundee Sustainable Technologies Inc.",
+      "ticker": "DST",
+      "exchange": "CSE",
+      "website": "https://dundeetechnologies.com/",
+      "logoUrl": "/companies-assets/DST.CSE.svg",
+      "title": "President, Chief Executive Officer & Director",
+      "startDate": "2022-10-01",
+      "endDate": null,
+      "formattedStartDate": "October 2022",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/jean-philippe-mai-661b6064",
+      "person_name": "Jean-Philippe Mai",
+      "company_name": "Dundee Sustainable Technologies Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 42,
+  "ageYear": 2024
+}

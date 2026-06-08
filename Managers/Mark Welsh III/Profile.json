@@ -1,0 +1,43 @@
+{
+  "name": "Mark Welsh III",
+  "first_name": "Mark",
+  "last_name": "Welsh III",
+  "age": 70,
+  "age_year": 2024,
+  "background": "General, U.S. Air Force (Retired); President of Texas A&M University; former Chief of Staff of the U.S. Air Force.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "title_or_role": "Member, Board of Directors",
+      "website": "https://www.northropgrumman.com",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mark-welsh-iii-8a5b5a1b",
+      "person_name": "Mark Welsh III",
+      "company_name": "Northrop Grumman Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation and Management Development Committee",
+    "Governance, Nominating and Sustainability Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

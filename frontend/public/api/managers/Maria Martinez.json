@@ -1,0 +1,62 @@
+{
+  "id": "Maria Martinez",
+  "name": "Maria Martinez",
+  "background": "Maria Martinez is Chief Operating Officer of Cisco. She joined Cisco in 2018. Previously, she was President, Global Customer Success and Salesforce Services at Salesforce.com.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "website": "https://www.cisco.com",
+      "logoUrl": "/companies-assets/CSCO.NASDAQ.svg",
+      "title": "Executive Vice President and Chief Operating Officer",
+      "startDate": "2018",
+      "endDate": "2024",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Bank of America Corporation",
+      "ticker": "BAC",
+      "exchange": "NYSE",
+      "website": "https://www.bankofamerica.com",
+      "logoUrl": "/companies-assets/BAC.NYSE.svg",
+      "title": "Director",
+      "startDate": "2025-01",
+      "endDate": null,
+      "formattedStartDate": "January 2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Tyson Foods, Inc.",
+      "ticker": "TSN",
+      "exchange": "NYSE",
+      "website": "https://www.tysonfoods.com",
+      "logoUrl": "/companies-assets/TSN.NYSE.svg",
+      "title": "Director",
+      "startDate": "2024-06",
+      "endDate": null,
+      "formattedStartDate": "June 2024",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/martinezmaria",
+      "person_name": "Maria Martinez",
+      "company_name": "Cisco",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 66,
+  "ageYear": 2024
+}

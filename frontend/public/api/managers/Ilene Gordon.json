@@ -1,0 +1,54 @@
+{
+  "id": "Ilene Gordon",
+  "name": "Ilene Gordon",
+  "background": "Retired Chairman, President and CEO of Ingredion Incorporated.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Ingredion Incorporated",
+      "ticker": "INGR",
+      "exchange": "NYSE",
+      "website": "https://www.ingredion.com",
+      "logoUrl": "/companies-assets/INGR.NYSE.svg",
+      "title": "Chairman, President, and CEO",
+      "startDate": "May 2009",
+      "endDate": "December 2017",
+      "formattedStartDate": "May 2009",
+      "formattedEndDate": "December 2017"
+    },
+    {
+      "name": "International Paper Company",
+      "ticker": "IP",
+      "exchange": "NYSE",
+      "website": "https://www.internationalpaper.com",
+      "logoUrl": "/companies-assets/IP.NYSE.svg",
+      "title": "Director (Presiding Director)",
+      "startDate": "2012",
+      "endDate": "May 21, 2024",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "May 21, 2024"
+    },
+    {
+      "name": "Arthur J. Gallagher & Co.",
+      "ticker": "AJG",
+      "exchange": "NYSE",
+      "website": "https://www.ajg.com",
+      "logoUrl": "/companies-assets/AJG.NYSE.png",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Management Development and Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

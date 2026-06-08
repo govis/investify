@@ -1,0 +1,40 @@
+{
+  "name": "Danny Abajian",
+  "first_name": "Danny",
+  "last_name": "Abajian",
+  "age": 42,
+  "age_year": 2024,
+  "background": "Danny Abajian has served as our Chief Financial Officer since May 2022. He previously served as our Senior Vice President, Project Finance from 2016 to 2022 and as Vice President, Project Finance from 2014 to 2016. Prior to joining Sunrun, Mr. Abajian held various roles in investment banking and project finance.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Sunrun Inc.",
+      "ticker": "RUN",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chief Financial Officer (and previously Senior Vice President, Head of Project Finance)",
+      "website": "https://www.sunrun.com",
+      "start_date": "July 2010",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/danny-abajian-4a5a2a12",
+      "person_name": "Danny Abajian",
+      "company_name": "Sunrun Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

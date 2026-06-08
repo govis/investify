@@ -1,0 +1,53 @@
+{
+  "name": "Patricia Volker",
+  "first_name": "Patricia",
+  "last_name": "Volker",
+  "age": 68,
+  "age_year": 2024,
+  "background": "Ms. Volker is a director and a CPA, CA. She has extensive experience in financial reporting and corporate governance, having served in senior roles at the Ontario Securities Commission.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Denison Mines Corp.",
+      "ticker": "DML",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://www.denisonmines.com",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Labrador Iron Ore Royalty Corporation",
+      "ticker": "LIF",
+      "exchange": "TSX",
+      "website": "https://www.labradorironore.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/patricia-volker-99478bb0",
+      "person_name": "Patricia Volker",
+      "company_name": "Denison Mines Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

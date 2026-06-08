@@ -1,0 +1,40 @@
+{
+  "name": "Eric Mendelson",
+  "first_name": "Eric",
+  "last_name": "Mendelson",
+  "age": 58,
+  "age_year": 2024,
+  "background": "Eric A. Mendelson has served as HEICO\u2019s Co-President since 2024 and previously as Co-President from 2009 to 2024. He has been the President of HEICO\u2019s Flight Support Group since 1993.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "HEICO Corporation",
+      "ticker": "HEI",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Vice President",
+      "website": "https://heico.com",
+      "start_date": "2001",
+      "end_date": "September 2009",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/eric-mendelson-69106012",
+      "person_name": "Eric Mendelson",
+      "company_name": "HEICO Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

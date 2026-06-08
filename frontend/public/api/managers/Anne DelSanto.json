@@ -1,0 +1,66 @@
+{
+  "id": "Anne DelSanto",
+  "name": "Anne DelSanto",
+  "background": "Ms. DelSanto is a former Executive Vice President at Salesforce.com, Inc. She joined the board in 2021.",
+  "pictureUrl": "/managers-assets/Anne DelSanto.jpg",
+  "companies": [
+    {
+      "name": "Juniper Networks, Inc.",
+      "ticker": "JNPR",
+      "exchange": "NYSE",
+      "website": "https://www.juniper.net",
+      "logoUrl": "/companies-assets/JNPR.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Advanced Energy Industries, Inc.",
+      "ticker": "AEIS",
+      "exchange": "NASDAQ",
+      "website": "https://www.advancedenergy.com/",
+      "logoUrl": "/companies-assets/AEIS.NASDAQ.svg",
+      "title": "Independent Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "New Relic, Inc.",
+      "ticker": "NEWR",
+      "exchange": "NYSE",
+      "website": "https://newrelic.com/",
+      "logoUrl": "/companies-assets/NEWR.NYSE.svg",
+      "title": "Director",
+      "startDate": "August 2020",
+      "endDate": "2023",
+      "formattedStartDate": "August 2020",
+      "formattedEndDate": "2023"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/annedelsanto",
+      "person_name": "Anne DelSanto",
+      "company_name": "Salesforce",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 59,
+  "ageYear": 2024
+}

@@ -1,0 +1,43 @@
+{
+  "id": "Fabiana Chubbs",
+  "name": "Fabiana Chubbs",
+  "background": "Ms. Chubbs was the CFO of Eldorado Gold Corporation from 2011 to 2018. She is a Chartered Professional Accountant.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Eldorado Gold Corporation",
+      "ticker": "EGO",
+      "exchange": "NYSE",
+      "website": "https://www.eldoradogold.com",
+      "logoUrl": "/companies-assets/EGO.NYSE.svg",
+      "title": "Treasurer Coordinator",
+      "startDate": "2007",
+      "endDate": "2008",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2008"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/fabiana-chubbs-1774b318",
+      "person_name": "Fabiana Chubbs",
+      "company_name": "Lithium Americas Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Audit Committee (Chair)"
+  ],
+  "age": 59,
+  "ageYear": 2024
+}

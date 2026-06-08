@@ -1,0 +1,31 @@
+{
+  "name": "VeraLinn Jamieson",
+  "first_name": "VeraLinn",
+  "last_name": "Jamieson",
+  "age": 63,
+  "age_year": 2024,
+  "background": "Retired Lieutenant General, United States Air Force.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Digital Realty Trust, Inc.",
+      "ticker": "DLR",
+      "exchange": "NYSE",
+      "title_or_role": "Director (Independent)",
+      "website": "https://www.digitalrealty.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

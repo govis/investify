@@ -1,0 +1,86 @@
+{
+  "id": "Andrea Betti",
+  "name": "Andrea Betti",
+  "background": "Andrea Betti is an accounting and corporate governance professional with over 20 years' experience in the resources sector. she has acted as Company Secretary for several ASX-listed companies and has experience in corporate advisory and financial management.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Alligator Energy Limited",
+      "ticker": "AGE",
+      "exchange": "ASX",
+      "website": "https://www.alligatorenergy.com.au",
+      "logoUrl": "/companies-assets/AGE.ASX.png",
+      "title": "Company Secretary",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Argosy Minerals Limited",
+      "ticker": "AGY",
+      "exchange": "ASX",
+      "website": "https://www.argosyminerals.com.au",
+      "logoUrl": "/companies-assets/AGY.ASX.svg",
+      "title": "Company Secretary / Non-Executive Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Andromeda Metals Limited",
+      "ticker": "ADN",
+      "exchange": "ASX",
+      "website": "https://www.andromet.com.au",
+      "logoUrl": "/companies-assets/ADN.ASX.webp",
+      "title": "Company Secretary",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Poseidon Nickel Limited",
+      "ticker": "POS",
+      "exchange": "ASX",
+      "website": "https://poseidon-nickel.com.au",
+      "logoUrl": "/companies-assets/POS.ASX.svg",
+      "title": "Company Secretary",
+      "startDate": "2019",
+      "endDate": "2023",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Tempus Resources Limited",
+      "ticker": "TMR",
+      "exchange": "ASX",
+      "website": "https://tempusresources.com.au",
+      "logoUrl": "/companies-assets/TMR.ASX.svg",
+      "title": "Company Secretary",
+      "startDate": "2018",
+      "endDate": "2023",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2023"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/andrea-betti-a658a91b",
+      "person_name": "Andrea Betti",
+      "company_name": "Consilium Corporate",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1
+    }
+  ],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

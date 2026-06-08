@@ -1,0 +1,50 @@
+{
+  "id": "Cesar Cernuda",
+  "name": "Cesar Cernuda",
+  "background": "Cesar Cernuda has served as our President since July 2020. Prior to joining NetApp, Mr. Cernuda spent 23 years at Microsoft Corporation, where he most recently served as Corporate Vice President, Microsoft Corporation and President, Microsoft Latin America.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Gestamp Automoción, S.A.",
+      "ticker": "GEST",
+      "exchange": "BME (Bolsas y Mercados Españoles)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Board Member",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "https://www.microsoft.com",
+      "logoUrl": "/companies-assets/MSFT.NASDAQ.svg",
+      "title": "Corporate Vice President / President of Microsoft Latin America / President of Microsoft Asia Pacific",
+      "startDate": "1997",
+      "endDate": "2020",
+      "formattedStartDate": "1997",
+      "formattedEndDate": "2020"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/cesarcernuda",
+      "person_name": "César Cernuda",
+      "company_name": "NetApp",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 53,
+  "ageYear": 2024
+}

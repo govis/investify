@@ -1,0 +1,51 @@
+{
+  "id": "Chris Woodall",
+  "name": "Chris Woodall",
+  "background": "Mr. Woodall has over 30 years of experience in the mining industry, including senior operational roles at Goldcorp and Barrick Gold.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Perseus Mining Limited",
+      "ticker": "PRU",
+      "exchange": "ASX, TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Operating Officer",
+      "startDate": "2016-09-01",
+      "endDate": "2023-06-30",
+      "formattedStartDate": "September 2016",
+      "formattedEndDate": "June 2023"
+    },
+    {
+      "name": "Goldcorp Inc.",
+      "ticker": "G",
+      "exchange": "NYSE, TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Vice President, Canada and US Operations",
+      "startDate": "2013-01-01",
+      "endDate": "2016-12-31",
+      "formattedStartDate": "January 2013",
+      "formattedEndDate": "December 2016"
+    },
+    {
+      "name": "Barrick Gold Corporation",
+      "ticker": "GOLD, ABX",
+      "exchange": "NYSE, TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Global Director Mining - Operations Support",
+      "startDate": "2000-01-01",
+      "endDate": "2012-12-31",
+      "formattedStartDate": "January 2000",
+      "formattedEndDate": "December 2012"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 60,
+  "ageYear": 2024
+}

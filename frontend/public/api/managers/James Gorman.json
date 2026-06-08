@@ -1,0 +1,50 @@
+{
+  "id": "James Gorman",
+  "name": "James Gorman",
+  "background": "Mr. Gorman is the Executive Chairman of Morgan Stanley. He served as Chief Executive Officer from 2010 through 2023. He joined the Firm in 2006.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Morgan Stanley",
+      "ticker": "MS",
+      "exchange": "NYSE",
+      "website": "https://www.morganstanley.com",
+      "logoUrl": "/companies-assets/MS.NYSE.svg",
+      "title": "Chairman Emeritus",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "The Walt Disney Company",
+      "ticker": "DIS",
+      "exchange": "NYSE",
+      "website": "https://thewaltdisneycompany.com",
+      "logoUrl": "/companies-assets/DIS.NYSE.svg",
+      "title": "Chairman of the Board",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jamespgorman",
+      "person_name": "James Gorman",
+      "company_name": "Morgan Stanley",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 65,
+  "ageYear": 2024
+}

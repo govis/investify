@@ -1,0 +1,133 @@
+{
+  "name": "Sean Harvey",
+  "first_name": "Sean",
+  "last_name": "Harvey",
+  "age": 65,
+  "age_year": 2024,
+  "background": "Mr. Harvey has over 25 years of experience in the investment banking and mining industries. He has served as Chairman of Victoria Gold since 2007. He was previously President and CEO of Orvana Minerals Corp.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Victoria Gold Corp.",
+      "ticker": "VGC",
+      "exchange": "TSX",
+      "title_or_role": "Non-Executive Chairman",
+      "website": "https://vgcx.com",
+      "start_date": "2007",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Orezone Gold Corp.",
+      "ticker": "ORE",
+      "exchange": "TSX",
+      "website": "https://orezone.com",
+      "title_or_role": "Non-Executive Chairman",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Perseus Mining Limited",
+      "ticker": "PRU",
+      "exchange": "ASX/TSX",
+      "website": "https://perseusmining.com",
+      "title_or_role": "Non-Executive Director/Chair",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Serabi Gold plc",
+      "ticker": "SRB",
+      "exchange": "LSE",
+      "website": "https://serabigold.com",
+      "title_or_role": "Non-Executive Chairman",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sarama Resources Ltd.",
+      "ticker": "SWA",
+      "exchange": "TSXV",
+      "website": "https://saramaresources.com",
+      "title_or_role": "Founder / Non-Executive Chairman",
+      "start_date": "2010",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Orvana Minerals Corp.",
+      "ticker": "ORV",
+      "exchange": "TSX",
+      "website": "https://orvana.com",
+      "title_or_role": "President and CEO",
+      "start_date": "2005",
+      "end_date": "2006",
+      "validated": true
+    },
+    {
+      "name": "TVX Gold, Inc.",
+      "ticker": "TVX",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "President and CEO",
+      "start_date": null,
+      "end_date": "2003",
+      "validated": true
+    },
+    {
+      "name": "Andina Minerals Inc.",
+      "ticker": "ADM",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Chairman",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Polaris Geothermal Inc.",
+      "ticker": "TSXV",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Australian Solomons Gold Limited",
+      "ticker": "TSX",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sean-harvey-4a5a5a12/",
+      "person_name": "Sean Harvey",
+      "company_name": "Victoria Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

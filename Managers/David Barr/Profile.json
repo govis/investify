@@ -1,0 +1,53 @@
+{
+  "name": "David Barr",
+  "first_name": "David",
+  "last_name": "Barr",
+  "age": 61,
+  "age_year": 2024,
+  "background": "Managing Director of Warburg Pincus LLC. He has been a director since 2003.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "TransDigm Group Incorporated",
+      "ticker": "TDG",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.transdigm.com",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Builders FirstSource, Inc.",
+      "ticker": "BLDR",
+      "exchange": "NASDAQ",
+      "website": "https://www.bldr.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/david-barr-4a5a2a1",
+      "person_name": "David Barr",
+      "company_name": "Warburg Pincus LLC",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

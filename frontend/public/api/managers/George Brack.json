@@ -1,0 +1,137 @@
+{
+  "id": "George Brack",
+  "name": "George Brack",
+  "background": "Mr. Brack has over 30 years of experience in the mining investment banking and corporate development sectors. He was previously the Managing Director and Industry Head, Mining at BMO Nesbitt Burns.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Wheaton Precious Metals Corp.",
+      "ticker": "WPM",
+      "exchange": "TSX/NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman of the Board",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Capstone Copper Corp.",
+      "ticker": "CS",
+      "exchange": "TSX",
+      "website": "https://capstonecopper.com",
+      "logoUrl": "/companies-assets/CS.TSX.svg",
+      "title": "Lead Independent Director",
+      "startDate": "2012",
+      "endDate": "2023",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Alexco Resource Corp.",
+      "ticker": "AXR",
+      "exchange": "TSX",
+      "website": "https://www.alexcoresource.com",
+      "logoUrl": "/companies-assets/AXR.TSX.png",
+      "title": "Chairman",
+      "startDate": "2010",
+      "endDate": "2022",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Aurizon Mines Ltd.",
+      "ticker": "ARZ",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "/companies-assets/ARZ.TSX.svg",
+      "title": "Director",
+      "startDate": "2009",
+      "endDate": "2013",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "NovaGold Resources Inc.",
+      "ticker": "NG",
+      "exchange": "TSX/NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2009",
+      "endDate": "2012",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "Red Back Mining Inc.",
+      "ticker": "RBI",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "/companies-assets/RBI.TSX.svg",
+      "title": "Director",
+      "startDate": "2008",
+      "endDate": "2010",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2010"
+    },
+    {
+      "name": "Newstrike Capital Inc.",
+      "ticker": "NES",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": "https://media.licdn.com/dms/image/C560BAQG5-y-1-9-l-g/company-logo_200_200/0/1630656094670/newstrike_capital_inc_logo?e=2147483647&v=beta&t=5-Y-1-9-l-g-5-Y-1-9-l-g",
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": "2015",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Geologix Explorations Inc.",
+      "ticker": "GIX",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "http://www.geologix.ca/img/logo.png",
+      "title": "Director",
+      "startDate": "2009",
+      "endDate": "2012",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "Dateline Resources Limited",
+      "ticker": "DTR",
+      "exchange": "ASX",
+      "website": "https://www.datelineresources.com.au",
+      "logoUrl": "/companies-assets/DTR.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2026",
+      "endDate": null,
+      "formattedStartDate": "2026",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/george-brack-60a6a818",
+      "person_name": "George Brack",
+      "company_name": "Wheaton Precious Metals Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Governance and Nominating Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

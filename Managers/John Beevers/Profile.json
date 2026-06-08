@@ -1,0 +1,62 @@
+{
+  "name": "John Beevers",
+  "first_name": "John",
+  "last_name": "Beevers",
+  "age": 65,
+  "age_year": 2024,
+  "background": "John Beevers was appointed as a Non-Executive Director on 1 May 2023. He has over 30 years of experience in the resources and chemical industries, including as CEO of Orica Mining Services.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lynas Rare Earths Limited",
+      "ticker": "LYC",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://lynasrareearths.com",
+      "start_date": "2023-05-01",
+      "end_date": null
+    },
+    {
+      "name": "Syrah Resources Limited",
+      "ticker": "SYR",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://www.syrahresources.com.au",
+      "start_date": "2020-05-22",
+      "end_date": null
+    },
+    {
+      "name": "Orica Limited",
+      "ticker": "ORI",
+      "exchange": "ASX",
+      "website": "https://www.orica.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/john-beevers-4a5b2a12/",
+      "person_name": "John Beevers",
+      "company_name": "Lynas Rare Earths Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee",
+    "Health, Safety and Environment Committee (Chair)",
+    "Sustainability Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Cameron McKay",
+  "name": "Cameron McKay",
+  "background": "Mr. McKay is a professional geologist with over 10 years of experience in uranium exploration. He has been involved in various stages of exploration from grassroots to resource definition in the Athabasca Basin.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Baselode Energy Corp.",
+      "ticker": "FIND",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Project Manager",
+      "startDate": "November 2020",
+      "endDate": null,
+      "formattedStartDate": "November 2020",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

@@ -1,0 +1,52 @@
+{
+  "id": "Andrew Houston",
+  "name": "Andrew Houston",
+  "background": "Co-founder and CEO of Dropbox, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Meta Platforms, Inc.",
+      "ticker": "META",
+      "exchange": "NASDAQ",
+      "website": "https://about.meta.com",
+      "logoUrl": "/companies-assets/META.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2020-02",
+      "endDate": null,
+      "formattedStartDate": "February 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Dropbox, Inc.",
+      "ticker": "DBX",
+      "exchange": "NASDAQ",
+      "website": "https://www.dropbox.com",
+      "logoUrl": "/companies-assets/DBX.NASDAQ.svg",
+      "title": "Co-founder, CEO, and Chairman of the Board",
+      "startDate": "2007-06",
+      "endDate": null,
+      "formattedStartDate": "June 2007",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/drewhouston/",
+      "person_name": "Drew Houston",
+      "company_name": "Dropbox",
+      "profile_status": "not_found",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 41,
+  "ageYear": 2024
+}

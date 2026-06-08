@@ -1,0 +1,68 @@
+{
+  "id": "James Turley",
+  "name": "James Turley",
+  "background": "Former Chairman and CEO of Ernst & Young. He has served as Emerson's Chair of the Board since 2021.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Citigroup Inc.",
+      "ticker": "C",
+      "exchange": "NYSE",
+      "website": "citigroup.com",
+      "logoUrl": "/companies-assets/C.NYSE.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": "2023",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Olin Corporation",
+      "ticker": "OLN",
+      "exchange": "NYSE",
+      "website": "https://www.olin.com",
+      "logoUrl": "/companies-assets/OLN.NYSE.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": "2023",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Ernst & Young (EY)",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman and Chief Executive Officer",
+      "startDate": "2001",
+      "endDate": "2013",
+      "formattedStartDate": "2001",
+      "formattedEndDate": "2013"
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jturley",
+      "person_name": "James Turley",
+      "company_name": "Emerson Electric Co.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation",
+    "Executive",
+    "Governance, Nominating and Sustainability Committee"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

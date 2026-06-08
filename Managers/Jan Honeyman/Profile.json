@@ -1,0 +1,43 @@
+{
+  "name": "Jan Honeyman",
+  "first_name": "Jan",
+  "last_name": "Honeyman",
+  "age": null,
+  "age_year": null,
+  "background": "Ms. Honeyman is a senior mining executive with over 30 years\u2019 experience in the mining industry. She has held senior roles with several major global companies including Rio Tinto and Shell.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Boss Energy Limited",
+      "ticker": "BOE",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://bossenergy.com/",
+      "start_date": "Not publicly disclosed",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/jan-honeyman-616ba66",
+      "person_name": "Jan Honeyman",
+      "company_name": "Boss Energy Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

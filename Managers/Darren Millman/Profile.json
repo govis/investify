@@ -1,0 +1,50 @@
+{
+  "name": "Darren Millman",
+  "first_name": "Darren",
+  "last_name": "Millman",
+  "age": 48,
+  "age_year": 2024,
+  "background": "Mr. Millman was appointed Vice President and Chief Financial Officer in April 2016. He joined Centerra in 2013 as Treasurer. Prior to Centerra, he held various senior financial positions at Ivanhoe Mines.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Centerra Gold Inc.",
+      "ticker": "CG",
+      "exchange": "TSX",
+      "title_or_role": "Vice President: Finance and Treasurer",
+      "website": "https://www.centerragold.com",
+      "start_date": "2013",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Ramelius Resources Limited",
+      "ticker": "RMS",
+      "exchange": "ASX",
+      "website": "https://www.rameliusresources.com.au",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/darren-millman-94939611",
+      "person_name": "Darren Millman",
+      "company_name": "Ramelius Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

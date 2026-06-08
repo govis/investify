@@ -1,0 +1,40 @@
+{
+  "name": "Frank St. John",
+  "first_name": "Frank",
+  "last_name": "St. John",
+  "age": 57,
+  "age_year": 2024,
+  "background": "Mr. St. John has served as Chief Operating Officer since June 2020. He has held various leadership roles at Lockheed Martin for over 30 years.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lockheed Martin Corporation",
+      "ticker": "LMT",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Vice President",
+      "website": "https://www.lockheedmartin.com",
+      "start_date": "August 2018",
+      "end_date": "June 2020",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/frank-st-john",
+      "person_name": "Frank St. John",
+      "company_name": "Lockheed Martin Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

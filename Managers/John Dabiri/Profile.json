@@ -1,0 +1,44 @@
+{
+  "name": "John Dabiri",
+  "first_name": "John",
+  "last_name": "Dabiri",
+  "age": 43,
+  "age_year": 2024,
+  "background": "Professor of Aeronautics and Mechanical Engineering at the California Institute of Technology.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director (Member of the Board of Directors)",
+      "website": "https://www.nvidia.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dabiri",
+      "person_name": "John Dabiri",
+      "company_name": "California Institute of Technology",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

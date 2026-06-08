@@ -1,0 +1,50 @@
+{
+  "name": "Marc Henderson",
+  "first_name": "Marc",
+  "last_name": "Henderson",
+  "age": 63,
+  "age_year": 2024,
+  "background": "Mr. Henderson has more than 25 years of experience in the resource sector. He has been the President and CEO of Laramide since 2005. He is also a director of several other public companies.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Laramide Resources Ltd.",
+      "ticker": "LAM",
+      "exchange": "TSX",
+      "title_or_role": "President, Chief Executive Officer, and Director",
+      "website": "https://laramide.com",
+      "start_date": "2003",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Khan Resources Inc.",
+      "ticker": "KRI",
+      "exchange": "CSE",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2006",
+      "end_date": "2016",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/marc-henderson-b771421a",
+      "person_name": "Marc Henderson",
+      "company_name": "Laramide Resources Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

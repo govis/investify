@@ -1,0 +1,33 @@
+{
+  "name": "Hart Baitis",
+  "first_name": "Hart",
+  "last_name": "Baitis",
+  "age": 76,
+  "age_year": 2024,
+  "background": "Professional geologist with over 40 years of experience in mineral exploration and development.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "United States Antimony Corporation",
+      "ticker": "UAMY",
+      "exchange": "NYSE American",
+      "title_or_role": "Director",
+      "website": "https://www.usantimony.com/",
+      "start_date": "2012-01-01",
+      "end_date": "2023-07-17",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "Natalie Senger",
+  "name": "Natalie Senger",
+  "background": "Ms. Senger is a Professional Geoscientist with over 15 years of experience in the mining industry, specializing in project management and geological modeling.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Founders Metals Inc.",
+      "ticker": "FDR",
+      "exchange": "TSXV",
+      "website": "https://foundersmetals.com/",
+      "logoUrl": "https://foundersmetals.com/site/templates/images/logo.png",
+      "title": "VP: Resource Development",
+      "startDate": "2024-03-13",
+      "endDate": null,
+      "formattedStartDate": "March 2024",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/nataliesenger",
+      "person_name": "Natalie Senger",
+      "company_name": "Tudor Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 42,
+  "ageYear": 2024
+}

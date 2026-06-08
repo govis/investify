@@ -1,0 +1,39 @@
+{
+  "id": "Steven Kalmin",
+  "name": "Steven Kalmin",
+  "background": "Steven Kalmin joined Glencore in 1999 and has been the Chief Financial Officer since 2005. He oversaw the company's IPO in 2011 and the merger with Xstrata in 2013. He holds a Bachelor of Commerce from the University of New South Wales and is a member of the Institute of Chartered Accountants in Australia.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Katanga Mining Ltd",
+      "ticker": "KAT",
+      "exchange": "TSX",
+      "website": "https://www.katangamining.com/",
+      "logoUrl": "/companies-assets/KAT.TSX.svg",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": "2020",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2020"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/steven-kalmin-4a5b6a12",
+      "person_name": "Steven Kalmin",
+      "company_name": "Glencore",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 53,
+  "ageYear": 2024
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Ralf Thomas",
+  "first_name": "Ralf",
+  "last_name": "Thomas",
+  "age": 63,
+  "age_year": 2024,
+  "background": "Ralf P. Thomas is the CFO of Siemens AG. He joined Siemens in 1995 and has served in various finance leadership roles, including CFO of the Industry Sector. He has been a member of the Managing Board since 2013.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Siemens Aktiengesellschaft",
+      "ticker": "SIEGY",
+      "exchange": "OTC",
+      "title_or_role": "Chief Financial Officer, Member of the Managing Board",
+      "website": "https://www.siemens.com",
+      "start_date": "2013-09-18",
+      "end_date": null
+    },
+    {
+      "name": "Siemens Aktiengesellschaft (Siemens AG)",
+      "ticker": "SIE",
+      "exchange": "Frankfurt Stock Exchange (XETRA)",
+      "website": "https://www.siemens.com",
+      "title_or_role": "Chief Financial Officer (CFO) / Member of the Managing Board",
+      "start_date": "September 2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Siemens Healthineers AG",
+      "ticker": "SHL",
+      "exchange": "Frankfurt Stock Exchange (XETRA)",
+      "website": "https://www.siemens-healthineers.com",
+      "title_or_role": "Chairman of the Supervisory Board",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ralf-p-thomas-5a5b5a1a",
+      "person_name": "Ralf P. Thomas",
+      "company_name": "Siemens AG",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

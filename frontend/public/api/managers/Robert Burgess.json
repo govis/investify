@@ -1,0 +1,78 @@
+{
+  "id": "Robert Burgess",
+  "name": "Robert Burgess",
+  "background": "Former Chairman and CEO of Macromedia, Inc. and former executive at Silicon Graphics, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "exchange": "NASDAQ",
+      "website": "https://www.nvidia.com",
+      "logoUrl": "/companies-assets/NVDA.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2011",
+      "endDate": null,
+      "formattedStartDate": "2011",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Macromedia, Inc.",
+      "ticker": "MACR",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "/companies-assets/MACR.NASDAQ.svg",
+      "title": "CEO and Chairman",
+      "startDate": "1996",
+      "endDate": "2005",
+      "formattedStartDate": "1996",
+      "formattedEndDate": "2005"
+    },
+    {
+      "name": "Alias Research Inc.",
+      "ticker": "ALIAS",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "/companies-assets/ALIAS.NASDAQ.png",
+      "title": "CEO",
+      "startDate": "1991",
+      "endDate": "1995",
+      "formattedStartDate": "1991",
+      "formattedEndDate": "1995"
+    },
+    {
+      "name": "Silicon Graphics, Inc. (SGI)",
+      "ticker": "SGI",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "/companies-assets/SGI.NYSE.svg",
+      "title": "President (Alias/Wavefront integration)",
+      "startDate": "1995",
+      "endDate": "1996",
+      "formattedStartDate": "1995",
+      "formattedEndDate": "1996"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/robertfburgess",
+      "person_name": "Robert Burgess",
+      "company_name": "NVIDIA Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

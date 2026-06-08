@@ -1,0 +1,42 @@
+{
+  "id": "Robert Dixon",
+  "name": "Robert Dixon",
+  "background": "Former CEO of Realogy Holdings Corp. and former executive at PepsiCo.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Generac Holdings Inc.",
+      "ticker": "GNRC",
+      "exchange": "NYSE",
+      "website": "https://www.generac.com",
+      "logoUrl": "/companies-assets/GNRC.NYSE.svg",
+      "title": "Director (Member of the Board of Directors)",
+      "startDate": "2012-03-14",
+      "endDate": null,
+      "formattedStartDate": "March 2012",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Air Products and Chemicals, Inc.",
+      "ticker": "APD",
+      "exchange": "NYSE",
+      "website": "https://www.airproducts.com",
+      "logoUrl": "/companies-assets/APD.NYSE.png",
+      "title": "Senior Vice President & General Manager (Merchant Gases)",
+      "startDate": "1983",
+      "endDate": "2012",
+      "formattedStartDate": "1983",
+      "formattedEndDate": "2012"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

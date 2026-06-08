@@ -1,0 +1,40 @@
+{
+  "name": "Brad Hicks",
+  "first_name": "Brad",
+  "last_name": "Hicks",
+  "age": 51,
+  "age_year": 2024,
+  "background": "Brad Hicks is President of Highway Services. He joined the company in 1996 and has held several executive positions in Highway Services and Dedicated Contract Services.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "J.B. Hunt Transport Services, Inc.",
+      "ticker": "JBHT",
+      "exchange": "NASDAQ",
+      "title_or_role": "President of Dedicated Contract Services (Current); previously President of Highway Services, Executive Vice President of People, and EVP of Dedicated Contract Services.",
+      "website": "https://www.jbhunt.com",
+      "start_date": "1996",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/brad-hicks-7654b14",
+      "person_name": "Brad Hicks",
+      "company_name": "J.B. Hunt Transport Services, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

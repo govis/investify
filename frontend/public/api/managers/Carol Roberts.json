@@ -1,0 +1,65 @@
+{
+  "id": "Carol Roberts",
+  "name": "Carol Roberts",
+  "background": "Former Senior Vice President and CFO of International Paper Company.",
+  "pictureUrl": "/managers-assets/Carol Roberts.jpg",
+  "companies": [
+    {
+      "name": "Alcoa Corporation",
+      "ticker": "AA",
+      "exchange": "NYSE",
+      "website": "https://www.alcoa.com",
+      "logoUrl": "/companies-assets/AA.NYSE.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "V.F. Corporation",
+      "ticker": "VFC",
+      "exchange": "NYSE",
+      "website": "https://www.vfc.com",
+      "logoUrl": "/companies-assets/VFC.NYSE.svg",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "International Paper Company",
+      "ticker": "IP",
+      "exchange": "NYSE",
+      "website": "https://www.internationalpaper.com",
+      "logoUrl": "/companies-assets/IP.NYSE.svg",
+      "title": "Senior Vice President and Chief Financial Officer",
+      "startDate": "1981",
+      "endDate": "2017",
+      "formattedStartDate": "1981",
+      "formattedEndDate": "2017"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/carol-roberts-22001131/",
+      "person_name": "Carol Roberts",
+      "company_name": "International Paper",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation and Benefits Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

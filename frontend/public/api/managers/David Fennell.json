@@ -1,0 +1,101 @@
+{
+  "id": "David Fennell",
+  "name": "David Fennell",
+  "background": "Mr. Fennell has been involved in the mining industry for over 35 years. He was the founder of Golden Star Resources Ltd. and has served on numerous boards of public mining companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "G Mining Ventures Corp.",
+      "ticker": "GMIN",
+      "exchange": "TSX",
+      "website": "https://www.gminingventures.com",
+      "logoUrl": "/companies-assets/GMIN.TSX.svg",
+      "title": "Non-Executive Vice-Chairman",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Reunion Gold Corporation",
+      "ticker": "RGD",
+      "exchange": "TSX.V",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Chairman",
+      "startDate": "2003",
+      "endDate": null,
+      "formattedStartDate": "2003",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Highland Copper Company Inc.",
+      "ticker": "HI",
+      "exchange": "TSX.V",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman",
+      "startDate": "2013",
+      "endDate": "2021",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Torex Gold Resources Ltd.",
+      "ticker": "TXG",
+      "exchange": "TSX",
+      "website": "https://torexgold.com/",
+      "logoUrl": "/companies-assets/TXG.TSX.svg",
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": "2021",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Sabina Gold & Silver Corp.",
+      "ticker": "SBB",
+      "exchange": "TSX",
+      "website": "https://www.sabinagoldsilver.com/",
+      "logoUrl": "/companies-assets/SBB.TSX.svg",
+      "title": "Director",
+      "startDate": "2011",
+      "endDate": "2023",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Golden Star Resources Ltd.",
+      "ticker": "GSC",
+      "exchange": "TSX",
+      "website": "gsr.com",
+      "logoUrl": "/companies-assets/GSC.TSX.png",
+      "title": "Founder / Executive",
+      "startDate": "1983",
+      "endDate": "2000",
+      "formattedStartDate": "1983",
+      "formattedEndDate": "2000"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/david-fennell-4a5b2a12",
+      "person_name": "David Fennell",
+      "company_name": "Reunion Gold Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Governance and Nominating Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

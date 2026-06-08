@@ -1,0 +1,53 @@
+{
+  "id": "Teresa Conway",
+  "name": "Teresa Conway",
+  "background": "Teresa Conway is a former executive with over 25 years of experience in the energy sector, including as President and CEO of Powerex Corp.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Eldorado Gold Corporation",
+      "ticker": "EGO",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "Prior to 2020",
+      "endDate": null,
+      "formattedStartDate": "Prior to 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Altius Minerals Corporation",
+      "ticker": "ALS",
+      "exchange": "TSX",
+      "website": "https://altiusminerals.com/",
+      "logoUrl": "/companies-assets/ALS.TSX.svg",
+      "title": "Director",
+      "startDate": "October 1, 2020",
+      "endDate": null,
+      "formattedStartDate": "October 1, 2020",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/teresamconway",
+      "person_name": "Teresa Conway",
+      "company_name": "Eldorado Gold Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

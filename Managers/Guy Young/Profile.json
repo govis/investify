@@ -1,0 +1,69 @@
+{
+  "name": "Guy Young",
+  "first_name": "Guy",
+  "last_name": "Young",
+  "age": 54,
+  "age_year": 2024,
+  "background": "Guy Young joined Endeavour in 2023. He was previously CFO of Anglo American Platinum and has held various senior financial roles within the Anglo American Group.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "LSE",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://www.endeavourmining.com",
+      "start_date": "2023-03",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "TSX",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://www.endeavourmining.com",
+      "start_date": "2023-03-01",
+      "end_date": null
+    },
+    {
+      "name": "Vesuvius plc",
+      "ticker": "VSVS",
+      "exchange": "LSE",
+      "website": "https://www.vesuvius.com",
+      "title_or_role": "Director and Chief Financial Officer",
+      "start_date": "2015",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Anglo American plc",
+      "ticker": "AAL",
+      "exchange": "LSE",
+      "website": "https://www.angloamerican.com",
+      "title_or_role": "Finance and Business Development roles",
+      "start_date": "1997",
+      "end_date": "2010",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/guy-young-08670912",
+      "person_name": "Guy Young",
+      "company_name": "Endeavour Mining plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

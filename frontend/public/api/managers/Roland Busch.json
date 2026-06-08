@@ -1,0 +1,50 @@
+{
+  "id": "Roland Busch",
+  "name": "Roland Busch",
+  "background": "Roland Busch is President and CEO of Siemens AG. He joined Siemens in 1994 and has held various leadership roles, including COO, CTO, and member of the Managing Board since 2011. He holds a PhD in Physics from the University of Erlangen-Nuremberg.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Siemens Aktiengesellschaft",
+      "ticker": "SIE",
+      "exchange": "Xetra (Frankfurt Stock Exchange)",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and Chief Executive Officer",
+      "startDate": "February 3, 2021",
+      "endDate": null,
+      "formattedStartDate": "February 3, 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Bilfinger SE",
+      "ticker": "GBF",
+      "exchange": "Xetra (Frankfurt Stock Exchange)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Member of the Supervisory Board",
+      "startDate": "April 15, 2021",
+      "endDate": null,
+      "formattedStartDate": "April 15, 2021",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://de.linkedin.com/in/buschroland",
+      "person_name": "Roland Busch",
+      "company_name": "Siemens",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 59,
+  "ageYear": 2024
+}

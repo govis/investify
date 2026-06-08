@@ -1,0 +1,52 @@
+{
+  "name": "Thomas Kennedy",
+  "first_name": "Thomas",
+  "last_name": "Kennedy",
+  "age": 68,
+  "age_year": 2024,
+  "background": "Former Executive Chairman and CEO of Raytheon Technologies Corporation. Former Chairman and CEO of Raytheon Company.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Textron Inc.",
+      "ticker": "TXT",
+      "exchange": "NYSE",
+      "title_or_role": "Member, Board of Directors",
+      "website": "https://www.textron.com",
+      "start_date": "January 1, 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Raytheon Company",
+      "ticker": "RTX",
+      "exchange": "NYSE",
+      "website": "https://www.rtx.com",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "March 31, 2014",
+      "end_date": "April 2020",
+      "validated": true
+    },
+    {
+      "name": "Raytheon Technologies Corporation",
+      "ticker": "RTX",
+      "exchange": "NYSE",
+      "website": "https://www.rtx.com",
+      "title_or_role": "Executive Chairman of the Board",
+      "start_date": "April 2020",
+      "end_date": "June 1, 2021",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Organization and Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

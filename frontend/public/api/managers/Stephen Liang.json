@@ -1,0 +1,51 @@
+{
+  "id": "Stephen Liang",
+  "name": "Stephen Liang",
+  "background": "Stephen Liang is the Chief Technology Officer of Vertiv. He has been with the company and its predecessor, Emerson Network Power, since 1994. He was appointed CTO in February 2021 and previously served as President, Asia Pacific.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Vertiv Holdings Co",
+      "ticker": "VRT",
+      "exchange": "NYSE",
+      "website": "https://www.vertiv.com",
+      "logoUrl": "/companies-assets/VRT.NYSE.svg",
+      "title": "President, Asia-Pacific",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Emerson Electric Co.",
+      "ticker": "EMR",
+      "exchange": "NYSE",
+      "website": "https://www.emerson.com",
+      "logoUrl": "/companies-assets/EMR.NYSE.svg",
+      "title": "President, Emerson Network Power Asia Pacific",
+      "startDate": "2009",
+      "endDate": "2016",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2016"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/stephen-liang-5a024a6",
+      "person_name": "Stephen Liang",
+      "company_name": "Vertiv",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 57,
+  "ageYear": 2024
+}

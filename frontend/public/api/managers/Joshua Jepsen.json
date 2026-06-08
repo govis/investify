@@ -1,0 +1,50 @@
+{
+  "id": "Joshua Jepsen",
+  "name": "Joshua Jepsen",
+  "background": "Joshua Jepsen is Senior Vice President and Chief Financial Officer. He is responsible for the company's financial functions, including accounting, treasury, tax, and investor relations. Jepsen joined John Deere in 1999 and has held positions in finance, manufacturing, and marketing.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Deere & Company",
+      "ticker": "DE",
+      "exchange": "NYSE",
+      "website": "https://www.deere.com",
+      "logoUrl": "/companies-assets/DE.NYSE.svg",
+      "title": "Various roles (Auditing, Accounting, Financial Analysis)",
+      "startDate": "1999",
+      "endDate": "2015",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Honeywell International Inc.",
+      "ticker": "HON",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Vice President and Chief Financial Officer, Aerospace Unit",
+      "startDate": "February 2026",
+      "endDate": null,
+      "formattedStartDate": "February 2026",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/joshua-jepsen-47668279",
+      "person_name": "Joshua Jepsen",
+      "company_name": "Deere & Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 46,
+  "ageYear": 2024
+}

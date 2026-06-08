@@ -1,0 +1,73 @@
+{
+  "name": "Peter Watson",
+  "first_name": "Peter",
+  "last_name": "Watson",
+  "age": 65,
+  "age_year": 2024,
+  "background": "Mr Watson is a chemical engineer with over 40 years\u2019 experience in the resources and engineering sectors. He has held senior executive and board positions with several ASX-listed companies, including Sedgman and GR Engineering Services. He has extensive experience in project development and operations.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Paladin Energy Ltd",
+      "ticker": "PDN",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://www.paladinenergy.com.au",
+      "start_date": "December 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Australian Vanadium Ltd",
+      "ticker": "AVL",
+      "exchange": "ASX",
+      "website": "https://www.australianvanadium.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "February 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Strandline Resources Ltd",
+      "ticker": "STA",
+      "exchange": "ASX",
+      "website": "https://www.strandline.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "December 2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sedgman Ltd",
+      "ticker": "SDM",
+      "exchange": "ASX",
+      "website": "https://www.sedgman.com",
+      "title_or_role": "Chief Executive Officer & Managing Director",
+      "start_date": "2014",
+      "end_date": "2016",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/peter-watson-90894044",
+      "person_name": "Peter Watson",
+      "company_name": "Paladin Energy Ltd",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and Nomination Committee (Chair)"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

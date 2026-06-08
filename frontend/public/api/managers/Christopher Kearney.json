@@ -1,0 +1,65 @@
+{
+  "id": "Christopher Kearney",
+  "name": "Christopher Kearney",
+  "background": "Former Chairman, President and Chief Executive Officer of SPX FLOW, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Otis Worldwide Corporation",
+      "ticker": "OTIS",
+      "exchange": "NYSE",
+      "website": "https://www.otis.com",
+      "logoUrl": "/companies-assets/OTIS.NYSE.svg",
+      "title": "Executive Chairman (Former)",
+      "startDate": "2020",
+      "endDate": "2024",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "SPX FLOW, Inc.",
+      "ticker": "FLOW",
+      "exchange": "NYSE",
+      "website": "https://www.spxflow.com",
+      "logoUrl": "/companies-assets/FLOW.NYSE.png",
+      "title": "Chairman, President & CEO / Non-Executive Chairman",
+      "startDate": "2015",
+      "endDate": "2016",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "SPX Corporation",
+      "ticker": "SPXC",
+      "exchange": "NYSE",
+      "website": "https://www.spx.com",
+      "logoUrl": "/companies-assets/SPXC.NYSE.svg",
+      "title": "Chairman, President & CEO",
+      "startDate": "2004",
+      "endDate": "2015",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2015"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/christophermkearney",
+      "person_name": "Christopher M. Kearney",
+      "company_name": "SPX FLOW, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/C4E03AQHwo93YbL81ww/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516947982472?e=2147483647&v=beta&t=aeCE012nfBmFcQm86TIxQ0ZAwo6oKZSLlMxqB3PPMeM",
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation and Executive Development",
+    "Governance and Nominating"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

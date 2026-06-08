@@ -1,0 +1,38 @@
+{
+  "name": "James Marsh",
+  "first_name": "James",
+  "last_name": "Marsh",
+  "age": null,
+  "age_year": null,
+  "background": "Mr. Marsh is a qualified industrial chemist with over 30 years\u2019 experience in the mining and mineral processing industry. He has held senior positions with several major global companies including Rio Tinto and WMC Resources.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Boss Energy Limited",
+      "ticker": "BOE",
+      "exchange": "ASX",
+      "title_or_role": "General Manager - Operations",
+      "website": "https://www.bossenergy.com",
+      "start_date": "2023-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Andromeda Metals Limited",
+      "ticker": "ADN",
+      "exchange": "ASX",
+      "website": "https://www.andromet.com.au/",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": "2023-10-10",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

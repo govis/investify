@@ -1,0 +1,83 @@
+{
+  "name": "Dion Weisler",
+  "first_name": "Dion",
+  "last_name": "Weisler",
+  "age": 56,
+  "age_year": 2024,
+  "background": "Dion J. Weisler has been a director since 2020. He was President and CEO of HP Inc. from 2015 to 2019.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "intel.com",
+      "start_date": "June 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Thermo Fisher Scientific Inc.",
+      "ticker": "TMO",
+      "exchange": "NYSE",
+      "website": "thermofisher.com",
+      "title_or_role": "Independent Director",
+      "start_date": "March 2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX / NYSE",
+      "website": "bhp.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Qantas Airways Limited",
+      "ticker": "QAN",
+      "exchange": "ASX",
+      "website": "qantas.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "March 2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "HP Inc.",
+      "ticker": "HPQ",
+      "exchange": "NYSE",
+      "website": "hp.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2015",
+      "end_date": "May 2020",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/dion-weisler-4355183",
+      "person_name": "Dion Weisler",
+      "company_name": "HP Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

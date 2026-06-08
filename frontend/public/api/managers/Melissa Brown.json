@@ -1,0 +1,38 @@
+{
+  "id": "Melissa Brown",
+  "name": "Melissa Brown",
+  "background": "Ms. Brown has served as our Senior Vice President and General Counsel since May 2022. She joined the company in 2018 and previously served as Vice President and Deputy General Counsel.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AeroVironment, Inc.",
+      "ticker": "AVAV",
+      "exchange": "NASDAQ",
+      "website": "https://www.avinc.com",
+      "logoUrl": "/companies-assets/AVAV.NASDAQ.svg",
+      "title": "Senior Vice President, General Counsel, Chief Compliance Officer, and Corporate Secretary",
+      "startDate": "May 2023",
+      "endDate": null,
+      "formattedStartDate": "May 2023",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/melissa-brown-708b2a52",
+      "person_name": "Melissa Brown",
+      "company_name": "AeroVironment, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 48,
+  "ageYear": 2024
+}

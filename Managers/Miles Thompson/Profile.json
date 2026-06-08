@@ -1,0 +1,70 @@
+{
+  "name": "Miles Thompson",
+  "first_name": "Miles",
+  "last_name": "Thompson",
+  "age": 58,
+  "age_year": 2024,
+  "background": "Mr. Thompson is a geologist with over 30 years of experience in the mining industry. He is the founder and Chairman of Lara Exploration Ltd. and has been involved in the discovery and development of several mineral deposits.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Forsys Metals Corp.",
+      "ticker": "FSY",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://forsysmetals.com",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lara Exploration Ltd.",
+      "ticker": "LRA",
+      "exchange": "TSXV",
+      "website": "https://laraexploration.com",
+      "title_or_role": "Chairman, President & CEO",
+      "start_date": "2003",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Reservoir Capital Corp.",
+      "ticker": "REO",
+      "exchange": "TSXV",
+      "website": "http://www.reservoircapitalcorp.com",
+      "title_or_role": "Chairman",
+      "start_date": "2005",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Reservoir Minerals Inc.",
+      "ticker": "RMC",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "President & CEO",
+      "start_date": "2009",
+      "end_date": "2016",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/miles-thompson-0a6863a",
+      "person_name": "Miles Thompson",
+      "company_name": "Lara Exploration Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

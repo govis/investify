@@ -1,0 +1,31 @@
+{
+  "id": "Gerald Steiner",
+  "name": "Gerald Steiner",
+  "background": "Former Executive Vice President, Sustainability and Corporate Affairs of Monsanto Company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Monsanto Company",
+      "ticker": "MON",
+      "exchange": "NYSE",
+      "website": "http://www.monsanto.com",
+      "logoUrl": "/companies-assets/MON.NYSE.svg",
+      "title": "Executive Vice President, Sustainability and Corporate Affairs",
+      "startDate": null,
+      "endDate": "2013-11",
+      "formattedStartDate": "",
+      "formattedEndDate": "November 2013"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Executive Compensation Committee",
+    "Health, Safety & Environmental Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

@@ -1,0 +1,66 @@
+{
+  "id": "Sébastien Bazin",
+  "name": "Sébastien Bazin",
+  "background": "Chairman and CEO of Accor. He brings significant international business and hospitality experience.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Accor SA",
+      "ticker": "AC",
+      "exchange": "Euronext Paris",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director (2005–2013); Chairman and CEO (2013–Present)",
+      "startDate": "2005",
+      "endDate": null,
+      "formattedStartDate": "2005",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Edenred SE",
+      "ticker": "EDEN",
+      "exchange": "Euronext Paris",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": "2013",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Carrefour SA",
+      "ticker": "CA",
+      "exchange": "Euronext Paris",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2008",
+      "endDate": "2013",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2013"
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sebastien-bazin-4a5b2a1",
+      "person_name": "Sébastien Bazin",
+      "company_name": "Accor",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Governance and Public Affairs Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

@@ -1,0 +1,52 @@
+{
+  "id": "David Singelyn",
+  "name": "David Singelyn",
+  "background": "Chief Executive Officer and Trustee of American Homes 4 Rent.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "American Homes 4 Rent",
+      "ticker": "AMH",
+      "exchange": "NYSE",
+      "website": "https://www.amh.com",
+      "logoUrl": "/companies-assets/AMH.NYSE.svg",
+      "title": "Chief Executive Officer and Trustee",
+      "startDate": "2012-10",
+      "endDate": "2024-12-31",
+      "formattedStartDate": "October 2012",
+      "formattedEndDate": "December 2024"
+    },
+    {
+      "name": "Public Storage",
+      "ticker": "PSA",
+      "exchange": "NYSE",
+      "website": "https://www.publicstorage.com",
+      "logoUrl": "/companies-assets/PSA.NYSE.svg",
+      "title": "Various Senior Finance Roles",
+      "startDate": "1989",
+      "endDate": "2003",
+      "formattedStartDate": "1989",
+      "formattedEndDate": "2003"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/david-singelyn-84b12b50",
+      "person_name": "David Singelyn",
+      "company_name": "American Homes 4 Rent",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

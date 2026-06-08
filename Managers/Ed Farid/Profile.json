@@ -1,0 +1,60 @@
+{
+  "name": "Ed Farid",
+  "first_name": "Ed",
+  "last_name": "Farid",
+  "age": 46,
+  "age_year": 2024,
+  "background": "Mr. Farid was appointed Executive Vice President and Chief Corporate Development Officer in 2020. He previously served as Senior Vice President, Business Development and Strategy at Alacer Gold.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "SSR Mining Inc.",
+      "ticker": "SSRM",
+      "exchange": "TSX, NASDAQ",
+      "title_or_role": "Chief Corporate Development Officer & Executive Vice President",
+      "website": "https://www.ssrmining.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Alacer Gold Corp.",
+      "ticker": "ASR",
+      "exchange": "TSX",
+      "website": "https://www.alacergold.com",
+      "title_or_role": "Senior Vice President, Business Development and Investor Relations",
+      "start_date": "2017",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Credit Suisse AG",
+      "ticker": "CS",
+      "exchange": "NYSE",
+      "website": "https://www.credit-suisse.com",
+      "title_or_role": "Director, Metals and Mining Investment Banking",
+      "start_date": "2016",
+      "end_date": "2017",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ed-farid-5a5b2a1",
+      "person_name": "Ed Farid",
+      "company_name": "SSR Mining Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

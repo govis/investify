@@ -1,0 +1,78 @@
+{
+  "id": "Paul Murphy",
+  "name": "Paul Murphy",
+  "background": "Mr. Murphy is the Chairman of the Board. He was previously a partner at PricewaterhouseCoopers LLP where he served as the National Mining Leader in Canada.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Alamos Gold Inc.",
+      "ticker": "AGI",
+      "exchange": "TSX, NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director, Chair of the Board",
+      "startDate": "2010",
+      "endDate": "December 2024",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "December 2024"
+    },
+    {
+      "name": "Collective Mining Ltd.",
+      "ticker": "CNL",
+      "exchange": "TSX, NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Director, Chair of the Audit Committee",
+      "startDate": "Prior to 2024",
+      "endDate": "December 2024",
+      "formattedStartDate": "Prior to 2024",
+      "formattedEndDate": "December 2024"
+    },
+    {
+      "name": "Red Robin Gourmet Burgers, Inc.",
+      "ticker": "RRGB",
+      "exchange": "NASDAQ",
+      "website": "https://www.redrobin.com",
+      "logoUrl": "/companies-assets/RRGB.NASDAQ.svg",
+      "title": "President and Chief Executive Officer",
+      "startDate": "October 2019",
+      "endDate": "December 31, 2022",
+      "formattedStartDate": "October 2019",
+      "formattedEndDate": "December 31, 2022"
+    },
+    {
+      "name": "Noodles & Company",
+      "ticker": "NDLS",
+      "exchange": "NASDAQ",
+      "website": "https://www.noodles.com",
+      "logoUrl": "/companies-assets/NDLS.NASDAQ.svg",
+      "title": "Executive Chairman",
+      "startDate": "July 10, 2017",
+      "endDate": "2019",
+      "formattedStartDate": "July 10, 2017",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Del Taco Restaurants, Inc.",
+      "ticker": "TACO",
+      "exchange": "NASDAQ",
+      "website": "https://www.deltaco.com",
+      "logoUrl": "/companies-assets/TACO.NASDAQ.png",
+      "title": "Chairman and Chief Executive Officer",
+      "startDate": "February 2006",
+      "endDate": "2017",
+      "formattedStartDate": "February 2006",
+      "formattedEndDate": "2017"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Technical and Sustainability Committee"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

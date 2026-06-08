@@ -1,0 +1,38 @@
+{
+  "id": "Artur Bergman",
+  "name": "Artur Bergman",
+  "background": "Artur Bergman is our founder and has served as our Chief Architect since September 2022 and as a member of our board of directors since our founding in March 2011. Previously, Mr. Bergman served as our Executive Chairperson from February 2020 to September 2022 and as our Chief Executive Officer from March 2011 to February 2020.",
+  "pictureUrl": "/managers-assets/Artur Bergman.jpg",
+  "companies": [
+    {
+      "name": "Fastly, Inc.",
+      "ticker": "FSLY",
+      "exchange": "NYSE",
+      "website": "https://www.fastly.com",
+      "logoUrl": "/companies-assets/FSLY.NYSE.svg",
+      "title": "Chief Architect",
+      "startDate": "February 2020",
+      "endDate": null,
+      "formattedStartDate": "February 2020",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/artur-bergman-1a4336173",
+      "person_name": "Artur Bergman",
+      "company_name": "Fastly, Inc.",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
+  "committees": [],
+  "age": 43,
+  "ageYear": 2024
+}

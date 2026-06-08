@@ -1,0 +1,83 @@
+{
+  "name": "Stratton Sclavos",
+  "first_name": "Stratton",
+  "last_name": "Sclavos",
+  "age": 62,
+  "age_year": 2024,
+  "background": "Former Chairman and CEO of VeriSign, Inc. He is a seasoned executive with experience in cybersecurity and technology infrastructure.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Terran Orbital Corporation",
+      "ticker": "LLAP",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "terranorbital.com",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Salesforce, Inc.",
+      "ticker": "CRM",
+      "exchange": "NYSE",
+      "website": "salesforce.com",
+      "title_or_role": "Director",
+      "start_date": "2005",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Juniper Networks, Inc.",
+      "ticker": "JNPR",
+      "exchange": "NYSE",
+      "website": "juniper.net",
+      "title_or_role": "Director",
+      "start_date": "2004",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Intuit Inc.",
+      "ticker": "INTU",
+      "exchange": "NASDAQ",
+      "website": "intuit.com",
+      "title_or_role": "Director",
+      "start_date": "2005",
+      "end_date": "2010",
+      "validated": true
+    },
+    {
+      "name": "VeriSign, Inc.",
+      "ticker": "VRSN",
+      "exchange": "NASDAQ",
+      "website": "verisign.com",
+      "title_or_role": "President, CEO, Chairman",
+      "start_date": "1995",
+      "end_date": "2007",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/stratton-sclavos-669166178",
+      "person_name": "Stratton Sclavos",
+      "company_name": "VeriSign, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

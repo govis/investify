@@ -1,0 +1,49 @@
+{
+  "name": "Bin Li",
+  "first_name": "Bin",
+  "last_name": "Li",
+  "age": 49,
+  "age_year": 2024,
+  "background": "Mr. Bin Li is our founder and has served as chairman of the board of directors since our inception and our chief executive officer since March 2018. In 2000, Mr. Li co-founded Beijing Bitauto E-Commerce Co., Ltd. and served as its director and president until 2006. From 2010 to 2020, Mr. Li served as chairman of the board of directors of Bitauto Holdings Limited, a former NYSE-listed company and a leading automotive service provider in China. In 2002, Mr. Li co-founded Beijing C&I Advertising Co., Ltd. and has served as its chairman of the board of directors and chief executive officer since then.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "NIO Inc.",
+      "ticker": "NIO",
+      "exchange": "NYSE",
+      "title_or_role": "Founder, Chairman, and Chief Executive Officer",
+      "website": "https://www.nio.com/",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bitauto Holdings Limited",
+      "ticker": "BITA",
+      "exchange": "NYSE",
+      "website": "http://ir.bitauto.com/",
+      "title_or_role": "Chairman and Chief Executive Officer",
+      "start_date": "2000",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Yixin Group Limited",
+      "ticker": "2858",
+      "exchange": "HKEX",
+      "website": "http://ir.yixingroup.com/",
+      "title_or_role": "Chairman and Non-executive Director",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Jim Pettit",
+  "first_name": "Jim",
+  "last_name": "Pettit",
+  "age": null,
+  "age_year": null,
+  "background": "Jim Pettit is the Chairman of the Board and has over 30 years of experience in the resource industry specializing in finance, corporate governance, and management. He has served as a director and officer for several public companies.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Skyharbour Resources Ltd.",
+      "ticker": "SYH",
+      "exchange": "TSX",
+      "title_or_role": "Chairman of the Board",
+      "website": "https://skyharbourltd.com",
+      "start_date": "2013-06-01",
+      "end_date": null
+    },
+    {
+      "name": "Aben Resources Ltd.",
+      "ticker": "ABM",
+      "exchange": "TSXV",
+      "website": "https://abenresources.com/",
+      "title_or_role": "President, Chief Executive Officer, and Director",
+      "start_date": "2002-11",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Surge Copper Corp.",
+      "ticker": "SURG",
+      "exchange": "TSXV",
+      "website": "https://surgecopper.com/",
+      "title_or_role": "Director",
+      "start_date": "2003",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/james-pettit-6a5b5a1a",
+      "person_name": "James Pettit",
+      "company_name": "Skyharbour Resources Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

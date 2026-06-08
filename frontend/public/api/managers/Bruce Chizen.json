@@ -1,0 +1,89 @@
+{
+  "id": "Bruce Chizen",
+  "name": "Bruce Chizen",
+  "background": "Former CEO of Adobe Systems Incorporated.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Oracle Corporation",
+      "ticker": "ORCL",
+      "exchange": "NYSE",
+      "website": "https://www.oracle.com",
+      "logoUrl": "/companies-assets/ORCL.NYSE.svg",
+      "title": "Director",
+      "startDate": "July 2008",
+      "endDate": null,
+      "formattedStartDate": "July 2008",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Adobe Inc.",
+      "ticker": "ADBE",
+      "exchange": "NASDAQ",
+      "website": "https://www.adobe.com",
+      "logoUrl": "/companies-assets/ADBE.NASDAQ.svg",
+      "title": "CEO, President, Director",
+      "startDate": "1994",
+      "endDate": "2008",
+      "formattedStartDate": "1994",
+      "formattedEndDate": "2008"
+    },
+    {
+      "name": "Synopsys, Inc.",
+      "ticker": "SNPS",
+      "exchange": "NASDAQ",
+      "website": "https://www.synopsys.com",
+      "logoUrl": "/companies-assets/SNPS.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "April 2001",
+      "endDate": null,
+      "formattedStartDate": "April 2001",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "ChargePoint Holdings, Inc.",
+      "ticker": "CHPT",
+      "exchange": "NYSE",
+      "website": "https://www.chargepoint.com",
+      "logoUrl": "/companies-assets/CHPT.NYSE.svg",
+      "title": "Director (Chair)",
+      "startDate": "November 2014",
+      "endDate": null,
+      "formattedStartDate": "November 2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Informatica Inc.",
+      "ticker": "INFA",
+      "exchange": "NYSE",
+      "website": "https://www.informatica.com",
+      "logoUrl": "/companies-assets/INFA.NYSE.svg",
+      "title": "Director (Executive Chairman)",
+      "startDate": "August 2015",
+      "endDate": null,
+      "formattedStartDate": "August 2015",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/brucechizen",
+      "person_name": "Bruce Chizen",
+      "company_name": "Adobe",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

@@ -1,0 +1,89 @@
+{
+  "id": "Reid Hoffman",
+  "name": "Reid Hoffman",
+  "background": "Partner at Greylock Partners. Co-founder of LinkedIn.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "https://www.microsoft.com",
+      "logoUrl": "/companies-assets/MSFT.NASDAQ.svg",
+      "title": "Board Member",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "LinkedIn Corporation",
+      "ticker": "LNKD",
+      "exchange": "NYSE",
+      "website": "https://www.linkedin.com",
+      "logoUrl": "/companies-assets/LNKD.NYSE.svg",
+      "title": "Co-Founder, Executive Chairman, Board Member",
+      "startDate": "2002",
+      "endDate": "2016",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Reinvent Technology Partners (SPAC)",
+      "ticker": "RTP",
+      "exchange": "NYSE",
+      "website": "https://www.reinventtechnologypartners.com",
+      "logoUrl": "https://www.reinventtechnologypartners.com/wp-content/uploads/2020/09/RTP_Logo_Final_RGB.png",
+      "title": "Co-Founder, Director",
+      "startDate": "2020",
+      "endDate": "2021",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Reinvent Technology Partners Y (SPAC)",
+      "ticker": "RTPY",
+      "exchange": "NASDAQ",
+      "website": "https://www.reinventtechnologypartners.com",
+      "logoUrl": "/companies-assets/RTPY.NASDAQ.svg",
+      "title": "Co-Founder, Director",
+      "startDate": "2021",
+      "endDate": "2021",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Reinvent Technology Partners Z (SPAC)",
+      "ticker": "RTPZ",
+      "exchange": "NYSE",
+      "website": "https://www.reinventtechnologypartners.com",
+      "logoUrl": "/companies-assets/RTPZ.NYSE.svg",
+      "title": "Co-Founder, Director",
+      "startDate": "2020",
+      "endDate": "2021",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2021"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/reidhoffman",
+      "person_name": "Reid Hoffman",
+      "company_name": "LinkedIn",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Governance and Nominating Committee"
+  ],
+  "age": 57,
+  "ageYear": 2024
+}

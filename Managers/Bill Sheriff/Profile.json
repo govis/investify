@@ -1,0 +1,62 @@
+{
+  "name": "Bill Sheriff",
+  "first_name": "Bill",
+  "last_name": "Sheriff",
+  "age": 65,
+  "age_year": 2024,
+  "background": "Mr. Sheriff is a seasoned mining executive with over 30 years of experience. He was the founder and Chairman of Energy Metals Corp. and has held numerous board positions in the uranium sector.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Stallion Uranium Corp.",
+      "ticker": "STUD",
+      "exchange": "TSX.V",
+      "title_or_role": "Director",
+      "website": "https://www.stallionuranium.com",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "enCore Energy Corp.",
+      "ticker": "EU",
+      "exchange": "TSX.V / NASDAQ",
+      "website": "https://www.encoreuranium.com",
+      "title_or_role": "Executive Chairman",
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Golden Predator Mining Corp.",
+      "ticker": "GPY",
+      "exchange": "TSX.V",
+      "website": "https://www.goldenpredator.com",
+      "title_or_role": "President & CEO",
+      "start_date": "2009",
+      "end_date": "2021",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/william-bill-sheriff-10517217",
+      "person_name": "William (Bill) Sheriff",
+      "company_name": "enCore Energy Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

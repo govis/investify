@@ -1,0 +1,78 @@
+{
+  "id": "Jonathan Rubinstein",
+  "name": "Jonathan Rubinstein",
+  "background": "Former co-CEO of Bridgewater Associates and former Senior Vice President at Apple Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Amazon.com, Inc.",
+      "ticker": "AMZN",
+      "exchange": "NASDAQ",
+      "website": "https://www.amazon.com",
+      "logoUrl": "/companies-assets/AMZN.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2010-12",
+      "endDate": null,
+      "formattedStartDate": "December 2010",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Robinhood Markets, Inc.",
+      "ticker": "HOOD",
+      "exchange": "NASDAQ",
+      "website": "https://investors.robinhood.com",
+      "logoUrl": "/companies-assets/HOOD.NASDAQ.svg",
+      "title": "Lead Independent Director",
+      "startDate": "2021-05",
+      "endDate": null,
+      "formattedStartDate": "May 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Qualcomm Incorporated",
+      "ticker": "QCOM",
+      "exchange": "NASDAQ",
+      "website": "https://www.qualcomm.com",
+      "logoUrl": "/companies-assets/QCOM.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2013-05",
+      "endDate": "2016-05",
+      "formattedStartDate": "May 2013",
+      "formattedEndDate": "May 2016"
+    },
+    {
+      "name": "Palm, Inc.",
+      "ticker": "PALM",
+      "exchange": "NASDAQ",
+      "website": "https://www.palm.com",
+      "logoUrl": "/companies-assets/PALM.NASDAQ.svg",
+      "title": "Chief Executive Officer, President, and Chairman of the Board",
+      "startDate": "2007-10",
+      "endDate": "2010-07",
+      "formattedStartDate": "October 2007",
+      "formattedEndDate": "July 2010"
+    },
+    {
+      "name": "Immersion Corporation",
+      "ticker": "IMMR",
+      "exchange": "NASDAQ",
+      "website": "https://www.immersion.com",
+      "logoUrl": "/companies-assets/IMMR.NASDAQ.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 67,
+  "ageYear": 2024
+}

@@ -1,0 +1,51 @@
+{
+  "id": "Harry Barr",
+  "name": "Harry Barr",
+  "background": "Mr. Barr has been the Chairman and CEO of the Company since its inception. He has over 40 years of experience in the mining industry and has guided several companies from inception to production.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Freegold Ventures Limited",
+      "ticker": "FVL",
+      "exchange": "TSX",
+      "website": "https://freegoldventures.com/",
+      "logoUrl": "/companies-assets/FVL.TSX.png",
+      "title": "Founder, Chairman",
+      "startDate": "1985",
+      "endDate": "2007",
+      "formattedStartDate": "1985",
+      "formattedEndDate": "2007"
+    },
+    {
+      "name": "Fire River Gold Corp.",
+      "ticker": "FAU.H",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Founder, Chairman, President & Chief Executive Officer",
+      "startDate": "1997",
+      "endDate": "2011",
+      "formattedStartDate": "1997",
+      "formattedEndDate": "2011"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/harry-barr-9aa7a231",
+      "person_name": "Harry Barr",
+      "company_name": "New Age Metals Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 67,
+  "ageYear": 2024
+}

@@ -1,0 +1,77 @@
+{
+  "id": "Rhidwaan Gasant",
+  "name": "Rhidwaan Gasant",
+  "background": "Rhidwaan Gasant is an independent non-executive director. He was previously the CEO of Energy Africa Limited and has served on various boards including MTN Group.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AngloGold Ashanti plc",
+      "ticker": "AU",
+      "exchange": "NYSE",
+      "website": "https://www.anglogoldashanti.com",
+      "logoUrl": "/companies-assets/AU.NYSE.svg",
+      "title": "Lead Independent Director",
+      "startDate": "2019",
+      "endDate": "2023",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Sasol Limited",
+      "ticker": "SSL",
+      "exchange": "NYSE",
+      "website": "https://www.sasol.com",
+      "logoUrl": "/companies-assets/SSL.NYSE.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2026-02-01",
+      "endDate": null,
+      "formattedStartDate": "February 2026",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Growthpoint Properties Limited",
+      "ticker": "GRT",
+      "exchange": "JSE",
+      "website": "https://growthpoint.co.za",
+      "logoUrl": "/companies-assets/GRT.JSE.svg",
+      "title": "Chairman",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "MTN Nigeria Communications plc",
+      "ticker": "MTNN",
+      "exchange": "NGX",
+      "website": "https://www.mtn.ng",
+      "logoUrl": null,
+      "title": "Audit Committee Chairman",
+      "startDate": "2015-04-01",
+      "endDate": "2024-05-31",
+      "formattedStartDate": "April 2015",
+      "formattedEndDate": "May 2024"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://za.linkedin.com/in/rhidwaan-gasant-b480a69",
+      "person_name": "Rhidwaan Gasant",
+      "company_name": "Growthpoint Properties Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee",
+    "Investment Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

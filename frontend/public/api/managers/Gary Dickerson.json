@@ -1,0 +1,63 @@
+{
+  "id": "Gary Dickerson",
+  "name": "Gary Dickerson",
+  "background": "Gary E. Dickerson has been President and Chief Executive Officer of Applied Materials since September 2013 and a member of the Board of Directors since June 2013. Prior to joining Applied, he served as Chief Executive Officer of Varian Semiconductor Equipment Associates, Inc. from 2004 until its acquisition by Applied in 2011. He also spent 18 years at KLA-Tencor Corporation in various leadership roles.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Applied Materials, Inc.",
+      "ticker": "AMAT",
+      "exchange": "NASDAQ",
+      "website": "https://www.appliedmaterials.com",
+      "logoUrl": "/companies-assets/AMAT.NASDAQ.svg",
+      "title": "CEO & Director",
+      "startDate": "September 2013",
+      "endDate": null,
+      "formattedStartDate": "September 2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Varian Semiconductor Equipment Associates, Inc.",
+      "ticker": "VSEA",
+      "exchange": "NASDAQ",
+      "website": "https://www.varian.com",
+      "logoUrl": "/companies-assets/VSEA.NASDAQ.png",
+      "title": "CEO",
+      "startDate": "2004",
+      "endDate": "November 2011",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "November 2011"
+    },
+    {
+      "name": "KLA Corporation (formerly KLA-Tencor)",
+      "ticker": "KLAC",
+      "exchange": "NASDAQ",
+      "website": "https://www.kla.com",
+      "logoUrl": "/companies-assets/KLAC.NASDAQ.svg",
+      "title": "Various Operations/Product Roles",
+      "startDate": "1986",
+      "endDate": "1999",
+      "formattedStartDate": "1986",
+      "formattedEndDate": "1999"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gary-dickerson",
+      "person_name": "Gary Dickerson",
+      "company_name": "Applied Materials",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 67,
+  "ageYear": 2024
+}

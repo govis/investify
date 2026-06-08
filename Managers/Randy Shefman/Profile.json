@@ -1,0 +1,29 @@
+{
+  "name": "Randy Shefman",
+  "first_name": "Randy",
+  "last_name": "Shefman",
+  "age": 51,
+  "age_year": 2024,
+  "background": "Mr. Shefman has served as Vice President and General Counsel since 2020. He joined Royal Gold in 2011.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Royal Gold, Inc.",
+      "ticker": "RGLD",
+      "exchange": "NASDAQ",
+      "title_or_role": "Senior Vice President and General Counsel",
+      "website": "https://www.royalgold.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

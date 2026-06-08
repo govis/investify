@@ -1,0 +1,51 @@
+{
+  "id": "Jonathan Evans",
+  "name": "Jonathan Evans",
+  "background": "Mr. Evans has more than 20 years of operations and general management experience across the chemical and manufacturing industries. He previously served as President and CEO of Lithium Americas Corp. (now Lithium Americas (Argentina) Corp.) and has held executive roles at FMC Corporation and Arysta LifeScience.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lithium Americas Corp.",
+      "ticker": "LAC",
+      "exchange": "NYSE/TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and CEO",
+      "startDate": "August 2018",
+      "endDate": null,
+      "formattedStartDate": "August 2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "FMC Corporation",
+      "ticker": "FMC",
+      "exchange": "NYSE",
+      "website": "https://www.fmc.com",
+      "logoUrl": "/companies-assets/FMC.NYSE.svg",
+      "title": "Vice President and General Manager, Lithium Division",
+      "startDate": null,
+      "endDate": "2018",
+      "formattedStartDate": "",
+      "formattedEndDate": "2018"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jonathan-evans-93167712",
+      "person_name": "Jonathan Evans",
+      "company_name": "Lithium Americas Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 54,
+  "ageYear": 2024
+}

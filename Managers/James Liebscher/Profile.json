@@ -1,0 +1,40 @@
+{
+  "name": "James Liebscher",
+  "first_name": "James",
+  "last_name": "Liebscher",
+  "age": 43,
+  "age_year": 2024,
+  "background": "Mr. Liebscher has served as our Chief Legal Officer and Secretary since June 2023. He previously served as our General Counsel from 2021 to 2023. Before joining Solid Power, he was an attorney at Bryan Cave Leighton Paisner LLP.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Solid Power, Inc.",
+      "ticker": "SLDP",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chief Legal Officer and Secretary",
+      "website": "https://www.solidpowerbattery.com/",
+      "start_date": "2021",
+      "end_date": "2024",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jliebscher",
+      "person_name": "James Liebscher",
+      "company_name": "Solid Power, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

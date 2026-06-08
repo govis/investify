@@ -1,0 +1,51 @@
+{
+  "name": "Frederick Earnest",
+  "first_name": "Frederick",
+  "last_name": "Earnest",
+  "age": 63,
+  "age_year": 2024,
+  "background": "Mr. Earnest has served as President and Chief Executive Officer of Vista Gold Corp. since January 2012. He joined the company in 2006 as Senior Vice President and Project Manager, later becoming President and Chief Operating Officer in 2007. He has over 30 years of experience in the mining industry, including roles at Pacific Rim Mining Corp. and various engineering and management positions.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Vista Gold Corp.",
+      "ticker": "VGZ",
+      "exchange": "TSX / NYSE American",
+      "title_or_role": "President, Chief Executive Officer, and Director",
+      "website": "https://www.vistagold.com/",
+      "start_date": "2007",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Perpetua Resources Corp. (formerly Midas Gold Corp.)",
+      "ticker": "PPTA",
+      "exchange": "TSX",
+      "website": "https://www.perpetuaresources.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/frederick-earnest-72747386",
+      "person_name": "Frederick Earnest",
+      "company_name": "Vista Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

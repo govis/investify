@@ -1,0 +1,31 @@
+{
+  "name": "Arman Arshambayev",
+  "first_name": "Arman",
+  "last_name": "Arshambayev",
+  "age": 44,
+  "age_year": 2024,
+  "background": "Arman Arshambayev is the Chairman of the Board of Directors. He represents the interests of the majority shareholder, Samruk-Kazyna. He has significant experience in the public sector and corporate governance in Kazakhstan.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "National Atomic Company Kazatomprom JSC",
+      "ticker": "KAP",
+      "exchange": "London Stock Exchange",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://www.kazatomprom.kz",
+      "start_date": "2023-01-01",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Strategic Planning and Investment Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

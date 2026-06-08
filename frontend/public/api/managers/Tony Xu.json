@@ -1,0 +1,40 @@
+{
+  "id": "Tony Xu",
+  "name": "Tony Xu",
+  "background": "Co-founder and CEO of DoorDash, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "DoorDash, Inc.",
+      "ticker": "DASH",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Chair",
+      "startDate": "2020-11",
+      "endDate": null,
+      "formattedStartDate": "November 2020",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/xutony",
+      "person_name": "Tony Xu",
+      "company_name": "DoorDash",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 39,
+  "ageYear": 2024
+}

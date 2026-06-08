@@ -1,0 +1,103 @@
+{
+  "name": "Paula Rosput Reynolds",
+  "first_name": "Paula",
+  "last_name": "Rosput Reynolds",
+  "age": 67,
+  "age_year": 2024,
+  "background": "Paula Reynolds is the President and CEO of Preferential Ltd. She previously served as Vice Chairman and Chief Restructuring Officer of AIG and Chairman and CEO of Safeco Corporation.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "GE Vernova Inc.",
+      "ticker": "GEV",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.gevernova.com",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Delta Air Lines, Inc.",
+      "ticker": "DAL",
+      "exchange": "NYSE",
+      "website": "https://www.delta.com",
+      "title_or_role": "Director",
+      "start_date": "2004",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "TC Energy Corporation",
+      "ticker": "TRP",
+      "exchange": "NYSE / TSX",
+      "website": "https://www.tcenergy.com",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Linde plc",
+      "ticker": "LIN",
+      "exchange": "NYSE",
+      "website": "https://www.linde.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "BP p.l.c.",
+      "ticker": "BP",
+      "exchange": "NYSE / LSE",
+      "website": "https://www.bp.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2012",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "AGL Resources Inc.",
+      "ticker": "GAS",
+      "exchange": "NYSE",
+      "website": "https://www.southerncompany.com",
+      "title_or_role": "Chairman, President and Chief Executive Officer",
+      "start_date": "2002",
+      "end_date": "2007",
+      "validated": true
+    },
+    {
+      "name": "Safeco Corporation",
+      "ticker": "SAF",
+      "exchange": "NASDAQ",
+      "website": "https://www.libertymutual.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2006",
+      "end_date": "2008",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/paula-rosput-reynolds-0917aa8",
+      "person_name": "Paula Rosput Reynolds",
+      "company_name": "Preferential Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Governance & Public Affairs Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

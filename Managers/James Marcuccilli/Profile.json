@@ -1,0 +1,32 @@
+{
+  "name": "James Marcuccilli",
+  "first_name": "James",
+  "last_name": "Marcuccilli",
+  "age": 72,
+  "age_year": 2024,
+  "background": "President and Chief Executive Officer of STAR Financial Group.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Steel Dynamics, Inc.",
+      "ticker": "STLD",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.steeldynamics.com",
+      "start_date": "Unknown",
+      "end_date": "November 4, 2024",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee (Chair)"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

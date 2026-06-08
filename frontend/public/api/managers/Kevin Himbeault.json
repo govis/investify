@@ -1,0 +1,51 @@
+{
+  "id": "Kevin Himbeault",
+  "name": "Kevin Himbeault",
+  "background": "Mr. Himbeault is the Vice President, Operations and Regulatory Affairs. He has over 25 years of experience in the mining industry, with a focus on environmental management, regulatory compliance, and operations in the uranium sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Denison Mines Corp.",
+      "ticker": "DML",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice President, Operations & Regulatory Affairs",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCO",
+      "exchange": "TSX",
+      "website": "https://www.cameco.com",
+      "logoUrl": "/companies-assets/CCO.TSX.svg",
+      "title": "Manager, Maintenance & Operations",
+      "startDate": "2004",
+      "endDate": "2022",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2022"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/kevin-himbeault-78a33093",
+      "person_name": "Kevin Himbeault",
+      "company_name": "Denison Mines Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 52,
+  "ageYear": 2024
+}

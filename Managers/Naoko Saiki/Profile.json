@@ -1,0 +1,42 @@
+{
+  "name": "Naoko Saiki",
+  "first_name": "Naoko",
+  "last_name": "Saiki",
+  "age": 65,
+  "age_year": 2024,
+  "background": "Former Director-General of the Economic Affairs Bureau, Ministry of Foreign Affairs of Japan.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Komatsu Ltd.",
+      "ticker": "6301",
+      "exchange": "Tokyo Stock Exchange (TSE)",
+      "title_or_role": "Director (Outside Director)",
+      "website": "https://www.komatsu.jp/en",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "INPEX CORPORATION",
+      "ticker": "1605",
+      "exchange": "Tokyo Stock Exchange (TSE)",
+      "website": "https://www.inpex.co.jp/english/",
+      "title_or_role": "Independent Outside Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nomination Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

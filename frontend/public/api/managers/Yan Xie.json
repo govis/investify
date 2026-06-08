@@ -1,0 +1,38 @@
+{
+  "id": "Yan Xie",
+  "name": "Yan Xie",
+  "background": "Mr. Yan Xie has served as our chief technology officer since December 2022. Prior to joining our company, Mr. Xie served as a vice president of software engineering at Huawei Technologies Co., Ltd. and the chief architect of its Harmony OS. Prior to that, Mr. Xie worked at Intel and Baidu.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Li Auto Inc.",
+      "ticker": "LI",
+      "exchange": "NASDAQ",
+      "website": "https://www.lixiang.com",
+      "logoUrl": "/companies-assets/LI.NASDAQ.svg",
+      "title": "Chief Technology Officer",
+      "startDate": "Not publicly disclosed",
+      "endDate": null,
+      "formattedStartDate": "Not publicly disclosed",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/yan-xie-36104b14",
+      "person_name": "Yan Xie",
+      "company_name": "Li Auto Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 44,
+  "ageYear": 2024
+}

@@ -1,0 +1,52 @@
+{
+  "id": "Andrew McKnight",
+  "name": "Andrew McKnight",
+  "background": "Mr. McKnight is a Managing Partner of the Credit Funds at Fortress Investment Group LLC. He previously worked at Fir Tree Partners and Goldman Sachs.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "MP Materials Corp.",
+      "ticker": "MP",
+      "exchange": "NYSE",
+      "website": "https://mpmaterials.com",
+      "logoUrl": "/companies-assets/MP.NYSE.svg",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Fortress Value Acquisition Corp. II",
+      "ticker": "FAII",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "/companies-assets/FAII.NYSE.svg",
+      "title": "Director / CEO",
+      "startDate": "2020",
+      "endDate": "2021",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2021"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/drew-mcknight-0a81181/",
+      "person_name": "Andrew McKnight",
+      "company_name": "Fortress Investment Group",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1
+    }
+  ],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 46,
+  "ageYear": 2024
+}

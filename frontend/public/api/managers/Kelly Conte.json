@@ -1,0 +1,29 @@
+{
+  "id": "Kelly Conte",
+  "name": "Kelly Conte",
+  "background": "Former executive at Cisco Systems and various technology startups. Expert in sales and go-to-market strategies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Aspen Aerogels, Inc.",
+      "ticker": "ASPN",
+      "exchange": "NYSE",
+      "website": "https://www.aerogel.com/",
+      "logoUrl": "/companies-assets/ASPN.NYSE.svg",
+      "title": "Senior Vice President, Human Resources",
+      "startDate": "2018",
+      "endDate": "2023",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2023"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 55,
+  "ageYear": 2024
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Javier Olivan",
+  "first_name": "Javier",
+  "last_name": "Olivan",
+  "age": 46,
+  "age_year": 2024,
+  "background": "Javier Olivan has served as our Chief Operating Officer since August 2022. He joined the company in 2007 and previously served as Chief Growth Officer.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Meta Platforms, Inc.",
+      "ticker": "META",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chief Operating Officer",
+      "website": "meta.com",
+      "start_date": "2022-08",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "MercadoLibre, Inc.",
+      "ticker": "MELI",
+      "exchange": "NASDAQ",
+      "website": "mercadolibre.com",
+      "title_or_role": "Director / Board Member",
+      "start_date": "2012-12",
+      "end_date": "2019-08",
+      "validated": true
+    },
+    {
+      "name": "Vy Global Growth",
+      "ticker": "VYGG",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Director / Board Member",
+      "start_date": "2020-10",
+      "end_date": "2022-03",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/javierolivan",
+      "person_name": "Javier Olivan",
+      "company_name": "Meta",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

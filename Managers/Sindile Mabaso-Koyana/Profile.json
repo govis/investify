@@ -1,0 +1,72 @@
+{
+  "name": "Sindile Mabaso-Koyana",
+  "first_name": "Sindile",
+  "last_name": "Mabaso-Koyana",
+  "age": 54,
+  "age_year": 2023,
+  "background": "Sindile Mabaso-Koyana was appointed as an independent non-executive director on 24 February 2021. She is a Chartered Accountant with over 20 years of experience in finance and governance.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Sibanye Stillwater Limited",
+      "ticker": "SSW",
+      "exchange": "JSE",
+      "title_or_role": "Independent Non-Executive Director",
+      "website": "sibanyestillwater.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "MTN Group Limited",
+      "ticker": "MTN",
+      "exchange": "JSE",
+      "website": "mtn.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2020-09-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sun International Limited",
+      "ticker": "SUI",
+      "exchange": "JSE",
+      "website": "corporate.suninternational.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Bidvest Group Limited",
+      "ticker": "BVT",
+      "exchange": "JSE",
+      "website": "bidvest.co.za",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://za.linkedin.com/in/sindi-mabaso-koyana-4514bba3",
+      "person_name": "Sindile Mabaso-Koyana",
+      "company_name": "Sibanye Stillwater Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

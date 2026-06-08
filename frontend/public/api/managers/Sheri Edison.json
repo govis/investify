@@ -1,0 +1,89 @@
+{
+  "id": "Sheri Edison",
+  "name": "Sheri Edison",
+  "background": "Former Executive Vice President and General Counsel of Amcor plc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Union Pacific Corporation",
+      "ticker": "UNP",
+      "exchange": "NYSE",
+      "website": "https://www.up.com",
+      "logoUrl": "/companies-assets/UNP.NYSE.svg",
+      "title": "Director",
+      "startDate": "December 2021",
+      "endDate": null,
+      "formattedStartDate": "December 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cardinal Health, Inc.",
+      "ticker": "CAH",
+      "exchange": "NYSE",
+      "website": "https://www.cardinalhealth.com",
+      "logoUrl": "/companies-assets/CAH.NYSE.svg",
+      "title": "Director",
+      "startDate": "September 2020",
+      "endDate": null,
+      "formattedStartDate": "September 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Amcor plc",
+      "ticker": "AMCR",
+      "exchange": "NYSE",
+      "website": "www.amcor.com",
+      "logoUrl": "/companies-assets/AMCR.NYSE.svg",
+      "title": "Executive Vice President and General Counsel",
+      "startDate": "June 2019",
+      "endDate": "2021",
+      "formattedStartDate": "June 2019",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Bemis Company, Inc.",
+      "ticker": "BMS",
+      "exchange": "NYSE",
+      "website": "bemis.com",
+      "logoUrl": "/companies-assets/BMS.NYSE.webp",
+      "title": "Senior Vice President, Chief Legal Officer and Secretary",
+      "startDate": "2010",
+      "endDate": "June 2019",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "June 2019"
+    },
+    {
+      "name": "AK Steel Holding Corporation",
+      "ticker": "AKS",
+      "exchange": "NYSE",
+      "website": "N/A",
+      "logoUrl": "/companies-assets/AKS.NYSE.png",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": "2020",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2020"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sheri-edison-7b9a5925",
+      "person_name": "Sheri Edison",
+      "company_name": "Amcor plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Governance Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

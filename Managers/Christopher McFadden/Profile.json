@@ -1,0 +1,62 @@
+{
+  "name": "Christopher McFadden",
+  "first_name": "Christopher",
+  "last_name": "McFadden",
+  "age": 54,
+  "age_year": 2024,
+  "background": "Mr. McFadden is a lawyer with over 20 years of experience in the mining industry, currently serving as Chairman of NexGen Energy.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "IsoEnergy Ltd.",
+      "ticker": "ISO",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "https://isoenergy.ca/",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "IsoEnergy Ltd.",
+      "ticker": "ISO",
+      "exchange": "TSXV",
+      "title_or_role": "Independent Director",
+      "website": "https://www.isoenergy.ca",
+      "start_date": "2016-02-02",
+      "end_date": null
+    },
+    {
+      "name": "NexGen Energy Ltd.",
+      "ticker": "NXE",
+      "exchange": "TSX / NYSE",
+      "title_or_role": "Director and Chairman of the Board",
+      "website": "https://www.nexgenenergy.ca/",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NexGen Energy Ltd.",
+      "ticker": "NXE",
+      "exchange": "TSX",
+      "title_or_role": "Chairman",
+      "website": "https://www.nexgenenergy.ca",
+      "start_date": "2013-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee",
+    "Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

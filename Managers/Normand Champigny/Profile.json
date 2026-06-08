@@ -1,0 +1,73 @@
+{
+  "name": "Normand Champigny",
+  "first_name": "Normand",
+  "last_name": "Champigny",
+  "age": 66,
+  "age_year": 2024,
+  "background": "Mr. Champigny is a geological engineer with over 40 years of experience. He is currently the CEO of Quebec Precious Metals Corporation.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "G Mining Ventures Corp.",
+      "ticker": "GMIN",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "https://gminingventures.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Qu\u00e9bec Precious Metals Corporation",
+      "ticker": "QPM",
+      "exchange": "TSXV",
+      "website": "https://qpmcorp.ca",
+      "title_or_role": "CEO and Director",
+      "start_date": "2018",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Sphinx Resources Ltd.",
+      "ticker": "SFX",
+      "exchange": "TSXV",
+      "website": "https://sphinxresources.ca",
+      "title_or_role": "President and CEO",
+      "start_date": "2012",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Bonterra Resources Inc.",
+      "ticker": "BTR",
+      "exchange": "TSXV",
+      "website": "https://btrgold.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": "2020",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/normandchampigny",
+      "person_name": "Normand Champigny",
+      "company_name": "Qu\u00e9bec Precious Metals Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

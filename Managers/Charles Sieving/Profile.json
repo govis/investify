@@ -1,0 +1,39 @@
+{
+  "name": "Charles Sieving",
+  "first_name": "Charles",
+  "last_name": "Sieving",
+  "age": 49,
+  "age_year": 2024,
+  "background": "Mr. Sieving is Executive Vice President and General Counsel of NextEra Energy. He is responsible for the legal, corporate secretary, and compliance functions.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "NextEra Energy, Inc.",
+      "ticker": "NEE",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Vice President, Chief Legal, Environmental and Federal Regulatory Affairs Officer",
+      "website": "https://www.nexteraenergy.com",
+      "start_date": "December 2008",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "PAETEC Holding Corp.",
+      "ticker": "PAET",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Executive Vice President, General Counsel and Secretary",
+      "start_date": "Prior to 2008",
+      "end_date": "2008",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

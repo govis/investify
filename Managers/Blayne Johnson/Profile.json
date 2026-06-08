@@ -1,0 +1,50 @@
+{
+  "name": "Blayne Johnson",
+  "first_name": "Blayne",
+  "last_name": "Johnson",
+  "age": 59,
+  "age_year": 2024,
+  "background": "Mr. Johnson has over 30 years of experience in the capital markets and mining sector. He was a founder of Newmarket Gold and has been involved in numerous successful mining ventures.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Calibre Mining Corp.",
+      "ticker": "CXB",
+      "exchange": "TSX",
+      "title_or_role": "Chairman and Director",
+      "website": "https://calibremining.com",
+      "start_date": "2019-10-15",
+      "end_date": null
+    },
+    {
+      "name": "Newcore Gold Ltd.",
+      "ticker": "NCAU",
+      "exchange": "TSXV",
+      "website": "https://newcoregold.com/",
+      "title_or_role": "Lead Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Equinox Gold Corp.",
+      "ticker": "EQX",
+      "exchange": "TSX/NYSE",
+      "website": "https://www.equinoxgold.com/",
+      "title_or_role": "Director",
+      "start_date": "2025-06-17",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

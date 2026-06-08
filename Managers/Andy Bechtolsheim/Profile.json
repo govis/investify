@@ -1,0 +1,39 @@
+{
+  "name": "Andy Bechtolsheim",
+  "first_name": "Andy",
+  "last_name": "Bechtolsheim",
+  "age": 68,
+  "age_year": 2024,
+  "background": "Andy Bechtolsheim is a co-founder of Arista and has served as our Chief Architect since 2008. He also served as Chairman of the Board from 2008 to 2018. Prior to Arista, Mr. Bechtolsheim was a co-founder of Sun Microsystems and Granite Systems. He is a renowned hardware architect and was one of the first investors in Google. Mr. Bechtolsheim holds an M.S. in Computer Engineering from Carnegie Mellon University.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Arista Networks, Inc.",
+      "ticker": "ANET",
+      "exchange": "NYSE",
+      "title_or_role": "Founder, Chairman, Chief Development Officer",
+      "website": "www.arista.com",
+      "start_date": "2004",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Sun Microsystems, Inc.",
+      "ticker": "SUNW (Delisted)",
+      "exchange": "NASDAQ (Historical)",
+      "website": "N/A",
+      "title_or_role": "Co-Founder, Vice President",
+      "start_date": "1982",
+      "end_date": "1995",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

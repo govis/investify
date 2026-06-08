@@ -1,0 +1,50 @@
+{
+  "name": "Paul Skayman",
+  "first_name": "Paul",
+  "last_name": "Skayman",
+  "age": 63,
+  "age_year": 2024,
+  "background": "Paul Skayman is a mining engineer with over 35 years of experience in the mining industry. He has been with Eldorado since 2005 and has held various senior roles including Vice President, Operations and Chief Operating Officer.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Eldorado Gold Corporation",
+      "ticker": "EGO",
+      "exchange": "NYSE",
+      "title_or_role": "Chief Operating Officer",
+      "website": "https://www.eldoradogold.com",
+      "start_date": "2012-07",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Afcan Mining Corporation",
+      "ticker": "AFK",
+      "exchange": "TSX-V",
+      "website": null,
+      "title_or_role": "Senior Management/Leadership",
+      "start_date": "Pre-2005",
+      "end_date": "2005",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/paul-skayman",
+      "person_name": "Paul Skayman",
+      "company_name": "Eldorado Gold Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

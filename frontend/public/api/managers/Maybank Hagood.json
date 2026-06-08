@@ -1,0 +1,53 @@
+{
+  "id": "Maybank Hagood",
+  "name": "Maybank Hagood",
+  "background": "Chief Executive Officer of Southern States Packaging Company. Director since 2019.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Dominion Energy, Inc.",
+      "ticker": "D",
+      "exchange": "NYSE",
+      "website": "https://www.dominionenergy.com",
+      "logoUrl": "/companies-assets/D.NYSE.svg",
+      "title": "Director",
+      "startDate": "2019-02-15",
+      "endDate": null,
+      "formattedStartDate": "February 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "SCANA Corporation",
+      "ticker": "SCG",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "/companies-assets/SCG.NYSE.svg",
+      "title": "Director",
+      "startDate": "1999",
+      "endDate": "2019",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2019"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/maybank-hagood-428791",
+      "person_name": "Maybank Hagood",
+      "company_name": "Southern States Packaging Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Sustainability and Corporate Responsibility Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

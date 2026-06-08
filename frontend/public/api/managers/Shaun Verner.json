@@ -1,0 +1,50 @@
+{
+  "id": "Shaun Verner",
+  "name": "Shaun Verner",
+  "background": "Shaun Verner is a mining executive with over 30 years of experience in the resources industry. Prior to joining Syrah, he held senior roles at BHP, including in marketing, sales, and strategy. He has extensive experience in international markets and commodity trading.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Syrah Resources Limited",
+      "ticker": "SYR",
+      "exchange": "ASX",
+      "website": "https://www.syrahresources.com.au",
+      "logoUrl": "/companies-assets/SYR.ASX.png",
+      "title": "Managing Director and Chief Executive Officer",
+      "startDate": "February 2017",
+      "endDate": null,
+      "formattedStartDate": "February 2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX / NYSE / LSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice President, Marketing (Coal and Base Metals)",
+      "startDate": "Prior to 2012",
+      "endDate": "February 2017",
+      "formattedStartDate": "Prior to 2012",
+      "formattedEndDate": "February 2017"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/shaun-verner-854272b",
+      "person_name": "Shaun Verner",
+      "company_name": "Syrah Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 54,
+  "ageYear": 2023
+}

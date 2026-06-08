@@ -1,0 +1,50 @@
+{
+  "id": "Bill MacNevin",
+  "name": "Bill MacNevin",
+  "background": "Mr. MacNevin was appointed Executive Vice President, Operations and Sustainability in 2023. He has over 35 years of experience in the mining industry, including roles at Newmont and Barrick Gold.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "SSR Mining Inc.",
+      "ticker": "SSRM",
+      "exchange": "NASDAQ",
+      "website": "https://www.ssrmining.com",
+      "logoUrl": "/companies-assets/SSRM.NASDAQ.svg",
+      "title": "Executive Vice President, Operations and Sustainability",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "formattedStartDate": "January 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Barrick Gold Corporation",
+      "ticker": "GOLD",
+      "exchange": "NYSE",
+      "website": "https://www.barrick.com",
+      "logoUrl": "/companies-assets/GOLD.NYSE.svg",
+      "title": "Chief Executive Officer, Barrick Nevada",
+      "startDate": null,
+      "endDate": "2022-12-31",
+      "formattedStartDate": "",
+      "formattedEndDate": "December 2022"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bill-macnevin-a4a25b61",
+      "person_name": "Bill MacNevin",
+      "company_name": "SSR Mining Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 62,
+  "ageYear": 2024
+}

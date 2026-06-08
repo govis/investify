@@ -1,0 +1,82 @@
+{
+  "name": "Kasper R\u00f8rsted",
+  "first_name": "Kasper",
+  "last_name": "R\u00f8rsted",
+  "age": 62,
+  "age_year": 2024,
+  "background": "Kasper R\u00f8rsted was the CEO of Adidas and previously the CEO of Henkel. He has extensive experience in global consumer goods and digital transformation.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "A.P. M\u00f8ller - M\u00e6rsk A/S",
+      "ticker": "AMKBY",
+      "exchange": "OTC",
+      "title_or_role": "Member of the Board",
+      "website": "https://www.maersk.com",
+      "start_date": "2023-03-28",
+      "end_date": null
+    },
+    {
+      "name": "Siemens Aktiengesellschaft",
+      "ticker": "SIEGY",
+      "exchange": "OTC",
+      "title_or_role": "Member of the Supervisory Board",
+      "website": "https://www.siemens.com",
+      "start_date": "2021-02-03",
+      "end_date": null
+    },
+    {
+      "name": "Adidas AG",
+      "ticker": "ADS",
+      "exchange": "Xetra",
+      "website": "https://www.adidas-group.com",
+      "title_or_role": "Chief Executive Officer (CEO)",
+      "start_date": "2016",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Henkel AG & Co. KGaA",
+      "ticker": "HEN3",
+      "exchange": "Xetra",
+      "website": "https://www.henkel.com",
+      "title_or_role": "Executive Vice President (2005\u20132007); Vice Chairman of the Management Board (2007\u20132008); Chief Executive Officer (2008\u20132016)",
+      "start_date": "2005",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Nestl\u00e9 S.A.",
+      "ticker": "NESN",
+      "exchange": "SIX Swiss Exchange",
+      "website": "https://www.nestle.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2018",
+      "end_date": "2022",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kasper-r%C3%B8rsted-4a5b5a1/",
+      "person_name": "Kasper R\u00f8rsted",
+      "company_name": "Adidas AG",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Member of the Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

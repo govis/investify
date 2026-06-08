@@ -1,0 +1,54 @@
+{
+  "id": "Michael Szymanczyk",
+  "name": "Michael Szymanczyk",
+  "background": "Retired Chairman and Chief Executive Officer of Altria Group, Inc. Director since 2012.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Altria Group, Inc.",
+      "ticker": "MO",
+      "exchange": "NYSE",
+      "website": "https://www.altria.com",
+      "logoUrl": "/companies-assets/MO.NYSE.svg",
+      "title": "Chairman and CEO",
+      "startDate": "2008",
+      "endDate": "2012",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "Philip Morris Companies Inc. (now Altria Group, Inc.)",
+      "ticker": "MO",
+      "exchange": "NYSE",
+      "website": "https://www.altria.com",
+      "logoUrl": "/companies-assets/MO.NYSE.svg",
+      "title": "Chairman and CEO",
+      "startDate": "2002-04",
+      "endDate": "2002-08",
+      "formattedStartDate": "April 2002",
+      "formattedEndDate": "August 2002"
+    },
+    {
+      "name": "Duke Realty Corporation",
+      "ticker": "DRE",
+      "exchange": "NYSE",
+      "website": "https://www.prologis.com",
+      "logoUrl": "/companies-assets/DRE.NYSE.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": "2022",
+      "formattedStartDate": "",
+      "formattedEndDate": "2022"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation and Talent Development Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 75,
+  "ageYear": 2024
+}

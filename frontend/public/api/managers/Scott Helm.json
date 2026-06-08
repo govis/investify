@@ -1,0 +1,40 @@
+{
+  "id": "Scott Helm",
+  "name": "Scott Helm",
+  "background": "Mr. Helm has served as Chairman of the Board since 2022 and as a director since 2016. He is a private investor and was previously a co-founder of Helm, Cullar & Hanley, LLC.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Vistra Corp.",
+      "ticker": "VST",
+      "exchange": "NYSE",
+      "website": "https://www.vistracorp.com",
+      "logoUrl": "/companies-assets/VST.NYSE.svg",
+      "title": "Chairman of the Board",
+      "startDate": "July 2017",
+      "endDate": null,
+      "formattedStartDate": "July 2017",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/scott-leighton-helm",
+      "person_name": "Scott Helm",
+      "company_name": "Vistra Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Executive Committee"
+  ],
+  "age": 59,
+  "ageYear": 2024
+}

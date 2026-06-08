@@ -1,0 +1,63 @@
+{
+  "id": "Renaud Adams",
+  "name": "Renaud Adams",
+  "background": "Mr. Adams has over 30 years of experience in the mining industry. Prior to joining IAMGOLD, he was President and CEO of New Gold Inc. and previously served as President and CEO of Richmont Mines Inc. until its sale to Alamos Gold in 2017.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "IAMGOLD Corporation",
+      "ticker": "IMG",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and Chief Executive Officer",
+      "startDate": "2023-04-03",
+      "endDate": null,
+      "formattedStartDate": "April 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "New Gold Inc.",
+      "ticker": "NGD",
+      "exchange": "TSX",
+      "website": "newgold.com",
+      "logoUrl": "/companies-assets/NGD.TSX.svg",
+      "title": "President and Chief Executive Officer",
+      "startDate": "2018-09-12",
+      "endDate": "2022-11-23",
+      "formattedStartDate": "September 2018",
+      "formattedEndDate": "November 2022"
+    },
+    {
+      "name": "Richmont Mines Inc.",
+      "ticker": "RIC",
+      "exchange": "TSX",
+      "website": "richmont-mines.com",
+      "logoUrl": "https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1483566138/q5q3q1q2q3q4q5q6q7q8q9.png",
+      "title": "President and Chief Executive Officer",
+      "startDate": "2014",
+      "endDate": "2017-11",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "November 2017"
+    },
+    {
+      "name": "Omai Gold Mines Corp.",
+      "ticker": "OMG",
+      "exchange": "TSXV",
+      "website": "https://www.omaigoldmines.com/",
+      "logoUrl": "/companies-assets/OMG.TSXV.png",
+      "title": "Chairman of the Board",
+      "startDate": "2024-05-22",
+      "endDate": null,
+      "formattedStartDate": "May 2024",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 53,
+  "ageYear": 2024
+}

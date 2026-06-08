@@ -1,0 +1,53 @@
+{
+  "id": "Kavitha Mariappan",
+  "name": "Kavitha Mariappan",
+  "background": "Kavitha Mariappan has been a director since 2022. She is the Executive Vice President, Customer Experience and Transformation at Zscaler, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Zscaler, Inc.",
+      "ticker": "ZS",
+      "exchange": "NASDAQ",
+      "website": "https://www.zscaler.com",
+      "logoUrl": "/companies-assets/ZS.NASDAQ.svg",
+      "title": "Executive Vice President, Customer Experience and Transformation",
+      "startDate": "October 2018",
+      "endDate": null,
+      "formattedStartDate": "October 2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Rubrik, Inc.",
+      "ticker": "RBRK",
+      "exchange": "NYSE",
+      "website": "https://www.rubrik.com",
+      "logoUrl": "/companies-assets/RBRK.NYSE.svg",
+      "title": "Chief Transformation Officer",
+      "startDate": "April 2025",
+      "endDate": null,
+      "formattedStartDate": "April 2025",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kmariappan",
+      "person_name": "Kavitha Mariappan",
+      "company_name": "Zscaler",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 51,
+  "ageYear": 2024
+}

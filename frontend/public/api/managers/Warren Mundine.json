@@ -1,0 +1,40 @@
+{
+  "id": "Warren Mundine",
+  "name": "Warren Mundine",
+  "background": "Mr Mundine is a prominent Australian businessman and political figure with extensive experience in the mining and resources sector, particularly in relation to Indigenous engagement and corporate governance.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Aura Energy Limited",
+      "ticker": "AEE",
+      "exchange": "ASX",
+      "website": "https://auraenergy.com.au/",
+      "logoUrl": "/companies-assets/AEE.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/nyunggai",
+      "person_name": "Warren Mundine",
+      "company_name": "Aura Energy Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Remuneration and Nomination Committee"
+  ],
+  "age": null,
+  "ageYear": null
+}

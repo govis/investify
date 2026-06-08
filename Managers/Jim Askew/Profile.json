@@ -1,0 +1,72 @@
+{
+  "name": "Jim Askew",
+  "first_name": "Jim",
+  "last_name": "Askew",
+  "age": 76,
+  "age_year": 2024,
+  "background": "Mr. Askew is a mining engineer with over 40 years\u2019 experience as a Director and Chief Executive Officer of Australian and international publicly listed mining companies.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Evolution Mining Limited",
+      "ticker": "EVN",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://evolutionmining.com.au",
+      "start_date": "2011-10-01",
+      "end_date": null
+    },
+    {
+      "name": "Syrah Resources Limited",
+      "ticker": "SYR",
+      "exchange": "ASX",
+      "website": "https://syrahresources.com.au/",
+      "title_or_role": "Chairman",
+      "start_date": "2014-11",
+      "end_date": "2025-12-31",
+      "validated": true
+    },
+    {
+      "name": "Robex Resources Inc.",
+      "ticker": "RBX",
+      "exchange": "TSXV",
+      "website": "https://robexgold.com/",
+      "title_or_role": "Non-Executive Chairman",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Endeavour Mining Corporation",
+      "ticker": "EDV",
+      "exchange": "TSX",
+      "website": "https://www.endeavourmining.com/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2017-07",
+      "end_date": "2023-05",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jim-askew-64084370",
+      "person_name": "Jim Askew",
+      "company_name": "Syrah Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Nomination and Remuneration Committee",
+    "Risk and Sustainability Committee (Chair)"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

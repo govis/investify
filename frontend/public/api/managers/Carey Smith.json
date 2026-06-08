@@ -1,0 +1,50 @@
+{
+  "id": "Carey Smith",
+  "name": "Carey Smith",
+  "background": "Ms. Smith has served as our Chair, President and Chief Executive Officer since April 2022. She previously served as our President and Chief Executive Officer from July 2021 to April 2022, and as our President and Chief Operating Officer from 2018 to 2021. She joined Parsons in 2016 as President of the Federal Solutions business unit.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Parsons Corporation",
+      "ticker": "PSN",
+      "exchange": "NYSE",
+      "website": "https://www.parsons.com",
+      "logoUrl": "/companies-assets/PSN.NYSE.svg",
+      "title": "Chairwoman, President, and Chief Executive Officer",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Edison International",
+      "ticker": "EIX",
+      "exchange": "NYSE",
+      "website": "https://www.edison.com",
+      "logoUrl": "/companies-assets/EIX.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "October 24, 2019",
+      "endDate": null,
+      "formattedStartDate": "October 24, 2019",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/carey-smith-7545a613/",
+      "person_name": "Carey Smith",
+      "company_name": "Parsons Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/C4E03AQG1_5_5_5_5/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517500000000?e=1720000000&v=beta&t=example_url_pattern",
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 60,
+  "ageYear": 2024
+}

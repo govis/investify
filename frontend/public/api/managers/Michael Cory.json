@@ -1,0 +1,50 @@
+{
+  "id": "Michael Cory",
+  "name": "Michael Cory",
+  "background": "Executive Vice President and Chief Operating Officer since September 2023. Former Executive Vice President and Chief Operating Officer of Canadian National Railway Company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "CSX Corporation",
+      "ticker": "CSX",
+      "exchange": "NASDAQ",
+      "website": "https://www.csx.com",
+      "logoUrl": "/companies-assets/CSX.NASDAQ.svg",
+      "title": "Executive Vice President and Chief Operating Officer",
+      "startDate": "September 2023",
+      "endDate": null,
+      "formattedStartDate": "September 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Canadian National Railway Company",
+      "ticker": "CNI",
+      "exchange": "NYSE / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Vice President and Chief Operating Officer",
+      "startDate": "1981",
+      "endDate": "2019",
+      "formattedStartDate": "1981",
+      "formattedEndDate": "2019"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michael-cory-108b992b",
+      "person_name": "Michael Cory",
+      "company_name": "CSX Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

@@ -1,0 +1,43 @@
+{
+  "id": "David McClanahan",
+  "name": "David McClanahan",
+  "background": "Mr. McClanahan has served as Chairman of the Board since May 2022. He was formerly the President and CEO of CenterPoint Energy, Inc. from 2002 to 2013.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Quanta Services, Inc.",
+      "ticker": "PWR",
+      "exchange": "NYSE",
+      "website": "https://www.quantaservices.com",
+      "logoUrl": "/companies-assets/PWR.NYSE.png",
+      "title": "Chairman of the Board of Directors",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "CenterPoint Energy, Inc.",
+      "ticker": "CNP",
+      "exchange": "NYSE",
+      "website": "https://www.centerpointenergy.com",
+      "logoUrl": "/companies-assets/CNP.NYSE.svg",
+      "title": "President and Chief Executive Officer",
+      "startDate": "2002",
+      "endDate": "2013",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "2013"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Governance and Nominating Committee"
+  ],
+  "age": 74,
+  "ageYear": 2024
+}

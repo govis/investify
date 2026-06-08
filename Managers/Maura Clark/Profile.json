@@ -1,0 +1,73 @@
+{
+  "name": "Maura Clark",
+  "first_name": "Maura",
+  "last_name": "Clark",
+  "age": 65,
+  "age_year": 2024,
+  "background": "Ms. Clark is a former Managing Director of Investment Banking at Goldman Sachs and has extensive experience in finance and capital markets.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Newmont Corporation",
+      "ticker": "NEM",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.newmont.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Fortis Inc.",
+      "ticker": "FTS",
+      "exchange": "TSX",
+      "website": "https://www.fortisinc.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nutrien Ltd.",
+      "ticker": "NTR",
+      "exchange": "TSX / NYSE",
+      "website": "https://www.nutrien.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Centrica PLC",
+      "ticker": "CNA",
+      "exchange": "LSE",
+      "website": "https://www.centrica.com",
+      "title_or_role": "President, Direct Energy Business",
+      "start_date": "2013",
+      "end_date": "2016",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/maura-clark-5831244",
+      "person_name": "Maura Clark",
+      "company_name": "Newmont Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

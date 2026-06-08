@@ -1,0 +1,30 @@
+{
+  "name": "Jeff Lord",
+  "first_name": "Jeff",
+  "last_name": "Lord",
+  "age": 68,
+  "age_year": 2024,
+  "background": "Former CEO of various technology companies. Director since 2008.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Adobe Inc.",
+      "ticker": "ADBE",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.adobe.com",
+      "start_date": "2008-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Executive Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

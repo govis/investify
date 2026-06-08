@@ -1,0 +1,65 @@
+{
+  "id": "Jinhee Magie",
+  "name": "Jinhee Magie",
+  "background": "Ms. Magie is the CFO and Senior Vice President of Lundin Mining Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lithium Americas Corp.",
+      "ticker": "LAC",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "June 2021",
+      "endDate": null,
+      "formattedStartDate": "June 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Star Royalties Ltd.",
+      "ticker": "STRR",
+      "exchange": "TSXV",
+      "website": "https://www.starroyalties.com/",
+      "logoUrl": "/companies-assets/STRR.TSXV.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Lundin Mining Corporation",
+      "ticker": "LUN (TSX) / LUMI (STO)",
+      "exchange": "TSX / STO",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director, Finance",
+      "startDate": "September 2008",
+      "endDate": "Prior to Vice President role",
+      "formattedStartDate": "September 2008",
+      "formattedEndDate": "Prior to Vice President role"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/jinhee-magie-8b435512",
+      "person_name": "Jinhee Magie",
+      "company_name": "Lundin Mining Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 55,
+  "ageYear": 2024
+}

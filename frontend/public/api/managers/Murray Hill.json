@@ -1,0 +1,50 @@
+{
+  "id": "Murray Hill",
+  "name": "Murray Hill",
+  "background": "Mr Hill is a highly experienced mining executive with over 35 years' experience in the mining industry. He is a metallurgist and has extensive experience in the design, construction and operation of mining projects. He has held senior executive roles with several ASX listed companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Elevate Uranium Limited",
+      "ticker": "EL8",
+      "exchange": "ASX",
+      "website": "https://www.elevateuranium.com.au",
+      "logoUrl": "/companies-assets/EL8.ASX.svg",
+      "title": "Managing Director & CEO",
+      "startDate": "May 2012",
+      "endDate": null,
+      "formattedStartDate": "May 2012",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Marenica Energy Limited",
+      "ticker": "MEY",
+      "exchange": "ASX",
+      "website": "https://www.elevateuranium.com.au/",
+      "logoUrl": "/companies-assets/MEY.ASX.svg",
+      "title": "Managing Director & CEO",
+      "startDate": "May 2012",
+      "endDate": "2021",
+      "formattedStartDate": "May 2012",
+      "formattedEndDate": "2021"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/murray-hill-4a5b2a1a/",
+      "person_name": "Murray Hill",
+      "company_name": "Elevate Uranium Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

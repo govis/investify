@@ -1,0 +1,54 @@
+{
+  "id": "Silvio Napoli",
+  "name": "Silvio Napoli",
+  "background": "Executive Chairman of the Board of Directors of Schindler Holding Ltd. since 2017. He has held various leadership roles at Schindler since 1994.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lucid Group, Inc.",
+      "ticker": "LCID",
+      "exchange": "NASDAQ",
+      "website": "https://www.lucidmotors.com",
+      "logoUrl": "/companies-assets/LCID.NASDAQ.svg",
+      "title": "Chief Executive Officer and Member of the Board of Directors",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Schindler Holding Ltd.",
+      "ticker": "SCHN",
+      "exchange": "SIX Swiss Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman and Chief Executive Officer",
+      "startDate": "1993",
+      "endDate": "2024",
+      "formattedStartDate": "1993",
+      "formattedEndDate": "2024"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/silvio-napoli",
+      "person_name": "Silvio Napoli",
+      "company_name": "Schindler Holding Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation and Organization",
+    "Finance"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

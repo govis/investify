@@ -1,0 +1,80 @@
+{
+  "name": "Mark Pitts",
+  "first_name": "Mark",
+  "last_name": "Pitts",
+  "age": 62,
+  "age_year": 2024,
+  "background": "Mr. Pitts is a Fellow of the Institute of Chartered Accountants with more than 30 years' experience in statutory reporting and corporate compliance. He is a Partner in the corporate advisory firm Endeavour Corporate.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Deep Yellow Limited",
+      "ticker": "DYL",
+      "exchange": "ASX",
+      "title_or_role": "Company Secretary / CFO",
+      "website": "https://www.deepyellow.com.au/",
+      "start_date": "2003",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Variscan Mines Limited",
+      "ticker": "VAR",
+      "exchange": "ASX",
+      "website": "https://www.variscan.com.au/",
+      "title_or_role": "Company Secretary",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "GWR Group Limited",
+      "ticker": "GWR",
+      "exchange": "ASX",
+      "website": "https://gwrgroup.com.au/",
+      "title_or_role": "Company Secretary",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Alliance Nickel Limited",
+      "ticker": "AXN",
+      "exchange": "ASX",
+      "website": "https://alliancenickel.com.au/",
+      "title_or_role": "Company Secretary",
+      "start_date": "2009",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Black Cat Syndicate Limited",
+      "ticker": "BC8",
+      "exchange": "ASX",
+      "website": "https://www.blackcatsyndicate.com.au/",
+      "title_or_role": "Joint Company Secretary",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/markaripitts",
+      "person_name": "Mark Pitts",
+      "company_name": "Deep Yellow Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

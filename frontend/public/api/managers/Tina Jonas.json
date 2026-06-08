@@ -1,0 +1,54 @@
+{
+  "id": "Tina Jonas",
+  "name": "Tina Jonas",
+  "background": "Former Under Secretary of Defense (Comptroller) and CFO for the Department of Defense. She has held senior positions at United Technologies and Lumina Analytics.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Leidos Holdings, Inc.",
+      "ticker": "LDOS",
+      "exchange": "NYSE",
+      "website": "https://www.leidos.com",
+      "logoUrl": "/companies-assets/LDOS.NYSE.svg",
+      "title": "Director",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Virgin Galactic Holdings, Inc.",
+      "ticker": "SPCE",
+      "exchange": "NYSE",
+      "website": "https://www.virgingalactic.com",
+      "logoUrl": "/companies-assets/SPCE.NYSE.svg",
+      "title": "Director",
+      "startDate": "June 2021",
+      "endDate": null,
+      "formattedStartDate": "June 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "UnitedHealth Group Incorporated",
+      "ticker": "UNH",
+      "exchange": "NYSE",
+      "website": "https://www.unitedhealthgroup.com",
+      "logoUrl": "/companies-assets/UNH.NYSE.svg",
+      "title": "President, UnitedHealthcare, Military and Veterans",
+      "startDate": "2012",
+      "endDate": "2014",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2014"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Governance Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

@@ -1,0 +1,53 @@
+{
+  "id": "Dinesh Paliwal",
+  "name": "Dinesh Paliwal",
+  "background": "Partner at KKR & Co. Inc. and former Chairman and CEO of HARMAN International.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Nestlé S.A.",
+      "ticker": "NSRGY",
+      "exchange": "OTC",
+      "website": "https://www.nestle.com",
+      "logoUrl": "/companies-assets/NSRGY.OTC.svg",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Harman International Industries, Inc.",
+      "ticker": "HAR",
+      "exchange": "NYSE",
+      "website": "https://www.harman.com",
+      "logoUrl": "https://www.harman.com/themes/custom/harman/logo.svg",
+      "title": "President, CEO, and Director",
+      "startDate": "2007",
+      "endDate": "2020",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2020"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dinesh-paliwal-1966a312",
+      "person_name": "Dinesh Paliwal",
+      "company_name": "KKR & Co. Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit",
+    "Governance & Nominating"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

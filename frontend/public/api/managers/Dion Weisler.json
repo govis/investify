@@ -1,0 +1,89 @@
+{
+  "id": "Dion Weisler",
+  "name": "Dion Weisler",
+  "background": "Dion J. Weisler has been a director since 2020. He was President and CEO of HP Inc. from 2015 to 2019.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "logoUrl": "/companies-assets/INTC.NASDAQ.svg",
+      "title": "Independent Director",
+      "startDate": "June 2020",
+      "endDate": null,
+      "formattedStartDate": "June 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Thermo Fisher Scientific Inc.",
+      "ticker": "TMO",
+      "exchange": "NYSE",
+      "website": "thermofisher.com",
+      "logoUrl": "/companies-assets/TMO.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "March 2017",
+      "endDate": null,
+      "formattedStartDate": "March 2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Non-Executive Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Qantas Airways Limited",
+      "ticker": "QAN",
+      "exchange": "ASX",
+      "website": "qantas.com",
+      "logoUrl": "/companies-assets/QAN.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "March 2025",
+      "endDate": null,
+      "formattedStartDate": "March 2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "HP Inc.",
+      "ticker": "HPQ",
+      "exchange": "NYSE",
+      "website": "hp.com",
+      "logoUrl": "/companies-assets/HPQ.NYSE.jpg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2015",
+      "endDate": "May 2020",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "May 2020"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/dion-weisler-4355183",
+      "person_name": "Dion Weisler",
+      "company_name": "HP Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 56,
+  "ageYear": 2024
+}

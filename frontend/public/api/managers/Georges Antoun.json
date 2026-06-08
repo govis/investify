@@ -1,0 +1,87 @@
+{
+  "id": "Georges Antoun",
+  "name": "Georges Antoun",
+  "background": "Mr. Antoun has served as our Chief Commercial Officer since July 2016. He joined First Solar in 2012 and previously served as Chief Operating Officer.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "First Solar, Inc.",
+      "ticker": "FSLR",
+      "exchange": "NASDAQ",
+      "website": "https://www.firstsolar.com",
+      "logoUrl": "/companies-assets/FSLR.NASDAQ.svg",
+      "title": "Chief Commercial Officer",
+      "startDate": "July 2016",
+      "endDate": null,
+      "formattedStartDate": "July 2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "MARA Holdings, Inc.",
+      "ticker": "MARA",
+      "exchange": "NASDAQ",
+      "website": "https://www.mara.com",
+      "logoUrl": "/companies-assets/MARA.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Redback Networks, Inc.",
+      "ticker": "RBAK",
+      "exchange": "NASDAQ",
+      "website": "N/A",
+      "logoUrl": "https://seeklogo.com/images/R/redback-networks-logo-1168247076-seeklogo.com.png",
+      "title": "Chief Executive Officer",
+      "startDate": "2007",
+      "endDate": "2008",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2008"
+    },
+    {
+      "name": "Violin Memory, Inc.",
+      "ticker": "VMEM",
+      "exchange": "NYSE",
+      "website": "N/A",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Violin_Memory_Corporate_Logo.jpg/320px-Violin_Memory_Corporate_Logo.jpg",
+      "title": "Director",
+      "startDate": "June 2014",
+      "endDate": "2016",
+      "formattedStartDate": "June 2014",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Ruckus Wireless, Inc.",
+      "ticker": "RKUS",
+      "exchange": "NYSE",
+      "website": "N/A",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ruckus_Networks_logo.svg/1200px-Ruckus_Networks_logo.svg.png",
+      "title": "Director",
+      "startDate": "2012",
+      "endDate": "2016",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2016"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/georges-antoun-5a5a5a1",
+      "person_name": "Georges Antoun",
+      "company_name": "First Solar, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

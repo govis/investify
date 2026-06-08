@@ -1,0 +1,54 @@
+{
+  "id": "Sherry Smith",
+  "name": "Sherry Smith",
+  "background": "Former Executive Vice President and CFO of Supervalu Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Deere & Company",
+      "ticker": "DE",
+      "exchange": "NYSE",
+      "website": "https://www.deere.com",
+      "logoUrl": "/companies-assets/DE.NYSE.svg",
+      "title": "Member of the Board of Directors (Lead Director)",
+      "startDate": "2011",
+      "endDate": "2025",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "Piper Sandler Companies",
+      "ticker": "PIPR",
+      "exchange": "NYSE",
+      "website": "https://www.pipersandler.com",
+      "logoUrl": "/companies-assets/PIPR.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": null,
+      "endDate": "2025",
+      "formattedStartDate": "",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "Anywhere Real Estate Inc.",
+      "ticker": "HOUS",
+      "exchange": "NYSE",
+      "website": "https://anywhere.re",
+      "logoUrl": "/companies-assets/HOUS.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2014",
+      "endDate": "2025",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2025"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

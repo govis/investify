@@ -1,0 +1,40 @@
+{
+  "name": "Michael Eastwood",
+  "first_name": "Michael",
+  "last_name": "Eastwood",
+  "age": 55,
+  "age_year": 2024,
+  "background": "Chief Financial Officer of Thomson Reuters since March 2020. Previously served as Senior Vice President and Head of Corporate Finance.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Thomson Reuters Corporation",
+      "ticker": "TRI",
+      "exchange": "TSX / NYSE",
+      "title_or_role": "Chief Financial Officer, Intellectual Property & Science business",
+      "website": "https://www.thomsonreuters.com",
+      "start_date": "Prior to 2016",
+      "end_date": "2016",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michael-eastwood-science",
+      "person_name": "Michael Eastwood",
+      "company_name": "Thomson Reuters Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "Sameer Gandhi",
+  "name": "Sameer Gandhi",
+  "background": "Partner at Accel. Former Managing Director at Sequoia Capital.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "CrowdStrike Holdings, Inc.",
+      "ticker": "CRWD",
+      "exchange": "NASDAQ",
+      "website": "https://www.crowdstrike.com",
+      "logoUrl": "/companies-assets/CRWD.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2012",
+      "endDate": null,
+      "formattedStartDate": "2012",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Freshworks Inc.",
+      "ticker": "FRSH",
+      "exchange": "NASDAQ",
+      "website": "https://www.freshworks.com",
+      "logoUrl": "/companies-assets/FRSH.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/skgandhi",
+      "person_name": "Sameer Gandhi",
+      "company_name": "Accel",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

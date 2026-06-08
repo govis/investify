@@ -1,0 +1,42 @@
+{
+  "id": "James Bernhard, Jr",
+  "name": "James Bernhard, Jr.",
+  "background": "Founder and Managing Partner of Bernhard Capital Partners.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "CSX Corporation",
+      "ticker": "CSX",
+      "exchange": "NASDAQ",
+      "website": "https://www.csx.com",
+      "logoUrl": "/companies-assets/CSX.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": "2025",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "The Shaw Group Inc.",
+      "ticker": "SHAW",
+      "exchange": "NYSE",
+      "website": "www.shawgrp.com",
+      "logoUrl": "/companies-assets/SHAW.NYSE.svg",
+      "title": "Founder, President, CEO, and Chairman of the Board",
+      "startDate": "1987",
+      "endDate": "2013",
+      "formattedStartDate": "1987",
+      "formattedEndDate": "2013"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation and Talent Management Committee",
+    "Governance and Sustainability Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Lars Tossman",
+  "first_name": "Lars",
+  "last_name": "Tossman",
+  "age": 62,
+  "age_year": 2024,
+  "background": "Head of Business Area Aeronautics. Joined Saab in 1986. Previously Head of Business Area Kockums and Head of Business Unit Radar Solutions.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Saab Aktiebolag",
+      "ticker": "SAAB",
+      "exchange": "STO",
+      "title_or_role": "Head of Business Area Aeronautics",
+      "website": "https://www.saab.com",
+      "start_date": "2023-03-01",
+      "end_date": null
+    },
+    {
+      "name": "Saab Aktiebolag (Saab AB)",
+      "ticker": "SAAB-B",
+      "exchange": "STO (Nasdaq Stockholm)",
+      "website": "https://www.saab.com",
+      "title_or_role": "Senior Vice President and Head of Business Area Aeronautics",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://se.linkedin.com/in/lars-tossman-58a47380",
+      "person_name": "Lars Tossman",
+      "company_name": "Saab",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

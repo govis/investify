@@ -1,0 +1,41 @@
+{
+  "name": "Sundar Pichai",
+  "first_name": "Sundar",
+  "last_name": "Pichai",
+  "age": 51,
+  "age_year": 2024,
+  "background": "Sundar Pichai has served as the Chief Executive Officer of Alphabet since December 2019 and as the Chief Executive Officer of Google since October 2015. He has been a member of Alphabet\u2019s Board of Directors since July 2017. Since joining Google in 2004, he has held various leadership roles, including overseeing product management and innovation for a suite of Google\u2019s consumer and enterprise products.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Alphabet Inc.",
+      "ticker": "GOOG / GOOGL",
+      "exchange": "NASDAQ",
+      "title_or_role": "Member, Board of Directors",
+      "website": "https://abc.xyz",
+      "start_date": "July 2017",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sundarpichai",
+      "person_name": "Sundar Pichai",
+      "company_name": "Alphabet Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "David Smales",
+  "name": "David Smales",
+  "background": "Mr. Smales joined Aecon in 2009 as Executive Vice President and Chief Financial Officer. Prior to joining Aecon, he was the Chief Financial Officer of Catalyst Paper Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Aecon Group Inc.",
+      "ticker": "ARE",
+      "exchange": "TSX",
+      "website": "https://www.aecon.com",
+      "logoUrl": "/companies-assets/ARE.TSX.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "November 2009",
+      "endDate": "January 26, 2024",
+      "formattedStartDate": "November 2009",
+      "formattedEndDate": "January 26, 2024"
+    },
+    {
+      "name": "Maple Leaf Foods Inc.",
+      "ticker": "MFI",
+      "exchange": "TSX",
+      "website": "https://www.mapleleaffoods.com/",
+      "logoUrl": "/companies-assets/MFI.TSX.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "January 29, 2024",
+      "endDate": null,
+      "formattedStartDate": "January 29, 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Catalyst Paper Corporation",
+      "ticker": "CTL",
+      "exchange": "TSX",
+      "website": "N/A",
+      "logoUrl": "/companies-assets/CTL.TSX.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "Prior to 2009",
+      "endDate": "2009",
+      "formattedStartDate": "Prior to 2009",
+      "formattedEndDate": "2009"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/david-smales-46478240",
+      "person_name": "David Smales",
+      "company_name": "Aecon Group Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

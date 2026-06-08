@@ -1,0 +1,42 @@
+{
+  "name": "Pamela Gibson",
+  "first_name": "Pamela",
+  "last_name": "Gibson",
+  "age": 71,
+  "age_year": 2024,
+  "background": "Pamela Gibson is a former partner at Shearman & Sterling LLP with extensive experience in international corporate finance and M&A.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Eldorado Gold Corporation",
+      "ticker": "EGO",
+      "exchange": "TSX / NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.eldoradogold.com",
+      "start_date": "2014-09-02",
+      "end_date": "2024-06-04",
+      "validated": true
+    },
+    {
+      "name": "GasLog Partners LP",
+      "ticker": "GLOP",
+      "exchange": "NYSE",
+      "website": "https://www.gaslogmlp.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": "2019",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

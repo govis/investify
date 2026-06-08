@@ -1,0 +1,62 @@
+{
+  "id": "Wayne Heili",
+  "name": "Wayne Heili",
+  "background": "Mr. Heili has spent over 30 years in the uranium mining industry. He previously served as President and CEO of Ur-Energy Inc. and held various operations and engineering roles at the Smith Ranch-Highland ISR uranium project.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Peninsula Energy Limited",
+      "ticker": "PEN",
+      "exchange": "ASX",
+      "website": "https://www.pel.net.au",
+      "logoUrl": "/companies-assets/PEN.ASX.svg",
+      "title": "Managing Director / Chief Executive Officer",
+      "startDate": "2017-04-03",
+      "endDate": null,
+      "formattedStartDate": "April 2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "enCore Energy Corp.",
+      "ticker": "EU",
+      "exchange": "NASDAQ / TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Ur-Energy Inc.",
+      "ticker": "URG / URE",
+      "exchange": "NYSE American / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and Chief Executive Officer",
+      "startDate": "2007",
+      "endDate": "2016",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2016"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/wayne-heili-701117144",
+      "person_name": "Wayne Heili",
+      "company_name": "Peninsula Energy Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

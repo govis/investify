@@ -1,0 +1,82 @@
+{
+  "name": "Terry Bowen",
+  "first_name": "Terry",
+  "last_name": "Bowen",
+  "age": 57,
+  "age_year": 2024,
+  "background": "Terry Bowen is a former Finance Director of Wesfarmers Limited. He has over 25 years' experience in senior financial and executive roles across various industries.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "ASX",
+      "title_or_role": "Independent Non-Executive Director",
+      "website": "https://www.bhp.com",
+      "start_date": "2017",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "BHP Group Limited",
+      "ticker": "BHP",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Non-executive Director",
+      "website": "https://www.bhp.com",
+      "start_date": "2017-09-01",
+      "end_date": null
+    },
+    {
+      "name": "Wesfarmers Limited",
+      "ticker": "WES",
+      "exchange": "ASX",
+      "website": "https://www.wesfarmers.com.au",
+      "title_or_role": "Executive Director and Finance Director",
+      "start_date": "2009",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Coles Group Limited",
+      "ticker": "COL",
+      "exchange": "ASX",
+      "website": "https://www.colesgroup.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2018",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Transurban Group",
+      "ticker": "TCL",
+      "exchange": "ASX",
+      "website": "https://www.transurban.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2017",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Navitas Limited",
+      "ticker": "NVT (Delisted)",
+      "exchange": "ASX",
+      "website": "https://www.navitas.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2019",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Nomination and Governance Committee",
+    "Risk and Audit Committee (Chair)"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

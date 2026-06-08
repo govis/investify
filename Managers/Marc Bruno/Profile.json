@@ -1,0 +1,51 @@
+{
+  "name": "Marc Bruno",
+  "first_name": "Marc",
+  "last_name": "Bruno",
+  "age": 52,
+  "age_year": 2024,
+  "background": "Marc A. Bruno is Chief Operating Officer, United States Food and Facilities, for Aramark.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "United Rentals, Inc.",
+      "ticker": "URI",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.unitedrentals.com",
+      "start_date": "2018-05-01",
+      "end_date": null
+    },
+    {
+      "name": "Aramark",
+      "ticker": "ARMK",
+      "exchange": "NYSE",
+      "website": "https://www.aramark.com",
+      "title_or_role": "Chief Operating Officer, U.S. Food and Facilities",
+      "start_date": "1993",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/marc-bruno-662533145",
+      "person_name": "Marc Bruno",
+      "company_name": "Aramark",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

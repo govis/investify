@@ -1,0 +1,51 @@
+{
+  "id": "Michel Chapdelaine",
+  "name": "Michel Chapdelaine",
+  "background": "Mr. Chapdelaine is a Professional Geologist with over 25 years of experience in mineral exploration and development, particularly in Quebec and Ontario.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Delta Resources Limited",
+      "ticker": "DLTA",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "VP Exploration and COO",
+      "startDate": "July 2019",
+      "endDate": null,
+      "formattedStartDate": "July 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "X-Terra Resources Inc. (now known as CLIC - Clic Resources Inc.)",
+      "ticker": "CLIC",
+      "exchange": "TSXV",
+      "website": "https://www.clicresources.ca/",
+      "logoUrl": "/companies-assets/CLIC.TSXV.svg",
+      "title": "VP Exploration and Development",
+      "startDate": "July 6, 2017",
+      "endDate": "July 2019",
+      "formattedStartDate": "July 6, 2017",
+      "formattedEndDate": "July 2019"
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/michel-chapdelaine-6030152b6",
+      "person_name": "Michel Chapdelaine",
+      "company_name": "Delta Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

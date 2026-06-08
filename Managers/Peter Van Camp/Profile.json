@@ -1,0 +1,70 @@
+{
+  "name": "Peter Van Camp",
+  "first_name": "Peter",
+  "last_name": "Van Camp",
+  "age": 68,
+  "age_year": 2024,
+  "background": "Peter Van Camp has served as Executive Chairman since 2007. He previously served as our CEO from 2000 to 2007.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Equinix, Inc.",
+      "ticker": "EQIX",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chief Executive Officer, President, Executive Chairman",
+      "website": "https://www.equinix.com",
+      "start_date": "2000",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Silver Spring Networks, Inc.",
+      "ticker": "SSNI",
+      "exchange": "NYSE",
+      "website": "https://www.itron.com",
+      "title_or_role": "Director / Lead Independent Director",
+      "start_date": "2013",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Packeteer, Inc.",
+      "ticker": "PKTR",
+      "exchange": "NASDAQ",
+      "website": "N/A",
+      "title_or_role": "Director",
+      "start_date": "2006",
+      "end_date": "2008",
+      "validated": true
+    },
+    {
+      "name": "Paradyne Networks, Inc.",
+      "ticker": "PDYN",
+      "exchange": "NASDAQ",
+      "website": "N/A",
+      "title_or_role": "Director",
+      "start_date": "2000",
+      "end_date": "2002",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/peter-van-camp-4a5b2a1",
+      "person_name": "Peter Van Camp",
+      "company_name": "Equinix, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

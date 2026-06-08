@@ -1,0 +1,42 @@
+{
+  "id": "Peter Smith",
+  "name": "Peter Smith",
+  "background": "Mr. Smith is a senior mining executive with over 40 years’ experience in the resources sector, including senior roles at Rio Tinto and Kazzinc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "STM Group Plc",
+      "ticker": "STM",
+      "exchange": "LSE (AIM)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Non-Executive Director",
+      "startDate": "January 2022",
+      "endDate": "2024",
+      "formattedStartDate": "January 2022",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Western Metals Ltd",
+      "ticker": "WMT",
+      "exchange": "ASX",
+      "website": null,
+      "logoUrl": "/companies-assets/WMT.ASX.svg",
+      "title": "Non-Executive Chairman",
+      "startDate": "2005",
+      "endDate": "2007",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2007"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Nomination and Remuneration Committee",
+    "Risk and Sustainability Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

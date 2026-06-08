@@ -1,0 +1,63 @@
+{
+  "name": "Aparna Bawa",
+  "first_name": "Aparna",
+  "last_name": "Bawa",
+  "age": 46,
+  "age_year": 2024,
+  "background": "Chief Operating Officer of Zoom Video Communications, Inc. She joined our board in May 2021.",
+  "picture_url": null,
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
+    {
+      "name": "Palo Alto Networks, Inc.",
+      "ticker": "PANW",
+      "exchange": "NASDAQ",
+      "title_or_role": "Member, Board of Directors",
+      "website": "https://www.paloaltonetworks.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "title_or_role": "Executive Vice President, Chief Legal & People Officer",
+      "start_date": "May 2026",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Zoom Video Communications, Inc.",
+      "ticker": "ZM",
+      "exchange": "NASDAQ",
+      "website": "https://www.zoom.com",
+      "title_or_role": "General Counsel",
+      "start_date": "September 2018",
+      "end_date": "August 2019",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/aparnabawa",
+      "person_name": "Aparna Bawa",
+      "company_name": "Intel Corporation",
+      "potential_picture_url": null,
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/C5603AQHzP73v653ySA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1572886470068?e=2147483647&v=beta&t=aN65m5J5Y4vLgM5nB6T9-xY2Z5l2gQ8x3hR9t-tZ5gY",
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 0
+}

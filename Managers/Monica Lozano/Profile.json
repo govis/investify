@@ -1,0 +1,61 @@
+{
+  "name": "Monica Lozano",
+  "first_name": "Monica",
+  "last_name": "Lozano",
+  "age": 68,
+  "age_year": 2024,
+  "background": "Ms. Lozano is the former President and CEO of College Futures Foundation and former Chairman and CEO of ImpreMedia, LLC.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "apple.com",
+      "start_date": "2021-01-04",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Target Corporation",
+      "ticker": "TGT",
+      "exchange": "NYSE",
+      "website": "target.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bank of America Corporation",
+      "ticker": "BAC",
+      "exchange": "NYSE",
+      "website": "bankofamerica.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Walt Disney Company",
+      "ticker": "DIS",
+      "exchange": "NYSE",
+      "website": "thewaltdisneycompany.com",
+      "title_or_role": "Director",
+      "start_date": "2000",
+      "end_date": "2016",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Finance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

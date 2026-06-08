@@ -1,0 +1,42 @@
+{
+  "name": "Blanche Lincoln",
+  "first_name": "Blanche",
+  "last_name": "Lincoln",
+  "age": 63,
+  "age_year": 2024,
+  "background": "Founder and Principal of Lincoln Policy Group. Former U.S. Senator from Arkansas.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Entergy Corporation",
+      "ticker": "ETR",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.entergy.com",
+      "start_date": "2011",
+      "end_date": "2024-12-31",
+      "validated": true
+    },
+    {
+      "name": "Rayonier Inc.",
+      "ticker": "RYN",
+      "exchange": "NYSE",
+      "website": "https://www.rayonier.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": "2021",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance",
+    "Finance"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "Ambassador Thomas Graham, Jr",
+  "name": "Ambassador Thomas Graham, Jr.",
+  "background": "Ambassador Graham is a world-renowned expert on nuclear non-proliferation and has served under four US Presidents.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "CanAlaska Uranium Ltd.",
+      "ticker": "CVV",
+      "exchange": "TSXV",
+      "website": "https://canalaska.com/",
+      "logoUrl": "/companies-assets/CVV.TSXV.png",
+      "title": "Director and Board Chairman",
+      "startDate": "2005",
+      "endDate": null,
+      "formattedStartDate": "2005",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Lightbridge Corporation",
+      "ticker": "LTBR",
+      "exchange": "NASDAQ",
+      "website": "https://www.ltbridge.com",
+      "logoUrl": "/companies-assets/LTBR.NASDAQ.svg",
+      "title": "Chairman Emeritus",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/thomas-graham-jr-b84451a",
+      "person_name": "Thomas Graham Jr.",
+      "company_name": "CanAlaska Uranium Ltd.",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1,
+      "profile_status": "private"
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 90,
+  "ageYear": 2024
+}

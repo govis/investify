@@ -1,0 +1,56 @@
+{
+  "name": "Rob Chang",
+  "first_name": "Rob",
+  "last_name": "Chang",
+  "age": 51,
+  "age_year": 2024,
+  "background": "Former Managing Director and Head of Metals & Mining at Cantor Fitzgerald. Expert in uranium market analysis.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Fission Uranium Corp.",
+      "ticker": "FCU",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://www.fissionuranium.com",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Revival Gold Inc.",
+      "ticker": "RVG",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "https://revival-gold.com",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ur-Energy Inc.",
+      "ticker": "URG",
+      "exchange": "NYSE/TSX",
+      "title_or_role": "Director",
+      "website": "https://www.ur-energy.com",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Compensation, Governance and Nominating Committee",
+    "Corporate Governance and Nominating Committee",
+    "Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

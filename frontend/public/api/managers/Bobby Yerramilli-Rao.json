@@ -1,0 +1,52 @@
+{
+  "id": "Bobby Yerramilli-Rao",
+  "name": "Bobby Yerramilli-Rao",
+  "background": "Chief Strategy Officer and Corporate Vice President at Microsoft. He joined the board in 2021.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "GlobalFoundries Inc.",
+      "ticker": "GFS",
+      "exchange": "NASDAQ",
+      "website": "https://gf.com",
+      "logoUrl": "/companies-assets/GFS.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "March 2022",
+      "endDate": null,
+      "formattedStartDate": "March 2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "https://www.microsoft.com",
+      "logoUrl": "/companies-assets/MSFT.NASDAQ.svg",
+      "title": "Chief Strategy Officer and Corporate Vice President, Corporate Strategy",
+      "startDate": "January 2020",
+      "endDate": null,
+      "formattedStartDate": "January 2020",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bobby-yerramilli-rao-93b01027",
+      "person_name": "Bobby Yerramilli-Rao",
+      "company_name": "Microsoft Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 54,
+  "ageYear": 2024
+}

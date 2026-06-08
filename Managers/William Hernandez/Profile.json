@@ -1,0 +1,92 @@
+{
+  "name": "William Hernandez",
+  "first_name": "William",
+  "last_name": "Hernandez",
+  "age": 75,
+  "age_year": 2024,
+  "background": "Former Senior Vice President and Chief Financial Officer of PPG Industries, Inc.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "northropgrumman.com",
+      "start_date": "2013",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Albemarle Corporation",
+      "ticker": "ALB",
+      "exchange": "NYSE",
+      "website": "albemarle.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2011",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "USG Corporation",
+      "ticker": "USG",
+      "exchange": "NYSE",
+      "website": "usg.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2009",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Black Box Corporation",
+      "ticker": "BBOX",
+      "exchange": "NASDAQ",
+      "website": "bboxservices.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2009",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Eastman Kodak Company",
+      "ticker": "KODK",
+      "exchange": "NYSE",
+      "website": "kodak.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2011",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Pentair plc",
+      "ticker": "PNR",
+      "exchange": "NYSE",
+      "website": "pentair.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "PPG Industries, Inc.",
+      "ticker": "PPG",
+      "exchange": "NYSE",
+      "website": "ppg.com",
+      "title_or_role": "Senior VP & CFO",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Governance, Nominating and Sustainability Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

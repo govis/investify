@@ -1,0 +1,30 @@
+{
+  "id": "Gregory Johnson",
+  "name": "Gregory Johnson",
+  "background": "Retired Admiral, U.S. Navy. Former Commander, U.S. Naval Forces Europe.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "CACI International Inc",
+      "ticker": "CACI",
+      "exchange": "NYSE",
+      "website": "https://www.caci.com",
+      "logoUrl": "/companies-assets/CACI.NYSE.svg",
+      "title": "Director (Outside Director)",
+      "startDate": "2005",
+      "endDate": null,
+      "formattedStartDate": "2005",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee",
+    "Security and Risk Assessment Committee"
+  ],
+  "age": 78,
+  "ageYear": 2024
+}

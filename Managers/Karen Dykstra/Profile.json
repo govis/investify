@@ -1,0 +1,102 @@
+{
+  "name": "Karen Dykstra",
+  "first_name": "Karen",
+  "last_name": "Dykstra",
+  "age": 65,
+  "age_year": 2024,
+  "background": "Karen Dykstra has served as a member of our board of directors since 2022. She previously served as CFO and CAO of AOL and CFO of Automatic Data Processing (ADP).",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Arm Holdings plc",
+      "ticker": "ARM",
+      "exchange": "NASDAQ",
+      "title_or_role": "Board Member",
+      "website": "arm.com",
+      "start_date": "2022-09-26",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Atlassian Corporation",
+      "ticker": "TEAM",
+      "exchange": "NASDAQ",
+      "website": "atlassian.com",
+      "title_or_role": "Board Member",
+      "start_date": "2025-04-14",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Gartner, Inc.",
+      "ticker": "IT",
+      "exchange": "NYSE",
+      "website": "gartner.com",
+      "title_or_role": "Board Member",
+      "start_date": "2012-09-19",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "VMware, Inc.",
+      "ticker": "VMW",
+      "exchange": "NYSE",
+      "website": "vmware.com",
+      "title_or_role": "Board Member",
+      "start_date": null,
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "AOL Inc.",
+      "ticker": "AOL",
+      "exchange": "NYSE",
+      "website": "aol.com",
+      "title_or_role": "Chief Financial and Administrative Officer",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Crane Co.",
+      "ticker": "CR",
+      "exchange": "NYSE",
+      "website": "craneco.com",
+      "title_or_role": "Board Member",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Boston Properties, Inc.",
+      "ticker": "BXP",
+      "exchange": "NYSE",
+      "website": "bxp.com",
+      "title_or_role": "Board Member",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/karen-dykstra-0408186",
+      "person_name": "Karen Dykstra",
+      "company_name": "Arm Holdings plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

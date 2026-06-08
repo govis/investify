@@ -1,0 +1,64 @@
+{
+  "id": "James Dimon",
+  "name": "James Dimon",
+  "background": "Mr. Dimon has been Chairman of the Board and Chief Executive Officer since December 2005 and President since 2004. He was President and Chief Operating Officer from 2004 to 2005. He was Chairman and Chief Executive Officer of Bank One Corporation from 2000 to 2004.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "ticker": "JPM",
+      "exchange": "NYSE",
+      "website": "https://www.jpmorganchase.com",
+      "logoUrl": "/companies-assets/JPM.NYSE.svg",
+      "title": "President and COO",
+      "startDate": "2004",
+      "endDate": "2005",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2005"
+    },
+    {
+      "name": "Bank One Corporation",
+      "ticker": "ONE",
+      "exchange": "NYSE",
+      "website": "jpmorganchase.com",
+      "logoUrl": "/companies-assets/ONE.NYSE.svg",
+      "title": "Chairman and CEO",
+      "startDate": "2000",
+      "endDate": "2004",
+      "formattedStartDate": "2000",
+      "formattedEndDate": "2004"
+    },
+    {
+      "name": "Citigroup Inc.",
+      "ticker": "C",
+      "exchange": "NYSE",
+      "website": "citigroup.com",
+      "logoUrl": "/companies-assets/C.NYSE.svg",
+      "title": "President",
+      "startDate": "1998",
+      "endDate": "1998",
+      "formattedStartDate": "1998",
+      "formattedEndDate": "1998"
+    },
+    {
+      "name": "American Express Company",
+      "ticker": "AXP",
+      "exchange": "NYSE",
+      "website": "americanexpress.com",
+      "logoUrl": "/companies-assets/AXP.NYSE.svg",
+      "title": "Executive Roles",
+      "startDate": "1985",
+      "endDate": "1998",
+      "formattedStartDate": "1985",
+      "formattedEndDate": "1998"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 68,
+  "ageYear": 2024
+}

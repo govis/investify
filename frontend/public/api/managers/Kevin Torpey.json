@@ -1,0 +1,41 @@
+{
+  "id": "Kevin Torpey",
+  "name": "Kevin Torpey",
+  "background": "Kevin Torpey is a graduate of the University of Sydney and has over 50 years of experience in the mining industry. He has held senior executive positions in several major Australian mining companies and has extensive experience in project development and management.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Latrobe Magnesium Limited",
+      "ticker": "LMG",
+      "exchange": "ASX",
+      "website": "https://www.latrobemagnesium.com",
+      "logoUrl": "/companies-assets/LMG.ASX.png",
+      "title": "Non-Executive Director",
+      "startDate": "April 2002",
+      "endDate": "February 8, 2022",
+      "formattedStartDate": "April 2002",
+      "formattedEndDate": "February 8, 2022"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kevin-torpey-270882163",
+      "person_name": "Kevin Torpey",
+      "company_name": "Latrobe Magnesium Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Remuneration Committee"
+  ],
+  "age": 85,
+  "ageYear": 2024
+}

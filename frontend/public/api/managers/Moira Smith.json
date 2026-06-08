@@ -1,0 +1,53 @@
+{
+  "id": "Moira Smith",
+  "name": "Moira Smith",
+  "background": "Dr. Smith has over 30 years of experience in the mining industry, specializing in exploration and geology. She was previously the VP Exploration for Liberty Gold Corp. and has held senior positions with Teck Resources and Fronteer Gold.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Galiano Gold Inc.",
+      "ticker": "GAU",
+      "exchange": "TSX",
+      "website": "https://www.galianogold.com",
+      "logoUrl": "/companies-assets/GAU.TSX.svg",
+      "title": "Independent Director",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Liberty Gold Corp.",
+      "ticker": "LGD",
+      "exchange": "TSX",
+      "website": "https://libertygold.ca",
+      "logoUrl": "/companies-assets/LGD.TSX.svg",
+      "title": "Corporate Technical Advisor",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/moira-smith-3217b181",
+      "person_name": "Moira Smith",
+      "company_name": "Discovery Silver Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Governance and Nominating Committee",
+    "Technical Committee (Chair)"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

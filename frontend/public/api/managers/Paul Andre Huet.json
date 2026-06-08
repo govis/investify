@@ -1,0 +1,74 @@
+{
+  "id": "Paul Andre Huet",
+  "name": "Paul Andre Huet",
+  "background": "Mr. Huet has over 30 years of experience in the mining industry. He served as Executive Chairman and CEO of Karora Resources. Previously, he was President and CEO of Klondex Mines Ltd. from 2012 to 2018. He has served on several boards including Northwest Copper Corp. and 1911 Gold Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Karora Resources Inc.",
+      "ticker": "KRR",
+      "exchange": "TSX",
+      "website": "https://www.karoraresources.com",
+      "logoUrl": "/companies-assets/KRR.TSX.jpg",
+      "title": "Chairman & CEO",
+      "startDate": "2019-02",
+      "endDate": "2024-08",
+      "formattedStartDate": "February 2019",
+      "formattedEndDate": "August 2024"
+    },
+    {
+      "name": "Americas Gold and Silver Corporation",
+      "ticker": "USA",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Executive Officer",
+      "startDate": "2024-11-11",
+      "endDate": null,
+      "formattedStartDate": "November 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Klondex Mines Ltd.",
+      "ticker": "KDX",
+      "exchange": "TSX",
+      "website": "https://klondexmines.com",
+      "logoUrl": "/companies-assets/KDX.TSX.svg",
+      "title": "President & CEO",
+      "startDate": "2012-05",
+      "endDate": "2018-07",
+      "formattedStartDate": "May 2012",
+      "formattedEndDate": "July 2018"
+    },
+    {
+      "name": "RNC Minerals (now Karora)",
+      "ticker": "RNX",
+      "exchange": "TSX",
+      "website": "https://karoraresources.com",
+      "logoUrl": "https://www.marketscreener.com/images/reuters/2020-06-15T132535Z_1_LYNXMPEG5E0XJ_RTROPTP_3_MINING-KARORA.JPG",
+      "title": "Interim CEO",
+      "startDate": "2019-02",
+      "endDate": "2019-02",
+      "formattedStartDate": "February 2019",
+      "formattedEndDate": "February 2019"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/paulandrehuet",
+      "person_name": "Paul Andre Huet",
+      "company_name": "Karora Resources Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

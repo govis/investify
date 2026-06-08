@@ -1,0 +1,59 @@
+{
+  "id": "David Abney",
+  "name": "David Abney",
+  "background": "Former Executive Chairman and CEO of United Parcel Service, Inc. (UPS).",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "United Parcel Service, Inc.",
+      "ticker": "UPS",
+      "exchange": "NYSE",
+      "website": "https://www.ups.com",
+      "logoUrl": "/companies-assets/UPS.NYSE.svg",
+      "title": "Chairman of the Board",
+      "startDate": "2016",
+      "endDate": "2020",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Target Corporation",
+      "ticker": "TGT",
+      "exchange": "NYSE",
+      "website": "https://www.target.com",
+      "logoUrl": "/companies-assets/TGT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Electrification",
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/davidabneyups",
+      "person_name": "David Abney",
+      "company_name": "United Parcel Service",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit",
+    "Audit Committee",
+    "Compensation",
+    "Compensation and Management Development Committee",
+    "Compensation and Management Succession"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

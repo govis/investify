@@ -1,0 +1,62 @@
+{
+  "name": "Daniel Whittaker",
+  "first_name": "Daniel",
+  "last_name": "Whittaker",
+  "age": 61,
+  "age_year": 2024,
+  "background": "Mr. Whittaker has over 30 years of experience in the resource sector, including senior management roles in exploration and development companies.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "GoldHaven Resources Corp.",
+      "ticker": "GOH",
+      "exchange": "CSE",
+      "title_or_role": "Director",
+      "website": "https://goldhavenresources.com/",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Antler Gold Inc.",
+      "ticker": "ANTL",
+      "exchange": "TSXV",
+      "website": "https://antlergold.com/",
+      "title_or_role": "Founder / Executive Chairman",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "ReeXploration Inc.",
+      "ticker": "REE",
+      "exchange": "TSXV",
+      "website": "https://ree-xploration.com/",
+      "title_or_role": "Interim CEO",
+      "start_date": "2022",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "GoGold Resources Inc.",
+      "ticker": "GGD",
+      "exchange": "TSX",
+      "website": "https://gogoldresources.com/",
+      "title_or_role": "Founder / Secretary / Director / CAO",
+      "start_date": "2008",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

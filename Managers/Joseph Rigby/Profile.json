@@ -1,0 +1,51 @@
+{
+  "name": "Joseph Rigby",
+  "first_name": "Joseph",
+  "last_name": "Rigby",
+  "age": 67,
+  "age_year": 2024,
+  "background": "Retired Chairman, President and Chief Executive Officer of Pepco Holdings, Inc. Director since 2017.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Dominion Energy, Inc.",
+      "ticker": "D",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.dominionenergy.com",
+      "start_date": "2017-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Pepco Holdings, Inc.",
+      "ticker": "POM",
+      "exchange": "NYSE",
+      "website": "https://www.pepco.com",
+      "title_or_role": "Chairman, President and Chief Executive Officer",
+      "start_date": "2009-05",
+      "end_date": "2016-03",
+      "validated": true
+    },
+    {
+      "name": "South Jersey Industries, Inc.",
+      "ticker": "SJI",
+      "exchange": "NYSE",
+      "website": "https://www.sjindustries.com",
+      "title_or_role": "Director and Non-Executive Chairman",
+      "start_date": "2016-05",
+      "end_date": "2025-02",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Finance and Risk Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "Rick Tsai",
+  "name": "Rick Tsai",
+  "background": "Dr. Tsai has been a director since 2024. He is the Vice Chairman and CEO of MediaTek Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Taiwan Semiconductor Manufacturing Company (TSMC)",
+      "ticker": "TSM",
+      "exchange": "NYSE",
+      "website": "https://www.tsmc.com",
+      "logoUrl": "/companies-assets/TSM.NYSE.svg",
+      "title": "President and Chief Executive Officer",
+      "startDate": "2005",
+      "endDate": "2009",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2009"
+    },
+    {
+      "name": "Chunghwa Telecom",
+      "ticker": "CHT",
+      "exchange": "NYSE",
+      "website": "https://www.cht.com.tw",
+      "logoUrl": "/companies-assets/CHT.NYSE.svg",
+      "title": "Chairman",
+      "startDate": "2014",
+      "endDate": "2016",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "MediaTek Inc.",
+      "ticker": "2454",
+      "exchange": "TWSE",
+      "website": "https://www.mediatek.com",
+      "logoUrl": "/companies-assets/2454.TWSE.svg",
+      "title": "Vice Chairman and CEO",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating and Governance Committee"
+  ],
+  "age": 73,
+  "ageYear": 2024
+}

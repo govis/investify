@@ -1,0 +1,50 @@
+{
+  "name": "Molly Beerman",
+  "first_name": "Molly",
+  "last_name": "Beerman",
+  "age": 60,
+  "age_year": 2024,
+  "background": "Molly S. Beerman is Executive Vice President and Chief Financial Officer. She previously served as Senior Vice President and Controller from 2019 to 2023 and has held various financial leadership roles at Alcoa since 2001.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Alcoa Corporation",
+      "ticker": "AA",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "website": "www.alcoa.com",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Arconic Corporation",
+      "ticker": "ARNC",
+      "exchange": "NYSE",
+      "website": "www.arconic.com",
+      "title_or_role": "Various leadership positions",
+      "start_date": "2001",
+      "end_date": "2012",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mollybeerman",
+      "person_name": "Molly Beerman",
+      "company_name": "Alcoa Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

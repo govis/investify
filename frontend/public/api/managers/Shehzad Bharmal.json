@@ -1,0 +1,50 @@
+{
+  "id": "Shehzad Bharmal",
+  "name": "Shehzad Bharmal",
+  "background": "Shehzad Bharmal is the Senior Vice President, Base Metals. He has been with Teck since 1992 and has held various operational and commercial leadership roles.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Teck Resources Limited",
+      "ticker": "TECK",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Vice President, Base Metals",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Compañía de Minas Buenaventura S.A.A.",
+      "ticker": "BVN",
+      "exchange": "NYSE",
+      "website": "https://buenaventura.com",
+      "logoUrl": "/companies-assets/BVN.NYSE.png",
+      "title": "Director",
+      "startDate": "2026",
+      "endDate": null,
+      "formattedStartDate": "2026",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/shehzad-bharmal-493b538b",
+      "person_name": "Shehzad Bharmal",
+      "company_name": "Teck Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 58,
+  "ageYear": 2024
+}

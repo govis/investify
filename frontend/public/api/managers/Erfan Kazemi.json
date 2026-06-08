@@ -1,0 +1,50 @@
+{
+  "id": "Erfan Kazemi",
+  "name": "Erfan Kazemi",
+  "background": "Mr. Kazemi is the Chief Financial Officer of Sandstorm. Prior to joining Sandstorm, he was a Senior Manager at PricewaterhouseCoopers LLP. He is a Chartered Professional Accountant (BC), a Chartered Financial Analyst charterholder, and holds a Bachelor of Science degree.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Horizon Copper Corp.",
+      "ticker": "HCU",
+      "exchange": "TSXV",
+      "website": "https://www.horizoncopper.com",
+      "logoUrl": "/companies-assets/HCU.TSXV.svg",
+      "title": "President, Chief Executive Officer & Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Nomad Royalty Company Ltd.",
+      "ticker": "NSR",
+      "exchange": "TSX",
+      "website": "https://www.sandstormgold.com",
+      "logoUrl": "/companies-assets/NSR.TSX.svg",
+      "title": "Chief Financial Officer",
+      "startDate": null,
+      "endDate": "2022",
+      "formattedStartDate": "",
+      "formattedEndDate": "2022"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/erfan-kazemi-79113611",
+      "person_name": "Erfan Kazemi",
+      "company_name": "Sandstorm Gold Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 45,
+  "ageYear": 2024
+}

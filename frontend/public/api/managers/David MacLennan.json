@@ -1,0 +1,41 @@
+{
+  "id": "David MacLennan",
+  "name": "David MacLennan",
+  "background": "Former Executive Chair and CEO of Cargill, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Caterpillar Inc.",
+      "ticker": "CAT",
+      "exchange": "NYSE",
+      "website": "https://www.caterpillar.com",
+      "logoUrl": "/companies-assets/CAT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021-04-14",
+      "endDate": null,
+      "formattedStartDate": "April 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Ecolab Inc.",
+      "ticker": "ECL",
+      "exchange": "NYSE",
+      "website": "https://www.ecolab.com",
+      "logoUrl": "/companies-assets/ECL.NYSE.svg",
+      "title": "Director (Lead Independent Director)",
+      "startDate": "2015-12-01",
+      "endDate": null,
+      "formattedStartDate": "December 2015",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation and Human Capital Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

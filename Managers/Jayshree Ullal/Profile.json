@@ -1,0 +1,62 @@
+{
+  "name": "Jayshree Ullal",
+  "first_name": "Jayshree",
+  "last_name": "Ullal",
+  "age": 63,
+  "age_year": 2024,
+  "background": "Jayshree Ullal has served as our President and Chief Executive Officer and a member of our board of directors since October 2008. Prior to joining Arista, Ms. Ullal was Senior Vice President at Cisco Systems, Inc., where she was responsible for the data center, switching and services business. Ms. Ullal holds a B.S. in Engineering (Electrical) from San Francisco State University and an M.S. in Engineering Management from Santa Clara University.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Arista Networks, Inc.",
+      "ticker": "ANET",
+      "exchange": "NYSE",
+      "title_or_role": "President and CEO",
+      "website": "https://www.arista.com",
+      "start_date": "2008",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Snowflake Inc.",
+      "ticker": "SNOW",
+      "exchange": "NYSE",
+      "title_or_role": "Member, Board of Directors",
+      "website": "https://www.snowflake.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "website": "https://www.cisco.com",
+      "title_or_role": "Senior Vice President, Data Center, Switching and Security",
+      "start_date": "1993",
+      "end_date": "2008",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jayshree-ullal-b22342138",
+      "person_name": "Jayshree Ullal",
+      "company_name": "Arista Networks",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

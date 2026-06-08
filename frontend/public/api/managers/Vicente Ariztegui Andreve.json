@@ -1,0 +1,41 @@
+{
+  "id": "Vicente Ariztegui Andreve",
+  "name": "Vicente Ariztegui Andreve",
+  "background": "Director since 2014. President and CEO of Ariztegui y Asociados, S.C. and Managing Director of Onis Vida, S.A. de C.V.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Southern Copper Corporation",
+      "ticker": "SCCO",
+      "exchange": "NYSE",
+      "website": "https://www.southerncoppercorp.com",
+      "logoUrl": "/companies-assets/SCCO.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/vicente-ariztegui-andreve",
+      "person_name": "Vicente Ariztegui Andreve",
+      "company_name": "Southern Copper Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

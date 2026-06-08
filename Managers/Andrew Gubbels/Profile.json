@@ -1,0 +1,51 @@
+{
+  "name": "Andrew Gubbels",
+  "first_name": "Andrew",
+  "last_name": "Gubbels",
+  "age": 40,
+  "age_year": 2023,
+  "background": "Mr. Gubbels has served as our Chief Financial Officer since September 2022. He has over 15 years of experience in corporate finance and investment banking. Prior to joining the Company, he was Head of Tax at ArcelorMittal Mining and held various senior roles at IAMGOLD Corporation.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Gold Royalty Corp.",
+      "ticker": "GROY",
+      "exchange": "NYSE",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://www.goldroyalty.com/",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Aris Gold Corporation",
+      "ticker": "ALLXF",
+      "exchange": "OTC",
+      "website": "https://arismining.com/",
+      "title_or_role": "Senior Vice President, Corporate Development",
+      "start_date": "2020",
+      "end_date": "2023",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/andrewgubbels/",
+      "person_name": "Andrew Gubbels",
+      "company_name": "Gold Royalty Corp.",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 1
+}

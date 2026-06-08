@@ -1,0 +1,51 @@
+{
+  "id": "Paulo Ruiz",
+  "name": "Paulo Ruiz",
+  "background": "Paulo Ruiz is President and Chief Operating Officer, Industrial Sector. He was appointed to this role in 2022. He joined Eaton in 2019 as President of the Hydraulics Group. Prior to Eaton, he spent more than 18 years with Siemens.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Eaton Corporation plc",
+      "ticker": "ETN",
+      "exchange": "NYSE",
+      "website": "https://www.eaton.com",
+      "logoUrl": "/companies-assets/ETN.NYSE.svg",
+      "title": "President, Hydraulics Group",
+      "startDate": "2019-01-01",
+      "endDate": "2022-07-01",
+      "formattedStartDate": "January 2019",
+      "formattedEndDate": "July 2022"
+    },
+    {
+      "name": "Siemens AG",
+      "ticker": "SIE",
+      "exchange": "Xetra",
+      "website": null,
+      "logoUrl": null,
+      "title": "CEO of Dresser-Rand business",
+      "startDate": "2016-01-01",
+      "endDate": "2019-01-01",
+      "formattedStartDate": "January 2016",
+      "formattedEndDate": "January 2019"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/paulo-ruiz-sternadt",
+      "person_name": "Paulo Ruiz",
+      "company_name": "Eaton",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 50,
+  "ageYear": 2024
+}

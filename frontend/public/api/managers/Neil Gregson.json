@@ -1,0 +1,55 @@
+{
+  "id": "Neil Gregson",
+  "name": "Neil Gregson",
+  "background": "Mr. Gregson has over 30 years of experience in the investment management industry, specializing in the mining and energy sectors. He was previously a portfolio manager at J.P. Morgan Asset Management.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Uranium Royalty Corp.",
+      "ticker": "UROY",
+      "exchange": "NASDAQ / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Atalaya Mining Plc",
+      "ticker": "ATYM",
+      "exchange": "LSE",
+      "website": "https://www.atalayamining.com",
+      "logoUrl": "/companies-assets/ATYM.LSE.svg",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Meridian Mining UK Societas",
+      "ticker": "MNO",
+      "exchange": "TSXV",
+      "website": "https://meridianmining.co",
+      "logoUrl": "/companies-assets/MNO.TSXV.svg",
+      "title": "Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

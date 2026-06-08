@@ -1,0 +1,28 @@
+{
+  "name": "Petros Williams",
+  "first_name": "Petros",
+  "last_name": "Williams",
+  "age": 52,
+  "age_year": 2024,
+  "background": "Mr. Williams has over 20 years of experience in mining operations and engineering. He previously held senior operational roles at Kirkland Lake Gold and Newmont.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Calibre Mining Corp.",
+      "ticker": "CXB",
+      "exchange": "TSX",
+      "title_or_role": "Senior Vice President and Chief Operating Officer",
+      "website": "https://calibremining.com",
+      "start_date": "2021-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

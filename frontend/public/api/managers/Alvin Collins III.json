@@ -1,0 +1,29 @@
+{
+  "id": "Alvin Collins III",
+  "name": "Alvin Collins III",
+  "background": "Mr. Collins has served as a member of our Board since May 2022. He is a retired executive from Fluor Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Fluor Corporation",
+      "ticker": "FLR",
+      "exchange": "NYSE",
+      "website": "https://www.fluor.com",
+      "logoUrl": "/companies-assets/FLR.NYSE.svg",
+      "title": "Group President, Mission Solutions",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 57,
+  "ageYear": 2024
+}

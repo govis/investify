@@ -1,0 +1,29 @@
+{
+  "id": "Antonio Schneider Chaigneau",
+  "name": "Antonio Schneider Chaigneau",
+  "background": "Mr. Schneider has been a director since 2022. He is an economist and holds a degree from the Universidad de Chile. He has served on various boards of directors in Chile and abroad.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sociedad Química y Minera de Chile S.A. (SQM)",
+      "ticker": "SQM",
+      "exchange": "NYSE",
+      "website": "https://www.sqm.com",
+      "logoUrl": "/companies-assets/SQM.NYSE.svg",
+      "title": "Director (Board Member)",
+      "startDate": "April 2023",
+      "endDate": "2024",
+      "formattedStartDate": "April 2023",
+      "formattedEndDate": "2024"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Directors' Committee"
+  ],
+  "age": 74,
+  "ageYear": 2024
+}

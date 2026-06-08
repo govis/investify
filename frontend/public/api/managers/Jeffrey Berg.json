@@ -1,0 +1,30 @@
+{
+  "id": "Jeffrey Berg",
+  "name": "Jeffrey Berg",
+  "background": "Former Chairman and CEO of International Creative Management, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Oracle Corporation",
+      "ticker": "ORCL",
+      "exchange": "NYSE",
+      "website": "https://www.oracle.com",
+      "logoUrl": "/companies-assets/ORCL.NYSE.svg",
+      "title": "Director",
+      "startDate": "1997",
+      "endDate": null,
+      "formattedStartDate": "1997",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Nomination and Governance Committee"
+  ],
+  "age": 77,
+  "ageYear": 2024
+}

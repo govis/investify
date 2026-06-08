@@ -1,0 +1,53 @@
+{
+  "id": "Marshall Koval",
+  "name": "Marshall Koval",
+  "background": "CEO of Lumina Gold Corp. Over 35 years of experience in executive and technical roles in the mining industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lumina Gold Corp.",
+      "ticker": "LUM",
+      "exchange": "TSXV",
+      "website": "https://luminagold.com/",
+      "logoUrl": "https://mma.prnewswire.com/media/2671508/Lumina_Gold_Corp__Lumina_Gold_Announces_Acquisition_by_CMOC_for_C.jpg",
+      "title": "President, CEO and Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Luminex Resources Corp.",
+      "ticker": "LR",
+      "exchange": "TSXV",
+      "website": "https://luminexresources.com/",
+      "logoUrl": "/companies-assets/LR.TSXV.png",
+      "title": "CEO and Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/marshall-koval-4a5b2a12/",
+      "person_name": "Marshall Koval",
+      "company_name": "Lumina Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Technical Committee (Chair)"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

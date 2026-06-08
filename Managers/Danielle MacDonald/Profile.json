@@ -1,0 +1,30 @@
+{
+  "name": "Danielle MacDonald",
+  "first_name": "Danielle",
+  "last_name": "MacDonald",
+  "age": null,
+  "age_year": null,
+  "background": "Ms. MacDonald is a CPA, CA with over 15 years of experience in financial reporting and corporate compliance for public companies in the mining industry.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Prospector Metals Corp.",
+      "ticker": "PPP",
+      "exchange": "TSXV",
+      "title_or_role": "Corporate Secretary",
+      "website": "https://prospectormetalscorp.com/",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

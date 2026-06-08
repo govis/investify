@@ -1,0 +1,50 @@
+{
+  "name": "Peter Manuel",
+  "first_name": "Peter",
+  "last_name": "Manuel",
+  "age": 55,
+  "age_year": 2024,
+  "background": "Mr. Manuel is a Chartered Professional Accountant with over 25 years of experience in financial reporting, corporate finance, and strategic planning. He has served as CFO for several public companies in the resource sector.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Ucore Rare Metals Inc.",
+      "ticker": "UCU",
+      "exchange": "TSXV",
+      "title_or_role": "Chief Financial Officer, Secretary & VP",
+      "website": "https://ucore.com/",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sixth Wave Innovations Inc.",
+      "ticker": "SIXW",
+      "exchange": "CSE",
+      "website": "https://www.sixthwave.com/",
+      "title_or_role": "Interim Chief Financial Officer",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/peter-manuel-28374b141",
+      "person_name": "Peter Manuel",
+      "company_name": "Ucore Rare Metals Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

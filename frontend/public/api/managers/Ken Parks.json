@@ -1,0 +1,50 @@
+{
+  "id": "Ken Parks",
+  "name": "Ken Parks",
+  "background": "Ken Parks is the Chief Financial Officer of GE Vernova. Before joining GE Vernova, he served as CFO of Owens Corning and previously as CFO of Mylan N.V. He also held senior financial leadership roles at United Technologies Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Owens Corning",
+      "ticker": "OC",
+      "exchange": "NYSE",
+      "website": "https://www.owenscorning.com",
+      "logoUrl": "/companies-assets/OC.NYSE.svg",
+      "title": "Senior Vice President and Chief Financial Officer",
+      "startDate": "2020-09-08",
+      "endDate": "2023-09-15",
+      "formattedStartDate": "September 2020",
+      "formattedEndDate": "September 2023"
+    },
+    {
+      "name": "Mylan N.V.",
+      "ticker": "MYL",
+      "exchange": "NASDAQ",
+      "website": "https://www.viatris.com",
+      "logoUrl": "/companies-assets/MYL.NASDAQ.png",
+      "title": "Chief Financial Officer",
+      "startDate": "2016-06-01",
+      "endDate": "2020-11-16",
+      "formattedStartDate": "June 2016",
+      "formattedEndDate": "November 2020"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ken-s-parks",
+      "person_name": "Ken Parks",
+      "company_name": "GE Vernova",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 60,
+  "ageYear": 2024
+}

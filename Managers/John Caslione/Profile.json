@@ -1,0 +1,42 @@
+{
+  "name": "John Caslione",
+  "first_name": "John",
+  "last_name": "Caslione",
+  "age": 71,
+  "age_year": 2024,
+  "background": "Founder, President and CEO of GCS Business Capital, LLC. Expert in global business strategy and emerging markets.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Entergy Corporation",
+      "ticker": "ETR",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.entergy.com",
+      "start_date": "2015-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/john-caslione-7a5a1a10",
+      "person_name": "John Caslione",
+      "company_name": "GCS Business Capital, LLC",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit",
+    "Finance"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

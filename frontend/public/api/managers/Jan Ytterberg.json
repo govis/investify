@@ -1,0 +1,39 @@
+{
+  "id": "Jan Ytterberg",
+  "name": "Jan Ytterberg",
+  "background": "Senior Advisor. Previously CFO of AB Volvo and Scania. Member of the Group Executive Board since 2018.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AB Volvo",
+      "ticker": "VOLV-B",
+      "exchange": "STO",
+      "website": "https://www.volvogroup.com",
+      "logoUrl": "/companies-assets/VOLV-B.STO.svg",
+      "title": "Executive Vice President & Chief Financial Officer",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Husqvarna AB",
+      "ticker": "HUSQ-B",
+      "exchange": "STO",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Vice President & Chief Financial Officer",
+      "startDate": "2008",
+      "endDate": "2018",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2018"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 63,
+  "ageYear": 2024
+}

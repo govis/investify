@@ -1,0 +1,40 @@
+{
+  "name": "Terrell Spears",
+  "first_name": "Terrell",
+  "last_name": "Spears",
+  "age": 58,
+  "age_year": 2024,
+  "background": "Terrell Spears is Senior Vice President, Global Operations and Corporate Quality. He joined Applied in 2008 and has led various manufacturing and supply chain organizations.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Applied Materials, Inc.",
+      "ticker": "AMAT",
+      "exchange": "NASDAQ",
+      "title_or_role": "Senior Vice President, Global Operations and Corporate Quality",
+      "website": "https://www.appliedmaterials.com",
+      "start_date": "2020-01-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/terrell-spears-790a27b5",
+      "person_name": "Terrell Spears",
+      "company_name": "Applied Materials",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

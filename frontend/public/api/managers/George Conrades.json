@@ -1,0 +1,137 @@
+{
+  "id": "George Conrades",
+  "name": "George Conrades",
+  "background": "Chairman Emeritus of Akamai Technologies, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Oracle Corporation",
+      "ticker": "ORCL",
+      "exchange": "NYSE",
+      "website": "https://www.oracle.com",
+      "logoUrl": "/companies-assets/ORCL.NYSE.svg",
+      "title": "Director",
+      "startDate": "2006",
+      "endDate": "2026",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2026"
+    },
+    {
+      "name": "Akamai Technologies, Inc.",
+      "ticker": "AKAM",
+      "exchange": "NASDAQ",
+      "website": "akamai.com",
+      "logoUrl": "/companies-assets/AKAM.NASDAQ.svg",
+      "title": "Chairman / CEO",
+      "startDate": "1999",
+      "endDate": "2013",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Harley-Davidson, Inc.",
+      "ticker": "HOG",
+      "exchange": "NYSE",
+      "website": "harley-davidson.com",
+      "logoUrl": "/companies-assets/HOG.NYSE.svg",
+      "title": "Director",
+      "startDate": "2005",
+      "endDate": "2024",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Ironwood Pharmaceuticals, Inc.",
+      "ticker": "IRWD",
+      "exchange": "NASDAQ",
+      "website": "ironwoodpharma.com",
+      "logoUrl": "/companies-assets/IRWD.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": "2023",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Cyclerion Therapeutics, Inc.",
+      "ticker": "CYCN",
+      "exchange": "NASDAQ",
+      "website": "cyclerion.com",
+      "logoUrl": "/companies-assets/CYCN.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": "2023",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Cardinal Health, Inc.",
+      "ticker": "CAH",
+      "exchange": "NYSE",
+      "website": "https://www.cardinalhealth.com",
+      "logoUrl": "/companies-assets/CAH.NYSE.svg",
+      "title": "Director",
+      "startDate": "1999",
+      "endDate": "2008",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2008"
+    },
+    {
+      "name": "Viacom Inc.",
+      "ticker": "VIAB",
+      "exchange": "NASDAQ",
+      "website": "viacom.com",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Viacom_logo.svg",
+      "title": "Director",
+      "startDate": "1999",
+      "endDate": "2003",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2003"
+    },
+    {
+      "name": "Infinity Broadcasting Corporation",
+      "ticker": "INF",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "/companies-assets/INF.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "1999",
+      "endDate": "2003",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2003"
+    },
+    {
+      "name": "Bolt, Beranek and Newman (BBN)",
+      "ticker": "BBN",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "/companies-assets/BBN.NYSE.svg",
+      "title": "Chairman / Director",
+      "startDate": "1994",
+      "endDate": "2009",
+      "formattedStartDate": "1994",
+      "formattedEndDate": "2009"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/georgeconrades",
+      "person_name": "George Conrades",
+      "company_name": "Akamai Technologies",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 85,
+  "ageYear": 2024
+}

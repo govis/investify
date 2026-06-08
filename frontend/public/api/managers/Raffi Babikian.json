@@ -1,0 +1,30 @@
+{
+  "id": "Raffi Babikian",
+  "name": "Raffi Babikian",
+  "background": "Mr. Babikian has over 15 years of experience in the uranium industry, including roles in investment banking and corporate development.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Laramide Resources Ltd.",
+      "ticker": "LAM",
+      "exchange": "TSX",
+      "website": "https://laramide.com",
+      "logoUrl": "/companies-assets/LAM.TSX.svg",
+      "title": "Independent Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 45,
+  "ageYear": 2024
+}

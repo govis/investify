@@ -1,0 +1,50 @@
+{
+  "id": "John Griffith",
+  "name": "John Griffith",
+  "background": "Mr. Griffith has served as our Chief Development Officer since September 2020. He has over 25 years of experience in the mining sector, including senior roles in investment banking at Merrill Lynch and HSBC.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Gold Royalty Corp.",
+      "ticker": "GROY",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Development Officer, President",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Bank of America Corporation",
+      "ticker": "BAC",
+      "exchange": "NYSE",
+      "website": "https://www.bankofamerica.com",
+      "logoUrl": "/companies-assets/BAC.NYSE.svg",
+      "title": "Managing Director, Head of Americas Metals & Mining Investment Banking",
+      "startDate": "2006",
+      "endDate": "2020-05",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "May 2020"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/john-g-b252b2108",
+      "person_name": "John Griffith",
+      "company_name": "Gold Royalty Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 54,
+  "ageYear": 2023
+}

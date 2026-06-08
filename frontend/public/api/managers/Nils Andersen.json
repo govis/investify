@@ -1,0 +1,79 @@
+{
+  "id": "Nils Andersen",
+  "name": "Nils Andersen",
+  "background": "Nils Andersen was appointed to the Supervisory Board in 2023 and became Chairman in 2024. He is the former CEO of A.P. Moller-Maersk and Carlsberg.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "ASML Holding N.V.",
+      "ticker": "ASML",
+      "exchange": "NASDAQ / Euronext Amsterdam",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman of the Supervisory Board",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Unilever PLC",
+      "ticker": "UL",
+      "exchange": "LSE / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman",
+      "startDate": "2019",
+      "endDate": "2023",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "AkzoNobel N.V.",
+      "ticker": "AKZA",
+      "exchange": "Euronext Amsterdam",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman of the Supervisory Board",
+      "startDate": "2018",
+      "endDate": "2020",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "BP p.l.c.",
+      "ticker": "BP",
+      "exchange": "LSE / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Director",
+      "startDate": "2015",
+      "endDate": "2020",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "A.P. Moller-Maersk A/S",
+      "ticker": "MAERSK-B",
+      "exchange": "Nasdaq Copenhagen",
+      "website": null,
+      "logoUrl": null,
+      "title": "Group Chief Executive Officer",
+      "startDate": "2007",
+      "endDate": "2016",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2016"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Selection and Nomination Committee (Chair)",
+    "Technology Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

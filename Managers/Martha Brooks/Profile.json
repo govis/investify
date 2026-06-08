@@ -1,0 +1,81 @@
+{
+  "name": "Martha Brooks",
+  "first_name": "Martha",
+  "last_name": "Brooks",
+  "age": 65,
+  "age_year": 2024,
+  "background": "Former President and COO of Novelis Inc. Director of Constellium SE.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "AB Volvo",
+      "ticker": "VOLV-B",
+      "exchange": "STO",
+      "title_or_role": "Director",
+      "website": "https://www.volvogroup.com",
+      "start_date": "2016-04-01",
+      "end_date": null
+    },
+    {
+      "name": "Jabil Inc.",
+      "ticker": "JBL",
+      "exchange": "NYSE",
+      "website": "https://www.jabil.com",
+      "title_or_role": "Director",
+      "start_date": "March 2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Harley-Davidson, Inc.",
+      "ticker": "HOG",
+      "exchange": "NYSE",
+      "website": "https://www.harley-davidson.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Constellium SE",
+      "ticker": "CSTM",
+      "exchange": "NYSE",
+      "website": "https://www.constellium.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "June 2016",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Novelis, Inc.",
+      "ticker": "NVL",
+      "exchange": "NYSE",
+      "website": "https://www.novelis.com",
+      "title_or_role": "President and Chief Operating Officer",
+      "start_date": "2005",
+      "end_date": "2007",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/martha-brooks-475a8334",
+      "person_name": "Martha Brooks",
+      "company_name": "AB Volvo, Jabil Inc., Harley-Davidson, Inc., Constellium SE",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Remuneration Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "Haytham Hodaly",
+  "name": "Haytham Hodaly",
+  "background": "Mr. Hodaly joined Wheaton in 2012 and has over 20 years of experience in the mining industry, primarily in corporate development and investment banking.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NEXE Innovations, Inc.",
+      "ticker": "NEXE",
+      "exchange": "TSXV",
+      "website": "nexeinnovations.com",
+      "logoUrl": "/companies-assets/NEXE.TSXV.svg",
+      "title": "Director",
+      "startDate": "2020-12",
+      "endDate": "2026-01",
+      "formattedStartDate": "December 2020",
+      "formattedEndDate": "January 2026"
+    },
+    {
+      "name": "Goldsource Mines Inc.",
+      "ticker": "GXS",
+      "exchange": "TSXV",
+      "website": "goldsourcemines.com",
+      "logoUrl": "https://www.goldsourcemines.com/themes/custom/goldsource/logo.svg",
+      "title": "Director",
+      "startDate": "2017-03",
+      "endDate": null,
+      "formattedStartDate": "March 2017",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/haytham-hodaly-a2467451",
+      "person_name": "Haytham Hodaly",
+      "company_name": "Wheaton Precious Metals Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 53,
+  "ageYear": 2024
+}

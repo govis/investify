@@ -1,0 +1,64 @@
+{
+  "name": "Akhil Johri",
+  "first_name": "Akhil",
+  "last_name": "Johri",
+  "age": 62,
+  "age_year": 2024,
+  "background": "Former Executive Vice President and CFO of United Technologies Corporation.",
+  "picture_url": null,
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
+    {
+      "name": "The Boeing Company",
+      "ticker": "BA",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.boeing.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cardinal Health, Inc.",
+      "ticker": "CAH",
+      "exchange": "NYSE",
+      "website": "https://www.cardinalhealth.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "RTX Corporation",
+      "ticker": "RTX",
+      "exchange": "NYSE",
+      "website": "https://www.rtx.com",
+      "title_or_role": "Special Advisor to the Chairman and Chief Executive Officer",
+      "start_date": "2019",
+      "end_date": "2020",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/akhil-johri-b59a10296",
+      "person_name": "Akhil Johri",
+      "company_name": "The Boeing Company, Cardinal Health, Inc., RTX Corporation",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
+  "committees": [
+    "Audit (Chair)",
+    "Finance"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 0
+}

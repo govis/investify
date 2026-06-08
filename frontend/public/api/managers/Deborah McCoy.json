@@ -1,0 +1,43 @@
+{
+  "id": "Deborah McCoy",
+  "name": "Deborah McCoy",
+  "background": "Retired Senior Vice President, Flight Operations, Continental Airlines, Inc. She served in this role from 1999 until 2005.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Eaton Corporation plc",
+      "ticker": "ETN",
+      "exchange": "NYSE",
+      "website": "https://www.eaton.com",
+      "logoUrl": "/companies-assets/ETN.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "2000",
+      "endDate": "2023",
+      "formattedStartDate": "2000",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Continental Airlines, Inc.",
+      "ticker": "CAL",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "/companies-assets/CAL.NYSE.svg",
+      "title": "Senior Vice President, Flight Operations",
+      "startDate": "1999",
+      "endDate": "2005",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2005"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit",
+    "Governance"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

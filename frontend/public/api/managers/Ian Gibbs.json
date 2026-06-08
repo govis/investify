@@ -1,0 +1,101 @@
+{
+  "id": "Ian Gibbs",
+  "name": "Ian Gibbs",
+  "background": "Mr. Gibbs is a Canadian Chartered Professional Accountant with over 25 years of experience in the resource sector. He has served as CFO for several public companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lundin Gold Inc.",
+      "ticker": "LUG",
+      "exchange": "TSX",
+      "website": "https://lundingold.com",
+      "logoUrl": "/companies-assets/LUG.TSX.svg",
+      "title": "Director",
+      "startDate": "2005",
+      "endDate": null,
+      "formattedStartDate": "2005",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Fireweed Metals Corp.",
+      "ticker": "FWZ",
+      "exchange": "TSXV",
+      "website": "https://fireweedmetals.com/",
+      "logoUrl": "/companies-assets/FWZ.TSXV.png",
+      "title": "President, CEO & Director",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Lucara Diamond Corp.",
+      "ticker": "LUC",
+      "exchange": "TSX",
+      "website": "lucaradiamond.com",
+      "logoUrl": "/companies-assets/LUC.TSX.png",
+      "title": "Director",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "NGEx Minerals Ltd.",
+      "ticker": "NGEX",
+      "exchange": "TSXV",
+      "website": "ngexminerals.com",
+      "logoUrl": "/companies-assets/NGEX.TSXV.svg",
+      "title": "Director",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Filo Corp. (formerly Filo Mining)",
+      "ticker": "FIL",
+      "exchange": "TSX",
+      "website": "filocorp.com",
+      "logoUrl": "/companies-assets/FIL.TSX.svg",
+      "title": "CFO",
+      "startDate": "2016",
+      "endDate": "2024",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Josemaría Resources Inc.",
+      "ticker": "JOSE",
+      "exchange": "TSX",
+      "website": "josemariaresources.com",
+      "logoUrl": "/companies-assets/JOSE.TSX.svg",
+      "title": "CFO",
+      "startDate": "2016",
+      "endDate": "2022",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2022"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/iangibbs",
+      "person_name": "Ian Gibbs",
+      "company_name": "Fireweed Metals Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/D4E03AQED82ZJr60odQ/profile-displayphoto-shrink_200_200/B4EZX2OUn1HgAY-/0/1743592704956?e=2147483647&v=beta&t=UV5x6pM75iIzjJPp8t7E4OtxhMJLC8QokbSYsa2qCOA",
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 57,
+  "ageYear": 2024
+}

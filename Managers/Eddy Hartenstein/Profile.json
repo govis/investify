@@ -1,0 +1,83 @@
+{
+  "name": "Eddy Hartenstein",
+  "first_name": "Eddy",
+  "last_name": "Hartenstein",
+  "age": 73,
+  "age_year": 2024,
+  "background": "Mr. Hartenstein has served as a director since 2016. He was previously the CEO of the Los Angeles Times and Chairman and CEO of DIRECTV, Inc. He serves on the boards of Sirius XM Holdings and TiVo Corporation.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Broadcom Inc.",
+      "ticker": "AVGO",
+      "exchange": "NASDAQ",
+      "title_or_role": "Lead Independent Director",
+      "website": "https://www.broadcom.com",
+      "start_date": "2016-02",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sirius XM Holdings Inc.",
+      "ticker": "SIRI",
+      "exchange": "NASDAQ",
+      "website": "https://www.siriusxm.com",
+      "title_or_role": "Director",
+      "start_date": "2009-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Tribune Publishing Company (now MediaNews Group/Tribune Publishing)",
+      "ticker": "TPCO",
+      "exchange": "NASDAQ",
+      "website": "https://www.tribpub.com",
+      "title_or_role": "Non-Executive Chairman / Director",
+      "start_date": "2014-08",
+      "end_date": "2016-02",
+      "validated": true
+    },
+    {
+      "name": "The DIRECTV Group, Inc.",
+      "ticker": "DTV",
+      "exchange": "NASDAQ",
+      "website": "https://www.directv.com",
+      "title_or_role": "Vice Chairman / Director",
+      "start_date": "2003-12",
+      "end_date": "2004-12",
+      "validated": true
+    },
+    {
+      "name": "TiVo Corporation",
+      "ticker": "TIVO",
+      "exchange": "NASDAQ",
+      "website": "https://www.tivo.com",
+      "title_or_role": "Director",
+      "start_date": "2013-05",
+      "end_date": "2016-09",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/eddy-hartenstein-8b8917167",
+      "person_name": "Eddy Hartenstein",
+      "company_name": "Broadcom Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee (Chair)",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

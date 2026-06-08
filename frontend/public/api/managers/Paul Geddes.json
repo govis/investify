@@ -1,0 +1,38 @@
+{
+  "id": "Paul Geddes",
+  "name": "Paul Geddes",
+  "background": "Mr. Geddes is a professional geologist with over 25 years of experience in mineral exploration and development.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "TDG Gold Corp.",
+      "ticker": "TDG",
+      "exchange": "TSXV",
+      "website": "https://tdggold.com/",
+      "logoUrl": "/companies-assets/TDG.TSXV.png",
+      "title": "Senior Vice-President, Business Development and Strategy",
+      "startDate": "2026-04-27",
+      "endDate": null,
+      "formattedStartDate": "April 2026",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/paul-geddes-8a5b2a15/",
+      "person_name": "Paul Geddes",
+      "company_name": "Skeena Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 51,
+  "ageYear": 2024
+}

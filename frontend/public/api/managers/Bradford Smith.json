@@ -1,0 +1,39 @@
+{
+  "id": "Bradford Smith",
+  "name": "Bradford Smith",
+  "background": "Brad Smith is Microsoft’s vice chair and president. He leads a team of more than 1,500 business, legal and corporate affairs professionals located in 54 countries and operating in more than 120 nations.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Netflix, Inc.",
+      "ticker": "NFLX",
+      "exchange": "NASDAQ",
+      "website": "netflix.com",
+      "logoUrl": "/companies-assets/NFLX.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "March 2015",
+      "endDate": null,
+      "formattedStartDate": "March 2015",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bradsmi",
+      "person_name": "Brad Smith",
+      "company_name": "Microsoft",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 65,
+  "ageYear": 2024
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Brian Edgar",
+  "first_name": "Brian",
+  "last_name": "Edgar",
+  "age": 73,
+  "age_year": 2024,
+  "background": "Mr. Edgar is a lawyer and has served as a director of numerous public companies. He was the President and CEO of Dome Ventures Corp. until its merger with Vicuna Resources Inc.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Denison Mines Corp.",
+      "ticker": "DNN",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://denisonmines.com",
+      "start_date": "2005-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Denison Mines Corp.",
+      "ticker": "DNN",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://denisonmines.com",
+      "start_date": "2005-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Lundin Mining Corporation",
+      "ticker": "LUN",
+      "exchange": "TSX",
+      "website": "https://www.lundinmining.com",
+      "title_or_role": "Director",
+      "start_date": "1994",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Metalline Mining Company",
+      "ticker": "MMG",
+      "exchange": "OTC",
+      "website": null,
+      "title_or_role": "President and Chief Executive Officer / Executive Chairman",
+      "start_date": "2005",
+      "end_date": "2011",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

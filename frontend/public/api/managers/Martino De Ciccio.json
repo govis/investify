@@ -1,0 +1,66 @@
+{
+  "id": "Martino De Ciccio",
+  "name": "Martino De Ciccio",
+  "background": "Mr. De Ciccio is a finance professional with extensive experience in the mining industry, particularly in corporate development and investor relations.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Montage Gold Corp.",
+      "ticker": "MAU",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Executive Officer & Director",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Bluestone Resources Inc.",
+      "ticker": "BSR",
+      "exchange": "TSXV",
+      "website": "bluestoneresources.ca",
+      "logoUrl": "/companies-assets/BSR.TSXV.png",
+      "title": "Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "TSX",
+      "website": "https://www.endeavourmining.com",
+      "logoUrl": "/companies-assets/EDV.TSX.svg",
+      "title": "Vice President, Strategy and Investor Relations",
+      "startDate": null,
+      "endDate": "2023",
+      "formattedStartDate": "",
+      "formattedEndDate": "2023"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/martino-de-ciccio-koné-soman-82833214",
+      "person_name": "Martino De Ciccio",
+      "company_name": "Montage Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Governance and Nominating Committee"
+  ],
+  "age": 42,
+  "ageYear": 2024
+}

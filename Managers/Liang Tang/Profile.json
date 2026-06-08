@@ -1,0 +1,40 @@
+{
+  "name": "Liang Tang",
+  "first_name": "Liang",
+  "last_name": "Tang",
+  "age": 48,
+  "age_year": 2024,
+  "background": "Ms. Tang is the Executive Vice President, General Counsel and Company Secretary. She joined OceanaGold in 2009 and has over 20 years of experience in legal and corporate governance within the mining industry.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC",
+      "exchange": "ASX",
+      "title_or_role": "Executive Vice President, General Counsel & Company Secretary",
+      "website": "https://oceanagold.com/",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/liang-tang-26514b46",
+      "person_name": "Liang Tang",
+      "company_name": "OceanaGold Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

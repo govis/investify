@@ -1,0 +1,88 @@
+{
+  "id": "Carrie Palin",
+  "name": "Carrie Palin",
+  "background": "Carrie Palin has been a member of our Board since February 2021. She is currently the Senior Vice President and Chief Marketing Officer of Cisco Systems, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NetApp, Inc.",
+      "ticker": "NTAP",
+      "exchange": "NASDAQ",
+      "website": "https://www.netapp.com",
+      "logoUrl": "/companies-assets/NTAP.NASDAQ.svg",
+      "title": "Independent Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "website": "https://www.cisco.com",
+      "logoUrl": "/companies-assets/CSCO.NASDAQ.svg",
+      "title": "Senior Vice President and Chief Marketing Officer",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Splunk Inc.",
+      "ticker": "SPLK",
+      "exchange": "NASDAQ",
+      "website": "https://www.splunk.com",
+      "logoUrl": "/companies-assets/SPLK.NASDAQ.svg",
+      "title": "Senior Vice President and Chief Marketing Officer",
+      "startDate": "2019",
+      "endDate": "2021",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Twilio Inc.",
+      "ticker": "TWLO",
+      "exchange": "NYSE",
+      "website": "https://www.twilio.com",
+      "logoUrl": "/companies-assets/TWLO.NYSE.svg",
+      "title": "Chief Marketing Officer (at SendGrid prior to acquisition)",
+      "startDate": "2017",
+      "endDate": "2019",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Box, Inc.",
+      "ticker": "BOX",
+      "exchange": "NYSE",
+      "website": "https://www.box.com",
+      "logoUrl": "/companies-assets/BOX.NYSE.svg",
+      "title": "Chief Marketing Officer",
+      "startDate": "2015",
+      "endDate": "2017",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2017"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/carrie-palin-37a1802/",
+      "person_name": "Carrie Palin",
+      "company_name": "Cisco",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 53,
+  "ageYear": 2024
+}

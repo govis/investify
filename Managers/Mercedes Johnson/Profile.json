@@ -1,0 +1,82 @@
+{
+  "name": "Mercedes Johnson",
+  "first_name": "Mercedes",
+  "last_name": "Johnson",
+  "age": 70,
+  "age_year": 2024,
+  "background": "Mercedes Johnson has been a director since 2014. She was formerly the Senior Vice President and CFO of Avago Technologies Limited and CFO of Lam Research Corporation.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Teradyne, Inc.",
+      "ticker": "TER",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.teradyne.com",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Synopsys, Inc.",
+      "ticker": "SNPS",
+      "exchange": "NASDAQ",
+      "website": "https://www.synopsys.com",
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Juniper Networks, Inc.",
+      "ticker": "JNPR",
+      "exchange": "NYSE",
+      "website": "https://www.juniper.net",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Intersil Corporation",
+      "ticker": "ISIL",
+      "exchange": "NASDAQ",
+      "website": "https://www.intersil.com",
+      "title_or_role": "Director / Interim Chief Financial Officer",
+      "start_date": "2005",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "Micron Technology, Inc.",
+      "ticker": "MU",
+      "exchange": "NASDAQ",
+      "website": "https://www.micron.com",
+      "title_or_role": "Director",
+      "start_date": "2006",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Storage Technology Corporation (StorageTek)",
+      "ticker": "STK",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2004",
+      "end_date": "2005",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

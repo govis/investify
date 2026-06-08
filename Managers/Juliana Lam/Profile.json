@@ -1,0 +1,62 @@
+{
+  "name": "Juliana Lam",
+  "first_name": "Juliana",
+  "last_name": "Lam",
+  "age": 57,
+  "age_year": 2024,
+  "background": "Ms. Lam is a Chartered Professional Accountant with over 30 years of experience in financial management and corporate strategy across various industries.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lundin Mining Corporation",
+      "ticker": "LUN",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://www.lundinmining.com",
+      "start_date": "2021-05-01",
+      "end_date": null
+    },
+    {
+      "name": "Gibson Energy Inc.",
+      "ticker": "GEI",
+      "exchange": "TSX",
+      "website": "https://www.gibsonenergy.com",
+      "title_or_role": "Director",
+      "start_date": "2021-09-10",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Major Drilling Group International Inc.",
+      "ticker": "MDI",
+      "exchange": "TSX",
+      "website": "https://www.majordrilling.com",
+      "title_or_role": "Director",
+      "start_date": "2020-09-10",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/juliana-lam-1aab7bb1",
+      "person_name": "Juliana Lam",
+      "company_name": "Lundin Mining Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Human Resources and Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

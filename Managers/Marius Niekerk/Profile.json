@@ -1,0 +1,49 @@
+{
+  "name": "Marius Niekerk",
+  "first_name": "Marius",
+  "last_name": "Niekerk",
+  "age": 54,
+  "age_year": 2024,
+  "background": "Mr. van Niekerk was appointed Executive Vice President and Chief Financial Officer in February 2023. He has more than 25 years of experience in the mining and metals industry, having held senior financial leadership roles at Newmont Corporation and BHP Billiton.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC",
+      "exchange": "TSX",
+      "title_or_role": "Chief Financial Officer & Executive Vice President",
+      "website": "https://oceanagold.com",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "OceanaGold Philippines, Inc.",
+      "ticker": "OGP",
+      "exchange": "PSE",
+      "website": "https://oceanagold.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Newcrest Mining Limited",
+      "ticker": "NCM",
+      "exchange": "ASX",
+      "website": "https://www.newmont.com",
+      "title_or_role": "Vice President, Finance - Americas",
+      "start_date": "2019",
+      "end_date": "2023",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

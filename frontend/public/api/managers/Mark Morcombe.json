@@ -1,0 +1,62 @@
+{
+  "id": "Mark Morcombe",
+  "name": "Mark Morcombe",
+  "background": "Mark Morcombe has over 30 years of experience in the mining industry. He previously held senior roles at AngloGold Ashanti and Acacia Mining.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "TSX / LSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Operating Officer",
+      "startDate": "2019-05-06",
+      "endDate": null,
+      "formattedStartDate": "May 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Centamin plc",
+      "ticker": "CEY",
+      "exchange": "LSE",
+      "website": "https://www.centamin.com",
+      "logoUrl": "/companies-assets/CEY.LSE.svg",
+      "title": "Chief Operating Officer",
+      "startDate": "2018-01",
+      "endDate": "2019-02",
+      "formattedStartDate": "January 2018",
+      "formattedEndDate": "February 2019"
+    },
+    {
+      "name": "Acacia Mining plc",
+      "ticker": "ACA",
+      "exchange": "LSE",
+      "website": "https://www.barrick.com",
+      "logoUrl": "/companies-assets/ACA.LSE.svg",
+      "title": "Chief Operating Officer",
+      "startDate": "2017-03",
+      "endDate": "2017-11",
+      "formattedStartDate": "March 2017",
+      "formattedEndDate": "November 2017"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ma.linkedin.com/in/markmorcombe",
+      "person_name": "Mark Morcombe",
+      "company_name": "Endeavour Mining plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 58,
+  "ageYear": 2024
+}

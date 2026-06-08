@@ -1,0 +1,52 @@
+{
+  "id": "Sherif Marakby",
+  "name": "Sherif Marakby",
+  "background": "Mr. Marakby has served as a director since 2021. He is an advisor to various mobility companies and previously served as President and CEO of Ford Autonomous Vehicles LLC and Vice President of Autonomous Vehicles and Mobility at Ford.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "American Battery Technology Company",
+      "ticker": "ABAT",
+      "exchange": "NASDAQ",
+      "website": "https://americanbatterytechnology.com/",
+      "logoUrl": "/companies-assets/ABAT.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2022-02-28",
+      "endDate": "2025-09-15",
+      "formattedStartDate": "February 2022",
+      "formattedEndDate": "September 2025"
+    },
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "website": "https://www.ford.com",
+      "logoUrl": "/companies-assets/F.NYSE.svg",
+      "title": "Vice President, Autonomous Vehicles and Electrification",
+      "startDate": "2017-06-01",
+      "endDate": "2020-07-01",
+      "formattedStartDate": "June 2017",
+      "formattedEndDate": "July 2020"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sherifmarakby",
+      "person_name": "Sherif Marakby",
+      "company_name": "Lucid Group, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

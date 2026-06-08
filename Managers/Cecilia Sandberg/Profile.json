@@ -1,0 +1,50 @@
+{
+  "name": "Cecilia Sandberg",
+  "first_name": "Cecilia",
+  "last_name": "Sandberg",
+  "age": 56,
+  "age_year": 2024,
+  "background": "Cecilia Sandberg is the Senior Vice President, Chief Human Resources Officer. She joined Atlas Copco in 2015 and has extensive experience in HR from various international companies.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Atlas Copco AB",
+      "ticker": "ATCO-A.ST",
+      "exchange": "Nasdaq Stockholm",
+      "title_or_role": "Vice President Human Resources (Industrial Technique business area)",
+      "website": "https://www.atlascopcogroup.com",
+      "start_date": "2007",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "AstraZeneca PLC",
+      "ticker": "AZN",
+      "exchange": "LSE",
+      "website": "https://www.astrazeneca.com",
+      "title_or_role": "Human Resources roles",
+      "start_date": "1999",
+      "end_date": "2007",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/cecilia-sandberg-8a5a5a15/",
+      "person_name": "Cecilia Sandberg",
+      "company_name": "Atlas Copco AB",
+      "profile_status": "not_found",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

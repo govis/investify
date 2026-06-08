@@ -1,0 +1,55 @@
+{
+  "id": "Laura Schumacher",
+  "name": "Laura Schumacher",
+  "background": "Former Vice Chairman, External Affairs and Chief Legal Officer of AbbVie Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AbbVie Inc.",
+      "ticker": "ABBV",
+      "exchange": "NYSE",
+      "website": "https://www.abbvie.com",
+      "logoUrl": "/companies-assets/ABBV.NYSE.svg",
+      "title": "Vice Chairman, Executive Vice President, General Counsel, and Corporate Secretary",
+      "startDate": "2013",
+      "endDate": "2022",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Abbott Laboratories",
+      "ticker": "ABT",
+      "exchange": "NYSE",
+      "website": "https://www.abbott.com",
+      "logoUrl": "/companies-assets/ABT.NYSE.svg",
+      "title": "Executive Vice President, General Counsel, and Secretary",
+      "startDate": "1990",
+      "endDate": "2013",
+      "formattedStartDate": "1990",
+      "formattedEndDate": "2013"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/lauraduboseschumacher",
+      "person_name": "Laura Schumacher",
+      "company_name": "AbbVie",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit",
+    "Governance",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

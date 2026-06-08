@@ -1,0 +1,65 @@
+{
+  "name": "Dawn Whittaker",
+  "first_name": "Dawn",
+  "last_name": "Whittaker",
+  "age": 63,
+  "age_year": 2024,
+  "background": "Ms. Whittaker is a senior lawyer with over 30 years of experience in corporate law, mergers and acquisitions, and corporate governance.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "NOVAGOLD RESOURCES INC.",
+      "ticker": "NG",
+      "exchange": "TSX, NYSE American",
+      "title_or_role": "Independent Director",
+      "website": "https://www.novagold.com",
+      "start_date": "May 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Triple Flag Precious Metals Corp.",
+      "ticker": "TFPM",
+      "exchange": "TSX, NYSE",
+      "title_or_role": "Independent Chair of the Board",
+      "website": "https://www.tripleflagpm.com",
+      "start_date": "Jan 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kirkland Lake Gold Ltd.",
+      "ticker": "KL",
+      "exchange": "TSX, NYSE",
+      "website": "https://www.kl.gold",
+      "title_or_role": "Director / Chair of Corporate Governance Committee",
+      "start_date": "Unknown",
+      "end_date": "2016",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/dawn-whittaker-49b99870",
+      "person_name": "Dawn Whittaker",
+      "company_name": "NOVAGOLD RESOURCES INC.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Compensation and ESG Committee",
+    "Corporate Governance and Nominating Committee",
+    "Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

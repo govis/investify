@@ -1,0 +1,50 @@
+{
+  "id": "Gerrie van der Westhuizen",
+  "name": "Gerrie van der Westhuizen",
+  "background": "Mr. van der Westhuizen is a Chartered Accountant with over 20 years of experience in the mining industry. He was previously the VP Finance of Atlantic Gold Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cassius Ventures Ltd.",
+      "ticker": "CZ.H",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman, President, and CEO",
+      "startDate": "2023-10-19",
+      "endDate": null,
+      "formattedStartDate": "October 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Oceanic Iron Ore Corp.",
+      "ticker": "FEO",
+      "exchange": "TSXV",
+      "website": "https://oceanicironore.com/",
+      "logoUrl": "/companies-assets/FEO.TSXV.jpg",
+      "title": "CFO and Corporate Secretary",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "formattedStartDate": "January 2022",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/gerrie-van-der-westhuizen-21765854",
+      "person_name": "Gerrie van der Westhuizen",
+      "company_name": "Artemis Gold Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 47,
+  "ageYear": 2024
+}

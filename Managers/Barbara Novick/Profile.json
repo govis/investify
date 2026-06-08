@@ -1,0 +1,52 @@
+{
+  "name": "Barbara Novick",
+  "first_name": "Barbara",
+  "last_name": "Novick",
+  "age": 63,
+  "age_year": 2024,
+  "background": "Barbara G. Novick has been a director since 2022. She is a co-founder of BlackRock, Inc. and served as Vice Chairman until 2021.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.intel.com",
+      "start_date": "2022-12-01",
+      "end_date": null
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "ticker": "BLK",
+      "exchange": "NYSE",
+      "website": "https://www.blackrock.com",
+      "title_or_role": "Senior Advisor",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/barbara-novick-35014a6a",
+      "person_name": "Barbara Novick",
+      "company_name": "BlackRock, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit & Finance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

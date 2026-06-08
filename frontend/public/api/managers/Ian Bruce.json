@@ -1,0 +1,65 @@
+{
+  "id": "Ian Bruce",
+  "name": "Ian Bruce",
+  "background": "Ian Bruce is the Chair of the Board. He is the former President and CEO of Peters & Co. Limited, an investment firm. He has extensive experience in investment banking and the oil and gas industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCO (TSX), CCJ (NYSE)",
+      "exchange": "TSX, NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director, Chair of the Board",
+      "startDate": "2012",
+      "endDate": "2023",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC (TSX)",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Corvus Gold Inc.",
+      "ticker": "KOR (TSX)",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Trevali Mining Corporation",
+      "ticker": "TV (TSX)",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating, Corporate Governance and Risk Committee"
+  ],
+  "age": 70,
+  "ageYear": 2023
+}

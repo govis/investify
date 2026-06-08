@@ -1,0 +1,50 @@
+{
+  "name": "Leon Topalian",
+  "first_name": "Leon",
+  "last_name": "Topalian",
+  "age": 56,
+  "age_year": 2024,
+  "background": "Mr. Topalian has served as Chair of the Board since September 2022, President and Chief Executive Officer since January 2020, and President and Chief Operating Officer from September 2019 to December 2019. He previously served as an Executive Vice President from 2017 to 2019 and a Vice President from 2013 to 2017. He has been with Nucor since 1996.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Nucor Corporation",
+      "ticker": "NUE",
+      "exchange": "NYSE",
+      "title_or_role": "Chair, President, and Chief Executive Officer",
+      "website": "https://www.nucor.com",
+      "start_date": "January 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "PPG Industries, Inc.",
+      "ticker": "PPG",
+      "exchange": "NYSE",
+      "website": "https://www.ppg.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "July 16, 2025",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/leon-topalian-4a5a5a15",
+      "person_name": "Leon Topalian",
+      "company_name": "Nucor Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

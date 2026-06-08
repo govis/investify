@@ -1,0 +1,62 @@
+{
+  "id": "Lee Banks",
+  "name": "Lee Banks",
+  "background": "Former Vice Chairman and President of Parker-Hannifin Corporation. He served as President and Chief Operating Officer from 2015 to 2022.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Parker-Hannifin Corporation",
+      "ticker": "PH",
+      "exchange": "NYSE",
+      "website": "https://www.parker.com",
+      "logoUrl": "/companies-assets/PH.NYSE.svg",
+      "title": "President and Chief Operating Officer",
+      "startDate": "1991",
+      "endDate": "2024",
+      "formattedStartDate": "1991",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Wabtec Corporation",
+      "ticker": "WAB",
+      "exchange": "NYSE",
+      "website": "https://www.wabteccorp.com",
+      "logoUrl": "/companies-assets/WAB.NYSE.svg",
+      "title": "Director",
+      "startDate": "December 10, 2020",
+      "endDate": null,
+      "formattedStartDate": "December 10, 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Nordson Corporation",
+      "ticker": "NDSN",
+      "exchange": "NASDAQ",
+      "website": "https://www.nordson.com",
+      "logoUrl": "/companies-assets/NDSN.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": "2020",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2020"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/lee-banks-29a67b47",
+      "person_name": "Lee Banks",
+      "company_name": "Parker-Hannifin Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

@@ -1,0 +1,83 @@
+{
+  "name": "Nick Cernotta",
+  "first_name": "Nick",
+  "last_name": "Cernotta",
+  "age": 62,
+  "age_year": 2024,
+  "background": "Mr Cernotta is a mining engineer with over 35 years\u2019 experience in the mining industry. He has held senior executive roles at Fortescue Metals Group, Macmahon Holdings, and Barrick Gold.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Northern Star Resources Limited",
+      "ticker": "NST",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Director",
+      "website": "nstmining.com.au",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "29Metals Limited",
+      "ticker": "29M",
+      "exchange": "ASX",
+      "website": "29metals.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Critica Limited",
+      "ticker": "CRI",
+      "exchange": "ASX",
+      "website": "critica.limited",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Pilbara Minerals Limited",
+      "ticker": "PLS",
+      "exchange": "ASX",
+      "website": "pilbaraminerals.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2017",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Macmahon Holdings Limited",
+      "ticker": "MAH",
+      "exchange": "ASX",
+      "website": "macmahon.com.au",
+      "title_or_role": "COO: Underground & Intl & Engg",
+      "start_date": "Unknown",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/nick-cernotta-4a5b2a15",
+      "person_name": "Nick Cernotta",
+      "company_name": "Northern Star Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "ESG Committee (Chair)",
+    "Remuneration Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

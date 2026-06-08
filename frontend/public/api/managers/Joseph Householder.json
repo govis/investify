@@ -1,0 +1,52 @@
+{
+  "id": "Joseph Householder",
+  "name": "Joseph Householder",
+  "background": "Former President and COO of Sempra Energy. Director since 2014.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Advanced Micro Devices, Inc.",
+      "ticker": "AMD",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "logoUrl": "/companies-assets/AMD.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sempra",
+      "ticker": "SRE",
+      "exchange": "NYSE",
+      "website": "https://www.sempra.com",
+      "logoUrl": "/companies-assets/SRE.NYSE.svg",
+      "title": "Various Executive Roles",
+      "startDate": "2001",
+      "endDate": "2006",
+      "formattedStartDate": "2001",
+      "formattedEndDate": "2006"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/joseph-householder-76353146",
+      "person_name": "Joseph Householder",
+      "company_name": "Advanced Micro Devices, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

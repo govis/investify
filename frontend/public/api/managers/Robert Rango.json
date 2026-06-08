@@ -1,0 +1,52 @@
+{
+  "id": "Robert Rango",
+  "name": "Robert Rango",
+  "background": "Robert Rango is the former President and CEO of Enevate Corporation and previously held senior leadership roles at Broadcom Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "KLA Corporation",
+      "ticker": "KLAC",
+      "exchange": "NASDAQ",
+      "website": "https://www.kla.com",
+      "logoUrl": "/companies-assets/KLAC.NASDAQ.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "September 1, 2014",
+      "endDate": null,
+      "formattedStartDate": "September 1, 2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Microchip Technology Inc.",
+      "ticker": "MCHP",
+      "exchange": "NASDAQ",
+      "website": "https://www.microchip.com",
+      "logoUrl": "/companies-assets/MCHP.NASDAQ.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bobrango",
+      "person_name": "Robert Rango",
+      "company_name": "KLA Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

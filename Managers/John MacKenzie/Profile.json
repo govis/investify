@@ -1,0 +1,60 @@
+{
+  "name": "John MacKenzie",
+  "first_name": "John",
+  "last_name": "MacKenzie",
+  "age": 55,
+  "age_year": 2024,
+  "background": "Mr. MacKenzie has over 30 years of experience in the metals and mining industry. Prior to the business combination of Capstone Mining and Mantos Copper, he was the Executive Chairman of Mantos Copper. He previously served as CEO of Copper for Anglo American.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Capstone Copper Corp.",
+      "ticker": "CS",
+      "exchange": "TSX",
+      "title_or_role": "CEO and Director (formerly Board Chair)",
+      "website": "https://capstonecopper.com",
+      "start_date": "March 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Horizonte Minerals Plc",
+      "ticker": "HZM",
+      "exchange": "TSX",
+      "website": "https://horizonteminerals.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "July 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Gold Fields Limited",
+      "ticker": "GFI",
+      "exchange": "NYSE",
+      "website": "https://www.goldfields.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "August 1, 2025",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/john-mackenzie-a9445711",
+      "person_name": "John MacKenzie",
+      "company_name": "Capstone Copper Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "Pablo Altimiras",
+  "name": "Pablo Altimiras",
+  "background": "Mr. Altimiras joined the Company in 2007. He has served as our Executive Vice President of Nitrates and Potassium since 2018. He is a Chilean citizen and holds a degree in industrial engineering from the Pontificia Universidad Católica de Chile.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sociedad Química y Minera de Chile S.A. (SQM)",
+      "ticker": "SQM",
+      "exchange": "NYSE",
+      "website": "https://www.sqm.com",
+      "logoUrl": "/companies-assets/SQM.NYSE.svg",
+      "title": "Senior Vice-President for Lithium and Iodine Business",
+      "startDate": "Prior to 2020",
+      "endDate": "07/2024",
+      "formattedStartDate": "Prior to 2020",
+      "formattedEndDate": "07/2024"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://cl.linkedin.com/in/pablo-altimiras-24371114",
+      "person_name": "Pablo Altimiras",
+      "company_name": "Sociedad Química y Minera de Chile S.A.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 45,
+  "ageYear": 2024
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Bradley Sawatzke",
+  "first_name": "Bradley",
+  "last_name": "Sawatzke",
+  "age": 65,
+  "age_year": 2024,
+  "background": "Former CEO of Energy Northwest. He has extensive experience in nuclear power plant operations and management.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Centrus Energy Corp.",
+      "ticker": "LEU",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.centrusenergy.com/",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

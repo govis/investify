@@ -1,0 +1,64 @@
+{
+  "id": "Glenn August",
+  "name": "Glenn August",
+  "background": "Mr. August has served as a director since 2021. He is the Founder and CEO of Oak Hill Advisors, L.P. and serves as a member of the Board of Directors of T. Rowe Price Group, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "MultiPlan Corporation",
+      "ticker": "MPLN",
+      "exchange": "NYSE",
+      "website": "https://www.multiplan.com",
+      "logoUrl": "/companies-assets/MPLN.NYSE.svg",
+      "title": "Board Director",
+      "startDate": "February 2020",
+      "endDate": "September 6, 2024",
+      "formattedStartDate": "February 2020",
+      "formattedEndDate": "September 6, 2024"
+    },
+    {
+      "name": "Cooper-Standard Holdings Inc.",
+      "ticker": "CPS",
+      "exchange": "NYSE",
+      "website": "https://www.cooperstandard.com/",
+      "logoUrl": "/companies-assets/CPS.NYSE.svg",
+      "title": "Board Director",
+      "startDate": "May 2010",
+      "endDate": "May 2017",
+      "formattedStartDate": "May 2010",
+      "formattedEndDate": "May 2017"
+    },
+    {
+      "name": "OHA Investment Corporation",
+      "ticker": "OHAI",
+      "exchange": "NASDAQ",
+      "website": "https://www.ohainvestment.com/",
+      "logoUrl": "https://brandfetch.com/oakhilladvisors.com",
+      "title": "Board Director",
+      "startDate": "Prior to 2019",
+      "endDate": "December 2019",
+      "formattedStartDate": "Prior to 2019",
+      "formattedEndDate": "December 2019"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/glenn-august-62168922",
+      "person_name": "Glenn August",
+      "company_name": "Oak Hill Advisors, L.P.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

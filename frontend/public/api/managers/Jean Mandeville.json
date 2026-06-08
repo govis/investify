@@ -1,0 +1,53 @@
+{
+  "id": "Jean Mandeville",
+  "name": "Jean Mandeville",
+  "background": "Former Chief Financial Officer of Mach S.à.r.l.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Digital Realty Trust, Inc.",
+      "ticker": "DLR",
+      "exchange": "NYSE",
+      "website": "https://www.digitalrealty.com",
+      "logoUrl": "/companies-assets/DLR.NYSE.svg",
+      "title": "Director",
+      "startDate": "March 2020",
+      "endDate": null,
+      "formattedStartDate": "March 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Global Crossing Limited",
+      "ticker": "GLBC",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "/companies-assets/GLBC.NASDAQ.svg",
+      "title": "Chief Financial Officer & Executive Vice President",
+      "startDate": "Unknown",
+      "endDate": "Unknown",
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Interxion Holding N.V.",
+      "ticker": "INXN",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Interxion_logo.svg/1200px-Interxion_logo.svg.png",
+      "title": "Chairman / Non-Executive Director",
+      "startDate": "Unknown",
+      "endDate": "Unknown",
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

@@ -1,0 +1,44 @@
+{
+  "id": "Christopher McFadden",
+  "name": "Christopher McFadden",
+  "background": "Mr. McFadden is a lawyer with over 20 years of experience in the mining industry, currently serving as Chairman of NexGen Energy.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "IsoEnergy Ltd.",
+      "ticker": "ISO",
+      "exchange": "TSXV",
+      "website": "https://www.isoenergy.ca",
+      "logoUrl": "/companies-assets/ISO.TSXV.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "NexGen Energy Ltd.",
+      "ticker": "NXE",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director and Chairman of the Board",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee",
+    "Governance and Nominating Committee"
+  ],
+  "age": 54,
+  "ageYear": 2024
+}

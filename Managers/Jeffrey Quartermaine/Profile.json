@@ -1,0 +1,70 @@
+{
+  "name": "Jeffrey Quartermaine",
+  "first_name": "Jeffrey",
+  "last_name": "Quartermaine",
+  "age": 68,
+  "age_year": 2024,
+  "background": "Mr. Quartermaine has more than 30 years of experience in senior financial and strategic management roles with ASX and TSX-listed resources companies. He has been central to the development of Perseus Mining into a multi-mine gold producer.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Perseus Mining Limited",
+      "ticker": "PRU",
+      "exchange": "ASX",
+      "title_or_role": "Managing Director & CEO",
+      "website": "https://perseusmining.com",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Valor Resources Ltd",
+      "ticker": "VAL",
+      "exchange": "ASX",
+      "website": "https://www.valorresources.com.au",
+      "title_or_role": "Chief Financial Officer & Executive Director",
+      "start_date": "Unknown",
+      "end_date": "Unknown",
+      "validated": true
+    },
+    {
+      "name": "Tri Origin Minerals Ltd",
+      "ticker": "TRO",
+      "exchange": "ASX",
+      "website": null,
+      "title_or_role": "Chief Financial Officer & Company Secretary",
+      "start_date": "2008",
+      "end_date": "Unknown",
+      "validated": true
+    },
+    {
+      "name": "Amara Mining Ltd",
+      "ticker": "AMA",
+      "exchange": "LSE (AIM)",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "Unknown",
+      "end_date": "2016",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/jeffrey-quartermaine-470b103aa",
+      "person_name": "Jeffrey Quartermaine",
+      "company_name": "Perseus Mining Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

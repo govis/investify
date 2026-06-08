@@ -1,0 +1,50 @@
+{
+  "id": "Claire McDonough",
+  "name": "Claire McDonough",
+  "background": "Ms. McDonough has served as our Chief Financial Officer since January 2021. Prior to joining Rivian, Ms. McDonough was a Managing Director at J.P. Morgan, where she held various leadership roles in the Investment Bank from 2014 to 2021. She holds a B.A. in Public Policy and Economics from Duke University and an M.B.A. from the University of Chicago Booth School of Business.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Rivian Automotive, Inc.",
+      "ticker": "RIVN",
+      "exchange": "NASDAQ",
+      "website": "https://rivian.com",
+      "logoUrl": "/companies-assets/RIVN.NASDAQ.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "ticker": "JPM",
+      "exchange": "NYSE",
+      "website": "https://www.jpmorganchase.com",
+      "logoUrl": "/companies-assets/JPM.NYSE.svg",
+      "title": "Managing Director, Co-Head of Disruptive Commerce",
+      "startDate": "~2014",
+      "endDate": "2021",
+      "formattedStartDate": "~2014",
+      "formattedEndDate": "2021"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/claire-mcdonough-4a5b1a12",
+      "person_name": "Claire McDonough",
+      "company_name": "Rivian Automotive, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 42,
+  "ageYear": 2024
+}

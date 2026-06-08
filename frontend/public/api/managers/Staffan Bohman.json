@@ -1,0 +1,101 @@
+{
+  "id": "Staffan Bohman",
+  "name": "Staffan Bohman",
+  "background": "Staffan Bohman is a Director with extensive experience in industrial management and board work in several listed companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AB Electrolux",
+      "ticker": "ELUX-B",
+      "exchange": "Nasdaq Stockholm",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman of the Board",
+      "startDate": "2018",
+      "endDate": "2024",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Boliden AB",
+      "ticker": "BOL",
+      "exchange": "Nasdaq Stockholm",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Member",
+      "startDate": "2006",
+      "endDate": "2012",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "Ratos AB",
+      "ticker": "RATO-B",
+      "exchange": "Nasdaq Stockholm",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Member",
+      "startDate": "2006",
+      "endDate": "2012",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "Trelleborg AB",
+      "ticker": "TREL-B",
+      "exchange": "Nasdaq Stockholm",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Member",
+      "startDate": "2006",
+      "endDate": "2010",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2010"
+    },
+    {
+      "name": "Rezidor Hotel Group AB",
+      "ticker": "REZT",
+      "exchange": "Nasdaq Stockholm",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Member",
+      "startDate": "2006",
+      "endDate": "2010",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2010"
+    },
+    {
+      "name": "Sapa AB",
+      "ticker": "SAPA",
+      "exchange": "Nasdaq Stockholm",
+      "website": null,
+      "logoUrl": null,
+      "title": "CEO",
+      "startDate": "1999",
+      "endDate": "2004",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2004"
+    },
+    {
+      "name": "Alfa Laval AB",
+      "ticker": "ALFA",
+      "exchange": "Nasdaq Stockholm",
+      "website": null,
+      "logoUrl": null,
+      "title": "CFO",
+      "startDate": "1988",
+      "endDate": "1991",
+      "formattedStartDate": "1988",
+      "formattedEndDate": "1991"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 75,
+  "ageYear": 2024
+}

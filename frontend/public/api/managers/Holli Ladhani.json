@@ -1,0 +1,54 @@
+{
+  "id": "Holli Ladhani",
+  "name": "Holli Ladhani",
+  "background": "Ms. Ladhani was formerly the President and CEO of Select Energy Services, Inc. She has significant experience in the energy services industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Select Water Solutions, Inc. (formerly Select Energy Services, Inc.)",
+      "ticker": "WTTR",
+      "exchange": "NYSE",
+      "website": "https://selectwater.com/",
+      "logoUrl": "/companies-assets/WTTR.NYSE.svg",
+      "title": "President, Chief Executive Officer, and Director",
+      "startDate": "2017",
+      "endDate": "2021",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Kayne Anderson Energy Infrastructure Fund, Inc.",
+      "ticker": "KYN",
+      "exchange": "NYSE",
+      "website": "https://kaynefunds.com/kyn/",
+      "logoUrl": "/companies-assets/KYN.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/holli-ladhani-a16b24305",
+      "person_name": "Holli Ladhani",
+      "company_name": "Select Water Solutions",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Investment Committee"
+  ],
+  "age": 53,
+  "ageYear": 2024
+}

@@ -1,0 +1,64 @@
+{
+  "id": "Michelle Kley",
+  "name": "Michelle Kley",
+  "background": "Ms. Kley has served as a member of our board of directors since December 2022. She is the Executive Vice President, General Counsel and Secretary of Virgin Galactic Holdings, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Spire Global, Inc.",
+      "ticker": "SPIR",
+      "exchange": "NYSE",
+      "website": "https://spire.com",
+      "logoUrl": "/companies-assets/SPIR.NYSE.svg",
+      "title": "Chief Legal Officer & Secretary",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "EGH Acquisition Corp.",
+      "ticker": "EGHA",
+      "exchange": "NASDAQ",
+      "website": "eghspac.com",
+      "logoUrl": "/companies-assets/EGHA.NASDAQ.svg",
+      "title": "Chief Legal Officer & Secretary",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Volta Inc.",
+      "ticker": "VLTA",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Legal Officer",
+      "startDate": "2021",
+      "endDate": "2023",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2023"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michelle-kley-01191a14",
+      "person_name": "Michelle Kley",
+      "company_name": "Virgin Galactic",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 51,
+  "ageYear": 2024
+}

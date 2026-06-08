@@ -1,0 +1,66 @@
+{
+  "id": "Kaisa Hietala",
+  "name": "Kaisa Hietala",
+  "background": "Former Executive Vice President of Renewable Products at Neste Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Exxon Mobil Corporation",
+      "ticker": "XOM",
+      "exchange": "NYSE",
+      "website": "https://www.exxonmobil.com",
+      "logoUrl": "/companies-assets/XOM.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Rio Tinto Limited",
+      "ticker": "RIO",
+      "exchange": "ASX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Director",
+      "startDate": "2023-03-01",
+      "endDate": null,
+      "formattedStartDate": "March 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Smurfit Westrock plc",
+      "ticker": "SW",
+      "exchange": "NYSE",
+      "website": "smurfitwestrock.com",
+      "logoUrl": "/companies-assets/SW.NYSE.svg",
+      "title": "Senior Independent Non-Executive Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Neste Corporation",
+      "ticker": "NESTE",
+      "exchange": "Nasdaq Helsinki",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Vice President, Renewable Products",
+      "startDate": "1998",
+      "endDate": "2019",
+      "formattedStartDate": "1998",
+      "formattedEndDate": "2019"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Finance Committee",
+    "Public Issues and Contributions Committee"
+  ],
+  "age": 53,
+  "ageYear": 2024
+}

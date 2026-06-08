@@ -1,0 +1,102 @@
+{
+  "id": "Bethany Mayer",
+  "name": "Bethany Mayer",
+  "background": "Ms. Mayer has been a director since 2019. She was President and CEO of Ixia.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Ixia",
+      "ticker": "XXIA",
+      "exchange": "NASDAQ",
+      "website": "https://www.ixiacom.com",
+      "logoUrl": "https://www.logo.wine/a/logo/Ixia_(company)/Ixia_(company)-Logo.wine.svg",
+      "title": "President and Chief Executive Officer",
+      "startDate": "2014",
+      "endDate": "2017",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Box, Inc.",
+      "ticker": "BOX",
+      "exchange": "NYSE",
+      "website": "https://www.box.com",
+      "logoUrl": "/companies-assets/BOX.NYSE.svg",
+      "title": "Independent Board Director",
+      "startDate": "2020-04",
+      "endDate": null,
+      "formattedStartDate": "April 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Marvell Technology, Inc.",
+      "ticker": "MRVL",
+      "exchange": "NASDAQ",
+      "website": "https://www.marvell.com",
+      "logoUrl": "/companies-assets/MRVL.NASDAQ.svg",
+      "title": "Independent Board Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sempra",
+      "ticker": "SRE",
+      "exchange": "NYSE",
+      "website": "https://www.sempra.com",
+      "logoUrl": "/companies-assets/SRE.NYSE.svg",
+      "title": "Independent Board Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Astera Labs, Inc.",
+      "ticker": "ALAB",
+      "exchange": "NASDAQ",
+      "website": "https://www.asteralabs.com",
+      "logoUrl": "/companies-assets/ALAB.NASDAQ.svg",
+      "title": "Independent Board Director",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Hewlett Packard Enterprise",
+      "ticker": "HPE",
+      "exchange": "NYSE",
+      "website": "https://www.arubanetworks.com",
+      "logoUrl": "https://www.arubanetworks.com/assets/images/logos/Aruba_a_Hewlett_Packard_Enterprise_company-Logo.png",
+      "title": "Independent Board Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mayerbethany/",
+      "person_name": "Bethany Mayer",
+      "company_name": "Lam Research",
+      "profile_status": "not_found",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation and Human Resources Committee",
+    "Nominating and Governance Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

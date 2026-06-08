@@ -1,0 +1,53 @@
+{
+  "id": "Alan Sparks",
+  "name": "Alan Sparks",
+  "background": "Mr. Sparks is a Chartered Accountant with over 30 years of experience in the mining industry, including senior financial roles at Deloittes and various mining companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "BirdDog Technology Limited",
+      "ticker": "BDT",
+      "exchange": "ASX",
+      "website": "https://birddog.tv/",
+      "logoUrl": "/companies-assets/BDT.ASX.png",
+      "title": "Non-Executive Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Harris Technology Group Ltd",
+      "ticker": "HT8",
+      "exchange": "ASX",
+      "website": "https://ht8.com.au/",
+      "logoUrl": "/companies-assets/HT8.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Buddy Technologies Limited",
+      "ticker": "BUD",
+      "exchange": "ASX",
+      "website": "https://buddy.com/",
+      "logoUrl": "/companies-assets/BUD.ASX.png",
+      "title": "Non-Executive Director",
+      "startDate": "2020-12-15",
+      "endDate": "2021-06-04",
+      "formattedStartDate": "December 2020",
+      "formattedEndDate": "June 2021"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

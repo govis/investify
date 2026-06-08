@@ -1,0 +1,27 @@
+{
+  "id": "Ted Pick",
+  "name": "Ted Pick",
+  "background": "Mr. Pick has served as Chief Executive Officer of Morgan Stanley since January 2024. He was previously Co-President of the Firm from 2021 to 2023 and Head of the Institutional Securities Group. He joined Morgan Stanley in 1990.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Morgan Stanley",
+      "ticker": "MS",
+      "exchange": "NYSE",
+      "website": "https://www.morganstanley.com",
+      "logoUrl": "/companies-assets/MS.NYSE.svg",
+      "title": "Global Head of Sales and Trading",
+      "startDate": "2015-01-01",
+      "endDate": "2021-12-31",
+      "formattedStartDate": "January 2015",
+      "formattedEndDate": "December 2021"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

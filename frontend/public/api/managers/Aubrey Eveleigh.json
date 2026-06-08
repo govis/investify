@@ -1,0 +1,40 @@
+{
+  "id": "Aubrey Eveleigh",
+  "name": "Aubrey Eveleigh",
+  "background": "Mr. Eveleigh has over 30 years of experience in the mineral exploration industry. He was a co-founder of the predecessor Lithium Americas Corp. and has served in various executive capacities.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lithium Americas Corp.",
+      "ticker": "LAC",
+      "exchange": "TSX/NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": null,
+      "formattedStartDate": "2010",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Zentek Ltd. (formerly Zenyatta Ventures Ltd.)",
+      "ticker": "ZEN",
+      "exchange": "TSXV",
+      "website": "https://www.zentek.com/",
+      "logoUrl": "/companies-assets/ZEN.TSXV.svg",
+      "title": "President and CEO",
+      "startDate": "2011",
+      "endDate": "2016-05",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "May 2016"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

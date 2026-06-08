@@ -1,0 +1,50 @@
+{
+  "name": "Marius van Niekerk",
+  "first_name": "Marius",
+  "last_name": "van Niekerk",
+  "age": 51,
+  "age_year": 2024,
+  "background": "Mr. van Niekerk joined OceanaGold in 2023. He has more than 25 years of experience in the mining and resources industry, having held senior financial and commercial roles at Newcrest Mining and BHP.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC",
+      "exchange": "TSX",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "website": "https://oceanagold.com",
+      "start_date": "May 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Paragon Banking Group PLC",
+      "ticker": "PAG",
+      "exchange": "LSE",
+      "website": "https://www.paragonbankinggroup.co.uk",
+      "title_or_role": "General Counsel & Company Secretary",
+      "start_date": "October 2019",
+      "end_date": "May 2023",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mariusvniekerk",
+      "person_name": "Marius van Niekerk",
+      "company_name": "OceanaGold Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

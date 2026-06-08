@@ -1,19 +1,38 @@
 import React, { useEffect, useState } from 'react';
-import { Link } from 'react-router-dom';
-import { ChevronLeft, Globe, ExternalLink } from 'lucide-react';
+import { Link, useSearchParams } from 'react-router-dom';
+import { Globe, ExternalLink, ChevronLeft, ChevronRight } from 'lucide-react';
+import Navigation from '../components/Navigation';
+
+interface InvestmentThesis {
+  thesis_name: string;
+  company_type: string;
+}
 
 interface Company {
   id: string;
   name: string;
   ticker: string;
+  logoUrl: string;
   website: string;
   country: string;
   type: string;
+  investment_theses?: InvestmentThesis[];
 }
 
 const CompanyList: React.FC = () => {
   const [companies, setCompanies] = useState<Company[]>([]);
   const [loading, setLoading] = useState(true);
+  const [searchParams, setSearchParams] = useSearchParams();
+  const [isMobile, setIsMobile] = useState(window.innerWidth <= 768);
+
+  const page = parseInt(searchParams.get('page') || '1', 10);
+  const pageSize = parseInt(searchParams.get('pageSize') || '50', 10);
+
+  useEffect(() => {
+    const handleResize = () => setIsMobile(window.innerWidth <= 768);
+    window.addEventListener('resize', handleResize);
+    return () => window.removeEventListener('resize', handleResize);
+  }, []);
 
   useEffect(() => {
     document.title = "Investify - Companies";
@@ -31,27 +50,63 @@ const CompanyList: React.FC = () => {
 
   if (loading) return <div style={{ padding: '24px' }}>Loading...</div>;
 
+  const totalPages = Math.ceil(companies.length / pageSize);
+  const paginatedCompanies = companies.slice((page - 1) * pageSize, page * pageSize);
+
+  const goToPage = (newPage: number) => {
+    setSearchParams({ page: newPage.toString(), pageSize: pageSize.toString() });
+    window.scrollTo(0, 0);
+  };
+
+  const handlePageSizeChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
+    setSearchParams({ page: '1', pageSize: e.target.value });
+    window.scrollTo(0, 0);
+  };
+
   return (
     <div style={{ padding: '24px', maxWidth: '1200px', margin: '0 auto', textAlign: 'left' }}>
-      <Link to="/" style={{ display: 'flex', alignItems: 'center', color: '#666', marginBottom: '24px', textDecoration: 'none' }}>
-        <ChevronLeft size={20} />
-        Investment Themes
-      </Link>
-
-      <h1 style={{ 
-        textAlign: 'left', 
-        marginBottom: '48px', 
-        fontSize: '36px', 
-        lineHeight: '1.2', 
-        letterSpacing: '-0.02em' 
-      }}>
-        All Companies
-      </h1>
+      <div className="list-header">
+        <h1 style={{ 
+          textAlign: 'left', 
+          margin: 0, 
+          fontSize: '36px', 
+          lineHeight: '1.2', 
+          letterSpacing: '-0.02em'
+        }}>
+          All Public Companies
+        </h1>
+        
+        <div className="list-header-controls">
+          <div style={{ display: 'flex', alignItems: 'center', gap: '12px', color: '#666', fontSize: '0.95rem' }}>
+            <span className="hide-mobile">Show:</span>
+            <select 
+              value={pageSize} 
+              onChange={handlePageSizeChange}
+              style={{
+                padding: '6px 12px',
+                borderRadius: '8px',
+                border: '1px solid #ddd',
+                backgroundColor: '#fff',
+                cursor: 'pointer',
+                fontSize: '0.95rem',
+                color: '#333',
+                outline: 'none'
+              }}
+            >
+              <option value="50">50{isMobile ? '' : ' per page'}</option>
+              <option value="100">100{isMobile ? '' : ' per page'}</option>
+              <option value="200">200{isMobile ? '' : ' per page'}</option>
+            </select>
+          </div>
+          <Navigation />
+        </div>
+      </div>
 
       <div style={{ overflowX: 'auto' }}>
         <table style={{ width: '100%', borderCollapse: 'collapse', marginTop: '24px' }}>
           <thead>
             <tr style={{ borderBottom: '2px solid #eee' }}>
+              <th style={{ width: '60px', padding: '12px' }}></th>
               <th style={{ textAlign: 'left', padding: '12px', fontWeight: '600' }}>Name</th>
               <th style={{ textAlign: 'left', padding: '12px', fontWeight: '600' }}>Ticker</th>
               <th style={{ textAlign: 'left', padding: '12px', fontWeight: '600' }}>Website</th>
@@ -60,28 +115,117 @@ const CompanyList: React.FC = () => {
             </tr>
           </thead>
           <tbody>
-            {companies.map(company => (
-              <tr key={company.id} style={{ borderBottom: '1px solid #f5f5f5' }}>
-                <td style={{ padding: '12px' }}>
-                  <Link to={`/company/${company.id}`} style={{ color: '#0066cc', textDecoration: 'none', fontWeight: '500' }}>
-                    {company.name}
-                  </Link>
-                </td>
-                <td style={{ padding: '12px', color: '#666' }}>{company.ticker}</td>
-                <td style={{ padding: '12px' }}>
-                  {company.website ? (
-                    <a href={company.website} target="_blank" rel="noopener noreferrer" style={{ display: 'flex', alignItems: 'center', color: '#666', textDecoration: 'none' }}>
-                      <Globe size={16} style={{ marginRight: '4px' }} />
-                      Visit <ExternalLink size={12} style={{ marginLeft: '4px' }} />
-                    </a>
-                  ) : '-'}
-                </td>
-                <td style={{ padding: '12px', color: '#666' }}>{company.country}</td>
-                <td style={{ padding: '12px', color: '#666' }}>{company.type}</td>
-              </tr>
-            ))}
+            {paginatedCompanies.map(company => {
+              const isSvg = company.logoUrl && company.logoUrl.toLowerCase().endsWith('.svg');
+              return (
+                <tr key={company.id} style={{ borderBottom: '1px solid #f5f5f5' }}>
+                  <td style={{ padding: '12px', width: '60px' }}>
+                    {isSvg ? (
+                      <div style={{ width: '40px', height: '40px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                        <img 
+                          src={company.logoUrl} 
+                          alt="" 
+                          style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'contain' }} 
+                        />
+                      </div>
+                    ) : null}
+                  </td>
+                  <td style={{ padding: '12px' }}>
+                    <div style={{ display: 'flex', flexDirection: 'column', gap: '4px' }}>
+                      <Link to={`/company/${company.id}`} style={{ color: '#0066cc', textDecoration: 'none', fontWeight: '500' }}>
+                        {company.name}
+                      </Link>
+                      {company.investment_theses && company.investment_theses.length > 0 && (
+                        <div style={{ display: 'flex', flexWrap: 'wrap', gap: '4px' }}>
+                          {company.investment_theses.map((thesis, index) => (
+                            <Link 
+                              key={index} 
+                              to={`/thesis/${thesis.thesis_name}`}
+                              style={{ 
+                                display: 'inline-block',
+                                padding: '2px 8px',
+                                backgroundColor: '#f0f0f0',
+                                borderRadius: '12px',
+                                color: '#666',
+                                textDecoration: 'none',
+                                fontSize: '0.75rem',
+                                border: '1px solid #ddd'
+                              }}
+                            >
+                              {thesis.thesis_name}
+                            </Link>
+                          ))}
+                        </div>
+                      )}
+                    </div>
+                  </td>
+                  <td style={{ padding: '12px', color: '#666' }}>{company.ticker}</td>
+                  <td style={{ padding: '12px' }}>
+                    {company.website ? (
+                      <a href={company.website} target="_blank" rel="noopener noreferrer" style={{ display: 'flex', alignItems: 'center', color: '#666', textDecoration: 'none' }}>
+                        <Globe size={16} style={{ marginRight: '4px' }} />
+                        Visit <ExternalLink size={12} style={{ marginLeft: '4px' }} />
+                      </a>
+                    ) : '-'}
+                  </td>
+                  <td style={{ padding: '12px', color: '#666' }}>{company.country}</td>
+                  <td style={{ padding: '12px', color: '#666' }}>{company.type}</td>
+                </tr>
+              );
+            })}
           </tbody>
         </table>
+      </div>
+
+      <div style={{ 
+        display: 'flex', 
+        justifyContent: 'center', 
+        alignItems: 'center', 
+        marginTop: '48px', 
+        gap: '16px',
+        padding: '24px 0'
+      }}>
+        <button 
+          onClick={() => goToPage(page - 1)} 
+          disabled={page <= 1}
+          style={{
+            display: 'flex',
+            alignItems: 'center',
+            padding: '8px 16px',
+            borderRadius: '8px',
+            border: '1px solid #ddd',
+            backgroundColor: page <= 1 ? '#f5f5f5' : '#fff',
+            cursor: page <= 1 ? 'not-allowed' : 'pointer',
+            color: page <= 1 ? '#999' : '#333',
+            fontSize: '0.95rem'
+          }}
+        >
+          <ChevronLeft size={18} />
+          Previous
+        </button>
+
+        <span style={{ fontSize: '1rem', color: '#666' }}>
+          Page <strong>{page}</strong> of <strong>{totalPages}</strong>
+        </span>
+
+        <button 
+          onClick={() => goToPage(page + 1)} 
+          disabled={page >= totalPages}
+          style={{
+            display: 'flex',
+            alignItems: 'center',
+            padding: '8px 16px',
+            borderRadius: '8px',
+            border: '1px solid #ddd',
+            backgroundColor: page >= totalPages ? '#f5f5f5' : '#fff',
+            cursor: page >= totalPages ? 'not-allowed' : 'pointer',
+            color: page >= totalPages ? '#999' : '#333',
+            fontSize: '0.95rem'
+          }}
+        >
+          Next
+          <ChevronRight size={18} />
+        </button>
       </div>
     </div>
   );

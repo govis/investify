@@ -1,0 +1,27 @@
+{
+  "id": "Jessica Warren",
+  "name": "Jessica Warren",
+  "background": "Ms. Warren has served as General Counsel and Secretary since 2022. She joined TransDigm in 2016 and previously practiced law at Baker & Hostetler LLP.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "TransDigm Group Incorporated",
+      "ticker": "TDG",
+      "exchange": "NYSE",
+      "website": "https://www.transdigm.com",
+      "logoUrl": "/companies-assets/TDG.NYSE.svg",
+      "title": "General Counsel, Chief Compliance Officer, and Corporate Secretary",
+      "startDate": "2024-01",
+      "endDate": "2025-07-07",
+      "formattedStartDate": "January 2024",
+      "formattedEndDate": "July 2025"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 44,
+  "ageYear": 2024
+}

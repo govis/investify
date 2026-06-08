@@ -1,0 +1,73 @@
+{
+  "name": "Thomas Werner",
+  "first_name": "Thomas",
+  "last_name": "Werner",
+  "age": 64,
+  "age_year": 2024,
+  "background": "Thomas H. Werner has served as Chairman of the Board since 2023. He was previously the CEO of SunPower Corporation and held leadership roles at Silicon Light Machines and 3Com Corporation.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Wolfspeed, Inc.",
+      "ticker": "WOLF",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director / Chairman of the Board",
+      "website": "https://www.wolfspeed.com",
+      "start_date": "2006",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SunPower Corporation",
+      "ticker": "SPWRQ",
+      "exchange": "OTC",
+      "website": "https://www.sunpower.com",
+      "title_or_role": "Director / CEO / Executive Chairman",
+      "start_date": "2003",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Exar Corporation",
+      "ticker": "EXAR",
+      "exchange": "NASDAQ",
+      "website": "https://www.exar.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Three Five Systems, Inc.",
+      "ticker": "TFSY",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "1999",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/tom-werner-sunpower",
+      "person_name": "Thomas Werner",
+      "company_name": "SunPower Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

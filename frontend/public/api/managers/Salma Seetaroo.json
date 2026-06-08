@@ -1,0 +1,41 @@
+{
+  "id": "Salma Seetaroo",
+  "name": "Salma Seetaroo",
+  "background": "Ms. Seetaroo is an investment banker and lawyer with over 20 years of experience in the natural resources sector in Africa. She is the co-founder and CEO of Cashew Coast and has held senior roles at several investment firms.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "GoviEx Uranium Inc.",
+      "ticker": "TSXV: GXU",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "February 2021",
+      "endDate": null,
+      "formattedStartDate": "February 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Fortuna Mining Corp. (formerly Fortuna Silver Mines Inc.)",
+      "ticker": "TSX: FVI / NYSE: FSM",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "June 2022",
+      "endDate": null,
+      "formattedStartDate": "June 2022",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 48,
+  "ageYear": 2024
+}

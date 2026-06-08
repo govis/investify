@@ -1,0 +1,67 @@
+{
+  "id": "Simon McKeon",
+  "name": "Simon McKeon",
+  "background": "Simon is a Non-executive Director and Senior Independent Director. He has extensive experience in the financial services sector and was previously Executive Chairman of Macquarie Group's Victorian office.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Rio Tinto Group",
+      "ticker": "RIO",
+      "exchange": "ASX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Director",
+      "startDate": "January 1, 2019",
+      "endDate": "May 2, 2024",
+      "formattedStartDate": "January 1, 2019",
+      "formattedEndDate": "May 2, 2024"
+    },
+    {
+      "name": "National Australia Bank",
+      "ticker": "NAB",
+      "exchange": "ASX",
+      "website": "nab.com.au",
+      "logoUrl": "/companies-assets/NAB.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "February 2020",
+      "endDate": null,
+      "formattedStartDate": "February 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Spotless Group",
+      "ticker": "SPO",
+      "exchange": "ASX",
+      "website": "https://www.spotless.com.au/",
+      "logoUrl": "/companies-assets/SPO.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "December 1, 2016",
+      "endDate": "2017",
+      "formattedStartDate": "December 1, 2016",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "AMP Limited",
+      "ticker": "AMP",
+      "exchange": "ASX",
+      "website": "https://www.amp.com.au",
+      "logoUrl": "/companies-assets/AMP.ASX.svg",
+      "title": "Chairman",
+      "startDate": "2014",
+      "endDate": "2015",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2015"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominations Committee",
+    "Remuneration Committee"
+  ],
+  "age": 68,
+  "ageYear": 2023
+}

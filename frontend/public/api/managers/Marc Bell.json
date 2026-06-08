@@ -1,0 +1,50 @@
+{
+  "id": "Marc Bell",
+  "name": "Marc Bell",
+  "background": "Marc Bell is the Co-Founder, Chairman, and Chief Executive Officer of Terran Orbital. He has over 30 years of experience in the technology and aerospace industries. Prior to Terran Orbital, he was the founder and CEO of Globix Corporation and has been involved in numerous high-growth ventures.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "ARMOUR Residential REIT, Inc.",
+      "ticker": "ARR",
+      "exchange": "NYSE",
+      "website": "https://www.armourreit.com",
+      "logoUrl": "/companies-assets/ARR.NYSE.png",
+      "title": "Director / Co-Founder",
+      "startDate": "November 2009",
+      "endDate": null,
+      "formattedStartDate": "November 2009",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Javelin Mortgage Investment Corp.",
+      "ticker": "JMI",
+      "exchange": "NYSE",
+      "website": "N/A",
+      "logoUrl": "/companies-assets/JMI.NYSE.png",
+      "title": "Director / Co-Founder",
+      "startDate": "2012",
+      "endDate": "2016",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2016"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/marcbellmiami",
+      "person_name": "Marc Bell",
+      "company_name": "Terran Orbital Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 56,
+  "ageYear": 2024
+}

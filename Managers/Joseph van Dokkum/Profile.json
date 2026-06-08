@@ -1,0 +1,43 @@
+{
+  "name": "Joseph van Dokkum",
+  "first_name": "Joseph",
+  "last_name": "van Dokkum",
+  "age": 70,
+  "age_year": 2024,
+  "background": "Joseph van Dokkum is an Operating Partner at Kleiner Perkins. He previously served as President of UTC Power, a division of United Technologies Corporation.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Vertiv Holdings Co",
+      "ticker": "VRT",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "vertiv.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Siemens AG",
+      "ticker": "SIEGY",
+      "exchange": "OTC",
+      "website": "siemens.com",
+      "title_or_role": "President & CEO (Siemens Power Transmission & Distribution, Inc.)",
+      "start_date": "1997",
+      "end_date": "2002",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

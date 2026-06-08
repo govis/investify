@@ -1,0 +1,50 @@
+{
+  "id": "William Ballhaus",
+  "name": "William Ballhaus",
+  "background": "Dr. Ballhaus has served as our President and Chief Executive Officer since August 2023. He previously served as Chairman and CEO of Blackboard Inc. and CEO of SRA International, Inc. He also held leadership roles at BAE Systems and Boeing.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Mercury Systems, Inc.",
+      "ticker": "MRCY",
+      "exchange": "NASDAQ",
+      "website": "https://www.mrcy.com",
+      "logoUrl": "/companies-assets/MRCY.NASDAQ.svg",
+      "title": "Director; Interim President and CEO",
+      "startDate": "June 2022",
+      "endDate": null,
+      "formattedStartDate": "June 2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "OSI Systems, Inc.",
+      "ticker": "OSIS",
+      "exchange": "NASDAQ",
+      "website": "https://www.osi-systems.com",
+      "logoUrl": "/companies-assets/OSIS.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "May 2010",
+      "endDate": null,
+      "formattedStartDate": "May 2010",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bill-ballhaus-a9451395",
+      "person_name": "William Ballhaus",
+      "company_name": "Mercury Systems, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 56,
+  "ageYear": 2023
+}

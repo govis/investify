@@ -1,0 +1,41 @@
+{
+  "id": "Fred Chan",
+  "name": "Fred Chan",
+  "background": "Former Chairman of the Board of ESS Technology, Inc. and former CEO of various technology companies. Expert in semiconductor and system design.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Super Micro Computer, Inc.",
+      "ticker": "SMCI",
+      "exchange": "NASDAQ",
+      "website": "https://www.supermicro.com",
+      "logoUrl": "/companies-assets/SMCI.NASDAQ.svg",
+      "title": "Director (Member of the Board of Directors)",
+      "startDate": "2020",
+      "endDate": "2024-03-11",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "March 2024"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/fred-chan-34522715",
+      "person_name": "Fred Chan",
+      "company_name": "Super Micro Computer, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 67,
+  "ageYear": 2023
+}

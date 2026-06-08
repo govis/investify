@@ -1,0 +1,50 @@
+{
+  "id": "Mark Trevisiol",
+  "name": "Mark Trevisiol",
+  "background": "Mr. Trevisiol has over 30 years of experience in mineral processing and refining. He previously held senior leadership roles at Vale (formerly Inco) and was the CEO of Silver Bullion.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Electra Battery Materials Corporation",
+      "ticker": "ELBM",
+      "exchange": "TSX",
+      "website": "https://electrabmc.com",
+      "logoUrl": "/companies-assets/ELBM.TSX.svg",
+      "title": "Vice President, Project Development",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "McFarlane Lake Mining Limited",
+      "ticker": "MLM",
+      "exchange": "CSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman, President & Chief Executive Officer",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/mark-trevisiol-54378332",
+      "person_name": "Mark Trevisiol",
+      "company_name": "Electra Battery Materials Corporation, McFarlane Lake Mining Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 58,
+  "ageYear": 2024
+}

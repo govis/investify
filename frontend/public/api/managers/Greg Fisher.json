@@ -1,0 +1,38 @@
+{
+  "id": "Greg Fisher",
+  "name": "Greg Fisher",
+  "background": "Mr. Fisher was appointed Chief Financial Officer in 2023. He joined the Company in 2010 and has held various senior financial roles, including Senior Vice President, Finance.",
+  "pictureUrl": "/managers-assets/Greg Fisher.jpg",
+  "companies": [
+    {
+      "name": "Alamos Gold Inc.",
+      "ticker": "AGI",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Controller",
+      "startDate": "2010-01-01",
+      "endDate": "2012-12-31",
+      "formattedStartDate": "January 2010",
+      "formattedEndDate": "December 2012"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/greg-fisher-a6a85613",
+      "person_name": "Greg Fisher",
+      "company_name": "Alamos Gold Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 46,
+  "ageYear": 2024
+}

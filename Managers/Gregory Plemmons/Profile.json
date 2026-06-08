@@ -1,0 +1,40 @@
+{
+  "name": "Gregory Plemmons",
+  "first_name": "Gregory",
+  "last_name": "Plemmons",
+  "age": 56,
+  "age_year": 2024,
+  "background": "Gregory B. Plemmons has served as Executive Vice President and Chief Operating Officer since July 2024. He previously served as Senior Vice President - Sales.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Old Dominion Freight Line, Inc.",
+      "ticker": "ODFL",
+      "exchange": "NASDAQ",
+      "title_or_role": "Executive Vice President and Chief Operating Officer",
+      "website": "https://www.odfl.com",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/greg-plemmons-4a5a5a1a",
+      "person_name": "Gregory Plemmons",
+      "company_name": "Old Dominion Freight Line, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

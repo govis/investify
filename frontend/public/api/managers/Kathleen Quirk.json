@@ -1,0 +1,51 @@
+{
+  "id": "Kathleen Quirk",
+  "name": "Kathleen Quirk",
+  "background": "Ms. Quirk has served as President since 2021 and was appointed Chief Executive Officer effective June 2024. She previously served as Chief Financial Officer from 2003 to 2022 and has been with the company since 1989.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Freeport-McMoRan Inc.",
+      "ticker": "FCX",
+      "exchange": "NYSE",
+      "website": "https://www.fcx.com",
+      "logoUrl": "/companies-assets/FCX.NYSE.svg",
+      "title": "President and Chief Executive Officer (Director)",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Vulcan Materials Company",
+      "ticker": "VMC",
+      "exchange": "NYSE",
+      "website": "https://www.vulcanmaterials.com",
+      "logoUrl": "/companies-assets/VMC.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "October 2017",
+      "endDate": null,
+      "formattedStartDate": "October 2017",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kathleen-quirk-8a5b2a12",
+      "person_name": "Kathleen Quirk",
+      "company_name": "Freeport-McMoRan Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 60,
+  "ageYear": 2024
+}

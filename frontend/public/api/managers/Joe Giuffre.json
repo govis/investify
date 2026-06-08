@@ -1,0 +1,53 @@
+{
+  "id": "Joe Giuffre",
+  "name": "Joe Giuffre",
+  "background": "Mr. Giuffre is a lawyer with over 30 years of experience in corporate and securities law. He is currently a partner at a law firm in Vancouver.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Kootenay Silver Inc.",
+      "ticker": "KTN",
+      "exchange": "TSXV",
+      "website": "https://kootenaysilver.com/",
+      "logoUrl": "/companies-assets/KTN.TSXV.png",
+      "title": "Director",
+      "startDate": "January 13, 2023",
+      "endDate": null,
+      "formattedStartDate": "January 13, 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Nevsun Resources Ltd.",
+      "ticker": "NSU",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Nevsun_Resources_logo.png/220px-Nevsun_Resources_logo.png",
+      "title": "Chief Legal Officer",
+      "startDate": "Unknown",
+      "endDate": "2019",
+      "formattedStartDate": "",
+      "formattedEndDate": "2019"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/joe-giuffre-28881851",
+      "person_name": "Joe Giuffre",
+      "company_name": "Victoria Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee (Chair)",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

@@ -1,0 +1,54 @@
+{
+  "id": "Aart de Geus",
+  "name": "Aart de Geus",
+  "background": "Dr. de Geus is the co-founder and Executive Chair of Synopsys, Inc. He has served as Synopsys' CEO or co-CEO from 1994 to 2023.",
+  "pictureUrl": "/managers-assets/Aart de Geus.jpg",
+  "companies": [
+    {
+      "name": "Applied Materials, Inc.",
+      "ticker": "AMAT",
+      "exchange": "NASDAQ",
+      "website": "https://www.appliedmaterials.com",
+      "logoUrl": "/companies-assets/AMAT.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2007",
+      "endDate": null,
+      "formattedStartDate": "2007",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Synopsys, Inc.",
+      "ticker": "SNPS",
+      "exchange": "NASDAQ",
+      "website": "https://www.synopsys.com",
+      "logoUrl": "/companies-assets/SNPS.NASDAQ.svg",
+      "title": "Co-Founder, Executive Chair, Former CEO, President, Senior Vice President",
+      "startDate": "1986",
+      "endDate": null,
+      "formattedStartDate": "1986",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/aart-de-geus",
+      "person_name": "Aart de Geus",
+      "company_name": "Synopsys",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "profile_status": "private"
+    }
+  ],
+  "committees": [
+    "Human Resources and Compensation Committee",
+    "Investment Committee"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

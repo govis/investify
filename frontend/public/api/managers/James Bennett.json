@@ -1,0 +1,42 @@
+{
+  "id": "James Bennett",
+  "name": "James Bennett",
+  "background": "South Carolina State President of First Citizens Bank & Trust Company. Director since 2023.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Dominion Energy, Inc.",
+      "ticker": "D",
+      "exchange": "NYSE",
+      "website": "https://www.dominionenergy.com",
+      "logoUrl": "/companies-assets/D.NYSE.svg",
+      "title": "Director",
+      "startDate": "2019-02-15",
+      "endDate": null,
+      "formattedStartDate": "February 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "SCANA Corporation",
+      "ticker": "SCG",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "/companies-assets/SCG.NYSE.svg",
+      "title": "Director",
+      "startDate": "1997",
+      "endDate": "2018",
+      "formattedStartDate": "1997",
+      "formattedEndDate": "2018"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Finance and Risk Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

@@ -1,0 +1,101 @@
+{
+  "id": "Laurette Koellner",
+  "name": "Laurette Koellner",
+  "background": "Former President of Boeing International.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "The Boeing Company",
+      "ticker": "BA",
+      "exchange": "NYSE",
+      "website": "https://www.boeing.com",
+      "logoUrl": "/companies-assets/BA.NYSE.svg",
+      "title": "President, Boeing International; SVP; Member, Office of the Chairman",
+      "startDate": "1977",
+      "endDate": "2008",
+      "formattedStartDate": "1977",
+      "formattedEndDate": "2008"
+    },
+    {
+      "name": "The Goodyear Tire & Rubber Company",
+      "ticker": "GT",
+      "exchange": "NASDAQ",
+      "website": "https://www.goodyear.com",
+      "logoUrl": "/companies-assets/GT.NASDAQ.svg",
+      "title": "Director; Non-Executive Chairman",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Celestica Inc.",
+      "ticker": "CLS",
+      "exchange": "NYSE/TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Papa John's International, Inc.",
+      "ticker": "PZZA",
+      "exchange": "NASDAQ",
+      "website": "papajohns.com",
+      "logoUrl": "/companies-assets/PZZA.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": "2023",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "The Hillshire Brands Company (formerly Sara Lee)",
+      "ticker": "HSH",
+      "exchange": "NYSE (delisted)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "N/A",
+      "endDate": "2014",
+      "formattedStartDate": "",
+      "formattedEndDate": "2014"
+    },
+    {
+      "name": "American International Group, Inc. (ILFC subsidiary)",
+      "ticker": "AIG",
+      "exchange": "NYSE",
+      "website": "https://aig.com",
+      "logoUrl": "/companies-assets/AIG.NYSE.png",
+      "title": "Executive Chairman (ILFC)",
+      "startDate": "2012",
+      "endDate": "2014",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2014"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/laurette-koellner-4a5b2a12",
+      "person_name": "Laurette Koellner",
+      "company_name": "The Boeing Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit",
+    "Governance and Nominating"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

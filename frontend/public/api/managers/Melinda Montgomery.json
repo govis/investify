@@ -1,0 +1,31 @@
+{
+  "id": "Melinda Montgomery",
+  "name": "Melinda Montgomery",
+  "background": "Ms. Montgomery is a legal professional with over 30 years of experience in corporate law and securities regulation. She has served as a director for several TSX-listed companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Fortune Bay Corp.",
+      "ticker": "FOR",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee (Chair)",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

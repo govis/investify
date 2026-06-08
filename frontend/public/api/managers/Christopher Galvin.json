@@ -1,0 +1,43 @@
+{
+  "id": "Christopher Galvin",
+  "name": "Christopher Galvin",
+  "background": "Mr. Galvin has served as a Director since 2009. He is the former Chairman and CEO of Motorola, Inc. and is currently Chairman and Co-Founder of Harrison Street Real Estate Capital.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Motorola, Inc. (now Motorola Solutions, Inc.)",
+      "ticker": "MSI",
+      "exchange": "NYSE",
+      "website": "https://www.motorolasolutions.com",
+      "logoUrl": "/companies-assets/MSI.NYSE.svg",
+      "title": "Chairman and Chief Executive Officer",
+      "startDate": "1997",
+      "endDate": "2003",
+      "formattedStartDate": "1997",
+      "formattedEndDate": "2003"
+    },
+    {
+      "name": "Colliers International Group Inc.",
+      "ticker": "CIGI",
+      "exchange": "NASDAQ / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "ESG and Risk Committee"
+  ],
+  "age": 73,
+  "ageYear": 2024
+}

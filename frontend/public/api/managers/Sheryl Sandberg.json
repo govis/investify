@@ -1,0 +1,74 @@
+{
+  "id": "Sheryl Sandberg",
+  "name": "Sheryl Sandberg",
+  "background": "Former Chief Operating Officer of Meta Platforms, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Meta Platforms, Inc.",
+      "ticker": "META",
+      "exchange": "NASDAQ",
+      "website": "https://about.meta.com",
+      "logoUrl": "/companies-assets/META.NASDAQ.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "June 2012",
+      "endDate": "May 2024",
+      "formattedStartDate": "June 2012",
+      "formattedEndDate": "May 2024"
+    },
+    {
+      "name": "The Walt Disney Company",
+      "ticker": "DIS",
+      "exchange": "NYSE",
+      "website": "https://thewaltdisneycompany.com",
+      "logoUrl": "/companies-assets/DIS.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "March 2010",
+      "endDate": "March 2018",
+      "formattedStartDate": "March 2010",
+      "formattedEndDate": "March 2018"
+    },
+    {
+      "name": "Alphabet Inc.",
+      "ticker": "GOOGL",
+      "exchange": "NASDAQ",
+      "website": "https://abc.xyz",
+      "logoUrl": "/companies-assets/GOOGL.NASDAQ.svg",
+      "title": "Vice President, Global Online Sales and Operations",
+      "startDate": "November 2001",
+      "endDate": "March 2008",
+      "formattedStartDate": "November 2001",
+      "formattedEndDate": "March 2008"
+    },
+    {
+      "name": "Starbucks Corporation",
+      "ticker": "SBUX",
+      "exchange": "NASDAQ",
+      "website": "https://www.starbucks.com",
+      "logoUrl": "/companies-assets/SBUX.NASDAQ.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "March 2009",
+      "endDate": "March 2012",
+      "formattedStartDate": "March 2009",
+      "formattedEndDate": "March 2012"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sheryl-sandberg-5126652",
+      "person_name": "Sheryl Sandberg",
+      "company_name": "Meta Platforms, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 54,
+  "ageYear": 2024
+}

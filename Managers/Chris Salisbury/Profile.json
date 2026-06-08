@@ -1,0 +1,52 @@
+{
+  "name": "Chris Salisbury",
+  "first_name": "Chris",
+  "last_name": "Salisbury",
+  "age": 58,
+  "age_year": 2024,
+  "background": "Mr. Salisbury is a highly experienced mining executive with over 30 years' experience across senior operational and strategic leadership roles. He was previously Chief Executive of Rio Tinto Iron Ore.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Deep Yellow Limited",
+      "ticker": "DYL",
+      "exchange": "ASX",
+      "title_or_role": "Director (Non-Executive/Executive Chair)",
+      "website": "https://deepyellow.com.au/",
+      "start_date": "May 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rio Tinto Plc",
+      "ticker": "RIO",
+      "exchange": "LSE / NYSE",
+      "website": "https://www.riotinto.com/",
+      "title_or_role": "Chief Executive - Copper & Coal Product Group",
+      "start_date": "2016",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Energy Resources of Australia Ltd.",
+      "ticker": "ERA",
+      "exchange": "ASX",
+      "website": "https://www.energyres.com.au/",
+      "title_or_role": "Executive Director",
+      "start_date": "2004",
+      "end_date": "2010",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Remuneration Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

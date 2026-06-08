@@ -1,0 +1,63 @@
+{
+  "id": "Craig Glidden",
+  "name": "Craig Glidden",
+  "background": "Craig Glidden is Executive Vice President and General Counsel. He joined GM in 2015 from LyondellBasell.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "website": "https://www.gm.com",
+      "logoUrl": "/companies-assets/GM.NYSE.svg",
+      "title": "Executive Vice President, Global Public Policy, General Counsel, and Corporate Secretary",
+      "startDate": "March 2015",
+      "endDate": null,
+      "formattedStartDate": "March 2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "LyondellBasell Industries N.V.",
+      "ticker": "LYB",
+      "exchange": "NYSE",
+      "website": "https://www.lyondellbasell.com",
+      "logoUrl": "/companies-assets/LYB.NYSE.svg",
+      "title": "Executive Vice President and Chief Legal Officer",
+      "startDate": "August 2009",
+      "endDate": "March 2015",
+      "formattedStartDate": "August 2009",
+      "formattedEndDate": "March 2015"
+    },
+    {
+      "name": "Chevron Phillips Chemical Company LLC",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Vice President, General Counsel and Corporate Secretary",
+      "startDate": "Prior to 2009",
+      "endDate": "August 2009",
+      "formattedStartDate": "Prior to 2009",
+      "formattedEndDate": "August 2009"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/craig-glidden-42777560",
+      "person_name": "Craig Glidden",
+      "company_name": "General Motors Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 66,
+  "ageYear": 2024
+}

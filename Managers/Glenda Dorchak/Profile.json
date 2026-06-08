@@ -1,0 +1,95 @@
+{
+  "name": "Glenda Dorchak",
+  "first_name": "Glenda",
+  "last_name": "Dorchak",
+  "age": 69,
+  "age_year": 2024,
+  "background": "Former executive at IBM, Intel, and Spansion. She has significant experience in the semiconductor and technology sectors.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "GlobalFoundries Inc.",
+      "ticker": "GFS",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://gf.com",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Wolfspeed, Inc.",
+      "ticker": "WOLF",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://wolfspeed.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "ANSYS, Inc.",
+      "ticker": "ANSS",
+      "exchange": "NASDAQ",
+      "website": "https://ansys.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Intrinsyc Software International, Inc.",
+      "ticker": "ICS",
+      "exchange": "TSX",
+      "website": "https://www.intrinsyc.com",
+      "title_or_role": "CEO and Chairman",
+      "start_date": "2006",
+      "end_date": "2009",
+      "validated": true
+    },
+    {
+      "name": "Mellanox Technologies, Ltd.",
+      "ticker": "MLNX",
+      "exchange": "NASDAQ",
+      "website": "https://www.mellanox.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2020",
+      "validated": true
+    },
+    {
+      "name": "Quantenna Communications, Inc.",
+      "ticker": "QTNA",
+      "exchange": "NASDAQ",
+      "website": "https://www.quantenna.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2019",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/glenda-dorchak-b5b6317",
+      "person_name": "Glenda Dorchak",
+      "company_name": "GlobalFoundries Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Governance and Nominating Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

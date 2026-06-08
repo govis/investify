@@ -1,0 +1,77 @@
+{
+  "id": "Jakki Haussler",
+  "name": "Jakki Haussler",
+  "background": "Jakki Haussler is the Chairman and co-founder of Opus Capital Management. She has extensive experience in financial services and investment management.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Vertiv Holdings Co",
+      "ticker": "VRT",
+      "exchange": "NYSE",
+      "website": "https://www.vertiv.com",
+      "logoUrl": "/companies-assets/VRT.NYSE.svg",
+      "title": "Director",
+      "startDate": "August 2022",
+      "endDate": null,
+      "formattedStartDate": "August 2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Service Corporation International",
+      "ticker": "SCI",
+      "exchange": "NYSE",
+      "website": "https://www.sci-corp.com",
+      "logoUrl": "/companies-assets/SCI.NYSE.svg",
+      "title": "Director",
+      "startDate": "May 2018",
+      "endDate": null,
+      "formattedStartDate": "May 2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Ingram Micro Holding Corporation",
+      "ticker": "INGM",
+      "exchange": "NYSE",
+      "website": "https://www.ingrammicro.com",
+      "logoUrl": "https://www.ingrammicro.com/content/dam/ingrammicro/global/en/images/logos/ingram-micro-logo.svg",
+      "title": "Director",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Covetrus, Inc.",
+      "ticker": "CVET",
+      "exchange": "NASDAQ",
+      "website": "https://covetrus.com",
+      "logoUrl": "/companies-assets/CVET.NASDAQ.png",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": "2022",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2022"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jakki-haussler-4a5a5a10",
+      "person_name": "Jakki Haussler",
+      "company_name": "Opus Capital Management",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

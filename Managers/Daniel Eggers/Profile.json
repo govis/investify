@@ -1,0 +1,49 @@
+{
+  "name": "Daniel Eggers",
+  "first_name": "Daniel",
+  "last_name": "Eggers",
+  "age": 53,
+  "age_year": 2024,
+  "background": "Daniel Eggers is executive vice president and chief financial officer of Constellation. He previously served as senior vice president of corporate finance for Exelon and was a managing director at Credit Suisse.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Constellation Energy Corporation",
+      "ticker": "CEG",
+      "exchange": "NASDAQ",
+      "title_or_role": "Senior Executive Vice President, Finance and Data Economy",
+      "website": "https://www.constellationenergy.com",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Constellation Energy Corporation",
+      "ticker": "CEG",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "website": "https://www.constellationenergy.com",
+      "start_date": "2022-02-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/daniel-eggers-2a30b074",
+      "person_name": "Daniel Eggers",
+      "company_name": "Constellation Energy Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "Kevin O'Kane",
+  "name": "Kevin O'Kane",
+  "background": "Mr. O'Kane is a mining executive with over 35 years of experience, including senior roles at BHP Billiton and SSR Mining.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "IAMGOLD Corporation",
+      "ticker": "IMG",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "NorthIsle Copper and Gold Inc.",
+      "ticker": "NCX",
+      "exchange": "TSXV",
+      "website": "https://www.northisle.ca",
+      "logoUrl": "/companies-assets/NCX.TSXV.png",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "SolGold PLC",
+      "ticker": "SOLG",
+      "exchange": "LSE",
+      "website": "https://www.solgold.com.au",
+      "logoUrl": "https://solgold.com/wp-content/uploads/2024/05/SolGold-Logo-1.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Almaden Minerals Ltd.",
+      "ticker": "AMM",
+      "exchange": "TSX",
+      "website": "https://www.almadenminerals.com",
+      "logoUrl": "/companies-assets/AMM.TSX.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "SSR Mining Inc.",
+      "ticker": "SSRM",
+      "exchange": "TSX/NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Operating Officer",
+      "startDate": "2018-06-04",
+      "endDate": "2020",
+      "formattedStartDate": "June 2018",
+      "formattedEndDate": "2020"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Governance and Nominating Committee",
+    "Human Resources and Compensation Committee",
+    "Safety, Environment and Sustainability Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

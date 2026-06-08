@@ -1,0 +1,74 @@
+{
+  "id": "Masayoshi Son",
+  "name": "Masayoshi Son",
+  "background": "Masayoshi Son is the Chairman of our board of directors. He is the Founder, Chairman and CEO of SoftBank Group Corp. He has served on our board since 2016.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Arm Holdings plc",
+      "ticker": "ARM",
+      "exchange": "NASDAQ",
+      "website": "https://www.arm.com",
+      "logoUrl": "/companies-assets/ARM.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "SoftBank Group Corp.",
+      "ticker": "9984",
+      "exchange": "Tokyo Stock Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Founder, Representative Director, Corporate Officer, CEO",
+      "startDate": "1981",
+      "endDate": null,
+      "formattedStartDate": "1981",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Alibaba Group Holding Limited",
+      "ticker": "BABA",
+      "exchange": "NYSE",
+      "website": "https://www.alibabagroup.com",
+      "logoUrl": "/companies-assets/BABA.NYSE.png",
+      "title": "Director",
+      "startDate": "2005",
+      "endDate": "2020",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Sprint Corporation",
+      "ticker": "S (delisted)",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": "2020",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2020"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/masayoshi-son-7a5b2a1",
+      "person_name": "Masayoshi Son",
+      "company_name": "SoftBank Group Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 66,
+  "ageYear": 2024
+}

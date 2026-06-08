@@ -1,0 +1,54 @@
+{
+  "id": "Patrick de Saint-Aignan",
+  "name": "Patrick de Saint-Aignan",
+  "background": "Patrick de Saint-Aignan has over 40 years of experience in the financial services industry, primarily at Morgan Stanley.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "LSE / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "State Street Corporation",
+      "ticker": "STT",
+      "exchange": "NYSE",
+      "website": "https://www.statestreet.com",
+      "logoUrl": "/companies-assets/STT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2008",
+      "endDate": "2018",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Allied World Assurance Company Holdings, AG",
+      "ticker": "AWH",
+      "exchange": "NYSE",
+      "website": "https://www.awac.com",
+      "logoUrl": "/companies-assets/AWH.NYSE.svg",
+      "title": "Director",
+      "startDate": "2006",
+      "endDate": "2017",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2017"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Remuneration Committee"
+  ],
+  "age": 75,
+  "ageYear": 2024
+}

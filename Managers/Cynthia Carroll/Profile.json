@@ -1,0 +1,82 @@
+{
+  "name": "Cynthia Carroll",
+  "first_name": "Cynthia",
+  "last_name": "Carroll",
+  "age": 67,
+  "age_year": 2024,
+  "background": "Cynthia Carroll was previously the CEO of Anglo American plc and has held senior executive roles at Alcan. She is a geologist by training.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Glencore plc",
+      "ticker": "GLEN",
+      "exchange": "LSE",
+      "title_or_role": "Independent Non-Executive Director",
+      "website": "https://www.glencore.com",
+      "start_date": "2021-02-02",
+      "end_date": null
+    },
+    {
+      "name": "Glencore plc",
+      "ticker": "GLNCY",
+      "exchange": "OTC",
+      "title_or_role": "Independent Non-Executive Director",
+      "website": "https://www.glencore.com",
+      "start_date": "2021-02-01",
+      "end_date": null
+    },
+    {
+      "name": "Anglo American plc",
+      "ticker": "AAL",
+      "exchange": "LSE",
+      "website": "https://www.angloamerican.com",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2007-03-01",
+      "end_date": "2013-04-01",
+      "validated": true
+    },
+    {
+      "name": "Baker Hughes Company",
+      "ticker": "BKR",
+      "exchange": "NASDAQ",
+      "website": "https://www.bakerhughes.com",
+      "title_or_role": "Director",
+      "start_date": "2017-07-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Pembina Pipeline Corporation",
+      "ticker": "PPL",
+      "exchange": "TSX",
+      "website": "https://www.pembina.com",
+      "title_or_role": "Director",
+      "start_date": "2018-01-01",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/cynthia-carroll",
+      "person_name": "Cynthia Carroll",
+      "company_name": "Anglo American plc, Glencore plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Health, Safety, Environment and Communities Committee (Chair)",
+    "Remuneration Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "Ashish Khandpur",
+  "name": "Ashish Khandpur",
+  "background": "President and CEO of Reliance Worldwide Corporation. Former President and CEO of Victaulic and former executive at 3M Company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Avient Corporation",
+      "ticker": "AVNT",
+      "exchange": "NYSE",
+      "website": "https://www.avient.com",
+      "logoUrl": "/companies-assets/AVNT.NYSE.svg",
+      "title": "Chairman, President, and Chief Executive Officer",
+      "startDate": "2023-12-01",
+      "endDate": null,
+      "formattedStartDate": "December 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "3M Company",
+      "ticker": "MMM",
+      "exchange": "NYSE",
+      "website": "3m.com",
+      "logoUrl": "/companies-assets/MMM.NYSE.svg",
+      "title": "Group President, Transportation and Electronics Business Group; Chief Technology Officer",
+      "startDate": "1994",
+      "endDate": "2023",
+      "formattedStartDate": "1994",
+      "formattedEndDate": "2023"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ashishkhandpur/",
+      "person_name": "Ashish Khandpur",
+      "company_name": "Avient Corporation",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 4,
+      "profile_status": "private"
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance Committee"
+  ],
+  "age": 57,
+  "ageYear": 2024
+}

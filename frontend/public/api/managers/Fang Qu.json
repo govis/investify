@@ -1,0 +1,40 @@
+{
+  "id": "Fang Qu",
+  "name": "Fang Qu",
+  "background": "Co-founder of Xiaohongshu. She has served as an independent director of our company since 2020.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "XPeng Inc.",
+      "ticker": "XPEV",
+      "exchange": "NYSE",
+      "website": "https://www.xiaopeng.com",
+      "logoUrl": "/companies-assets/XPEV.NYSE.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/fang-qu-8a5b2a12",
+      "person_name": "Fang Qu",
+      "company_name": "XPeng Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Nomination and Corporate Governance Committee"
+  ],
+  "age": 39,
+  "ageYear": 2024
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Geoffery Broomhead",
+  "first_name": "Geoffery",
+  "last_name": "Broomhead",
+  "age": 62,
+  "age_year": 2024,
+  "background": "Mr. Broomhead has over 30 years of experience in the financial services and investment industries. He has held senior positions in investment banking and has been involved in numerous capital markets transactions.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Ucore Rare Metals Inc.",
+      "ticker": "UCU",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "https://ucore.com/",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "PharmX Technologies Limited",
+      "ticker": "PHX",
+      "exchange": "ASX",
+      "website": "https://pharmx.com.au/",
+      "title_or_role": "Managing Director / CEO",
+      "start_date": "2009-09-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hastings Rare Metals Ltd",
+      "ticker": "HAS",
+      "exchange": "ASX",
+      "website": "https://hastingstechnologymetals.com/",
+      "title_or_role": "Non-Executive Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Giordano Albertazzi",
+  "first_name": "Giordano",
+  "last_name": "Albertazzi",
+  "age": 58,
+  "age_year": 2024,
+  "background": "Giordano Albertazzi is the Chief Executive Officer of Vertiv. He was appointed CEO in January 2023. Previously, he served as President, Americas from March 2022 to December 2022 and President, Europe, Middle East and Africa (EMEA) from 2016 to 2022. He joined Emerson Network Power in 1998 and held various leadership positions.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Vertiv Holdings Co",
+      "ticker": "VRT",
+      "exchange": "NYSE",
+      "title_or_role": "Chief Executive Officer",
+      "website": "https://www.vertiv.com",
+      "start_date": "2023-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Vertiv Holdings Co.",
+      "ticker": "VRT",
+      "exchange": "NYSE",
+      "website": "https://www.vertiv.com",
+      "title_or_role": "Chief Executive Officer and Director",
+      "start_date": "January 2023",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/giordanoalbertazzi",
+      "person_name": "Giordano Albertazzi",
+      "company_name": "Vertiv",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Cecil Haney",
+  "first_name": "Cecil",
+  "last_name": "Haney",
+  "age": 68,
+  "age_year": 2024,
+  "background": "Admiral, U.S. Navy (Retired). Former Commander, U.S. Strategic Command.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "General Dynamics Corporation",
+      "ticker": "GD",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.gd.com",
+      "start_date": "2019-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Tenet Healthcare Corporation",
+      "ticker": "THC",
+      "exchange": "NYSE",
+      "website": "https://www.tenethealth.com",
+      "title_or_role": "Director",
+      "start_date": "2021-01-08",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation",
+    "Finance"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

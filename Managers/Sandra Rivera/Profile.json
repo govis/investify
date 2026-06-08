@@ -1,0 +1,62 @@
+{
+  "name": "Sandra Rivera",
+  "first_name": "Sandra",
+  "last_name": "Rivera",
+  "age": 59,
+  "age_year": 2024,
+  "background": "Sandra Rivera is the CEO of Altera, an Intel Company. She previously served as Executive Vice President at Intel.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Equinix, Inc.",
+      "ticker": "EQIX",
+      "exchange": "NASDAQ",
+      "title_or_role": "Board of Directors",
+      "website": "www.equinix.com",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "www.intel.com",
+      "title_or_role": "Executive Vice President, Chief People Officer; EVP & GM Data Center and AI Group",
+      "start_date": "2000",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Altera (Intel spinout)",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "www.altera.com",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2023",
+      "end_date": "2025",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sandra-rivera-6a24291",
+      "person_name": "Sandra Rivera",
+      "company_name": "Altera",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

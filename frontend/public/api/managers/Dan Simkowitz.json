@@ -1,0 +1,38 @@
+{
+  "id": "Dan Simkowitz",
+  "name": "Dan Simkowitz",
+  "background": "Mr. Simkowitz has served as Co-President of Morgan Stanley since January 2024 and Head of Institutional Securities. He was previously Head of Investment Management.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Morgan Stanley",
+      "ticker": "MS",
+      "exchange": "NYSE",
+      "website": "https://www.morganstanley.com",
+      "logoUrl": "/companies-assets/MS.NYSE.svg",
+      "title": "Co-President",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/daniel-simkowitz",
+      "person_name": "Daniel Simkowitz",
+      "company_name": "Morgan Stanley",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 59,
+  "ageYear": 2024
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Lesley Adams",
+  "first_name": "Lesley",
+  "last_name": "Adams",
+  "age": 55,
+  "age_year": 2024,
+  "background": "Ms Adams has over 30 years\u2019 experience in the resources and energy sectors. She has held senior executive and board positions with several ASX-listed companies, including Woodside Energy and several mining companies. She has extensive experience in human resources and corporate affairs.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Paladin Energy Ltd",
+      "ticker": "PDN",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://www.paladinenergy.com/",
+      "start_date": "May 2023",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/lesley-adams-3092059",
+      "person_name": "Lesley Adams",
+      "company_name": "Paladin Energy Ltd",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

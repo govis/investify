@@ -1,0 +1,73 @@
+{
+  "name": "Dustan McCoy",
+  "first_name": "Dustan",
+  "last_name": "McCoy",
+  "age": 74,
+  "age_year": 2024,
+  "background": "Former Chairman and CEO of Brunswick Corporation. Lead Independent Director of FCX.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Freeport-McMoRan Inc.",
+      "ticker": "FCX",
+      "exchange": "NYSE",
+      "title_or_role": "Lead Independent Director, Director",
+      "website": "https://www.fcx.com",
+      "start_date": "2021-02-01",
+      "end_date": null
+    },
+    {
+      "name": "Brunswick Corporation",
+      "ticker": "BC",
+      "exchange": "NYSE",
+      "website": "https://www.brunswick.com",
+      "title_or_role": "Chairman and Chief Executive Officer",
+      "start_date": "December 2005",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Louisiana-Pacific Corporation",
+      "ticker": "LPX",
+      "exchange": "NYSE",
+      "website": "https://www.lpcorp.com",
+      "title_or_role": "Director (Lead Independent Director since 2020)",
+      "start_date": "2002",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "YETI Holdings, Inc.",
+      "ticker": "YETI",
+      "exchange": "NYSE",
+      "website": "https://www.yeti.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dustan-mccoy-0b52281b4",
+      "person_name": "Dustan McCoy",
+      "company_name": "Brunswick Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Corporate Responsibility",
+    "Governance"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "Kevin McCoy",
+  "name": "Kevin McCoy",
+  "background": "Vice Admiral McCoy (Ret.) has served as President of BWXT Government Operations since 2022. He previously served as President of Irving Shipbuilding Inc. and had a 36-year career in the U.S. Navy.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "BWX Technologies, Inc.",
+      "ticker": "BWXT",
+      "exchange": "NYSE",
+      "website": "https://www.bwxt.com",
+      "logoUrl": "/companies-assets/BWXT.NYSE.svg",
+      "title": "Chief Nuclear Officer",
+      "startDate": "June 2025",
+      "endDate": null,
+      "formattedStartDate": "June 2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Australian Unity Limited",
+      "ticker": "AYUPA",
+      "exchange": "ASX",
+      "website": "https://www.australianunity.com.au",
+      "logoUrl": "/companies-assets/AYUPA.ASX.svg",
+      "title": "Chief Executive Officer, Independent and Assisted Living",
+      "startDate": "2018",
+      "endDate": "June 2022",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "June 2022"
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kevinbmccoy",
+      "person_name": "Kevin McCoy",
+      "company_name": "BWX Technologies, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 63,
+  "ageYear": 2024
+}

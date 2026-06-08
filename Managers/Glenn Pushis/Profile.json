@@ -1,0 +1,40 @@
+{
+  "name": "Glenn Pushis",
+  "first_name": "Glenn",
+  "last_name": "Pushis",
+  "age": 58,
+  "age_year": 2024,
+  "background": "Senior Vice President, Strategic Projects since 2016. Previously served as Vice President, Flat Rolled Steel Group.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Steel Dynamics, Inc.",
+      "ticker": "STLD",
+      "exchange": "NASDAQ",
+      "title_or_role": "Senior Vice President",
+      "website": "https://www.steeldynamics.com/",
+      "start_date": "1994",
+      "end_date": "October 1, 2025",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/glenn-pushis-01587a130",
+      "person_name": "Glenn Pushis",
+      "company_name": "Steel Dynamics, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

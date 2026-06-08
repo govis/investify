@@ -1,0 +1,51 @@
+{
+  "name": "Brad Greve",
+  "first_name": "Brad",
+  "last_name": "Greve",
+  "age": 56,
+  "age_year": 2024,
+  "background": "Brad joined the Company in 2019 and was appointed Group Finance Director in 2020. He has extensive experience in the oil and gas industry, having held senior roles at Schlumberger.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "BAE Systems plc",
+      "ticker": "BA",
+      "exchange": "LSE",
+      "title_or_role": "Group Finance Director & Director",
+      "website": "https://www.baesystems.com",
+      "start_date": "2020-04-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Schlumberger NV",
+      "ticker": "SLB",
+      "exchange": "NYSE",
+      "website": "https://www.slb.com",
+      "title_or_role": "Director of Internal Audit",
+      "start_date": null,
+      "end_date": "2019",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/brad-greve-7a5a5a1a",
+      "person_name": "Brad Greve",
+      "company_name": "BAE Systems",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 1
+}

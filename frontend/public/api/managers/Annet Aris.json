@@ -1,0 +1,67 @@
+{
+  "id": "Annet Aris",
+  "name": "Annet Aris",
+  "background": "Annet Aris was appointed to the Supervisory Board in 2019. She is a Senior Affiliate Professor of Strategy at INSEAD.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "ASML Holding N.V.",
+      "ticker": "ASML",
+      "exchange": "NASDAQ / Euronext Amsterdam",
+      "website": null,
+      "logoUrl": null,
+      "title": "Member of the Supervisory Board / Vice-Chair",
+      "startDate": "2015",
+      "endDate": "2025",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "Randstad N.V.",
+      "ticker": "RAND",
+      "exchange": "Euronext Amsterdam",
+      "website": null,
+      "logoUrl": null,
+      "title": "Member of the Supervisory Board",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Jungheinrich AG",
+      "ticker": "JUN3",
+      "exchange": "Xetra (Frankfurt Stock Exchange)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Member of the Supervisory Board",
+      "startDate": "2013",
+      "endDate": "2023",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2023"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/annet-aris-8abb9381/",
+      "person_name": "Annet Aris",
+      "company_name": "INSEAD",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1,
+      "profile_status": "private"
+    }
+  ],
+  "committees": [
+    "Selection and Nomination Committee",
+    "Technology Committee (Chair)"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

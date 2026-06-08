@@ -1,0 +1,55 @@
+{
+  "id": "Trevor Thiele",
+  "name": "Trevor Thiele",
+  "background": "Mr. Thiele has over 30 years of experience in senior financial roles. He was the CFO of several major Australian resource companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NexGen Energy Ltd.",
+      "ticker": "NXE",
+      "exchange": "TSX",
+      "website": "https://www.nexgenenergy.ca",
+      "logoUrl": "/companies-assets/NXE.TSX.svg",
+      "title": "Director",
+      "startDate": "2013-04-18",
+      "endDate": null,
+      "formattedStartDate": "April 2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "ISO Energy Ltd.",
+      "ticker": "ISO",
+      "exchange": "TSXV",
+      "website": "https://www.isoenergy.ca",
+      "logoUrl": "/companies-assets/ISO.TSXV.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Bionomics Limited",
+      "ticker": "BNO",
+      "exchange": "ASX",
+      "website": "https://www.bionomics.com.au/",
+      "logoUrl": "/companies-assets/BNO.ASX.svg",
+      "title": "Chief Financial Officer (CFO)",
+      "startDate": "Prior to 2011",
+      "endDate": null,
+      "formattedStartDate": "Prior to 2011",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Audit Committee (Chair)",
+    "Compensation Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

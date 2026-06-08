@@ -1,0 +1,72 @@
+{
+  "name": "Susan Ciccarone",
+  "first_name": "Susan",
+  "last_name": "Ciccarone",
+  "age": 51,
+  "age_year": 2024,
+  "background": "Independent Trustee. Managing Director at Kapitus. Previously at Goldman Sachs.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Global X Lithium & Battery Tech ETF",
+      "ticker": "LIT",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Trustee",
+      "website": "https://www.globalxetfs.com/funds/lit/",
+      "start_date": "2021-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Global X Uranium ETF",
+      "ticker": "URA",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Trustee",
+      "website": "https://www.globalxetfs.com/funds/ura/",
+      "start_date": "2021-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Global X Funds (Trust)",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "https://www.globalxetfs.com",
+      "title_or_role": "Independent Trustee",
+      "start_date": "Unknown",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "EGA Emerging Global Shares Trust",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "N/A",
+      "title_or_role": "Chief Financial Officer & Treasurer",
+      "start_date": "Unknown",
+      "end_date": "Unknown",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/susan-ciccarone-a575a92",
+      "person_name": "Susan Ciccarone",
+      "company_name": "Kapitus",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

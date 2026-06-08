@@ -1,0 +1,52 @@
+{
+  "name": "Neal Wolkoff",
+  "first_name": "Neal",
+  "last_name": "Wolkoff",
+  "age": 69,
+  "age_year": 2024,
+  "background": "Mr. Wolkoff is an Independent Director of the Sponsor. He is the former CEO of the American Stock Exchange and the New York Board of Trade.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "SPDR Gold Trust",
+      "ticker": "GLD",
+      "exchange": "NYSE",
+      "title_or_role": "Director (World Gold Trust Services, LLC - Sponsor)",
+      "website": "https://www.spdrgoldshares.com",
+      "start_date": "2013-01-24",
+      "end_date": "2023-01-01",
+      "validated": true
+    },
+    {
+      "name": "OTC Markets Group Inc.",
+      "ticker": "OTCM",
+      "exchange": "OTC",
+      "website": "https://www.otcmarkets.com",
+      "title_or_role": "Director / Non-Executive Chairman",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/neal-wolkoff-5335027",
+      "person_name": "Neal Wolkoff",
+      "company_name": "OTC Markets Group",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

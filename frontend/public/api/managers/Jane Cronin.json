@@ -1,0 +1,64 @@
+{
+  "id": "Jane Cronin",
+  "name": "Jane Cronin",
+  "background": "Former Senior Vice President, Corporate Controller of Sherwin-Williams Company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "TransDigm Group Incorporated",
+      "ticker": "TDG",
+      "exchange": "NYSE",
+      "website": "https://www.transdigm.com",
+      "logoUrl": "/companies-assets/TDG.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cleveland-Cliffs Inc.",
+      "ticker": "CLF",
+      "exchange": "NYSE",
+      "website": "https://www.clevelandcliffs.com",
+      "logoUrl": "/companies-assets/CLF.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "January 3, 2025",
+      "endDate": null,
+      "formattedStartDate": "January 3, 2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "The Sherwin-Williams Company",
+      "ticker": "SHW",
+      "exchange": "NYSE",
+      "website": "https://www.sherwin-williams.com",
+      "logoUrl": "/companies-assets/SHW.NYSE.svg",
+      "title": "Former Senior Vice President, Enterprise Finance",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jane-cronin",
+      "person_name": "Jane Cronin",
+      "company_name": "The Sherwin-Williams Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 56,
+  "ageYear": 2024
+}

@@ -1,0 +1,51 @@
+{
+  "id": "Tamara Morytko",
+  "name": "Tamara Morytko",
+  "background": "Ms. Morytko has served as President, Pumps Division since January 2023. She previously served as President, Flow Control Division from September 2020 to January 2023. Prior to joining Flowserve, she was Chief Operating Officer of Nidec Motor Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Flowserve Corporation",
+      "ticker": "FLS",
+      "exchange": "NYSE",
+      "website": "https://www.flowserve.com",
+      "logoUrl": "/companies-assets/FLS.NYSE.svg",
+      "title": "Director (Board of Directors)",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "EnerSys",
+      "ticker": "ENS",
+      "exchange": "NYSE",
+      "website": "https://www.enersys.com",
+      "logoUrl": "/companies-assets/ENS.NYSE.svg",
+      "title": "Director (Board of Directors)",
+      "startDate": "December 2022",
+      "endDate": null,
+      "formattedStartDate": "December 2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Hillenbrand, Inc.",
+      "ticker": "HI",
+      "exchange": "NYSE",
+      "website": "https://www.hillenbrand.com/",
+      "logoUrl": "/companies-assets/HI.NYSE.svg",
+      "title": "SVP & President, Molding Technology Solutions",
+      "startDate": "September 2023",
+      "endDate": null,
+      "formattedStartDate": "September 2023",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 54,
+  "ageYear": 2024
+}

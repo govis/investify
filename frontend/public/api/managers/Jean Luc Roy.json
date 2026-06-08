@@ -1,0 +1,90 @@
+{
+  "id": "Jean Luc Roy",
+  "name": "Jean Luc Roy",
+  "background": "Mr. Roy has over 30 years of experience in the mining industry, primarily in Africa.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "CanAlaska Uranium Ltd.",
+      "ticker": "CVV",
+      "exchange": "TSXV",
+      "website": "https://canalaska.com/",
+      "logoUrl": "/companies-assets/CVV.TSXV.png",
+      "title": "Director",
+      "startDate": "2007",
+      "endDate": null,
+      "formattedStartDate": "2007",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Deep-South Resources Inc.",
+      "ticker": "DSM",
+      "exchange": "TSXV",
+      "website": "https://deepsouthresources.com",
+      "logoUrl": "/companies-assets/DSM.TSXV.svg",
+      "title": "COO & Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Nine Mile Metals Ltd.",
+      "ticker": "NINE",
+      "exchange": "CSE",
+      "website": "https://ninemilemetals.com",
+      "logoUrl": "/companies-assets/NINE.CSE.svg",
+      "title": "Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "El Nino Ventures Inc.",
+      "ticker": "ELN",
+      "exchange": "TSXV",
+      "website": "http://elninoventures.com",
+      "logoUrl": "/companies-assets/ELN.TSXV.png",
+      "title": "President & CEO",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Ampella Mining Ltd.",
+      "ticker": "AMX",
+      "exchange": "ASX",
+      "website": null,
+      "logoUrl": "/companies-assets/AMX.ASX.png",
+      "title": "COO",
+      "startDate": "2010",
+      "endDate": "2016",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "First Quantum Minerals Ltd.",
+      "ticker": "FM",
+      "exchange": "TSX",
+      "website": "https://first-quantum.com",
+      "logoUrl": "/companies-assets/FM.TSX.svg",
+      "title": "Managing Director (DRC)",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

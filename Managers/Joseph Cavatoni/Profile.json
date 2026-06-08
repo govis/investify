@@ -1,0 +1,50 @@
+{
+  "name": "Joseph Cavatoni",
+  "first_name": "Joseph",
+  "last_name": "Cavatoni",
+  "age": 56,
+  "age_year": 2024,
+  "background": "Mr. Cavatoni is the Principal Executive Officer of World Gold Trust Services, LLC (the \"Sponsor\"). He has been with the World Gold Council since 2016 and previously held senior roles at BlackRock and UBS.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "SPDR Gold Trust",
+      "ticker": "GLD",
+      "exchange": "NYSE Arca",
+      "title_or_role": "Principal Executive Officer (World Gold Trust Services, LLC, the Sponsor)",
+      "website": "https://www.spdrgoldshares.com/",
+      "start_date": "September 2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "ticker": "BLK",
+      "exchange": "NYSE",
+      "website": "https://www.blackrock.com/",
+      "title_or_role": "Managing Director, iShares Capital Markets \u2013 Americas",
+      "start_date": "Unknown",
+      "end_date": "2016",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/josephcavatoni",
+      "person_name": "Joseph Cavatoni",
+      "company_name": "World Gold Council",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

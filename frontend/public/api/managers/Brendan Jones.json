@@ -1,0 +1,62 @@
+{
+  "id": "Brendan Jones",
+  "name": "Brendan Jones",
+  "background": "Mr. Jones has served as our Chief Executive Officer since May 2023 and as a member of our Board since February 2024. He previously served as our President from April 2020 to May 2023. Prior to joining Blink, he was the Chief Operating Officer of Electrify America and held executive positions at Nissan North America.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Blink Charging Co.",
+      "ticker": "BLNK",
+      "exchange": "NASDAQ",
+      "website": "https://www.blinkcharging.com",
+      "logoUrl": "/companies-assets/BLNK.NASDAQ.svg",
+      "title": "President and Chief Executive Officer",
+      "startDate": "April 2020",
+      "endDate": "2025",
+      "formattedStartDate": "April 2020",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "NRG Energy, Inc.",
+      "ticker": "NRG",
+      "exchange": "NYSE",
+      "website": "https://www.nrg.com",
+      "logoUrl": "/companies-assets/NRG.NYSE.svg",
+      "title": "Vice President, Sales and Infrastructure (EVgo)",
+      "startDate": "2014",
+      "endDate": "2016",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Nissan Motor Co., Ltd.",
+      "ticker": "NSANY",
+      "exchange": "OTC",
+      "website": "https://www.nissan-global.com",
+      "logoUrl": "/companies-assets/NSANY.OTC.svg",
+      "title": "Director, Electric Vehicle Sales and Infrastructure Deployment",
+      "startDate": "1995",
+      "endDate": "2014",
+      "formattedStartDate": "1995",
+      "formattedEndDate": "2014"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/brendansjones",
+      "person_name": "Brendan Jones",
+      "company_name": "Blink Charging Co.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 58,
+  "ageYear": 2024
+}

@@ -1,0 +1,92 @@
+{
+  "id": "Andrea Jung",
+  "name": "Andrea Jung",
+  "background": "Ms. Jung has served as the President and CEO of Grameen America, a non-profit microfinance organization, since 2014. She previously served as Chairman and CEO of Avon Products, Inc.",
+  "pictureUrl": "/managers-assets/Andrea Jung.jpg",
+  "companies": [
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "exchange": "NASDAQ",
+      "website": "https://www.apple.com",
+      "logoUrl": "/companies-assets/AAPL.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2008",
+      "endDate": null,
+      "formattedStartDate": "2008",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Wayfair Inc.",
+      "ticker": "W",
+      "exchange": "NYSE",
+      "website": "https://www.wayfair.com",
+      "logoUrl": "/companies-assets/W.NYSE.svg",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Avon Products, Inc.",
+      "ticker": "AVP",
+      "exchange": "NYSE",
+      "website": "https://www.avonworldwide.com",
+      "logoUrl": "/companies-assets/AVP.NYSE.svg",
+      "title": "Chairman and Chief Executive Officer",
+      "startDate": "1999",
+      "endDate": "2012",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "General Electric Company",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "website": "https://www.geaerospace.com",
+      "logoUrl": "/companies-assets/GE.NYSE.svg",
+      "title": "Director",
+      "startDate": "2008",
+      "endDate": "2018",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Unilever PLC",
+      "ticker": "UL",
+      "exchange": "NYSE",
+      "website": "https://www.unilever.com",
+      "logoUrl": "/companies-assets/UL.NYSE.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": "2021",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2021"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/andrea-jung-442a7b9b",
+      "person_name": "Andrea Jung",
+      "company_name": "Grameen America, Avon Products, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    },
+    {
+      "name": "X (Twitter)",
+      "url": "https://x.com/AndreaJung__"
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

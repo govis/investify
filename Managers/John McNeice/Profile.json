@@ -1,0 +1,90 @@
+{
+  "name": "John McNeice",
+  "first_name": "John",
+  "last_name": "McNeice",
+  "age": 54,
+  "age_year": 2024,
+  "background": "Mr. McNeice is a Chartered Professional Accountant with over 25 years of experience in financial reporting and corporate governance for public companies in the resource sector.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lahontan Gold Corp.",
+      "ticker": "LG",
+      "exchange": "TSX",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://lahontangoldcorp.com/",
+      "start_date": "2022-04-06",
+      "end_date": null
+    },
+    {
+      "name": "Gold79 Mines Ltd.",
+      "ticker": "AUU",
+      "exchange": "TSXV",
+      "website": "https://gold79mines.com/",
+      "title_or_role": "Chief Financial Officer / Corporate Secretary",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "C3 Metals Inc.",
+      "ticker": "CCCM",
+      "exchange": "TSXV",
+      "website": "https://c3metals.com/",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Northern Graphite Corp.",
+      "ticker": "NGC",
+      "exchange": "TSXV",
+      "website": "https://www.northerngraphite.com/",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Mazorro Resources Inc.",
+      "ticker": "MZO",
+      "exchange": "TSXV",
+      "website": "http://www.mazorro.com/",
+      "title_or_role": "Chief Financial Officer / Corporate Secretary",
+      "start_date": null,
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Carube Copper Corp.",
+      "ticker": "CUC",
+      "exchange": "TSXV",
+      "website": "https://www.carubecopper.com/",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/john-mcneice-0912162b",
+      "person_name": "John McNeice",
+      "company_name": "Lahontan Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

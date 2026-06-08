@@ -1,0 +1,50 @@
+{
+  "id": "Mary Powell",
+  "name": "Mary Powell",
+  "background": "Mary Powell has served as our Chief Executive Officer and as a member of our Board since August 2021. Prior to joining Sunrun, Ms. Powell served as the President and Chief Executive Officer of Green Mountain Power Corporation from 2008 to 2019. She has also served on the board of directors of CGI Inc. since 2015 and previously served on the board of directors of Hawaiian Electric Industries, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sunrun Inc.",
+      "ticker": "RUN",
+      "exchange": "NASDAQ",
+      "website": "https://www.sunrun.com",
+      "logoUrl": "/companies-assets/RUN.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "February 2018",
+      "endDate": null,
+      "formattedStartDate": "February 2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "CGI Inc.",
+      "ticker": "GIB",
+      "exchange": "NYSE",
+      "website": "https://www.cgi.com",
+      "logoUrl": "/companies-assets/GIB.NYSE.svg",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mary-g-powell",
+      "person_name": "Mary Powell",
+      "company_name": "Sunrun Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 63,
+  "ageYear": 2024
+}

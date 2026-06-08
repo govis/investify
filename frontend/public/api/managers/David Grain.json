@@ -1,0 +1,78 @@
+{
+  "id": "David Grain",
+  "name": "David Grain",
+  "background": "Founder and CEO of Grain Management, LLC. Former Lead Independent Director of Southern Company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "The Southern Company",
+      "ticker": "SO",
+      "exchange": "NYSE",
+      "website": "https://www.southerncompany.com",
+      "logoUrl": "/companies-assets/SO.NYSE.svg",
+      "title": "Director",
+      "startDate": "2012",
+      "endDate": null,
+      "formattedStartDate": "2012",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Dell Technologies Inc.",
+      "ticker": "DELL",
+      "exchange": "NYSE",
+      "website": "https://www.dell.com",
+      "logoUrl": "/companies-assets/DELL.NYSE.svg",
+      "title": "Director",
+      "startDate": "September 2021",
+      "endDate": null,
+      "formattedStartDate": "September 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "New Fortress Energy Inc.",
+      "ticker": "NFE",
+      "exchange": "NASDAQ",
+      "website": "https://www.newfortressenergy.com",
+      "logoUrl": "/companies-assets/NFE.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "January 2019",
+      "endDate": null,
+      "formattedStartDate": "January 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Global Signal Inc.",
+      "ticker": "GSL",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "/companies-assets/GSL.NYSE.svg",
+      "title": "President",
+      "startDate": "2002",
+      "endDate": "2006",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "2006"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/david-j-grain-a940a437",
+      "person_name": "David Grain",
+      "company_name": "Grain Management, LLC",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation and Management Succession (Chair)",
+    "Finance",
+    "Governance"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

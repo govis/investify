@@ -1,0 +1,51 @@
+{
+  "id": "Alison White",
+  "name": "Alison White",
+  "background": "Ms. White was appointed Executive Vice President and Chief Financial Officer in 2021. She has over 25 years of experience in finance and accounting, including roles at Newmont Corporation and ConocoPhillips.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "SSR Mining Inc.",
+      "ticker": "SSRM",
+      "exchange": "TSX / NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "January 2023",
+      "endDate": "March 2024",
+      "formattedStartDate": "January 2023",
+      "formattedEndDate": "March 2024"
+    },
+    {
+      "name": "Discovery Silver Corp.",
+      "ticker": "DSV",
+      "exchange": "TSX",
+      "website": "https://discoverysilver.com",
+      "logoUrl": "/companies-assets/DSV.TSX.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "July 31, 2025",
+      "endDate": null,
+      "formattedStartDate": "July 31, 2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Newmont Corporation",
+      "ticker": "NEM",
+      "exchange": "NYSE",
+      "website": "https://www.newmont.com",
+      "logoUrl": "/companies-assets/NEM.NYSE.svg",
+      "title": "Regional Chief Financial Officer (North America) and various corporate roles",
+      "startDate": "Prior to 2023",
+      "endDate": "Prior to 2023",
+      "formattedStartDate": "Prior to 2023",
+      "formattedEndDate": "Prior to 2023"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 52,
+  "ageYear": 2024
+}

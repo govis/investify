@@ -1,0 +1,89 @@
+{
+  "id": "Charles Main",
+  "name": "Charles Main",
+  "background": "Mr. Main is a Chartered Professional Accountant with over 30 years of experience in the mining sector, including as CFO of Yamana Gold.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Wesdome Gold Mines Ltd.",
+      "ticker": "WDO",
+      "exchange": "TSX",
+      "website": "https://www.wesdome.com",
+      "logoUrl": "/companies-assets/WDO.TSX.svg",
+      "title": "Director / Lead Independent Director",
+      "startDate": "2021-07-20",
+      "endDate": null,
+      "formattedStartDate": "July 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Yamana Gold Inc.",
+      "ticker": "AUY",
+      "exchange": "TSX/NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Financial Officer",
+      "startDate": "2003",
+      "endDate": "2017",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Critical Elements Lithium Corp.",
+      "ticker": "CRE",
+      "exchange": "TSXV",
+      "website": "cecorp.ca",
+      "logoUrl": "/companies-assets/CRE.TSXV.png",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2018-11-07",
+      "endDate": "2021",
+      "formattedStartDate": "November 2018",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Quebec Precious Metals Corp.",
+      "ticker": "QPM",
+      "exchange": "TSXV",
+      "website": "qpmcorp.ca",
+      "logoUrl": "/companies-assets/QPM.TSXV.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2019-05-31",
+      "endDate": "2021-07-21",
+      "formattedStartDate": "May 2019",
+      "formattedEndDate": "July 2021"
+    },
+    {
+      "name": "Banff Resources Ltd.",
+      "ticker": "BFR",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": "/companies-assets/BFR.TSXV.png",
+      "title": "Chief Financial Officer & Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/charles-main-8a5a5a1a",
+      "person_name": "Charles Main",
+      "company_name": "Yamana Gold Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Compensation Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

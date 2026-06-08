@@ -1,0 +1,60 @@
+{
+  "name": "James Farley, Jr.",
+  "first_name": "James",
+  "last_name": "Farley, Jr.",
+  "age": 61,
+  "age_year": 2024,
+  "background": "Jim Farley is Ford President and Chief Executive Officer, and a member of the Board of Directors. He previously served as Chief Operating Officer and has held various leadership roles since joining Ford in 2007.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "title_or_role": "Director, President and Chief Executive Officer",
+      "website": "https://www.ford.com",
+      "start_date": "2020-10-01",
+      "end_date": null
+    },
+    {
+      "name": "McDonald's Corporation",
+      "ticker": "MCD",
+      "exchange": "NYSE",
+      "website": "https://corporate.mcdonalds.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "February 4, 2026",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Harley-Davidson, Inc.",
+      "ticker": "HOG",
+      "exchange": "NYSE",
+      "website": "https://www.harley-davidson.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "May 20, 2021",
+      "end_date": "February 9, 2026",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jim-farley",
+      "person_name": "Jim Farley",
+      "company_name": "Ford Motor Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

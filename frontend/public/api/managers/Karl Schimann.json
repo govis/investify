@@ -1,0 +1,29 @@
+{
+  "id": "Karl Schimann",
+  "name": "Karl Schimann",
+  "background": "Dr. Schimann is a professional geologist with over 40 years of experience, including significant work on the Cigar Lake uranium deposit.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "CanAlaska Uranium Ltd.",
+      "ticker": "CVV",
+      "exchange": "TSXV",
+      "website": "https://canalaska.com/",
+      "logoUrl": "/companies-assets/CVV.TSXV.png",
+      "title": "Vice-President Exploration (Former) / Director (Former)",
+      "startDate": "2010",
+      "endDate": "January 2023",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "January 2023"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 76,
+  "ageYear": 2024
+}

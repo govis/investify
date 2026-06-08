@@ -1,0 +1,53 @@
+{
+  "name": "Tench Coxe",
+  "first_name": "Tench",
+  "last_name": "Coxe",
+  "age": 66,
+  "age_year": 2024,
+  "background": "Former Managing Director of Sutter Hill Ventures.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.nvidia.com",
+      "start_date": "1993-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Artisan Partners Asset Management Inc.",
+      "ticker": "APAM",
+      "exchange": "NYSE",
+      "website": "https://www.artisanpartners.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2013-03-01",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/tench-coxe-23a2555",
+      "person_name": "Tench Coxe",
+      "company_name": "NVIDIA Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

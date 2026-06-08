@@ -1,0 +1,83 @@
+{
+  "name": "William Zisch",
+  "first_name": "William",
+  "last_name": "Zisch",
+  "age": 65,
+  "age_year": 2023,
+  "background": "Mr. Zisch has served as a director since 2020. He has over 40 years of experience in the mining industry, including roles at Newmont and Argonaut Gold.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Contango Ore, Inc.",
+      "ticker": "CTGO",
+      "exchange": "NYSE American",
+      "title_or_role": "Director",
+      "website": "https://www.contangoore.com/",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Argonaut Gold Inc.",
+      "ticker": "AR",
+      "exchange": "TSX",
+      "website": "https://www.argonautgold.com/",
+      "title_or_role": "Chief Operating Officer",
+      "start_date": "2016",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Midway Gold Corp.",
+      "ticker": "MDW",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2014",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Royal Gold, Inc.",
+      "ticker": "RGLD",
+      "exchange": "NASDAQ",
+      "website": "https://www.royalgold.com/",
+      "title_or_role": "Vice President of Operations",
+      "start_date": "2009",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "Newmont Corporation",
+      "ticker": "NEM",
+      "exchange": "NYSE",
+      "website": "https://www.newmont.com/",
+      "title_or_role": "Operations Manager / Vice President of African Operations",
+      "start_date": "1997",
+      "end_date": "2009",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/william-zisch-4220a466",
+      "person_name": "William Zisch",
+      "company_name": "Contango Ore, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

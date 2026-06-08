@@ -1,0 +1,74 @@
+{
+  "id": "Paul Harbidge",
+  "name": "Paul Harbidge",
+  "background": "Mr. Harbidge has over 30 years of experience in the mining industry. He was previously President and CEO of GT Gold Corp. and Senior Vice President, Exploration at Goldcorp Inc. He also served as General Manager, Exploration at Randgold Resources.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Faraday Copper Corp.",
+      "ticker": "FDY",
+      "exchange": "TSX",
+      "website": "https://faradaycopper.com",
+      "logoUrl": "/companies-assets/FDY.TSX.png",
+      "title": "President & CEO",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Japan Gold Corp.",
+      "ticker": "JG",
+      "exchange": "TSXV",
+      "website": "japangold.com",
+      "logoUrl": "/companies-assets/JG.TSXV.webp",
+      "title": "Independent Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Fireweed Metals Corp.",
+      "ticker": "FWZ",
+      "exchange": "TSXV",
+      "website": "https://fireweedmetals.com/",
+      "logoUrl": "/companies-assets/FWZ.TSXV.png",
+      "title": "Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "TSX",
+      "website": "https://www.endeavourmining.com",
+      "logoUrl": "/companies-assets/EDV.TSX.svg",
+      "title": "Senior Vice President, Exploration",
+      "startDate": "2016",
+      "endDate": "2021",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2021"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/paul-harbidge-676b359",
+      "person_name": "Paul Harbidge",
+      "company_name": "Faraday Copper Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 57,
+  "ageYear": 2024
+}

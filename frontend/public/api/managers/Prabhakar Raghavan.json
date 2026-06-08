@@ -1,0 +1,64 @@
+{
+  "id": "Prabhakar Raghavan",
+  "name": "Prabhakar Raghavan",
+  "background": "Prabhakar Raghavan has served as Senior Vice President, Knowledge & Information at Google since June 2020. He previously served as Senior Vice President, Ads, Commerce and Payments from 2018 to 2020. Before joining Google in 2012, he was at Yahoo! Labs.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Alphabet Inc.",
+      "ticker": "GOOGL",
+      "exchange": "NASDAQ",
+      "website": "https://abc.xyz",
+      "logoUrl": "/companies-assets/GOOGL.NASDAQ.svg",
+      "title": "Chief Technologist (formerly Senior Vice President, Knowledge & Information)",
+      "startDate": "2012",
+      "endDate": null,
+      "formattedStartDate": "2012",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Yahoo Inc.",
+      "ticker": "YHOO",
+      "exchange": "NASDAQ",
+      "website": "yahoo.com",
+      "logoUrl": "/companies-assets/YHOO.NASDAQ.png",
+      "title": "Head of Yahoo! Labs / Senior Vice President",
+      "startDate": "2005",
+      "endDate": "2012",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "Verity, Inc.",
+      "ticker": "VRTY",
+      "exchange": "NASDAQ",
+      "website": "https://www.verity.com",
+      "logoUrl": "/companies-assets/VRTY.NASDAQ.svg",
+      "title": "Chief Technology Officer (CTO)",
+      "startDate": "2004",
+      "endDate": "2005",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2005"
+    },
+    {
+      "name": "International Business Machines Corporation (IBM)",
+      "ticker": "IBM",
+      "exchange": "NYSE",
+      "website": "https://www.ibm.com",
+      "logoUrl": "/companies-assets/IBM.NYSE.svg",
+      "title": "Research Staff Member / Manager",
+      "startDate": "1990",
+      "endDate": "2004",
+      "formattedStartDate": "1990",
+      "formattedEndDate": "2004"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 63,
+  "ageYear": 2024
+}

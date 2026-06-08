@@ -1,0 +1,51 @@
+{
+  "id": "Andrew Cormier",
+  "name": "Andrew Cormier",
+  "background": "Mr. Cormier has over 30 years of experience in project development and operations. He was previously Vice President, Project Development at Torex Gold Resources Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Orla Mining Ltd.",
+      "ticker": "OLA",
+      "exchange": "TSX",
+      "website": "https://www.orlamining.com",
+      "logoUrl": "/companies-assets/OLA.TSX.svg",
+      "title": "Chief Operating Officer",
+      "startDate": "2020-04",
+      "endDate": null,
+      "formattedStartDate": "April 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Alamos Gold Inc.",
+      "ticker": "AGI",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice President, Development and Construction",
+      "startDate": "2013",
+      "endDate": "2020",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "AuRico Gold Inc.",
+      "ticker": "AUQ",
+      "exchange": "TSX",
+      "website": "N/A",
+      "logoUrl": "/companies-assets/AUQ.TSX.png",
+      "title": "Project Manager",
+      "startDate": "N/A",
+      "endDate": "N/A",
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 58,
+  "ageYear": 2024
+}

@@ -1,0 +1,40 @@
+{
+  "id": "Justin Johnson",
+  "name": "Justin Johnson",
+  "background": "Mr. Johnson has served as Executive Vice President and Chief People and Communications Officer since 2023. He joined Jacobs in 2016 and has held various leadership roles in HR and communications.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Jacobs Solutions Inc.",
+      "ticker": "J",
+      "exchange": "NYSE",
+      "website": "https://www.jacobs.com",
+      "logoUrl": "/companies-assets/J.NYSE.svg",
+      "title": "Executive Vice President, General Counsel and Corporate Secretary",
+      "startDate": null,
+      "endDate": "January 2026",
+      "formattedStartDate": "",
+      "formattedEndDate": "January 2026"
+    },
+    {
+      "name": "Vistra Corp.",
+      "ticker": "VST",
+      "exchange": "NYSE",
+      "website": "https://www.vistracorp.com",
+      "logoUrl": "/companies-assets/VST.NYSE.svg",
+      "title": "Senior Counsel",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 44,
+  "ageYear": 2024
+}

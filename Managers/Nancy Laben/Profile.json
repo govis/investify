@@ -1,0 +1,40 @@
+{
+  "name": "Nancy Laben",
+  "first_name": "Nancy",
+  "last_name": "Laben",
+  "age": 60,
+  "age_year": 2024,
+  "background": "Ms. Laben is our Executive Vice President and Chief Legal Officer. She joined the firm in 2013 and previously served as General Counsel at AECOM.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Booz Allen Hamilton Holding Corporation",
+      "ticker": "BAH",
+      "exchange": "NYSE",
+      "title_or_role": "Chief Legal Officer, Corporate Secretary, and Executive Vice President",
+      "website": "https://www.boozallen.com",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/nancy-laben-7552137",
+      "person_name": "Nancy Laben",
+      "company_name": "Booz Allen Hamilton",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

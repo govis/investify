@@ -1,0 +1,72 @@
+{
+  "name": "Michael Gregoire",
+  "first_name": "Michael",
+  "last_name": "Gregoire",
+  "age": 58,
+  "age_year": 2024,
+  "background": "Former CEO of CA Technologies and Taleo Corporation. Director since 2019.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Advanced Micro Devices, Inc.",
+      "ticker": "AMD",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.amd.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Smartsheet Inc.",
+      "ticker": "SMAR",
+      "exchange": "NYSE",
+      "website": "https://www.smartsheet.com",
+      "title_or_role": "Director (Chairman of the Board from 2023 to 2025)",
+      "start_date": "2019",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "CA Technologies",
+      "ticker": "CA",
+      "exchange": "NASDAQ",
+      "website": "https://www.broadcom.com",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2013",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Automatic Data Processing, Inc. (ADP)",
+      "ticker": "ADP",
+      "exchange": "NASDAQ",
+      "website": "https://www.adp.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Taleo Corporation",
+      "ticker": "TLEO",
+      "exchange": "NASDAQ",
+      "website": "https://www.oracle.com",
+      "title_or_role": "President, Chief Executive Officer, and Chairman of the Board",
+      "start_date": "2005",
+      "end_date": "2012",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Compensation and Leadership Resources Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

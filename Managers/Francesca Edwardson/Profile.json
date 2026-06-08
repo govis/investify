@@ -1,0 +1,41 @@
+{
+  "name": "Francesca Edwardson",
+  "first_name": "Francesca",
+  "last_name": "Edwardson",
+  "age": 66,
+  "age_year": 2024,
+  "background": "Former CEO of American Red Cross of Chicago & Northern Illinois. Director since 2011.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "J.B. Hunt Transport Services, Inc.",
+      "ticker": "JBHT",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.jbhunt.com",
+      "start_date": "2011-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Duluth Holdings, Inc.",
+      "ticker": "DLTH",
+      "exchange": "NASDAQ",
+      "website": "https://www.duluthtrading.com",
+      "title_or_role": "Director",
+      "start_date": "2015-09",
+      "end_date": "2025-06",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

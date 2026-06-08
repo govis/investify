@@ -1,0 +1,42 @@
+{
+  "id": "Peter Hawley",
+  "name": "Peter Hawley",
+  "background": "Mr. Hawley is a geologist with over 35 years of experience in the mining industry and is the founder of Sabina Gold & Silver Corp.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Fabled Copper Corp.",
+      "ticker": "FABL",
+      "exchange": "CSE",
+      "website": "https://fabledcopper.org/",
+      "logoUrl": "https://fabledcopper.org/wp-content/uploads/2021/06/Fabled-Copper-Logo-1.png",
+      "title": "President and Chief Executive Officer",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Fabled Silver Gold Corp.",
+      "ticker": "FCO",
+      "exchange": "TSXV",
+      "website": "https://fabledcopper.org/",
+      "logoUrl": "https://fabledcopper.org/wp-content/uploads/2021/06/fabled-logo.png",
+      "title": "President and Chief Executive Officer",
+      "startDate": "2016",
+      "endDate": "2021",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2021"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

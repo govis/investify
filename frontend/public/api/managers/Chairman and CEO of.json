@@ -1,0 +1,28 @@
+{
+  "id": "Chairman and CEO of",
+  "name": "Chairman and CEO of",
+  "background": "Chairman and CEO of TSMC. See executive profile for details.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Taiwan Semiconductor Manufacturing Company Limited",
+      "ticker": "TSM",
+      "exchange": "NYSE",
+      "website": "https://www.tsmc.com",
+      "logoUrl": "/companies-assets/TSM.NYSE.svg",
+      "title": "Chairman and CEO",
+      "startDate": "1998-01-01",
+      "endDate": null,
+      "formattedStartDate": "January 1998",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 71,
+  "ageYear": 2024
+}

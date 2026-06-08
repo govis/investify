@@ -1,0 +1,50 @@
+{
+  "id": "Jeff Quartermaine",
+  "name": "Jeff Quartermaine",
+  "background": "Managing Director and CEO of Perseus Mining Limited. Extensive experience in financial and strategic management.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Perseus Mining Limited",
+      "ticker": "PRU",
+      "exchange": "ASX",
+      "website": "https://perseusmining.com/",
+      "logoUrl": "/companies-assets/PRU.ASX.svg",
+      "title": "Managing Director and CEO",
+      "startDate": "2013",
+      "endDate": "2024",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Asara Resources Limited",
+      "ticker": "AS1",
+      "exchange": "ASX",
+      "website": "https://asararesources.com.au",
+      "logoUrl": "/companies-assets/AS1.ASX.jpg",
+      "title": "Non-Executive Chairman",
+      "startDate": "2026",
+      "endDate": null,
+      "formattedStartDate": "2026",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jeffquartermaine",
+      "person_name": "Jeff Quartermaine",
+      "company_name": "Perseus Mining Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 68,
+  "ageYear": 2024
+}

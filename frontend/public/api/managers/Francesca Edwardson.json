@@ -1,0 +1,30 @@
+{
+  "id": "Francesca Edwardson",
+  "name": "Francesca Edwardson",
+  "background": "Former CEO of American Red Cross of Chicago & Northern Illinois. Director since 2011.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Duluth Holdings, Inc.",
+      "ticker": "DLTH",
+      "exchange": "NASDAQ",
+      "website": "https://www.duluthtrading.com",
+      "logoUrl": "/companies-assets/DLTH.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2015-09",
+      "endDate": "2025-06",
+      "formattedStartDate": "September 2015",
+      "formattedEndDate": "June 2025"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

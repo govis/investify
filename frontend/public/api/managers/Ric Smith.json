@@ -1,0 +1,74 @@
+{
+  "id": "Ric Smith",
+  "name": "Ric Smith",
+  "background": "Ric Smith has served as our Chief Product and Technology Officer since March 2021. Prior to joining SentinelOne, Mr. Smith served in various roles at Medallia, Inc., including as Senior Vice President of Engineering. Previously, he held various engineering leadership roles at Oracle Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "SentinelOne, Inc.",
+      "ticker": "S",
+      "exchange": "NYSE",
+      "website": "https://www.sentinelone.com",
+      "logoUrl": "/companies-assets/S.NYSE.svg",
+      "title": "Chief Technology Officer / President of Product, Technology, and Operations",
+      "startDate": "March 2021",
+      "endDate": "2024",
+      "formattedStartDate": "March 2021",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Okta, Inc.",
+      "ticker": "OKTA",
+      "exchange": "NASDAQ",
+      "website": "okta.com",
+      "logoUrl": "/companies-assets/OKTA.NASDAQ.svg",
+      "title": "President of Products and Technology",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Medallia, Inc.",
+      "ticker": "MDLA",
+      "exchange": "NYSE",
+      "website": "https://www.medallia.com",
+      "logoUrl": "/companies-assets/MDLA.NYSE.png",
+      "title": "Senior Engineering Leadership",
+      "startDate": "2016",
+      "endDate": "2021",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Oracle Corporation",
+      "ticker": "ORCL",
+      "exchange": "NYSE",
+      "website": "https://www.oracle.com",
+      "logoUrl": "/companies-assets/ORCL.NYSE.svg",
+      "title": "Senior Director of Engineering",
+      "startDate": "October 2009",
+      "endDate": "January 2016",
+      "formattedStartDate": "October 2009",
+      "formattedEndDate": "January 2016"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ricsmith",
+      "person_name": "Ric Smith",
+      "company_name": "SentinelOne",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 47,
+  "ageYear": 2024
+}

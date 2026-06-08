@@ -1,0 +1,52 @@
+{
+  "id": "Andrea Ayers",
+  "name": "Andrea Ayers",
+  "background": "Former President and Chief Executive Officer of Convergys Corporation.",
+  "pictureUrl": "/managers-assets/Andrea Ayers.jpg",
+  "companies": [
+    {
+      "name": "Stanley Black & Decker, Inc.",
+      "ticker": "SWK",
+      "exchange": "NYSE",
+      "website": "https://www.stanleyblackanddecker.com",
+      "logoUrl": "/companies-assets/SWK.NYSE.svg",
+      "title": "Director (Member of the Board of Directors)",
+      "startDate": "December 2014",
+      "endDate": null,
+      "formattedStartDate": "December 2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Convergys Corporation",
+      "ticker": "CVG",
+      "exchange": "NYSE",
+      "website": "https://www.concentrix.com",
+      "logoUrl": "/companies-assets/CVG.NYSE.svg",
+      "title": "President and Chief Executive Officer",
+      "startDate": "2012",
+      "endDate": "October 2018",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "October 2018"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/andrea-ayers-1908",
+      "person_name": "Andrea Ayers",
+      "company_name": "United States Steel Corporation, Stanley Black & Decker, Inc., Convergys Corporation",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
+  "committees": [
+    "Compensation and Organization Committee"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

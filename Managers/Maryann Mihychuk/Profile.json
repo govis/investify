@@ -1,0 +1,54 @@
+{
+  "name": "Maryann Mihychuk",
+  "first_name": "Maryann",
+  "last_name": "Mihychuk",
+  "age": 69,
+  "age_year": 2024,
+  "background": "Geoscientist and former Canadian Member of Parliament and Minister of Natural Resources. Extensive experience in mineral policy and indigenous relations.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Clean Air Metals Inc.",
+      "ticker": "AIR",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "https://www.cleanairmetals.ca",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Gossan Resources Ltd.",
+      "ticker": "GSS",
+      "exchange": "TSXV",
+      "website": "https://gossan.ca",
+      "title_or_role": "Chairman / Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/maryann-mihychuk-38906516",
+      "person_name": "Maryann Mihychuk",
+      "company_name": "Clean Air Metals Inc., Gossan Resources Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Governance and Nominating Committee (Chair)"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

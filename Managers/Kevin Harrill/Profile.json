@@ -1,0 +1,40 @@
+{
+  "name": "Kevin Harrill",
+  "first_name": "Kevin",
+  "last_name": "Harrill",
+  "age": 54,
+  "age_year": 2024,
+  "background": "Mr. Harrill has served as Senior Vice President, Chief Financial Officer, and Treasurer since 2023. He previously served as Vice President and Controller of the Company from 2018 to 2023.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Centrus Energy Corp.",
+      "ticker": "LEU",
+      "exchange": "NYSE",
+      "title_or_role": "Senior Vice President, Chief Financial Officer and Treasurer",
+      "website": "https://www.centrusenergy.com",
+      "start_date": "2023",
+      "end_date": "2024",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kevin-harrill-cpa",
+      "person_name": "Kevin Harrill",
+      "company_name": "Centrus Energy Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

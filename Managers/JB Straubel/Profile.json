@@ -1,0 +1,64 @@
+{
+  "name": "JB Straubel",
+  "first_name": "JB",
+  "last_name": "Straubel",
+  "age": 48,
+  "age_year": 2024,
+  "background": "Co-founder and CEO of Redwood Materials. Co-founder and former CTO of Tesla.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "QuantumScape Corporation",
+      "ticker": "QS",
+      "exchange": "NYSE",
+      "title_or_role": "Member, Board of Directors",
+      "website": "https://www.quantumscape.com",
+      "start_date": "November 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Tesla, Inc.",
+      "ticker": "TSLA",
+      "exchange": "NASDAQ",
+      "title_or_role": "Member, Board of Directors",
+      "website": "https://www.tesla.com",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SolarCity Corporation",
+      "ticker": "SCTY",
+      "exchange": "NASDAQ",
+      "website": "https://www.tesla.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "August 2006",
+      "end_date": "November 2016",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jb-straubel-b694981",
+      "person_name": "JB Straubel",
+      "company_name": "Redwood Materials",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

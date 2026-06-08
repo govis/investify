@@ -1,0 +1,102 @@
+{
+  "id": "Gerhard Watzinger",
+  "name": "Gerhard Watzinger",
+  "background": "Chairman of the Board. Former CEO of i-Logix and executive at McAfee.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "CrowdStrike Holdings, Inc.",
+      "ticker": "CRWD",
+      "exchange": "NASDAQ",
+      "website": "https://www.crowdstrike.com",
+      "logoUrl": "/companies-assets/CRWD.NASDAQ.svg",
+      "title": "Chairman of the Board of Directors",
+      "startDate": "2012",
+      "endDate": null,
+      "formattedStartDate": "2012",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "KnowBe4, Inc.",
+      "ticker": "KNBE",
+      "exchange": "NASDAQ",
+      "website": "https://www.knowbe4.com",
+      "logoUrl": "/companies-assets/KNBE.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2019",
+      "endDate": "2023",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Absolute Software Corp.",
+      "ticker": "ABST",
+      "exchange": "TSX",
+      "website": "https://www.absolute.com",
+      "logoUrl": "/companies-assets/ABST.TSX.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2019",
+      "endDate": "2023",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Mastech Digital, Inc.",
+      "ticker": "MHH",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Member of the Board of Directors",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "McAfee, Inc.",
+      "ticker": "MCFE",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Vice President, Corporate Strategy, Mergers & Acquisitions",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "IGATE Corp.",
+      "ticker": "IGTE",
+      "exchange": "NASDAQ",
+      "website": "https://www.capgemini.com",
+      "logoUrl": "/companies-assets/IGTE.NASDAQ.svg",
+      "title": "President & Chief Executive Officer",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gerhard-watzinger-04b7052",
+      "person_name": "Gerhard Watzinger",
+      "company_name": "CrowdStrike Holdings, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

@@ -1,0 +1,89 @@
+{
+  "id": "Steven Leer",
+  "name": "Steven Leer",
+  "background": "Former Chairman and CEO of Arch Coal, Inc. He has served on our board since 2013.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Parsons Corporation",
+      "ticker": "PSN",
+      "exchange": "NYSE",
+      "website": "https://www.parsons.com",
+      "logoUrl": "/companies-assets/PSN.NYSE.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Arch Resources, Inc.",
+      "ticker": "ARCH",
+      "exchange": "NYSE",
+      "website": "https://www.archrsc.com",
+      "logoUrl": "/companies-assets/ARCH.NYSE.png",
+      "title": "President, CEO, Chairman",
+      "startDate": "1992",
+      "endDate": "2014",
+      "formattedStartDate": "1992",
+      "formattedEndDate": "2014"
+    },
+    {
+      "name": "Norfolk Southern Corporation",
+      "ticker": "NSC",
+      "exchange": "NYSE",
+      "website": "www.norfolk-southern.com",
+      "logoUrl": "/companies-assets/NSC.NYSE.svg",
+      "title": "Director / Lead Independent Director",
+      "startDate": "2011",
+      "endDate": "2024",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "USG Corporation",
+      "ticker": "USG",
+      "exchange": "NYSE",
+      "website": "https://www.usg.com",
+      "logoUrl": "/companies-assets/USG.NYSE.png",
+      "title": "Director / Lead Director / Non-Executive Chairman",
+      "startDate": "2005",
+      "endDate": "2019",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Cenovus Energy Inc.",
+      "ticker": "CVE",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": "2021",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2021"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/steven-leer-4a5b2a12",
+      "person_name": "Steven Leer",
+      "company_name": "Arch Resources, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Responsibility Committee"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Bruce Ledesma",
+  "first_name": "Bruce",
+  "last_name": "Ledesma",
+  "age": 57,
+  "age_year": 2024,
+  "background": "Bruce Ledesma is the President of Strategy and General Counsel. He previously served as General Counsel for SunPower Corporation and SolarCity.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Nextracker Inc.",
+      "ticker": "NXT",
+      "exchange": "NASDAQ",
+      "title_or_role": "President, Strategy, Software & Administration",
+      "website": "https://www.nextracker.com",
+      "start_date": "May 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SunPower Corporation",
+      "ticker": "SPWR",
+      "exchange": "NASDAQ",
+      "website": "https://us.sunpower.com",
+      "title_or_role": "Executive Vice President and General Counsel",
+      "start_date": "2007",
+      "end_date": "2012",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bruce-ledesma-24324a",
+      "person_name": "Bruce Ledesma",
+      "company_name": "Nextracker",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

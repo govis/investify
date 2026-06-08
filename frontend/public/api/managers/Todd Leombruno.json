@@ -1,0 +1,50 @@
+{
+  "id": "Todd Leombruno",
+  "name": "Todd Leombruno",
+  "background": "Mr. Leombruno has served as Executive Vice President and Chief Financial Officer since 2021. He previously served as Vice President and Controller from 2017 to 2021.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Parker-Hannifin Corporation",
+      "ticker": "PH",
+      "exchange": "NYSE",
+      "website": "https://www.parker.com",
+      "logoUrl": "/companies-assets/PH.NYSE.svg",
+      "title": "Vice President and Chief Financial Officer",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "The Timken Company",
+      "ticker": "TKR",
+      "exchange": "NYSE",
+      "website": "https://www.timken.com",
+      "logoUrl": "/companies-assets/TKR.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "August 2024",
+      "endDate": null,
+      "formattedStartDate": "August 2024",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/todd-leombruno-b7553a12",
+      "person_name": "Todd Leombruno",
+      "company_name": "Parker-Hannifin Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 54,
+  "ageYear": 2024
+}

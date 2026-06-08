@@ -1,0 +1,78 @@
+{
+  "id": "Alice Peterson",
+  "name": "Alice Peterson",
+  "background": "President, Syrus Global.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Rockwell Automation, Inc.",
+      "ticker": "ROK",
+      "exchange": "NYSE",
+      "website": "https://www.rockwellautomation.com",
+      "logoUrl": "/companies-assets/ROK.NYSE.svg",
+      "title": "Director",
+      "startDate": "2005",
+      "endDate": null,
+      "formattedStartDate": "2005",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "SP Plus Corporation",
+      "ticker": "SP",
+      "exchange": "NASDAQ",
+      "website": "https://www.spplus.com",
+      "logoUrl": "/companies-assets/SP.NASDAQ.png",
+      "title": "Director",
+      "startDate": "March 1, 2018",
+      "endDate": null,
+      "formattedStartDate": "March 1, 2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Williams Partners, L.P.",
+      "ticker": "WPZ",
+      "exchange": "NYSE",
+      "website": "https://www.williams.com",
+      "logoUrl": "/companies-assets/WPZ.NYSE.svg",
+      "title": "Director",
+      "startDate": "2005",
+      "endDate": "2018",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Hanesbrands Inc.",
+      "ticker": "HBI",
+      "exchange": "NYSE",
+      "website": "https://www.hanesbrands.com",
+      "logoUrl": "/companies-assets/HBI.NYSE.svg",
+      "title": "Director",
+      "startDate": "2006",
+      "endDate": "2010",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2010"
+    },
+    {
+      "name": "Fleming Companies, Inc.",
+      "ticker": "FLM",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Fleming_Companies_logo.svg/512px-Fleming_Companies_logo.svg.png",
+      "title": "Director",
+      "startDate": null,
+      "endDate": "2003",
+      "formattedStartDate": "",
+      "formattedEndDate": "2003"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Governance and Corporate Responsibility Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

@@ -1,0 +1,62 @@
+{
+  "id": "Forrest Norrod",
+  "name": "Forrest Norrod",
+  "background": "Mr. Norrod is AMD’s Executive Vice President and General Manager, Data Center Solutions Business Group. He joined AMD in 2014. Previously, he was Vice President and General Manager of Dell’s server business.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Advanced Micro Devices, Inc.",
+      "ticker": "AMD",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "logoUrl": "/companies-assets/AMD.NASDAQ.svg",
+      "title": "Executive Vice President and General Manager, Data Center Solutions",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Intuit Inc.",
+      "ticker": "INTU",
+      "exchange": "NASDAQ",
+      "website": "intuit.com",
+      "logoUrl": "/companies-assets/INTU.NASDAQ.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "July 2024",
+      "endDate": null,
+      "formattedStartDate": "July 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Dell Technologies Inc.",
+      "ticker": "DELL",
+      "exchange": "NYSE",
+      "website": "https://www.dell.com",
+      "logoUrl": "/companies-assets/DELL.NYSE.svg",
+      "title": "Vice President and General Manager, Server Platforms",
+      "startDate": "2001",
+      "endDate": "2014",
+      "formattedStartDate": "2001",
+      "formattedEndDate": "2014"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/forrest-norrod-8b950",
+      "person_name": "Forrest Norrod",
+      "company_name": "Advanced Micro Devices, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 58,
+  "ageYear": 2024
+}

@@ -1,0 +1,43 @@
+{
+  "id": "John Clark",
+  "name": "John Clark",
+  "background": "Mr. Clark is a Chartered Professional Accountant with over 30 years of experience in the mining industry. He is the President of Investment Management Services Inc. and serves on the boards of several other mining companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Russel Metals Inc.",
+      "ticker": "RUS",
+      "exchange": "TSX",
+      "website": "https://www.russelmetals.com",
+      "logoUrl": "/companies-assets/RUS.TSX.svg",
+      "title": "Director",
+      "startDate": "2019-08-22",
+      "endDate": null,
+      "formattedStartDate": "August 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Zephyr Minerals Ltd.",
+      "ticker": "ZPHY",
+      "exchange": "TSXV",
+      "website": "https://www.zephyrminerals.com",
+      "logoUrl": "/companies-assets/ZPHY.TSXV.png",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

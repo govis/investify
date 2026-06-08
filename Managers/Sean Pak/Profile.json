@@ -1,0 +1,43 @@
+{
+  "name": "Sean Pak",
+  "first_name": "Sean",
+  "last_name": "Pak",
+  "age": 57,
+  "age_year": 2024,
+  "background": "Partner at Quinn Emanuel Urquhart & Sullivan, LLP, specializing in intellectual property litigation. He has served on the board since 2020.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Viasat, Inc.",
+      "ticker": "VSAT",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director (Lead Independent Director)",
+      "website": "https://www.viasat.com",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/seanpak",
+      "person_name": "Sean Pak",
+      "company_name": "Viasat, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation and Human Resources Committee",
+    "Nomination, Governance and Redevelopment Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Deanna Kovar",
+  "first_name": "Deanna",
+  "last_name": "Kovar",
+  "age": 46,
+  "age_year": 2024,
+  "background": "Deanna M. Kovar is President, Agricultural, Turf & Orchard Solutions. She is responsible for the company's global small agriculture and turf business. Kovar joined John Deere in 2000 and has held various roles in sales, marketing, and product development.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Deere & Company",
+      "ticker": "DE",
+      "exchange": "NYSE",
+      "title_or_role": "President, Worldwide Agriculture & Turf Division (Small Ag and Turf, Regions 1 and 2)",
+      "website": "https://www.deere.com",
+      "start_date": "November 1, 2024",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/deannak",
+      "person_name": "Deanna Kovar",
+      "company_name": "John Deere",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

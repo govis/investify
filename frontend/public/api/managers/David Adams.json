@@ -1,0 +1,40 @@
+{
+  "id": "David Adams",
+  "name": "David Adams",
+  "background": "Former Chairman and CEO of Curtiss-Wright Corporation. He retired as CEO in 2021 and as Chairman in 2022.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Curtiss-Wright Corporation",
+      "ticker": "CW",
+      "exchange": "NYSE",
+      "website": "https://www.curtisswright.com",
+      "logoUrl": "/companies-assets/CW.NYSE.svg",
+      "title": "Executive Chairman (formerly Chairman and CEO)",
+      "startDate": "2005",
+      "endDate": null,
+      "formattedStartDate": "2005",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Snap-on Incorporated",
+      "ticker": "SNA",
+      "exchange": "NYSE",
+      "website": "https://www.snapon.com",
+      "logoUrl": "/companies-assets/SNA.NYSE.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 70,
+  "ageYear": 2024
+}

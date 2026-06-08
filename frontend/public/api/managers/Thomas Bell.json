@@ -1,0 +1,50 @@
+{
+  "id": "Thomas Bell",
+  "name": "Thomas Bell",
+  "background": "Thomas A. Bell has served as our Chief Executive Officer since May 2023. Prior to joining Leidos, Mr. Bell was President of Defense at Rolls-Royce and Chairman and CEO of Rolls-Royce North America. He also previously served as Senior Vice President of Global Strategy and Business Development at Boeing Defense, Space & Security.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Leidos Holdings, Inc.",
+      "ticker": "LDOS",
+      "exchange": "NYSE",
+      "website": "https://www.leidos.com",
+      "logoUrl": "/companies-assets/LDOS.NYSE.svg",
+      "title": "Chief Executive Officer",
+      "startDate": "May 3, 2023",
+      "endDate": null,
+      "formattedStartDate": "May 3, 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Rolls-Royce Holdings plc",
+      "ticker": "RR.",
+      "exchange": "LSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and CEO, Rolls-Royce North America; President, Global Defense",
+      "startDate": "March 2018",
+      "endDate": "May 2023",
+      "formattedStartDate": "March 2018",
+      "formattedEndDate": "May 2023"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/thomas-bell-a0a1a11",
+      "person_name": "Thomas Bell",
+      "company_name": "Leidos",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

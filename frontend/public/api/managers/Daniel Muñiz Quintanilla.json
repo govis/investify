@@ -1,0 +1,86 @@
+{
+  "id": "Daniel Muñiz Quintanilla",
+  "name": "Daniel Muñiz Quintanilla",
+  "background": "Director since 2008. Former CEO of the Mining Division of Grupo Mexico.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Southern Copper Corporation",
+      "ticker": "SCCO",
+      "exchange": "NYSE",
+      "website": "https://www.southerncoppercorp.com",
+      "logoUrl": "/companies-assets/SCCO.NYSE.svg",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Brookfield Infrastructure Partners",
+      "ticker": "BIP",
+      "exchange": "NYSE",
+      "website": "https://bip.brookfield.com",
+      "logoUrl": "/companies-assets/BIP.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "NOVAGOLD RESOURCES INC.",
+      "ticker": "NG",
+      "exchange": "NYSE / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Gatos Silver, Inc.",
+      "ticker": "GATO",
+      "exchange": "NYSE",
+      "website": "https://gatossilver.com",
+      "logoUrl": "/companies-assets/GATO.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "First Majestic Silver Corp.",
+      "ticker": "AG",
+      "exchange": "NYSE / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/daniel-muñiz-quintanilla-16aa97207",
+      "person_name": "Daniel Muñiz Quintanilla",
+      "company_name": "Southern Copper Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

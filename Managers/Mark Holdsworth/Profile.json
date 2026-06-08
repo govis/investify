@@ -1,0 +1,62 @@
+{
+  "name": "Mark Holdsworth",
+  "first_name": "Mark",
+  "last_name": "Holdsworth",
+  "age": 58,
+  "age_year": 2024,
+  "background": "Co-Founder and Managing Partner of Tennenbaum Capital Partners. He has served on our board since 2019.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Parsons Corporation",
+      "ticker": "PSN",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.parsons.com",
+      "start_date": "2019",
+      "end_date": null
+    },
+    {
+      "name": "RF Industries, Ltd.",
+      "ticker": "RFIL",
+      "exchange": "NASDAQ",
+      "website": "https://www.rfindustries.com",
+      "title_or_role": "Director",
+      "start_date": "2020-01-06",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Legacy Imbds Inc. (formerly iMedia Brands, Inc.)",
+      "ticker": "IMBIQ",
+      "exchange": "OTC",
+      "website": "https://www.imediabrands.com",
+      "title_or_role": "Director",
+      "start_date": "2017-12-14",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mark-holdsworth-89a85742",
+      "person_name": "Mark Holdsworth",
+      "company_name": "Tennenbaum Capital Partners",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Responsibility Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

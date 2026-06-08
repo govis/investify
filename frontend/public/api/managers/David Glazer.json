@@ -1,0 +1,51 @@
+{
+  "id": "David Glazer",
+  "name": "David Glazer",
+  "background": "Mr. Glazer has served as our Chief Financial Officer and Treasurer since 2020. He joined Palantir in 2013 and previously served as our Head of Finance. Prior to joining us, Mr. Glazer was a corporate attorney at Sullivan & Cromwell LLP. Mr. Glazer holds a B.A. from Emory University and a J.D. from Harvard Law School.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Palantir Technologies Inc.",
+      "ticker": "PLTR",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Financial Officer and Treasurer",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Grove Collaborative Holdings, Inc.",
+      "ticker": "GROV",
+      "exchange": "NYSE",
+      "website": "https://www.grove.co",
+      "logoUrl": "/companies-assets/GROV.NYSE.svg",
+      "title": "Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/daglazer",
+      "person_name": "David Glazer",
+      "company_name": "Palantir Technologies",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 39,
+  "ageYear": 2024
+}

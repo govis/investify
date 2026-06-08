@@ -1,0 +1,53 @@
+{
+  "name": "Gary Sugar",
+  "first_name": "Gary",
+  "last_name": "Sugar",
+  "age": 71,
+  "age_year": 2024,
+  "background": "Mr. Sugar has over 40 years of experience in investment banking, specializing in the mining sector.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Seabridge Gold Inc.",
+      "ticker": "SEA (TSX), SA (NYSE)",
+      "exchange": "TSX, NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.seabridgegold.com/",
+      "start_date": "May 16, 2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NorZinc Ltd.",
+      "ticker": "NZC (TSX), NORZF (OTCQB)",
+      "exchange": "TSX, OTCQB",
+      "website": "https://norzinc.com/",
+      "title_or_role": "Director",
+      "start_date": "November 18, 2019",
+      "end_date": "2022",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/gary-sugar-8661557",
+      "person_name": "Gary Sugar",
+      "company_name": "Seabridge Gold Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Dixie Marshall",
+  "first_name": "Dixie",
+  "last_name": "Marshall",
+  "age": null,
+  "age_year": null,
+  "background": "Ms. Marshall has over 30 years' experience in media, advertising, politics and communications. she has held senior executive roles in both the private and public sectors.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lotus Resources Limited",
+      "ticker": "LOT",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://lotusresources.com.au",
+      "start_date": "2021-08-02",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Frontier Energy Limited",
+      "ticker": "FHE",
+      "exchange": "ASX",
+      "website": "https://frontierenergy.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2021-12-01",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/dixie-marshall-2b9b1bb2",
+      "person_name": "Dixie Marshall",
+      "company_name": "Lotus Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Remuneration and Nomination Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

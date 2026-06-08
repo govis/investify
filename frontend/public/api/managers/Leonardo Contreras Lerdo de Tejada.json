@@ -1,0 +1,39 @@
+{
+  "id": "Leonardo Contreras Lerdo de Tejada",
+  "name": "Leonardo Contreras Lerdo de Tejada",
+  "background": "Director since 2014. Vice President of Administration of Grupo Mexico since 2014.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Southern Copper Corporation",
+      "ticker": "SCCO",
+      "exchange": "NYSE",
+      "website": "https://www.southerncoppercorp.com",
+      "logoUrl": "/companies-assets/SCCO.NYSE.svg",
+      "title": "Interim Chief Executive Officer",
+      "startDate": "April 16, 2026",
+      "endDate": null,
+      "formattedStartDate": "April 16, 2026",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Grupo México S.A.B. de C.V.",
+      "ticker": "GMBXF",
+      "exchange": "OTC",
+      "website": "https://www.gmexico.com",
+      "logoUrl": "/companies-assets/GMBXF.OTC.svg",
+      "title": "Board Member",
+      "startDate": "Not specified",
+      "endDate": null,
+      "formattedStartDate": "Not specified",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 73,
+  "ageYear": 2024
+}

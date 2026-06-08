@@ -1,0 +1,65 @@
+{
+  "id": "John Budreski",
+  "name": "John Budreski",
+  "background": "Executive Chairman of EnWave Corporation and former Managing Director and Head of Investment Banking for Cormark Securities Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "EnWave Corporation",
+      "ticker": "ENW",
+      "exchange": "TSXV",
+      "website": "https://www.enwave.net/",
+      "logoUrl": "/companies-assets/ENW.TSXV.svg",
+      "title": "Executive Chairman",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Morien Resources Corp.",
+      "ticker": "MOX",
+      "exchange": "TSXV",
+      "website": "https://morienres.com/",
+      "logoUrl": "/companies-assets/MOX.TSXV.png",
+      "title": "Executive Chairman",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "NuLegacy Gold Corporation",
+      "ticker": "NUG",
+      "exchange": "TSXV",
+      "website": "https://nulegacygold.com/",
+      "logoUrl": "/companies-assets/NUG.TSXV.png",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/john-budreski-2aa2b1b6",
+      "person_name": "John Budreski",
+      "company_name": "EnWave Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

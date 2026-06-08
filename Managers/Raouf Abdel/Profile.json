@@ -1,0 +1,60 @@
+{
+  "name": "Raouf Abdel",
+  "first_name": "Raouf",
+  "last_name": "Abdel",
+  "age": 58,
+  "age_year": 2024,
+  "background": "Raouf Abdel has served as our Executive Vice President, Global Operations since 2018. He joined Equinix in 2012 and previously served as Regional Head of Operations, Americas.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Equinix, Inc.",
+      "ticker": "EQIX",
+      "exchange": "NASDAQ",
+      "title_or_role": "EVP, Global Operations",
+      "website": "https://www.equinix.com",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Level 3 Communications, Inc.",
+      "ticker": "LVLT",
+      "exchange": "NYSE",
+      "website": "https://www.lumen.com",
+      "title_or_role": "President, Business Markets Group",
+      "start_date": "Unknown",
+      "end_date": "2013",
+      "validated": true
+    },
+    {
+      "name": "MFS Communications Company, Inc.",
+      "ticker": "MFST",
+      "exchange": "NASDAQ",
+      "website": "N/A",
+      "title_or_role": "Vice President, Network Development",
+      "start_date": "Unknown",
+      "end_date": "Unknown",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/raouf-abdel-4a5a1a1",
+      "person_name": "Raouf Abdel",
+      "company_name": "Equinix",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Daniel Cregg",
+  "first_name": "Daniel",
+  "last_name": "Cregg",
+  "age": 58,
+  "age_year": 2024,
+  "background": "Daniel J. Cregg is Executive Vice President and Chief Financial Officer of PSEG, PSE&G and PSEG Power. He has served in this role since October 2015. Previously, he was Vice President - Finance of PSEG Power from 2013 to 2015.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Public Service Enterprise Group Incorporated",
+      "ticker": "PEG",
+      "exchange": "NYSE",
+      "title_or_role": "Vice President of Finance",
+      "website": "https://corporate.pseg.com",
+      "start_date": "Prior to 2015",
+      "end_date": "2015",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/daniel-cregg-2a667317",
+      "person_name": "Daniel Cregg",
+      "company_name": "Public Service Enterprise Group Incorporated",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

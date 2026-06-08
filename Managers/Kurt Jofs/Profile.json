@@ -1,0 +1,50 @@
+{
+  "name": "Kurt Jofs",
+  "first_name": "Kurt",
+  "last_name": "Jofs",
+  "age": 66,
+  "age_year": 2024,
+  "background": "Former Executive Vice President of Ericsson. Chairman of TietoEVRY.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "AB Volvo",
+      "ticker": "VOLV-B",
+      "exchange": "STO",
+      "title_or_role": "Director",
+      "website": "https://www.volvogroup.com",
+      "start_date": "2019-04-01",
+      "end_date": null
+    },
+    {
+      "name": "Telefonaktiebolaget LM Ericsson",
+      "ticker": "ERIC-B",
+      "exchange": "Nasdaq Stockholm",
+      "website": "https://www.ericsson.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2018",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "TietoEVRY",
+      "ticker": "TIETO",
+      "exchange": "Nasdaq Stockholm",
+      "website": "https://www.tietoevry.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2010",
+      "end_date": "2019",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Remuneration Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

@@ -1,0 +1,100 @@
+{
+  "name": "Marcus Wallenberg",
+  "first_name": "Marcus",
+  "last_name": "Wallenberg",
+  "age": 68,
+  "age_year": 2024,
+  "background": "Chairman of the Board. Chairman of SEB and FAM. Board member of AstraZeneca and Investor AB.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Saab AB",
+      "ticker": "SAAB-B",
+      "exchange": "STO",
+      "title_or_role": "Chairman",
+      "website": "https://www.saab.com",
+      "start_date": "2006-04-01",
+      "end_date": null
+    },
+    {
+      "name": "Saab Aktiebolag",
+      "ticker": "SAAB",
+      "exchange": "STO",
+      "title_or_role": "Chairman",
+      "website": "https://www.saab.com",
+      "start_date": "2006-04-01",
+      "end_date": null
+    },
+    {
+      "name": "Skandinaviska Enskilda Banken AB (SEB)",
+      "ticker": "SEB A",
+      "exchange": "STO",
+      "website": "sebgroup.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2005",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Investor AB",
+      "ticker": "INVE B",
+      "exchange": "STO",
+      "website": "investorab.com",
+      "title_or_role": "Executive Vice President",
+      "start_date": "1993",
+      "end_date": "1999",
+      "validated": true
+    },
+    {
+      "name": "EQT AB",
+      "ticker": "EQT",
+      "exchange": "STO",
+      "website": "eqtgroup.com",
+      "title_or_role": "Board Member",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Electrolux AB",
+      "ticker": "ELUX B",
+      "exchange": "STO",
+      "website": "electroluxgroup.com",
+      "title_or_role": "Board Member",
+      "start_date": "2005",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "AstraZeneca PLC",
+      "ticker": "AZN",
+      "exchange": "LSE",
+      "website": "astrazeneca.com",
+      "title_or_role": "Board Member",
+      "start_date": "1999",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "Stora Enso Oyj",
+      "ticker": "STEAV",
+      "exchange": "STO",
+      "website": "storaenso.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2007",
+      "end_date": "2022",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Remuneration Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

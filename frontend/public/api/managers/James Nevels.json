@@ -1,0 +1,65 @@
+{
+  "id": "James Nevels",
+  "name": "James Nevels",
+  "background": "Founder and Chairman of The Swarthmore Group.",
+  "pictureUrl": "https://www.inquirer.com/resizer/v2/YDBT7VCH5NEZ5MFGKHF7VIWCVY.jpg?auth=319eb243c77300fd79fe7503664d24dc66cb24448540f7ee9e21abbd539a8a67&width=760&height=507&smart=true",
+  "companies": [
+    {
+      "name": "Alcoa Corporation",
+      "ticker": "AA",
+      "exchange": "NYSE",
+      "website": "https://www.alcoa.com",
+      "logoUrl": "/companies-assets/AA.NYSE.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "The Hershey Company",
+      "ticker": "HSY",
+      "exchange": "NYSE",
+      "website": "thehersheycompany.com",
+      "logoUrl": "/companies-assets/HSY.NYSE.svg",
+      "title": "Director",
+      "startDate": "2007",
+      "endDate": "2017",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "WestRock Company",
+      "ticker": "WRK",
+      "exchange": "NYSE",
+      "website": "https://www.westrock.com",
+      "logoUrl": "/companies-assets/WRK.NYSE.svg",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": "2024",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2024"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/james-b-nevels",
+      "person_name": "James B. Nevels",
+      "company_name": "The Swarthmore Group",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Governance and Nominating Committee"
+  ],
+  "age": 72,
+  "ageYear": 2024
+}

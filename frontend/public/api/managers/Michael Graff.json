@@ -1,0 +1,42 @@
+{
+  "id": "Michael Graff",
+  "name": "Michael Graff",
+  "background": "Managing Director of Warburg Pincus LLC.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "TransDigm Group Incorporated",
+      "ticker": "TDG",
+      "exchange": "NYSE",
+      "website": "https://www.transdigm.com",
+      "logoUrl": "/companies-assets/TDG.NYSE.svg",
+      "title": "Director (Board of Directors)",
+      "startDate": "2010",
+      "endDate": null,
+      "formattedStartDate": "2010",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Bombardier Inc.",
+      "ticker": "BBD.B",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and Chief Operating Officer of Bombardier Aerospace",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 72,
+  "ageYear": 2024
+}

@@ -1,0 +1,54 @@
+{
+  "id": "Edmund Clark",
+  "name": "Edmund Clark",
+  "background": "Former President and CEO of TD Bank Group. Member of the Order of Canada.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Thomson Reuters Corporation",
+      "ticker": "TRI",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "The Toronto-Dominion Bank",
+      "ticker": "TD",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and CEO",
+      "startDate": "2000",
+      "endDate": "2014",
+      "formattedStartDate": "2000",
+      "formattedEndDate": "2014"
+    },
+    {
+      "name": "Canada Trust Financial Services Inc.",
+      "ticker": "CT",
+      "exchange": "TSX (Delisted)",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and CEO",
+      "startDate": "1994",
+      "endDate": "2000",
+      "formattedStartDate": "1994",
+      "formattedEndDate": "2000"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance Committee",
+    "Human Resources Committee (Chair)"
+  ],
+  "age": 76,
+  "ageYear": 2024
+}

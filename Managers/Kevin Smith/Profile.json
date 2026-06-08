@@ -1,0 +1,52 @@
+{
+  "name": "Kevin Smith",
+  "first_name": "Kevin",
+  "last_name": "Smith",
+  "age": 69,
+  "age_year": 2023,
+  "background": "Sir Kevin Smith joined the Board in 2015. He was previously CEO of GKN plc and has a deep background in the aerospace and automotive industries.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Rolls-Royce Holdings plc",
+      "ticker": "RR",
+      "exchange": ".LSE",
+      "title_or_role": "Senior Independent Director",
+      "website": "https://www.rolls-royce.com",
+      "start_date": "2015-11-01",
+      "end_date": null
+    },
+    {
+      "name": "GKN plc",
+      "ticker": "GKN",
+      "exchange": "LSE",
+      "website": "https://www.gkn.com",
+      "title_or_role": "Managing Director, GKN Aerospace",
+      "start_date": "1999-11-01",
+      "end_date": "2002-12-31",
+      "validated": true
+    },
+    {
+      "name": "Babcock International Group PLC",
+      "ticker": "BAB",
+      "exchange": "LSE",
+      "website": "https://www.babcockinternational.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2023-06-01",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominations & Governance Committee",
+    "Remuneration Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

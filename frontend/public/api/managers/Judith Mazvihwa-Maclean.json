@@ -1,0 +1,66 @@
+{
+  "id": "Judith Mazvihwa-Maclean",
+  "name": "Judith Mazvihwa-MacLean",
+  "background": "Ms. Mazvihwa-MacLean is a geologist and a mining executive with over 20 years of experience in the mining industry. She has held various senior management positions with several public and private companies and is currently the CFO of Fortune Minerals Limited.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Focus Graphite Inc.",
+      "ticker": "FMS",
+      "exchange": "TSXV",
+      "website": "https://focusgraphite.com/",
+      "logoUrl": "/companies-assets/FMS.TSXV.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2011",
+      "endDate": null,
+      "formattedStartDate": "2011",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Golden Harp Resources Inc.",
+      "ticker": "GHR",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "http://www.goldenharpresources.com/images/logo.gif",
+      "title": "Director of Finance / CFO",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Everton Resources Inc.",
+      "ticker": "EVR",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": "http://www.evertonresources.com/images/logo.png",
+      "title": "Chief Financial Officer",
+      "startDate": "2011-04",
+      "endDate": null,
+      "formattedStartDate": "April 2011",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/jmazvihwa",
+      "person_name": "Judith Mazvihwa-MacLean",
+      "company_name": "Fortune Minerals Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Sustainability Committee"
+  ],
+  "age": 56,
+  "ageYear": 2024
+}

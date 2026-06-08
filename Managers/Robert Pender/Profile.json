@@ -1,0 +1,38 @@
+{
+  "name": "Robert Pender",
+  "first_name": "Robert",
+  "last_name": "Pender",
+  "age": 68,
+  "age_year": 2024,
+  "background": "Robert Pender is the Executive Co-Chairman of Venture Global LNG. He co-founded the company and previously served as Co-CEO alongside Michael Sabel.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Venture Global LNG, Inc.",
+      "ticker": "VG",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Co-Chairman",
+      "website": "https://venturegloballng.com",
+      "start_date": "2013-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Venture Global, Inc.",
+      "ticker": "VG",
+      "exchange": "NASDAQ",
+      "website": "https://www.venturegloballng.com/",
+      "title_or_role": "Executive Co-Chairman and Co-Founder",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "John Scannell",
+  "name": "John Scannell",
+  "background": "Mr. Scannell is the Non-Executive Chairman of the Board. He served as Chief Executive Officer of Moog from 2011 to 2023 and Chairman from 2014 to 2023. He joined Moog in 1990.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Moog Inc.",
+      "ticker": "MOG.A",
+      "exchange": "NYSE",
+      "website": "https://www.moog.com",
+      "logoUrl": "/companies-assets/MOG.A.NYSE.webp",
+      "title": "Non-Executive Chairman",
+      "startDate": "1990",
+      "endDate": null,
+      "formattedStartDate": "1990",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Albany International Corp.",
+      "ticker": "AIN",
+      "exchange": "NYSE",
+      "website": "https://www.albint.com",
+      "logoUrl": "/companies-assets/AIN.NYSE.svg",
+      "title": "Director",
+      "startDate": "February 16, 2012",
+      "endDate": null,
+      "formattedStartDate": "February 16, 2012",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 60,
+  "ageYear": 2024
+}

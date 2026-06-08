@@ -1,0 +1,40 @@
+{
+  "id": "Jonathan Klein",
+  "name": "Jonathan Klein",
+  "background": "Co-founder and former CEO of Getty Images, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Getty Images Holdings, Inc.",
+      "ticker": "GETY",
+      "exchange": "NYSE",
+      "website": "https://www.gettyimages.com",
+      "logoUrl": "/companies-assets/GETY.NYSE.svg",
+      "title": "Chief Executive Officer",
+      "startDate": "1995",
+      "endDate": "2015",
+      "formattedStartDate": "1995",
+      "formattedEndDate": "2015"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jonathan-klein-752a3516",
+      "person_name": "Jonathan Klein",
+      "company_name": "Getty Images",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Leadership Development and Compensation Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

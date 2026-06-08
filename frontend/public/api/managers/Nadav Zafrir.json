@@ -1,0 +1,52 @@
+{
+  "id": "Nadav Zafrir",
+  "name": "Nadav Zafrir",
+  "background": "Mr. Zafrir has served as Chairman of the Board since 2019. He is the co-founder and Managing Partner of Team8, a venture creation and venture capital fund. He previously served as the Commander of the Israel Defense Forces Unit 8200.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "SolarEdge Technologies, Inc.",
+      "ticker": "SEDG",
+      "exchange": "NASDAQ",
+      "website": "https://www.solaredge.com",
+      "logoUrl": "/companies-assets/SEDG.NASDAQ.svg",
+      "title": "Member of the Board of Directors (formerly Chairman)",
+      "startDate": "2019",
+      "endDate": "2025-10-02",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "October 2025"
+    },
+    {
+      "name": "Check Point Software Technologies Ltd.",
+      "ticker": "CHKP",
+      "exchange": "NASDAQ",
+      "website": "https://www.checkpoint.com",
+      "logoUrl": "/companies-assets/CHKP.NASDAQ.svg",
+      "title": "CEO and Member of the Board of Directors",
+      "startDate": "2024-12-16",
+      "endDate": null,
+      "formattedStartDate": "December 2024",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://il.linkedin.com/in/nadav-zafrir-12a99482",
+      "person_name": "Nadav Zafrir",
+      "company_name": "Check Point Software Technologies Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 53,
+  "ageYear": 2024
+}

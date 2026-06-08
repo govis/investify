@@ -1,0 +1,50 @@
+{
+  "name": "Ram Krishnan",
+  "first_name": "Ram",
+  "last_name": "Krishnan",
+  "age": 53,
+  "age_year": 2024,
+  "background": "Ram Krishnan is Executive Vice President and Chief Operating Officer of Emerson. He joined Emerson in 1994 and has held various leadership roles, including Executive Vice President and Chief Operating Officer since 2021.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Emerson Electric Co.",
+      "ticker": "EMR",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Vice President and Chief Operating Officer",
+      "website": "https://www.emerson.com",
+      "start_date": "February 2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Autodesk, Inc.",
+      "ticker": "ADSK",
+      "exchange": "NASDAQ",
+      "website": "https://www.autodesk.com",
+      "title_or_role": "Independent Director (Member of the Board of Directors)",
+      "start_date": "December 18, 2024",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ram-krishnan-10535516",
+      "person_name": "Ram Krishnan",
+      "company_name": "Emerson Electric Co.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

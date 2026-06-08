@@ -1,0 +1,51 @@
+{
+  "name": "Jeffrey Linden",
+  "first_name": "Jeffrey",
+  "last_name": "Linden",
+  "age": 57,
+  "age_year": 2024,
+  "background": "Mr. Linden has served as the Chief Operating Officer of Redesign Health since 2021. He previously served as the Chief Legal Officer of Airbnb, Inc.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "SentinelOne, Inc.",
+      "ticker": "S",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.sentinelone.com",
+      "start_date": "2021-04-01",
+      "end_date": null
+    },
+    {
+      "name": "RadNet, Inc.",
+      "ticker": "RDNT",
+      "exchange": "NASDAQ",
+      "website": "https://www.radnet.com",
+      "title_or_role": "Executive Vice President and General Counsel",
+      "start_date": "2001",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jeffreylinden",
+      "person_name": "Jeffrey Linden",
+      "company_name": "SentinelOne, Inc., RadNet, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

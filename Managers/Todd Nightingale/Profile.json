@@ -1,0 +1,60 @@
+{
+  "name": "Todd Nightingale",
+  "first_name": "Todd",
+  "last_name": "Nightingale",
+  "age": 45,
+  "age_year": 2024,
+  "background": "Todd Nightingale has served as our Chief Executive Officer and as a member of our board of directors since September 2022. Prior to joining Fastly, Mr. Nightingale served as Executive Vice President and General Manager, Enterprise Networking and Cloud of Cisco Systems, Inc., a networking and IT company, from March 2020 to September 2022. From June 2016 to March 2020, Mr. Nightingale served as Senior Vice President and General Manager, Cisco Meraki.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Fastly, Inc.",
+      "ticker": "FSLY",
+      "exchange": "NYSE",
+      "title_or_role": "Chief Executive Officer",
+      "website": "https://www.fastly.com",
+      "start_date": "2022-09-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Arista Networks, Inc.",
+      "ticker": "ANET",
+      "exchange": "NYSE",
+      "website": "https://www.arista.com",
+      "title_or_role": "President and Chief Operating Officer",
+      "start_date": "2025-07-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "website": "https://www.cisco.com",
+      "title_or_role": "Executive Vice President and General Manager, Enterprise Networking and Cloud",
+      "start_date": "Prior to 2022",
+      "end_date": "2022",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/todd-nightingale",
+      "person_name": "Todd Nightingale",
+      "company_name": "Fastly",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

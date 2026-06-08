@@ -1,0 +1,70 @@
+{
+  "name": "Jonathan Goodman",
+  "first_name": "Jonathan",
+  "last_name": "Goodman",
+  "age": 61,
+  "age_year": 2024,
+  "background": "Mr. Goodman is the Executive Chair of the Board. He has over 30 years of experience in the resource and investment sectors. He is also the President and CEO of Dundee Corporation.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Dundee Precious Metals Inc.",
+      "ticker": "DPM",
+      "exchange": "TSX",
+      "title_or_role": "Chairman",
+      "website": "https://www.dundeeprecious.com",
+      "start_date": "2017-09",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Dundee Corporation",
+      "ticker": "DC.A",
+      "exchange": "TSX",
+      "website": "https://dundeecorporation.com",
+      "title_or_role": "Chairman and CEO",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Magna Mining Inc.",
+      "ticker": "NICU",
+      "exchange": "TSXV",
+      "website": "https://magnamining.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Major Drilling Group International Inc.",
+      "ticker": "MDI",
+      "exchange": "TSX",
+      "website": "https://www.majordrilling.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/jonathan-goodman-a8117563",
+      "person_name": "Jonathan Goodman",
+      "company_name": "Dundee Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

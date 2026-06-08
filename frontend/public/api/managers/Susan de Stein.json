@@ -1,0 +1,41 @@
+{
+  "id": "Susan de Stein",
+  "name": "Susan de Stein",
+  "background": "Susan de Stein is a former senior executive with over 30 years of experience in corporate strategy and communications. She has served on several boards in the non-profit and private sectors.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Triple Flag Precious Metals Corp.",
+      "ticker": "TFPM",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/susan-de-stein-7b531a",
+      "person_name": "Susan de Stein",
+      "company_name": "Triple Flag Precious Metals Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation and ESG Committee",
+    "Governance and Nominating Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

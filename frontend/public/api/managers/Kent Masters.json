@@ -1,0 +1,51 @@
+{
+  "id": "Kent Masters",
+  "name": "Kent Masters",
+  "background": "Mr. Masters has served as Chairman, President and Chief Executive Officer of Albemarle since April 2020. He was previously a non-employee director of Albemarle from 2015 to 2020. Prior to joining Albemarle, he served as an Operating Partner of Advent International and as Chief Executive Officer of Foster Wheeler AG.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Rockwood Holdings, Inc.",
+      "ticker": "ROC",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "https://companieslogo.com/img/orig/ROC-6916535d.png",
+      "title": "Director",
+      "startDate": "2007",
+      "endDate": "2015",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Foster Wheeler AG",
+      "ticker": "FWLT",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Foster_Wheeler_logo.svg/1200px-Foster_Wheeler_logo.svg.png",
+      "title": "Chief Executive Officer",
+      "startDate": "2011",
+      "endDate": "2015",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2015"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kent-masters-baa55a186",
+      "person_name": "Kent Masters",
+      "company_name": "Albemarle Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 63,
+  "ageYear": 2024
+}

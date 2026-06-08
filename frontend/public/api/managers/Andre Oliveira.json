@@ -1,0 +1,51 @@
+{
+  "id": "Andre Oliveira",
+  "name": "Andre Oliveira",
+  "background": "Mr. Oliveira is the Vice President, Exploration. He joined Lundin Gold in 2023. He has extensive experience in mineral exploration across South America, previously working with Yamana Gold.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lundin Gold Inc.",
+      "ticker": "LUG",
+      "exchange": "TSX, Nasdaq Stockholm",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice President, Exploration",
+      "startDate": "March 2022",
+      "endDate": null,
+      "formattedStartDate": "March 2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Yamana Gold Inc.",
+      "ticker": "AUY",
+      "exchange": "NYSE, TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Geologist, Manager, Country Director, South America Senior Director",
+      "startDate": "2005",
+      "endDate": "2022",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2022"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/andre-oliveira-p-geo-76b91117/",
+      "person_name": "Andre Oliveira",
+      "company_name": "Lundin Gold",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1,
+      "profile_status": "private"
+    }
+  ],
+  "committees": [],
+  "age": 48,
+  "ageYear": 2024
+}

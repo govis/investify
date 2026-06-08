@@ -1,0 +1,128 @@
+{
+  "id": "John Thornton",
+  "name": "John Thornton",
+  "background": "Executive Chairman, Barrick Gold Corporation; Former President, Goldman Sachs.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "ticker": "GS",
+      "exchange": "NYSE",
+      "website": "https://www.goldmansachs.com",
+      "logoUrl": "/companies-assets/GS.NYSE.svg",
+      "title": "President and Co-COO; Director",
+      "startDate": "1999",
+      "endDate": "2003",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2003"
+    },
+    {
+      "name": "Lenovo Group Limited",
+      "ticker": "0992",
+      "exchange": "HKEX",
+      "website": "https://www.lenovo.com",
+      "logoUrl": "/companies-assets/0992.HKEX.png",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "HSBC Holdings plc",
+      "ticker": "HSBA",
+      "exchange": "LSE",
+      "website": "https://www.hsbc.com",
+      "logoUrl": "/companies-assets/HSBA.LSE.svg",
+      "title": "Director",
+      "startDate": "2008",
+      "endDate": "2013",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "logoUrl": "/companies-assets/INTC.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2003",
+      "endDate": "2012",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "News Corporation",
+      "ticker": "NWSA",
+      "exchange": "NASDAQ",
+      "website": "newscorp.com",
+      "logoUrl": "/companies-assets/NWSA.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2004",
+      "endDate": "2013",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Industrial and Commercial Bank of China (ICBC)",
+      "ticker": "1398",
+      "exchange": "HKEX",
+      "website": "https://www.icbc.com.cn",
+      "logoUrl": "/companies-assets/1398.HKEX.svg",
+      "title": "Director",
+      "startDate": "2008",
+      "endDate": "2016",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "China Unicom (Hong Kong) Limited",
+      "ticker": "0762",
+      "exchange": "HKEX",
+      "website": "https://www.chinaunicom.com.hk",
+      "logoUrl": "/companies-assets/0762.HKEX.svg",
+      "title": "Director",
+      "startDate": "2008",
+      "endDate": "2016",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "DirecTV",
+      "ticker": "DTV",
+      "exchange": "NASDAQ",
+      "website": "https://www.directv.com",
+      "logoUrl": "https://www.directv.com/dtv-assets/images/logos/directv-logo-blue.png",
+      "title": "Director",
+      "startDate": "2003",
+      "endDate": "2010",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2010"
+    },
+    {
+      "name": "British Sky Broadcasting (BSkyB)",
+      "ticker": "SKY",
+      "exchange": "LSE",
+      "website": "sky.com",
+      "logoUrl": "/companies-assets/SKY.LSE.svg",
+      "title": "Director",
+      "startDate": "2003",
+      "endDate": "2012",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2012"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Finance Committee",
+    "Nominating and Governance Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

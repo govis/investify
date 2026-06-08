@@ -1,0 +1,98 @@
+{
+  "id": "Glenn Jardine",
+  "name": "Glenn Jardine",
+  "background": "Mr. Jardine is an experienced mining executive with over 35 years' experience in the mining industry. He has held senior executive and operational roles with companies including LionOre, Kimberley Rare Earths, and GR Engineering Services. He has extensive experience in project development and operations across a range of commodities including gold, nickel, and base metals.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "De Grey Mining Limited",
+      "ticker": "DEG",
+      "exchange": "ASX",
+      "website": "https://degreymining.com.au",
+      "logoUrl": "/companies-assets/DEG.ASX.svg",
+      "title": "Managing Director",
+      "startDate": "2020",
+      "endDate": "2024",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Bellavista Resources",
+      "ticker": "BVR",
+      "exchange": "ASX",
+      "website": "https://bellavistaresources.com",
+      "logoUrl": "/companies-assets/BVR.ASX.png",
+      "title": "Managing Director",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Torian Resources",
+      "ticker": "TNR",
+      "exchange": "ASX",
+      "website": "https://torianresources.com.au",
+      "logoUrl": "https://jcrdesign.com.au/wp-content/uploads/2017/05/Torian-Resources-Logo.png",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Southern Cross Goldfields",
+      "ticker": "SXG",
+      "exchange": "ASX",
+      "website": null,
+      "logoUrl": "/companies-assets/SXG.ASX.svg",
+      "title": "Managing Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "LionOre Australia",
+      "ticker": "N/A",
+      "exchange": "ASX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Managing Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Kimberley Metals Group",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Executive Officer",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/glenn-jardine-66b382117",
+      "person_name": "Glenn Jardine",
+      "company_name": "De Grey Mining Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

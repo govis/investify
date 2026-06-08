@@ -1,0 +1,53 @@
+{
+  "id": "Emma Walmsley",
+  "name": "Emma Walmsley",
+  "background": "CEO of GSK plc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "https://www.microsoft.com",
+      "logoUrl": "/companies-assets/MSFT.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2019-12-11",
+      "endDate": null,
+      "formattedStartDate": "December 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "GSK plc",
+      "ticker": "GSK",
+      "exchange": "LSE",
+      "website": "https://www.gsk.com",
+      "logoUrl": "/companies-assets/GSK.LSE.svg",
+      "title": "Director",
+      "startDate": "2017-01-01",
+      "endDate": "2025-12-31",
+      "formattedStartDate": "January 2017",
+      "formattedEndDate": "December 2025"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/emmawalmsleygsk",
+      "person_name": "Emma Walmsley",
+      "company_name": "GSK",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 55,
+  "ageYear": 2024
+}

@@ -1,0 +1,53 @@
+{
+  "id": "Karen Puckett",
+  "name": "Karen Puckett",
+  "background": "Former President and CEO of Harte Hanks, Inc. Former President of CenturyLink.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Entergy Corporation",
+      "ticker": "ETR",
+      "exchange": "NYSE",
+      "website": "https://www.entergy.com",
+      "logoUrl": "/companies-assets/ETR.NYSE.svg",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Lumos Networks Corp.",
+      "ticker": "LMOS",
+      "exchange": "NASDAQ",
+      "website": "https://lumosfiber.com",
+      "logoUrl": "/companies-assets/LMOS.NASDAQ.svg",
+      "title": "President and Chief Executive Officer",
+      "startDate": "2015",
+      "endDate": "2017",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2017"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/karenpuckett",
+      "person_name": "Karen Puckett",
+      "company_name": "Entergy Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Finance",
+    "Personnel"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

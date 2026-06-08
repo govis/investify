@@ -1,0 +1,50 @@
+{
+  "id": "David Medilek",
+  "name": "David Medilek",
+  "background": "Mr. Medilek is a mining professional with experience in investment banking, corporate development, and engineering. He was previously a Director of Mining Investment Banking at a major Canadian bank.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Minaurum Gold Inc.",
+      "ticker": "MGG",
+      "exchange": "TSXV",
+      "website": "https://www.minaurum.com",
+      "logoUrl": "/companies-assets/MGG.TSXV.svg",
+      "title": "Independent Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "OnGold Resources Ltd.",
+      "ticker": "ONAU",
+      "exchange": "CSE",
+      "website": "https://ongoldresources.com",
+      "logoUrl": "/companies-assets/ONAU.CSE.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/david-medilek",
+      "person_name": "David Medilek",
+      "company_name": "K92 Mining Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 41,
+  "ageYear": 2024
+}

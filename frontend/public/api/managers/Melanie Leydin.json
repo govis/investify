@@ -1,0 +1,110 @@
+{
+  "id": "Melanie Leydin",
+  "name": "Melanie Leydin",
+  "background": "Melanie Leydin has over 25 years of experience in the accounting profession and has extensive experience in relation to public company responsibilities, including ASX and ASIC compliance, control and implementation of corporate governance, statutory financial reporting, and shareholder relations.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Syrah Resources Limited",
+      "ticker": "SYR",
+      "exchange": "ASX",
+      "website": "https://www.syrahresources.com.au",
+      "logoUrl": "/companies-assets/SYR.ASX.png",
+      "title": "Company Secretary",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Imagion Biosystems Limited",
+      "ticker": "IBX",
+      "exchange": "ASX",
+      "website": "imagionbiosystems.com",
+      "logoUrl": "/companies-assets/IBX.ASX.png",
+      "title": "Non-Executive Director",
+      "startDate": "2024-07-31",
+      "endDate": null,
+      "formattedStartDate": "July 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Fluence Corporation Limited",
+      "ticker": "FLC",
+      "exchange": "ASX",
+      "website": "fluencecorp.com",
+      "logoUrl": "/companies-assets/FLC.ASX.svg",
+      "title": "Company Secretary",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "De.mem Limited",
+      "ticker": "DEM",
+      "exchange": "ASX",
+      "website": "demem.com.au",
+      "logoUrl": "https://demem.com.au/wp-content/uploads/2017/02/demem-logo.png",
+      "title": "Company Secretary",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Alcidion Group Limited",
+      "ticker": "ALC",
+      "exchange": "ASX",
+      "website": "alcidion.com",
+      "logoUrl": "/companies-assets/ALC.ASX.svg",
+      "title": "Joint Company Secretary",
+      "startDate": "2019-03-01",
+      "endDate": null,
+      "formattedStartDate": "March 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Medibio Limited",
+      "ticker": "MEB",
+      "exchange": "ASX",
+      "website": "medibio.com.au",
+      "logoUrl": "https://www.marketindex.com.au/sites/default/files/logos/asx/meb.png",
+      "title": "Company Secretary",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Elixinol Wellness Limited",
+      "ticker": "EXL",
+      "exchange": "ASX",
+      "website": "elixinolwellness.com",
+      "logoUrl": "/companies-assets/EXL.ASX.svg",
+      "title": "Joint Company Secretary",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/melanieleydin",
+      "person_name": "Melanie Leydin",
+      "company_name": "Leydin Freyer Corp Pty Ltd",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

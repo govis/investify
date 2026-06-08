@@ -1,0 +1,60 @@
+{
+  "name": "Roger Richer",
+  "first_name": "Roger",
+  "last_name": "Richer",
+  "age": 71,
+  "age_year": 2024,
+  "background": "Mr. Richer is a founding director and has served as Executive Vice President, General Counsel and Secretary since 2007.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "B2Gold Corp.",
+      "ticker": "BTG",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Vice President, General Counsel, and Secretary",
+      "website": "https://www.b2gold.com",
+      "start_date": "2007",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "BeMetals Corp.",
+      "ticker": "BMET",
+      "exchange": "TSXV",
+      "website": "https://bemetalscorp.com",
+      "title_or_role": "Founder and Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bema Gold Corporation",
+      "ticker": "BGO",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Early Member/Executive",
+      "start_date": "Prior to 2007",
+      "end_date": "2007",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/rogerricher",
+      "person_name": "Roger Richer",
+      "company_name": "B2Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

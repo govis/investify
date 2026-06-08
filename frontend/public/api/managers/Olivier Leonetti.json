@@ -1,0 +1,87 @@
+{
+  "id": "Olivier Leonetti",
+  "name": "Olivier Leonetti",
+  "background": "Olivier Leonetti is Executive Vice President and Chief Financial Officer of Eaton. He joined Eaton in 2024. Prior to joining Eaton, he served as Executive Vice President and Chief Financial Officer of Johnson Controls International plc from 2020 to 2024. He also served as CFO of Zebra Technologies and Western Digital.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Eaton Corporation plc",
+      "ticker": "ETN",
+      "exchange": "NYSE",
+      "website": "https://www.eaton.com",
+      "logoUrl": "/companies-assets/ETN.NYSE.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "February 2024",
+      "endDate": "March 2026",
+      "formattedStartDate": "February 2024",
+      "formattedEndDate": "March 2026"
+    },
+    {
+      "name": "Equinix, Inc.",
+      "ticker": "EQIX",
+      "exchange": "NASDAQ",
+      "website": "https://www.equinix.com",
+      "logoUrl": "/companies-assets/EQIX.NASDAQ.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "March 2026",
+      "endDate": null,
+      "formattedStartDate": "March 2026",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Johnson Controls International plc",
+      "ticker": "JCI",
+      "exchange": "NYSE",
+      "website": "https://www.johnsoncontrols.com",
+      "logoUrl": "/companies-assets/JCI.NYSE.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "September 2020",
+      "endDate": "January 2024",
+      "formattedStartDate": "September 2020",
+      "formattedEndDate": "January 2024"
+    },
+    {
+      "name": "Zebra Technologies Corporation",
+      "ticker": "ZBRA",
+      "exchange": "NASDAQ",
+      "website": "https://www.zebra.com",
+      "logoUrl": "/companies-assets/ZBRA.NASDAQ.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "November 2016",
+      "endDate": "2020",
+      "formattedStartDate": "November 2016",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Western Digital Corporation",
+      "ticker": "WDC",
+      "exchange": "NASDAQ",
+      "website": "https://www.westerndigital.com",
+      "logoUrl": "/companies-assets/WDC.NASDAQ.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2014",
+      "endDate": "2016",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2016"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/olivierleonetti",
+      "person_name": "Olivier Leonetti",
+      "company_name": "Eaton",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 59,
+  "ageYear": 2024
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Tony Fadell",
+  "first_name": "Tony",
+  "last_name": "Fadell",
+  "age": 55,
+  "age_year": 2024,
+  "background": "Tony Fadell has served as a member of our board of directors since 2022. He is the founder of Nest Labs and was a key executive at Apple, known as the 'father of the iPod'.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Arm Holdings plc",
+      "ticker": "ARM",
+      "exchange": "NASDAQ",
+      "title_or_role": "Member of the Board of Directors",
+      "website": "https://www.arm.com",
+      "start_date": "November 2022",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/tfadell",
+      "person_name": "Tony Fadell",
+      "company_name": "Arm Holdings plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

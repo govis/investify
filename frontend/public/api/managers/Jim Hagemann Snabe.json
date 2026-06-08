@@ -1,0 +1,78 @@
+{
+  "id": "Jim Hagemann Snabe",
+  "name": "Jim Hagemann Snabe",
+  "background": "Chairman of the Supervisory Board of Siemens AG. Former Co-CEO of SAP SE. He serves on various boards including Northvolt AB.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Siemens Aktiengesellschaft",
+      "ticker": "SIE",
+      "exchange": "Xetra",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman of the Supervisory Board",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "SAP SE",
+      "ticker": "SAP",
+      "exchange": "NYSE",
+      "website": "https://www.sap.com",
+      "logoUrl": "/companies-assets/SAP.NYSE.svg",
+      "title": "Co-CEO",
+      "startDate": "2010",
+      "endDate": "2014",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2014"
+    },
+    {
+      "name": "C3.ai, Inc.",
+      "ticker": "AI",
+      "exchange": "NYSE",
+      "website": "https://c3.ai",
+      "logoUrl": "/companies-assets/AI.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2021-03-01",
+      "endDate": null,
+      "formattedStartDate": "March 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Bloom Energy Corporation",
+      "ticker": "BE",
+      "exchange": "NYSE",
+      "website": "https://www.bloomenergy.com",
+      "logoUrl": "/companies-assets/BE.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2025-08-06",
+      "endDate": null,
+      "formattedStartDate": "August 2025",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://dk.linkedin.com/in/jim-hagemann-snabe",
+      "person_name": "Jim Hagemann Snabe",
+      "company_name": "Siemens Aktiengesellschaft",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Chairman's Committee",
+    "Innovation and Finance Committee",
+    "Nominating Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

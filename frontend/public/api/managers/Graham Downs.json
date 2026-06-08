@@ -1,0 +1,52 @@
+{
+  "id": "Graham Downs",
+  "name": "Graham Downs",
+  "background": "Mr. Downs has over 25 years of experience in the mineral exploration industry and is currently the CEO of Cascadia Minerals Ltd.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cascadia Minerals Ltd.",
+      "ticker": "CAM",
+      "exchange": "TSXV",
+      "website": "https://cascadiaminerals.com",
+      "logoUrl": "/companies-assets/CAM.TSXV.svg",
+      "title": "President, CEO, and Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "ATAC Resources Ltd.",
+      "ticker": "ATC",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": "/companies-assets/ATC.TSXV.png",
+      "title": "President and CEO",
+      "startDate": "2007",
+      "endDate": "2023",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2023"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/graham-downs-744b62148",
+      "person_name": "Graham Downs",
+      "company_name": "Cascadia Minerals Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 50,
+  "ageYear": 2024
+}

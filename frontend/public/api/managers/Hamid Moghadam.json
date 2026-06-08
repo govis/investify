@@ -1,0 +1,39 @@
+{
+  "id": "Hamid Moghadam",
+  "name": "Hamid Moghadam",
+  "background": "Co-founder of Prologis and has served as CEO since 1997. He was previously Chairman and CEO of AMB Property Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Prologis, Inc.",
+      "ticker": "PLD",
+      "exchange": "NYSE",
+      "website": "https://www.prologis.com",
+      "logoUrl": "/companies-assets/PLD.NYSE.svg",
+      "title": "Co-Founder, Chairman of the Board, Former CEO",
+      "startDate": "2011",
+      "endDate": null,
+      "formattedStartDate": "2011",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "AMB Property Corporation",
+      "ticker": "AMB",
+      "exchange": "NYSE",
+      "website": "https://www.prologis.com",
+      "logoUrl": "/companies-assets/AMB.NYSE.svg",
+      "title": "Co-Founder, Chairman, CEO",
+      "startDate": "1983",
+      "endDate": "2011",
+      "formattedStartDate": "1983",
+      "formattedEndDate": "2011"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 67,
+  "ageYear": 2024
+}

@@ -1,0 +1,50 @@
+{
+  "id": "Sandra McInnes",
+  "name": "Sandra McInnes",
+  "background": "Sandra McInnes is the Chief Sustainability Officer, leading the Company's ESG strategy, health, safety, and community relations. She has extensive experience in corporate affairs and sustainability within the mining industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Pilbara Minerals Limited",
+      "ticker": "PLS",
+      "exchange": "ASX",
+      "website": "https://www.pilbaraminerals.com.au",
+      "logoUrl": "/companies-assets/PLS.ASX.svg",
+      "title": "Chief People and Sustainability Officer",
+      "startDate": "February 2023",
+      "endDate": null,
+      "formattedStartDate": "February 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Origin Energy Limited",
+      "ticker": "ORG",
+      "exchange": "ASX",
+      "website": "https://www.originenergy.com.au",
+      "logoUrl": "/companies-assets/ORG.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "October 2024",
+      "endDate": null,
+      "formattedStartDate": "October 2024",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/sandra-mcinnes-gaicd-b16a502a",
+      "person_name": "Sandra McInnes",
+      "company_name": "Pilbara Minerals Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

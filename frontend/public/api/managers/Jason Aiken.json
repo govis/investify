@@ -1,0 +1,50 @@
+{
+  "id": "Jason Aiken",
+  "name": "Jason Aiken",
+  "background": "Mr. Aiken has been Executive Vice President, Technologies, since January 2024. He previously served as Senior Vice President and Chief Financial Officer from January 2014 to December 2023.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "General Dynamics Corporation",
+      "ticker": "GD",
+      "exchange": "NYSE",
+      "website": "https://www.gd.com",
+      "logoUrl": "/companies-assets/GD.NYSE.svg",
+      "title": "Executive Vice President, Technologies; Chief Financial Officer; Senior Vice President and CFO",
+      "startDate": "2002",
+      "endDate": "Feb 2024",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "Feb 2024"
+    },
+    {
+      "name": "QXO, Inc.",
+      "ticker": "QXO",
+      "exchange": "NASDAQ",
+      "website": "https://www.qxo.com",
+      "logoUrl": "/companies-assets/QXO.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "June 2024",
+      "endDate": null,
+      "formattedStartDate": "June 2024",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jaaiken",
+      "person_name": "Jason Aiken",
+      "company_name": "General Dynamics",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 51,
+  "ageYear": 2024
+}

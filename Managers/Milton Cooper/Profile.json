@@ -1,0 +1,51 @@
+{
+  "name": "Milton Cooper",
+  "first_name": "Milton",
+  "last_name": "Cooper",
+  "age": 68,
+  "age_year": 2024,
+  "background": "Former President of the North American Public Sector at Computer Sciences Corporation (CSC). Extensive experience in government contracting and IT services.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Science Applications International Corporation",
+      "ticker": "SAIC",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.saic.com",
+      "start_date": "2023-06-07",
+      "end_date": null
+    },
+    {
+      "name": "Kimco Realty Corporation",
+      "ticker": "KIM",
+      "exchange": "NYSE",
+      "website": "https://www.kimcorealty.com",
+      "title_or_role": "Chairman Emeritus",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/milton-cooper-ab679434",
+      "person_name": "Milton Cooper",
+      "company_name": "Science Applications International Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Human Resources and Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

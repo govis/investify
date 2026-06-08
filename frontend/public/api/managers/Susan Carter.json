@@ -1,0 +1,77 @@
+{
+  "id": "Susan Carter",
+  "name": "Susan Carter",
+  "background": "Susan K. Carter has served as a director since 2020. She previously served as Senior Vice President and Chief Financial Officer of Ingersoll Rand plc from 2013 to 2020.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "ON Semiconductor Corporation",
+      "ticker": "ON",
+      "exchange": "NASDAQ",
+      "website": "https://www.onsemi.com",
+      "logoUrl": "/companies-assets/ON.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Stanley Black & Decker, Inc.",
+      "ticker": "SWK",
+      "exchange": "NYSE",
+      "website": "https://www.stanleyblackanddecker.com",
+      "logoUrl": "/companies-assets/SWK.NYSE.svg",
+      "title": "Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Air Products and Chemicals, Inc.",
+      "ticker": "APD",
+      "exchange": "NYSE",
+      "website": "https://www.airproducts.com",
+      "logoUrl": "/companies-assets/APD.NYSE.png",
+      "title": "Director",
+      "startDate": "2011",
+      "endDate": "2021",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Lennox International Inc.",
+      "ticker": "LII",
+      "exchange": "NYSE",
+      "website": "https://www.lennoxinternational.com",
+      "logoUrl": "/companies-assets/LII.NYSE.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2004",
+      "endDate": "2010",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2010"
+    },
+    {
+      "name": "Lyondell Chemical Company",
+      "ticker": "LYO",
+      "exchange": "NYSE",
+      "website": "https://www.lyondellbasell.com",
+      "logoUrl": "/companies-assets/LYO.NYSE.svg",
+      "title": "Director",
+      "startDate": "2007",
+      "endDate": "2007",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2007"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

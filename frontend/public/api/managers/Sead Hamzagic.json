@@ -1,0 +1,51 @@
+{
+  "id": "Sead Hamzagic",
+  "name": "Sead Hamzagic",
+  "background": "Mr. Hamzagic is a Chartered Professional Accountant with over 30 years of experience in public practice and financial management for public companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Foremost Lithium Resource & Technology Ltd.",
+      "ticker": "FMST",
+      "exchange": "NASDAQ",
+      "website": "https://www.foremostlithium.com/",
+      "logoUrl": "/companies-assets/FMST.NASDAQ.jpg",
+      "title": "Chief Financial Officer and Corporate Secretary",
+      "startDate": "2024-02-14",
+      "endDate": null,
+      "formattedStartDate": "February 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Spark Minerals Inc.",
+      "ticker": "SPAR",
+      "exchange": "CSE",
+      "website": "https://www.sparkminerals.co/",
+      "logoUrl": "/companies-assets/SPAR.CSE.svg",
+      "title": "Audit Committee Chair",
+      "startDate": "2025-01-22",
+      "endDate": null,
+      "formattedStartDate": "January 2025",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/sead-hamzagic-cpa-cga-21725b13",
+      "person_name": "Sead Hamzagic",
+      "company_name": "GoldHaven Resources Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 65,
+  "ageYear": 2024
+}

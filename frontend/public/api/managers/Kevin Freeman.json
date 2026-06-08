@@ -1,0 +1,27 @@
+{
+  "id": "Kevin Freeman",
+  "name": "Kevin Freeman",
+  "background": "Kevin M. Freeman has served as President and Chief Executive Officer since July 2023. He previously served as President and Chief Operating Officer from May 2018 to June 2023, and as Executive Vice President and Chief Operating Officer from May 2011 to May 2018. He joined the Company in 1992.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Old Dominion Freight Line, Inc.",
+      "ticker": "ODFL",
+      "exchange": "NASDAQ",
+      "website": "https://www.odfl.com",
+      "logoUrl": "/companies-assets/ODFL.NASDAQ.png",
+      "title": "Executive Vice President and Chief Operating Officer",
+      "startDate": "2018-05-01",
+      "endDate": "2023-06-30",
+      "formattedStartDate": "May 2018",
+      "formattedEndDate": "June 2023"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 57,
+  "ageYear": 2024
+}

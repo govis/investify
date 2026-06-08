@@ -1,0 +1,61 @@
+{
+  "name": "Stephen Arnette",
+  "first_name": "Stephen",
+  "last_name": "Arnette",
+  "age": 54,
+  "age_year": 2024,
+  "background": "Mr. Arnette has served as a Director since 2024. He is currently the President of the Critical Mission Solutions business at Jacobs.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Jacobs Solutions Inc.",
+      "ticker": "J",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Vice President and President, Critical Mission Solutions",
+      "website": "https://www.jacobs.com",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The KeyW Holding Corporation",
+      "ticker": "KEYW",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "President, Agile Networks Sector",
+      "start_date": "2016",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Amentum Holdings, Inc.",
+      "ticker": "AMTM",
+      "exchange": "NYSE",
+      "website": "https://www.amentum.com",
+      "title_or_role": "Chief Operating Officer",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/stephen-arnette-675076151",
+      "person_name": "Stephen Arnette",
+      "company_name": "Jacobs Solutions Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

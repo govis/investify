@@ -1,0 +1,50 @@
+{
+  "id": "Guy Moore",
+  "name": "Guy Moore",
+  "background": "Mr Moore is a Chartered Accountant with over 20 years’ experience in the mining industry. He has held senior finance roles at several ASX-listed mining companies, including Northern Star Resources.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Bellevue Gold Limited",
+      "ticker": "BGL",
+      "exchange": "ASX",
+      "website": "https://www.bellevuegold.com.au",
+      "logoUrl": "/companies-assets/BGL.ASX.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "April 2022",
+      "endDate": null,
+      "formattedStartDate": "April 2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Northern Star Resources Limited",
+      "ticker": "NST",
+      "exchange": "ASX",
+      "website": "https://www.nsrltd.com",
+      "logoUrl": "/companies-assets/NST.ASX.svg",
+      "title": "General Manager - Finance",
+      "startDate": null,
+      "endDate": "2022",
+      "formattedStartDate": "",
+      "formattedEndDate": "2022"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/guy-moore-203b166a",
+      "person_name": "Guy Moore",
+      "company_name": "Bellevue Gold Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

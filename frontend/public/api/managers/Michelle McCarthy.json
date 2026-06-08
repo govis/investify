@@ -1,0 +1,38 @@
+{
+  "id": "Michelle McCarthy",
+  "name": "Michelle McCarthy",
+  "background": "Ms. McCarthy has served as our Senior Vice President and Chief Accounting Officer since 2018. She previously served as Vice President and Corporate Controller of Analogic Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Mercury Systems, Inc.",
+      "ticker": "MRCY",
+      "exchange": "NASDAQ",
+      "website": "https://www.mrcy.com",
+      "logoUrl": "/companies-assets/MRCY.NASDAQ.svg",
+      "title": "Senior Vice President and Chief Accounting Officer (also served as Interim Chief Financial Officer from January 2023 to approximately mid-2023)",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michelle-mccarthy-59184212b",
+      "person_name": "Michelle McCarthy",
+      "company_name": "Mercury Systems, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 54,
+  "ageYear": 2023
+}

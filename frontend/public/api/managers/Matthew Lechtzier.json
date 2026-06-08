@@ -1,0 +1,55 @@
+{
+  "id": "Matthew Lechtzier",
+  "name": "Matthew Lechtzier",
+  "background": "Mr. Lechtzier is a senior advisor with Ivanhoe Capital Corporation and has over 30 years of experience in corporate finance and international business development. He has served on the boards of several public companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "GoviEx Uranium Inc.",
+      "ticker": "GXU",
+      "exchange": "TSXV",
+      "website": "https://www.goviex.com",
+      "logoUrl": "/companies-assets/GXU.TSXV.svg",
+      "title": "Strategic Advisor",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sage Potash Corp.",
+      "ticker": "SAGE",
+      "exchange": "TSXV",
+      "website": "https://www.sagepotash.com",
+      "logoUrl": "/companies-assets/SAGE.TSXV.svg",
+      "title": "Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Maple Gold Mines Ltd.",
+      "ticker": "MGM",
+      "exchange": "TSXV",
+      "website": "https://www.maplegoldmines.com",
+      "logoUrl": "/companies-assets/MGM.TSXV.png",
+      "title": "Strategic Advisor",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

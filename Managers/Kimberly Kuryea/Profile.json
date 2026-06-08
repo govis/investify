@@ -1,0 +1,50 @@
+{
+  "name": "Kimberly Kuryea",
+  "first_name": "Kimberly",
+  "last_name": "Kuryea",
+  "age": 57,
+  "age_year": 2024,
+  "background": "Ms. Kuryea has been Senior Vice President and Chief Financial Officer since January 2024. She previously served as Vice President and Controller from 2011 to 2014 and as Senior Vice President, Human Resources and Administration.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "General Dynamics Corporation",
+      "ticker": "GD",
+      "exchange": "NYSE",
+      "title_or_role": "Senior Vice President, Human Resources (and various prior executive roles)",
+      "website": "https://www.gd.com",
+      "start_date": "2000",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Manhattan Associates, Inc.",
+      "ticker": "MANH",
+      "exchange": "NASDAQ",
+      "website": "https://www.manh.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2022-05-16",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kimberly-kuryea-4a5a5a12",
+      "person_name": "Kimberly Kuryea",
+      "company_name": "General Dynamics Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

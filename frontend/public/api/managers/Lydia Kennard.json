@@ -1,0 +1,45 @@
+{
+  "id": "Lydia Kennard",
+  "name": "Lydia Kennard",
+  "background": "Lydia Kennard is the President and CEO of KDG Construction Consulting. She previously served as the Executive Director of Los Angeles World Airports.",
+  "pictureUrl": "/managers-assets/Lydia Kennard.jpg",
+  "companies": [
+    {
+      "name": "Healthpeak Properties, Inc.",
+      "ticker": "DOC",
+      "exchange": "NYSE",
+      "website": "https://www.healthpeak.com",
+      "logoUrl": "/companies-assets/DOC.NYSE.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": "2022-07-05",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "July 2022"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/lydia-kennard-26427b63",
+      "person_name": "Lydia Kennard",
+      "company_name": "KDG Construction Consulting",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit",
+    "Corporate Responsibility",
+    "Governance Committee (Chair)",
+    "Governance and Nomination Committee",
+    "Talent and Compensation Committee"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

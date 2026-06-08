@@ -1,0 +1,31 @@
+{
+  "name": "Alexandre de L'Etraz",
+  "first_name": "Alexandre",
+  "last_name": "de L'Etraz",
+  "age": 55,
+  "age_year": 2024,
+  "background": "Experienced in international finance and wealth management.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Sigma Lithium Corporation",
+      "ticker": "SGML",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.sigmalithiumresources.com",
+      "start_date": "2018-05-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

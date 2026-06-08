@@ -1,0 +1,78 @@
+{
+  "id": "Annette Clayton",
+  "name": "Annette Clayton",
+  "background": "Former Chief Executive Officer and Chair of Schneider Electric North America.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NXP Semiconductors N.V.",
+      "ticker": "NXPI",
+      "exchange": "NASDAQ",
+      "website": "https://www.nxp.com",
+      "logoUrl": "/companies-assets/NXPI.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2021-05-26",
+      "endDate": null,
+      "formattedStartDate": "May 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Oshkosh Corporation",
+      "ticker": "OSK",
+      "exchange": "NYSE",
+      "website": "https://www.oshkoshcorp.com",
+      "logoUrl": "/companies-assets/OSK.NYSE.svg",
+      "title": "Director",
+      "startDate": "2024-03-18",
+      "endDate": null,
+      "formattedStartDate": "March 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Nordson Corporation",
+      "ticker": "NDSN",
+      "exchange": "NASDAQ",
+      "website": "https://www.nordson.com",
+      "logoUrl": "/companies-assets/NDSN.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2024-02-01",
+      "endDate": null,
+      "formattedStartDate": "February 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Polaris Inc.",
+      "ticker": "PII",
+      "exchange": "NYSE",
+      "website": "https://www.polaris.com",
+      "logoUrl": "/companies-assets/PII.NYSE.svg",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": "2021-04-29",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "April 2021"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/annette-clayton-7744383",
+      "person_name": "Annette Clayton",
+      "company_name": "Schneider Electric",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1,
+      "profile_status": "private"
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Finance and Risk Management Committee"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Neil Chapman",
+  "name": "Neil Chapman",
+  "background": "Senior Vice President since 2018. Previously President of ExxonMobil Chemical Company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Exxon Mobil Corporation",
+      "ticker": "XOM",
+      "exchange": "NYSE",
+      "website": "https://www.exxonmobil.com",
+      "logoUrl": "/companies-assets/XOM.NYSE.svg",
+      "title": "Senior Vice President",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

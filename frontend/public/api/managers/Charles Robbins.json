@@ -1,0 +1,38 @@
+{
+  "id": "Charles Robbins",
+  "name": "Charles Robbins",
+  "background": "Chuck Robbins is Chair and Chief Executive Officer of Cisco. He has served as CEO since July 2015 and was elected Chair of the Board in December 2017. Prior to that, he held various leadership positions at Cisco since joining in 1997, including Senior Vice President of Worldwide Field Operations.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "BlackRock, Inc.",
+      "ticker": "BLK",
+      "exchange": "NYSE",
+      "website": "https://www.blackrock.com",
+      "logoUrl": "/companies-assets/BLK.NYSE.svg",
+      "title": "Director",
+      "startDate": "2016-12-31",
+      "endDate": null,
+      "formattedStartDate": "December 2016",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/chuck-robbins",
+      "person_name": "Chuck Robbins",
+      "company_name": "Cisco",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": "https://media.licdn.com/dms/image/v2/C5603AQG1-5_5_5_5_5/profile-displayphoto-shrink_200_200/0/1517500000000?e=1720000000&v=beta&t=example_url_pattern",
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 58,
+  "ageYear": 2024
+}

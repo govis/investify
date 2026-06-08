@@ -1,0 +1,38 @@
+{
+  "id": "Sarah Wynne",
+  "name": "Sarah Wynne",
+  "background": "Ms. Wynne has served as Chief Financial Officer since 2023. She previously served as Chief Accounting Officer from 2018 to 2023 and joined TransDigm in 2017. Prior to that, she was with PwC.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "TransDigm Group Incorporated",
+      "ticker": "TDG",
+      "exchange": "NYSE",
+      "website": "https://www.transdigm.com",
+      "logoUrl": "/companies-assets/TDG.NYSE.svg",
+      "title": "Group Controller",
+      "startDate": "April 2015",
+      "endDate": "October 2018",
+      "formattedStartDate": "April 2015",
+      "formattedEndDate": "October 2018"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sarah-wynne-11706612b",
+      "person_name": "Sarah Wynne",
+      "company_name": "TransDigm Group Incorporated",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 41,
+  "ageYear": 2024
+}

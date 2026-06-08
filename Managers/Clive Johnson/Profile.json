@@ -1,0 +1,58 @@
+{
+  "name": "Clive Johnson",
+  "first_name": "Clive",
+  "last_name": "Johnson",
+  "age": 66,
+  "age_year": 2024,
+  "background": "Mr. Johnson is a founding director of B2Gold and has been the President and Chief Executive Officer since the company's inception in 2007. He was previously a founder of Bema Gold Corporation.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "B2Gold Corp.",
+      "ticker": "BTG",
+      "exchange": "NYSE",
+      "title_or_role": "Director, President and Chief Executive Officer",
+      "website": "https://www.b2gold.com",
+      "start_date": "2007-11-30",
+      "end_date": null
+    },
+    {
+      "name": "Bema Gold Corp.",
+      "ticker": "BGO",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "1988",
+      "end_date": "2007",
+      "validated": true
+    },
+    {
+      "name": "BeMetals Corp.",
+      "ticker": "BMET",
+      "exchange": "TSXV",
+      "website": "https://bemetalscorp.com/",
+      "title_or_role": "Director (Former Chairman)",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Vanadian Energy Corp.",
+      "ticker": "VAN",
+      "exchange": "TSXV",
+      "website": "https://vanadianenergy.com/",
+      "title_or_role": "Chairman / Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "Gerald Johnson",
+  "name": "Gerald Johnson",
+  "background": "Executive Vice President, Global Manufacturing, General Motors Company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Caterpillar Inc.",
+      "ticker": "CAT",
+      "exchange": "NYSE",
+      "website": "https://www.caterpillar.com",
+      "logoUrl": "/companies-assets/CAT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Eaton Corporation plc",
+      "ticker": "ETN",
+      "exchange": "NYSE",
+      "website": "https://www.eaton.com",
+      "logoUrl": "/companies-assets/ETN.NYSE.svg",
+      "title": "Director",
+      "startDate": "July 23, 2025",
+      "endDate": null,
+      "formattedStartDate": "July 23, 2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "website": "https://www.gm.com",
+      "logoUrl": "/companies-assets/GM.NYSE.svg",
+      "title": "Executive Vice President, Global Manufacturing",
+      "startDate": "1980",
+      "endDate": "2024",
+      "formattedStartDate": "1980",
+      "formattedEndDate": "2024"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/geralddjohnson",
+      "person_name": "Gerald Johnson",
+      "company_name": "General Motors",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Public Policy and Sustainability Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

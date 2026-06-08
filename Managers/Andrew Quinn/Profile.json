@@ -1,0 +1,64 @@
+{
+  "name": "Andrew Quinn",
+  "first_name": "Andrew",
+  "last_name": "Quinn",
+  "age": 70,
+  "age_year": 2024,
+  "background": "Andrew Quinn was formerly Head of Mining Investment Banking for Europe and Africa at CIBC.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Barrick Gold Corporation",
+      "ticker": "GOLD",
+      "exchange": "NYSE / TSX",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://www.barrick.com",
+      "start_date": "2019",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Alkane Resources Ltd",
+      "ticker": "ALK",
+      "exchange": "ASX",
+      "website": "https://alkres.com",
+      "title_or_role": "Director",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Randgold Resources",
+      "ticker": "RRS",
+      "exchange": "LSE",
+      "website": null,
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2011",
+      "end_date": "2018",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/andrew-quinn-0a811a28",
+      "person_name": "Andrew Quinn",
+      "company_name": "Alkane Resources Ltd",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1
+    }
+  ],
+  "committees": [
+    "Audit & Risk Committee",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 1
+}

@@ -1,0 +1,40 @@
+{
+  "id": "Sanjay Mehta",
+  "name": "Sanjay Mehta",
+  "background": "Sanjay Mehta has been Vice President and Chief Financial Officer since 2019. Prior to joining Teradyne, he served in various financial leadership roles at Qualcomm, including Senior Vice President and CFO of Qualcomm CDMA Technologies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Teradyne, Inc.",
+      "ticker": "TER",
+      "exchange": "NASDAQ",
+      "website": "https://www.teradyne.com",
+      "logoUrl": "/companies-assets/TER.NASDAQ.svg",
+      "title": "Chief Financial Officer, Treasurer, VP",
+      "startDate": "Apr 2019",
+      "endDate": "Nov 2025",
+      "formattedStartDate": "Apr 2019",
+      "formattedEndDate": "Nov 2025"
+    },
+    {
+      "name": "Qualcomm Incorporated",
+      "ticker": "QCOM",
+      "exchange": "NASDAQ",
+      "website": "https://www.qualcomm.com",
+      "logoUrl": "/companies-assets/QCOM.NASDAQ.svg",
+      "title": "Segment Chief Financial Officer (QCT)",
+      "startDate": "2010",
+      "endDate": "2015",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2015"
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 57,
+  "ageYear": 2024
+}

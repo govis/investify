@@ -1,0 +1,29 @@
+{
+  "id": "Thomas Olinger",
+  "name": "Thomas Olinger",
+  "background": "Thomas Olinger was the CFO of Prologis, Inc. from 2012 to 2022.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Prologis, Inc.",
+      "ticker": "PLD",
+      "exchange": "NYSE",
+      "website": "https://www.prologis.com",
+      "logoUrl": "/companies-assets/PLD.NYSE.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2012",
+      "endDate": "2022",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2022"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 57,
+  "ageYear": 2024
+}

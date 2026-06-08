@@ -1,0 +1,91 @@
+{
+  "id": "Robyn Denholm",
+  "name": "Robyn Denholm",
+  "background": "Robyn Denholm has been a member of the Board since August 2014 and served as Chair of the Board since November 2018. She has held executive roles at Telstra Corporation Limited and Juniper Networks, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Tesla, Inc.",
+      "ticker": "TSLA",
+      "exchange": "NASDAQ",
+      "website": "https://www.tesla.com",
+      "logoUrl": "/companies-assets/TSLA.NASDAQ.svg",
+      "title": "Chair of the Board",
+      "startDate": "2018-11",
+      "endDate": null,
+      "formattedStartDate": "November 2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Telstra Group Limited",
+      "ticker": "TLS",
+      "exchange": "ASX",
+      "website": "telstra.com.au",
+      "logoUrl": "/companies-assets/TLS.ASX.svg",
+      "title": "Chief Financial Officer / COO",
+      "startDate": "2017-01",
+      "endDate": "2019-05",
+      "formattedStartDate": "January 2017",
+      "formattedEndDate": "May 2019"
+    },
+    {
+      "name": "Juniper Networks, Inc.",
+      "ticker": "JNPR",
+      "exchange": "NYSE",
+      "website": "https://www.juniper.net",
+      "logoUrl": "/companies-assets/JNPR.NYSE.svg",
+      "title": "EVP, CFO, and COO",
+      "startDate": "2007-08",
+      "endDate": "2016-02",
+      "formattedStartDate": "August 2007",
+      "formattedEndDate": "February 2016"
+    },
+    {
+      "name": "ABB Ltd",
+      "ticker": "ABBN",
+      "exchange": "STO",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2016-07",
+      "endDate": "2020-04",
+      "formattedStartDate": "July 2016",
+      "formattedEndDate": "April 2020"
+    },
+    {
+      "name": "Echelon Corporation",
+      "ticker": "ELON",
+      "exchange": "NASDAQ",
+      "website": "echelon.com",
+      "logoUrl": "https://www.echelon.com/assets/images/echelon-logo.png",
+      "title": "Director",
+      "startDate": "2013-05",
+      "endDate": "2018-09",
+      "formattedStartDate": "May 2013",
+      "formattedEndDate": "September 2018"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/robyn-denholm-5a5b5a1/",
+      "person_name": "Robyn Denholm",
+      "company_name": "Tesla, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

@@ -1,0 +1,54 @@
+{
+  "id": "Stephen Page",
+  "name": "Stephen Page",
+  "background": "Mr. Page has served as a director since 2013. He previously served as Vice Chairman and Chief Financial Officer of United Technologies Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AeroVironment, Inc.",
+      "ticker": "AVAV",
+      "exchange": "NASDAQ",
+      "website": "https://www.avinc.com",
+      "logoUrl": "/companies-assets/AVAV.NASDAQ.svg",
+      "title": "Independent Director",
+      "startDate": "2013-04-24",
+      "endDate": null,
+      "formattedStartDate": "April 2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "United Technologies Corporation",
+      "ticker": "RTX",
+      "exchange": "NYSE",
+      "website": "https://www.rtx.com",
+      "logoUrl": "/companies-assets/RTX.NYSE.svg",
+      "title": "President and Chief Executive Officer of Otis Elevator",
+      "startDate": null,
+      "endDate": "2004",
+      "formattedStartDate": "",
+      "formattedEndDate": "2004"
+    },
+    {
+      "name": "The Black & Decker Corporation",
+      "ticker": "SWK",
+      "exchange": "NYSE",
+      "website": "https://www.stanleyblackanddecker.com",
+      "logoUrl": "/companies-assets/SWK.NYSE.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 84,
+  "ageYear": 2024
+}

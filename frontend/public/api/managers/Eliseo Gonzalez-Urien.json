@@ -1,0 +1,42 @@
+{
+  "id": "Eliseo Gonzalez-Urien",
+  "name": "Eliseo Gonzalez-Urien",
+  "background": "Mr. Gonzalez-Urien is a geologist with over 50 years of experience. He was formerly the President of Placer Dome Exploration.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Seabridge Gold Inc.",
+      "ticker": "SEA",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "January 2006",
+      "endDate": "2024",
+      "formattedStartDate": "January 2006",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Paramount Gold Nevada Corp.",
+      "ticker": "PZG",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "February 2015",
+      "endDate": null,
+      "formattedStartDate": "February 2015",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Sustainability Committee",
+    "Technical Committee"
+  ],
+  "age": 78,
+  "ageYear": 2024
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Gerard DeMuro",
+  "first_name": "Gerard",
+  "last_name": "DeMuro",
+  "age": 68,
+  "age_year": 2024,
+  "background": "Gerard J. DeMuro has served as a member of our Board since June 2021. Mr. DeMuro previously served as President and CEO of BAE Systems, Inc.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Array Technologies, Inc.",
+      "ticker": "ARRY",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://arraytechinc.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Mercury Systems, Inc.",
+      "ticker": "MRCY",
+      "exchange": "NASDAQ",
+      "website": "https://www.mrcy.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Eve Holding, Inc.",
+      "ticker": "EVEX",
+      "exchange": "NYSE",
+      "website": "https://eveairmobility.com",
+      "title_or_role": "Co-CEO",
+      "start_date": "September 2021",
+      "end_date": "September 2023",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gerard-demuro-4971507",
+      "person_name": "Gerard DeMuro",
+      "company_name": "Array Technologies, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

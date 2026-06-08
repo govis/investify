@@ -1,0 +1,75 @@
+{
+  "id": "David Cote",
+  "name": "David Cote",
+  "background": "David Cote is the Executive Chairman of the Board of Vertiv. He is the former Chairman and CEO of Honeywell. He also served as a Class B Director to the Federal Reserve Bank of New York.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Honeywell International Inc.",
+      "ticker": "HON",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman and Chief Executive Officer",
+      "startDate": "2002",
+      "endDate": "2018",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "ticker": "JPM",
+      "exchange": "NYSE",
+      "website": "https://www.jpmorganchase.com",
+      "logoUrl": "/companies-assets/JPM.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2007",
+      "endDate": "2013",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "TRW Inc.",
+      "ticker": "TRW",
+      "exchange": "NYSE",
+      "website": "https://www.trw.com",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TRW_logo.svg/1280px-TRW_logo.svg.png",
+      "title": "Chairman, President, and Chief Executive Officer",
+      "startDate": "1999",
+      "endDate": "2002",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2002"
+    },
+    {
+      "name": "Juniper Industrial Holdings, Inc.",
+      "ticker": "JIH",
+      "exchange": "NYSE",
+      "website": "https://www.juniperindustrial.com",
+      "logoUrl": "/companies-assets/JIH.NYSE.svg",
+      "title": "Chairman",
+      "startDate": "2020",
+      "endDate": "2021",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2021"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/davidmcote",
+      "person_name": "David Cote",
+      "company_name": "Vertiv",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 71,
+  "ageYear": 2024
+}

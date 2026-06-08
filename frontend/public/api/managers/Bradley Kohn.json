@@ -1,0 +1,63 @@
+{
+  "id": "Bradley Kohn",
+  "name": "Bradley Kohn",
+  "background": "Bradley D. Kohn joined Wolfspeed in 2013 and serves as General Counsel and Secretary. Prior to joining Wolfspeed, he was General Counsel at Solarflare Communications and held legal roles at Broadcom Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Wolfspeed, Inc.",
+      "ticker": "WOLF",
+      "exchange": "NYSE",
+      "website": "https://www.wolfspeed.com",
+      "logoUrl": "/companies-assets/WOLF.NYSE.svg",
+      "title": "Senior Vice President, General Counsel",
+      "startDate": "2013",
+      "endDate": "2024",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Martin Marietta Materials, Inc.",
+      "ticker": "MLM",
+      "exchange": "NYSE",
+      "website": "https://www.martinmarietta.com",
+      "logoUrl": "/companies-assets/MLM.NYSE.svg",
+      "title": "Senior Vice President, General Counsel and Corporate Secretary",
+      "startDate": "2024",
+      "endDate": "2026",
+      "formattedStartDate": "2024",
+      "formattedEndDate": "2026"
+    },
+    {
+      "name": "MEMC Electronic Materials, Inc.",
+      "ticker": "WFR",
+      "exchange": "NYSE",
+      "website": "https://www.sunedison.com",
+      "logoUrl": "https://brandfetch.com/memc.com",
+      "title": "Senior Vice President, General Counsel and Corporate Secretary",
+      "startDate": "2004",
+      "endDate": "2012",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2012"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bradley-kohn-47b6b140",
+      "person_name": "Bradley Kohn",
+      "company_name": "Wolfspeed, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

@@ -1,0 +1,74 @@
+{
+  "id": "Joseph Hinrichs",
+  "name": "Joseph Hinrichs",
+  "background": "President and Chief Executive Officer of CSX since September 2022. Previously served as President, Automotive at Ford Motor Company from 2019 to 2020.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "CSX Corporation",
+      "ticker": "CSX",
+      "exchange": "NASDAQ",
+      "website": "https://www.csx.com",
+      "logoUrl": "/companies-assets/CSX.NASDAQ.svg",
+      "title": "President and CEO",
+      "startDate": "2022-09-26",
+      "endDate": null,
+      "formattedStartDate": "September 2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "The Goodyear Tire & Rubber Company",
+      "ticker": "GT",
+      "exchange": "NASDAQ",
+      "website": "https://www.goodyear.com",
+      "logoUrl": "/companies-assets/GT.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2023-07-25",
+      "endDate": null,
+      "formattedStartDate": "July 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Luminar Technologies, Inc.",
+      "ticker": "LAZR",
+      "exchange": "NASDAQ",
+      "website": "https://www.luminartech.com",
+      "logoUrl": "/companies-assets/LAZR.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2021-05-31",
+      "endDate": null,
+      "formattedStartDate": "May 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "website": "https://www.ford.com",
+      "logoUrl": "/companies-assets/F.NYSE.svg",
+      "title": "President, Ford Automotive (and various executive roles)",
+      "startDate": "2000-12",
+      "endDate": "2020-03-01",
+      "formattedStartDate": "December 2000",
+      "formattedEndDate": "March 2020"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/joe-hinrichs-376103101",
+      "person_name": "Joseph Hinrichs",
+      "company_name": "CSX Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 57,
+  "ageYear": 2024
+}

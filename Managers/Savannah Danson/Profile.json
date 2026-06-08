@@ -1,0 +1,31 @@
+{
+  "name": "Savannah Danson",
+  "first_name": "Savannah",
+  "last_name": "Danson",
+  "age": 55,
+  "age_year": 2023,
+  "background": "Savannah Danson was appointed as an independent non-executive director on 23 May 2017. She is the founder and Executive Chairperson of Bunengi Group.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Sibanye Stillwater Limited",
+      "ticker": "SBSW",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Non-Executive Director",
+      "website": "https://www.sibanyestillwater.com/",
+      "start_date": "2017-05-23",
+      "end_date": "2024-03-11",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Social, Ethics and Sustainability Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "Jack Miller",
+  "name": "Jack Miller",
+  "background": "Mr. Miller is the retired Chairman and CEO of North American Coffee Partnership. He has served on the board since 2016.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Successories Inc.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "Owner and Chairman of the Board",
+      "startDate": "1999",
+      "endDate": "2009",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2009"
+    },
+    {
+      "name": "Quill Corporation",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "Founder, President, and CEO",
+      "startDate": null,
+      "endDate": "1998",
+      "formattedStartDate": "",
+      "formattedEndDate": "1998"
+    },
+    {
+      "name": "Solix, Inc.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "COO, President, CEO, and Member of the Board of Directors",
+      "startDate": "2001",
+      "endDate": null,
+      "formattedStartDate": "2001",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominating and Governance Committee",
+    "Social Responsibility and Compensation Committee"
+  ],
+  "age": 73,
+  "ageYear": 2024
+}

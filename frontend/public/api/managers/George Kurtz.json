@@ -1,0 +1,75 @@
+{
+  "id": "George Kurtz",
+  "name": "George Kurtz",
+  "background": "George Kurtz is our co-founder and has served as our President and Chief Executive Officer and as a member of our board of directors since November 2011. From October 2009 to September 2011, Mr. Kurtz served as Worldwide Chief Technology Officer of McAfee, Inc., a computer security software company. Prior to that, Mr. Kurtz served in various other positions at McAfee, including Senior Vice President and General Manager, Risk Management from October 2005 to October 2009. Mr. Kurtz co-founded Foundstone, Inc., a worldwide security products and services company, and served as its Chief Executive Officer from October 1999 until its acquisition by McAfee in October 2004.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "CrowdStrike Holdings, Inc.",
+      "ticker": "CRWD",
+      "exchange": "NASDAQ",
+      "website": "https://www.crowdstrike.com",
+      "logoUrl": "/companies-assets/CRWD.NASDAQ.svg",
+      "title": "Co-Founder, President, CEO, and Director",
+      "startDate": "November 2011",
+      "endDate": null,
+      "formattedStartDate": "November 2011",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Hewlett Packard Enterprise Company",
+      "ticker": "HPE",
+      "exchange": "NYSE",
+      "website": "https://www.arubanetworks.com",
+      "logoUrl": "https://www.arubanetworks.com/assets/images/logos/Aruba_a_Hewlett_Packard_Enterprise_company-Logo.png",
+      "title": "Member of the Board of Directors",
+      "startDate": "June 2019",
+      "endDate": null,
+      "formattedStartDate": "June 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "McAfee, Inc.",
+      "ticker": "N/A",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Worldwide Chief Technology Officer and Executive Vice President",
+      "startDate": "October 2009",
+      "endDate": "October 2011",
+      "formattedStartDate": "October 2009",
+      "formattedEndDate": "October 2011"
+    },
+    {
+      "name": "Foundstone, Inc.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "Founder and CEO",
+      "startDate": "October 1999",
+      "endDate": "October 2004",
+      "formattedStartDate": "October 1999",
+      "formattedEndDate": "October 2004"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/georgekurtz",
+      "person_name": "George Kurtz",
+      "company_name": "CrowdStrike",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 53,
+  "ageYear": 2024
+}

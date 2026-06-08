@@ -1,0 +1,50 @@
+{
+  "id": "Trent Mell",
+  "name": "Trent Mell",
+  "background": "Mr. Mell is the founder of Electra and has over 20 years of experience in the mining industry. He has held executive roles at First Quantum Minerals, Sherritt International, and North American Palladium.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Electra Battery Materials Corporation",
+      "ticker": "ELBM",
+      "exchange": "TSX",
+      "website": "https://electrabmc.com",
+      "logoUrl": "/companies-assets/ELBM.TSX.svg",
+      "title": "President, Chief Executive Officer, and Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "First Cobalt Corp.",
+      "ticker": "FCC",
+      "exchange": "TSXV",
+      "website": "https://electrabmc.com/",
+      "logoUrl": "/companies-assets/FCC.TSXV.svg",
+      "title": "President, Chief Executive Officer, and Director",
+      "startDate": "2017",
+      "endDate": "2021",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2021"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/tmell1",
+      "person_name": "Trent Mell",
+      "company_name": "Electra Battery Materials Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 54,
+  "ageYear": 2024
+}

@@ -1,0 +1,54 @@
+{
+  "id": "Maria Ramos",
+  "name": "Maria Ramos",
+  "background": "Maria Ramos is an independent non-executive director. She was formerly the CEO of Absa Group Limited and Director-General of the National Treasury of South Africa.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AngloGold Ashanti plc",
+      "ticker": "AU",
+      "exchange": "NYSE",
+      "website": "https://www.anglogoldashanti.com",
+      "logoUrl": "/companies-assets/AU.NYSE.svg",
+      "title": "Director and Chairman",
+      "startDate": "2019-06-01",
+      "endDate": "2024-05-28",
+      "formattedStartDate": "June 2019",
+      "formattedEndDate": "May 2024"
+    },
+    {
+      "name": "Standard Chartered PLC",
+      "ticker": "STAN",
+      "exchange": "LSE",
+      "website": "https://www.sc.com",
+      "logoUrl": "/companies-assets/STAN.LSE.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2021-01",
+      "endDate": null,
+      "formattedStartDate": "January 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Compagnie Financière Richemont SA",
+      "ticker": "CFR",
+      "exchange": "SIX",
+      "website": "https://www.richemont.com",
+      "logoUrl": "/companies-assets/CFR.SIX.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2011-09",
+      "endDate": "2025-03-31",
+      "formattedStartDate": "September 2011",
+      "formattedEndDate": "March 2025"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Social, Ethics and Sustainability Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

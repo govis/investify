@@ -1,0 +1,42 @@
+{
+  "id": "William Jews",
+  "name": "William Jews",
+  "background": "Former President and CEO of CareFirst, Inc. He serves on several corporate boards.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "CACI International Inc",
+      "ticker": "CACI",
+      "exchange": "NYSE",
+      "website": "https://www.caci.com",
+      "logoUrl": "/companies-assets/CACI.NYSE.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": "2025-12-31",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "December 2025"
+    },
+    {
+      "name": "Choice Hotels International, Inc.",
+      "ticker": "CHH",
+      "exchange": "NYSE",
+      "website": "https://www.choicehotels.com",
+      "logoUrl": "/companies-assets/CHH.NYSE.svg",
+      "title": "Director",
+      "startDate": "2000",
+      "endDate": null,
+      "formattedStartDate": "2000",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 72,
+  "ageYear": 2024
+}

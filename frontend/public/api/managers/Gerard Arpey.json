@@ -1,0 +1,43 @@
+{
+  "id": "Gerard Arpey",
+  "name": "Gerard Arpey",
+  "background": "Former Chairman and CEO of AMR Corporation and American Airlines, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AMR Corporation",
+      "ticker": "AMR",
+      "exchange": "NYSE",
+      "website": "https://www.aa.com",
+      "logoUrl": "/companies-assets/AMR.NYSE.png",
+      "title": "Chairman, President, and Chief Executive Officer",
+      "startDate": "2003",
+      "endDate": "2011",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2011"
+    },
+    {
+      "name": "The Home Depot, Inc.",
+      "ticker": "HD",
+      "exchange": "NYSE",
+      "website": "https://www.homedepot.com",
+      "logoUrl": "/companies-assets/HD.NYSE.svg",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Governance Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Yunus Suleman",
+  "first_name": "Yunus",
+  "last_name": "Suleman",
+  "age": 66,
+  "age_year": 2024,
+  "background": "Yunus Suleman was appointed to the Board in 2016 and became Chairperson in 2022. He is a Chartered Accountant and former Chairperson of KPMG South Africa.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Gold Fields Limited",
+      "ticker": "GFI",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Non-Executive Director (2016\u20132022), Chairperson (2022\u2013Present)",
+      "website": "https://www.goldfields.com",
+      "start_date": "2016-09-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Tiger Brands Limited",
+      "ticker": "TBS",
+      "exchange": "JSE",
+      "website": "https://www.tigerbrands.com",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2015-07-13",
+      "end_date": "2018-01-01",
+      "validated": true
+    },
+    {
+      "name": "Liberty Holdings Limited",
+      "ticker": "LBH",
+      "exchange": "JSE",
+      "website": "https://www.liberty.co.za",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": "2017-01-01",
+      "end_date": "2022-01-01",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://za.linkedin.com/in/yunus-suleman-0629671",
+      "person_name": "Yunus Suleman",
+      "company_name": "Gold Fields Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Capital Projects Control and Review Committee",
+    "Nominating and Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

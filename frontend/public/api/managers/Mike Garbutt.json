@@ -1,0 +1,39 @@
+{
+  "id": "Mike Garbutt",
+  "name": "Mike Garbutt",
+  "background": "Mr. Garbutt is a Professional Engineer with over 25 years of experience in mining operations and project management. He previously served as Chief Operating Officer at Harte Gold and held senior roles at Glencore.",
+  "pictureUrl": "/managers-assets/Mike Garbutt.jpg",
+  "companies": [
+    {
+      "name": "Clean Air Metals Inc.",
+      "ticker": "AIR",
+      "exchange": "TSX Venture Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Operating Officer",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/mikegarbutt",
+      "person_name": "Mike Garbutt",
+      "company_name": "Clean Air Metals Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Wendy King",
+  "name": "Wendy King",
+  "background": "Ms. King has over 25 years of experience in legal and corporate secretary roles. She previously served as Senior Vice President, General Counsel and Corporate Secretary of Central GoldTrust and Silver Wheaton Corp.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Capstone Copper Corp.",
+      "ticker": "CS",
+      "exchange": "TSX",
+      "website": "https://capstonecopper.com",
+      "logoUrl": "/companies-assets/CS.TSX.svg",
+      "title": "Senior Vice President, Risk, ESG, General Counsel and Corporate Secretary",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 54,
+  "ageYear": 2024
+}

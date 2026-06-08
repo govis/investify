@@ -1,0 +1,64 @@
+{
+  "id": "Diane Bryant",
+  "name": "Diane Bryant",
+  "background": "Ms. Bryant has served as a director since January 2019. She was previously the Chairman and CEO of NovaSignal Corp. and served as COO of Google Cloud. She spent 32 years at Intel Corporation, most recently as Group President of the Data Center Group.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Broadcom Inc.",
+      "ticker": "AVGO",
+      "exchange": "NASDAQ",
+      "website": "https://www.broadcom.com",
+      "logoUrl": "/companies-assets/AVGO.NASDAQ.svg",
+      "title": "Independent Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Jacobs Solutions Inc.",
+      "ticker": "J",
+      "exchange": "NYSE",
+      "website": "https://www.jacobs.com",
+      "logoUrl": "/companies-assets/J.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "2021",
+      "endDate": "2026-04-26",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "April 2026"
+    },
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "logoUrl": "/companies-assets/INTC.NASDAQ.svg",
+      "title": "Group President, Data Center Group",
+      "startDate": "1985",
+      "endDate": "2017",
+      "formattedStartDate": "1985",
+      "formattedEndDate": "2017"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/diane-bryant",
+      "person_name": "Diane Bryant",
+      "company_name": "Broadcom Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

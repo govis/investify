@@ -1,0 +1,54 @@
+{
+  "name": "Alan Lenczner",
+  "first_name": "Alan",
+  "last_name": "Lenczner",
+  "age": 81,
+  "age_year": 2024,
+  "background": "Mr. Lenczner is a founding partner of Lenczner Slaght Royce Smith Griffin LLP and is recognized as one of Canada's leading litigators. He has served as a Commissioner of the Ontario Securities Commission.",
+  "picture_url": null,
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
+    {
+      "name": "Faraday Copper Corp.",
+      "ticker": "FDY",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://faradaycopper.com/",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Leon's Furniture Limited",
+      "ticker": "LNF",
+      "exchange": "TSX",
+      "website": "https://www.leons.ca/",
+      "title_or_role": "Independent Director",
+      "start_date": "1990",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/alan-lenczner-43811762",
+      "person_name": "Alan Lenczner",
+      "company_name": "Lenczner Slaght Royce Smith Griffin LLP",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
+  "committees": [
+    "Compensation and Nominating Committee",
+    "Health, Safety, Environmental and Sustainability Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 0
+}

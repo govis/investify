@@ -1,0 +1,59 @@
+{
+  "name": "Bold Baatar",
+  "first_name": "Bold",
+  "last_name": "Baatar",
+  "age": 50,
+  "age_year": 2023,
+  "background": "Bold joined Rio Tinto in 2013 and was appointed Chief Commercial Officer in 2024. He previously served as Chief Executive Copper.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Rio Tinto Group",
+      "ticker": "RIO",
+      "exchange": "NYSE",
+      "title_or_role": "Chief Commercial Officer",
+      "website": "https://www.riotinto.com",
+      "start_date": "2024-09-01",
+      "end_date": null
+    },
+    {
+      "name": "SouthGobi Resources Ltd.",
+      "ticker": "SGQ",
+      "exchange": "TSX",
+      "website": "https://www.southgobi.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2013-09-03",
+      "end_date": "2015-05-15",
+      "validated": true
+    },
+    {
+      "name": "Aspire Mining Limited",
+      "ticker": "AKM",
+      "exchange": "ASX",
+      "website": "https://www.aspiremininglimited.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2013-09-01",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://sg.linkedin.com/in/bold-baatar",
+      "person_name": "Bold Baatar",
+      "company_name": "Rio Tinto Group",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

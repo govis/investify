@@ -1,0 +1,42 @@
+{
+  "id": "Frank Schwitter",
+  "name": "Frank Schwitter",
+  "background": "Retired Partner of Arthur Andersen LLP. He has served on the HEICO board since 2001.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "HEICO Corporation",
+      "ticker": "HEI",
+      "exchange": "NYSE",
+      "website": "https://www.heico.com",
+      "logoUrl": "/companies-assets/HEI.NYSE.svg",
+      "title": "Director and Chairman of the Audit Committee",
+      "startDate": "December 2006",
+      "endDate": "August 5, 2025",
+      "formattedStartDate": "December 2006",
+      "formattedEndDate": "August 5, 2025"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/frank-schwitter-203b4716",
+      "person_name": "Frank Schwitter",
+      "company_name": "HEICO Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Finance Committee"
+  ],
+  "age": 88,
+  "ageYear": 2024
+}

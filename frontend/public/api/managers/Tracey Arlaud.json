@@ -1,0 +1,53 @@
+{
+  "id": "Tracey Arlaud",
+  "name": "Tracey Arlaud",
+  "background": "Ms. Arlaud is a mining engineer with over 25 years of experience in the mining industry. She is currently the CEO of I-80 Gold Corp.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Global Atomic Corporation",
+      "ticker": "GLO",
+      "exchange": "TSX",
+      "website": "https://globalatomiccorp.com",
+      "logoUrl": "/companies-assets/GLO.TSX.svg",
+      "title": "Director",
+      "startDate": "2021-06-01",
+      "endDate": null,
+      "formattedStartDate": "June 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Imdex Limited",
+      "ticker": "IMD",
+      "exchange": "ASX",
+      "website": "https://www.imdex.com/",
+      "logoUrl": "/companies-assets/IMD.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2021-02-11",
+      "endDate": null,
+      "formattedStartDate": "February 2021",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/trace-arlaud-2566a216",
+      "person_name": "Tracey Arlaud",
+      "company_name": "I-80 Gold Corp",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Technical Committee"
+  ],
+  "age": 53,
+  "ageYear": 2024
+}

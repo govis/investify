@@ -1,0 +1,63 @@
+{
+  "name": "Kathryn Jackson",
+  "first_name": "Kathryn",
+  "last_name": "Jackson",
+  "age": 65,
+  "age_year": 2023,
+  "background": "Kathryn Jackson is the former Senior Vice-President and Chief Technology Officer of RTI International Metals, Inc. She has a PhD in Engineering and Public Policy.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCO",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://www.cameco.com",
+      "start_date": "January 2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Portland General Electric Company",
+      "ticker": "POR",
+      "exchange": "NYSE",
+      "website": "https://www.portlandgeneral.com",
+      "title_or_role": "Director",
+      "start_date": "April 2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "EQT Corporation",
+      "ticker": "EQT",
+      "exchange": "NYSE",
+      "website": "https://www.eqt.com",
+      "title_or_role": "Director",
+      "start_date": "July 2019",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kkaysenjackson",
+      "person_name": "Kathryn Jackson",
+      "company_name": "Cameco Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Nominating, Corporate Governance and Risk Committee",
+    "Safety, Health, Environment, Quality and Technical Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

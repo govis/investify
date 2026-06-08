@@ -1,0 +1,62 @@
+{
+  "name": "Jose Alvarez",
+  "first_name": "Jose",
+  "last_name": "Alvarez",
+  "age": 61,
+  "age_year": 2024,
+  "background": "Jose B. Alvarez is a member of the faculty at Harvard Business School and former President and CEO of Stop & Shop/Giant-Landover.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "United Rentals, Inc.",
+      "ticker": "URI",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.unitedrentals.com",
+      "start_date": "2009",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The TJX Companies, Inc.",
+      "ticker": "TJX",
+      "exchange": "NYSE",
+      "website": "https://www.tjx.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Urban Edge Properties",
+      "ticker": "UE",
+      "exchange": "NYSE",
+      "website": "https://www.uedge.com",
+      "title_or_role": "Trustee (Board of Trustees)",
+      "start_date": "2015",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "GNC Holdings, Inc.",
+      "ticker": "GNC",
+      "exchange": "NYSE",
+      "website": "https://www.gnc.com",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": "2020",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Strategy Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

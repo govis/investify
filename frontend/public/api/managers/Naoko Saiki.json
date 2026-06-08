@@ -1,0 +1,42 @@
+{
+  "id": "Naoko Saiki",
+  "name": "Naoko Saiki",
+  "background": "Former Director-General of the Economic Affairs Bureau, Ministry of Foreign Affairs of Japan.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Komatsu Ltd.",
+      "ticker": "6301",
+      "exchange": "Tokyo Stock Exchange (TSE)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director (Outside Director)",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "INPEX CORPORATION",
+      "ticker": "1605",
+      "exchange": "Tokyo Stock Exchange (TSE)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Outside Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nomination Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

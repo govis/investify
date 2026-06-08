@@ -1,0 +1,51 @@
+{
+  "id": "Wayne Allan",
+  "name": "Wayne Allan",
+  "background": "Wayne Allan was appointed as Executive Vice President and Chief Strategic Sourcing & Procurement Officer in 2023. He joined ASML in 2018 and previously held senior management positions at Micron Technology.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "ASML Holding N.V.",
+      "ticker": "ASML",
+      "exchange": "NASDAQ",
+      "website": "https://www.asml.com",
+      "logoUrl": "/companies-assets/ASML.NASDAQ.svg",
+      "title": "Executive Vice President Customer Support",
+      "startDate": "2018-11",
+      "endDate": "2023-04",
+      "formattedStartDate": "November 2018",
+      "formattedEndDate": "April 2023"
+    },
+    {
+      "name": "Micron Technology, Inc.",
+      "ticker": "MU",
+      "exchange": "NASDAQ",
+      "website": "https://www.micron.com",
+      "logoUrl": "/companies-assets/MU.NASDAQ.svg",
+      "title": "Vice President of Wafer Fabs",
+      "startDate": null,
+      "endDate": "2018-11",
+      "formattedStartDate": "",
+      "formattedEndDate": "November 2018"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://nl.linkedin.com/in/wayne-allan",
+      "person_name": "Wayne Allan",
+      "company_name": "ASML",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 56,
+  "ageYear": 2024
+}

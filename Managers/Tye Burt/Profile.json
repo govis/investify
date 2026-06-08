@@ -1,0 +1,61 @@
+{
+  "name": "Tye Burt",
+  "first_name": "Tye",
+  "last_name": "Burt",
+  "age": 66,
+  "age_year": 2024,
+  "background": "Mr. Burt has over 30 years of experience in the global mining industry. He was President and CEO of Kinross Gold Corporation from 2005 to 2012 and has held senior roles at Barrick Gold and in investment banking.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "K92 Mining Inc.",
+      "ticker": "KNT",
+      "exchange": "TSX",
+      "title_or_role": "Chairman and Independent Director",
+      "website": "https://k92mining.com",
+      "start_date": "2020-05-01",
+      "end_date": null
+    },
+    {
+      "name": "Kinross Gold Corporation",
+      "ticker": "K",
+      "exchange": "TSX",
+      "website": "https://www.kinross.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2005-03",
+      "end_date": "2012-08",
+      "validated": true
+    },
+    {
+      "name": "ArcelorMittal",
+      "ticker": "MT",
+      "exchange": "NYSE",
+      "website": "https://corporate.arcelormittal.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2012-05",
+      "end_date": "2017-05",
+      "validated": true
+    },
+    {
+      "name": "Boart Longyear Limited",
+      "ticker": "BLY",
+      "exchange": "ASX",
+      "website": "https://www.boartlongyear.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2019-08",
+      "end_date": "2024-11",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "Gary Nagle",
+  "name": "Gary Nagle",
+  "background": "Gary Nagle joined Glencore in 2000 and was appointed Chief Executive Officer in July 2021. He has held various senior roles across the group, including CEO of Glencore's coal assets in Australia and head of the ferroalloys marketing business in Switzerland. He holds commerce and accounting degrees from the University of the Witwatersrand and is a Chartered Accountant in South Africa.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Glencore plc",
+      "ticker": "GLEN",
+      "exchange": "LSE",
+      "website": "https://www.glencore.com",
+      "logoUrl": "/companies-assets/GLEN.LSE.svg",
+      "title": "Chief Executive Officer and Director",
+      "startDate": "July 1, 2021",
+      "endDate": null,
+      "formattedStartDate": "July 1, 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Lonmin plc",
+      "ticker": "LMI",
+      "exchange": "LSE",
+      "website": "https://www.lonmin.com/",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Lonmin_logo.svg/1200px-Lonmin_logo.svg.png",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": "2015",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2015"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gary-nagle-4a5b2a12",
+      "person_name": "Gary Nagle",
+      "company_name": "Glencore",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 49,
+  "ageYear": 2024
+}

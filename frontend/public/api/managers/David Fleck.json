@@ -1,0 +1,53 @@
+{
+  "id": "David Fleck",
+  "name": "David Fleck",
+  "background": "Mr. Fleck is a seasoned executive with over 30 years of experience in the investment industry. He was formerly Co-CEO of BMO Capital Markets.",
+  "pictureUrl": "/managers-assets/David Fleck.jpg",
+  "companies": [
+    {
+      "name": "Alamos Gold Inc.",
+      "ticker": "AGI",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "March 2014",
+      "endDate": null,
+      "formattedStartDate": "March 2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Kew Media Group Inc.",
+      "ticker": "KEW",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "https://static.wikia.nocookie.net/logotimeline/images/3/3d/Kew_Media_Group.png",
+      "title": "Director",
+      "startDate": null,
+      "endDate": "February 2020",
+      "formattedStartDate": "",
+      "formattedEndDate": "February 2020"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/davidcfleck",
+      "person_name": "David Fleck",
+      "company_name": "Alamos Gold Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Human Resources and Compensation Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

@@ -1,0 +1,52 @@
+{
+  "id": "Kevin DeNuccio",
+  "name": "Kevin DeNuccio",
+  "background": "Mr. DeNuccio is the founder of Wild West Capital LLC and former CEO of Violin Memory.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Juniper Networks, Inc.",
+      "ticker": "JNPR",
+      "exchange": "NYSE",
+      "website": "https://www.juniper.net",
+      "logoUrl": "/companies-assets/JNPR.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "February 2014",
+      "endDate": null,
+      "formattedStartDate": "February 2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Calix, Inc.",
+      "ticker": "CALX",
+      "exchange": "NYSE",
+      "website": "https://www.calix.com",
+      "logoUrl": "/companies-assets/CALX.NYSE.png",
+      "title": "Member of the Board of Directors",
+      "startDate": "October 1, 2012",
+      "endDate": "May 12, 2022",
+      "formattedStartDate": "October 1, 2012",
+      "formattedEndDate": "May 12, 2022"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kevindenuccio",
+      "person_name": "Kevin DeNuccio",
+      "company_name": "Juniper Networks, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

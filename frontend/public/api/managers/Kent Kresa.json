@@ -1,0 +1,88 @@
+{
+  "id": "Kent Kresa",
+  "name": "Kent Kresa",
+  "background": "Mr. Kresa has served as a member of our Board since May 2022. He is the Chairman Emeritus of Northrop Grumman Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "website": "https://www.northropgrumman.com",
+      "logoUrl": "/companies-assets/NOC.NYSE.svg",
+      "title": "Chairman, CEO, President",
+      "startDate": "1987",
+      "endDate": "2003",
+      "formattedStartDate": "1987",
+      "formattedEndDate": "2003"
+    },
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "website": "https://www.gm.com",
+      "logoUrl": "/companies-assets/GM.NYSE.svg",
+      "title": "Chairman, Director",
+      "startDate": "~2003",
+      "endDate": "~2006",
+      "formattedStartDate": "~2003",
+      "formattedEndDate": "~2006"
+    },
+    {
+      "name": "Fluor Corporation",
+      "ticker": "FLR",
+      "exchange": "NYSE",
+      "website": "https://www.fluor.com",
+      "logoUrl": "/companies-assets/FLR.NYSE.svg",
+      "title": "Director",
+      "startDate": "~2003",
+      "endDate": "~2011",
+      "formattedStartDate": "~2003",
+      "formattedEndDate": "~2011"
+    },
+    {
+      "name": "Avery Dennison Corporation",
+      "ticker": "AVY",
+      "exchange": "NYSE",
+      "website": "averydennison.com",
+      "logoUrl": "/companies-assets/AVY.NYSE.svg",
+      "title": "Chairman, Director",
+      "startDate": "~1999",
+      "endDate": "~2014",
+      "formattedStartDate": "~1999",
+      "formattedEndDate": "~2014"
+    },
+    {
+      "name": "MannKind Corporation",
+      "ticker": "MNKD",
+      "exchange": "NASDAQ",
+      "website": "mannkindcorp.com",
+      "logoUrl": "/companies-assets/MNKD.NASDAQ.svg",
+      "title": "Director, Chairman",
+      "startDate": "2004",
+      "endDate": "2020",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2020"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kent-kresa-6781b28",
+      "person_name": "Kent Kresa",
+      "company_name": "Northrop Grumman Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 86,
+  "ageYear": 2024
+}

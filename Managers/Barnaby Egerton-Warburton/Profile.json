@@ -1,0 +1,94 @@
+{
+  "name": "Barnaby Egerton-Warburton",
+  "first_name": "Barnaby",
+  "last_name": "Egerton-Warburton",
+  "age": null,
+  "age_year": null,
+  "background": "Mr. Egerton-Warburton has over 25 years of experience in investment banking, international investment, and market experience. He has held positions at various investment banks including JP Morgan and BNP Paribas.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Oreterra Limited",
+      "ticker": "ORE",
+      "exchange": "ASX",
+      "title_or_role": "Director",
+      "website": "https://oreterra.com.au",
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Arizona Lithium Limited",
+      "ticker": "AZL",
+      "exchange": "ASX",
+      "website": "https://arizonalithium.com",
+      "title_or_role": "Chairman",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lord Resources Limited",
+      "ticker": "LRD",
+      "exchange": "ASX",
+      "website": "https://lordresources.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Pantera Minerals Limited",
+      "ticker": "PFE",
+      "exchange": "ASX",
+      "website": "https://panterali.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NSX Limited",
+      "ticker": "NSX",
+      "exchange": "ASX",
+      "website": "https://www.nsx.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hawkstone Mining Limited",
+      "ticker": "HWK",
+      "exchange": "ASX",
+      "website": "https://arizonalithium.com",
+      "title_or_role": "Non-Executive Chair",
+      "start_date": "2019",
+      "end_date": "2021",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/barnaby-egerton-warburton-a2922914/",
+      "person_name": "Barnaby Egerton-Warburton",
+      "company_name": "Oreterra Limited, Arizona Lithium Limited, Lord Resources Limited, Pantera Minerals Limited, NSX Limited, Hawkstone Mining Limited",
+      "profile_status": "not_found",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

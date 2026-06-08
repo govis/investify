@@ -1,0 +1,50 @@
+{
+  "name": "Michelle O\u2019Hara",
+  "first_name": "Michelle",
+  "last_name": "O\u2019Hara",
+  "age": 49,
+  "age_year": 2024,
+  "background": "Ms. O\u2019Hara has served as our Executive Vice President and Chief Human Resources Officer since October 2019. She joined SAIC in 2009 and has held various leadership roles in human resources.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Science Applications International Corporation",
+      "ticker": "SAIC",
+      "exchange": "NYSE",
+      "title_or_role": "Chief Human Resources Officer",
+      "website": "https://www.saic.com",
+      "start_date": "2019-10-01",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Humana Inc.",
+      "ticker": "HUM",
+      "exchange": "NYSE",
+      "website": "https://www.humana.com",
+      "title_or_role": "Chief Human Resources Officer",
+      "start_date": "2025-01-01",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michelle-o-hara-9449aa",
+      "person_name": "Michelle O'Hara",
+      "company_name": "Science Applications International Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

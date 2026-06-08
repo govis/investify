@@ -1,0 +1,42 @@
+{
+  "id": "Mark Smith",
+  "name": "Mark Smith",
+  "background": "Mr. Smith is a professional engineer with over 35 years of experience in the mining industry. He has served as CEO and Director of several public companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cabral Gold Inc.",
+      "ticker": "CBR",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Chairman",
+      "startDate": "2018-05-07",
+      "endDate": "2024-06-26",
+      "formattedStartDate": "May 2018",
+      "formattedEndDate": "June 2024"
+    },
+    {
+      "name": "Nortec Minerals Corp.",
+      "ticker": "NWT",
+      "exchange": "TSXV",
+      "website": "https://nortecminerals.com/",
+      "logoUrl": "/companies-assets/NWT.TSXV.png",
+      "title": "Independent Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

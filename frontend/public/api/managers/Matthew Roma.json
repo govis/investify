@@ -1,0 +1,38 @@
+{
+  "id": "Matthew Roma",
+  "name": "Matthew Roma",
+  "background": "Mr. Roma is a Chartered Professional Accountant (CPA) with over 10 years of experience in financial reporting and corporate finance. He has served as CFO for several publicly traded companies in the resource sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Golden Cross Resources Inc.",
+      "ticker": "AUX",
+      "exchange": "TSXV",
+      "website": "https://auxresources.com/",
+      "logoUrl": "/companies-assets/_AUX.TSXV.svg",
+      "title": "CEO",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/matthew-roma-38b33147",
+      "person_name": "Matthew Roma",
+      "company_name": "Snowline Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 36,
+  "ageYear": 2024
+}

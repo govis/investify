@@ -1,0 +1,83 @@
+{
+  "name": "Moshe Gavrielov",
+  "first_name": "Moshe",
+  "last_name": "Gavrielov",
+  "age": 69,
+  "age_year": 2024,
+  "background": "Moshe Gavrielov is an Independent Director. He was the President and CEO of Xilinx, Inc. from 2008 to 2018. He has over 40 years of experience in the semiconductor industry, including roles at Cadence Design Systems and LSI Logic.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Taiwan Semiconductor Manufacturing Company Limited",
+      "ticker": "TSM",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.tsmc.com",
+      "start_date": "2018-06-05",
+      "end_date": null
+    },
+    {
+      "name": "Xilinx, Inc.",
+      "ticker": "XLNX",
+      "exchange": "NASDAQ",
+      "website": "www.xilinx.com",
+      "title_or_role": "President and CEO",
+      "start_date": "2008",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Verisity, Ltd.",
+      "ticker": "VRST",
+      "exchange": "NASDAQ",
+      "website": "www.verisity.com",
+      "title_or_role": "CEO",
+      "start_date": "1998",
+      "end_date": "2005",
+      "validated": true
+    },
+    {
+      "name": "Cadence Design Systems, Inc.",
+      "ticker": "CDNS",
+      "exchange": "NASDAQ",
+      "website": "www.cadence.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2025-01-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Taiwan Semiconductor Manufacturing Company Limited (TSMC)",
+      "ticker": "TSM",
+      "exchange": "NYSE",
+      "website": "www.tsmc.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/moshe-gavrielov-401b28",
+      "person_name": "Moshe Gavrielov",
+      "company_name": "Taiwan Semiconductor Manufacturing Company Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

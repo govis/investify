@@ -1,0 +1,66 @@
+{
+  "id": "Takeshi Kunibe",
+  "name": "Takeshi Kunibe",
+  "background": "Chairman of the Board of Sumitomo Mitsui Financial Group, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Komatsu Ltd.",
+      "ticker": "KMTUY",
+      "exchange": "OTC",
+      "website": "https://www.komatsu.jp",
+      "logoUrl": "/companies-assets/KMTUY.OTC.svg",
+      "title": "External Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Fast Retailing Co., Ltd.",
+      "ticker": "FRCOY",
+      "exchange": "OTC",
+      "website": "https://www.fastretailing.com/",
+      "logoUrl": "/companies-assets/FRCOY.OTC.svg",
+      "title": "External Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sumitomo Mitsui Financial Group, Inc.",
+      "ticker": "SMFG",
+      "exchange": "NYSE",
+      "website": "https://www.smfg.co.jp/",
+      "logoUrl": "/companies-assets/SMFG.NYSE.svg",
+      "title": "Special Advisor (formerly President & CEO of Sumitomo Mitsui Banking Corporation)",
+      "startDate": "2011",
+      "endDate": null,
+      "formattedStartDate": "2011",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Taisho Pharmaceutical Holdings Co., Ltd.",
+      "ticker": "4581",
+      "exchange": "OTC",
+      "website": "https://www.taisho.co.jp/",
+      "logoUrl": "/companies-assets/4581.OTC.png",
+      "title": "External Director",
+      "startDate": "2019",
+      "endDate": "2024",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2024"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nomination Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

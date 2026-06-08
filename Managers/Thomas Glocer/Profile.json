@@ -1,0 +1,73 @@
+{
+  "name": "Thomas Glocer",
+  "first_name": "Thomas",
+  "last_name": "Glocer",
+  "age": 64,
+  "age_year": 2024,
+  "background": "Former CEO of Thomson Reuters Corporation.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Morgan Stanley",
+      "ticker": "MS",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Lead Director",
+      "website": "https://www.morganstanley.com",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Merck & Co., Inc.",
+      "ticker": "MRK",
+      "exchange": "NYSE",
+      "website": "https://www.merck.com",
+      "title_or_role": "Director",
+      "start_date": "2007",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Publicis Groupe",
+      "ticker": "PUB",
+      "exchange": "Euronext Paris",
+      "website": "https://www.publicisgroupe.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Thomson Reuters Corporation",
+      "ticker": "TRI",
+      "exchange": "NYSE / TSX",
+      "website": "https://www.thomsonreuters.com",
+      "title_or_role": "Chief Executive Officer and Director",
+      "start_date": "2008",
+      "end_date": "2011",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/tom-glocer-66729",
+      "person_name": "Thomas Glocer",
+      "company_name": "Thomson Reuters Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Nominating and Governance Committee",
+    "Operations and Technology Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

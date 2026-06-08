@@ -1,0 +1,53 @@
+{
+  "id": "Tamra Erwin",
+  "name": "Tamra Erwin",
+  "background": "Former Executive Vice President and CEO of Verizon Business.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Deere & Company",
+      "ticker": "DE",
+      "exchange": "NYSE",
+      "website": "https://www.deere.com",
+      "logoUrl": "/companies-assets/DE.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "May 2020",
+      "endDate": null,
+      "formattedStartDate": "May 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Verizon Communications Inc.",
+      "ticker": "VZ",
+      "exchange": "NYSE",
+      "website": "https://www.verizon.com",
+      "logoUrl": "/companies-assets/VZ.NYSE.svg",
+      "title": "Executive Vice President and CEO of Verizon Business",
+      "startDate": "2019",
+      "endDate": "2022",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2022"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/tamierwin",
+      "person_name": "Tami Erwin",
+      "company_name": "Verizon",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Finance Committee"
+  ],
+  "age": 55,
+  "ageYear": 2024
+}

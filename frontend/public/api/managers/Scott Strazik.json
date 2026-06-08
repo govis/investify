@@ -1,0 +1,50 @@
+{
+  "id": "Scott Strazik",
+  "name": "Scott Strazik",
+  "background": "Scott Strazik is the Chief Executive Officer of GE Vernova. He has more than 20 years of operations and leadership experience. Prior to his current role, he served as CEO of GE’s Gas Power business and later as CEO of GE’s Power portfolio. He joined GE in 2000 and has held various leadership roles in finance, operations, and general management.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "GE Vernova Inc.",
+      "ticker": "GEV",
+      "exchange": "NYSE",
+      "website": "https://www.gevernova.com",
+      "logoUrl": "/companies-assets/GEV.NYSE.svg",
+      "title": "Chief Executive Officer and President",
+      "startDate": "November 2021",
+      "endDate": null,
+      "formattedStartDate": "November 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "General Electric Company",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "website": "https://www.geaerospace.com",
+      "logoUrl": "/companies-assets/GE.NYSE.svg",
+      "title": "CEO of GE Power (including Gas Power)",
+      "startDate": "2018",
+      "endDate": "April 2024",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "April 2024"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/scott-strazik",
+      "person_name": "Scott Strazik",
+      "company_name": "GE Vernova",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 44,
+  "ageYear": 2024
+}

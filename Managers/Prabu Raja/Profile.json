@@ -1,0 +1,41 @@
+{
+  "name": "Prabu Raja",
+  "first_name": "Prabu",
+  "last_name": "Raja",
+  "age": 54,
+  "age_year": 2024,
+  "background": "Dr. Prabu Raja is President of the Semiconductor Products Group. He has been with Applied Materials since 1995 and has held numerous leadership positions in the semiconductor business units.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Applied Materials, Inc.",
+      "ticker": "AMAT",
+      "exchange": "NASDAQ",
+      "title_or_role": "Senior Vice President, Semiconductor Products Group",
+      "website": "https://www.appliedmaterials.com",
+      "start_date": "Not publicly disclosed",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/prabu-raja-1537885",
+      "person_name": "Prabu Raja",
+      "company_name": "Applied Materials",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

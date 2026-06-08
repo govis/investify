@@ -1,0 +1,30 @@
+{
+  "id": "J.D. Hole",
+  "name": "J.D. Hole",
+  "background": "Mr. Hole was the Chairman of Lockerbie & Hole Inc. prior to its acquisition by Aecon in 2009. He has extensive experience in the industrial construction sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Aecon Group Inc.",
+      "ticker": "ARE",
+      "exchange": "TSX",
+      "website": "https://www.aecon.com",
+      "logoUrl": "/companies-assets/ARE.TSX.svg",
+      "title": "Director",
+      "startDate": "2007",
+      "endDate": null,
+      "formattedStartDate": "2007",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Environmental, Health and Safety Committee",
+    "Management Resources and Compensation Committee"
+  ],
+  "age": 78,
+  "ageYear": 2024
+}

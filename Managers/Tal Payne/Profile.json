@@ -1,0 +1,72 @@
+{
+  "name": "Tal Payne",
+  "first_name": "Tal",
+  "last_name": "Payne",
+  "age": 52,
+  "age_year": 2024,
+  "background": "Ms. Payne has served as a director since 2015. She is the Chief Financial and Operations Officer of Check Point Software Technologies Ltd.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "SolarEdge Technologies, Inc.",
+      "ticker": "SEDG",
+      "exchange": "NASDAQ",
+      "title_or_role": "Member of the Board of Directors",
+      "website": "https://www.solaredge.com/",
+      "start_date": "2015-03",
+      "end_date": "2024-11-05",
+      "validated": true
+    },
+    {
+      "name": "Check Point Software Technologies Ltd.",
+      "ticker": "CHKP",
+      "exchange": "NASDAQ",
+      "website": "https://www.checkpoint.com/",
+      "title_or_role": "Chief Financial Officer (CFO) and Chief Operating Officer (COO)",
+      "start_date": "2008",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "ironSource Ltd.",
+      "ticker": "IS",
+      "exchange": "NYSE",
+      "website": "https://www.is.com/",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2021-02",
+      "end_date": "2022-11",
+      "validated": true
+    },
+    {
+      "name": "Gilat Satellite Networks Ltd.",
+      "ticker": "GILT",
+      "exchange": "NASDAQ",
+      "website": "https://www.gilat.com/",
+      "title_or_role": "Chief Financial Officer (CFO)",
+      "start_date": "2003",
+      "end_date": "2008",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://il.linkedin.com/in/tal-payne-83241054",
+      "person_name": "Tal Payne",
+      "company_name": "Check Point Software Technologies Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

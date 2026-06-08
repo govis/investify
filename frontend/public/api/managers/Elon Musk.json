@@ -1,0 +1,40 @@
+{
+  "id": "Elon Musk",
+  "name": "Elon Musk",
+  "background": "Elon Musk has served as our Chief Executive Officer since October 2008 and as a member of the Board since April 2004. He is also the founder and CEO of SpaceX, and the owner and executive chairman of X (formerly Twitter).",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Tesla, Inc.",
+      "ticker": "TSLA",
+      "exchange": "NASDAQ",
+      "website": "https://www.tesla.com",
+      "logoUrl": "/companies-assets/TSLA.NASDAQ.svg",
+      "title": "Chief Executive Officer (CEO) and Director",
+      "startDate": "April 2004",
+      "endDate": null,
+      "formattedStartDate": "April 2004",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "PayPal Holdings, Inc.",
+      "ticker": "PYPL",
+      "exchange": "NASDAQ",
+      "website": "https://www.paypal.com",
+      "logoUrl": "/companies-assets/PYPL.NASDAQ.svg",
+      "title": "CEO (of X.com/PayPal)",
+      "startDate": "1999",
+      "endDate": "October 2000",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "October 2000"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 52,
+  "ageYear": 2024
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Sabastian Niles",
+  "name": "Sabastian Niles",
+  "background": "Sabastian Niles is President and Chief Legal Officer of Salesforce. He joined the company in 2023 from Wachtell, Lipton, Rosen & Katz, where he was a partner.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Salesforce, Inc.",
+      "ticker": "CRM",
+      "exchange": "NYSE",
+      "website": "https://www.salesforce.com",
+      "logoUrl": "/companies-assets/CRM.NYSE.svg",
+      "title": "President and Chief Legal Officer",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 44,
+  "ageYear": 2024
+}

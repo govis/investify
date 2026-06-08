@@ -1,0 +1,50 @@
+{
+  "id": "Kurt Scheuermann",
+  "name": "Kurt Scheuermann",
+  "background": "Kurt J. Scheuermann has served as our Chief Financial Officer since December 2023. Prior to that, he served as our Interim Chief Financial Officer from October 2023 to December 2023 and as our Vice President, General Counsel and Secretary since October 2020. Before joining Array, Mr. Scheuermann was a partner at the law firm of Kirkland & Ellis LLP.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Inseego Corp.",
+      "ticker": "INSG",
+      "exchange": "NASDAQ",
+      "website": "https://www.inseego.com",
+      "logoUrl": "/companies-assets/INSG.NASDAQ.svg",
+      "title": "SVP and General Counsel",
+      "startDate": "February 2020",
+      "endDate": null,
+      "formattedStartDate": "February 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Lantronix, Inc.",
+      "ticker": "LTRX",
+      "exchange": "NASDAQ",
+      "website": "https://www.lantronix.com",
+      "logoUrl": "/companies-assets/LTRX.NASDAQ.svg",
+      "title": "VP and General Counsel",
+      "startDate": "~2015",
+      "endDate": "~2017",
+      "formattedStartDate": "~2015",
+      "formattedEndDate": "~2017"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kurtscheuerman",
+      "person_name": "Kurt Scheuermann",
+      "company_name": "Array Technologies, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 51,
+  "ageYear": 2024
+}

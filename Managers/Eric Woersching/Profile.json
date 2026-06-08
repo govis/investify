@@ -1,0 +1,54 @@
+{
+  "name": "Eric Woersching",
+  "first_name": "Eric",
+  "last_name": "Woersching",
+  "age": 51,
+  "age_year": 2024,
+  "background": "Mr. Woersching has served as a member of our Board since 2020. He is the Managing Partner of Evolute Capital and was previously a Portfolio Manager at Thiel Macro, LLC. Mr. Woersching holds a B.S. and M.S. in Electrical Engineering from Stanford University.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Palantir Technologies Inc.",
+      "ticker": "PLTR",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.palantir.com",
+      "start_date": "2022-06-06",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Blend Labs, Inc.",
+      "ticker": "BLND",
+      "exchange": "NYSE",
+      "website": "https://blend.com",
+      "title_or_role": "Director",
+      "start_date": "2024-06-01",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/eric-woersching-717a043",
+      "person_name": "Eric Woersching",
+      "company_name": "Evolute Capital",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

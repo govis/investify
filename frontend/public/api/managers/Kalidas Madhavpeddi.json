@@ -1,0 +1,80 @@
+{
+  "id": "Kalidas Madhavpeddi",
+  "name": "Kalidas Madhavpeddi",
+  "background": "Kalidas Madhavpeddi was appointed Chairman in July 2021. He has over 40 years of experience in the international mining industry, including as CEO of China Molybdenum International. He holds degrees from the Indian Institute of Technology and the University of Iowa.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Dundee Precious Metals Inc.",
+      "ticker": "DPM",
+      "exchange": "TSX",
+      "website": "https://www.dundeeprecious.com",
+      "logoUrl": "/companies-assets/DPM.TSX.svg",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Trilogy Metals Inc.",
+      "ticker": "TMQ",
+      "exchange": "TSX / NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Capstone Copper Corp.",
+      "ticker": "CS",
+      "exchange": "TSX",
+      "website": "https://capstonecopper.com",
+      "logoUrl": "/companies-assets/CS.TSX.svg",
+      "title": "Independent Director",
+      "startDate": null,
+      "endDate": "2022",
+      "formattedStartDate": "",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Namibia Critical Metals Inc.",
+      "ticker": "NMI",
+      "exchange": "TSXV",
+      "website": "https://namibiacriticalmetals.com",
+      "logoUrl": "/companies-assets/NMI.TSXV.svg",
+      "title": "Chairman",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kalidas-madhavpeddi-828a8746",
+      "person_name": "Kalidas Madhavpeddi",
+      "company_name": "Glencore",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee",
+    "Nomination Committee (Chair)"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

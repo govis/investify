@@ -1,0 +1,66 @@
+{
+  "id": "Charles Scharf",
+  "name": "Charles Scharf",
+  "background": "CEO and President of Wells Fargo & Company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "https://www.microsoft.com",
+      "logoUrl": "/companies-assets/MSFT.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2021-09",
+      "endDate": null,
+      "formattedStartDate": "September 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Wells Fargo & Company",
+      "ticker": "WFC",
+      "exchange": "NYSE",
+      "website": "wellsfargo.com",
+      "logoUrl": "/companies-assets/WFC.NYSE.svg",
+      "title": "Chairman and CEO",
+      "startDate": "2019-10",
+      "endDate": null,
+      "formattedStartDate": "October 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "The Bank of New York Mellon Corporation",
+      "ticker": "BK",
+      "exchange": "NYSE",
+      "website": "bnymellon.com",
+      "logoUrl": "/companies-assets/BK.NYSE.png",
+      "title": "Chairman",
+      "startDate": "2018-01",
+      "endDate": "2019-09",
+      "formattedStartDate": "January 2018",
+      "formattedEndDate": "September 2019"
+    },
+    {
+      "name": "Visa Inc.",
+      "ticker": "V",
+      "exchange": "NYSE",
+      "website": "visa.com",
+      "logoUrl": "/companies-assets/V.NYSE.svg",
+      "title": "CEO",
+      "startDate": "2012-11",
+      "endDate": "2016-12",
+      "formattedStartDate": "November 2012",
+      "formattedEndDate": "December 2016"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 59,
+  "ageYear": 2024
+}

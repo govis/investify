@@ -1,0 +1,80 @@
+{
+  "id": "Thomas Schoewe",
+  "name": "Thomas Schoewe",
+  "background": "Former Executive Vice President and CFO of Walmart Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "website": "https://www.gm.com",
+      "logoUrl": "/companies-assets/GM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2011",
+      "endDate": null,
+      "formattedStartDate": "2011",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "website": "https://www.northropgrumman.com",
+      "logoUrl": "/companies-assets/NOC.NYSE.svg",
+      "title": "Director",
+      "startDate": "2011",
+      "endDate": null,
+      "formattedStartDate": "2011",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Walmart Inc.",
+      "ticker": "WMT",
+      "exchange": "NYSE",
+      "website": "walmart.com",
+      "logoUrl": "/companies-assets/WMT.NYSE.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2000",
+      "endDate": "2011",
+      "formattedStartDate": "2000",
+      "formattedEndDate": "2011"
+    },
+    {
+      "name": "The Black & Decker Corporation",
+      "ticker": "BDK",
+      "exchange": "NYSE",
+      "website": "https://www.blackanddecker.com",
+      "logoUrl": "/companies-assets/BDK.NYSE.svg",
+      "title": "Senior Vice President and Chief Financial Officer",
+      "startDate": "Prior to 2000",
+      "endDate": "2000",
+      "formattedStartDate": "Prior to 2000",
+      "formattedEndDate": "2000"
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/tomschoewecpa",
+      "person_name": "Thomas Schoewe",
+      "company_name": "Walmart Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation and Management Development Committee",
+    "Finance Committee"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

@@ -1,0 +1,51 @@
+{
+  "id": "Matthew Salthouse",
+  "name": "Matthew Salthouse",
+  "background": "Mr. Salthouse is an experienced mining executive with over 25 years of experience in the resources sector. He has held senior roles in corporate finance, commercial, and business development with several ASX-listed companies, including roles at Gindalbie Metals and Karara Mining.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Oreterra Limited",
+      "ticker": "ORE",
+      "exchange": "ASX",
+      "website": "https://oreterra.com.au",
+      "logoUrl": "/companies-assets/ORE.ASX.svg",
+      "title": "Director",
+      "startDate": "2007",
+      "endDate": "2010",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2010"
+    },
+    {
+      "name": "Kainantu Resources Ltd.",
+      "ticker": "KRL",
+      "exchange": "TSXV",
+      "website": "https://kainanturesources.com/",
+      "logoUrl": "/companies-assets/KRL.TSXV.jpg",
+      "title": "Chief Executive Officer (CEO)",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://sg.linkedin.com/in/matthew-salthouse-19134048",
+      "person_name": "Matthew Salthouse",
+      "company_name": "Kainantu Resources Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

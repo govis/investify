@@ -1,0 +1,78 @@
+{
+  "id": "Chantal Gosselin",
+  "name": "Chantal Gosselin",
+  "background": "Ms. Gosselin is a corporate director with over 25 years of experience in the mining industry and financial services.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Wheaton Precious Metals Corp.",
+      "ticker": "WPM",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Pan American Silver Corp.",
+      "ticker": "PAAS",
+      "exchange": "TSX",
+      "website": "https://www.panamericansilver.com",
+      "logoUrl": "/companies-assets/PAAS.TSX.svg",
+      "title": "Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Prime Mining Corp.",
+      "ticker": "PRYM",
+      "exchange": "TSX",
+      "website": "https://www.primeminingcorp.ca",
+      "logoUrl": "/companies-assets/PRYM.TSX.svg",
+      "title": "Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Ero Copper Corp.",
+      "ticker": "ERO",
+      "exchange": "TSX",
+      "website": "https://www.erocopper.com",
+      "logoUrl": "/companies-assets/ERO.TSX.svg",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Lundin Gold Inc.",
+      "ticker": "LUG",
+      "exchange": "TSX",
+      "website": "https://lundingold.com",
+      "logoUrl": "/companies-assets/LUG.TSX.svg",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Sustainability Committee"
+  ],
+  "age": 56,
+  "ageYear": 2024
+}

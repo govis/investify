@@ -1,0 +1,77 @@
+{
+  "id": "George Culmer",
+  "name": "George Culmer",
+  "background": "George Culmer joined the Board in 2020. He was previously CFO of Lloyds Banking Group and RSA Insurance Group. He is also Chair of Aviva plc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Rolls-Royce Holdings plc",
+      "ticker": "RR",
+      "exchange": "LSE",
+      "website": "https://www.rolls-royce.com",
+      "logoUrl": "/companies-assets/RR.LSE.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2020-01-01",
+      "endDate": null,
+      "formattedStartDate": "January 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Aviva plc",
+      "ticker": "AV",
+      "exchange": "LSE",
+      "website": "https://www.aviva.com",
+      "logoUrl": "/companies-assets/AV.LSE.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2019-09-25",
+      "endDate": null,
+      "formattedStartDate": "September 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Lloyds Banking Group plc",
+      "ticker": "LLOY",
+      "exchange": "LSE",
+      "website": "https://www.lloydsbankinggroup.com",
+      "logoUrl": "/companies-assets/LLOY.LSE.svg",
+      "title": "Chief Financial Officer / Executive Director",
+      "startDate": "2012-05-16",
+      "endDate": "2019-08-22",
+      "formattedStartDate": "May 2012",
+      "formattedEndDate": "August 2019"
+    },
+    {
+      "name": "RSA Insurance Group plc",
+      "ticker": "RSA",
+      "exchange": "LSE",
+      "website": "https://www.rsagroup.com",
+      "logoUrl": "/companies-assets/RSA.LSE.svg",
+      "title": "Chief Financial Officer / Executive Director",
+      "startDate": "2004-05-01",
+      "endDate": "2012-05-16",
+      "formattedStartDate": "May 2004",
+      "formattedEndDate": "May 2012"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/george-culmer-466154a2",
+      "person_name": "George Culmer",
+      "company_name": "Aviva plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Nominations & Governance Committee"
+  ],
+  "age": 61,
+  "ageYear": 2023
+}

@@ -1,0 +1,51 @@
+{
+  "id": "Shyam Sankar",
+  "name": "Shyam Sankar",
+  "background": "Mr. Sankar has served as our Chief Technology Officer since 2022. He previously served as our Chief Operating Officer from 2010 to 2022. Mr. Sankar joined Palantir in 2006. Mr. Sankar holds a B.S. in Electrical and Computer Engineering from Cornell University and an M.S. in Management Science and Engineering from Stanford University.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Palantir Technologies Inc.",
+      "ticker": "PLTR",
+      "exchange": "NYSE",
+      "website": "https://www.palantir.com",
+      "logoUrl": "/companies-assets/PLTR.NYSE.svg",
+      "title": "Chief Technology Officer (CTO)",
+      "startDate": "2006",
+      "endDate": null,
+      "formattedStartDate": "2006",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Ginkgo Bioworks Holdings, Inc.",
+      "ticker": "DNA",
+      "exchange": "NYSE",
+      "website": "https://www.ginkgobioworks.com",
+      "logoUrl": "/companies-assets/DNA.NYSE.svg",
+      "title": "Director (Chair of the Board)",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/shyamsankar",
+      "person_name": "Shyam Sankar",
+      "company_name": "Palantir Technologies",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 42,
+  "ageYear": 2024
+}

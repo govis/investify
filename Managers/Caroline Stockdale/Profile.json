@@ -1,0 +1,41 @@
+{
+  "name": "Caroline Stockdale",
+  "first_name": "Caroline",
+  "last_name": "Stockdale",
+  "age": 61,
+  "age_year": 2024,
+  "background": "Ms. Stockdale has served as our Chief Human Resources Officer since 2017. She has extensive experience in HR leadership across various industries.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "First Solar, Inc.",
+      "ticker": "FSLR",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chief People & Communications Officer (formerly Executive Vice President, Human Resources and Communications)",
+      "website": "https://www.firstsolar.com",
+      "start_date": "October 2019",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/caroline-stockdale-7a5a5a1",
+      "person_name": "Caroline Stockdale",
+      "company_name": "First Solar, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

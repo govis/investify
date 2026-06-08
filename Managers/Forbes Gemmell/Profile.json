@@ -1,0 +1,60 @@
+{
+  "name": "Forbes Gemmell",
+  "first_name": "Forbes",
+  "last_name": "Gemmell",
+  "age": 42,
+  "age_year": 2024,
+  "background": "Mr. Gemmell has over 15 years of experience in the capital markets and mining industry. He previously served as Vice President, Corporate Development and Investor Relations at Discovery Silver. Prior to joining the company, he worked in equity research and investment banking focused on the mining sector.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Discovery Silver Corp.",
+      "ticker": "DSV",
+      "exchange": "TSX",
+      "title_or_role": "VP, Corporate Development",
+      "website": "https://discoverysilver.com/",
+      "start_date": "2020-01",
+      "end_date": "2025-06",
+      "validated": true
+    },
+    {
+      "name": "Guyana Goldfields Inc.",
+      "ticker": "GUY",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Corporate Development",
+      "start_date": "Prior to 2020",
+      "end_date": "Prior to 2020",
+      "validated": true
+    },
+    {
+      "name": "Lago Dourado Minerals Ltd.",
+      "ticker": "LDM",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Corporate Development",
+      "start_date": "Prior to 2020",
+      "end_date": "Prior to 2020",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/forbes-gemmell-cfa-9484a42b",
+      "person_name": "Forbes Gemmell",
+      "company_name": "Discovery Silver Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

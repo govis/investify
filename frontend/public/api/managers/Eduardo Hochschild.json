@@ -1,0 +1,62 @@
+{
+  "id": "Eduardo Hochschild",
+  "name": "Eduardo Hochschild",
+  "background": "Chairman of Hochschild Mining PLC and a prominent figure in the Latin American mining sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Aclara Resources Inc.",
+      "ticker": "ARA",
+      "exchange": "TSX",
+      "website": "https://www.aclara.com",
+      "logoUrl": "/companies-assets/ARA.TSX.svg",
+      "title": "Chairman of the Board",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Hochschild Mining PLC",
+      "ticker": "HOC",
+      "exchange": "LSE",
+      "website": "https://www.hochschildmining.com/",
+      "logoUrl": "/companies-assets/HOC.LSE.svg",
+      "title": "Chairman",
+      "startDate": "1987",
+      "endDate": null,
+      "formattedStartDate": "1987",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cementos Pacasmayo S.A.A.",
+      "ticker": "CPAC",
+      "exchange": "NYSE",
+      "website": "https://www.cementospacasmayo.com.pe/",
+      "logoUrl": "/companies-assets/CPAC.NYSE.webp",
+      "title": "Chairman of the Board",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://pe.linkedin.com/in/eduardo-hochschild-51285194",
+      "person_name": "Eduardo Hochschild",
+      "company_name": "Hochschild Mining",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 60,
+  "ageYear": 2024
+}

@@ -1,0 +1,93 @@
+{
+  "name": "Mark Blinn",
+  "first_name": "Mark",
+  "last_name": "Blinn",
+  "age": 62,
+  "age_year": 2024,
+  "background": "Former President and CEO of Flowserve Corporation.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Texas Instruments Incorporated",
+      "ticker": "TXN",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.ti.com",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Flowserve Corporation",
+      "ticker": "FLS",
+      "exchange": "NYSE",
+      "website": "https://www.flowserve.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2004-10",
+      "end_date": "2009-10",
+      "validated": true
+    },
+    {
+      "name": "Emerson Electric Co.",
+      "ticker": "EMR",
+      "exchange": "NYSE",
+      "website": "https://www.emerson.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2019-11-05",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Globe Life Inc.",
+      "ticker": "GL",
+      "exchange": "NYSE",
+      "website": "https://www.globelifeinsurance.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Leggett & Platt, Incorporated",
+      "ticker": "LEG",
+      "exchange": "NYSE",
+      "website": "https://www.leggett.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kraton Corporation",
+      "ticker": "KRA",
+      "exchange": "NYSE",
+      "website": "https://www.kraton.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2022",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/markblinn",
+      "person_name": "Mark Blinn",
+      "company_name": "Flowserve Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Governance and Stockholder Relations Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "Rodney Cooper",
+  "name": "Rodney Cooper",
+  "background": "Mr. Cooper is a mining engineer with over 35 years of experience in operations, project management, and corporate development. He was previously COO of Kinross Gold.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cabral Gold Inc.",
+      "ticker": "CBR",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Electric Royalties Ltd.",
+      "ticker": "ELEC",
+      "exchange": "TSXV",
+      "website": "https://www.electricroyalties.com",
+      "logoUrl": "/companies-assets/ELEC.TSXV.png",
+      "title": "Technical Advisor",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Labrador Iron Mines Holdings Ltd.",
+      "ticker": "LIM",
+      "exchange": "TSX",
+      "website": "http://www.labradorironmines.ca",
+      "logoUrl": "/companies-assets/LIM.TSX.svg",
+      "title": "Chief Operating Officer (COO)",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

@@ -1,0 +1,50 @@
+{
+  "id": "Michael Sparks",
+  "name": "Michael Sparks",
+  "background": "Mr. Sparks was appointed Executive Vice President, Chief Legal and Administrative Officer and Secretary in 2020. He previously served as Chief Legal Officer at Alacer Gold.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "SSR Mining Inc.",
+      "ticker": "SSRM",
+      "exchange": "TSX / NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Vice President, Chief Financial Officer, Secretary",
+      "startDate": "September 2020",
+      "endDate": null,
+      "formattedStartDate": "September 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Alacer Gold Corp.",
+      "ticker": "AQG",
+      "exchange": "ASX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Legal Officer & Secretary",
+      "startDate": "2012",
+      "endDate": "2020",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2020"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michaeljsparks",
+      "person_name": "Michael Sparks",
+      "company_name": "SSR Mining Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 44,
+  "ageYear": 2024
+}

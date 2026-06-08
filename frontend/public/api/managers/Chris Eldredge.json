@@ -1,0 +1,27 @@
+{
+  "id": "Chris Eldredge",
+  "name": "Chris Eldredge",
+  "background": "Mr. Eldredge has served as our Executive Vice President, Chief Customer Officer since January 2024. He previously served as Senior Vice President, Customer Operations.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "DuPont Fabros Technology, Inc.",
+      "ticker": "DFT",
+      "exchange": "NYSE",
+      "website": "https://www.dft.com/",
+      "logoUrl": "/companies-assets/DFT.NYSE.svg",
+      "title": "President and Chief Executive Officer",
+      "startDate": "2015-03-02",
+      "endDate": "2017-09-14",
+      "formattedStartDate": "March 2015",
+      "formattedEndDate": "September 2017"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 51,
+  "ageYear": 2024
+}

@@ -1,0 +1,54 @@
+{
+  "id": "Jane Griffiths",
+  "name": "Jane Griffiths",
+  "background": "Jane had a long career at Johnson & Johnson, including as Company Group Chairman of Janssen EMEA. She brings expertise in highly regulated global industries.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Johnson Matthey Plc",
+      "ticker": "JMAT",
+      "exchange": "LSE",
+      "website": "https://matthey.com",
+      "logoUrl": "/companies-assets/JMAT.LSE.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2017-01-01",
+      "endDate": "2023-07-20",
+      "formattedStartDate": "January 2017",
+      "formattedEndDate": "July 2023"
+    },
+    {
+      "name": "Redx Pharma Plc",
+      "ticker": "REDX",
+      "exchange": "AIM (LSE)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Chair",
+      "startDate": "2021-12-01",
+      "endDate": null,
+      "formattedStartDate": "December 2021",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/jane-griffiths-a03b005",
+      "person_name": "Jane Griffiths",
+      "company_name": "BAE Systems plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "ESG Committee",
+    "Nominations Committee",
+    "Remuneration Committee (Chair)"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

@@ -1,0 +1,53 @@
+{
+  "id": "Sabrina Soussan",
+  "name": "Sabrina Soussan",
+  "background": "Chairman and CEO of Suez SA. Former CEO of Swisslog and Co-CEO of Siemens Mobility.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Continental AG",
+      "ticker": "CON",
+      "exchange": "Xetra",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chair of the Supervisory Board",
+      "startDate": "2026-04-30",
+      "endDate": null,
+      "formattedStartDate": "April 2026",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "dormakaba Holding AG",
+      "ticker": "DOKA",
+      "exchange": "SIX Swiss Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "CEO",
+      "startDate": "2021-04-01",
+      "endDate": "2021-12-31",
+      "formattedStartDate": "April 2021",
+      "formattedEndDate": "December 2021"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ch.linkedin.com/in/sabrina-soussan",
+      "person_name": "Sabrina Soussan",
+      "company_name": "dormakaba",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Aerospace Safety",
+    "Finance"
+  ],
+  "age": 54,
+  "ageYear": 2024
+}

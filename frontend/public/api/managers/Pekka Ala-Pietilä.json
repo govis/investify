@@ -1,0 +1,66 @@
+{
+  "id": "Pekka Ala-Pietilä",
+  "name": "Pekka Ala-Pietilä",
+  "background": "Pekka Ala-Pietilä is the Chairman of the Supervisory Board. He was formerly the President of Nokia Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "SAP SE",
+      "ticker": "SAP",
+      "exchange": "NYSE",
+      "website": "https://www.sap.com",
+      "logoUrl": "/companies-assets/SAP.NYSE.svg",
+      "title": "Chairperson of the Supervisory Board",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sanoma Oyj",
+      "ticker": "SAA1V",
+      "exchange": "Nasdaq Helsinki",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chair of the Board of Directors",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Nokia Corporation",
+      "ticker": "NOK",
+      "exchange": "NYSE",
+      "website": "https://www.nokia.com",
+      "logoUrl": "/companies-assets/NOK.NYSE.svg",
+      "title": "President of the Nokia Group / Member of the Group Executive Board",
+      "startDate": "1999",
+      "endDate": "2005",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2005"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://fi.linkedin.com/in/pekka-ala-pietilä-084082146",
+      "person_name": "Pekka Ala-Pietilä",
+      "company_name": "SAP SE",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "General and Compensation Committee",
+    "Strategy Committee"
+  ],
+  "age": 67,
+  "ageYear": 2024
+}

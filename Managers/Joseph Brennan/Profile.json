@@ -1,0 +1,30 @@
+{
+  "name": "Joseph Brennan",
+  "first_name": "Joseph",
+  "last_name": "Brennan",
+  "age": 57,
+  "age_year": 2024,
+  "background": "Mr. Brennan has served as Chief Financial Officer since July 2020. He previously served as Senior Vice President, Controller and Chief Accounting Officer.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Fluor Corporation",
+      "ticker": "FLR",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "website": "https://www.fluor.com",
+      "start_date": "1991",
+      "end_date": "July 1, 2025",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

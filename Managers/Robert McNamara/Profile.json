@@ -1,0 +1,44 @@
+{
+  "name": "Robert McNamara",
+  "first_name": "Robert",
+  "last_name": "McNamara",
+  "age": 69,
+  "age_year": 2024,
+  "background": "Mr. McNamara has served as a Director since 2017. He is the former Group Chief Risk Officer of Lendlease Corporation.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Jacobs Solutions Inc.",
+      "ticker": "J",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.jacobs.com",
+      "start_date": "2005",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/robert-mcnamara-69b73712",
+      "person_name": "Robert McNamara",
+      "company_name": "Jacobs Solutions Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "ESG and Risk Committee",
+    "Human Resource and Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "Jeffrey Harris",
+  "name": "Jeffrey Harris",
+  "background": "Jeffrey Harris has served as a member of our Board since 2018. He is a Venture Partner at Quantum Energy Partners and was previously a Managing Director at Warburg Pincus LLC for over 25 years.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "ChargePoint Holdings, Inc.",
+      "ticker": "CHPT",
+      "exchange": "NYSE",
+      "website": "https://www.chargepoint.com",
+      "logoUrl": "/companies-assets/CHPT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Knoll, Inc.",
+      "ticker": "KNL",
+      "exchange": "NYSE",
+      "website": "https://www.knoll.com",
+      "logoUrl": "/companies-assets/KNL.NYSE.png",
+      "title": "Director",
+      "startDate": null,
+      "endDate": "2021",
+      "formattedStartDate": "",
+      "formattedEndDate": "2021"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jeffrey-harris-4a5a5a1",
+      "person_name": "Jeffrey Harris",
+      "company_name": "ChargePoint Holdings, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

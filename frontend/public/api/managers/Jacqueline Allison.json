@@ -1,0 +1,89 @@
+{
+  "id": "Jacqueline Allison",
+  "name": "Jacqueline Allison",
+  "background": "Dr. Allison has over 20 years of experience in the mining industry as a research analyst and investment manager.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Laramide Resources Ltd.",
+      "ticker": "TSX: LAM / ASX: LAM / OTCQX: LMRXF",
+      "exchange": "TSX, ASX, OTC",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Director",
+      "startDate": "November 2021",
+      "endDate": null,
+      "formattedStartDate": "November 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Canstar Resources Inc.",
+      "ticker": "TSXV: ROX",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Chair",
+      "startDate": "Not specified",
+      "endDate": null,
+      "formattedStartDate": "Not specified",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Titan Mining Corporation",
+      "ticker": "TSX: TI",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice President, Investor Relations and Strategic Analysis",
+      "startDate": "January 2018",
+      "endDate": "Not specified",
+      "formattedStartDate": "January 2018",
+      "formattedEndDate": "Not specified"
+    },
+    {
+      "name": "Dominion Diamond Corporation",
+      "ticker": "TSX: DDC",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice President, Investor Relations",
+      "startDate": "Not specified",
+      "endDate": "Prior to January 2018",
+      "formattedStartDate": "Not specified",
+      "formattedEndDate": "January 2018"
+    },
+    {
+      "name": "Hudbay Minerals Inc.",
+      "ticker": "TSX: HBM / NYSE: HBM",
+      "exchange": "TSX, NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director, Investor Relations",
+      "startDate": "Not specified",
+      "endDate": "Prior to Dominion Diamond Corporation role",
+      "formattedStartDate": "Not specified",
+      "formattedEndDate": "Prior to Dominion Diamond Corporation role"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/jacquelineallisoncfaphd",
+      "person_name": "Jacqueline Allison",
+      "company_name": "Laramide Resources Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

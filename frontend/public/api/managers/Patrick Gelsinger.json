@@ -1,0 +1,63 @@
+{
+  "id": "Patrick Gelsinger",
+  "name": "Patrick Gelsinger",
+  "background": "Patrick P. Gelsinger has been a director and Intel’s CEO since February 2021. He has over 40 years of technology and leadership experience, including 30 years at Intel in various engineering and leadership roles. Prior to returning to Intel, he served as CEO of VMware, Inc. from 2012 to 2021 and as President and COO of EMC Corp.’s Information Infrastructure Products business from 2009 to 2012.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "logoUrl": "/companies-assets/INTC.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2021-02-15",
+      "endDate": "2024-12-01",
+      "formattedStartDate": "February 2021",
+      "formattedEndDate": "December 2024"
+    },
+    {
+      "name": "VMware, Inc.",
+      "ticker": "VMW",
+      "exchange": "NYSE",
+      "website": "https://www.vmware.com",
+      "logoUrl": "/companies-assets/VMW.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2012-09-01",
+      "endDate": "2021-02-15",
+      "formattedStartDate": "September 2012",
+      "formattedEndDate": "February 2021"
+    },
+    {
+      "name": "EMC Corporation",
+      "ticker": "EMC",
+      "exchange": "NYSE",
+      "website": "https://www.dell.com",
+      "logoUrl": "/companies-assets/EMC.NYSE.png",
+      "title": "President and Chief Operating Officer, Information Infrastructure Products",
+      "startDate": "2009-09-01",
+      "endDate": "2012-08-31",
+      "formattedStartDate": "September 2009",
+      "formattedEndDate": "August 2012"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/patgelsinger",
+      "person_name": "Patrick Gelsinger",
+      "company_name": "Intel Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 63,
+  "ageYear": 2024
+}

@@ -1,0 +1,51 @@
+{
+  "id": "Jim Gallagher",
+  "name": "Jim Gallagher",
+  "background": "Mr. Gallagher is a Professional Mining Engineer with over 35 years of experience in the mining industry. He was previously the President and CEO of North American Palladium and has held senior operational roles at Falconbridge and Xstrata.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Clean Air Metals Inc.",
+      "ticker": "AIR",
+      "exchange": "TSXV",
+      "website": "https://cleanairmetals.ca",
+      "logoUrl": "/companies-assets/AIR.TSXV.png",
+      "title": "Executive Chair and Interim CEO",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "North American Palladium Ltd.",
+      "ticker": "PDL",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "/companies-assets/PDL.TSX.png",
+      "title": "President and CEO",
+      "startDate": "2013",
+      "endDate": "2019",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2019"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/james-gallagher-a1811826",
+      "person_name": "Jim Gallagher",
+      "company_name": "Clean Air Metals Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 63,
+  "ageYear": 2024
+}

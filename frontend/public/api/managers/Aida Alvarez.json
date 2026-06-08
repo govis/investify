@@ -1,0 +1,100 @@
+{
+  "id": "Aida Alvarez",
+  "name": "Aida Alvarez",
+  "background": "Aida Alvarez has served as a member of our board of directors since August 2019. Ms. Alvarez was the Administrator of the U.S. Small Business Administration and a member of President Clinton’s Cabinet from 1997 to 2001.",
+  "pictureUrl": "/managers-assets/Aida Alvarez.jpg",
+  "companies": [
+    {
+      "name": "Fastly, Inc.",
+      "ticker": "FSLY",
+      "exchange": "NYSE",
+      "website": "https://www.fastly.com",
+      "logoUrl": "/companies-assets/FSLY.NYSE.svg",
+      "title": "Director",
+      "startDate": "2019-08",
+      "endDate": null,
+      "formattedStartDate": "August 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "HP Inc.",
+      "ticker": "HPQ",
+      "exchange": "NYSE",
+      "website": "hp.com",
+      "logoUrl": "/companies-assets/HPQ.NYSE.jpg",
+      "title": "Director",
+      "startDate": "2016-06",
+      "endDate": null,
+      "formattedStartDate": "June 2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Stride, Inc. (formerly K12 Inc.)",
+      "ticker": "LRN",
+      "exchange": "NYSE",
+      "website": "stridelearning.com",
+      "logoUrl": "/companies-assets/LRN.NYSE.svg",
+      "title": "Director",
+      "startDate": "2017-04",
+      "endDate": null,
+      "formattedStartDate": "April 2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Bill Holdings, Inc.",
+      "ticker": "BILL",
+      "exchange": "NYSE",
+      "website": "bill.com",
+      "logoUrl": "/companies-assets/BILL.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021-02",
+      "endDate": null,
+      "formattedStartDate": "February 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Oportun Financial Corporation",
+      "ticker": "OPRT",
+      "exchange": "NASDAQ",
+      "website": "oportun.com",
+      "logoUrl": "/companies-assets/OPRT.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2011-08",
+      "endDate": "2022-11",
+      "formattedStartDate": "August 2011",
+      "formattedEndDate": "November 2022"
+    },
+    {
+      "name": "Walmart Inc.",
+      "ticker": "WMT",
+      "exchange": "NYSE",
+      "website": "walmart.com",
+      "logoUrl": "/companies-assets/WMT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2006-06",
+      "endDate": "2016-06",
+      "formattedStartDate": "June 2006",
+      "formattedEndDate": "June 2016"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/aida-alvarez-2b225733",
+      "person_name": "Aida Alvarez",
+      "company_name": "Multiple (including Fastly, Inc., HP Inc., Stride, Inc., Bill Holdings, Inc., Oportun Financial Corporation, Walmart Inc.)",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 74,
+  "ageYear": 2024
+}

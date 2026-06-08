@@ -1,0 +1,32 @@
+{
+  "name": "Charles Holland",
+  "first_name": "Charles",
+  "last_name": "Holland",
+  "age": 78,
+  "age_year": 2024,
+  "background": "General Holland (Ret.) has served as a director since 2004. He retired from the United States Air Force as Commander, Headquarters U.S. Special Operations Command.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "AeroVironment, Inc.",
+      "ticker": "AVAV",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.avinc.com",
+      "start_date": "2006",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

@@ -1,0 +1,63 @@
+{
+  "name": "James Nevels",
+  "first_name": "James",
+  "last_name": "Nevels",
+  "age": 72,
+  "age_year": 2024,
+  "background": "Founder and Chairman of The Swarthmore Group.",
+  "picture_url": "https://www.inquirer.com/resizer/v2/YDBT7VCH5NEZ5MFGKHF7VIWCVY.jpg?auth=319eb243c77300fd79fe7503664d24dc66cb24448540f7ee9e21abbd539a8a67&width=760&height=507&smart=true",
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Alcoa Corporation",
+      "ticker": "AA",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "alcoa.com",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Hershey Company",
+      "ticker": "HSY",
+      "exchange": "NYSE",
+      "website": "thehersheycompany.com",
+      "title_or_role": "Director",
+      "start_date": "2007",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "WestRock Company",
+      "ticker": "WRK",
+      "exchange": "NYSE",
+      "website": "westrock.com",
+      "title_or_role": "Director",
+      "start_date": "2015",
+      "end_date": "2024",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/james-b-nevels",
+      "person_name": "James B. Nevels",
+      "company_name": "The Swarthmore Group",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

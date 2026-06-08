@@ -1,0 +1,39 @@
+{
+  "name": "Paul Smith",
+  "first_name": "Paul",
+  "last_name": "Smith",
+  "age": 61,
+  "age_year": 2024,
+  "background": "Mr. Smith is a Chartered Professional Accountant with over 30 years of experience in financial management and reporting. He has served as CFO for several public mining companies.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Cabral Gold Inc.",
+      "ticker": "CBR",
+      "exchange": "TSX",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://cabralgold.com",
+      "start_date": "2017-10-30",
+      "end_date": null
+    },
+    {
+      "name": "ServiceNow, Inc.",
+      "ticker": "NOW",
+      "exchange": "NYSE",
+      "title_or_role": "Advisor",
+      "website": "servicenow.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

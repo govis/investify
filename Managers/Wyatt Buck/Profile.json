@@ -1,0 +1,53 @@
+{
+  "name": "Wyatt Buck",
+  "first_name": "Wyatt",
+  "last_name": "Buck",
+  "age": null,
+  "age_year": null,
+  "background": "Mr. Buck is a mining executive with over 35 years\u2019 experience in the mining industry, specifically in uranium. He held senior roles at Cameco Corporation, including General Manager of the McArthur River uranium mine.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Boss Energy Limited",
+      "ticker": "BOE",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Chairman",
+      "website": "https://bossenergy.com/",
+      "start_date": "2023-03-30",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Paladin Energy Ltd",
+      "ticker": "PDN",
+      "exchange": "ASX",
+      "website": "https://www.paladinenergy.com.au/",
+      "title_or_role": "Executive General Manager \u2013 Operations / Production",
+      "start_date": "2009-09",
+      "end_date": "2011-05",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/wyatt-buck-88b08619",
+      "person_name": "Wyatt Buck",
+      "company_name": "Paladin Energy Ltd",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Janaki Akella",
+  "first_name": "Janaki",
+  "last_name": "Akella",
+  "age": 62,
+  "age_year": 2024,
+  "background": "Former Business Leader, Digital Transformation at Google LLC. Former Principal at McKinsey & Company.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "The Southern Company",
+      "ticker": "SO",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director (Board of Directors)",
+      "website": "https://www.southerncompany.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Akamai Technologies, Inc.",
+      "ticker": "AKAM",
+      "exchange": "NASDAQ",
+      "website": "https://www.akamai.com",
+      "title_or_role": "Director (Board of Directors)",
+      "start_date": "July 2024",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/janakiakella",
+      "person_name": "Janaki Akella",
+      "company_name": "The Southern Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit",
+    "Operations, Environmental and Safety"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

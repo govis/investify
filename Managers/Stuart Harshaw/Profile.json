@@ -1,0 +1,53 @@
+{
+  "name": "Stuart Harshaw",
+  "first_name": "Stuart",
+  "last_name": "Harshaw",
+  "age": 59,
+  "age_year": 2024,
+  "background": "Mr. Harshaw is a seasoned mining executive with over 30 years of experience, including senior roles at Vale SA.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Platinum Group Metals Ltd.",
+      "ticker": "PLG",
+      "exchange": "NYSE American, TSX",
+      "title_or_role": "Director",
+      "website": "https://www.platinumgroupmetals.net",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Nickel Creek Platinum Corp.",
+      "ticker": "NCP",
+      "exchange": "TSX",
+      "website": "https://www.nickelcreekplatinum.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "October 2020",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/stuart-harshaw",
+      "person_name": "Stuart Harshaw",
+      "company_name": "Nickel Creek Platinum Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Governance and Nomination Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

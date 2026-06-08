@@ -1,0 +1,102 @@
+{
+  "id": "Abhijit Talwalkar",
+  "name": "Abhijit Talwalkar",
+  "background": "Mr. Talwalkar has been a director since 2011 and Chairman of the Board since 2019. He was President and CEO of LSI Corporation from 2005 to 2014.",
+  "pictureUrl": "/managers-assets/Abhijit Talwalkar.jpg",
+  "companies": [
+    {
+      "name": "Lam Research Corporation",
+      "ticker": "LRCX",
+      "exchange": "NASDAQ",
+      "website": "https://www.lamresearch.com",
+      "logoUrl": "/companies-assets/LRCX.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2011-02-15",
+      "endDate": null,
+      "formattedStartDate": "February 2011",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "iRhythm Technologies, Inc.",
+      "ticker": "IRTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.irhythmtech.com",
+      "logoUrl": "/companies-assets/IRTC.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2016-05-19",
+      "endDate": null,
+      "formattedStartDate": "May 2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "TE Connectivity Ltd.",
+      "ticker": "TEL",
+      "exchange": "NYSE",
+      "website": "https://www.te.com",
+      "logoUrl": "/companies-assets/TEL.NYSE.svg",
+      "title": "Director",
+      "startDate": "2017-03-08",
+      "endDate": null,
+      "formattedStartDate": "March 2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "LSI Corporation",
+      "ticker": "LSI",
+      "exchange": "NYSE",
+      "website": "https://www.broadcom.com",
+      "logoUrl": "/companies-assets/LSI.NYSE.svg",
+      "title": "President, Chief Executive Officer, and Director",
+      "startDate": "2005-05-02",
+      "endDate": "2014-05-06",
+      "formattedStartDate": "May 2005",
+      "formattedEndDate": "May 2014"
+    },
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "logoUrl": "/companies-assets/INTC.NASDAQ.svg",
+      "title": "Corporate Vice President and General Manager, Digital Enterprise Group",
+      "startDate": "2004-01-01",
+      "endDate": "2005-05-01",
+      "formattedStartDate": "January 2004",
+      "formattedEndDate": "May 2005"
+    },
+    {
+      "name": "Advanced Micro Devices, Inc.",
+      "ticker": "AMD",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "logoUrl": "/companies-assets/AMD.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2017-08",
+      "endDate": null,
+      "formattedStartDate": "August 2017",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/abhitalwalkar",
+      "person_name": "Abhi Talwalkar",
+      "company_name": "Lam Research",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "profile_status": "private"
+    }
+  ],
+  "committees": [
+    "Compensation and Human Resources Committee",
+    "Nominating and Governance Committee"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

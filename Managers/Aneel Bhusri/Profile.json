@@ -1,0 +1,64 @@
+{
+  "name": "Aneel Bhusri",
+  "first_name": "Aneel",
+  "last_name": "Bhusri",
+  "age": 58,
+  "age_year": 2024,
+  "background": "Co-founder and Executive Chair of Workday, Inc.",
+  "picture_url": null,
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "gm.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Workday, Inc.",
+      "ticker": "WDAY",
+      "exchange": "NASDAQ",
+      "website": "workday.com",
+      "title_or_role": "Co-Founder, Executive Chairman (formerly CEO)",
+      "start_date": "2005",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "intel.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": "2019",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/aneelbhusri/",
+      "person_name": "Aneel Bhusri",
+      "company_name": "Workday",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
+  "committees": [
+    "Finance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 0
+}

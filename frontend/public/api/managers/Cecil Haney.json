@@ -1,0 +1,30 @@
+{
+  "id": "Cecil Haney",
+  "name": "Cecil Haney",
+  "background": "Admiral, U.S. Navy (Retired). Former Commander, U.S. Strategic Command.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Tenet Healthcare Corporation",
+      "ticker": "THC",
+      "exchange": "NYSE",
+      "website": "https://www.tenethealth.com",
+      "logoUrl": "/companies-assets/THC.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021-01-08",
+      "endDate": null,
+      "formattedStartDate": "January 2021",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation",
+    "Finance"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

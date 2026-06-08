@@ -1,0 +1,33 @@
+{
+  "name": "Richard Adams",
+  "first_name": "Richard",
+  "last_name": "Adams",
+  "age": 72,
+  "age_year": 2024,
+  "background": "Mr. Adams has over 40 years of experience in the financial services industry, specializing in investment banking and corporate finance.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Global Atomic Corporation",
+      "ticker": "GLO",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://www.globalatomiccorp.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

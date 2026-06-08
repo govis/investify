@@ -1,0 +1,65 @@
+{
+  "id": "Stephen Lang",
+  "name": "Stephen Lang",
+  "background": "Mr. Lang is the Chair of the Board. He was formerly the President and CEO of Centerra Gold Inc. and has over 40 years of experience in the mining industry, including executive roles at Stillwater Mining Company and Barrick Gold.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Hudbay Minerals Inc.",
+      "ticker": "HBM",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chair of the Board of Directors",
+      "startDate": "2019-10",
+      "endDate": "2024-12",
+      "formattedStartDate": "October 2019",
+      "formattedEndDate": "December 2024"
+    },
+    {
+      "name": "Hycroft Mining Holding Corporation",
+      "ticker": "HYMC",
+      "exchange": "NASDAQ",
+      "website": "hycroftmining.com",
+      "logoUrl": "/companies-assets/HYMC.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2021-05",
+      "endDate": null,
+      "formattedStartDate": "May 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Centerra Gold Inc.",
+      "ticker": "CG",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Chair",
+      "startDate": "2012",
+      "endDate": "2019",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Allied Nevada Gold Corp.",
+      "ticker": "ANV",
+      "exchange": "TSX",
+      "website": "https://www.alliednevada.com",
+      "logoUrl": "/companies-assets/ANV.TSX.png",
+      "title": "Director",
+      "startDate": "2013-08",
+      "endDate": "2015",
+      "formattedStartDate": "August 2013",
+      "formattedEndDate": "2015"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

@@ -1,0 +1,50 @@
+{
+  "id": "Hassane El-Khoury",
+  "name": "Hassane El-Khoury",
+  "background": "Hassane El-Khoury has served as our President and Chief Executive Officer and as a member of our Board since December 2020. Prior to joining the Company, Mr. El-Khoury served as President, Chief Executive Officer and a member of the board of directors of Cypress Semiconductor Corporation from August 2016 until its sale to Infineon Technologies AG in April 2020.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "ON Semiconductor Corporation",
+      "ticker": "ON",
+      "exchange": "NASDAQ",
+      "website": "https://www.onsemi.com",
+      "logoUrl": "/companies-assets/ON.NASDAQ.svg",
+      "title": "President, Chief Executive Officer, and Director",
+      "startDate": "December 2020",
+      "endDate": null,
+      "formattedStartDate": "December 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cypress Semiconductor Corporation",
+      "ticker": "CY",
+      "exchange": "NASDAQ",
+      "website": "www.cypress.com",
+      "logoUrl": "/companies-assets/CY.NASDAQ.svg",
+      "title": "President, Chief Executive Officer, and Director",
+      "startDate": "2016",
+      "endDate": "April 2020",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "April 2020"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/hassane-el-khoury",
+      "person_name": "Hassane El-Khoury",
+      "company_name": "ON Semiconductor Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 44,
+  "ageYear": 2024
+}

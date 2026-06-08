@@ -1,0 +1,38 @@
+{
+  "id": "Harry Wolin",
+  "name": "Harry Wolin",
+  "background": "Mr. Wolin is AMD’s Senior Vice President, General Counsel and Corporate Secretary. He has been with AMD since 2000 and was appointed General Counsel in 2003.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Motorola, Inc. (now Motorola Solutions, Inc.)",
+      "ticker": "MSI",
+      "exchange": "NYSE",
+      "website": "https://www.motorolasolutions.com",
+      "logoUrl": "/companies-assets/MSI.NYSE.svg",
+      "title": "Vice President and Director of Legal Affairs, Semiconductor Products Sector",
+      "startDate": "1988",
+      "endDate": "2000",
+      "formattedStartDate": "1988",
+      "formattedEndDate": "2000"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/harry-wolin-90562b17",
+      "person_name": "Harry Wolin",
+      "company_name": "Advanced Micro Devices, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

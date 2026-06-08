@@ -1,0 +1,73 @@
+{
+  "name": "Cliff Lawrenson",
+  "first_name": "Cliff",
+  "last_name": "Lawrenson",
+  "age": 62,
+  "age_year": 2024,
+  "background": "Mr Lawrenson has over 30 years\u2019 experience in the resources and energy sectors. He has held senior executive and board positions with several ASX-listed companies, including Atlas Iron, Ferrum Crescent and GR Engineering Services. He is currently the Non-Executive Chairman of several other ASX-listed companies.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Paladin Energy Ltd",
+      "ticker": "PDN",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Chairman",
+      "website": "paladinenergy.com.au",
+      "start_date": "Oct 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Atlas Iron Limited",
+      "ticker": "AGO (Delisted)",
+      "exchange": "ASX",
+      "website": "atlasiron.com.au",
+      "title_or_role": "Managing Director & CEO",
+      "start_date": "Feb 2017",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Avenira Limited",
+      "ticker": "AEV",
+      "exchange": "ASX",
+      "website": "avenira.com",
+      "title_or_role": "Managing Director & CEO",
+      "start_date": "2013",
+      "end_date": "Jan 2017",
+      "validated": true
+    },
+    {
+      "name": "Pacific Energy Limited",
+      "ticker": "PEA (Delisted)",
+      "exchange": "ASX",
+      "website": "pacificenergy.com.au",
+      "title_or_role": "Non-Executive Chairman",
+      "start_date": "2014",
+      "end_date": "2019",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/cliff-lawrenson-4a5a5a1b/",
+      "person_name": "Cliff Lawrenson",
+      "company_name": "Paladin Energy Ltd",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

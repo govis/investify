@@ -1,0 +1,51 @@
+{
+  "name": "Karen Lloyd",
+  "first_name": "Karen",
+  "last_name": "Lloyd",
+  "age": 50,
+  "age_year": 2024,
+  "background": "Over 25 years of experience in mining consultancy and technical reporting.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Aclara Resources Inc.",
+      "ticker": "ARA",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://www.aclara.com",
+      "start_date": "2021-12-01",
+      "end_date": null
+    },
+    {
+      "name": "CanAlaska Uranium Ltd.",
+      "ticker": "CVV",
+      "exchange": "TSXV",
+      "website": "https://canalaska.com/",
+      "title_or_role": "Director (July 2021 \u2013 Present), Chair of the Board (Appointed May 2024 \u2013 Present)",
+      "start_date": "July 2021",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/karen-lloyd-icd-d-95a69414",
+      "person_name": "Karen Lloyd",
+      "company_name": "CanAlaska Uranium Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation, Nominating and Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "David Awram",
+  "name": "David Awram",
+  "background": "Mr. Awram is a co-founder of Sandstorm. Previously, he was the Director of Investor Relations for Silver Wheaton Corp. He holds a Bachelor of Science degree in Geology.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Premier Royalty, Inc.",
+      "ticker": "NSR",
+      "exchange": "TSX",
+      "website": "https://www.sandstormgold.com",
+      "logoUrl": "/companies-assets/NSR.TSX.svg",
+      "title": "Founder / Director",
+      "startDate": "2010",
+      "endDate": "2013",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2013"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/david-awram-b2996a84",
+      "person_name": "David Awram",
+      "company_name": "Sandstorm Gold Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 52,
+  "ageYear": 2024
+}

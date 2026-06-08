@@ -1,0 +1,56 @@
+{
+  "id": "Barbara Connolly Keady",
+  "name": "Barbara Connolly Keady",
+  "background": "Director of New Business Development at Ceres Partners since 2010.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sprott Energy Transition Materials ETF",
+      "ticker": "SETM",
+      "exchange": "NASDAQ",
+      "website": "https://www.sprottetfs.com/setm-sprott-energy-transition-materials-etf/",
+      "logoUrl": "/companies-assets/SETM.NASDAQ.svg",
+      "title": "Independent Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sprott Physical Uranium Trust",
+      "ticker": "U.UN",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sprott Inc.",
+      "ticker": "SII",
+      "exchange": "TSX",
+      "website": "https://sprott.com/",
+      "logoUrl": "/companies-assets/SII.TSX.svg",
+      "title": "Independent Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Governance Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

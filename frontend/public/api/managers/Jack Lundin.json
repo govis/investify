@@ -1,0 +1,63 @@
+{
+  "id": "Jack Lundin",
+  "name": "Jack Lundin",
+  "background": "Mr. Lundin is the Chair of the Board. He is currently the President and CEO of Lundin Mining Corporation. He has extensive experience in the resource industry and holds a Master of Engineering degree.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lundin Gold Inc.",
+      "ticker": "LUG",
+      "exchange": "TSX",
+      "website": "https://lundingold.com",
+      "logoUrl": "/companies-assets/LUG.TSX.svg",
+      "title": "Director (Chairman)",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Lundin Mining Corporation",
+      "ticker": "LUN",
+      "exchange": "TSX",
+      "website": "https://www.lundinmining.com",
+      "logoUrl": "/companies-assets/LUN.TSX.svg",
+      "title": "President and Chief Executive Officer",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Talon Metals Corp.",
+      "ticker": "TLO",
+      "exchange": "TSX",
+      "website": "https://www.talonmetals.com",
+      "logoUrl": "/companies-assets/TLO.TSX.png",
+      "title": "Director (Nominee/Appointee)",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jacklundin",
+      "person_name": "Jack Lundin",
+      "company_name": "Lundin Mining Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 35,
+  "ageYear": 2024
+}

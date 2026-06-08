@@ -1,0 +1,53 @@
+{
+  "id": "Maria Olivia Recart",
+  "name": "Maria Olivia Recart",
+  "background": "Ms. Recart is an economist with significant experience in the mining sector and public policy, having served as Vice President at BHP and Undersecretary of Finance in Chile.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Banco Santander-Chile",
+      "ticker": "BSAC",
+      "exchange": "NYSE",
+      "website": "https://www.santander.cl",
+      "logoUrl": "/companies-assets/BSAC.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Aclara Resources Inc.",
+      "ticker": "ARA",
+      "exchange": "TSX",
+      "website": "https://www.aclara.com",
+      "logoUrl": "/companies-assets/ARA.TSX.svg",
+      "title": "Independent Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://cl.linkedin.com/in/maria-olivia-recart-b6410623",
+      "person_name": "Maria Olivia Recart",
+      "company_name": "Lundin Mining Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Corporate Governance and Nominating Committee",
+    "Sustainability Committee"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

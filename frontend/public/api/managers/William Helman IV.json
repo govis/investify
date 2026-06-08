@@ -1,0 +1,44 @@
+{
+  "id": "William Helman IV",
+  "name": "William Helman IV",
+  "background": "General Partner, Greylock Partners.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "website": "https://www.ford.com",
+      "logoUrl": "/companies-assets/F.NYSE.svg",
+      "title": "Director",
+      "startDate": "2011",
+      "endDate": null,
+      "formattedStartDate": "2011",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Zipcar, Inc.",
+      "ticker": "ZIP",
+      "exchange": "NASDAQ",
+      "website": "https://www.zipcar.com",
+      "logoUrl": "/companies-assets/ZIP.NASDAQ.svg",
+      "title": "Lead Director",
+      "startDate": "2006",
+      "endDate": "2013",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2013"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Finance Committee",
+    "Nominating and Governance Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

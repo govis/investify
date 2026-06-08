@@ -1,0 +1,41 @@
+{
+  "id": "Cressida Hogg",
+  "name": "Cressida Hogg",
+  "background": "Cressida was appointed Chair in 2023. She was previously Chair of Land Securities Group PLC and has significant experience in infrastructure and private equity.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Land Securities Group PLC",
+      "ticker": "LAND",
+      "exchange": "LSE",
+      "website": "https://landsec.com",
+      "logoUrl": "/companies-assets/LAND.LSE.svg",
+      "title": "Chair",
+      "startDate": "2018",
+      "endDate": "2023",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "London Stock Exchange Group plc",
+      "ticker": "LSEG",
+      "exchange": "LSE",
+      "website": "https://www.lseg.com",
+      "logoUrl": "/companies-assets/LSEG.LSE.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2019",
+      "endDate": "2023",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2023"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominations Committee (Chair)"
+  ],
+  "age": 57,
+  "ageYear": 2024
+}

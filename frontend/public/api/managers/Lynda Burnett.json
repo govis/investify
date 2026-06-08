@@ -1,0 +1,53 @@
+{
+  "id": "Lynda Burnett",
+  "name": "Lynda Burnett",
+  "background": "Ms. Burnett is a geologist with over 30 years of experience in the mining industry, including senior roles at Newmont and Sipa Resources.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Regis Resources Limited",
+      "ticker": "RRL",
+      "exchange": "ASX",
+      "website": "https://regisresources.com.au",
+      "logoUrl": "/companies-assets/RRL.ASX.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2020-02",
+      "endDate": null,
+      "formattedStartDate": "February 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sipa Resources Limited",
+      "ticker": "SRI",
+      "exchange": "ASX",
+      "website": "https://sipa.com.au/",
+      "logoUrl": "/companies-assets/SRI.ASX.svg",
+      "title": "Managing Director",
+      "startDate": "2015-01",
+      "endDate": "2020-01-30",
+      "formattedStartDate": "January 2015",
+      "formattedEndDate": "January 2020"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/lynda-burnett-04ab834",
+      "person_name": "Lynda Burnett",
+      "company_name": "Sipa Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

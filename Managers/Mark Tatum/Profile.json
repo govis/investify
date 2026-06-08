@@ -1,0 +1,43 @@
+{
+  "name": "Mark Tatum",
+  "first_name": "Mark",
+  "last_name": "Tatum",
+  "age": 54,
+  "age_year": 2024,
+  "background": "Deputy Commissioner and COO of the National Basketball Association.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "title_or_role": "Director (Member of the Board of Directors)",
+      "website": "https://www.gm.com",
+      "start_date": "March 25, 2021",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mark-tatum-528a6b57",
+      "person_name": "Mark Tatum",
+      "company_name": "National Basketball Association",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Governance and Corporate Responsibility Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

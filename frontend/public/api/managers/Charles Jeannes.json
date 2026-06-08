@@ -1,0 +1,67 @@
+{
+  "id": "Charles Jeannes",
+  "name": "Charles Jeannes",
+  "background": "Mr. Jeannes is a mining industry veteran, formerly the President and CEO of Goldcorp Inc. from 2008 to 2016.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Orla Mining Ltd.",
+      "ticker": "OLA",
+      "exchange": "TSX",
+      "website": "https://www.orlamining.com",
+      "logoUrl": "/companies-assets/OLA.TSX.svg",
+      "title": "Director",
+      "startDate": "2017-05",
+      "endDate": null,
+      "formattedStartDate": "May 2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Wheaton Precious Metals Corp.",
+      "ticker": "WPM",
+      "exchange": "TSX/NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2016-11",
+      "endDate": null,
+      "formattedStartDate": "November 2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Goldcorp Inc.",
+      "ticker": "G",
+      "exchange": "NYSE/TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "EVP, Corporate Development",
+      "startDate": "2006",
+      "endDate": "2008",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2008"
+    },
+    {
+      "name": "Tahoe Resources Inc.",
+      "ticker": "TAHO",
+      "exchange": "TSX/NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2017-01",
+      "endDate": "2019-02",
+      "formattedStartDate": "January 2017",
+      "formattedEndDate": "February 2019"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Environmental, Sustainability, Health & Safety Committee",
+    "Governance and Nominating Committee",
+    "Sustainability Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

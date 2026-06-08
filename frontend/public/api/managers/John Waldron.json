@@ -1,0 +1,39 @@
+{
+  "id": "John Waldron",
+  "name": "John Waldron",
+  "background": "John E. Waldron is President and Chief Operating Officer of The Goldman Sachs Group, Inc. He previously served as Co-Head of the Investment Banking Division.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "ticker": "GS",
+      "exchange": "NYSE",
+      "website": "https://www.goldmansachs.com",
+      "logoUrl": "/companies-assets/GS.NYSE.svg",
+      "title": "President and Chief Operating Officer; Member of the Board of Directors",
+      "startDate": "2018 (President and COO); February 2025 (Director)",
+      "endDate": null,
+      "formattedStartDate": "February 2025",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/johnewaldron",
+      "person_name": "John Waldron",
+      "company_name": "The Goldman Sachs Group, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 54,
+  "ageYear": 2024
+}

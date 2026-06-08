@@ -1,0 +1,113 @@
+{
+  "id": "Tom Albanese",
+  "name": "Tom Albanese",
+  "background": "Former CEO of Rio Tinto and Vedanta Resources. He has extensive global mining experience.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Franco-Nevada Corporation",
+      "ticker": "FNV",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Rio Tinto PLC / Rio Tinto Limited",
+      "ticker": "RIO",
+      "exchange": "LSE / ASX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Executive Officer (Board Member)",
+      "startDate": "2007",
+      "endDate": "2013",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Vedanta Resources PLC",
+      "ticker": "VED",
+      "exchange": "LSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Executive Officer",
+      "startDate": "2014",
+      "endDate": "2017",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "CoTec Holdings Corp.",
+      "ticker": "CTEC",
+      "exchange": "TSXV",
+      "website": "https://cotec.ca/",
+      "logoUrl": "/companies-assets/CTEC.TSXV.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Nevada Copper Corp.",
+      "ticker": "NCU",
+      "exchange": "TSX",
+      "website": "https://www.nevadacopper.com/",
+      "logoUrl": "https://www.nevadacopper.com/site/assets/files/1/logo.png",
+      "title": "Director and Chair",
+      "startDate": "2018",
+      "endDate": "2024",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Ivanhoe Mines Limited",
+      "ticker": "IVN",
+      "exchange": "TSX",
+      "website": "ivanhoemines.com",
+      "logoUrl": "/companies-assets/IVN.TSX.svg",
+      "title": "Director",
+      "startDate": "2006",
+      "endDate": "2007",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2007"
+    },
+    {
+      "name": "Palabora Mining Company",
+      "ticker": "PAB",
+      "exchange": "JSE",
+      "website": "https://www.palabora.com/",
+      "logoUrl": "/companies-assets/PAB.JSE.png",
+      "title": "Director",
+      "startDate": "2004",
+      "endDate": "2006",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2006"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/tom-albanese-249a064",
+      "person_name": "Tom Albanese",
+      "company_name": "Franco-Nevada Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "ESG Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

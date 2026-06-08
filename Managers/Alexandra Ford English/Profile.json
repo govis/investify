@@ -1,0 +1,44 @@
+{
+  "name": "Alexandra Ford English",
+  "first_name": "Alexandra",
+  "last_name": "Ford English",
+  "age": 36,
+  "age_year": 2024,
+  "background": "Director, Global Brand Merchandising, Ford Motor Company. Daughter of Bill Ford.",
+  "picture_url": null,
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "title_or_role": "Director, Corporate Strategy",
+      "website": "https://www.ford.com",
+      "start_date": "2017",
+      "end_date": "Prior to 2022",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/alexandra-ford-english-02565a31/",
+      "person_name": "Alexandra Ford English",
+      "company_name": "Ford Motor Company",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
+  "committees": [
+    "Sustainability, Innovation and Policy Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 0
+}

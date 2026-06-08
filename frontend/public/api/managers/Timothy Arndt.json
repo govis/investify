@@ -1,0 +1,39 @@
+{
+  "id": "Timothy Arndt",
+  "name": "Timothy Arndt",
+  "background": "Chief Financial Officer since April 2022. Previously served as Treasurer and Head of Corporate Capital Markets.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Prologis, Inc.",
+      "ticker": "PLD",
+      "exchange": "NYSE",
+      "website": "https://www.prologis.com",
+      "logoUrl": "/companies-assets/PLD.NYSE.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2011",
+      "endDate": null,
+      "formattedStartDate": "2011",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "AMB Property Corporation",
+      "ticker": "AMB",
+      "exchange": "NYSE",
+      "website": "https://www.prologis.com",
+      "logoUrl": "/companies-assets/AMB.NYSE.svg",
+      "title": "Various Finance Roles",
+      "startDate": "2004",
+      "endDate": "2011",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2011"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 51,
+  "ageYear": 2024
+}

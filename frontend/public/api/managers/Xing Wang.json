@@ -1,0 +1,39 @@
+{
+  "id": "Xing Wang",
+  "name": "Xing Wang",
+  "background": "Mr. Xing Wang has served as our director since July 2019. Mr. Wang is the co-founder, an executive director, the chairman of the board of directors and the chief executive officer of Meituan (HKEX: 3690). Mr. Wang is responsible for the overall strategic planning, business direction and management of Meituan.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Li Auto Inc.",
+      "ticker": "LI",
+      "exchange": "NASDAQ",
+      "website": "https://www.lixiang.com",
+      "logoUrl": "/companies-assets/LI.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Meituan",
+      "ticker": "MPNGY",
+      "exchange": "OTC",
+      "website": "https://about.meituan.com/",
+      "logoUrl": "/companies-assets/MPNGY.OTC.svg",
+      "title": "Chairman of the Board, Chief Executive Officer, Co-Founder",
+      "startDate": "2010",
+      "endDate": null,
+      "formattedStartDate": "2010",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 45,
+  "ageYear": 2024
+}

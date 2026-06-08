@@ -1,0 +1,50 @@
+{
+  "id": "Ana Cabral-Gardner",
+  "name": "Ana Cabral-Gardner",
+  "background": "Co-founder of Sigma Lithium. Over 25 years of experience in capital markets and M&A. Previously at Goldman Sachs and Barclays.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sigma Lithium Corporation",
+      "ticker": "SGML",
+      "exchange": "NASDAQ / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Co-Chairperson & Co-CEO",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Zalatoris II Acquisition Corp.",
+      "ticker": "ZTOA",
+      "exchange": "NYSE",
+      "website": "https://www.zalatorisacq.com",
+      "logoUrl": "/companies-assets/ZTOA.NYSE.png",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": "2023-07-26",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "July 2023"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/anaccabral/",
+      "person_name": "Ana Cabral",
+      "company_name": "Sigma Lithium",
+      "profile_status": "not_found",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 52,
+  "ageYear": 2024
+}

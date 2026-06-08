@@ -1,0 +1,77 @@
+{
+  "id": "Pamela Murphy",
+  "name": "Pamela Murphy",
+  "background": "Chief Executive Officer, Opportunity Network.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Rockwell Automation, Inc.",
+      "ticker": "ROK",
+      "exchange": "NYSE",
+      "website": "https://www.rockwellautomation.com",
+      "logoUrl": "/companies-assets/ROK.NYSE.svg",
+      "title": "Director",
+      "startDate": "2019-06-06",
+      "endDate": null,
+      "formattedStartDate": "June 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Visa Inc.",
+      "ticker": "V",
+      "exchange": "NYSE",
+      "website": "visa.com",
+      "logoUrl": "/companies-assets/V.NYSE.svg",
+      "title": "Director",
+      "startDate": "2023-03-01",
+      "endDate": null,
+      "formattedStartDate": "March 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "MeridianLink, Inc.",
+      "ticker": "MLNK",
+      "exchange": "NYSE",
+      "website": "meridianlink.com",
+      "logoUrl": "/companies-assets/MLNK.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021-07-01",
+      "endDate": "2023-03-01",
+      "formattedStartDate": "July 2021",
+      "formattedEndDate": "March 2023"
+    },
+    {
+      "name": "Imperva, Inc.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "CEO",
+      "startDate": "2020-01-01",
+      "endDate": "2023-12-01",
+      "formattedStartDate": "January 2020",
+      "formattedEndDate": "December 2023"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/pameladmurphy",
+      "person_name": "Pamela Murphy",
+      "company_name": "Imperva",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Technology Committee"
+  ],
+  "age": 51,
+  "ageYear": 2024
+}

@@ -1,0 +1,66 @@
+{
+  "id": "Stacy Smith",
+  "name": "Stacy Smith",
+  "background": "Stacy J. Smith joined the board in 2023. He previously served as Executive Chairman of Autodesk, Inc. and was the CFO of Intel Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Wolfspeed, Inc.",
+      "ticker": "WOLF",
+      "exchange": "NYSE",
+      "website": "https://www.wolfspeed.com",
+      "logoUrl": "/companies-assets/WOLF.NYSE.svg",
+      "title": "Director",
+      "startDate": "January 23, 2023",
+      "endDate": "September 29, 2025",
+      "formattedStartDate": "January 23, 2023",
+      "formattedEndDate": "September 29, 2025"
+    },
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "logoUrl": "/companies-assets/INTC.NASDAQ.svg",
+      "title": "Executive Vice President, Group President of Manufacturing, Operations and Sales (Past); Director (Current)",
+      "startDate": "1988",
+      "endDate": null,
+      "formattedStartDate": "1988",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Autodesk, Inc.",
+      "ticker": "ADSK",
+      "exchange": "NASDAQ",
+      "website": "https://www.autodesk.com",
+      "logoUrl": "/companies-assets/ADSK.NASDAQ.svg",
+      "title": "Director / Chairman of the Board",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Kioxia Holdings Corporation",
+      "ticker": "6600",
+      "exchange": "TSE",
+      "website": "https://www.kioxia-holdings.com",
+      "logoUrl": "/companies-assets/6600.TSE.svg",
+      "title": "Executive Chairman",
+      "startDate": "October 1, 2018",
+      "endDate": null,
+      "formattedStartDate": "October 1, 2018",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

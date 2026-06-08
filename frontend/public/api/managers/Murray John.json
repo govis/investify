@@ -1,0 +1,54 @@
+{
+  "id": "Murray John",
+  "name": "Murray John",
+  "background": "Mr. John is a mining engineer with over 35 years of experience in the resource sector. He was formerly the President and CEO of Dundee Resources Limited and served as a director of several mining companies including Osisko Gold Royalties Ltd. and Alamos Gold Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Discovery Silver Corp.",
+      "ticker": "DSV",
+      "exchange": "TSX",
+      "website": "https://discoverysilver.com",
+      "logoUrl": "/companies-assets/DSV.TSX.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "O3 Mining Inc.",
+      "ticker": "OIII",
+      "exchange": "TSXV",
+      "website": "https://o3mining.com",
+      "logoUrl": "/companies-assets/OIII.TSXV.svg",
+      "title": "Lead Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Gladiator Metals Corp.",
+      "ticker": "GLAD",
+      "exchange": "TSXV",
+      "website": "https://gladiatormetals.com",
+      "logoUrl": "/companies-assets/GLAD.TSXV.svg",
+      "title": "Board Advisor",
+      "startDate": "2024-09-05",
+      "endDate": null,
+      "formattedStartDate": "September 2024",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

@@ -1,0 +1,91 @@
+{
+  "name": "Tufan Erginbilgic",
+  "first_name": "Tufan",
+  "last_name": "Erginbilgic",
+  "age": 64,
+  "age_year": 2023,
+  "background": "Tufan Erginbilgic joined Rolls-Royce as Chief Executive Officer in January 2023. He previously spent over 20 years at BP, including as CEO of BP's Downstream business. He has held several non-executive directorships in heavy industry and manufacturing companies.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Rolls-Royce Holdings plc",
+      "ticker": "RR",
+      "exchange": "LSE",
+      "title_or_role": "Chief Executive Officer and Executive Director",
+      "website": "https://www.rolls-royce.com",
+      "start_date": "2023-01-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rolls-Royce Holdings plc",
+      "ticker": "RR",
+      "exchange": "LSE",
+      "title_or_role": "Chief Executive Officer, Executive Director",
+      "website": "https://www.rolls-royce.com",
+      "start_date": "2023-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Iveco Group N.V.",
+      "ticker": "IVG",
+      "exchange": "EXM (Borsa Italiana/LSE listed)",
+      "website": "https://www.ivecogroup.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2022-01-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "GKN plc",
+      "ticker": "GKN",
+      "exchange": "LSE",
+      "website": "https://www.gkn.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2011-05-09",
+      "end_date": "2018-01-01",
+      "validated": true
+    },
+    {
+      "name": "DCC plc",
+      "ticker": "DCC",
+      "exchange": "LSE",
+      "website": "https://www.dcc.ie",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2020-04-01",
+      "end_date": "2022-12-31",
+      "validated": true
+    },
+    {
+      "name": "T\u00fcrkiye Petrol Rafinerileri A.\u015e. (Tupras)",
+      "ticker": "TUPRS",
+      "exchange": "BIST (Istanbul Stock Exchange)",
+      "website": "https://www.tupras.com.tr",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2021-03-01",
+      "end_date": "2022-12-31",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense",
+    "Electrification",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/tufanerginbilgic",
+      "person_name": "Tufan Erginbilgic",
+      "company_name": "Rolls-Royce",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

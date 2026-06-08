@@ -1,0 +1,39 @@
+{
+  "id": "Brian Reilly",
+  "name": "Brian Reilly",
+  "background": "Brian Reilly is Senior Vice-President and Chief Operating Officer. He joined Cameco in 2011 as President of Cameco Resources and was appointed to his current role in 2017. He has over 35 years of experience in the mining industry, including roles with AREVA.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCJ",
+      "exchange": "NYSE",
+      "website": "https://www.cameco.com",
+      "logoUrl": "/companies-assets/CCJ.NYSE.svg",
+      "title": "Managing Director, Cameco Australia Pty.",
+      "startDate": "2011",
+      "endDate": "2017",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Titan Uranium Inc.",
+      "ticker": "TUE",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": "/companies-assets/TUE.TSXV.svg",
+      "title": "President and Chief Executive Officer",
+      "startDate": "2007",
+      "endDate": "2011",
+      "formattedStartDate": "2007",
+      "formattedEndDate": "2011"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 63,
+  "ageYear": 2023
+}

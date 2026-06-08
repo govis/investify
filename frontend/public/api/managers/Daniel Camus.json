@@ -1,0 +1,43 @@
+{
+  "id": "Daniel Camus",
+  "name": "Daniel Camus",
+  "background": "Daniel Camus is the former Group CFO and Head of Strategy and International Activities of Electricité de France (EDF). He has significant experience in the global energy sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Electricité de France SA (EDF)",
+      "ticker": "EDF",
+      "exchange": "LSE",
+      "website": "https://www.edf.fr",
+      "logoUrl": "/companies-assets/EDF.LSE.svg",
+      "title": "Group CFO and Head of Strategy and International Activities",
+      "startDate": "2002",
+      "endDate": "2010",
+      "formattedStartDate": "2002",
+      "formattedEndDate": "2010"
+    },
+    {
+      "name": "Constellation Energy Group Inc.",
+      "ticker": "CEG",
+      "exchange": "NYSE",
+      "website": "https://www.constellationenergy.com",
+      "logoUrl": "/companies-assets/CEG.NYSE.svg",
+      "title": "Director",
+      "startDate": "2010-03-31",
+      "endDate": "2010-10-18",
+      "formattedStartDate": "March 2010",
+      "formattedEndDate": "October 2010"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Audit and Finance Committee",
+    "Human Resources and Compensation Committee"
+  ],
+  "age": 71,
+  "ageYear": 2023
+}

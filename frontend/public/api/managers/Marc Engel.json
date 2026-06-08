@@ -1,0 +1,54 @@
+{
+  "id": "Marc Engel",
+  "name": "Marc Engel",
+  "background": "Marc Engel was previously the Chief Supply Chain Officer at Unilever. He has extensive experience in global supply chain management and sustainability.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "A.P. Møller - Mærsk A/S",
+      "ticker": "MAERSK-B.CO",
+      "exchange": "Copenhagen Stock Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Member of the Board of Directors",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Unilever PLC",
+      "ticker": "UL",
+      "exchange": "NYSE / LSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Supply Chain Officer",
+      "startDate": "2016",
+      "endDate": "2022",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2022"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/1marcengel",
+      "person_name": "Marc Engel",
+      "company_name": "Unilever",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Chair of the Nomination Committee",
+    "Chair of the Remuneration Committee",
+    "Member of the Chairmanship"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

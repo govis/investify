@@ -1,0 +1,62 @@
+{
+  "id": "Heather Laxton",
+  "name": "Heather Laxton",
+  "background": "Ms. Laxton has over 20 years of experience in corporate governance and legal affairs within the mining industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Wesdome Gold Mines Ltd.",
+      "ticker": "WDO",
+      "exchange": "TSX",
+      "website": "https://www.wesdome.com",
+      "logoUrl": "/companies-assets/WDO.TSX.svg",
+      "title": "Chief Governance Officer & Corporate Secretary",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Bravo Mining Corp.",
+      "ticker": "BRVO",
+      "exchange": "TSXV",
+      "website": "https://bravomining.com",
+      "logoUrl": "/companies-assets/BRVO.TSXV.png",
+      "title": "Corporate Secretary",
+      "startDate": "2024-01-22",
+      "endDate": null,
+      "formattedStartDate": "January 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Kirkland Lake Gold Ltd.",
+      "ticker": "KL",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Corporate Secretary",
+      "startDate": "2013-05",
+      "endDate": "2015-06",
+      "formattedStartDate": "May 2013",
+      "formattedEndDate": "June 2015"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/heatherlaxton",
+      "person_name": "Heather Laxton",
+      "company_name": "Wesdome Gold Mines Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 52,
+  "ageYear": 2024
+}

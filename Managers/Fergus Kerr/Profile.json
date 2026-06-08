@@ -1,0 +1,59 @@
+{
+  "name": "Fergus Kerr",
+  "first_name": "Fergus",
+  "last_name": "Kerr",
+  "age": 71,
+  "age_year": 2024,
+  "background": "Mr. Kerr is a Professional Engineer with over 40 years of experience in the mining industry, specializing in underground mining operations.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Global Atomic Corporation",
+      "ticker": "GLO",
+      "exchange": "TSX",
+      "title_or_role": "Vice President, Operations",
+      "website": "https://globalatomiccorp.com",
+      "start_date": "2017-12-22",
+      "end_date": null
+    },
+    {
+      "name": "McFarlane Lake Mining Ltd.",
+      "ticker": "MLM",
+      "exchange": "NEO",
+      "website": "https://mcfarlanelakemining.com/",
+      "title_or_role": "Lead Independent Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Harte Gold Corp.",
+      "ticker": "HRT",
+      "exchange": "TSX",
+      "website": "https://www.hartegold.com/",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2019",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/fergus-kerr-b6123849",
+      "person_name": "Fergus Kerr",
+      "company_name": "Global Atomic Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

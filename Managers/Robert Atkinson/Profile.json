@@ -1,0 +1,43 @@
+{
+  "name": "Robert Atkinson",
+  "first_name": "Robert",
+  "last_name": "Atkinson",
+  "age": 65,
+  "age_year": 2024,
+  "background": "Mr. Atkinson has over 35 years of experience in the investment industry. He was previously the President and CEO of Loewen, Ondaatje, McCutcheon & Co. Ltd.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Artemis Gold Inc.",
+      "ticker": "ARTG",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "artemisgoldinc.com",
+      "start_date": "2020",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Newmont Corporation",
+      "ticker": "NEM",
+      "exchange": "NYSE",
+      "website": "newmont.com",
+      "title_or_role": "EVP & Chief Operating Officer",
+      "start_date": "June 2019",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Governance and Nomination Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

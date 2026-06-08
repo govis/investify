@@ -1,0 +1,62 @@
+{
+  "id": "Jeffrey Sharritts",
+  "name": "Jeffrey Sharritts",
+  "background": "Jeff Sharritts is Executive Vice President and Chief Customer and Partner Officer. He has been with Cisco since 2000 in various sales leadership roles.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "website": "https://www.cisco.com",
+      "logoUrl": "/companies-assets/CSCO.NASDAQ.svg",
+      "title": "Senior Vice President, Americas / Executive Vice President and Chief Customer Officer",
+      "startDate": "2000",
+      "endDate": "2024",
+      "formattedStartDate": "2000",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Lumen Technologies, Inc.",
+      "ticker": "LUMN",
+      "exchange": "NYSE",
+      "website": "https://www.lumen.com",
+      "logoUrl": "/companies-assets/LUMN.NYSE.svg",
+      "title": "Chief Revenue Officer",
+      "startDate": "2026-02-03",
+      "endDate": null,
+      "formattedStartDate": "February 2026",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Mueller Water Products, Inc.",
+      "ticker": "MWA",
+      "exchange": "NYSE",
+      "website": "https://www.muellerwaterproducts.com",
+      "logoUrl": "/companies-assets/MWA.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2021-03-24",
+      "endDate": null,
+      "formattedStartDate": "March 2021",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jeff-sharritts-5552111",
+      "person_name": "Jeffrey Sharritts",
+      "company_name": "Cisco Systems, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 57,
+  "ageYear": 2024
+}

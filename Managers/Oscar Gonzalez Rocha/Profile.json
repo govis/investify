@@ -1,0 +1,40 @@
+{
+  "name": "Oscar Gonzalez Rocha",
+  "first_name": "Oscar",
+  "last_name": "Gonzalez Rocha",
+  "age": 85,
+  "age_year": 2024,
+  "background": "President since December 1999 and Chief Executive Officer since October 2004. Director since November 1999. Director and Chief Executive Officer of Americas Mining Corporation since 2002. Director and President of Grupo Mexico since 2002.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Southern Copper Corporation",
+      "ticker": "SCCO",
+      "exchange": "NYSE",
+      "title_or_role": "President and Chief Executive Officer; Member of the Board of Directors",
+      "website": "https://www.southerncoppercorp.com",
+      "start_date": "December 1999",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/oscar-gonzalez-rocha-4a5b2a12",
+      "person_name": "Oscar Gonzalez Rocha",
+      "company_name": "Southern Copper Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

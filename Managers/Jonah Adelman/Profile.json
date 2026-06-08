@@ -1,0 +1,50 @@
+{
+  "name": "Jonah Adelman",
+  "first_name": "Jonah",
+  "last_name": "Adelman",
+  "age": 72,
+  "age_year": 2024,
+  "background": "Mr. Adelman has served as President of our Microwave Electronics Division since our acquisition of General Microwave Corporation in 2008.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Kratos Defense & Security Solutions, Inc.",
+      "ticker": "KTOS",
+      "exchange": "NASDAQ",
+      "title_or_role": "President, Microwave Electronics Division",
+      "website": "https://www.kratosdefense.com",
+      "start_date": "August 2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "General Microwave Corporation",
+      "ticker": "GMIC",
+      "exchange": "NASDAQ",
+      "website": "https://www.kratosdefense.com",
+      "title_or_role": "General Manager, General Microwave Israel",
+      "start_date": "1990",
+      "end_date": "2008",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jonah-adelman-4a5a5a12",
+      "person_name": "Jonah Adelman",
+      "company_name": "Kratos Defense & Security Solutions, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,74 @@
+{
+  "name": "Jan Bertsch",
+  "first_name": "Jan",
+  "last_name": "Bertsch",
+  "age": 67,
+  "age_year": 2024,
+  "background": "Ms. Bertsch served as Senior Vice President and Chief Financial Officer of Owens-Illinois, Inc. from 2015 to 2019.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "BWX Technologies, Inc.",
+      "ticker": "BWXT",
+      "exchange": "NYSE",
+      "title_or_role": "Director (since 2013), Independent Chair of the Board (since 2022)",
+      "website": "https://www.bwxt.com",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Regal Rexnord Corporation",
+      "ticker": "RRX",
+      "exchange": "NYSE",
+      "website": "https://www.regalrexnord.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Axalta Coating Systems, Inc.",
+      "ticker": "AXTA",
+      "exchange": "NYSE",
+      "website": "https://www.axalta.com",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Meritor, Inc.",
+      "ticker": "MTOR",
+      "exchange": "NYSE",
+      "website": "https://www.meritor.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2022",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jan-bertsch-172b9733",
+      "person_name": "Jan Bertsch",
+      "company_name": "BWX Technologies, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

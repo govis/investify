@@ -1,0 +1,42 @@
+{
+  "name": "Susan van der Merwe",
+  "first_name": "Susan",
+  "last_name": "van der Merwe",
+  "age": 69,
+  "age_year": 2023,
+  "background": "Susan van der Merwe was appointed as an independent non-executive director on 21 February 2013. She served as a member of Parliament in South Africa for 18 years.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Sibanye Stillwater Limited",
+      "ticker": "SBSW",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Non-Executive Director",
+      "website": "https://www.sibanyestillwater.com",
+      "start_date": "2013",
+      "end_date": "2024",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://za.linkedin.com/in/susan-van-der-merwe-3311a859",
+      "person_name": "Susan van der Merwe",
+      "company_name": "Sibanye Stillwater Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Social, Ethics and Sustainability Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

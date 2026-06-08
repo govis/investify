@@ -1,0 +1,50 @@
+{
+  "id": "Kim Hanemann",
+  "name": "Kim Hanemann",
+  "background": "Kim Hanemann is President and Chief Operating Officer of PSE&G. She has served in this role since June 2021. She joined PSE&G in 1986.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Public Service Enterprise Group Incorporated",
+      "ticker": "PEG",
+      "exchange": "NYSE",
+      "website": "https://www.pseg.com",
+      "logoUrl": "/companies-assets/PEG.NYSE.svg",
+      "title": "President and Chief Operating Officer, Public Service Electric and Gas (PSE&G)",
+      "startDate": "2021-06-30",
+      "endDate": null,
+      "formattedStartDate": "June 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Middlesex Water Company",
+      "ticker": "MSEX",
+      "exchange": "NASDAQ",
+      "website": "https://www.middlesexwater.com",
+      "logoUrl": "/companies-assets/MSEX.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2022-05",
+      "endDate": null,
+      "formattedStartDate": "May 2022",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kim-hanemann",
+      "person_name": "Kim Hanemann",
+      "company_name": "Public Service Electric and Gas (PSE&G)",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 60,
+  "ageYear": 2024
+}

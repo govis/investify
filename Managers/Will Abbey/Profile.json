@@ -1,0 +1,50 @@
+{
+  "name": "Will Abbey",
+  "first_name": "Will",
+  "last_name": "Abbey",
+  "age": 51,
+  "age_year": 2024,
+  "background": "Will Abbey has served as our Executive Vice President and Chief Revenue Officer since 2022. He joined Arm in 2004 and has held several leadership positions in sales and marketing.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Arm Holdings plc",
+      "ticker": "ARM",
+      "exchange": "NASDAQ",
+      "title_or_role": "EVP and Chief Commercial Officer",
+      "website": "https://www.arm.com/",
+      "start_date": "2004",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Enpro Inc.",
+      "ticker": "NPO",
+      "exchange": "NYSE",
+      "website": "https://www.enproindustries.com/",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2022-09-06",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/will-abbey-8036335",
+      "person_name": "Will Abbey",
+      "company_name": "Arm",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

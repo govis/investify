@@ -1,0 +1,60 @@
+{
+  "name": "Mason Morfit",
+  "first_name": "Mason",
+  "last_name": "Morfit",
+  "age": 48,
+  "age_year": 2024,
+  "background": "CEO and Co-Chief Investment Officer of ValueAct Capital. He joined the board in 2023.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Salesforce, Inc.",
+      "ticker": "CRM",
+      "exchange": "NYSE",
+      "title_or_role": "Member, Board of Directors",
+      "website": "https://www.salesforce.com",
+      "start_date": "March 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "https://www.microsoft.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "March 2014",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Valeant Pharmaceuticals International, Inc. (now Bausch Health Companies Inc.)",
+      "ticker": "BHC",
+      "exchange": "NYSE",
+      "website": "https://www.bauschhealth.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2011",
+      "end_date": "2015",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mason-morfit-b5ab3a9a",
+      "person_name": "Mason Morfit",
+      "company_name": "ValueAct Capital",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

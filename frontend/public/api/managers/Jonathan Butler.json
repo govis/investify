@@ -1,0 +1,39 @@
+{
+  "id": "Jonathan Butler",
+  "name": "Jonathan Butler",
+  "background": "Mr. Butler has served as our General Counsel and Secretary since 2021. He joined Lucid in 2016. Previously, he was Deputy General Counsel at Tesla and an attorney at Pillsbury Winthrop Shaw Pittman LLP.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lucid Group, Inc.",
+      "ticker": "LCID",
+      "exchange": "NASDAQ",
+      "website": "https://www.lucidmotors.com",
+      "logoUrl": "/companies-assets/LCID.NASDAQ.svg",
+      "title": "VP, General Counsel",
+      "startDate": "2020",
+      "endDate": "2023",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Tesla, Inc.",
+      "ticker": "TSLA",
+      "exchange": "NASDAQ",
+      "website": "https://www.tesla.com",
+      "logoUrl": "/companies-assets/TSLA.NASDAQ.svg",
+      "title": "Deputy General Counsel",
+      "startDate": "2012",
+      "endDate": "2020",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2020"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 48,
+  "ageYear": 2024
+}

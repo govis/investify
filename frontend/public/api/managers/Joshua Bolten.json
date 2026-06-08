@@ -1,0 +1,41 @@
+{
+  "id": "Joshua Bolten",
+  "name": "Joshua Bolten",
+  "background": "President and CEO of Business Roundtable and former White House Chief of Staff.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Emerson Electric Co.",
+      "ticker": "EMR",
+      "exchange": "NYSE",
+      "website": "https://www.emerson.com",
+      "logoUrl": "/companies-assets/EMR.NYSE.svg",
+      "title": "Director",
+      "startDate": "2012-02-08",
+      "endDate": null,
+      "formattedStartDate": "February 2012",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/josh-bolten-aaa54499",
+      "person_name": "Joshua Bolten",
+      "company_name": "Business Roundtable",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Corporate Governance and Nominating",
+    "Finance"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

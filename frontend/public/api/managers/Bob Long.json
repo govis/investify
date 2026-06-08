@@ -1,0 +1,53 @@
+{
+  "id": "Bob Long",
+  "name": "Bob Long",
+  "background": "Mr. Long has over 40 years of experience in the mining and finance industries. He was previously CEO of Lydian International and has held senior roles at the International Finance Corporation (IFC).",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "StepStone Group Inc.",
+      "ticker": "STEP",
+      "exchange": "NASDAQ",
+      "website": "https://www.stepstonegroup.com/",
+      "logoUrl": "/companies-assets/STEP.NASDAQ.svg",
+      "title": "CEO of StepStone Private Wealth Solutions",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "OHA Investment Corporation",
+      "ticker": "OHAI",
+      "exchange": "NASDAQ",
+      "website": "https://www.ohainvestment.com/",
+      "logoUrl": "https://brandfetch.com/oakhilladvisors.com",
+      "title": "CEO",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/boblongstepstone",
+      "person_name": "Bob Long",
+      "company_name": "StepStone Group",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation and Nominating Committee",
+    "Technical Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

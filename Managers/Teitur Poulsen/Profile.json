@@ -1,0 +1,60 @@
+{
+  "name": "Teitur Poulsen",
+  "first_name": "Teitur",
+  "last_name": "Poulsen",
+  "age": 52,
+  "age_year": 2024,
+  "background": "Mr. Poulsen has over 25 years of experience in the resource industry. He joined Lundin Mining as Senior Vice President and Chief Financial Officer in 2023. Prior to this, he was CFO of Lundin Energy AB.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lundin Mining Corporation",
+      "ticker": "LUN",
+      "exchange": "TSX",
+      "title_or_role": "Executive VP & CFO",
+      "website": "https://lundinmining.com",
+      "start_date": "Sept 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lundin Energy AB",
+      "ticker": "LUNE",
+      "exchange": "STO",
+      "website": "https://lundin-energy.com",
+      "title_or_role": "CFO",
+      "start_date": "2012",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Aker BP ASA",
+      "ticker": "AKRBP",
+      "exchange": "OSE (Oslo)",
+      "website": "https://akerbp.com",
+      "title_or_role": "CFO",
+      "start_date": "2010",
+      "end_date": "2012",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/teitur-poulsen-40ab7b1",
+      "person_name": "Teitur Poulsen",
+      "company_name": "Lundin Mining Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

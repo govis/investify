@@ -1,0 +1,53 @@
+{
+  "id": "Sarah Weber",
+  "name": "Sarah Weber",
+  "background": "Ms. Weber is a Professional Geoscientist with over 20 years of experience in the resource sector. She is the President and CEO of C3 Alliance Corp.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Relevant Gold Corp.",
+      "ticker": "RGC",
+      "exchange": "CSE",
+      "website": "https://relevantgoldcorp.com/",
+      "logoUrl": "/companies-assets/RGC.CSE.png",
+      "title": "Independent Chairman",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Happy Creek Minerals Ltd.",
+      "ticker": "HPY",
+      "exchange": "TSXV",
+      "website": "https://www.happycreekminerals.com/",
+      "logoUrl": "/companies-assets/HPY.TSXV.png",
+      "title": "Independent Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sarahnweber",
+      "person_name": "Sarah Weber",
+      "company_name": "C3 Alliance Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 49,
+  "ageYear": 2024
+}

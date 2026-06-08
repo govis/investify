@@ -1,0 +1,63 @@
+{
+  "name": "Sandra Dodds",
+  "first_name": "Sandra",
+  "last_name": "Dodds",
+  "age": 56,
+  "age_year": 2024,
+  "background": "Ms. Dodds has over 25 years of experience in operational and financial roles across various industries including infrastructure and mining services.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC",
+      "exchange": "TSX",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://oceanagold.com",
+      "start_date": "2020-11-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Fletcher Building Limited",
+      "ticker": "FBU",
+      "exchange": "ASX",
+      "website": "https://www.fletcherbuilding.com",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2021-09-01",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Contact Energy Limited",
+      "ticker": "CEN",
+      "exchange": "NZX",
+      "website": "https://contact.co.nz",
+      "title_or_role": "Independent Director",
+      "start_date": "2021-09-01",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/sandra-dodds-45a4b955",
+      "person_name": "Sandra Dodds",
+      "company_name": "OceanaGold Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and People Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

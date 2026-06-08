@@ -1,0 +1,50 @@
+{
+  "id": "Ross Jatou",
+  "name": "Ross Jatou",
+  "background": "Ross Jatou has served as our Executive Vice President and General Manager, Intelligent Sensing Group since October 2020. He joined the Company in 2015 and has held various leadership roles in the automotive and industrial sensing business.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "ON Semiconductor Corporation",
+      "ticker": "ON",
+      "exchange": "NASDAQ",
+      "website": "https://www.onsemi.com",
+      "logoUrl": "/companies-assets/ON.NASDAQ.svg",
+      "title": "Senior Vice President and General Manager, Intelligent Sensing Group",
+      "startDate": "2015",
+      "endDate": "February 2024",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "February 2024"
+    },
+    {
+      "name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "exchange": "NASDAQ",
+      "website": "https://www.nvidia.com",
+      "logoUrl": "/companies-assets/NVDA.NASDAQ.svg",
+      "title": "Held various roles",
+      "startDate": "2000",
+      "endDate": "2015",
+      "formattedStartDate": "2000",
+      "formattedEndDate": "2015"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ross-jatou-5a5a2a1",
+      "person_name": "Ross Jatou",
+      "company_name": "ON Semiconductor Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 52,
+  "ageYear": 2024
+}

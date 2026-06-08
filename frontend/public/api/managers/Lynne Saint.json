@@ -1,0 +1,53 @@
+{
+  "id": "Lynne Saint",
+  "name": "Lynne Saint",
+  "background": "Lynne Saint was appointed to the Board in October 2019. She has over 30 years’ experience in financial, ethical and commercial roles, including as Chief Audit Executive at Bechtel Group.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Nufarm Limited",
+      "ticker": "NUF",
+      "exchange": "ASX",
+      "website": "https://nufarm.com",
+      "logoUrl": "/companies-assets/NUF.ASX.svg",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2020-12-18",
+      "endDate": null,
+      "formattedStartDate": "December 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Ventia Services Group Limited",
+      "ticker": "VNT",
+      "exchange": "ASX",
+      "website": "https://www.ventia.com",
+      "logoUrl": "/companies-assets/VNT.ASX.png",
+      "title": "Independent Non-Executive Director",
+      "startDate": "2021-10-01",
+      "endDate": null,
+      "formattedStartDate": "October 2021",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/lynne-saint-90996244",
+      "person_name": "Lynne Saint",
+      "company_name": "Iluka Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee (Chair)",
+    "Nominations Committee"
+  ],
+  "age": 61,
+  "ageYear": 2023
+}

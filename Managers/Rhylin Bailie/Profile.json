@@ -1,0 +1,80 @@
+{
+  "name": "Rhylin Bailie",
+  "first_name": "Rhylin",
+  "last_name": "Bailie",
+  "age": 51,
+  "age_year": 2024,
+  "background": "Ms. Bailie has over 25 years of experience in investor relations and communications for mining companies, including roles at NovaGold Resources and Goldcorp.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Equinox Gold Corp.",
+      "ticker": "EQX",
+      "exchange": "TSX",
+      "title_or_role": "VP, Investor Relations",
+      "website": "https://www.equinoxgold.com",
+      "start_date": "Oct 2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Luna Gold Corp.",
+      "ticker": "LGC",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "VP, Investor Relations",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Southern Arc Minerals Inc.",
+      "ticker": "SA",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Investor Relations",
+      "start_date": "July 2011",
+      "end_date": "Oct 2016",
+      "validated": true
+    },
+    {
+      "name": "Eagle Hill Exploration Corp.",
+      "ticker": "EAG",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Investor Relations",
+      "start_date": "July 2011",
+      "end_date": "Oct 2016",
+      "validated": true
+    },
+    {
+      "name": "Sandspring Resources Ltd.",
+      "ticker": "SSP",
+      "exchange": "TSXV",
+      "website": null,
+      "title_or_role": "Investor Relations",
+      "start_date": "July 2011",
+      "end_date": "Oct 2016",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/rhylin-bailie-f-ciri-5138033",
+      "person_name": "Rhylin Bailie",
+      "company_name": "Equinox Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

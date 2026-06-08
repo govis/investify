@@ -1,0 +1,52 @@
+{
+  "name": "Michele Santana",
+  "first_name": "Michele",
+  "last_name": "Santana",
+  "age": 53,
+  "age_year": 2024,
+  "background": "Chief Financial Officer of Majestic Steel USA, Inc. Former CFO of Signet Jewelers Limited.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "TransDigm Group Incorporated",
+      "ticker": "TDG",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.transdigm.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Signet Jewelers Limited",
+      "ticker": "SIG",
+      "exchange": "NYSE",
+      "website": "https://www.signetjewelers.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2014",
+      "end_date": "April 2019",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/michelelsantana",
+      "person_name": "Michele Santana",
+      "company_name": "Signet Jewelers Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

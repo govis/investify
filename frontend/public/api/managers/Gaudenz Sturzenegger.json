@@ -1,0 +1,50 @@
+{
+  "id": "Gaudenz Sturzenegger",
+  "name": "Gaudenz Sturzenegger",
+  "background": "Gaudenz Sturzenegger joined Lynas in 2011 and was appointed Chief Financial Officer in 2018. He has extensive experience in financial management, corporate finance, and accounting within the resources sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lynas Rare Earths Limited",
+      "ticker": "LYC",
+      "exchange": "ASX",
+      "website": "https://lynasrareearths.com",
+      "logoUrl": "/companies-assets/LYC.ASX.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Orica Limited",
+      "ticker": "ORI",
+      "exchange": "ASX",
+      "website": "https://www.orica.com",
+      "logoUrl": "/companies-assets/ORI.ASX.svg",
+      "title": "Senior Executive",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://my.linkedin.com/in/gaudenz-sturzenegger-0b29625a",
+      "person_name": "Gaudenz Sturzenegger",
+      "company_name": "Lynas Rare Earths Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

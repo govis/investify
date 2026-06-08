@@ -1,0 +1,41 @@
+{
+  "id": "Blayne Johnson",
+  "name": "Blayne Johnson",
+  "background": "Mr. Johnson has over 30 years of experience in the capital markets and mining sector. He was a founder of Newmarket Gold and has been involved in numerous successful mining ventures.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Newcore Gold Ltd.",
+      "ticker": "NCAU",
+      "exchange": "TSXV",
+      "website": "https://newcoregold.com/",
+      "logoUrl": "/companies-assets/NCAU.TSXV.png",
+      "title": "Lead Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Equinox Gold Corp.",
+      "ticker": "EQX",
+      "exchange": "TSX/NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2025-06-17",
+      "endDate": null,
+      "formattedStartDate": "June 2025",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 59,
+  "ageYear": 2024
+}

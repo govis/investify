@@ -1,0 +1,90 @@
+{
+  "id": "Mercedes Johnson",
+  "name": "Mercedes Johnson",
+  "background": "Mercedes Johnson has been a director since 2014. She was formerly the Senior Vice President and CFO of Avago Technologies Limited and CFO of Lam Research Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Teradyne, Inc.",
+      "ticker": "TER",
+      "exchange": "NASDAQ",
+      "website": "https://www.teradyne.com",
+      "logoUrl": "/companies-assets/TER.NASDAQ.svg",
+      "title": "Independent Director",
+      "startDate": "2012",
+      "endDate": null,
+      "formattedStartDate": "2012",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Synopsys, Inc.",
+      "ticker": "SNPS",
+      "exchange": "NASDAQ",
+      "website": "https://www.synopsys.com",
+      "logoUrl": "/companies-assets/SNPS.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2012",
+      "endDate": null,
+      "formattedStartDate": "2012",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Juniper Networks, Inc.",
+      "ticker": "JNPR",
+      "exchange": "NYSE",
+      "website": "https://www.juniper.net",
+      "logoUrl": "/companies-assets/JNPR.NYSE.svg",
+      "title": "Director",
+      "startDate": "2011",
+      "endDate": "2024",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Intersil Corporation",
+      "ticker": "ISIL",
+      "exchange": "NASDAQ",
+      "website": "https://www.intersil.com",
+      "logoUrl": "https://www.intersil.com/etc/designs/intersil/images/logo.png",
+      "title": "Director / Interim Chief Financial Officer",
+      "startDate": "2005",
+      "endDate": "2013",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Micron Technology, Inc.",
+      "ticker": "MU",
+      "exchange": "NASDAQ",
+      "website": "https://www.micron.com",
+      "logoUrl": "/companies-assets/MU.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2006",
+      "endDate": "2012",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "Storage Technology Corporation (StorageTek)",
+      "ticker": "STK",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "/companies-assets/STK.NYSE.svg",
+      "title": "Director",
+      "startDate": "2004",
+      "endDate": "2005",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2005"
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

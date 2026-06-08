@@ -1,0 +1,38 @@
+{
+  "name": "Shantanu Narayen",
+  "first_name": "Shantanu",
+  "last_name": "Narayen",
+  "age": 60,
+  "age_year": 2024,
+  "background": "Mr. Narayen has served as Chair of the Board since January 2017, as Chief Executive Officer since December 2007 and as President since January 2005. He has been a director since September 2007. He previously served as Chief Operating Officer from July 2005 to December 2007.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Adobe Inc.",
+      "ticker": "ADBE",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chair of the Board, Chief Executive Officer, Director, President",
+      "website": "https://www.adobe.com",
+      "start_date": "2017-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Pfizer Inc.",
+      "ticker": "PFE",
+      "exchange": "NYSE",
+      "website": "https://www.pfizer.com",
+      "title_or_role": "Director (Lead Independent Director)",
+      "start_date": "2013-09-27",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "committees": [],
+  "enrichment_socials": "not_found",
+  "enrichment_company_affiliations": "success",
+  "socials": []
+}

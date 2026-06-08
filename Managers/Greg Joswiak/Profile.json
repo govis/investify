@@ -1,0 +1,34 @@
+{
+  "name": "Greg Joswiak",
+  "first_name": "Greg",
+  "last_name": "Joswiak",
+  "age": 60,
+  "age_year": 2024,
+  "background": "Greg \u201cJoz\u201d Joswiak is Apple\u2019s senior vice president of Worldwide Marketing, reporting to CEO Tim Cook. Since joining Apple in June 1986, Joz has played a pivotal role in the product marketing and management of all Apple products.",
+  "picture_url": "https://www.macerkopf.de/wp-content/uploads/2020/10/greg_joswiak.jpg",
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Apple Inc.",
+      "ticker": "AAPL",
+      "exchange": "NASDAQ",
+      "title_or_role": "Senior Vice President of Worldwide Marketing",
+      "website": "https://www.apple.com",
+      "start_date": "June 1986",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "Greg Joswiak",
+      "url": "https://x.com/gregjoz"
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

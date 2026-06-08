@@ -1,0 +1,76 @@
+{
+  "id": "Pär Boman",
+  "name": "Pär Boman",
+  "background": "Chairman of the Board. Previously President and CEO of Handelsbanken. Chairman of Svenska Cellulosa Aktiebolaget SCA.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AB Volvo",
+      "ticker": "VOLV-B",
+      "exchange": "Nasdaq Stockholm",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman of the Board",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Handelsbanken",
+      "ticker": "SHB-A",
+      "exchange": "Nasdaq Stockholm",
+      "website": null,
+      "logoUrl": null,
+      "title": "CEO",
+      "startDate": "2006",
+      "endDate": "2015",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Skanska AB",
+      "ticker": "SKA-B",
+      "exchange": "Nasdaq Stockholm",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Member",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "AB Industrivärden",
+      "ticker": "INDU-A",
+      "exchange": "Nasdaq Stockholm",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice Chairman of the Board",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://se.linkedin.com/in/pär-boman-53391411",
+      "person_name": "Pär Boman",
+      "company_name": "AB Volvo",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Remuneration Committee (Chair)"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

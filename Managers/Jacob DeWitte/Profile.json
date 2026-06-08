@@ -1,0 +1,40 @@
+{
+  "name": "Jacob DeWitte",
+  "first_name": "Jacob",
+  "last_name": "DeWitte",
+  "age": 38,
+  "age_year": 2024,
+  "background": "Dr. Jacob DeWitte is the co-founder and Chief Executive Officer of Oklo. He has been a director of Oklo since its inception in 2013. Dr. DeWitte has experience in the nuclear industry, working on reactor design and strategy. He holds a Ph.D. in Nuclear Engineering from the Massachusetts Institute of Technology.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Oklo Inc.",
+      "ticker": "OKLO",
+      "exchange": "NYSE",
+      "title_or_role": "Co-Founder, Chief Executive Officer, and Director",
+      "website": "https://oklo.com",
+      "start_date": "July 2013",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jacob-dewitte-90062132",
+      "person_name": "Jacob DeWitte",
+      "company_name": "Oklo Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

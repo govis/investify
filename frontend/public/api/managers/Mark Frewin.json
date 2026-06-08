@@ -1,0 +1,39 @@
+{
+  "id": "Mark Frewin",
+  "name": "Mark Frewin",
+  "background": "Mr. Frewin is a lawyer with over 35 years of experience in the legal and mining sectors. He has held senior executive positions and directorships in several resource companies. He was previously a partner at McCarthy Tétrault LLP.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Forsys Metals Corp.",
+      "ticker": "FSY",
+      "exchange": "TSX",
+      "website": "https://forsysmetals.com",
+      "logoUrl": "/companies-assets/FSY.TSX.svg",
+      "title": "CEO and Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Giyani Metals Corp.",
+      "ticker": "EMM",
+      "exchange": "TSXV",
+      "website": "https://giyanimetals.com",
+      "logoUrl": "/companies-assets/EMM.TSXV.svg",
+      "title": "Director",
+      "startDate": "2012-06-01",
+      "endDate": null,
+      "formattedStartDate": "June 2012",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 70,
+  "ageYear": 2024
+}

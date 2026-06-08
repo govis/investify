@@ -1,0 +1,65 @@
+{
+  "id": "Andy Lloyd",
+  "name": "Andy Lloyd",
+  "background": "Mr Lloyd has over 30 years' experience in the mining and resources industry. He has held senior executive roles with Rio Tinto, including as Managing Director of Rio Tinto's uranium business. He is currently a non-executive director of several other ASX listed companies.",
+  "pictureUrl": "/managers-assets/Andy Lloyd.jpg",
+  "companies": [
+    {
+      "name": "Metro Mining Limited",
+      "ticker": "MMI",
+      "exchange": "ASX",
+      "website": "https://metromining.com.au",
+      "logoUrl": "/companies-assets/MMI.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Energy Resources of Australia Ltd",
+      "ticker": "ERA",
+      "exchange": "ASX",
+      "website": "https://www.energyres.com.au/",
+      "logoUrl": "/companies-assets/ERA.ASX.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Coal and Allied Industries Ltd",
+      "ticker": "CNA",
+      "exchange": "ASX",
+      "website": null,
+      "logoUrl": "/companies-assets/CNA.ASX.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/andy-lloyd-4031577",
+      "person_name": "Andy Lloyd",
+      "company_name": "Elevate Uranium Limited",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "age": null,
+  "ageYear": null
+}

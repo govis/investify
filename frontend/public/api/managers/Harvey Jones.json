@@ -1,0 +1,42 @@
+{
+  "id": "Harvey Jones",
+  "name": "Harvey Jones",
+  "background": "Managing Partner of Square Wave Ventures and co-founder of Daisy Systems Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "exchange": "NASDAQ",
+      "website": "https://www.nvidia.com",
+      "logoUrl": "/companies-assets/NVDA.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "1993",
+      "endDate": null,
+      "formattedStartDate": "1993",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/harvey-c-jones",
+      "person_name": "Harvey Jones",
+      "company_name": "NVIDIA Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

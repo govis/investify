@@ -1,0 +1,70 @@
+{
+  "name": "Guilherme Cavalcanti",
+  "first_name": "Guilherme",
+  "last_name": "Cavalcanti",
+  "age": null,
+  "age_year": null,
+  "background": "Mr. Cavalcanti has extensive experience in the Brazilian mining sector, having worked with major companies in project development and operations.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Cabral Gold Inc.",
+      "ticker": "CBRG",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "https://www.cabralgold.com/",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "JBS S.A.",
+      "ticker": "JBS",
+      "exchange": "NYSE",
+      "website": "https://www.jbs.com.br/",
+      "title_or_role": "Global CFO and Investor Relations Officer",
+      "start_date": "January 2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Fibria Celulose S.A.",
+      "ticker": "FBR",
+      "exchange": "NYSE",
+      "website": "https://www.fibria.com.br/",
+      "title_or_role": "CFO and Investor Relations Officer",
+      "start_date": "2012",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "Vale S.A.",
+      "ticker": "VALE",
+      "exchange": "NYSE",
+      "website": "https://www.vale.com/",
+      "title_or_role": "CFO and Investor Relations Officer",
+      "start_date": "2005",
+      "end_date": "2011",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/guilherme-cavalcanti-7a5b2a1",
+      "person_name": "Guilherme Cavalcanti",
+      "company_name": "JBS S.A.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

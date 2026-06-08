@@ -1,0 +1,79 @@
+{
+  "id": "Alan Bennett",
+  "name": "Alan Bennett",
+  "background": "Former President and CEO of H&R Block, Inc. Former CFO of Aetna Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Fluor Corporation",
+      "ticker": "FLR",
+      "exchange": "NYSE",
+      "website": "https://www.fluor.com",
+      "logoUrl": "/companies-assets/FLR.NYSE.svg",
+      "title": "Director",
+      "startDate": "2011",
+      "endDate": null,
+      "formattedStartDate": "2011",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Halliburton Company",
+      "ticker": "HAL",
+      "exchange": "NYSE",
+      "website": "https://www.halliburton.com",
+      "logoUrl": "/companies-assets/HAL.NYSE.svg",
+      "title": "Director",
+      "startDate": "2006",
+      "endDate": null,
+      "formattedStartDate": "2006",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "The TJX Companies, Inc.",
+      "ticker": "TJX",
+      "exchange": "NYSE",
+      "website": "https://www.tjx.com",
+      "logoUrl": "/companies-assets/TJX.NYSE.svg",
+      "title": "Director",
+      "startDate": "2007",
+      "endDate": null,
+      "formattedStartDate": "2007",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "H&R Block, Inc.",
+      "ticker": "HRB",
+      "exchange": "NYSE",
+      "website": "https://www.hrblock.com",
+      "logoUrl": "/companies-assets/HRB.NYSE.svg",
+      "title": "Director",
+      "startDate": "2008",
+      "endDate": "2011",
+      "formattedStartDate": "2008",
+      "formattedEndDate": "2011"
+    },
+    {
+      "name": "Aetna Inc.",
+      "ticker": "AET",
+      "exchange": "NYSE",
+      "website": "https://www.aetna.com",
+      "logoUrl": "/companies-assets/AET.NYSE.svg",
+      "title": "Senior positions (including CFO, Corporate Controller, Head of Internal Audit)",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Organization and Compensation Committee"
+  ],
+  "age": 73,
+  "ageYear": 2024
+}

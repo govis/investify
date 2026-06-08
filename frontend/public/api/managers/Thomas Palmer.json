@@ -1,0 +1,50 @@
+{
+  "id": "Thomas Palmer",
+  "name": "Thomas Palmer",
+  "background": "Mr. Palmer has served as President and Chief Executive Officer since October 2019 and as President since June 2019. Previously, he served as First Vice President and Chief Operating Officer from 2016 to 2019 and Senior Vice President, Asia Pacific from 2015 to 2016.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Newmont Corporation",
+      "ticker": "NEM",
+      "exchange": "NYSE",
+      "website": "https://www.newmont.com",
+      "logoUrl": "/companies-assets/NEM.NYSE.svg",
+      "title": "SVP, Indonesia",
+      "startDate": "2014",
+      "endDate": "2015",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Rio Tinto",
+      "ticker": "RIO",
+      "exchange": "LSE/ASX/NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "COO, Pilbara Mines",
+      "startDate": "1994",
+      "endDate": "2014",
+      "formattedStartDate": "1994",
+      "formattedEndDate": "2014"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/imtpalmer",
+      "person_name": "Tom Palmer",
+      "company_name": "Newmont Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 57,
+  "ageYear": 2024
+}

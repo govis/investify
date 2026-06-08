@@ -1,0 +1,40 @@
+{
+  "name": "Gonzalo Aguirre",
+  "first_name": "Gonzalo",
+  "last_name": "Aguirre",
+  "age": 58,
+  "age_year": 2024,
+  "background": "Mr. Aguirre joined the Company in 1994. He has served as our Executive Vice President of Iodine and Industrial Chemicals since 2018. He is a Chilean citizen and holds a degree in industrial engineering from the Pontificia Universidad Cat\u00f3lica de Chile.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Sociedad Qu\u00edmica y Minera de Chile S.A.",
+      "ticker": "SQM",
+      "exchange": "NYSE",
+      "title_or_role": "General Counsel",
+      "website": "https://www.sqm.com",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gonzalo-aguirre-toro-4a5b5a1a",
+      "person_name": "Gonzalo Aguirre Toro",
+      "company_name": "Sociedad Qu\u00edmica y Minera de Chile S.A. (SQM)",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

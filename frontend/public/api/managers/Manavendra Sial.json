@@ -1,0 +1,64 @@
+{
+  "id": "Manavendra Sial",
+  "name": "Manavendra Sial",
+  "background": "Manavendra Sial has served as a member of our Board since 2022. He is the Executive Vice President and Chief Financial Officer of Fluence Energy, Inc. and previously served as CFO of SunPower Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "SunPower Corporation",
+      "ticker": "SPWR",
+      "exchange": "NASDAQ",
+      "website": "https://us.sunpower.com",
+      "logoUrl": "/companies-assets/SPWR.NASDAQ.svg",
+      "title": "EVP & Chief Financial Officer",
+      "startDate": "May 2018",
+      "endDate": "September 2022",
+      "formattedStartDate": "May 2018",
+      "formattedEndDate": "September 2022"
+    },
+    {
+      "name": "Fluence Energy, Inc.",
+      "ticker": "FLNC",
+      "exchange": "NASDAQ",
+      "website": "fluenceenergy.com",
+      "logoUrl": "/companies-assets/FLNC.NASDAQ.svg",
+      "title": "SVP & Chief Financial Officer",
+      "startDate": "September 2022",
+      "endDate": "December 2023",
+      "formattedStartDate": "September 2022",
+      "formattedEndDate": "December 2023"
+    },
+    {
+      "name": "Tenneco Inc.",
+      "ticker": "TEN",
+      "exchange": "NYSE",
+      "website": "https://www.tenneco.com",
+      "logoUrl": "/companies-assets/TEN.NYSE.svg",
+      "title": "EVP & Chief Financial Officer",
+      "startDate": "January 2024",
+      "endDate": null,
+      "formattedStartDate": "January 2024",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/manavendra-sial-4a5a1a1",
+      "person_name": "Manavendra Sial",
+      "company_name": "Fluence Energy, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 55,
+  "ageYear": 2024
+}

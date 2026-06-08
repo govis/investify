@@ -1,0 +1,62 @@
+{
+  "id": "Joe Graziano",
+  "name": "Joe Graziano",
+  "background": "Mr Graziano is a qualified Chartered Accountant with over 30 years of experience in corporate advisory and financial management. He has served as a director and company secretary for several ASX-listed companies.",
+  "pictureUrl": "/managers-assets/Joe Graziano.jpg",
+  "companies": [
+    {
+      "name": "PVW Resources Limited",
+      "ticker": "PVW",
+      "exchange": "ASX",
+      "website": "https://pvwresources.com.au/",
+      "logoUrl": "https://pvwresources.com.au/wp-content/uploads/2021/05/PVW-Resources-Logo-1.png",
+      "title": "Chief Financial Officer, Company Secretary, Non-Executive Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Thunderbird Resources Limited",
+      "ticker": "THB",
+      "exchange": "ASX",
+      "website": "https://thunderbirdresources.com/",
+      "logoUrl": "/companies-assets/THB.ASX.png",
+      "title": "Company Secretary",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Thred Limited (now known as 8common Limited)",
+      "ticker": "8CO",
+      "exchange": "ASX",
+      "website": "https://www.8common.com/",
+      "logoUrl": "/companies-assets/8CO.ASX.png",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/joe-graziano-62a61717",
+      "person_name": "Joe Graziano",
+      "company_name": "PVW Resources Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

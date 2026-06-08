@@ -1,0 +1,61 @@
+{
+  "name": "Patrick Gelsinger",
+  "first_name": "Patrick",
+  "last_name": "Gelsinger",
+  "age": 63,
+  "age_year": 2024,
+  "background": "Patrick P. Gelsinger has been a director and Intel\u2019s CEO since February 2021. He has over 40 years of technology and leadership experience, including 30 years at Intel in various engineering and leadership roles. Prior to returning to Intel, he served as CEO of VMware, Inc. from 2012 to 2021 and as President and COO of EMC Corp.\u2019s Information Infrastructure Products business from 2009 to 2012.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "title_or_role": "Member of the Board of Directors",
+      "website": "https://www.intel.com",
+      "start_date": "2021-02-15",
+      "end_date": "2024-12-01",
+      "validated": true
+    },
+    {
+      "name": "VMware, Inc.",
+      "ticker": "VMW",
+      "exchange": "NYSE",
+      "website": "https://www.vmware.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "2012-09-01",
+      "end_date": "2021-02-15",
+      "validated": true
+    },
+    {
+      "name": "EMC Corporation",
+      "ticker": "EMC",
+      "exchange": "NYSE",
+      "website": "https://www.dell.com",
+      "title_or_role": "President and Chief Operating Officer, Information Infrastructure Products",
+      "start_date": "2009-09-01",
+      "end_date": "2012-08-31",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/patgelsinger",
+      "person_name": "Patrick Gelsinger",
+      "company_name": "Intel Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

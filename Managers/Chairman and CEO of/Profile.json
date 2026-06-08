@@ -1,0 +1,30 @@
+{
+  "name": "Chairman and CEO of",
+  "first_name": "Chairman",
+  "last_name": "and CEO of",
+  "age": 71,
+  "age_year": 2024,
+  "background": "Chairman and CEO of TSMC. See executive profile for details.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Taiwan Semiconductor Manufacturing Company Limited",
+      "ticker": "TSM",
+      "exchange": "NYSE",
+      "title_or_role": "Chairman and CEO",
+      "website": "https://www.tsmc.com",
+      "start_date": "1998-01-01",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

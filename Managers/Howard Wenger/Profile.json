@@ -1,0 +1,69 @@
+{
+  "name": "Howard Wenger",
+  "first_name": "Howard",
+  "last_name": "Wenger",
+  "age": 59,
+  "age_year": 2024,
+  "background": "Howard Wenger has served as President of Nextracker since February 2022. He previously held executive leadership roles at SunPower Corporation, including President of Business Units and President of SunPower Systems.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Nextracker Inc.",
+      "ticker": "NXT",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director, President",
+      "website": "https://www.nextracker.com",
+      "start_date": "2022-02-01",
+      "end_date": null
+    },
+    {
+      "name": "SunPower Corporation",
+      "ticker": "SPWR",
+      "exchange": "NASDAQ",
+      "website": "https://us.sunpower.com/",
+      "title_or_role": "President, Business Units",
+      "start_date": "2007",
+      "end_date": "2017-03-03",
+      "validated": true
+    },
+    {
+      "name": "PowerLight Corporation",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "N/A",
+      "title_or_role": "Executive Vice President / Board Director",
+      "start_date": "1990s",
+      "end_date": "2007",
+      "validated": true
+    },
+    {
+      "name": "Solaria Corporation",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "https://solaria.com/",
+      "title_or_role": "Board Director",
+      "start_date": "2019",
+      "end_date": "2022",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/howardwenger",
+      "person_name": "Howard Wenger",
+      "company_name": "Nextracker Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

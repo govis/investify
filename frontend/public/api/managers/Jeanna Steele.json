@@ -1,0 +1,50 @@
+{
+  "id": "Jeanna Steele",
+  "name": "Jeanna Steele",
+  "background": "Jeanna Steele has served as our Chief Legal Officer and Chief Compliance Officer since May 2022. She previously served as our General Counsel from 2018 to 2022 and as Deputy General Counsel from 2015 to 2018. Prior to Sunrun, she was an attorney at Wilson Sonsini Goodrich & Rosati.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Sunrun Inc.",
+      "ticker": "RUN",
+      "exchange": "NASDAQ",
+      "website": "https://www.sunrun.com",
+      "logoUrl": "/companies-assets/RUN.NASDAQ.svg",
+      "title": "Chief Legal & People Officer",
+      "startDate": "April 2018",
+      "endDate": null,
+      "formattedStartDate": "April 2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Vivint Solar, Inc.",
+      "ticker": "VSLR",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "/companies-assets/VSLR.NYSE.png",
+      "title": "Secretary / Officer",
+      "startDate": "Unknown",
+      "endDate": "2020",
+      "formattedStartDate": "",
+      "formattedEndDate": "2020"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jeanna-steele-00a96710",
+      "person_name": "Jeanna Steele",
+      "company_name": "Sunrun Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 48,
+  "ageYear": 2024
+}

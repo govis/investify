@@ -1,0 +1,42 @@
+{
+  "name": "Jeffrey Skelton",
+  "first_name": "Jeffrey",
+  "last_name": "Skelton",
+  "age": 74,
+  "age_year": 2024,
+  "background": "Former Managing Partner of Caxton Associates. Expert in finance and risk management.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Prologis, Inc.",
+      "ticker": "PLD",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.prologis.com",
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "AMB Property Corporation",
+      "ticker": "AMB",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "1997",
+      "end_date": "2011",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Talent and Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

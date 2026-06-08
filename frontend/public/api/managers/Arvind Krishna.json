@@ -1,0 +1,54 @@
+{
+  "id": "Arvind Krishna",
+  "name": "Arvind Krishna",
+  "background": "Arvind Krishna is the Chairman and Chief Executive Officer of IBM. He was elected Chairman of the Board in December 2020 and CEO in April 2020. He was previously Senior Vice President, Cloud and Cognitive Software, and was a principal architect of the acquisition of Red Hat.",
+  "pictureUrl": "/managers-assets/Arvind Krishna.jpg",
+  "companies": [
+    {
+      "name": "International Business Machines Corporation",
+      "ticker": "IBM",
+      "exchange": "NYSE",
+      "website": "https://www.ibm.com",
+      "logoUrl": "/companies-assets/IBM.NYSE.svg",
+      "title": "Chairman and Chief Executive Officer",
+      "startDate": "April 2020",
+      "endDate": null,
+      "formattedStartDate": "April 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "website": "https://www.northropgrumman.com",
+      "logoUrl": "/companies-assets/NOC.NYSE.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "September 2022",
+      "endDate": null,
+      "formattedStartDate": "September 2022",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/arvindkrishna",
+      "person_name": "Arvind Krishna",
+      "company_name": "IBM",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

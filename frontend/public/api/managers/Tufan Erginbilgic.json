@@ -1,0 +1,88 @@
+{
+  "id": "Tufan Erginbilgic",
+  "name": "Tufan Erginbilgic",
+  "background": "Tufan Erginbilgic joined Rolls-Royce as Chief Executive Officer in January 2023. He previously spent over 20 years at BP, including as CEO of BP's Downstream business. He has held several non-executive directorships in heavy industry and manufacturing companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Rolls-Royce Holdings plc",
+      "ticker": "RR",
+      "exchange": "LSE",
+      "website": "https://www.rolls-royce.com",
+      "logoUrl": "/companies-assets/RR.LSE.svg",
+      "title": "Chief Executive Officer and Executive Director",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "formattedStartDate": "January 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Iveco Group N.V.",
+      "ticker": "IVG",
+      "exchange": "EXM (Borsa Italiana/LSE listed)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Director",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "formattedStartDate": "January 2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "GKN plc",
+      "ticker": "GKN",
+      "exchange": "LSE",
+      "website": "https://www.gkn.com",
+      "logoUrl": "/companies-assets/GKN.LSE.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2011-05-09",
+      "endDate": "2018-01-01",
+      "formattedStartDate": "May 2011",
+      "formattedEndDate": "January 2018"
+    },
+    {
+      "name": "DCC plc",
+      "ticker": "DCC",
+      "exchange": "LSE",
+      "website": "https://www.dcc.ie",
+      "logoUrl": "/companies-assets/DCC.LSE.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2020-04-01",
+      "endDate": "2022-12-31",
+      "formattedStartDate": "April 2020",
+      "formattedEndDate": "December 2022"
+    },
+    {
+      "name": "Türkiye Petrol Rafinerileri A.Ş. (Tupras)",
+      "ticker": "TUPRS",
+      "exchange": "BIST (Istanbul Stock Exchange)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Director",
+      "startDate": "2021-03-01",
+      "endDate": "2022-12-31",
+      "formattedStartDate": "March 2021",
+      "formattedEndDate": "December 2022"
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Electrification",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/tufanerginbilgic",
+      "person_name": "Tufan Erginbilgic",
+      "company_name": "Rolls-Royce",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 64,
+  "ageYear": 2023
+}

@@ -1,0 +1,39 @@
+{
+  "id": "Andrew Power",
+  "name": "Andrew Power",
+  "background": "Mr. Power has served as our President since 2021 and our Chief Executive Officer since 2022. He previously served as our Chief Financial Officer from 2015 to 2022. Prior to joining Digital Realty, he was Managing Director at Bank of America Merrill Lynch.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Digital Realty Trust, Inc.",
+      "ticker": "DLR",
+      "exchange": "NYSE",
+      "website": "https://www.digitalrealty.com",
+      "logoUrl": "/companies-assets/DLR.NYSE.svg",
+      "title": "Chief Executive Officer",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Bank of America Corporation",
+      "ticker": "BAC",
+      "exchange": "NYSE",
+      "website": "https://www.bankofamerica.com",
+      "logoUrl": "/companies-assets/BAC.NYSE.svg",
+      "title": "Managing Director of Real Estate, Gaming and Lodging Investment Banking",
+      "startDate": "Unknown",
+      "endDate": "2015",
+      "formattedStartDate": "",
+      "formattedEndDate": "2015"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 44,
+  "ageYear": 2024
+}

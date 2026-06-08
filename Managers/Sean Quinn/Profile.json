@@ -1,0 +1,49 @@
+{
+  "name": "Sean Quinn",
+  "first_name": "Sean",
+  "last_name": "Quinn",
+  "age": 63,
+  "age_year": 2023,
+  "background": "Sean Quinn is Senior Vice-President, Chief Legal Officer and Corporate Secretary. He joined Cameco in 1993 and has held various legal roles within the company.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCO / CCJ",
+      "exchange": "TSX / NYSE",
+      "title_or_role": "Senior Advisor, Special Projects",
+      "website": "https://www.cameco.com",
+      "start_date": "2024",
+      "end_date": "2026-03-31",
+      "validated": true
+    },
+    {
+      "name": "Cameco Corporation",
+      "ticker": "CCO",
+      "exchange": "TSX",
+      "title_or_role": "Senior Vice-President, Chief Legal Officer and Corporate Secretary",
+      "website": "https://www.cameco.com",
+      "start_date": "2014-04-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/sean-quinn-92b73723",
+      "person_name": "Sean Quinn",
+      "company_name": "Cameco Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

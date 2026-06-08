@@ -1,0 +1,41 @@
+{
+  "id": "Scott Knight",
+  "name": "Scott Knight",
+  "background": "Former partner at PwC with extensive experience in audit and risk management.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Nextracker Inc.",
+      "ticker": "NXT",
+      "exchange": "NASDAQ",
+      "website": "https://www.nextracker.com",
+      "logoUrl": "/companies-assets/NXT.NASDAQ.svg",
+      "title": "Chief Operating Officer (COO)",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Mainfreight Limited",
+      "ticker": "MFT",
+      "exchange": "NZX",
+      "website": "https://www.mainfreight.com",
+      "logoUrl": "/companies-assets/MFT.NZX.svg",
+      "title": "Branch Manager (Adelaide)",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

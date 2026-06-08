@@ -1,0 +1,27 @@
+{
+  "id": "Sean Pelkey",
+  "name": "Sean Pelkey",
+  "background": "Executive Vice President and Chief Financial Officer since 2022. Previously served as Vice President and Treasurer.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "CSX Corporation",
+      "ticker": "CSX",
+      "exchange": "NASDAQ",
+      "website": "https://www.csx.com",
+      "logoUrl": "/companies-assets/CSX.NASDAQ.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2005",
+      "endDate": "2024",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2024"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 44,
+  "ageYear": 2024
+}

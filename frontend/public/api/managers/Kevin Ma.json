@@ -1,0 +1,50 @@
+{
+  "id": "Kevin Ma",
+  "name": "Kevin Ma",
+  "background": "Mr. Ma is a senior financial professional with over 15 years of experience in corporate finance, financial reporting, and regulatory compliance. He is a Chartered Professional Accountant and has served as CFO for several publicly traded resource companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Alaska Energy Metals Corp.",
+      "ticker": "AEMC, AKEMF",
+      "exchange": "TSXV, OTC",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Financial Officer",
+      "startDate": "2024-10-04",
+      "endDate": null,
+      "formattedStartDate": "October 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Gatekeeper Systems Inc.",
+      "ticker": "GSI, GKPRF",
+      "exchange": "TSXV, OTC",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Financial Officer",
+      "startDate": "2013-10-23",
+      "endDate": "2015-09-08",
+      "formattedStartDate": "October 2013",
+      "formattedEndDate": "September 2015"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kevinkma",
+      "person_name": "Kevin Ma",
+      "company_name": "Baselode Energy Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 42,
+  "ageYear": 2024
+}

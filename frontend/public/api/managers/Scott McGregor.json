@@ -1,0 +1,55 @@
+{
+  "id": "Scott McGregor",
+  "name": "Scott McGregor",
+  "background": "Scott McGregor was President and CEO of Broadcom Corporation from 2005 to 2016. He also served as President and CEO of the Philips Semiconductors division of Royal Philips Electronics.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Broadcom Corporation",
+      "ticker": "BRCM",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "President, Chief Executive Officer, and Director",
+      "startDate": "2005",
+      "endDate": "2016",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Equifax Inc.",
+      "ticker": "EFX",
+      "exchange": "NYSE",
+      "website": "https://www.equifax.com",
+      "logoUrl": "/companies-assets/EFX.NYSE.svg",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Xactly Corporation",
+      "ticker": "XTLY",
+      "exchange": "NYSE",
+      "website": "www.xactlycorp.com",
+      "logoUrl": "/companies-assets/XTLY.NYSE.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": "2017",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2017"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Investment Committee (Chair)"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

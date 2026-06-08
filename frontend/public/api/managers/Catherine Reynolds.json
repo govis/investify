@@ -1,0 +1,66 @@
+{
+  "id": "Catherine Reynolds",
+  "name": "Catherine Reynolds",
+  "background": "Chairman and CEO of the Catherine B. Reynolds Foundation. Former CEO of Educap Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "General Dynamics Corporation",
+      "ticker": "GD",
+      "exchange": "NYSE",
+      "website": "https://www.gd.com",
+      "logoUrl": "/companies-assets/GD.NYSE.svg",
+      "title": "Director",
+      "startDate": "May 2017",
+      "endDate": null,
+      "formattedStartDate": "May 2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "CoStar Group, Inc.",
+      "ticker": "CSGP",
+      "exchange": "NASDAQ",
+      "website": "https://www.costargroup.com",
+      "logoUrl": "/companies-assets/CSGP.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2004",
+      "endDate": null,
+      "formattedStartDate": "2004",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Zenith National Insurance Corp.",
+      "ticker": "ZNT",
+      "exchange": "NYSE",
+      "website": "https://www.zenithinsurance.com",
+      "logoUrl": "/companies-assets/ZNT.NYSE.png",
+      "title": "Director",
+      "startDate": "2004",
+      "endDate": "2010",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2010"
+    },
+    {
+      "name": "Servus Financial Corp.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "logoUrl": null,
+      "title": "Founder, Chairman & Chief Executive Officer",
+      "startDate": "1993",
+      "endDate": "2000",
+      "formattedStartDate": "1993",
+      "formattedEndDate": "2000"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation",
+    "Governance"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

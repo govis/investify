@@ -1,0 +1,38 @@
+{
+  "id": "Peter Platzer",
+  "name": "Peter Platzer",
+  "background": "Mr. Platzer is a co-founder of Spire and has served as our Chief Executive Officer and a member of our board of directors since September 2012. Prior to that, he served as a Senior Portfolio Manager at Vega Asset Management and a Managing Director at Deutsche Bank. He holds an M.S. in Physics from the Technical University of Vienna, an M.B.A. from Harvard Business School, and an M.Sc. in Space Studies from the International Space University.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Spire Global, Inc.",
+      "ticker": "SPIR",
+      "exchange": "NYSE",
+      "website": "https://spire.com",
+      "logoUrl": "/companies-assets/SPIR.NYSE.svg",
+      "title": "Co-Founder, Executive Chairman (formerly CEO)",
+      "startDate": "2012",
+      "endDate": null,
+      "formattedStartDate": "2012",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/peterbplatzer",
+      "person_name": "Peter Platzer",
+      "company_name": "Spire Global, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 53,
+  "ageYear": 2024
+}

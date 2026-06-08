@@ -1,0 +1,103 @@
+{
+  "name": "Bethany Mayer",
+  "first_name": "Bethany",
+  "last_name": "Mayer",
+  "age": 62,
+  "age_year": 2024,
+  "background": "Ms. Mayer has been a director since 2019. She was President and CEO of Ixia.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lam Research Corporation",
+      "ticker": "LRCX",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.lamresearch.com",
+      "start_date": "2019-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Ixia",
+      "ticker": "XXIA",
+      "exchange": "NASDAQ",
+      "website": "https://www.ixiacom.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2014",
+      "end_date": "2017",
+      "validated": true
+    },
+    {
+      "name": "Box, Inc.",
+      "ticker": "BOX",
+      "exchange": "NYSE",
+      "website": "https://www.box.com",
+      "title_or_role": "Independent Board Director",
+      "start_date": "2020-04",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Marvell Technology, Inc.",
+      "ticker": "MRVL",
+      "exchange": "NASDAQ",
+      "website": "https://www.marvell.com",
+      "title_or_role": "Independent Board Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sempra",
+      "ticker": "SRE",
+      "exchange": "NYSE",
+      "website": "https://www.sempra.com",
+      "title_or_role": "Independent Board Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Astera Labs, Inc.",
+      "ticker": "ALAB",
+      "exchange": "NASDAQ",
+      "website": "https://www.asteralabs.com",
+      "title_or_role": "Independent Board Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hewlett Packard Enterprise",
+      "ticker": "HPE",
+      "exchange": "NYSE",
+      "website": "https://www.hpe.com",
+      "title_or_role": "Independent Board Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mayerbethany/",
+      "person_name": "Bethany Mayer",
+      "company_name": "Lam Research",
+      "profile_status": "not_found",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation and Human Resources Committee",
+    "Nominating and Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Beatriz Gonz\u00e1lez",
+  "first_name": "Beatriz",
+  "last_name": "Gonz\u00e1lez",
+  "age": 51,
+  "age_year": 2024,
+  "background": "Ms. Gonz\u00e1lez is the founder and Managing Partner of Seaya Ventures. She has served on our board since 2021 and previously served on the boards of Cabify and Glovo.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Wallbox N.V.",
+      "ticker": "WBX",
+      "exchange": "NYSE",
+      "title_or_role": "Member of the Board of Directors (Non-executive Chairman)",
+      "website": "https://wallbox.com",
+      "start_date": "October 2021",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/beatriz-gonzalez-ordonez-a0a1a11",
+      "person_name": "Beatriz Gonz\u00e1lez Ord\u00f3\u00f1ez",
+      "company_name": "Seaya Ventures",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 1
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 1
+}

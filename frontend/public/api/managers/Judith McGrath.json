@@ -1,0 +1,53 @@
+{
+  "id": "Judith McGrath",
+  "name": "Judith McGrath",
+  "background": "Former Chairman and CEO of MTV Networks.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Amazon.com, Inc.",
+      "ticker": "AMZN",
+      "exchange": "NASDAQ",
+      "website": "https://www.amazon.com",
+      "logoUrl": "/companies-assets/AMZN.NASDAQ.svg",
+      "title": "Director (Board Member)",
+      "startDate": "July 2014",
+      "endDate": null,
+      "formattedStartDate": "July 2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Viacom, Inc. (now Paramount Global)",
+      "ticker": "PARA",
+      "exchange": "NASDAQ",
+      "website": "https://www.paramount.com",
+      "logoUrl": "/companies-assets/PARA.NASDAQ.svg",
+      "title": "Chair and Chief Executive Officer of MTV Networks (Division of Viacom)",
+      "startDate": "July 2004",
+      "endDate": "May 2011",
+      "formattedStartDate": "July 2004",
+      "formattedEndDate": "May 2011"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/judy-mcgrath-4a5a5a10",
+      "person_name": "Judith McGrath",
+      "company_name": "Amazon.com, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Leadership Development and Compensation Committee"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

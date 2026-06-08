@@ -1,0 +1,73 @@
+{
+  "name": "Robert Ortberg",
+  "first_name": "Robert",
+  "last_name": "Ortberg",
+  "age": 63,
+  "age_year": 2024,
+  "background": "Former CEO of Rockwell Collins and former Special Advisor to the Office of the CEO of RTX.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "RTX Corporation",
+      "ticker": "RTX",
+      "exchange": "NYSE",
+      "title_or_role": "Special Advisor to the CEO",
+      "website": "https://www.rtx.com",
+      "start_date": "2018",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "The Boeing Company",
+      "ticker": "BA",
+      "exchange": "NYSE",
+      "website": "https://www.boeing.com",
+      "title_or_role": "President and Chief Executive Officer / Director",
+      "start_date": "2024-08-08",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Aptiv PLC",
+      "ticker": "APTV",
+      "exchange": "NYSE",
+      "website": "https://www.aptiv.com",
+      "title_or_role": "Director",
+      "start_date": "2018-09-13",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rockwell Collins, Inc.",
+      "ticker": "COL",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2013",
+      "end_date": "2018",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kelly-ortberg-4a5a5a1b",
+      "person_name": "Kelly Ortberg",
+      "company_name": "The Boeing Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit",
+    "Finance"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

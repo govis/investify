@@ -1,0 +1,65 @@
+{
+  "id": "Rob Cole",
+  "name": "Rob Cole",
+  "background": "Rob Cole was appointed to the Board in March 2018 and became Chairman in 2022. He has over 30 years’ experience in the energy and resources industry, including executive roles at Woodside Petroleum and Beach Energy. He is a former partner of the law firm King & Wood Mallesons.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Iluka Resources Limited",
+      "ticker": "ILU",
+      "exchange": "ASX",
+      "website": "https://www.iluka.com",
+      "logoUrl": "/companies-assets/ILU.ASX.svg",
+      "title": "Chairman and Non-Executive Director",
+      "startDate": "March 2018",
+      "endDate": "December 2024",
+      "formattedStartDate": "March 2018",
+      "formattedEndDate": "December 2024"
+    },
+    {
+      "name": "Beach Energy Limited",
+      "ticker": "BPT",
+      "exchange": "ASX",
+      "website": "beachenergy.com.au",
+      "logoUrl": "/companies-assets/BPT.ASX.svg",
+      "title": "Managing Director",
+      "startDate": "June 2015",
+      "endDate": "2017",
+      "formattedStartDate": "June 2015",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Woodside Petroleum Ltd (now Woodside Energy Group)",
+      "ticker": "WDS",
+      "exchange": "ASX",
+      "website": "https://www.woodside.com",
+      "logoUrl": "/companies-assets/WDS.ASX.svg",
+      "title": "Executive Director and Executive Vice President",
+      "startDate": "Unknown",
+      "endDate": "2015",
+      "formattedStartDate": "",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "Perenti Limited",
+      "ticker": "PRN",
+      "exchange": "ASX",
+      "website": "https://www.perenti.com/",
+      "logoUrl": "/companies-assets/_PRN.ASX.png",
+      "title": "Chairman",
+      "startDate": "2021",
+      "endDate": "2024",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2024"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Nominations Committee (Chair)"
+  ],
+  "age": 61,
+  "ageYear": 2023
+}

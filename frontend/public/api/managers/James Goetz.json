@@ -1,0 +1,67 @@
+{
+  "id": "James Goetz",
+  "name": "James Goetz",
+  "background": "James J. Goetz has been a director since 2019. He is a Partner at Sequoia Capital, a venture capital firm, which he joined in 2004. He previously held leadership positions at Entrust and VitalSigns Software.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "logoUrl": "/companies-assets/INTC.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "November 2019",
+      "endDate": null,
+      "formattedStartDate": "November 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Palo Alto Networks, Inc.",
+      "ticker": "PANW",
+      "exchange": "NASDAQ",
+      "website": "https://www.paloaltonetworks.com",
+      "logoUrl": "/companies-assets/PANW.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "April 2005",
+      "endDate": null,
+      "formattedStartDate": "April 2005",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Bay Networks, Inc.",
+      "ticker": "BAY",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "/companies-assets/BAY.NYSE.svg",
+      "title": "Vice President of Network Management",
+      "startDate": null,
+      "endDate": "1996",
+      "formattedStartDate": "",
+      "formattedEndDate": "1996"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/james-goetz",
+      "person_name": "James Goetz",
+      "company_name": "Sequoia Capital",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Governance and Nominating Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 58,
+  "ageYear": 2024
+}

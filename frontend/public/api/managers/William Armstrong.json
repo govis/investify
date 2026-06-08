@@ -1,0 +1,30 @@
+{
+  "id": "William Armstrong",
+  "name": "William Armstrong",
+  "background": "Mr. Armstrong is a mining engineer with over 50 years of experience. He was previously the Director of Mineral Resources and Mine Development at Teck Resources Ltd.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Atlantic Gold Corporation",
+      "ticker": "AGB",
+      "exchange": "TSX",
+      "website": "N/A",
+      "logoUrl": "/companies-assets/AGB.TSX.svg",
+      "title": "Director",
+      "startDate": "2015-01-01",
+      "endDate": "2019-07-19",
+      "formattedStartDate": "January 2015",
+      "formattedEndDate": "July 2019"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Health, Safety, Environment and Social Performance Committee"
+  ],
+  "age": 76,
+  "ageYear": 2024
+}

@@ -1,0 +1,50 @@
+{
+  "id": "Derek Johnson",
+  "name": "Derek Johnson",
+  "background": "Dr. Johnson has served as our Chief Operating Officer since January 2024. He previously served as our Vice President of Operations from 2020 to 2023. Prior to joining Solid Power, Dr. Johnson was the Director of Global R&D at A123 Systems.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Solid Power, Inc.",
+      "ticker": "SLDP",
+      "exchange": "NASDAQ",
+      "website": "https://www.solidpowerbattery.com",
+      "logoUrl": "/companies-assets/SLDP.NASDAQ.svg",
+      "title": "Chief Operating Officer",
+      "startDate": "2020",
+      "endDate": "2025",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "A123 Systems, Inc.",
+      "ticker": "AONE",
+      "exchange": "NASDAQ",
+      "website": "https://www.a123systems.com",
+      "logoUrl": "/companies-assets/AONE.NASDAQ.png",
+      "title": "Vice President of Global Research and Development",
+      "startDate": "2016",
+      "endDate": "2020",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2020"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/derek-johnson-ph-d-163a1223",
+      "person_name": "Derek Johnson",
+      "company_name": "Solid Power, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 44,
+  "ageYear": 2024
+}

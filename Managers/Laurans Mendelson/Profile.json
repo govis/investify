@@ -1,0 +1,40 @@
+{
+  "name": "Laurans Mendelson",
+  "first_name": "Laurans",
+  "last_name": "Mendelson",
+  "age": 85,
+  "age_year": 2024,
+  "background": "Laurans A. Mendelson has served as HEICO\u2019s Chairman of the Board and Chief Executive Officer since 1990 and as its President from 1991 to 2024. He is also the father of Eric A. Mendelson and Victor H. Mendelson.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "HEICO Corporation",
+      "ticker": "HEI",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Chairman",
+      "website": "https://www.heico.com",
+      "start_date": "2025-05",
+      "end_date": "2025",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/larry-mendelson-1babb018",
+      "person_name": "Laurans Mendelson",
+      "company_name": "HEICO Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "Jack Bal",
+  "name": "Jack Bal",
+  "background": "Mr. Bal has over 25 years of experience in the capital markets and has served as a director and officer of several public companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lexston Mining Corp.",
+      "ticker": "LEXT",
+      "exchange": "CSE",
+      "website": "https://lexston.ca",
+      "logoUrl": "/companies-assets/LEXT.CSE.png",
+      "title": "CEO / Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cache Exploration Inc.",
+      "ticker": "CEXPF",
+      "exchange": "OTC",
+      "website": null,
+      "logoUrl": "/companies-assets/CEXPF.OTC.png",
+      "title": "President, CEO, and Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Equitorial Exploration Corp.",
+      "ticker": "EXX",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": "http://equitorial.ca/wp-content/uploads/2016/08/equitorial-logo.png",
+      "title": "CEO",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jack-bal-aa5aa7313",
+      "person_name": "Jack Bal",
+      "company_name": "GoldHaven Resources Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 54,
+  "ageYear": 2024
+}

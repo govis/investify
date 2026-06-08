@@ -1,0 +1,53 @@
+{
+  "id": "Joseph Scaminace",
+  "name": "Joseph Scaminace",
+  "background": "Former Chairman and Chief Executive Officer of OM Group, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cintas Corporation",
+      "ticker": "CTAS",
+      "exchange": "NASDAQ",
+      "website": "https://www.cintas.com",
+      "logoUrl": "/companies-assets/CTAS.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": null,
+      "formattedStartDate": "2010",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "OM Group, Inc.",
+      "ticker": "OMG",
+      "exchange": "NYSE",
+      "website": "https://www.omgi.com",
+      "logoUrl": "/companies-assets/OMG.NYSE.png",
+      "title": "Chairman, President, and CEO",
+      "startDate": "2005",
+      "endDate": "2015",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2015"
+    },
+    {
+      "name": "The Sherwin-Williams Company",
+      "ticker": "SHW",
+      "exchange": "NYSE",
+      "website": "https://www.sherwin-williams.com",
+      "logoUrl": "/companies-assets/SHW.NYSE.svg",
+      "title": "President and Chief Operating Officer",
+      "startDate": "1999",
+      "endDate": "2005",
+      "formattedStartDate": "1999",
+      "formattedEndDate": "2005"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

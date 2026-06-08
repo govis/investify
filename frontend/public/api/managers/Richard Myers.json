@@ -1,0 +1,42 @@
+{
+  "id": "Richard Myers",
+  "name": "Richard Myers",
+  "background": "General Myers served as the 15th Chairman of the Joint Chiefs of Staff. He was the President of Kansas State University from 2016 to 2022. He serves on the boards of Aon plc and Rivian Automotive, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "MP Materials Corp.",
+      "ticker": "MP",
+      "exchange": "NYSE",
+      "website": "https://mpmaterials.com",
+      "logoUrl": "/companies-assets/MP.NYSE.svg",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "website": "https://www.northropgrumman.com",
+      "logoUrl": "/companies-assets/NOC.NYSE.svg",
+      "title": "Director",
+      "startDate": "2006",
+      "endDate": "2020",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2020"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 82,
+  "ageYear": 2024
+}

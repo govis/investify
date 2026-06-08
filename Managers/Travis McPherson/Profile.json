@@ -1,0 +1,38 @@
+{
+  "name": "Travis McPherson",
+  "first_name": "Travis",
+  "last_name": "McPherson",
+  "age": 36,
+  "age_year": 2024,
+  "background": "Mr. McPherson has been with NexGen since 2014. He has over 10 years of experience in the uranium industry and was previously with a boutique investment bank.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "NexGen Energy Ltd.",
+      "ticker": "NXE",
+      "exchange": "TSX, NYSE",
+      "title_or_role": "Vice President, Corporate Development",
+      "website": "https://www.nexgenenergy.ca/",
+      "start_date": "2013",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "NexGen Energy Ltd.",
+      "ticker": "NXE",
+      "exchange": "TSX",
+      "title_or_role": "Chief Commercial Officer",
+      "website": "https://www.nexgenenergy.ca",
+      "start_date": "2022-04-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

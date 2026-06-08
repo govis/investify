@@ -1,0 +1,42 @@
+{
+  "name": "Rabih Ataya",
+  "first_name": "Rabih",
+  "last_name": "Ataya",
+  "age": 57,
+  "age_year": 2023,
+  "background": "Mr. Ataya has extensive experience in international business development and project management.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Western Magnesium Corporation",
+      "ticker": "WMG.V",
+      "exchange": "TSXV",
+      "title_or_role": "Director / Executive Vice President, Special Projects",
+      "website": "https://www.westernmagnesium.com/",
+      "start_date": "March 2020",
+      "end_date": "June 1, 2023",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/rabih-ataya-p-eng-69b5b061",
+      "person_name": "Rabih Ataya",
+      "company_name": "Western Magnesium Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

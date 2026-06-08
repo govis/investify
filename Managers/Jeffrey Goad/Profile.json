@@ -1,0 +1,42 @@
+{
+  "name": "Jeffrey Goad",
+  "first_name": "Jeffrey",
+  "last_name": "Goad",
+  "age": null,
+  "age_year": null,
+  "background": "Mr. Goad has over 25 years of experience in the financial services industry, specifically in the areas of corporate finance, mergers and acquisitions, and capital markets.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Stria Lithium Inc.",
+      "ticker": "SRA",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "https://strialithium.com/",
+      "start_date": "2022-06-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jeffrey-goad-ind",
+      "person_name": "Jeffrey Goad",
+      "company_name": "Stria Lithium Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "Daniel Gold",
+  "name": "Daniel Gold",
+  "background": "Mr. Gold is the CEO and Managing Partner of QVT Financial LP. He has been a director of various companies in the biotech and shipping industries.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Roivant Sciences Ltd.",
+      "ticker": "ROIV",
+      "exchange": "NASDAQ",
+      "website": "https://www.roivant.com",
+      "logoUrl": "/companies-assets/ROIV.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Okeanis Eco Tankers Corp.",
+      "ticker": "OET",
+      "exchange": "OSE",
+      "website": "https://www.okeanisecotankers.com",
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Awilco Drilling PLC",
+      "ticker": "AWDR",
+      "exchange": "OSE",
+      "website": "https://awilcodrilling.com",
+      "logoUrl": "/companies-assets/AWDR.OSE.svg",
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": null,
+      "formattedStartDate": "2010",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/daniel-gold-qvt",
+      "person_name": "Daniel Gold",
+      "company_name": "QVT Financial LP",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 54,
+  "ageYear": 2024
+}

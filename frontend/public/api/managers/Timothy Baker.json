@@ -1,0 +1,78 @@
+{
+  "id": "Timothy Baker",
+  "name": "Timothy Baker",
+  "background": "Timothy Baker has over 30 years of experience in the mining industry. He previously served as Executive Vice President and Chief Operating Officer of Kinross Gold Corporation and held various executive positions at Placer Dome.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Triple Flag Precious Metals Corp.",
+      "ticker": "TFPM",
+      "exchange": "TSX/NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Independent Director",
+      "startDate": "May 2021",
+      "endDate": null,
+      "formattedStartDate": "May 2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Kinross Gold Corporation",
+      "ticker": "K/KGC",
+      "exchange": "TSX/NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Vice President and Chief Operating Officer",
+      "startDate": "June 2006",
+      "endDate": "October 2010",
+      "formattedStartDate": "June 2006",
+      "formattedEndDate": "October 2010"
+    },
+    {
+      "name": "Sherritt International Corporation",
+      "ticker": "S",
+      "exchange": "TSX",
+      "website": "https://www.sherritt.com",
+      "logoUrl": "/companies-assets/S.TSX.png",
+      "title": "Independent Director",
+      "startDate": "May 6, 2014",
+      "endDate": "2020",
+      "formattedStartDate": "May 6, 2014",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Antofagasta PLC",
+      "ticker": "ANTO",
+      "exchange": "LSE",
+      "website": "https://www.antofagasta.co.uk/",
+      "logoUrl": "/companies-assets/ANTO.LSE.svg",
+      "title": "Independent Director",
+      "startDate": "March 2012",
+      "endDate": "2014",
+      "formattedStartDate": "March 2012",
+      "formattedEndDate": "2014"
+    },
+    {
+      "name": "Augusta Resource Corporation",
+      "ticker": "AZC",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": "/companies-assets/AZC.TSX.png",
+      "title": "Independent Director",
+      "startDate": "September 2008",
+      "endDate": "2014",
+      "formattedStartDate": "September 2008",
+      "formattedEndDate": "2014"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation and ESG Committee"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Stephen Angel",
+  "first_name": "Stephen",
+  "last_name": "Angel",
+  "age": 68,
+  "age_year": 2024,
+  "background": "Former CEO of Linde plc. He has extensive experience in industrial and global operations.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "General Electric Company",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "title_or_role": "Various Management Positions",
+      "website": "https://www.ge.com",
+      "start_date": "1980",
+      "end_date": "2001",
+      "validated": true
+    },
+    {
+      "name": "GE Vernova Inc.",
+      "ticker": "GEV",
+      "exchange": "NYSE",
+      "title_or_role": "Non-Executive Chairman",
+      "website": "https://www.gevernova.com",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Linde plc",
+      "ticker": "LIN",
+      "exchange": "NYSE",
+      "website": "https://www.linde.com",
+      "title_or_role": "CEO (2007\u20132022), Chairman of the Board (2022\u20132026)",
+      "start_date": "2007",
+      "end_date": "2026",
+      "validated": true
+    },
+    {
+      "name": "Praxair, Inc.",
+      "ticker": "PX",
+      "exchange": "NYSE",
+      "website": "N/A",
+      "title_or_role": "CEO, Chairman of the Board",
+      "start_date": "2007",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "PPG Industries, Inc.",
+      "ticker": "PPG",
+      "exchange": "NYSE",
+      "website": "https://www.ppg.com",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": "2024",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense",
+    "Electrification",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Governance & Public Affairs Committee",
+    "Governance and Public Affairs Committee",
+    "Management Development and Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

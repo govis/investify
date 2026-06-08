@@ -1,0 +1,45 @@
+{
+  "name": "Steven Reid",
+  "first_name": "Steven",
+  "last_name": "Reid",
+  "age": 68,
+  "age_year": 2024,
+  "background": "Steven Reid has over 40 years of experience in the mining industry. He was formerly Chief Operating Officer of Goldcorp Inc. and has held senior positions at Placer Dome and BHP.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Eldorado Gold Corporation",
+      "ticker": "EGO",
+      "exchange": "TSX / NYSE",
+      "title_or_role": "Director / Chair of the Board",
+      "website": "eldoradogold.com",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Gold Fields Limited",
+      "ticker": "GFI",
+      "exchange": "JSE / NYSE",
+      "title_or_role": "Independent Non-Executive Director / Lead Independent Director",
+      "website": "goldfields.com",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Capital Projects Control and Review Committee",
+    "Compensation Committee",
+    "Remuneration Committee",
+    "Risk Committee",
+    "Sustainability Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

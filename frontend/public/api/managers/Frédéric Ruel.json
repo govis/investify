@@ -1,0 +1,62 @@
+{
+  "id": "Frédéric Ruel",
+  "name": "Frédéric Ruel",
+  "background": "Mr. Ruel has over 20 years of experience in financial reporting and the mining industry. He has been with Osisko since its inception in 2014.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Osisko Gold Royalties Ltd",
+      "ticker": "OR",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Financial Officer",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Falco Resources Ltd.",
+      "ticker": "FPC",
+      "exchange": "TSXV",
+      "website": "https://www.falcores.com",
+      "logoUrl": "/companies-assets/FPC.TSXV.svg",
+      "title": "Vice President, Corporate Controller",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "NioGold Mining Corp.",
+      "ticker": "NOX",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/NioGold_Mining_Corporate_Logo.jpg/720px-NioGold_Mining_Corporate_Logo.jpg",
+      "title": "Chief Financial Officer",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/frédéric-ruel-255b5126",
+      "person_name": "Frédéric Ruel",
+      "company_name": "Osisko Gold Royalties Ltd",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 47,
+  "ageYear": 2024
+}

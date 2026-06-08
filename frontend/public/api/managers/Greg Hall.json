@@ -1,0 +1,87 @@
+{
+  "id": "Greg Hall",
+  "name": "Greg Hall",
+  "background": "Greg Hall is a Mining Engineer with over 35 years' experience in the resources sector, specifically in uranium, copper, and gold. He has held senior executive roles at WMC Resources and Rio Tinto, including as Mine Manager of Olympic Dam and Ranger Uranium Mine. He was the founding CEO of Toro Energy Limited and has served as a director of the Australian Uranium Association.",
+  "pictureUrl": "/managers-assets/Greg Hall.jpg",
+  "companies": [
+    {
+      "name": "Montero Mining & Exploration Ltd.",
+      "ticker": "MON",
+      "exchange": "TSXV",
+      "website": "https://monteromining.com/",
+      "logoUrl": "/companies-assets/MON.TSXV.png",
+      "title": "Director",
+      "startDate": "2011",
+      "endDate": null,
+      "formattedStartDate": "2011",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Silver Elephant Mining Corp.",
+      "ticker": "ELEF",
+      "exchange": "TSX",
+      "website": "https://silverelef.com/",
+      "logoUrl": "/companies-assets/ELEF.TSX.png",
+      "title": "Co-Founder & Director",
+      "startDate": "2009",
+      "endDate": null,
+      "formattedStartDate": "2009",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Nickel Creek Platinum Corp. (formerly Prophecy Platinum Corp.)",
+      "ticker": "NCP",
+      "exchange": "TSX",
+      "website": "nickelcreekplatinum.com",
+      "logoUrl": "/companies-assets/NCP.TSX.png",
+      "title": "Director",
+      "startDate": "2011",
+      "endDate": "2013",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Silvercorp Metals Inc.",
+      "ticker": "SVM",
+      "exchange": "NYSE",
+      "website": "https://www.silvercorpmetals.com/",
+      "logoUrl": "/companies-assets/SVM.NYSE.png",
+      "title": "Director and Audit Committee Chair",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "CleanTech Vanadium Mining Corp.",
+      "ticker": "CTV",
+      "exchange": "TSXV",
+      "website": "https://cleantechctv.com/",
+      "logoUrl": "/companies-assets/CTV.TSXV.png",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/greg-hall-1072a7119",
+      "person_name": "Greg Hall",
+      "company_name": "Alligator Energy Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

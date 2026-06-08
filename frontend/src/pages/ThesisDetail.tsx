@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
-import { useParams, Link } from 'react-router-dom';
+import { useParams, Link, useNavigate } from 'react-router-dom';
 import { ChevronLeft } from 'lucide-react';
+import Navigation from '../components/Navigation';
 
 interface ThesisDetail {
   id: string;
@@ -14,6 +15,7 @@ interface ThesisDetail {
 
 const ThesisDetail: React.FC = () => {
   const { id } = useParams();
+  const navigate = useNavigate();
   const [thesis, setThesis] = useState<ThesisDetail | null>(null);
   const [loading, setLoading] = useState(true);
   const [activeTab, setActiveTab] = useState('Thesis');
@@ -36,6 +38,17 @@ const ThesisDetail: React.FC = () => {
       });
   }, [id]);
 
+  const handleContentClick = (e: React.MouseEvent<HTMLDivElement>) => {
+    const target = e.target as HTMLElement;
+    if (target.tagName === 'A') {
+      const href = target.getAttribute('href');
+      if (href && href.startsWith('/')) {
+        e.preventDefault();
+        navigate(href);
+      }
+    }
+  };
+
   if (loading) return <div>Loading...</div>;
   if (!thesis) return <div>Thesis not found.</div>;
 
@@ -44,11 +57,14 @@ const ThesisDetail: React.FC = () => {
     : thesis.tabs?.find(t => t.label === activeTab)?.content || '';
 
   return (
-    <div style={{ padding: '24px', maxWidth: '900px', margin: '0 auto', textAlign: 'left' }}>
-      <Link to="/" style={{ display: 'flex', alignItems: 'center', color: '#666', marginBottom: '24px', textDecoration: 'none' }}>
-        <ChevronLeft size={20} />
-        Investment Themes
-      </Link>
+    <div style={{ padding: '24px', maxWidth: '900px', margin: '0 auto', textAlign: 'left', position: 'relative' }}>
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginTop: '16px', marginBottom: '24px' }}>
+        <Link to="/" style={{ display: 'flex', alignItems: 'center', color: '#666', textDecoration: 'none' }}>
+          <ChevronLeft size={20} />
+          Investment Themes
+        </Link>
+        <Navigation />
+      </div>
 
       {thesis.tabs && thesis.tabs.length > 0 && (
         <div style={{ 
@@ -113,6 +129,7 @@ const ThesisDetail: React.FC = () => {
         className="thesis-content" 
         dangerouslySetInnerHTML={{ __html: currentTabContent }} 
         style={{ lineHeight: '1.6' }}
+        onClick={handleContentClick}
       />
     </div>
   );

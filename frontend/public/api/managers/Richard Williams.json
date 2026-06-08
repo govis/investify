@@ -1,0 +1,39 @@
+{
+  "id": "Richard Williams",
+  "name": "Richard Williams",
+  "background": "Mr. Williams has over 30 years of experience in the mining industry, specializing in project development and operations. He previously held senior roles at Barrick Gold Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NOVAGOLD RESOURCES INC.",
+      "ticker": "NG",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Vice President and Chief Operating Officer",
+      "startDate": "2013-04-01",
+      "endDate": null,
+      "formattedStartDate": "April 2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Kaminak Gold Corp.",
+      "ticker": "KAM",
+      "exchange": "TSXV",
+      "website": "https://www.kaminak.com",
+      "logoUrl": "/companies-assets/KAM.TSXV.png",
+      "title": "Director",
+      "startDate": "2015-11-16",
+      "endDate": "2016-07-19",
+      "formattedStartDate": "November 2015",
+      "formattedEndDate": "July 2016"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 58,
+  "ageYear": 2024
+}

@@ -1,0 +1,54 @@
+{
+  "id": "Frank Estergaard",
+  "name": "Frank Estergaard",
+  "background": "Chartered Professional Accountant and former partner at KPMG. Extensive experience in auditing and financial consulting for public companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Fission Uranium Corp.",
+      "ticker": "FCU",
+      "exchange": "TSX",
+      "website": "https://fissionuranium.com",
+      "logoUrl": "/companies-assets/FCU.TSX.svg",
+      "title": "Independent Director",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "F3 Uranium Corp. (formerly Fission 3.0 Corp.)",
+      "ticker": "FUU",
+      "exchange": "TSXV",
+      "website": "https://f3uranium.com/",
+      "logoUrl": "/companies-assets/FUU.TSXV.webp",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Nickel 28 Capital Corp. (formerly Cobalt 27 Capital Corp.)",
+      "ticker": "NKL",
+      "exchange": "TSXV",
+      "website": "https://www.nickel28.com/",
+      "logoUrl": "/companies-assets/NKL.TSXV.svg",
+      "title": "Director and Chair of the Audit Committee",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 76,
+  "ageYear": 2024
+}

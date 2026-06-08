@@ -1,0 +1,62 @@
+{
+  "name": "Sherry Barrat",
+  "first_name": "Sherry",
+  "last_name": "Barrat",
+  "age": 74,
+  "age_year": 2024,
+  "background": "Retired vice chairman of Northern Trust Corporation. Director since 1998.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "NextEra Energy, Inc.",
+      "ticker": "NEE",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.nexteraenergy.com",
+      "start_date": "1998-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Arthur J. Gallagher & Co.",
+      "ticker": "AJG",
+      "exchange": "NYSE",
+      "website": "https://www.ajg.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "May 2026",
+      "validated": true
+    },
+    {
+      "name": "Northern Trust Corporation",
+      "ticker": "NTRS",
+      "exchange": "NASDAQ",
+      "website": "https://www.northerntrust.com",
+      "title_or_role": "Vice Chairman",
+      "start_date": null,
+      "end_date": "2013",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sherry-barrat-14aab958",
+      "person_name": "Sherry Barrat",
+      "company_name": "Northern Trust Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Finance & Investment",
+    "Governance & Nominating (Chair)"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

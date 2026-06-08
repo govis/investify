@@ -1,0 +1,43 @@
+{
+  "id": "Brian Edgar",
+  "name": "Brian Edgar",
+  "background": "Mr. Edgar is a lawyer and has served as a director of numerous public companies. He was the President and CEO of Dome Ventures Corp. until its merger with Vicuna Resources Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lundin Mining Corporation",
+      "ticker": "LUN",
+      "exchange": "TSX",
+      "website": "https://www.lundinmining.com",
+      "logoUrl": "/companies-assets/LUN.TSX.svg",
+      "title": "Director",
+      "startDate": "1994",
+      "endDate": "2013",
+      "formattedStartDate": "1994",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Metalline Mining Company",
+      "ticker": "MMG",
+      "exchange": "OTC",
+      "website": null,
+      "logoUrl": "/companies-assets/MMG.OTC.svg",
+      "title": "President and Chief Executive Officer / Executive Chairman",
+      "startDate": "2005",
+      "endDate": "2011",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2011"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 73,
+  "ageYear": 2024
+}

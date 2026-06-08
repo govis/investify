@@ -1,0 +1,64 @@
+{
+  "name": "Dawn Hudson",
+  "first_name": "Dawn",
+  "last_name": "Hudson",
+  "age": 66,
+  "age_year": 2024,
+  "background": "Former Chief Marketing Officer of the National Football League and former President and CEO of Pepsi-Cola North America.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "nvidia.com",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Interpublic Group of Companies, Inc.",
+      "ticker": "IPG",
+      "exchange": "NYSE",
+      "website": "interpublic.com",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Modern Times Group MTG AB",
+      "ticker": "MTG-B",
+      "exchange": "STO",
+      "website": "mtg.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": "2023",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dawn-hudson1",
+      "person_name": "Dawn Hudson",
+      "company_name": "NVIDIA Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

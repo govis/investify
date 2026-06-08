@@ -1,0 +1,101 @@
+{
+  "id": "John Rogers, Jr",
+  "name": "John Rogers, Jr.",
+  "background": "Chairman, Co-CEO and Chief Investment Officer of Ariel Investments, LLC. He founded Ariel in 1983.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Nike, Inc.",
+      "ticker": "NKE",
+      "exchange": "NYSE",
+      "website": "https://www.nike.com",
+      "logoUrl": "/companies-assets/NKE.NYSE.svg",
+      "title": "Director",
+      "startDate": "2003",
+      "endDate": null,
+      "formattedStartDate": "2003",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "The New York Times Company",
+      "ticker": "NYT",
+      "exchange": "NYSE",
+      "website": "https://www.nytco.com",
+      "logoUrl": "/companies-assets/NYT.NYSE.svg",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Ryan Specialty Holdings, Inc.",
+      "ticker": "RYAN",
+      "exchange": "NYSE",
+      "website": "https://www.ryanspecialty.com",
+      "logoUrl": "/companies-assets/RYAN.NYSE.svg",
+      "title": "Lead Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Exelon Corporation",
+      "ticker": "EXC",
+      "exchange": "NASDAQ",
+      "website": "https://www.exeloncorp.com",
+      "logoUrl": "/companies-assets/EXC.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2000",
+      "endDate": "2019",
+      "formattedStartDate": "2000",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "McDonald’s Corporation",
+      "ticker": "MCD",
+      "exchange": "NYSE",
+      "website": "mcdonalds.com",
+      "logoUrl": "/companies-assets/MCD.NYSE.svg",
+      "title": "Director",
+      "startDate": "2003",
+      "endDate": "2023",
+      "formattedStartDate": "2003",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Bally Total Fitness Corporation",
+      "ticker": "BFT",
+      "exchange": "NYSE (delisted)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Lead Director",
+      "startDate": "N/A",
+      "endDate": "N/A",
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/john-w-rogers-jr-72723b112",
+      "person_name": "John W. Rogers, Jr.",
+      "company_name": "Ariel Investments",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Corporate Governance Committee (Chair)"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

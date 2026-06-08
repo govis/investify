@@ -1,0 +1,29 @@
+{
+  "name": "L-A Musca",
+  "first_name": "L-A",
+  "last_name": "Musca",
+  "age": null,
+  "age_year": null,
+  "background": "Ms. Musca is a Chartered Accountant with over 15 years of experience in financial management and reporting within the mining sector. She previously held senior financial roles at Gascoyne Resources and other ASX-listed entities.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Karora Resources Inc.",
+      "ticker": "KRR",
+      "exchange": "TSX",
+      "title_or_role": "Information not publicly specified in available filings",
+      "website": "https://www.karoraresources.com/",
+      "start_date": "Information not publicly specified",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

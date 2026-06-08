@@ -1,0 +1,40 @@
+{
+  "id": "Ryan Beedie",
+  "name": "Ryan Beedie",
+  "background": "Mr. Beedie is the President of Beedie, one of Western Canada's largest industrial and residential developers.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Artemis Gold Inc.",
+      "ticker": "ARTG",
+      "exchange": "TSX",
+      "website": "https://www.artemisgoldinc.com",
+      "logoUrl": "/companies-assets/ARTG.TSX.png",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/ryan-beedie-obc-cbhf-798a32262",
+      "person_name": "Ryan Beedie",
+      "company_name": "Beedie",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "profile_status": "private"
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 55,
+  "ageYear": 2024
+}

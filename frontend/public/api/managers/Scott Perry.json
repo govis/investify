@@ -1,0 +1,42 @@
+{
+  "id": "Scott Perry",
+  "name": "Scott Perry",
+  "background": "Mr. Perry was formerly the President and CEO of Centerra Gold Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AuRico Gold Inc.",
+      "ticker": "AUQ",
+      "exchange": "TSX",
+      "website": "N/A",
+      "logoUrl": "/companies-assets/AUQ.TSX.png",
+      "title": "Chief Financial Officer",
+      "startDate": "2011",
+      "endDate": "2013",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Centerra Gold Inc.",
+      "ticker": "CG",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Finance Roles",
+      "startDate": "2004",
+      "endDate": "2011",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2011"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 53,
+  "ageYear": 2024
+}

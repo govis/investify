@@ -1,0 +1,53 @@
+{
+  "name": "Birgit Steinborn",
+  "first_name": "Birgit",
+  "last_name": "Steinborn",
+  "age": 64,
+  "age_year": 2024,
+  "background": "First Deputy Chairwoman of the Supervisory Board. Chairwoman of the Central Works Council of Siemens AG.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Siemens Aktiengesellschaft",
+      "ticker": "SIEGY",
+      "exchange": "OTC",
+      "title_or_role": "First Deputy Chairwoman",
+      "website": "https://www.siemens.com",
+      "start_date": "2015-01-27",
+      "end_date": null
+    },
+    {
+      "name": "Siemens Aktiengesellschaft (Siemens AG)",
+      "ticker": "SIE",
+      "exchange": "XETRA",
+      "website": "https://www.siemens.com",
+      "title_or_role": "Chairwoman of the Central Works Council",
+      "start_date": "2014",
+      "end_date": "08/2025",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://de.linkedin.com/in/birgitsteinborn",
+      "person_name": "Birgit Steinborn",
+      "company_name": "Siemens Aktiengesellschaft",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Chairman's Committee",
+    "Innovation and Finance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

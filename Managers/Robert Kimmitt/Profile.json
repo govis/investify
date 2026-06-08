@@ -1,0 +1,41 @@
+{
+  "name": "Robert Kimmitt",
+  "first_name": "Robert",
+  "last_name": "Kimmitt",
+  "age": 76,
+  "age_year": 2024,
+  "background": "Senior International Counsel at WilmerHale.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Meta Platforms, Inc.",
+      "ticker": "META",
+      "exchange": "NASDAQ",
+      "title_or_role": "Lead Independent Director",
+      "website": "https://investor.meta.com",
+      "start_date": "March 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Time Warner Inc.",
+      "ticker": "TWX",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Executive Vice President of Global Public Policy",
+      "start_date": "2001",
+      "end_date": "2005",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

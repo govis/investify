@@ -1,0 +1,29 @@
+{
+  "name": "Alex Szabo",
+  "first_name": "Alex",
+  "last_name": "Szabo",
+  "age": 51,
+  "age_year": 2024,
+  "background": "Alex Szabo was appointed as CFO and Executive Director effective 1 December 2023. He previously served as the Senior Vice President: Group Financial Controller at Gold Fields.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Gold Fields Limited",
+      "ticker": "GFI",
+      "exchange": "NYSE",
+      "title_or_role": "Finance Department (SOX and technical accounting)",
+      "website": "https://www.goldfields.com",
+      "start_date": "2014",
+      "end_date": "2025-03",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

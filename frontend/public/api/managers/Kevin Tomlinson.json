@@ -1,0 +1,65 @@
+{
+  "id": "Kevin Tomlinson",
+  "name": "Kevin Tomlinson",
+  "background": "Mr Tomlinson is a highly experienced mining executive and investment banker with over 35 years’ experience in the global resources sector. He has held directorships with several ASX, TSX, and LSE-listed companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Bellevue Gold Limited",
+      "ticker": "BGL",
+      "exchange": "ASX",
+      "website": "https://www.bellevuegold.com.au",
+      "logoUrl": "/companies-assets/BGL.ASX.svg",
+      "title": "Non-Executive Chairman",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "FireFly Metals Ltd",
+      "ticker": "FFM",
+      "exchange": "ASX",
+      "website": "fireflymetals.com.au",
+      "logoUrl": "/companies-assets/FFM.ASX.png",
+      "title": "Chairman",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cygnus Metals Ltd",
+      "ticker": "CY5",
+      "exchange": "ASX",
+      "website": "cygnusmetals.com",
+      "logoUrl": "/companies-assets/CY5.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/kevin-tomlinson-a5686736",
+      "person_name": "Kevin Tomlinson",
+      "company_name": "Bellevue Gold Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee",
+    "Nomination and Remuneration Committee"
+  ],
+  "age": null,
+  "ageYear": null
+}

@@ -1,0 +1,50 @@
+{
+  "id": "Eugene Lei",
+  "name": "Eugene Lei",
+  "background": "Mr. Lei was appointed Chief Financial Officer in 2022. He joined Hudbay in 2012 and has held progressively senior roles in corporate development and strategy. Prior to Hudbay, he was an investment banker at a major Canadian bank.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Hudbay Minerals Inc.",
+      "ticker": "HBM",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "SVP, Corporate Development & Strategy",
+      "startDate": "2017",
+      "endDate": "2022",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Copper Mountain Mining Corp.",
+      "ticker": "CMMC",
+      "exchange": "TSX",
+      "website": "https://www.cumtn.com/",
+      "logoUrl": "/companies-assets/CMMC.TSX.png",
+      "title": "Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/eugene-lei-729625",
+      "person_name": "Eugene Lei",
+      "company_name": "Hudbay Minerals Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 47,
+  "ageYear": 2024
+}

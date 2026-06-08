@@ -1,0 +1,65 @@
+{
+  "id": "Richard Kusmirski",
+  "name": "Richard Kusmirski",
+  "background": "Mr. Kusmirski has over 45 years of experience in the exploration industry and was formerly the President of JNR Resources Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Skyharbour Resources Ltd.",
+      "ticker": "SYH",
+      "exchange": "TSXV",
+      "website": "skyharbourltd.com",
+      "logoUrl": "/companies-assets/SYH.TSXV.png",
+      "title": "Co-Founder and Director",
+      "startDate": null,
+      "endDate": "2021-12-06",
+      "formattedStartDate": "",
+      "formattedEndDate": "December 2021"
+    },
+    {
+      "name": "Bessor Minerals Inc.",
+      "ticker": "BST",
+      "exchange": "TSXV",
+      "website": "bessorminerals.com",
+      "logoUrl": "/companies-assets/BST.TSXV.png",
+      "title": "Director",
+      "startDate": null,
+      "endDate": "2021-12-06",
+      "formattedStartDate": "",
+      "formattedEndDate": "December 2021"
+    },
+    {
+      "name": "Noka Resources Inc.",
+      "ticker": "NX",
+      "exchange": "TSXV",
+      "website": "https://nokaresources.com",
+      "logoUrl": "/companies-assets/NX.TSXV.png",
+      "title": "Director",
+      "startDate": "2015-06-08",
+      "endDate": "2021-12-06",
+      "formattedStartDate": "June 2015",
+      "formattedEndDate": "December 2021"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/richard-kusmirski-4a5b2a1a",
+      "person_name": "Richard Kusmirski",
+      "company_name": "F3 Uranium Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Technical Committee"
+  ],
+  "age": 72,
+  "ageYear": 2024
+}

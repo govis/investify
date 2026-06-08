@@ -1,0 +1,38 @@
+{
+  "id": "Mark Caylor",
+  "name": "Mark Caylor",
+  "background": "Mr. Caylor is Corporate Vice President and President, Mission Systems. He previously served as Corporate Vice President and President, Enterprise Services and Chief Strategy Officer.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "LightPath Technologies, Inc.",
+      "ticker": "LPTH",
+      "exchange": "NASDAQ",
+      "website": "https://www.lightpath.com/",
+      "logoUrl": "/companies-assets/LPTH.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mark-caylor-5a5b2a12",
+      "person_name": "Mark Caylor",
+      "company_name": "Northrop Grumman Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 59,
+  "ageYear": 2024
+}

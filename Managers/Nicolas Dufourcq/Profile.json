@@ -1,0 +1,42 @@
+{
+  "name": "Nicolas Dufourcq",
+  "first_name": "Nicolas",
+  "last_name": "Dufourcq",
+  "age": 60,
+  "age_year": 2023,
+  "background": "Nicolas Dufourcq has been a member of the Supervisory Board since 2015 and is currently the Chairman. He is the Chief Executive Officer of Bpifrance. Previously, he served as Deputy CEO of Capgemini.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "STMicroelectronics N.V.",
+      "ticker": "STM",
+      "exchange": "NYSE",
+      "title_or_role": "Chairman of the Supervisory Board",
+      "website": "https://www.st.com",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://fr.linkedin.com/in/nicolasdufourcq/en",
+      "person_name": "Nicolas Dufourcq",
+      "company_name": "Bpifrance",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Strategic Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

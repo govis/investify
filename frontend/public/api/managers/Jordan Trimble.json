@@ -1,0 +1,50 @@
+{
+  "id": "Jordan Trimble",
+  "name": "Jordan Trimble",
+  "background": "Jordan Trimble is the President and CEO of Skyharbour Resources. He has worked in the resource industry in various capacities with numerous TSX Venture listed companies and has a background in corporate finance and management. He has been instrumental in the growth and development of Skyharbour and has helped raise significant capital for the company.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Skyharbour Resources Ltd.",
+      "ticker": "SYH",
+      "exchange": "TSXV",
+      "website": "skyharbourltd.com",
+      "logoUrl": "/companies-assets/SYH.TSXV.png",
+      "title": "President, Chief Executive Officer, and Director",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Bayfield Ventures Corp.",
+      "ticker": "BAV",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": "/companies-assets/BAV.TSXV.png",
+      "title": "Corporate Development Manager",
+      "startDate": "Prior to 2013",
+      "endDate": "2014",
+      "formattedStartDate": "Prior to 2013",
+      "formattedEndDate": "2014"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/jordan-trimble-cfa-a29b4223",
+      "person_name": "Jordan Trimble",
+      "company_name": "Skyharbour Resources Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

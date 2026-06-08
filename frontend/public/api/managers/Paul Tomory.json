@@ -1,0 +1,39 @@
+{
+  "id": "Paul Tomory",
+  "name": "Paul Tomory",
+  "background": "Mr. Tomory was appointed President and Chief Executive Officer of Centerra Gold in May 2023. Prior to joining Centerra, he served as Executive Vice President and Chief Technical Officer at Kinross Gold Corporation from 2017 to 2023. He has over 25 years of experience in the mining industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Centerra Gold Inc.",
+      "ticker": "CG",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and Chief Executive Officer",
+      "startDate": "2023-05-01",
+      "endDate": null,
+      "formattedStartDate": "May 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Kinross Gold Corporation",
+      "ticker": "K (TSX), KGC (NYSE)",
+      "exchange": "TSX, NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Vice President and Chief Technical Officer",
+      "startDate": "2009-01-01",
+      "endDate": "2023-04-01",
+      "formattedStartDate": "January 2009",
+      "formattedEndDate": "April 2023"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 52,
+  "ageYear": 2024
+}

@@ -1,0 +1,75 @@
+{
+  "id": "Sumit Sadana",
+  "name": "Sumit Sadana",
+  "background": "Sumit Sadana is Executive Vice President and Chief Business Officer. He joined Micron in 2017 from SanDisk, where he was Executive Vice President and Chief Strategy Officer.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Silicon Laboratories Inc.",
+      "ticker": "SLAB",
+      "exchange": "NASDAQ",
+      "website": "https://www.silabs.com",
+      "logoUrl": "/companies-assets/SLAB.NASDAQ.svg",
+      "title": "Member of the Board of Directors / Lead Independent Director",
+      "startDate": "2015-04-27",
+      "endDate": null,
+      "formattedStartDate": "April 2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "SanDisk Corporation",
+      "ticker": "SNDK",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "/companies-assets/SNDK.NASDAQ.svg",
+      "title": "Executive Vice President, Chief Strategy Officer and General Manager, Enterprise Solutions",
+      "startDate": null,
+      "endDate": "2016-05-12",
+      "formattedStartDate": "",
+      "formattedEndDate": "May 2016"
+    },
+    {
+      "name": "Freescale Semiconductor, Ltd.",
+      "ticker": "FSL",
+      "exchange": "NYSE",
+      "website": "https://www.nxp.com",
+      "logoUrl": "https://www.nxp.com/assets/images/logo/nxp-logo.svg",
+      "title": "Senior Executive (various roles including CTO and CFO)",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "IBM Corporation",
+      "ticker": "IBM",
+      "exchange": "NYSE",
+      "website": "https://www.ibm.com",
+      "logoUrl": "/companies-assets/IBM.NYSE.svg",
+      "title": "Senior Executive",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sumitsadana",
+      "person_name": "Sumit Sadana",
+      "company_name": "Micron Technology",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2023
+}

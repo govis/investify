@@ -1,0 +1,70 @@
+{
+  "name": "Paul Andre Huet",
+  "first_name": "Paul",
+  "last_name": "Andre Huet",
+  "age": 55,
+  "age_year": 2024,
+  "background": "Mr. Huet has over 30 years of experience in the mining industry. He served as Executive Chairman and CEO of Karora Resources. Previously, he was President and CEO of Klondex Mines Ltd. from 2012 to 2018. He has served on several boards including Northwest Copper Corp. and 1911 Gold Corporation.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Karora Resources Inc.",
+      "ticker": "KRR",
+      "exchange": "TSX",
+      "title_or_role": "Chairman & CEO",
+      "website": "https://karoraresources.com",
+      "start_date": "2019-02",
+      "end_date": "2024-08",
+      "validated": true
+    },
+    {
+      "name": "Americas Gold and Silver Corporation",
+      "ticker": "USA",
+      "exchange": "NYSE",
+      "website": "https://americas-gold.com",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2024-11-11",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Klondex Mines Ltd.",
+      "ticker": "KDX",
+      "exchange": "TSX",
+      "website": "https://klondexmines.com",
+      "title_or_role": "President & CEO",
+      "start_date": "2012-05",
+      "end_date": "2018-07",
+      "validated": true
+    },
+    {
+      "name": "RNC Minerals (now Karora)",
+      "ticker": "RNX",
+      "exchange": "TSX",
+      "website": "https://karoraresources.com",
+      "title_or_role": "Interim CEO",
+      "start_date": "2019-02",
+      "end_date": "2019-02",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/paulandrehuet",
+      "person_name": "Paul Andre Huet",
+      "company_name": "Karora Resources Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

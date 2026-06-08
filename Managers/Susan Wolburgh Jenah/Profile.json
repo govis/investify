@@ -1,0 +1,63 @@
+{
+  "name": "Susan Wolburgh Jenah",
+  "first_name": "Susan",
+  "last_name": "Wolburgh Jenah",
+  "age": 68,
+  "age_year": 2024,
+  "background": "Ms. Wolburgh Jenah is the former President and CEO of the Investment Industry Regulatory Organization of Canada (IIROC). She serves on several boards and is a member of the Order of Canada.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Aecon Group Inc.",
+      "ticker": "ARE",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://www.aecon.com",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Hydro One Limited",
+      "ticker": "H",
+      "exchange": "TSX",
+      "website": "https://www.hydroone.com",
+      "title_or_role": "Director (Interim Chair of the Board as of March 2025)",
+      "start_date": "January 2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Laurentian Bank of Canada",
+      "ticker": "LB",
+      "exchange": "TSX",
+      "website": "https://www.laurentianbank.ca",
+      "title_or_role": "Director",
+      "start_date": "December 2014",
+      "end_date": "2023",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/swolburghjenah",
+      "person_name": "Susan Wolburgh Jenah",
+      "company_name": "Aecon Group Inc., Hydro One Limited, Laurentian Bank of Canada",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance, Nominating and Risk Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

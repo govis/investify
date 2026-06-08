@@ -1,0 +1,53 @@
+{
+  "id": "Douglas Duncan",
+  "name": "Douglas Duncan",
+  "background": "Former President and CEO of FedEx Freight. Director since 2010.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "J.B. Hunt Transport Services, Inc.",
+      "ticker": "JBHT",
+      "exchange": "NASDAQ",
+      "website": "https://www.jbhunt.com",
+      "logoUrl": "https://www.jbhunt.com/content/dam/jbhunt/images/logos/jbhunt-logo.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "March 2010",
+      "endDate": "February 2023",
+      "formattedStartDate": "March 2010",
+      "formattedEndDate": "February 2023"
+    },
+    {
+      "name": "FedEx Corporation",
+      "ticker": "FDX",
+      "exchange": "NYSE",
+      "website": "https://www.fedex.com",
+      "logoUrl": "/companies-assets/FDX.NYSE.svg",
+      "title": "President and CEO, FedEx Freight (a subsidiary of FedEx Corporation)",
+      "startDate": "Prior to 2010",
+      "endDate": "2010",
+      "formattedStartDate": "Prior to 2010",
+      "formattedEndDate": "2010"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/dougwduncan",
+      "person_name": "Douglas Duncan",
+      "company_name": "J.B. Hunt Transport Services, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 73,
+  "ageYear": 2024
+}

@@ -1,0 +1,53 @@
+{
+  "id": "John Booth",
+  "name": "John Booth",
+  "background": "Mr. Booth is a lawyer and investment banker with over 30 years of experience in the resource sector. He is currently the Chairman of Laramide.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Laramide Resources Ltd.",
+      "ticker": "LAM",
+      "exchange": "TSX",
+      "website": "https://laramide.com",
+      "logoUrl": "/companies-assets/LAM.TSX.svg",
+      "title": "Non-Executive Chairman / Director",
+      "startDate": "Not specified",
+      "endDate": null,
+      "formattedStartDate": "Not specified",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Midpoint Holdings Ltd.",
+      "ticker": "MPT",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Midpoint_logo.png/220px-Midpoint_logo.png",
+      "title": "Co-founder, CEO, Chairman",
+      "startDate": "Not specified",
+      "endDate": "2017",
+      "formattedStartDate": "Not specified",
+      "formattedEndDate": "2017"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jwbooth",
+      "person_name": "John Booth",
+      "company_name": "Laramide Resources Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 61,
+  "ageYear": 2024
+}

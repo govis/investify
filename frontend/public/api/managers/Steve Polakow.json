@@ -1,0 +1,28 @@
+{
+  "id": "Steve Polakow",
+  "name": "Steve Polakow",
+  "background": "Mr. Polakow has over 35 years of experience in financial management and corporate governance. He has served as CFO for several public and private companies in the resource sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Dryden Gold Corp.",
+      "ticker": "DRY",
+      "exchange": "TSX Venture Exchange",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 65,
+  "ageYear": 2024
+}

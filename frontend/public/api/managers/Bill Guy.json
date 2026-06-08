@@ -1,0 +1,50 @@
+{
+  "id": "Bill Guy",
+  "name": "Bill Guy",
+  "background": "Mr Guy is a geologist with over 30 years’ experience in exploration and resource development. He has held senior executive positions with several ASX-listed companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Bellevue Gold Limited",
+      "ticker": "BGL",
+      "exchange": "ASX",
+      "website": "https://www.bellevuegold.com.au",
+      "logoUrl": "/companies-assets/BGL.ASX.svg",
+      "title": "Director (Founding Director)",
+      "startDate": "2017",
+      "endDate": "2020",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Theta Gold Mines Limited",
+      "ticker": "TGM",
+      "exchange": "ASX",
+      "website": "https://thetagoldmines.com/",
+      "logoUrl": "/companies-assets/TGM.ASX.webp",
+      "title": "Chairman / Managing Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/billgu",
+      "person_name": "Bill Guy",
+      "company_name": "Theta Gold Mines Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

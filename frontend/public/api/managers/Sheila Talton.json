@@ -1,0 +1,89 @@
+{
+  "id": "Sheila Talton",
+  "name": "Sheila Talton",
+  "background": "President and CEO of Gray Matter Analytics.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Deere & Company",
+      "ticker": "DE",
+      "exchange": "NYSE",
+      "website": "https://www.deere.com",
+      "logoUrl": "/companies-assets/DE.NYSE.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Sysco Corporation",
+      "ticker": "SYY",
+      "exchange": "NYSE",
+      "website": "https://www.sysco.com",
+      "logoUrl": "/companies-assets/SYY.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "OGE Energy Corp.",
+      "ticker": "OGE",
+      "exchange": "NYSE",
+      "website": "https://www.oge.com",
+      "logoUrl": "/companies-assets/OGE.NYSE.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Wintrust Financial Corporation",
+      "ticker": "WTFC",
+      "exchange": "NASDAQ",
+      "website": "https://www.wintrust.com",
+      "logoUrl": "/companies-assets/WTFC.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2012",
+      "endDate": "2019",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "ACCO Brands Corporation",
+      "ticker": "ACCO",
+      "exchange": "NYSE",
+      "website": "https://www.accobrands.com",
+      "logoUrl": "/companies-assets/ACCO.NYSE.svg",
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": "2015",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2015"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sheila-talton-8b295",
+      "person_name": "Sheila Talton",
+      "company_name": "Gray Matter Analytics",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance Committee"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

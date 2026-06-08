@@ -1,0 +1,41 @@
+{
+  "name": "Brian Maher",
+  "first_name": "Brian",
+  "last_name": "Maher",
+  "age": 65,
+  "age_year": 2024,
+  "background": "Mr. Maher is an economic geologist with over 40 years of experience in the international mining industry. He has held senior positions with ASARCO and Hochschild Mining and was the President and CEO of Prodigy Gold Inc.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Lahontan Gold Corp.",
+      "ticker": "LG",
+      "exchange": "TSXV",
+      "title_or_role": "Vice President-Exploration / Co-founder",
+      "website": "https://lahontangoldcorp.com/",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/maher-brian",
+      "person_name": "Brian Maher",
+      "company_name": "Lahontan Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

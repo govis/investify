@@ -1,0 +1,39 @@
+{
+  "id": "Denis Coleman",
+  "name": "Denis Coleman",
+  "background": "Denis Coleman is Chief Financial Officer of The Goldman Sachs Group, Inc. He previously served as Co-Head of the Global Financing Group and as a member of the Management Committee.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "The Goldman Sachs Group, Inc.",
+      "ticker": "GS",
+      "exchange": "NYSE",
+      "website": "https://www.goldmansachs.com",
+      "logoUrl": "/companies-assets/GS.NYSE.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/denis-coleman-gs",
+      "person_name": "Denis Coleman",
+      "company_name": "The Goldman Sachs Group, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 50,
+  "ageYear": 2024
+}

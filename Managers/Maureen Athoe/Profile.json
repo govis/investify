@@ -1,0 +1,40 @@
+{
+  "name": "Maureen Athoe",
+  "first_name": "Maureen",
+  "last_name": "Athoe",
+  "age": 62,
+  "age_year": 2024,
+  "background": "Ms. Athoe has served as President of the Space and Defense Controls segment since 2017. She joined Moog in 1985.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Moog Inc.",
+      "ticker": "MOG.A / MOG.B",
+      "exchange": "NYSE",
+      "title_or_role": "Vice President, Group President - Space & Defense",
+      "website": "https://www.moog.com",
+      "start_date": "2015",
+      "end_date": "2023",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/maureen-athoe-93930b301",
+      "person_name": "Maureen Athoe",
+      "company_name": "Moog Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

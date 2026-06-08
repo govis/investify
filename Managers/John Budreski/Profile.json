@@ -1,0 +1,72 @@
+{
+  "name": "John Budreski",
+  "first_name": "John",
+  "last_name": "Budreski",
+  "age": 63,
+  "age_year": 2024,
+  "background": "Executive Chairman of EnWave Corporation and former Managing Director and Head of Investment Banking for Cormark Securities Inc.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Sandstorm Gold Ltd.",
+      "ticker": "SAND",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.sandstormgold.com",
+      "start_date": "2013-01-01",
+      "end_date": null
+    },
+    {
+      "name": "EnWave Corporation",
+      "ticker": "ENW",
+      "exchange": "TSXV",
+      "website": "https://www.enwave.net/",
+      "title_or_role": "Executive Chairman",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Morien Resources Corp.",
+      "ticker": "MOX",
+      "exchange": "TSXV",
+      "website": "https://morienres.com/",
+      "title_or_role": "Executive Chairman",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NuLegacy Gold Corporation",
+      "ticker": "NUG",
+      "exchange": "TSXV",
+      "website": "https://nulegacygold.com/",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/john-budreski-2aa2b1b6",
+      "person_name": "John Budreski",
+      "company_name": "EnWave Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

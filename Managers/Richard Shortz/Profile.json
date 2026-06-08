@@ -1,0 +1,43 @@
+{
+  "name": "Richard Shortz",
+  "first_name": "Richard",
+  "last_name": "Shortz",
+  "age": 78,
+  "age_year": 2023,
+  "background": "Mr. Shortz has served as a director since 2010. He was previously a partner at Morgan, Lewis & Bockius LLP and served as an executive at Tosco Corporation.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Contango ORE, Inc.",
+      "ticker": "CTGO",
+      "exchange": "NYSE American",
+      "title_or_role": "Director",
+      "website": "https://www.contangoore.com/",
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/richard-shortz-a060bb20",
+      "person_name": "Richard Shortz",
+      "company_name": "Contango ORE, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

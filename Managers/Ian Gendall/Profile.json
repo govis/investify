@@ -1,0 +1,60 @@
+{
+  "name": "Ian Gendall",
+  "first_name": "Ian",
+  "last_name": "Gendall",
+  "age": 64,
+  "age_year": 2024,
+  "background": "Mr. Gendall is a geologist with over 30 years of experience in the mineral exploration industry. He has held senior positions with several exploration companies and has been involved in the discovery and development of several mineral deposits in South America and Canada.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "DLP Resources Inc.",
+      "ticker": "DLP",
+      "exchange": "TSXV",
+      "title_or_role": "President & CEO",
+      "website": "https://dlpresourcesinc.com",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Spark Energy Minerals Inc.",
+      "ticker": "SPRK",
+      "exchange": "CSE",
+      "website": "https://sparkminerals.co",
+      "title_or_role": "Technical Advisory Board",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC",
+      "exchange": "TSX",
+      "website": "https://oceanagold.com",
+      "title_or_role": "Project Generation Manager (North America)",
+      "start_date": "2019",
+      "end_date": "2022",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/ian-gendall-3aa77344",
+      "person_name": "Ian Gendall",
+      "company_name": "DLP Resources Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

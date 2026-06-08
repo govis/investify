@@ -1,0 +1,102 @@
+{
+  "id": "William Hernandez",
+  "name": "William Hernandez",
+  "background": "Former Senior Vice President and Chief Financial Officer of PPG Industries, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Northrop Grumman Corporation",
+      "ticker": "NOC",
+      "exchange": "NYSE",
+      "website": "https://www.northropgrumman.com",
+      "logoUrl": "/companies-assets/NOC.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "2013",
+      "endDate": "2023",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Albemarle Corporation",
+      "ticker": "ALB",
+      "exchange": "NYSE",
+      "website": "https://www.albemarle.com",
+      "logoUrl": "/companies-assets/ALB.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "2011",
+      "endDate": "2020",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "USG Corporation",
+      "ticker": "USG",
+      "exchange": "NYSE",
+      "website": "https://www.usg.com",
+      "logoUrl": "/companies-assets/USG.NYSE.png",
+      "title": "Independent Director",
+      "startDate": "2009",
+      "endDate": "2019",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Black Box Corporation",
+      "ticker": "BBOX",
+      "exchange": "NASDAQ",
+      "website": "bboxservices.com",
+      "logoUrl": "/companies-assets/BBOX.NASDAQ.svg",
+      "title": "Independent Director",
+      "startDate": "2009",
+      "endDate": "2017",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Eastman Kodak Company",
+      "ticker": "KODK",
+      "exchange": "NYSE",
+      "website": "kodak.com",
+      "logoUrl": "/companies-assets/KODK.NYSE.svg",
+      "title": "Independent Director",
+      "startDate": "2011",
+      "endDate": "2013",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Pentair plc",
+      "ticker": "PNR",
+      "exchange": "NYSE",
+      "website": "pentair.com",
+      "logoUrl": "/companies-assets/PNR.NYSE.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "PPG Industries, Inc.",
+      "ticker": "PPG",
+      "exchange": "NYSE",
+      "website": "https://www.ppg.com",
+      "logoUrl": "/companies-assets/PPG.NYSE.svg",
+      "title": "Senior VP & CFO",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Governance, Nominating and Sustainability Committee"
+  ],
+  "age": 75,
+  "ageYear": 2024
+}

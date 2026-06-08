@@ -1,0 +1,44 @@
+{
+  "name": "Bernard Fried",
+  "first_name": "Bernard",
+  "last_name": "Fried",
+  "age": 71,
+  "age_year": 2024,
+  "background": "Mr. Fried is the former Executive Chairman and CEO of SRA International, Inc. He has a background in government contracting and finance.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Quanta Services, Inc.",
+      "ticker": "PWR",
+      "exchange": "NYSE",
+      "title_or_role": "Director (Member of the Board of Directors)",
+      "website": "https://www.quantaservices.com",
+      "start_date": "March 2004",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bernard-fried-92145",
+      "person_name": "Bernard Fried",
+      "company_name": "Quanta Services, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Investment Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

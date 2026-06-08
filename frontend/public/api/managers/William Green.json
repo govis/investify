@@ -1,0 +1,54 @@
+{
+  "id": "William Green",
+  "name": "William Green",
+  "background": "Former Chairman and CEO of Accenture.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Dell Technologies Inc.",
+      "ticker": "DELL",
+      "exchange": "NYSE",
+      "website": "https://www.dell.com",
+      "logoUrl": "/companies-assets/DELL.NYSE.svg",
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Accenture plc",
+      "ticker": "ACN",
+      "exchange": "NYSE",
+      "website": "https://www.accenture.com",
+      "logoUrl": "/companies-assets/ACN.NYSE.svg",
+      "title": "CEO (2004–2010), Chairman of the Board (2006–2013)",
+      "startDate": "2004",
+      "endDate": "2013",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "S&P Global Inc.",
+      "ticker": "SPGI",
+      "exchange": "NYSE",
+      "website": "https://www.spglobal.com",
+      "logoUrl": "/companies-assets/SPGI.NYSE.svg",
+      "title": "Director",
+      "startDate": "2011",
+      "endDate": "2023",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2023"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Leadership Development and Compensation Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

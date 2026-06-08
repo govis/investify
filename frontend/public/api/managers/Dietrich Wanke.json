@@ -1,0 +1,50 @@
+{
+  "id": "Dietrich Wanke",
+  "name": "Dietrich Wanke",
+  "background": "Mr. Wanke has over 30 years of experience in the mining industry. He has held senior management roles at various mining operations globally and is the CEO of European Lithium Ltd.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Critical Metals Corp.",
+      "ticker": "CRML",
+      "exchange": "NASDAQ",
+      "website": "https://criticalmetalscorp.com",
+      "logoUrl": "/companies-assets/CRML.NASDAQ.svg",
+      "title": "President, Operations",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "European Lithium Limited",
+      "ticker": "EUR",
+      "exchange": "ASX",
+      "website": "https://europeanlithium.com/",
+      "logoUrl": "/companies-assets/EUR.ASX.png",
+      "title": "Chief Executive Officer",
+      "startDate": "May 4, 2018",
+      "endDate": null,
+      "formattedStartDate": "May 4, 2018",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/dietrich-wanke-ab779023",
+      "person_name": "Dietrich Wanke",
+      "company_name": "European Lithium Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

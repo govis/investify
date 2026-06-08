@@ -1,0 +1,53 @@
+{
+  "id": "Elizabeth Vanderslice",
+  "name": "Elizabeth Vanderslice",
+  "background": "Former CEO of Wired Digital, Inc. Joined AMD board following the Xilinx acquisition in 2022.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Advanced Micro Devices, Inc.",
+      "ticker": "AMD",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "logoUrl": "/companies-assets/AMD.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "February 2022",
+      "endDate": null,
+      "formattedStartDate": "February 2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Xilinx, Inc.",
+      "ticker": "XLNX",
+      "exchange": "NASDAQ",
+      "website": "https://www.amd.com",
+      "logoUrl": "/companies-assets/XLNX.NASDAQ.png",
+      "title": "Director",
+      "startDate": "December 2000",
+      "endDate": "February 2022",
+      "formattedStartDate": "December 2000",
+      "formattedEndDate": "February 2022"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/beth-vanderslice-34a3b49",
+      "person_name": "Elizabeth Vanderslice",
+      "company_name": "Advanced Micro Devices, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation and Leadership Resources Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

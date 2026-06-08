@@ -1,0 +1,82 @@
+{
+  "name": "John Surma",
+  "first_name": "John",
+  "last_name": "Surma",
+  "age": 69,
+  "age_year": 2024,
+  "background": "Retired Chairman and CEO of United States Steel Corporation.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Public Service Enterprise Group Incorporated",
+      "ticker": "PEG",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.pseg.com",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "United States Steel Corporation",
+      "ticker": "X",
+      "exchange": "NYSE",
+      "website": "https://www.ussteel.com",
+      "title_or_role": "CEO and Chairman of the Board",
+      "start_date": "2004",
+      "end_date": "2014",
+      "validated": true
+    },
+    {
+      "name": "Trane Technologies plc",
+      "ticker": "TT",
+      "exchange": "NYSE",
+      "website": "https://www.tranetechnologies.com",
+      "title_or_role": "Director (Lead Director)",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Marathon Petroleum Corporation",
+      "ticker": "MPC",
+      "exchange": "NYSE",
+      "website": "https://www.marathonpetroleum.com",
+      "title_or_role": "Director",
+      "start_date": "2011",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "MPLX LP",
+      "ticker": "MPLX",
+      "exchange": "NYSE",
+      "website": "https://www.mplx.com",
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Concho Resources Inc.",
+      "ticker": "CXO",
+      "exchange": "NYSE",
+      "website": "https://www.conocophillips.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": "2021",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit (Chair)",
+    "Executive"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

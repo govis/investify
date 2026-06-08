@@ -1,0 +1,69 @@
+{
+  "name": "Brian West",
+  "first_name": "Brian",
+  "last_name": "West",
+  "age": 55,
+  "age_year": 2024,
+  "background": "Mr. West has served as Executive Vice President and Chief Financial Officer since August 2021. Prior to joining Boeing, he was CFO of Refinitiv and Oscar Health.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "The Boeing Company",
+      "ticker": "BA",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Vice President and Chief Financial Officer",
+      "website": "https://www.boeing.com",
+      "start_date": "2021-08-27",
+      "end_date": null
+    },
+    {
+      "name": "Nielsen Holdings plc",
+      "ticker": "NLSN",
+      "exchange": "NYSE",
+      "website": "www.nielsen.com",
+      "title_or_role": "Chief Financial Officer, then Chief Operating Officer",
+      "start_date": "2007",
+      "end_date": "2016",
+      "validated": true
+    },
+    {
+      "name": "Refinitiv",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "www.refinitiv.com",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2018",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Oscar Health, Inc.",
+      "ticker": "OSCR",
+      "exchange": "NYSE",
+      "website": "www.hioscar.com",
+      "title_or_role": "Chief Financial Officer and Executive Vice President of Operations",
+      "start_date": "2016",
+      "end_date": "2018",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bwest",
+      "person_name": "Brian West",
+      "company_name": "The Boeing Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

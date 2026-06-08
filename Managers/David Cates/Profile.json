@@ -1,0 +1,80 @@
+{
+  "name": "David Cates",
+  "first_name": "David",
+  "last_name": "Cates",
+  "age": 42,
+  "age_year": 2024,
+  "background": "Mr. Cates is the President and Chief Executive Officer of Denison and serves on the Board of Directors. He is a Chartered Professional Accountant (CPA, CA) and holds a Master of Accounting (MAcc) and a Bachelor of Arts (BA) degree from the University of Waterloo. Prior to his appointment as President and CEO, he served as Denison's Vice President Finance and Chief Financial Officer.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Denison Mines Corp.",
+      "ticker": "DML (TSX), DNN (NYSE)",
+      "exchange": "TSX, NYSE",
+      "title_or_role": "President and Chief Executive Officer (2015\u2013Present); Director (2018\u2013Present); previously Vice President, Finance & Tax and Chief Financial Officer (2008\u20132015)",
+      "website": "https://denisonmines.com",
+      "start_date": "2008",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Denison Mines Corp.",
+      "ticker": "DNN",
+      "exchange": "TSX",
+      "title_or_role": "Director, President and Chief Executive Officer",
+      "website": "https://denisonmines.com",
+      "start_date": "2015-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Skyharbour Resources Ltd.",
+      "ticker": "SYH (TSXV)",
+      "exchange": "TSXV",
+      "website": "https://skyharbourltd.com",
+      "title_or_role": "Director (2016\u2013Present)",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Foremost Clean Energy Ltd.",
+      "ticker": "FMST (NASDAQ), FAT (CSE)",
+      "exchange": "NASDAQ, CSE",
+      "website": "https://foremostcleanenergy.com",
+      "title_or_role": "Director (2024\u2013Present)",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Uranium Participation Corp.",
+      "ticker": "U (TSX)",
+      "exchange": "TSX",
+      "website": "https://sprott.com",
+      "title_or_role": "President and Chief Executive Officer (2016\u20132021)",
+      "start_date": "2016",
+      "end_date": "2021",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/david-cates-cpa-ca-5b018044",
+      "person_name": "David Cates",
+      "company_name": "Denison Mines Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Ryan Lance",
+  "first_name": "Ryan",
+  "last_name": "Lance",
+  "age": 61,
+  "age_year": 2024,
+  "background": "Chairman and CEO of ConocoPhillips.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Freeport-McMoRan Inc.",
+      "ticker": "FCX",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.fcx.com",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "ConocoPhillips",
+      "ticker": "COP",
+      "exchange": "NYSE",
+      "website": "https://www.conocophillips.com",
+      "title_or_role": "Chairman and Chief Executive Officer",
+      "start_date": "May 2012",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/ryan-lance",
+      "person_name": "Ryan Lance",
+      "company_name": "ConocoPhillips",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation",
+    "Governance"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

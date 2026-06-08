@@ -1,0 +1,42 @@
+{
+  "id": "Ron Stewart",
+  "name": "Ron Stewart",
+  "background": "Mr. Stewart is a mining professional with over 30 years of experience in exploration, project development, and capital markets.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "New Age Metals Inc.",
+      "ticker": "NAM",
+      "exchange": "TSXV",
+      "website": "https://newagemetals.com",
+      "logoUrl": "/companies-assets/NAM.TSXV.png",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Highlander Silver Corp.",
+      "ticker": "HSLV",
+      "exchange": "CSE",
+      "website": "https://highlandersilver.com/",
+      "logoUrl": "/companies-assets/HSLV.CSE.png",
+      "title": "President and CEO; Director",
+      "startDate": "2021",
+      "endDate": "2022",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2022"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

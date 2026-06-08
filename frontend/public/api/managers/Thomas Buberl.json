@@ -1,0 +1,52 @@
+{
+  "id": "Thomas Buberl",
+  "name": "Thomas Buberl",
+  "background": "Thomas Buberl has been the Chief Executive Officer and a director of AXA S.A. since 2016.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AXA SA",
+      "ticker": "CS",
+      "exchange": "Euronext Paris",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Executive Officer & Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "International Business Machines Corporation (IBM)",
+      "ticker": "IBM",
+      "exchange": "NYSE",
+      "website": "https://www.ibm.com",
+      "logoUrl": "/companies-assets/IBM.NYSE.svg",
+      "title": "Director",
+      "startDate": "April 28, 2020",
+      "endDate": null,
+      "formattedStartDate": "April 28, 2020",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://fr.linkedin.com/in/thomas-buberl",
+      "person_name": "Thomas Buberl",
+      "company_name": "AXA",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 50,
+  "ageYear": 2024
+}

@@ -1,0 +1,50 @@
+{
+  "id": "Rein Lehari",
+  "name": "Rein Lehari",
+  "background": "Mr. Lehari is a Chartered Professional Accountant and was formerly a partner with PricewaterhouseCoopers LLP. He has over 30 years of experience in the mining industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Global Atomic Corporation",
+      "ticker": "GLO",
+      "exchange": "TSX",
+      "website": "https://globalatomiccorp.com",
+      "logoUrl": "/companies-assets/GLO.TSX.svg",
+      "title": "Chief Financial Officer (CFO)",
+      "startDate": "2016-12-31",
+      "endDate": null,
+      "formattedStartDate": "December 2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Silvermet Inc.",
+      "ticker": "N/A",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "CFO, President, and Director",
+      "startDate": null,
+      "endDate": "2017",
+      "formattedStartDate": "",
+      "formattedEndDate": "2017"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/rein-lehari-0241b121",
+      "person_name": "Rein Lehari",
+      "company_name": "Global Atomic Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 68,
+  "ageYear": 2024
+}

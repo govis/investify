@@ -1,0 +1,70 @@
+{
+  "name": "Joseph Hinrichs",
+  "first_name": "Joseph",
+  "last_name": "Hinrichs",
+  "age": 57,
+  "age_year": 2024,
+  "background": "President and Chief Executive Officer of CSX since September 2022. Previously served as President, Automotive at Ford Motor Company from 2019 to 2020.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "CSX Corporation",
+      "ticker": "CSX",
+      "exchange": "NASDAQ",
+      "title_or_role": "President and CEO",
+      "website": "https://www.csx.com",
+      "start_date": "2022-09-26",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Goodyear Tire & Rubber Company",
+      "ticker": "GT",
+      "exchange": "NASDAQ",
+      "website": "https://www.goodyear.com",
+      "title_or_role": "Director",
+      "start_date": "2023-07-25",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Luminar Technologies, Inc.",
+      "ticker": "LAZR",
+      "exchange": "NASDAQ",
+      "website": "https://www.luminartech.com",
+      "title_or_role": "Director",
+      "start_date": "2021-05-31",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "website": "https://www.ford.com",
+      "title_or_role": "President, Ford Automotive (and various executive roles)",
+      "start_date": "2000-12",
+      "end_date": "2020-03-01",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/joe-hinrichs-376103101",
+      "person_name": "Joseph Hinrichs",
+      "company_name": "CSX Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,87 @@
+{
+  "name": "Audra Walsh",
+  "first_name": "Audra",
+  "last_name": "Walsh",
+  "age": 55,
+  "age_year": 2024,
+  "background": "Ms. Walsh is a professional engineer with over 25 years of experience in the mining industry. She has held executive roles at Minas de Aguas Te\u00f1idas and Newmont.",
+  "picture_url": null,
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
+    {
+      "name": "Calibre Mining Corp.",
+      "ticker": "CXB",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://calibremining.com",
+      "start_date": "2022",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Faraday Copper Corp.",
+      "ticker": "FDY",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://faradaycopper.com",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "IAMGOLD Corporation",
+      "ticker": "IMG",
+      "exchange": "TSX",
+      "website": "https://www.iamgold.com",
+      "title_or_role": "Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sierra Metals Inc.",
+      "ticker": "SMT",
+      "exchange": "TSX",
+      "website": "https://sierrametals.com",
+      "title_or_role": "President and CEO",
+      "start_date": "2012",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Orvana Minerals Corp.",
+      "ticker": "ORV",
+      "exchange": "TSX",
+      "website": "https://www.orvana.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": "2016",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/audrawalsh",
+      "person_name": "Audra Walsh",
+      "company_name": "Sierra Metals Inc.",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Health, Safety, Environmental and Sustainability Committee (Chair)",
+    "Technical Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success",
+  "picture_download_count": 0
+}

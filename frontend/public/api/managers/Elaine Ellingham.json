@@ -1,0 +1,65 @@
+{
+  "id": "Elaine Ellingham",
+  "name": "Elaine Ellingham",
+  "background": "Ms. Ellingham is a geologist with over 30 years of experience in the mining industry. She has held senior positions with the Toronto Stock Exchange.",
+  "pictureUrl": "/managers-assets/Elaine Ellingham.jpg",
+  "companies": [
+    {
+      "name": "Alamos Gold Inc.",
+      "ticker": "AGI",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2011",
+      "endDate": null,
+      "formattedStartDate": "2011",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Omai Gold Mines Corp.",
+      "ticker": "OMG",
+      "exchange": "TSXV",
+      "website": "https://www.omaigoldmines.com/",
+      "logoUrl": "/companies-assets/OMG.TSXV.png",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Aston Bay Holdings Ltd.",
+      "ticker": "BAY",
+      "exchange": "TSXV",
+      "website": "https://astonbayholdings.com",
+      "logoUrl": "/companies-assets/BAY.TSXV.svg",
+      "title": "Advisory Board Member",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/elaine-ellingham-p-geo-mba-msc-93853930",
+      "person_name": "Elaine Ellingham",
+      "company_name": "Alamos Gold Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Corporate Governance and Nominating Committee",
+    "Technical and Sustainability Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

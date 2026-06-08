@@ -1,0 +1,63 @@
+{
+  "name": "Russell Banham",
+  "first_name": "Russell",
+  "last_name": "Banham",
+  "age": 65,
+  "age_year": 2024,
+  "background": "Russell Banham is an Independent Non-Executive Director. He is a former Deloitte partner with extensive experience in auditing and advisory services for large international mining and energy companies.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "National Atomic Company Kazatomprom JSC",
+      "ticker": "KAP",
+      "exchange": "LSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.kazatomprom.kz/",
+      "start_date": "2018",
+      "end_date": "2023",
+      "validated": true
+    },
+    {
+      "name": "Eureka Group Holdings Limited",
+      "ticker": "EGH",
+      "exchange": "ASX",
+      "website": "https://www.eurekagroupholdings.com.au/",
+      "title_or_role": "Chairman / Non-Executive Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "MGM China Holdings Limited",
+      "ticker": "2282",
+      "exchange": "HKSE",
+      "website": "https://www.mgmchinaholdings.com/",
+      "title_or_role": "Independent Non-Executive Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/russell-banham-35568769",
+      "person_name": "Russell Banham",
+      "company_name": "Eureka Group Holdings Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Nomination and Remuneration Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

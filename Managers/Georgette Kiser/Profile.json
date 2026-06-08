@@ -1,0 +1,74 @@
+{
+  "name": "Georgette Kiser",
+  "first_name": "Georgette",
+  "last_name": "Kiser",
+  "age": 56,
+  "age_year": 2024,
+  "background": "Ms. Kiser has served as a Director since 2019. She is an Operating Executive at The Carlyle Group and previously served as CIO of The Carlyle Group.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Jacobs Solutions Inc.",
+      "ticker": "J",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.jacobs.com",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Aflac Incorporated",
+      "ticker": "AFL",
+      "exchange": "NYSE",
+      "website": "https://www.aflac.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Adtalem Global Education Inc.",
+      "ticker": "ATGE",
+      "exchange": "NYSE",
+      "website": "https://www.adtalem.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NCR Voyix Corporation",
+      "ticker": "VYX",
+      "exchange": "NYSE",
+      "website": "https://www.ncrvoyix.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": "2023",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/georgette-kiser-5746b175",
+      "person_name": "Georgette Kiser",
+      "company_name": "The Carlyle Group",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Human Resource and Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

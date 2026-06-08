@@ -1,0 +1,63 @@
+{
+  "id": "Trey Wasser",
+  "name": "Trey Wasser",
+  "background": "Mr. Wasser has over 40 years of experience in the financial services and mining industries. He is currently the CEO of Dryden Gold Corp. and was previously the President and CEO of Ely Gold Royalties Inc. until its acquisition by Gold Royalty Corp. in 2021. He has extensive experience in capital markets and corporate development.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Dryden Gold Corp.",
+      "ticker": "DRY",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "CEO & Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Gold Royalty Corp.",
+      "ticker": "GROY",
+      "exchange": "NYSE",
+      "website": "https://www.goldroyalty.com",
+      "logoUrl": "/companies-assets/GROY.NYSE.png",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Ely Gold Royalties Inc.",
+      "ticker": "ELY",
+      "exchange": "TSXV",
+      "website": "https://elygoldinc.com/",
+      "logoUrl": "/companies-assets/ELY.TSXV.png",
+      "title": "President, CEO & Director",
+      "startDate": "2017",
+      "endDate": "2021",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2021"
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/trey-wasser-483a21263",
+      "person_name": "Trey Wasser",
+      "company_name": "Dryden Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 64,
+  "ageYear": 2024
+}

@@ -1,0 +1,40 @@
+{
+  "id": "Lisa Peterson",
+  "name": "Lisa Peterson",
+  "background": "Ms. Peterson is a CPA with over 15 years of experience in financial management and reporting. She previously served as Chief Financial Officer of several junior mining companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Thesis Gold Inc.",
+      "ticker": "TAU",
+      "exchange": "TSXV",
+      "website": "https://www.thesisgold.com",
+      "logoUrl": "/companies-assets/TAU.TSXV.svg",
+      "title": "Independent Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Outcrop Silver & Gold Corporation",
+      "ticker": "OCG",
+      "exchange": "TSXV",
+      "website": "https://outcropsilver.com",
+      "logoUrl": "/companies-assets/OCG.TSXV.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2021-08-16",
+      "endDate": "2022",
+      "formattedStartDate": "August 2021",
+      "formattedEndDate": "2022"
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 46,
+  "ageYear": 2024
+}

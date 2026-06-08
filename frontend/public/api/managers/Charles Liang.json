@@ -1,0 +1,38 @@
+{
+  "id": "Charles Liang",
+  "name": "Charles Liang",
+  "background": "Charles Liang founded Supermicro and has served as President, Chief Executive Officer and Chairman of the Board since the company's inception in 1993. He is a pioneer in the development of server technology and has been granted many patents for server technologies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Super Micro Computer, Inc.",
+      "ticker": "SMCI",
+      "exchange": "NASDAQ",
+      "website": "https://www.supermicro.com",
+      "logoUrl": "/companies-assets/SMCI.NASDAQ.svg",
+      "title": "Co-Founder, Chairman of the Board, President, and Chief Executive Officer",
+      "startDate": "1993",
+      "endDate": null,
+      "formattedStartDate": "1993",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/company/supermicro",
+      "person_name": "Charles Liang",
+      "company_name": "Super Micro Computer, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 66,
+  "ageYear": 2023
+}

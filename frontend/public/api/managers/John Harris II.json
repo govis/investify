@@ -1,0 +1,88 @@
+{
+  "id": "John Harris II",
+  "name": "John Harris II",
+  "background": "Former Vice President of Business Development for Raytheon Company and CEO of Raytheon International.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cisco Systems, Inc.",
+      "ticker": "CSCO",
+      "exchange": "NASDAQ",
+      "website": "https://www.cisco.com",
+      "logoUrl": "/companies-assets/CSCO.NASDAQ.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Exxon Mobil Corporation",
+      "ticker": "XOM",
+      "exchange": "NYSE",
+      "website": "https://www.exxonmobil.com",
+      "logoUrl": "/companies-assets/XOM.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Kyndryl Holdings, Inc.",
+      "ticker": "KD",
+      "exchange": "NYSE",
+      "website": "https://www.kyndryl.com",
+      "logoUrl": "/companies-assets/KD.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Flex Ltd.",
+      "ticker": "FLEX",
+      "exchange": "NASDAQ",
+      "website": "https://flex.com",
+      "logoUrl": "/companies-assets/FLEX.NASDAQ.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Raytheon Company (now RTX Corporation)",
+      "ticker": "RTX",
+      "exchange": "NYSE",
+      "website": "https://www.rtx.com",
+      "logoUrl": "/companies-assets/RTX.NYSE.svg",
+      "title": "Chief Executive Officer, Raytheon International Inc. (Subsidiary)",
+      "startDate": "2013",
+      "endDate": "2020",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2020"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/john-harris-6b4664168/",
+      "person_name": "John Harris II",
+      "company_name": "Cisco Systems, Inc.",
+      "profile_status": "not_found",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

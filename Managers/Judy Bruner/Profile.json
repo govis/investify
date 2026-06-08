@@ -1,0 +1,94 @@
+{
+  "name": "Judy Bruner",
+  "first_name": "Judy",
+  "last_name": "Bruner",
+  "age": 65,
+  "age_year": 2024,
+  "background": "Judy Bruner was Executive Vice President and Chief Financial Officer of SanDisk Corporation from 2004 until its acquisition by Western Digital in 2016.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Applied Materials, Inc.",
+      "ticker": "AMAT",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.appliedmaterials.com",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Qorvo, Inc.",
+      "ticker": "QRVO",
+      "exchange": "NASDAQ",
+      "website": "https://www.qorvo.com",
+      "title_or_role": "Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rapid7, Inc.",
+      "ticker": "RPD",
+      "exchange": "NASDAQ",
+      "website": "https://www.rapid7.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Seagate Technology plc",
+      "ticker": "STX",
+      "exchange": "NASDAQ",
+      "website": "https://www.seagate.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": "2025",
+      "validated": true
+    },
+    {
+      "name": "Varian Medical Systems, Inc.",
+      "ticker": "VAR",
+      "exchange": "NYSE",
+      "website": "https://www.varian.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "SanDisk Corporation",
+      "ticker": "SNDK",
+      "exchange": "NASDAQ",
+      "website": "https://www.sandisk.com",
+      "title_or_role": "Director",
+      "start_date": "2002",
+      "end_date": "2004",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/judy-bruner-163b4918",
+      "person_name": "Judy Bruner",
+      "company_name": "Applied Materials, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

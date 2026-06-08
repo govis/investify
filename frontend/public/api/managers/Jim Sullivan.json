@@ -1,0 +1,27 @@
+{
+  "id": "Jim Sullivan",
+  "name": "Jim Sullivan",
+  "background": "Mr. Sullivan is a Chartered Professional Accountant with over 30 years of experience in financial management and reporting for public and private companies. He has served as CFO for several junior exploration companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "DLP Resources Inc.",
+      "ticker": "DLP",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "Unknown",
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 62,
+  "ageYear": 2024
+}

@@ -1,0 +1,49 @@
+{
+  "name": "James McHugh",
+  "first_name": "James",
+  "last_name": "McHugh",
+  "age": 54,
+  "age_year": 2024,
+  "background": "James McHugh is executive vice president and chief commercial officer of Constellation. He previously served as CEO of Constellation (Exelon's retail and wholesale business) and has held various leadership roles in trading and portfolio management.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Constellation Energy Corporation",
+      "ticker": "CEG",
+      "exchange": "NASDAQ",
+      "title_or_role": "Senior Executive Vice President and Chief Commercial Officer",
+      "website": "https://www.constellationenergy.com",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Exelon Corporation",
+      "ticker": "EXC",
+      "exchange": "NASDAQ",
+      "website": "https://www.exeloncorp.com",
+      "title_or_role": "Executive Vice President",
+      "start_date": "2012",
+      "end_date": "2022",
+      "validated": true
+    },
+    {
+      "name": "Constellation Energy Group, Inc.",
+      "ticker": "CEG",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Senior Vice President, Portfolio Management & Strategy / Chief Executive Officer",
+      "start_date": "2012",
+      "end_date": "2018",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

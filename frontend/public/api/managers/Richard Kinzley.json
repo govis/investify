@@ -1,0 +1,52 @@
+{
+  "id": "Richard Kinzley",
+  "name": "Richard Kinzley",
+  "background": "Richard W. Kinzley has served as a director of Oklo since May 2024. He previously served as the Chief Financial Officer of Black Hills Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Oklo Inc.",
+      "ticker": "OKLO",
+      "exchange": "NYSE",
+      "website": "https://oklo.com",
+      "logoUrl": "/companies-assets/OKLO.NYSE.svg",
+      "title": "Director",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Black Hills Corporation",
+      "ticker": "BKH",
+      "exchange": "NYSE",
+      "website": "https://www.blackhillscorp.com",
+      "logoUrl": "/companies-assets/BKH.NYSE.svg",
+      "title": "Senior Vice President and Chief Financial Officer",
+      "startDate": "January 1, 2015",
+      "endDate": "2023",
+      "formattedStartDate": "January 1, 2015",
+      "formattedEndDate": "2023"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rich-kinzley-b0a759308",
+      "person_name": "Richard Kinzley",
+      "company_name": "Oklo Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 59,
+  "ageYear": 2024
+}

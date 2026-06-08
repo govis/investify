@@ -1,0 +1,30 @@
+{
+  "id": "Paul de Gheldere",
+  "name": "Paul de Gheldere",
+  "background": "Extensive experience in the industrial and chemical sectors, particularly in rare earths and specialty metals.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Aclara Resources Inc.",
+      "ticker": "ARA",
+      "exchange": "TSX",
+      "website": "https://www.aclara.com",
+      "logoUrl": "/companies-assets/ARA.TSX.svg",
+      "title": "Director",
+      "startDate": "Unknown",
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation, Nominating and Governance Committee"
+  ],
+  "age": 55,
+  "ageYear": 2024
+}

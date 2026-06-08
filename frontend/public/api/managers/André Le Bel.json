@@ -1,0 +1,50 @@
+{
+  "id": "André Le Bel",
+  "name": "André Le Bel",
+  "background": "Mr. Le Bel has over 30 years of experience in corporate law and has served as legal counsel for several mining companies.",
+  "pictureUrl": "/managers-assets/André Le Bel.jpg",
+  "companies": [
+    {
+      "name": "Vior Gold Corporation Inc.",
+      "ticker": "VIO",
+      "exchange": "TSXV",
+      "website": "https://www.vior.ca/",
+      "logoUrl": "/companies-assets/VIO.TSXV.png",
+      "title": "Director",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Brunswick Exploration Inc.",
+      "ticker": "BRW",
+      "exchange": "TSXV",
+      "website": "https://www.brunswickexploration.com/",
+      "logoUrl": "/companies-assets/BRW.TSXV.png",
+      "title": "Independent Director",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/andre-le-bel-64a8a734",
+      "person_name": "André Le Bel",
+      "company_name": "Osisko Gold Royalties Ltd",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null,
+      "picture_download_count": 0
+    }
+  ],
+  "committees": [],
+  "age": 61,
+  "ageYear": 2024
+}

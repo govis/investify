@@ -1,0 +1,39 @@
+{
+  "id": "Scott Kriens",
+  "name": "Scott Kriens",
+  "background": "Mr. Kriens has served as Chairman of the Board since 1996. He served as our CEO from 1996 to 2008.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Juniper Networks, Inc.",
+      "ticker": "JNPR",
+      "exchange": "NYSE",
+      "website": "https://www.juniper.net",
+      "logoUrl": "/companies-assets/JNPR.NYSE.svg",
+      "title": "Chairman of the Board",
+      "startDate": "2008-09",
+      "endDate": null,
+      "formattedStartDate": "September 2008",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Equinix, Inc.",
+      "ticker": "EQIX",
+      "exchange": "NASDAQ",
+      "website": "https://www.equinix.com",
+      "logoUrl": "/companies-assets/EQIX.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2000-07",
+      "endDate": "2020-06",
+      "formattedStartDate": "July 2000",
+      "formattedEndDate": "June 2020"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 66,
+  "ageYear": 2024
+}

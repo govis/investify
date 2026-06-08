@@ -1,0 +1,55 @@
+{
+  "id": "Martin Craighead",
+  "name": "Martin Craighead",
+  "background": "Former Chairman and CEO of Baker Hughes Incorporated.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Baker Hughes Company",
+      "ticker": "BKR",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and Chief Executive Officer",
+      "startDate": "January 2012",
+      "endDate": "July 2017",
+      "formattedStartDate": "January 2012",
+      "formattedEndDate": "July 2017"
+    },
+    {
+      "name": "Baker Hughes Incorporated",
+      "ticker": "BHI",
+      "exchange": "NYSE",
+      "website": "https://www.bakerhughes.com",
+      "logoUrl": "/companies-assets/BHI.NYSE.svg",
+      "title": "Chairman of the Board",
+      "startDate": "2013",
+      "endDate": "July 2017",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "July 2017"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/marty-craighead-a4273645",
+      "person_name": "Martin Craighead",
+      "company_name": "Baker Hughes",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit",
+    "Compensation",
+    "Compensation Committee",
+    "Governance and Stockholder Relations Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

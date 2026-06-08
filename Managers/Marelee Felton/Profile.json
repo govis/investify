@@ -1,0 +1,30 @@
+{
+  "name": "Marelee Felton",
+  "first_name": "Marelee",
+  "last_name": "Felton",
+  "age": 54,
+  "age_year": 2024,
+  "background": "Ms. Felton has served as Executive Vice President and Chief Financial Officer since 2022. She previously served as Senior Vice President and Controller from 2013 to 2022.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Freeport-McMoRan Inc.",
+      "ticker": "FCX",
+      "exchange": "NYSE",
+      "title_or_role": "Senior Executive",
+      "website": "https://www.fcx.com",
+      "start_date": "Not publicly specified",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

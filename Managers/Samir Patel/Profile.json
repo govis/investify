@@ -1,0 +1,39 @@
+{
+  "name": "Samir Patel",
+  "first_name": "Samir",
+  "last_name": "Patel",
+  "age": 45,
+  "age_year": 2024,
+  "background": "Mr. Patel is a corporate and securities lawyer with over 15 years of experience in the resource sector. He has served as General Counsel and Corporate Secretary for several public companies.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "F3 Uranium Corp.",
+      "ticker": "FUU",
+      "exchange": "TSXV",
+      "title_or_role": "Member, Board of Directors",
+      "website": "https://f3uranium.com/",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CytoDyn Inc.",
+      "ticker": "CYDY",
+      "exchange": "OTC",
+      "website": "https://www.cytodyn.com/",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "April 2020",
+      "end_date": "October 2021",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

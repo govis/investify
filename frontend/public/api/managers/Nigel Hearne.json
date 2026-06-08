@@ -1,0 +1,50 @@
+{
+  "id": "Nigel Hearne",
+  "name": "Nigel Hearne",
+  "background": "Executive Vice President, Oil, Products & Gas since 2022.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Chevron Corporation",
+      "ticker": "CVX",
+      "exchange": "NYSE",
+      "website": "https://www.chevron.com",
+      "logoUrl": "/companies-assets/CVX.NYSE.svg",
+      "title": "Executive Vice President, Oil, Products & Gas",
+      "startDate": "October 2022",
+      "endDate": null,
+      "formattedStartDate": "October 2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Texaco",
+      "ticker": "N/A",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Power Engineer / Refinery Operations Manager",
+      "startDate": "1989",
+      "endDate": "2001",
+      "formattedStartDate": "1989",
+      "formattedEndDate": "2001"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/nigel-hearne-5a5b2a12",
+      "person_name": "Nigel Hearne",
+      "company_name": "Chevron",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 57,
+  "ageYear": 2024
+}

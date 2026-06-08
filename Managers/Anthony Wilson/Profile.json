@@ -1,0 +1,29 @@
+{
+  "name": "Anthony Wilson",
+  "first_name": "Anthony",
+  "last_name": "Wilson",
+  "age": 60,
+  "age_year": 2024,
+  "background": "Mr. Wilson is chairman, president and CEO of Mississippi Power. He has been with the Southern Company system since 1984.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "The Southern Company",
+      "ticker": "SO",
+      "exchange": "NYSE",
+      "title_or_role": "Chairman, President, and CEO of Mississippi Power",
+      "website": "https://www.southerncompany.com",
+      "start_date": "2015-10-19",
+      "end_date": "2025-07-01",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

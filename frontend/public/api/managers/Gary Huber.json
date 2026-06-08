@@ -1,0 +1,31 @@
+{
+  "id": "Gary Huber",
+  "name": "Gary Huber",
+  "background": "Dr. Huber has over 40 years of experience in the natural resources industry and has served on several public company boards.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Ur-Energy Inc.",
+      "ticker": "URG",
+      "exchange": "NYSE American",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2013",
+      "endDate": null,
+      "formattedStartDate": "2013",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Governance and Nominating Committee"
+  ],
+  "age": 71,
+  "ageYear": 2024
+}

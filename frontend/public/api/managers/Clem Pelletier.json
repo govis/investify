@@ -1,0 +1,54 @@
+{
+  "id": "Clem Pelletier",
+  "name": "Clem Pelletier",
+  "background": "Mr. Pelletier is a process metallurgist with over 50 years of experience in the mining industry, specializing in environmental and permitting issues.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Seabridge Gold Inc.",
+      "ticker": "SEA",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2012",
+      "endDate": null,
+      "formattedStartDate": "2012",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Goldcorp Inc.",
+      "ticker": "G",
+      "exchange": "TSX",
+      "website": "https://www.newmont.com",
+      "logoUrl": "/companies-assets/G.TSX.svg",
+      "title": "Director",
+      "startDate": "2014",
+      "endDate": "2019",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Newmont Corporation",
+      "ticker": "NEM",
+      "exchange": "NYSE",
+      "website": "https://www.newmont.com",
+      "logoUrl": "/companies-assets/NEM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": "2021",
+      "formattedStartDate": "2019",
+      "formattedEndDate": "2021"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Sustainability Committee",
+    "Technical Committee"
+  ],
+  "age": 76,
+  "ageYear": 2024
+}

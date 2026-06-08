@@ -1,0 +1,64 @@
+{
+  "id": "Katharina McFarland",
+  "name": "Katharina McFarland",
+  "background": "Former Assistant Secretary of Defense for Acquisition and former President of the Defense Acquisition University. Expert in defense acquisition and technology.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Science Applications International Corporation",
+      "ticker": "SAIC",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Engility Holdings, Inc.",
+      "ticker": "EGL",
+      "exchange": "NYSE",
+      "website": "N/A",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Engility_logo.svg/512px-Engility_logo.svg.png",
+      "title": "Director",
+      "startDate": "June 30, 2017",
+      "endDate": "January 2019",
+      "formattedStartDate": "June 30, 2017",
+      "formattedEndDate": "January 2019"
+    },
+    {
+      "name": "Transphorm, Inc.",
+      "ticker": "TGAN",
+      "exchange": "Nasdaq",
+      "website": "https://www.transphormusa.com",
+      "logoUrl": "/companies-assets/TGAN.Nasdaq.svg",
+      "title": "Director",
+      "startDate": "February 24, 2021",
+      "endDate": "2024",
+      "formattedStartDate": "February 24, 2021",
+      "formattedEndDate": "2024"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/katharina-mcfarland-69a550130",
+      "person_name": "Katharina McFarland",
+      "company_name": "Science Applications International Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Human Resources and Compensation Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

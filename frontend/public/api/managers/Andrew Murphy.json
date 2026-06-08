@@ -1,0 +1,40 @@
+{
+  "id": "Andrew Murphy",
+  "name": "Andrew Murphy",
+  "background": "Vice President of Van Eck Associates Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Duos Technologies Group, Inc.",
+      "ticker": "DUOT",
+      "exchange": "NASDAQ",
+      "website": "https://www.duostechnologies.com",
+      "logoUrl": "/companies-assets/DUOT.NASDAQ.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2022-11",
+      "endDate": "2024-04",
+      "formattedStartDate": "November 2022",
+      "formattedEndDate": "April 2024"
+    },
+    {
+      "name": "APR Energy",
+      "ticker": "APR",
+      "exchange": "LSE",
+      "website": "https://www.aprenergy.com",
+      "logoUrl": "/companies-assets/APR.LSE.svg",
+      "title": "Finance and Investor Relations roles",
+      "startDate": "2015",
+      "endDate": "2020",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2020"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 44,
+  "ageYear": 2024
+}

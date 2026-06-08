@@ -1,0 +1,40 @@
+{
+  "id": "Cathleen Anderson",
+  "name": "Cathleen Anderson",
+  "background": "Cathleen Anderson has served as our Chief Accounting Officer since September 2021. From April 2017 to September 2021, Ms. Anderson served as Vice President, Corporate Controller of 2U, Inc., an education technology company. From August 2015 to April 2017, Ms. Anderson served as Vice President, Corporate Controller of Bloom Energy Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "CrowdStrike Holdings, Inc.",
+      "ticker": "CRWD",
+      "exchange": "NASDAQ",
+      "website": "https://www.crowdstrike.com",
+      "logoUrl": "/companies-assets/CRWD.NASDAQ.svg",
+      "title": "Chief Legal Officer",
+      "startDate": "July 2019",
+      "endDate": null,
+      "formattedStartDate": "July 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "MobileIron, Inc.",
+      "ticker": "MOBL",
+      "exchange": "NASDAQ",
+      "website": "https://www.mobileiron.com",
+      "logoUrl": "/companies-assets/MOBL.NASDAQ.png",
+      "title": "Senior Legal Counsel / Legal Leadership Role",
+      "startDate": "Prior to 2019",
+      "endDate": "July 2019",
+      "formattedStartDate": "Prior to 2019",
+      "formattedEndDate": "July 2019"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

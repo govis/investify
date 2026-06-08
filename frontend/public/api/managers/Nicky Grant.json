@@ -1,0 +1,42 @@
+{
+  "id": "Nicky Grant",
+  "name": "Nicky Grant",
+  "background": "Ms. Grant has over 25 years of experience in the financial services and resource sectors. She has held senior positions in corporate finance and investor relations.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "F3 Uranium Corp.",
+      "ticker": "FUU",
+      "exchange": "TSXV",
+      "website": "https://f3uranium.com/",
+      "logoUrl": "/companies-assets/FUU.TSXV.webp",
+      "title": "Independent Director",
+      "startDate": "August 3, 2022",
+      "endDate": "2023",
+      "formattedStartDate": "August 3, 2022",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Pan American Energy Corp.",
+      "ticker": "PNRG",
+      "exchange": "CSE",
+      "website": "https://panam-energy.com/",
+      "logoUrl": "/companies-assets/PNRG.CSE.svg",
+      "title": "Director",
+      "startDate": "May 16, 2023",
+      "endDate": "2025",
+      "formattedStartDate": "May 16, 2023",
+      "formattedEndDate": "2025"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 52,
+  "ageYear": 2024
+}

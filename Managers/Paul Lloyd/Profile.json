@@ -1,0 +1,93 @@
+{
+  "name": "Paul Lloyd",
+  "first_name": "Paul",
+  "last_name": "Lloyd",
+  "age": 54,
+  "age_year": 2024,
+  "background": "Paul Lloyd is a Chartered Accountant with over 30 years' experience in corporate finance and the resources industry. He has been involved in the listing of several exploration and mining companies on the ASX and has served as a director and chairman of various listed entities.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Alligator Energy Limited",
+      "ticker": "AGE",
+      "exchange": "ASX",
+      "title_or_role": "Director",
+      "website": "alligatorenergy.com.au",
+      "start_date": "2012",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Critical Metals Corp.",
+      "ticker": "CRML",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "criticalmetalscorp.com",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lord Resources Ltd.",
+      "ticker": "LRD",
+      "exchange": "ASX",
+      "website": "lordresources.com",
+      "title_or_role": "Chairman",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "BPM Minerals Ltd.",
+      "ticker": "BPM",
+      "exchange": "ASX",
+      "website": "bpmminerals.com",
+      "title_or_role": "Non-Executive Chairman",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Diablo Resources Ltd.",
+      "ticker": "DBO",
+      "exchange": "ASX",
+      "website": "diabloresources.com.au",
+      "title_or_role": "Non-Executive Chairman",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Arizona Lithium Ltd.",
+      "ticker": "AZL",
+      "exchange": "ASX",
+      "website": "arizonalithium.com",
+      "title_or_role": "Chief Executive Officer",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Invictus Energy Limited",
+      "ticker": "IVZ",
+      "exchange": "ASX",
+      "website": "invictusenergy.com",
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2021",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

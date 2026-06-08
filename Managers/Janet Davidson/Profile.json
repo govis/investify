@@ -1,0 +1,51 @@
+{
+  "name": "Janet Davidson",
+  "first_name": "Janet",
+  "last_name": "Davidson",
+  "age": 67,
+  "age_year": 2023,
+  "background": "Janet Davidson has been a member of the Supervisory Board since 2013. She was previously President of Alcatel-Lucent\u2019s Quality & Customer Care and held various executive positions at Lucent Technologies and Bell Laboratories.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "STMicroelectronics N.V.",
+      "ticker": "STM",
+      "exchange": "NYSE",
+      "title_or_role": "Member of the Supervisory Board",
+      "website": "https://www.st.com",
+      "start_date": "2013-01-01",
+      "end_date": null
+    },
+    {
+      "name": "The AES Corporation",
+      "ticker": "AES",
+      "exchange": "NYSE",
+      "website": "https://www.aes.com",
+      "title_or_role": "Director",
+      "start_date": "2019-02-22",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Millicom International Cellular S.A.",
+      "ticker": "TIGO",
+      "exchange": "NASDAQ",
+      "website": "https://www.millicom.com",
+      "title_or_role": "Director",
+      "start_date": "2016-04",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Remuneration Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

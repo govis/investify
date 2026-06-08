@@ -1,0 +1,52 @@
+{
+  "name": "John Frank",
+  "first_name": "John",
+  "last_name": "Frank",
+  "age": 67,
+  "age_year": 2024,
+  "background": "Vice Chairman of Oaktree Capital Group, LLC. Director since 2017.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Chevron Corporation",
+      "ticker": "CVX",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.chevron.com",
+      "start_date": "2017-11-01",
+      "end_date": null
+    },
+    {
+      "name": "Daily Journal Corporation",
+      "ticker": "DJCO",
+      "exchange": "NASDAQ",
+      "website": "https://ir.dailyjournal.com/",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/john-frank-47031425/",
+      "person_name": "John Frank",
+      "company_name": "Oaktree Capital Group, LLC",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Management Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

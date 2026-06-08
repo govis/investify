@@ -1,0 +1,54 @@
+{
+  "id": "Randy Eppler",
+  "name": "Randy Eppler",
+  "background": "Mr. Eppler is a Managing Director at Milestone Capital Advisors. He has over 30 years of experience in the mining and finance industries, including senior roles at Newmont Mining Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Vista Gold Corp.",
+      "ticker": "VGZ",
+      "exchange": "NYSE American / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2004",
+      "endDate": "2024-02-27",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "February 2024"
+    },
+    {
+      "name": "Golden Minerals Company",
+      "ticker": "AUMN",
+      "exchange": "NYSE American / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2009",
+      "endDate": "2024-02-27",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "February 2024"
+    }
+  ],
+  "investmentTheses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/w-durand-randy-eppler-a293973",
+      "person_name": "W. Durand (Randy) Eppler",
+      "company_name": "Milestone Capital Advisors",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

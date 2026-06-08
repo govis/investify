@@ -1,0 +1,39 @@
+{
+  "id": "Debbie Simpson",
+  "name": "Debbie Simpson",
+  "background": "Former CFO of Li-Cycle. She stepped down in late 2023.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Li-Cycle Holdings Corp.",
+      "ticker": "LICY",
+      "exchange": "NYSE",
+      "website": "https://li-cycle.com",
+      "logoUrl": "/companies-assets/LICY.NYSE.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "February 1, 2022",
+      "endDate": null,
+      "formattedStartDate": "February 1, 2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Maple Leaf Foods Inc.",
+      "ticker": "MFI",
+      "exchange": "TSX",
+      "website": "https://www.mapleleaffoods.com/",
+      "logoUrl": "/companies-assets/MFI.TSX.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2014",
+      "endDate": "November 1, 2019",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "November 1, 2019"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 56,
+  "ageYear": 2023
+}

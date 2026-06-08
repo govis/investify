@@ -1,0 +1,53 @@
+{
+  "name": "Naomi Seligman",
+  "first_name": "Naomi",
+  "last_name": "Seligman",
+  "age": 86,
+  "age_year": 2024,
+  "background": "Senior Partner at Oritani Advisors and co-founder of Research Board, Inc.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Oracle Corporation",
+      "ticker": "ORCL",
+      "exchange": "NYSE",
+      "title_or_role": "Member of the Board of Directors",
+      "website": "https://www.oracle.com",
+      "start_date": "2005",
+      "end_date": "2026",
+      "validated": true
+    },
+    {
+      "name": "Akamai Technologies, Inc.",
+      "ticker": "AKAM",
+      "exchange": "NASDAQ",
+      "website": "https://www.akamai.com",
+      "title_or_role": "Member of the Board of Directors",
+      "start_date": "November 2001",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/naomiseligman",
+      "person_name": "Naomi Seligman",
+      "company_name": "Oracle Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Nomination and Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

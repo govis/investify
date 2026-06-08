@@ -1,0 +1,39 @@
+{
+  "id": "Robert Hamady",
+  "name": "Robert Hamady",
+  "background": "Mr. Hamady has served as our Chief Financial Officer since April 2023. Prior to joining NuScale, Mr. Hamady served as the Chief Financial Officer of various private and public companies and held senior roles in investment banking and finance.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NuScale Power Corporation",
+      "ticker": "SMR",
+      "exchange": "NYSE",
+      "website": "https://www.nuscalepower.com",
+      "logoUrl": "/companies-assets/SMR.NYSE.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Western Magnesium Corporation",
+      "ticker": "WMG",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": "https://www.marketscreener.com/images/reuters/logo_reuters_default.png",
+      "title": "Chief Financial Officer",
+      "startDate": "2022",
+      "endDate": "2022",
+      "formattedStartDate": "2022",
+      "formattedEndDate": "2022"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 44,
+  "ageYear": 2024
+}

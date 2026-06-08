@@ -1,0 +1,40 @@
+{
+  "name": "James Burke",
+  "first_name": "James",
+  "last_name": "Burke",
+  "age": 55,
+  "age_year": 2024,
+  "background": "Mr. Burke has served as President and Chief Executive Officer of Vistra since August 2022. He previously served as President and Chief Financial Officer from December 2020 to August 2022, and as Executive Vice President and Chief Operating Officer from October 2016 to December 2020. Prior to the Vistra reorganization, he served as Chairman and CEO of TXU Energy.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Vistra Corp.",
+      "ticker": "VST",
+      "exchange": "NYSE",
+      "title_or_role": "President, Chief Executive Officer, and Director",
+      "website": "https://vistracorp.com",
+      "start_date": "2004",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jim-burke-vistra",
+      "person_name": "Jim Burke",
+      "company_name": "Vistra Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

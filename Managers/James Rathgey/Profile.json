@@ -1,0 +1,28 @@
+{
+  "name": "James Rathgey",
+  "first_name": "James",
+  "last_name": "Rathgey",
+  "age": 43,
+  "age_year": 2024,
+  "background": "Chief Operating Officer of Van Eck Associates Corporation since 2023; previously Head of Global Operations.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "VanEck Rare Earth/Strategic Metals ETF",
+      "ticker": "SETM",
+      "exchange": "NYSE",
+      "title_or_role": "Chief Operating Officer",
+      "website": "https://www.vaneck.com/us/en/investments/rare-earth-strategic-metals-etf-remx/",
+      "start_date": "2023",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

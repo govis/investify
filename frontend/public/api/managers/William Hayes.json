@@ -1,0 +1,41 @@
+{
+  "id": "William Hayes",
+  "name": "William Hayes",
+  "background": "Mr. Hayes has been a director since 2008 and Chairman of the Board since 2014. He was previously an executive at Placer Dome Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Royal Gold, Inc.",
+      "ticker": "RGLD",
+      "exchange": "NASDAQ",
+      "website": "https://www.royalgold.com",
+      "logoUrl": "/companies-assets/RGLD.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2008",
+      "endDate": null,
+      "formattedStartDate": "2008",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Antofagasta plc",
+      "ticker": "ANTO",
+      "exchange": "LSE (London Stock Exchange)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director (Senior Independent Director, Chairman of the Audit and Risk Committee)",
+      "startDate": "2006",
+      "endDate": "2016",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2016"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation, Nominating and Governance Committee"
+  ],
+  "age": 79,
+  "ageYear": 2024
+}

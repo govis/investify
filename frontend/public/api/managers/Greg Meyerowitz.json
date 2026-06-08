@@ -1,0 +1,41 @@
+{
+  "id": "Greg Meyerowitz",
+  "name": "Greg Meyerowitz",
+  "background": "Mr. Meyerowitz was a senior audit partner at EY for 26 years. He has extensive experience in the resources sector and is a member of the Australian Institute of Company Directors.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Deep Yellow Limited",
+      "ticker": "DYL",
+      "exchange": "ASX",
+      "website": "https://deepyellow.com.au",
+      "logoUrl": "/companies-assets/DYL.ASX.png",
+      "title": "Non-Executive Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/gregmeyerowitz",
+      "person_name": "Greg Meyerowitz",
+      "company_name": "Deep Yellow Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Remuneration Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

@@ -1,0 +1,62 @@
+{
+  "id": "Lee-Anne de Bruin",
+  "name": "Lee-Anne de Bruin",
+  "background": "Ms. de Bruin has over 25 years of experience in the global resources sector, including senior executive roles at Resolute Mining, Newmont, and BHP. She is a Chartered Accountant.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Resolute Mining Limited",
+      "ticker": "RSG",
+      "exchange": "ASX",
+      "website": "https://www.rml.com.au/",
+      "logoUrl": "/companies-assets/RSG.ASX.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2017-02-27",
+      "endDate": "2020-09-04",
+      "formattedStartDate": "February 2017",
+      "formattedEndDate": "September 2020"
+    },
+    {
+      "name": "Gem Diamonds Limited",
+      "ticker": "GEMD",
+      "exchange": "LSE",
+      "website": "https://www.gemdiamonds.com",
+      "logoUrl": "/companies-assets/GEMD.LSE.png",
+      "title": "CEO and Financial Manager",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Kimberley Diamond Company",
+      "ticker": "KDC",
+      "exchange": "ASX",
+      "website": null,
+      "logoUrl": "/companies-assets/KDC.ASX.png",
+      "title": "Managing Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/lee-anne-de-bruin-ca-b3046849",
+      "person_name": "Lee-Anne de Bruin",
+      "company_name": "Perseus Mining Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 54,
+  "ageYear": 2024
+}

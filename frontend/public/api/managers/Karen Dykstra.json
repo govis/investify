@@ -1,0 +1,112 @@
+{
+  "id": "Karen Dykstra",
+  "name": "Karen Dykstra",
+  "background": "Karen Dykstra has served as a member of our board of directors since 2022. She previously served as CFO and CAO of AOL and CFO of Automatic Data Processing (ADP).",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Arm Holdings plc",
+      "ticker": "ARM",
+      "exchange": "NASDAQ",
+      "website": "https://www.arm.com",
+      "logoUrl": "/companies-assets/ARM.NASDAQ.svg",
+      "title": "Board Member",
+      "startDate": "2022-09-26",
+      "endDate": null,
+      "formattedStartDate": "September 2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Atlassian Corporation",
+      "ticker": "TEAM",
+      "exchange": "NASDAQ",
+      "website": "atlassian.com",
+      "logoUrl": "/companies-assets/TEAM.NASDAQ.svg",
+      "title": "Board Member",
+      "startDate": "2025-04-14",
+      "endDate": null,
+      "formattedStartDate": "April 2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Gartner, Inc.",
+      "ticker": "IT",
+      "exchange": "NYSE",
+      "website": "gartner.com",
+      "logoUrl": "/companies-assets/IT.NYSE.svg",
+      "title": "Board Member",
+      "startDate": "2012-09-19",
+      "endDate": null,
+      "formattedStartDate": "September 2012",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "VMware, Inc.",
+      "ticker": "VMW",
+      "exchange": "NYSE",
+      "website": "https://www.vmware.com",
+      "logoUrl": "/companies-assets/VMW.NYSE.svg",
+      "title": "Board Member",
+      "startDate": null,
+      "endDate": "2022",
+      "formattedStartDate": "",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "AOL Inc.",
+      "ticker": "AOL",
+      "exchange": "NYSE",
+      "website": "aol.com",
+      "logoUrl": "/companies-assets/AOL.NYSE.svg",
+      "title": "Chief Financial and Administrative Officer",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Crane Co.",
+      "ticker": "CR",
+      "exchange": "NYSE",
+      "website": "craneco.com",
+      "logoUrl": "/companies-assets/CR.NYSE.svg",
+      "title": "Board Member",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Boston Properties, Inc.",
+      "ticker": "BXP",
+      "exchange": "NYSE",
+      "website": "bxp.com",
+      "logoUrl": "/companies-assets/BXP.NYSE.png",
+      "title": "Board Member",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/karen-dykstra-0408186",
+      "person_name": "Karen Dykstra",
+      "company_name": "Arm Holdings plc",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

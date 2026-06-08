@@ -1,0 +1,65 @@
+{
+  "id": "David Hornik",
+  "name": "David Hornik",
+  "background": "David Hornik has served as a member of our board of directors since May 2013 and as the lead independent director since April 2023. Mr. Hornik is a founding partner of Lobby Capital, a venture capital firm, which he joined in 2021.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Fastly, Inc.",
+      "ticker": "FSLY",
+      "exchange": "NYSE",
+      "website": "https://www.fastly.com",
+      "logoUrl": "/companies-assets/FSLY.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "February 2012",
+      "endDate": null,
+      "formattedStartDate": "February 2012",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "BILL Holdings, Inc.",
+      "ticker": "BILL",
+      "exchange": "NYSE",
+      "website": "bill.com",
+      "logoUrl": "/companies-assets/BILL.NYSE.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "May 2016",
+      "endDate": null,
+      "formattedStartDate": "May 2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "GitLab Inc.",
+      "ticker": "GTLB",
+      "exchange": "NASDAQ",
+      "website": "https://about.gitlab.com",
+      "logoUrl": "/companies-assets/GTLB.NASDAQ.svg",
+      "title": "Member, Board of Directors",
+      "startDate": "July 2019",
+      "endDate": "March 2022",
+      "formattedStartDate": "July 2019",
+      "formattedEndDate": "March 2022"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/davidhornik",
+      "person_name": "David Hornik",
+      "company_name": "Lobby Capital",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 55,
+  "ageYear": 2024
+}

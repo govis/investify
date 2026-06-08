@@ -1,0 +1,38 @@
+{
+  "name": "Ashley Ozols",
+  "first_name": "Ashley",
+  "last_name": "Ozols",
+  "age": 40,
+  "age_year": 2024,
+  "background": "Mr. Ozols has been a director since 2022. He is a citizen of Australia and holds a Bachelor of Commerce from the University of New South Wales. He has extensive experience in the mining and finance sectors.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Sociedad Qu\u00edmica y Minera de Chile S.A.",
+      "ticker": "SQM",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "https://www.sqm.com",
+      "start_date": "2022-04-26",
+      "end_date": null
+    },
+    {
+      "name": "Sociedad Qu\u00edmica y Minera de Chile S.A. (SQM)",
+      "ticker": "SQM",
+      "exchange": "NYSE",
+      "website": "https://www.sqm.com",
+      "title_or_role": "Director / Board Member",
+      "start_date": "November 30, 2021",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

@@ -1,0 +1,123 @@
+{
+  "name": "Douglas Kirwin",
+  "first_name": "Douglas",
+  "last_name": "Kirwin",
+  "age": 73,
+  "age_year": 2024,
+  "background": "Mr. Kirwin is an independent geologist with over 45 years of international experience. He was previously Executive Vice President of Ivanhoe Mines Limited.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Vista Gold Corp.",
+      "ticker": "VGZ",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.vistagold.com",
+      "start_date": "2019-03-01",
+      "end_date": null
+    },
+    {
+      "name": "Ivanhoe Mines Ltd.",
+      "ticker": "IVN",
+      "exchange": "TSX",
+      "website": "ivanhoemines.com",
+      "title_or_role": "Executive Vice President",
+      "start_date": "1995",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Iondrive Limited",
+      "ticker": "ION",
+      "exchange": "ASX",
+      "website": "iondrive.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CopperCorp Resources Inc.",
+      "ticker": "CPER",
+      "exchange": "TSXV",
+      "website": "coppercorpinc.com",
+      "title_or_role": "Founder / Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "King Copper Discovery Corp.",
+      "ticker": "KCP",
+      "exchange": "TSXV",
+      "website": "kingcopperdiscovery.com",
+      "title_or_role": "Lead Strategic & Technical Advisor",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lepanto Consolidated Mining Co.",
+      "ticker": "LC",
+      "exchange": "PSE",
+      "website": "lepantomining.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Zeus Holdings, Inc.",
+      "ticker": "ZHI",
+      "exchange": "PSE",
+      "website": "zeusholdings.com.ph",
+      "title_or_role": "Independent Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Realgold Resources Corp.",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": null,
+      "title_or_role": "President, CEO & Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Norrland Gold Corp.",
+      "ticker": "NORR",
+      "exchange": "TSXV",
+      "website": "norrlandgold.com",
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/douglas-kirwin-4a5b2a12",
+      "person_name": "Douglas Kirwin",
+      "company_name": "Ivanhoe Mines Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

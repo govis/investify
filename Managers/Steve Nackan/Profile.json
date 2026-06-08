@@ -1,0 +1,40 @@
+{
+  "name": "Steve Nackan",
+  "first_name": "Steve",
+  "last_name": "Nackan",
+  "age": 53,
+  "age_year": 2024,
+  "background": "Mr. Nackan is Executive Vice President and President, Aecon Concessions. He joined Aecon in 2002 and has been instrumental in the development of Aecon's concessions business.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Aecon Group Inc.",
+      "ticker": "ARE",
+      "exchange": "TSX",
+      "title_or_role": "Executive Vice President and President, Aecon Concessions",
+      "website": "https://www.aecon.com",
+      "start_date": "Not publicly specified",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/steve-nackan-7678824",
+      "person_name": "Steve Nackan",
+      "company_name": "Aecon Group Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

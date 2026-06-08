@@ -1,0 +1,69 @@
+{
+  "name": "Rick Wallace",
+  "first_name": "Rick",
+  "last_name": "Wallace",
+  "age": 64,
+  "age_year": 2024,
+  "background": "Rick Wallace is the Chief Executive Officer of KLA Corporation. He has been with the company since 1988 and has held various leadership roles, including President and Chief Operating Officer. He was appointed CEO in 2006.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "KLA Corporation",
+      "ticker": "KLAC",
+      "exchange": "NASDAQ",
+      "title_or_role": "Chief Executive Officer, Director",
+      "website": "https://www.kla.com",
+      "start_date": "2006-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Marvell Technology, Inc.",
+      "ticker": "MRVL",
+      "exchange": "NASDAQ",
+      "website": "https://www.marvell.com",
+      "title_or_role": "Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "NetApp, Inc.",
+      "ticker": "NTAP",
+      "exchange": "NASDAQ",
+      "website": "https://www.netapp.com",
+      "title_or_role": "Independent Director",
+      "start_date": "2011",
+      "end_date": "2019",
+      "validated": true
+    },
+    {
+      "name": "Proofpoint, Inc.",
+      "ticker": "PFPT",
+      "exchange": "NASDAQ",
+      "website": "https://www.proofpoint.com",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2021",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rick-wallace-4a5a1a1",
+      "person_name": "Rick Wallace",
+      "company_name": "KLA Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

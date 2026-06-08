@@ -1,0 +1,89 @@
+{
+  "id": "Connie Duckworth",
+  "name": "Connie Duckworth",
+  "background": "Ms. Duckworth is a retired Partner and Managing Director of Goldman Sachs. She is the Founder and CEO Emeritus of ARZU Inc. She serves on the boards of Steelcase Inc. and Equity Residential.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "MP Materials Corp.",
+      "ticker": "MP",
+      "exchange": "NYSE",
+      "website": "https://mpmaterials.com",
+      "logoUrl": "/companies-assets/MP.NYSE.svg",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Steelcase Inc.",
+      "ticker": "SCS",
+      "exchange": "NYSE",
+      "website": "https://www.steelcase.com",
+      "logoUrl": "/companies-assets/SCS.NYSE.svg",
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": null,
+      "formattedStartDate": "2010",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Equity Residential",
+      "ticker": "EQR",
+      "exchange": "NYSE",
+      "website": "https://www.equityapartments.com",
+      "logoUrl": "/companies-assets/EQR.NYSE.svg",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": "2022",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "Smurfit-Stone Container Corporation",
+      "ticker": "SSCC",
+      "exchange": "NYSE",
+      "website": null,
+      "logoUrl": "/companies-assets/SSCC.NYSE.png",
+      "title": "Director",
+      "startDate": "2004",
+      "endDate": "2010",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2010"
+    },
+    {
+      "name": "DNP Select Income Fund",
+      "ticker": "DNP",
+      "exchange": "NYSE",
+      "website": "https://www.ncfunds.com",
+      "logoUrl": "/companies-assets/DNP.NYSE.png",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/connie-duckworth-4a5b6a1",
+      "person_name": "Connie Duckworth",
+      "company_name": "MP Materials Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 69,
+  "ageYear": 2024
+}

@@ -1,0 +1,53 @@
+{
+  "id": "Jack Herlihy",
+  "name": "Jack Herlihy",
+  "background": "Jack Herlihy has served as a director of Oklo since May 2024. He was previously the Vice President of EMEA and Latin America at LinkedIn and held various roles at Google.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Ellington Credit Company",
+      "ticker": "EARN",
+      "exchange": "NYSE",
+      "website": "https://www.ellingtoncredit.com",
+      "logoUrl": "/companies-assets/EARN.NYSE.png",
+      "title": "Chief Operating Officer & Treasurer",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Ellington Residential Mortgage REIT",
+      "ticker": "EARN",
+      "exchange": "NYSE",
+      "website": "https://www.ellingtoncredit.com",
+      "logoUrl": "/companies-assets/EARN.NYSE.png",
+      "title": "CFO & Co-Chief Investment Officer",
+      "startDate": "2015",
+      "endDate": "2016",
+      "formattedStartDate": "2015",
+      "formattedEndDate": "2016"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jack-herlihy",
+      "person_name": "Jack Herlihy",
+      "company_name": "Oklo Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

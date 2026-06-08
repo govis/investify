@@ -1,0 +1,65 @@
+{
+  "id": "Lisa Wade",
+  "name": "Lisa Wade",
+  "background": "Ms. Wade is an environmental engineer with over 25 years of experience in the mining industry. She was previously the VP, Environmental, Social and Governance at Goldcorp Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Artemis Gold Inc.",
+      "ticker": "ARTG",
+      "exchange": "TSX",
+      "website": "https://www.artemisgoldinc.com",
+      "logoUrl": "/companies-assets/ARTG.TSX.png",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Revival Gold Inc.",
+      "ticker": "RVG",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Liberty Gold Corp.",
+      "ticker": "LGD",
+      "exchange": "TSX",
+      "website": "https://libertygold.ca",
+      "logoUrl": "/companies-assets/LGD.TSX.svg",
+      "title": "Director",
+      "startDate": "2023",
+      "endDate": null,
+      "formattedStartDate": "2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "DigitalX Limited",
+      "ticker": "DCC",
+      "exchange": "ASX",
+      "website": "https://digitalx.com",
+      "logoUrl": "/companies-assets/DCC.ASX.svg",
+      "title": "Chief Executive Officer",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Health, Safety, Environment and Social Performance Committee"
+  ],
+  "age": 54,
+  "ageYear": 2024
+}

@@ -1,0 +1,71 @@
+{
+  "name": "David Frydenlund",
+  "first_name": "David",
+  "last_name": "Frydenlund",
+  "age": 65,
+  "age_year": 2024,
+  "background": "Mr. Frydenlund has served as the Executive Vice President, Chief Legal Officer and Corporate Secretary of Energy Fuels since 2012. He has been with the Company and its predecessors since 1997.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Energy Fuels Inc.",
+      "ticker": "UUUU",
+      "exchange": "NYSE American",
+      "title_or_role": "Executive VP, Chief Legal Officer & Corporate Secretary",
+      "website": "https://www.energyfuels.com",
+      "start_date": "2006",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Uranerz Energy Corp.",
+      "ticker": "URZ",
+      "exchange": "NYSE American",
+      "website": "https://www.energyfuels.com",
+      "title_or_role": "Director",
+      "start_date": "2005",
+      "end_date": "2015",
+      "validated": true
+    },
+    {
+      "name": "Titan Uranium Inc.",
+      "ticker": "TUE",
+      "exchange": "TSX",
+      "website": "https://www.energyfuels.com",
+      "title_or_role": "Director, VP, General Counsel & Corporate Secretary",
+      "start_date": "2006",
+      "end_date": "2012",
+      "validated": true
+    },
+    {
+      "name": "Lundin Group",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "https://www.lundingroup.com",
+      "title_or_role": "Vice President",
+      "start_date": "1996",
+      "end_date": "1997",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/david-frydenlund-5a5b5a12",
+      "person_name": "David Frydenlund",
+      "company_name": "Energy Fuels Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

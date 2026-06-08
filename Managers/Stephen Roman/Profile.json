@@ -1,0 +1,63 @@
+{
+  "name": "Stephen Roman",
+  "first_name": "Stephen",
+  "last_name": "Roman",
+  "age": 70,
+  "age_year": 2024,
+  "background": "Mr. Roman is an entrepreneur who has successfully identified, financed, developed, and operated several mining and oil and gas projects. He was formerly the Chairman, President and CEO of Gold Eagle Mines Ltd. and Harte Gold Corp.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Global Atomic Corporation",
+      "ticker": "GLO",
+      "exchange": "TSX",
+      "title_or_role": "Chairman, President, and Chief Executive Officer",
+      "website": "https://www.globalatomiccorp.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Stallion Uranium Corp.",
+      "ticker": "STUD",
+      "exchange": "TSXV",
+      "title_or_role": "Director",
+      "website": "https://www.stallionuranium.com",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Silvermet Inc.",
+      "ticker": "SYI",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": null,
+      "end_date": "2011",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/stephentroman",
+      "person_name": "Stephen Roman",
+      "company_name": "Global Atomic Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Martino De Ciccio",
+  "first_name": "Martino",
+  "last_name": "De Ciccio",
+  "age": 42,
+  "age_year": 2024,
+  "background": "Mr. De Ciccio is a finance professional with extensive experience in the mining industry, particularly in corporate development and investor relations.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "NorthIsle Copper and Gold Inc.",
+      "ticker": "NCX",
+      "exchange": "TSX",
+      "title_or_role": "Independent Director",
+      "website": "https://www.northisle.ca",
+      "start_date": "2021-05-01",
+      "end_date": null
+    },
+    {
+      "name": "Montage Gold Corp.",
+      "ticker": "MAU",
+      "exchange": "TSXV",
+      "website": "https://www.montagegoldcorp.com/",
+      "title_or_role": "Chief Executive Officer & Director",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bluestone Resources Inc.",
+      "ticker": "BSR",
+      "exchange": "TSXV",
+      "website": "https://www.bluestoneresources.ca/",
+      "title_or_role": "Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Endeavour Mining plc",
+      "ticker": "EDV",
+      "exchange": "TSX",
+      "website": "https://www.endeavourmining.com/",
+      "title_or_role": "Vice President, Strategy and Investor Relations",
+      "start_date": null,
+      "end_date": "2023",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/martino-de-ciccio-kon\u00e9-soman-82833214",
+      "person_name": "Martino De Ciccio",
+      "company_name": "Montage Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

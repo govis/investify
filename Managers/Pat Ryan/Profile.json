@@ -1,0 +1,29 @@
+{
+  "name": "Pat Ryan",
+  "first_name": "Pat",
+  "last_name": "Ryan",
+  "age": 64,
+  "age_year": 2024,
+  "background": "Mr. Ryan is a professional engineer with over 30 years of experience in the mining and automotive industries. He has held various executive positions and has been involved in the development of several mining projects.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Ucore Rare Metals Inc.",
+      "ticker": "UCU (TSXV), UURAF (OTCQX)",
+      "exchange": "TSXV, OTC",
+      "title_or_role": "Chairman & Chief Executive Officer",
+      "website": "https://ucore.com/",
+      "start_date": "June 2020",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

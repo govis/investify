@@ -1,0 +1,91 @@
+{
+  "name": "Bryn Jones",
+  "first_name": "Bryn",
+  "last_name": "Jones",
+  "age": 46,
+  "age_year": 2024,
+  "background": "Mr. Jones is an industrial chemist with over 20 years\u2019 experience in the mining industry, specifically in uranium. He is also a director of several other ASX-listed companies.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Boss Energy Limited",
+      "ticker": "BOE",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://www.bossenergy.com",
+      "start_date": "2019-09-18",
+      "end_date": null
+    },
+    {
+      "name": "Laramide Resources Ltd.",
+      "ticker": "LAM",
+      "exchange": "TSX",
+      "title_or_role": "Chief Operating Officer",
+      "website": "https://laramide.com",
+      "start_date": "2014-01-01",
+      "end_date": null
+    },
+    {
+      "name": "5E Advanced Materials, Inc.",
+      "ticker": "FEAM",
+      "exchange": "NASDAQ",
+      "website": "5eadvancedmaterials.com",
+      "title_or_role": "Director",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "DevEx Resources Limited",
+      "ticker": "DEV",
+      "exchange": "ASX",
+      "website": "devexresources.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2009",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Australian Rare Earths Limited",
+      "ticker": "AR3",
+      "exchange": "ASX",
+      "website": "ar3.com.au",
+      "title_or_role": "Non-Executive Director",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Uranium Equities Limited (now PhosEnergy Limited)",
+      "ticker": "PEA",
+      "exchange": "ASX",
+      "website": "phosenergy.com",
+      "title_or_role": "Managing Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bryn-jones-7a5a2a1b/",
+      "person_name": "Bryn Jones",
+      "company_name": "entX Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

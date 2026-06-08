@@ -1,0 +1,66 @@
+{
+  "id": "Vincent Foster",
+  "name": "Vincent Foster",
+  "background": "Mr. Foster is the Executive Chairman of Main Street Capital Corporation. He has significant financial and investment expertise.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Quanta Services, Inc.",
+      "ticker": "PWR",
+      "exchange": "NYSE",
+      "website": "https://www.quantaservices.com",
+      "logoUrl": "/companies-assets/PWR.NYSE.png",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Main Street Capital Corporation",
+      "ticker": "MAIN",
+      "exchange": "NYSE",
+      "website": "https://www.mainstcapital.com",
+      "logoUrl": "/companies-assets/MAIN.NYSE.svg",
+      "title": "Co-Founder, Chairman, and CEO (2007–2018); Executive Chairman (2018–2019); Director (2007–Present)",
+      "startDate": "2007",
+      "endDate": null,
+      "formattedStartDate": "2007",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Carriage Services, Inc.",
+      "ticker": "CSV",
+      "exchange": "NYSE",
+      "website": "https://www.carriageservices.com",
+      "logoUrl": "/companies-assets/CSV.NYSE.svg",
+      "title": "Director",
+      "startDate": "2000",
+      "endDate": "2011",
+      "formattedStartDate": "2000",
+      "formattedEndDate": "2011"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/vincent-foster-57882828",
+      "person_name": "Vincent Foster",
+      "company_name": "Main Street Capital Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 67,
+  "ageYear": 2024
+}

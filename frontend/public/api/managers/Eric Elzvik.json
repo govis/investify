@@ -1,0 +1,76 @@
+{
+  "id": "Eric Elzvik",
+  "name": "Eric Elzvik",
+  "background": "Former CFO of ABB Ltd. Director of LM Ericsson and Landis+Gyr Group AG.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AB Volvo",
+      "ticker": "VOLV-B",
+      "exchange": "STO",
+      "website": "https://www.volvogroup.com",
+      "logoUrl": "/companies-assets/VOLV-B.STO.svg",
+      "title": "Board Member",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Telefonaktiebolaget LM Ericsson",
+      "ticker": "ERIC-B",
+      "exchange": "STO",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Member",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Landis+Gyr Group AG",
+      "ticker": "LAND",
+      "exchange": "SIX (Swiss)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Board Member",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "ABB Ltd",
+      "ticker": "ABBN",
+      "exchange": "SIX (Swiss)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Financial Officer",
+      "startDate": "2013",
+      "endDate": "2017",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2017"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ch.linkedin.com/in/eric-elzvik",
+      "person_name": "Eric Elzvik",
+      "company_name": "ABB Ltd",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee (Chair)"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Daniel Tucker",
+  "first_name": "Daniel",
+  "last_name": "Tucker",
+  "age": 43,
+  "age_year": 2024,
+  "background": "Mr. Tucker is executive vice president and chief financial officer of Southern Company. He previously served as executive vice president and chief financial officer of Georgia Power and has held various roles in finance and treasury since joining in 2003.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "The Southern Company",
+      "ticker": "SO",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Vice President, Chief Financial Officer, and Treasurer",
+      "website": "https://www.southerncompany.com",
+      "start_date": "2021",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Georgia Power",
+      "ticker": "N/A",
+      "exchange": "N/A",
+      "website": "https://www.georgiapower.com",
+      "title_or_role": "Executive Vice President, CFO, and Treasurer; Member of the Board of Directors",
+      "start_date": "Prior to 2021",
+      "end_date": "2021",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

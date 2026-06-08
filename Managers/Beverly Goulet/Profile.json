@@ -1,0 +1,73 @@
+{
+  "name": "Beverly Goulet",
+  "first_name": "Beverly",
+  "last_name": "Goulet",
+  "age": 69,
+  "age_year": 2024,
+  "background": "Beverly joined the Board in July 2017. She has significant experience in the airline industry, having held senior roles at American Airlines, including Senior Vice President and Chief Integration Officer.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Rolls-Royce Holdings plc",
+      "ticker": "RR",
+      "exchange": "LSE",
+      "title_or_role": "Independent Non-Executive Director",
+      "website": "https://www.rolls-royce.com",
+      "start_date": "2017-07-03",
+      "end_date": null
+    },
+    {
+      "name": "Xenia Hotels & Resorts, Inc.",
+      "ticker": "XHR",
+      "exchange": "NYSE",
+      "website": "https://www.xeniareit.com",
+      "title_or_role": "Director",
+      "start_date": "2015-02-03",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "American Airlines Group Inc.",
+      "ticker": "AAL",
+      "exchange": "NASDAQ",
+      "website": "https://www.aa.com",
+      "title_or_role": "Executive Vice President and Chief Integration Officer",
+      "start_date": "2013-06-10",
+      "end_date": "2017-06-30",
+      "validated": true
+    },
+    {
+      "name": "Atlas Air Worldwide Holdings, Inc.",
+      "ticker": "AAWW",
+      "exchange": "NASDAQ",
+      "website": "https://www.atlasairworldwide.com",
+      "title_or_role": "Director",
+      "start_date": "2021-05-19",
+      "end_date": "2023-03-17",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/beverly-goulet-1a5527128",
+      "person_name": "Beverly Goulet",
+      "company_name": "American Airlines Group Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Nominations & Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

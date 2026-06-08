@@ -1,0 +1,50 @@
+{
+  "id": "Mark Wirth",
+  "name": "Mark Wirth",
+  "background": "Chairman and CEO of Chevron Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Chevron Corporation",
+      "ticker": "CVX",
+      "exchange": "NYSE",
+      "website": "https://www.chevron.com",
+      "logoUrl": "/companies-assets/CVX.NYSE.svg",
+      "title": "Vice Chairman",
+      "startDate": "2017",
+      "endDate": "2018",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Caltex Australia Limited (now Ampol Limited)",
+      "ticker": "ALD",
+      "exchange": "ASX",
+      "website": "https://www.ampol.com.au",
+      "logoUrl": "/companies-assets/ALD.ASX.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mike-wirth-chevron",
+      "person_name": "Mike Wirth",
+      "company_name": "Chevron",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 63,
+  "ageYear": 2024
+}

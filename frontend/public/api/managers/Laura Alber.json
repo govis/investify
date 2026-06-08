@@ -1,0 +1,52 @@
+{
+  "id": "Laura Alber",
+  "name": "Laura Alber",
+  "background": "CEO of Williams-Sonoma, Inc. She has served as a Director since 2021.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Williams-Sonoma, Inc.",
+      "ticker": "WSM",
+      "exchange": "NYSE",
+      "website": "https://www.williams-sonomainc.com",
+      "logoUrl": "/companies-assets/WSM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2010",
+      "endDate": null,
+      "formattedStartDate": "2010",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Fitbit, Inc.",
+      "ticker": "FIT",
+      "exchange": "NYSE",
+      "website": "https://www.fitbit.com",
+      "logoUrl": "/companies-assets/FIT.NYSE.png",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": "2021",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2021"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/laura-alber-3b129aba",
+      "person_name": "Laura Alber",
+      "company_name": "Williams-Sonoma, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 55,
+  "ageYear": 2024
+}

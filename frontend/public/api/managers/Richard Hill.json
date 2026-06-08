@@ -1,0 +1,149 @@
+{
+  "id": "Richard Hill",
+  "name": "Richard Hill",
+  "background": "Former Chairman and CEO of Novellus Systems. Former Chairman of Marvell (2016-2021).",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Marvell Technology, Inc.",
+      "ticker": "MRVL",
+      "exchange": "NASDAQ",
+      "website": "https://www.marvell.com",
+      "logoUrl": "/companies-assets/MRVL.NASDAQ.svg",
+      "title": "Chairman of the Board",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Symantec Corporation",
+      "ticker": "SYMC",
+      "exchange": "NASDAQ",
+      "website": "https://broadcom.com",
+      "logoUrl": "/companies-assets/SYMC.NASDAQ.jpg",
+      "title": "Interim President & CEO",
+      "startDate": "2018",
+      "endDate": "2019",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Arrow Electronics, Inc.",
+      "ticker": "ARW",
+      "exchange": "NYSE",
+      "website": "https://www.arrow.com",
+      "logoUrl": "/companies-assets/ARW.NYSE.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cabot Microelectronics Corporation",
+      "ticker": "CCMP",
+      "exchange": "NASDAQ",
+      "website": "https://www.entegris.com",
+      "logoUrl": "/companies-assets/CCMP.NASDAQ.png",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Autodesk, Inc.",
+      "ticker": "ADSK",
+      "exchange": "NASDAQ",
+      "website": "https://www.autodesk.com",
+      "logoUrl": "/companies-assets/ADSK.NASDAQ.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Xperi Inc.",
+      "ticker": "XPER",
+      "exchange": "NASDAQ",
+      "website": "https://www.xperi.com",
+      "logoUrl": "/companies-assets/XPER.NASDAQ.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Novellus Systems, Inc.",
+      "ticker": "NVLS",
+      "exchange": "NASDAQ",
+      "website": "N/A",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Novellus_Systems_logo.svg/1200px-Novellus_Systems_logo.svg.png",
+      "title": "CEO & Director",
+      "startDate": null,
+      "endDate": "2012",
+      "formattedStartDate": "",
+      "formattedEndDate": "2012"
+    },
+    {
+      "name": "Tessera Technologies, Inc.",
+      "ticker": "TSRA",
+      "exchange": "NASDAQ",
+      "website": "https://www.xperi.com",
+      "logoUrl": "/companies-assets/TSRA.NASDAQ.svg",
+      "title": "Interim CEO & Director",
+      "startDate": "2013",
+      "endDate": "2013",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Planar Systems, Inc.",
+      "ticker": "PLNR",
+      "exchange": "NASDAQ",
+      "website": "https://www.planar.com",
+      "logoUrl": "/companies-assets/PLNR.NASDAQ.png",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "LSI Logic Corporation",
+      "ticker": "LSI",
+      "exchange": "NYSE",
+      "website": "https://www.broadcom.com",
+      "logoUrl": "/companies-assets/LSI.NYSE.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "LTX Corporation",
+      "ticker": "LTXX",
+      "exchange": "NASDAQ",
+      "website": "https://www.ltx.com",
+      "logoUrl": "https://companieslogo.com/img/orig/COHU-46755109.png",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [],
+  "committees": [
+    "Executive Compensation Committee"
+  ],
+  "age": 72,
+  "ageYear": 2024
+}

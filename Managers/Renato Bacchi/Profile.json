@@ -1,0 +1,50 @@
+{
+  "name": "Renato Bacchi",
+  "first_name": "Renato",
+  "last_name": "Bacchi",
+  "age": 48,
+  "age_year": 2024,
+  "background": "Renato Bacchi is Executive Vice President and Chief Commercial Officer. He joined Alcoa in 1997 and has held leadership positions in energy, treasury, and business development.",
+  "picture_url": "https://media.licdn.com/dms/image/v2/D4E03AQE6R2PrVFWU3g/profile-displayphoto-shrink_200_200/B4EZUZM0c3HcAY-/0/1739884546442?e=2147483647&v=beta&t=40b9pcH3F5nJ2X56lzOUsmdITvo__satIL5iwK2wIyc",
+  "picture_local": "Picture.jpg",
+  "company_affiliations": [
+    {
+      "name": "Alcoa Corporation",
+      "ticker": "AA",
+      "exchange": "NYSE",
+      "title_or_role": "Executive Vice President and Chief Strategy Officer",
+      "website": "https://www.alcoa.com",
+      "start_date": "2022",
+      "end_date": "July 31, 2023",
+      "validated": true
+    },
+    {
+      "name": "Alcoa Inc. (Predecessor entity)",
+      "ticker": "AA (Historical)",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "Corporate Controller and Treasurer (Various roles)",
+      "start_date": "1997",
+      "end_date": "2016",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/renato-bacchi-6a14864",
+      "person_name": "Renato Bacchi",
+      "company_name": "Alcoa Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

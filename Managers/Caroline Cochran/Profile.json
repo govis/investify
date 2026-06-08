@@ -1,0 +1,40 @@
+{
+  "name": "Caroline Cochran",
+  "first_name": "Caroline",
+  "last_name": "Cochran",
+  "age": 38,
+  "age_year": 2024,
+  "background": "Caroline Cochran is the co-founder and Chief Operating Officer of Oklo. She has been a director of Oklo since its inception in 2013. She has experience in operations and risk management. She holds an M.S. in Nuclear Engineering from the Massachusetts Institute of Technology and a B.A. in Economics and B.S. in Mechanical Engineering from the University of Oklahoma.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Oklo Inc.",
+      "ticker": "OKLO",
+      "exchange": "NYSE",
+      "title_or_role": "Co-Founder, Chief Operating Officer, and Director",
+      "website": "https://oklo.com/",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/caorilne/",
+      "person_name": "Caroline Cochran",
+      "company_name": "Oklo",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

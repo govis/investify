@@ -1,0 +1,50 @@
+{
+  "id": "Craig Pintoff",
+  "name": "Craig Pintoff",
+  "background": "Craig A. Pintoff has served as Executive Vice President, Chief Administrative and Legal Officer since March 2017. He joined the company in 2003.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "United Rentals, Inc.",
+      "ticker": "URI",
+      "exchange": "NYSE",
+      "website": "https://www.unitedrentals.com",
+      "logoUrl": "/companies-assets/URI.NYSE.svg",
+      "title": "Executive Vice President and Chief Administrative Officer",
+      "startDate": "2003",
+      "endDate": null,
+      "formattedStartDate": "2003",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Crompton Corporation",
+      "ticker": "CK",
+      "exchange": "NYSE",
+      "website": "https://www.cromptoncorp.com",
+      "logoUrl": "/companies-assets/CK.NYSE.svg",
+      "title": "Chief Benefits and Employment Counsel",
+      "startDate": "Prior to 2003",
+      "endDate": "2003",
+      "formattedStartDate": "Prior to 2003",
+      "formattedEndDate": "2003"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/craig-pintoff-25223a5",
+      "person_name": "Craig Pintoff",
+      "company_name": "United Rentals, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 54,
+  "ageYear": 2024
+}

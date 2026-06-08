@@ -1,0 +1,52 @@
+{
+  "name": "Calum Morrison",
+  "first_name": "Calum",
+  "last_name": "Morrison",
+  "age": null,
+  "age_year": null,
+  "background": "Mr. Morrison is a senior executive with extensive experience in corporate strategy and finance within the mining sector.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Snowline Gold Corp.",
+      "ticker": "SGD",
+      "exchange": "TSXV",
+      "title_or_role": "President & Director",
+      "website": "https://snowlinegold.com/",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Lithium Argentina Corp.",
+      "ticker": "LAAC",
+      "exchange": "TSX",
+      "website": "https://www.lithium-argentina.com/",
+      "title_or_role": "Independent Director",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/calum-morrison-cfa-cpa-4a5a5a25",
+      "person_name": "Calum Morrison",
+      "company_name": "Snowline Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Corporate Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

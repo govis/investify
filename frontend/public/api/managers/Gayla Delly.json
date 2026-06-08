@@ -1,0 +1,54 @@
+{
+  "id": "Gayla Delly",
+  "name": "Gayla Delly",
+  "background": "Ms. Delly has served as a director since 2017. She was previously the President and CEO of Benchmark Electronics, Inc. She is a CPA and serves on the boards of Flowserve Corporation and National Instruments.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Littelfuse, Inc.",
+      "ticker": "LFUS",
+      "exchange": "NASDAQ",
+      "website": "https://www.littelfuse.com",
+      "logoUrl": "/companies-assets/LFUS.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2023-09-28",
+      "endDate": null,
+      "formattedStartDate": "September 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Benchmark Electronics, Inc.",
+      "ticker": "BHE",
+      "exchange": "NYSE",
+      "website": "https://www.bench.com",
+      "logoUrl": "/companies-assets/BHE.NYSE.svg",
+      "title": "Chief Executive Officer and Director",
+      "startDate": "2012",
+      "endDate": "2016",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2016"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/gayla-delly-9673486",
+      "person_name": "Gayla Delly",
+      "company_name": "Benchmark Electronics, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Finance Committee"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

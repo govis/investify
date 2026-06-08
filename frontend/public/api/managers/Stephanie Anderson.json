@@ -1,0 +1,30 @@
+{
+  "id": "Stephanie Anderson",
+  "name": "Stephanie Anderson",
+  "background": "Ms. Anderson is a senior executive with over 30 years of experience in the mining industry, including roles as CFO for several major mining companies.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Snowline Gold Corp.",
+      "ticker": "SGD",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Financial Officer",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

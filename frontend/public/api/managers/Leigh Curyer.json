@@ -1,0 +1,65 @@
+{
+  "id": "Leigh Curyer",
+  "name": "Leigh Curyer",
+  "background": "Mr. Curyer is the founder, President, and CEO of NexGen Energy Ltd. He has over 20 years of experience in the resources sector.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "IsoEnergy Ltd.",
+      "ticker": "ISO",
+      "exchange": "TSXV",
+      "website": "https://www.isoenergy.ca",
+      "logoUrl": "/companies-assets/ISO.TSXV.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "NexGen Energy Ltd.",
+      "ticker": "NXE",
+      "exchange": "TSX, NYSE, ASX",
+      "website": null,
+      "logoUrl": null,
+      "title": "President, CEO & Director",
+      "startDate": "2011",
+      "endDate": null,
+      "formattedStartDate": "2011",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "International Consolidated Uranium Inc. (now enCore Energy Corp.)",
+      "ticker": "CUR",
+      "exchange": "TSXV",
+      "website": "https://www.consolidateduranium.com",
+      "logoUrl": "/companies-assets/CUR.TSXV.svg",
+      "title": "Advisory Board Member",
+      "startDate": "2020-12-03",
+      "endDate": null,
+      "formattedStartDate": "December 2020",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/leigh-curyer-71642329",
+      "person_name": "Leigh Curyer",
+      "company_name": "NexGen Energy Ltd.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 52,
+  "ageYear": 2024
+}

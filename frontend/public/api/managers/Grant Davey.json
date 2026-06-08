@@ -1,0 +1,75 @@
+{
+  "id": "Grant Davey",
+  "name": "Grant Davey",
+  "background": "Mr. Davey is a mining engineer with over 30 years' experience in the mining industry. He has been involved in the development and operation of several mining projects in Africa and Australia.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lotus Resources Limited",
+      "ticker": "LOT",
+      "exchange": "ASX",
+      "website": "https://lotusresources.com.au/",
+      "logoUrl": "https://lotusresources.com.au/wp-content/uploads/2023/10/Lotus-Resources-Logo-2023.png",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": "2025-04-01",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "April 2025"
+    },
+    {
+      "name": "Frontier Energy Limited",
+      "ticker": "FHE",
+      "exchange": "ASX",
+      "website": "https://frontierenergy.com.au",
+      "logoUrl": "/companies-assets/FHE.ASX.svg",
+      "title": "Executive Director",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Earths Energy Limited",
+      "ticker": "EE1",
+      "exchange": "ASX",
+      "website": "https://ee1.com.au",
+      "logoUrl": "/companies-assets/EE1.ASX.png",
+      "title": "Executive Chairman",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Boss Energy Limited",
+      "ticker": "BOE",
+      "exchange": "ASX",
+      "website": "https://www.bossenergy.com",
+      "logoUrl": "/companies-assets/BOE.ASX.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Matador Mining Limited",
+      "ticker": "MZZ",
+      "exchange": "ASX",
+      "website": "https://matadormining.com.au",
+      "logoUrl": "/companies-assets/MZZ.ASX.svg",
+      "title": "Director",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

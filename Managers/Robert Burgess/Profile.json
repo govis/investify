@@ -1,0 +1,74 @@
+{
+  "name": "Robert Burgess",
+  "first_name": "Robert",
+  "last_name": "Burgess",
+  "age": 66,
+  "age_year": 2024,
+  "background": "Former Chairman and CEO of Macromedia, Inc. and former executive at Silicon Graphics, Inc.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.nvidia.com",
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Macromedia, Inc.",
+      "ticker": "MACR",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "CEO and Chairman",
+      "start_date": "1996",
+      "end_date": "2005",
+      "validated": true
+    },
+    {
+      "name": "Alias Research Inc.",
+      "ticker": "ALIAS",
+      "exchange": "NASDAQ",
+      "website": null,
+      "title_or_role": "CEO",
+      "start_date": "1991",
+      "end_date": "1995",
+      "validated": true
+    },
+    {
+      "name": "Silicon Graphics, Inc. (SGI)",
+      "ticker": "SGI",
+      "exchange": "NYSE",
+      "website": null,
+      "title_or_role": "President (Alias/Wavefront integration)",
+      "start_date": "1995",
+      "end_date": "1996",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/robertfburgess",
+      "person_name": "Robert Burgess",
+      "company_name": "NVIDIA Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "Joanna Geraghty",
+  "name": "Joanna Geraghty",
+  "background": "Chief Executive Officer of JetBlue Airways Corporation. Previously served as President and COO of JetBlue.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "L3Harris Technologies, Inc.",
+      "ticker": "LHX",
+      "exchange": "NYSE",
+      "website": "https://www.l3harris.com",
+      "logoUrl": "/companies-assets/LHX.NYSE.svg",
+      "title": "Director",
+      "startDate": "2020-09-01",
+      "endDate": null,
+      "formattedStartDate": "September 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "JetBlue Airways Corporation",
+      "ticker": "JBLU",
+      "exchange": "NASDAQ",
+      "website": "https://www.jetblue.com",
+      "logoUrl": "/companies-assets/JBLU.NASDAQ.svg",
+      "title": "Executive Vice President, Customer Experience",
+      "startDate": "2014-01-01",
+      "endDate": "2018-02-01",
+      "formattedStartDate": "January 2014",
+      "formattedEndDate": "February 2018"
+    }
+  ],
+  "investmentTheses": [
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/joanna-geraghty-8644711",
+      "person_name": "Joanna Geraghty",
+      "company_name": "JetBlue Airways",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Governance Committee"
+  ],
+  "age": 51,
+  "ageYear": 2024
+}

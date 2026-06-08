@@ -1,0 +1,41 @@
+{
+  "name": "William Clay Ford, Jr.",
+  "first_name": "William",
+  "last_name": "Clay Ford, Jr.",
+  "age": 66,
+  "age_year": 2024,
+  "background": "Bill Ford is Executive Chair of Ford Motor Company. He has been a member of the Board since 1988 and served as CEO from 2001 to 2006.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "title_or_role": "Director (1988\u2013Present), Chairman of the Board (1999\u2013Present), CEO (2001\u20132006), Various management positions (Prior to 1999)",
+      "website": "https://www.ford.com",
+      "start_date": "1988",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bill-ford",
+      "person_name": "William Clay Ford, Jr.",
+      "company_name": "Ford Motor Company",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

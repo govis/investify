@@ -1,0 +1,89 @@
+{
+  "id": "Dan Lougher",
+  "name": "Dan Lougher",
+  "background": "Mr. Lougher is a highly experienced mining executive with over 40 years of experience in the industry, including as CEO of Western Areas Limited.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Perseus Mining Limited",
+      "ticker": "PRU",
+      "exchange": "ASX",
+      "website": "https://perseusmining.com/",
+      "logoUrl": "/companies-assets/PRU.ASX.svg",
+      "title": "Non-Executive Director",
+      "startDate": "2024",
+      "endDate": null,
+      "formattedStartDate": "2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Alligator Energy Limited",
+      "ticker": "AGE",
+      "exchange": "ASX",
+      "website": "https://www.alligatorenergy.com.au",
+      "logoUrl": "/companies-assets/AGE.ASX.png",
+      "title": "Non-Executive Director",
+      "startDate": "2025-12-15",
+      "endDate": null,
+      "formattedStartDate": "December 2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "American West Metals Limited",
+      "ticker": "AW1",
+      "exchange": "ASX",
+      "website": "https://www.aw1metals.com/",
+      "logoUrl": "/companies-assets/AW1.ASX.svg",
+      "title": "Non-Executive Chairman",
+      "startDate": "2022-11-09",
+      "endDate": null,
+      "formattedStartDate": "November 2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "St Barbara Limited",
+      "ticker": "SBM",
+      "exchange": "ASX",
+      "website": "https://stbarbara.com.au/",
+      "logoUrl": "/companies-assets/SBM.ASX.png",
+      "title": "Managing Director / CEO",
+      "startDate": "2022",
+      "endDate": "2023-06-30",
+      "formattedStartDate": "2022",
+      "formattedEndDate": "June 2023"
+    },
+    {
+      "name": "Western Areas Limited",
+      "ticker": "WSA",
+      "exchange": "ASX",
+      "website": "https://www.westernareas.com.au/",
+      "logoUrl": "/companies-assets/WSA.ASX.svg",
+      "title": "Managing Director / CEO",
+      "startDate": "2012",
+      "endDate": "2022",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2022"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/dan-lougher-93b8998",
+      "person_name": "Dan Lougher",
+      "company_name": "Western Areas Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit and Risk Committee",
+    "Technical Committee (Chair)"
+  ],
+  "age": 64,
+  "ageYear": 2024
+}

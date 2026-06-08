@@ -1,0 +1,42 @@
+{
+  "id": "Mark Jensen",
+  "name": "Mark Jensen",
+  "background": "Managing Partner at M. Jensen Investment Management. Former partner at Deloitte.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Li-Cycle Holdings Corp.",
+      "ticker": "LICY",
+      "exchange": "NYSE",
+      "website": "https://li-cycle.com",
+      "logoUrl": "/companies-assets/LICY.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "American Resources Corporation",
+      "ticker": "AREC",
+      "exchange": "NASDAQ",
+      "website": "https://americanresourcescorp.com",
+      "logoUrl": "/companies-assets/AREC.NASDAQ.png",
+      "title": "Chairman and Chief Executive Officer",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee"
+  ],
+  "age": 54,
+  "ageYear": 2024
+}

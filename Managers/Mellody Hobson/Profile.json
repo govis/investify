@@ -1,0 +1,62 @@
+{
+  "name": "Mellody Hobson",
+  "first_name": "Mellody",
+  "last_name": "Hobson",
+  "age": 55,
+  "age_year": 2024,
+  "background": "Co-CEO and President of Ariel Investments, LLC. Chair of Starbucks Corporation.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "ticker": "JPM",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.jpmorganchase.com",
+      "start_date": "2018-03-12",
+      "end_date": null
+    },
+    {
+      "name": "Starbucks Corporation",
+      "ticker": "SBUX",
+      "exchange": "NASDAQ",
+      "website": "starbucks.com",
+      "title_or_role": "Vice Chair",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Est\u00e9e Lauder Companies Inc.",
+      "ticker": "EL",
+      "exchange": "NYSE",
+      "website": "elcompanies.com",
+      "title_or_role": "Director",
+      "start_date": "2005",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "DreamWorks Animation SKG, Inc.",
+      "ticker": "DWA",
+      "exchange": "NASDAQ",
+      "website": "dreamworks.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": null,
+      "end_date": "2016",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Corporate Governance & Nominating Committee",
+    "Regulatory Compliance & Public Responsibility Committee (Chair)"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "Jillian Evanko",
+  "name": "Jillian Evanko",
+  "background": "President and Chief Executive Officer of Chart Industries, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Chart Industries, Inc.",
+      "ticker": "GTLS",
+      "exchange": "NASDAQ",
+      "website": "https://www.chartindustries.com",
+      "logoUrl": "/companies-assets/GTLS.NASDAQ.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2017-02",
+      "endDate": "2018-06",
+      "formattedStartDate": "February 2017",
+      "formattedEndDate": "June 2018"
+    },
+    {
+      "name": "Greif, Inc.",
+      "ticker": "GEF",
+      "exchange": "NYSE",
+      "website": "https://www.greif.com",
+      "logoUrl": "/companies-assets/GEF.NYSE.svg",
+      "title": "Director",
+      "startDate": "2024-06",
+      "endDate": null,
+      "formattedStartDate": "June 2024",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Alliant Energy Corporation",
+      "ticker": "LNT",
+      "exchange": "NASDAQ",
+      "website": "https://www.alliantenergy.com",
+      "logoUrl": "/companies-assets/LNT.NASDAQ.svg",
+      "title": "Independent Director",
+      "startDate": "2019-02",
+      "endDate": "2023",
+      "formattedStartDate": "February 2019",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Dover Corporation",
+      "ticker": "DOV",
+      "exchange": "NYSE",
+      "website": "https://www.dovercorporation.com",
+      "logoUrl": "/companies-assets/DOV.NYSE.svg",
+      "title": "Vice President and Chief Financial Officer of Dover Fluids",
+      "startDate": null,
+      "endDate": null,
+      "formattedStartDate": "",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jillian-evanko-9373086",
+      "person_name": "Jillian Evanko",
+      "company_name": "Chart Industries, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 46,
+  "ageYear": 2024
+}

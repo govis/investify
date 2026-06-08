@@ -1,0 +1,41 @@
+{
+  "name": "Bernadette Lin",
+  "first_name": "Bernadette",
+  "last_name": "Lin",
+  "age": 58,
+  "age_year": 2024,
+  "background": "Former CEO of Gong.io. Director since 2023.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Adobe Inc.",
+      "ticker": "ADBE",
+      "exchange": "NASDAQ",
+      "title_or_role": "Independent Director",
+      "website": "https://www.adobe.com",
+      "start_date": "2023-03-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://sg.linkedin.com/in/bernadette-lin-891600106",
+      "person_name": "Bernadette Lin",
+      "company_name": "Adobe Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Governance and Sustainability Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

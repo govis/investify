@@ -1,0 +1,83 @@
+{
+  "name": "Paul Mascarenas",
+  "first_name": "Paul",
+  "last_name": "Mascarenas",
+  "age": 62,
+  "age_year": 2024,
+  "background": "Paul A. Mascarenas has served as a director since 2014. He previously served as Chief Technical Officer and Vice President of Ford Motor Company.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "ON Semiconductor Corporation",
+      "ticker": "ON",
+      "exchange": "NASDAQ",
+      "title_or_role": "Director",
+      "website": "https://www.onsemi.com",
+      "start_date": "2014",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "BorgWarner Inc.",
+      "ticker": "BWA",
+      "exchange": "NYSE",
+      "website": "https://www.borgwarner.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "The Shyft Group, Inc.",
+      "ticker": "SHYF",
+      "exchange": "NASDAQ",
+      "website": "https://theshyftgroup.com",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "United States Steel Corporation",
+      "ticker": "X",
+      "exchange": "NYSE",
+      "website": "https://www.ussteel.com",
+      "title_or_role": "Director",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ford Motor Company",
+      "ticker": "F",
+      "exchange": "NYSE",
+      "website": "https://www.ford.com",
+      "title_or_role": "Chief Technical Officer",
+      "start_date": "2009",
+      "end_date": "2014",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/paulmascarenas",
+      "person_name": "Paul Mascarenas",
+      "company_name": "ON Semiconductor Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

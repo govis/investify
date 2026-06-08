@@ -1,0 +1,56 @@
+{
+  "id": "David Smith",
+  "name": "David Smith",
+  "background": "Mr. Smith is a geologist with over 30 years of experience in the mining industry, specializing in exploration and development.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "GoldHaven Resources Corp.",
+      "ticker": "GOH",
+      "exchange": "CSE",
+      "website": "https://goldhavenresources.com",
+      "logoUrl": "/companies-assets/GOH.CSE.png",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Hudbay Minerals Inc.",
+      "ticker": "HBM",
+      "exchange": "NYSE",
+      "website": "https://www.hudbayminerals.com",
+      "logoUrl": "/companies-assets/HBM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "IAMGOLD Corporation",
+      "ticker": "IAG",
+      "exchange": "NYSE",
+      "website": "https://www.iamgold.com",
+      "logoUrl": "/companies-assets/IAG.NYSE.svg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee (Chair)",
+    "Governance and Nominating Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

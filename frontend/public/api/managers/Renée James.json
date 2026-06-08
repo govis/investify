@@ -1,0 +1,66 @@
+{
+  "id": "Renée James",
+  "name": "Renée James",
+  "background": "Founder, Chairman and CEO of Ampere Computing and former President of Intel Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Oracle Corporation",
+      "ticker": "ORCL",
+      "exchange": "NYSE",
+      "website": "https://www.oracle.com",
+      "logoUrl": "/companies-assets/ORCL.NYSE.svg",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Intel Corporation",
+      "ticker": "INTC",
+      "exchange": "NASDAQ",
+      "website": "https://www.intel.com",
+      "logoUrl": "/companies-assets/INTC.NASDAQ.svg",
+      "title": "President",
+      "startDate": "2013",
+      "endDate": "2016",
+      "formattedStartDate": "2013",
+      "formattedEndDate": "2016"
+    },
+    {
+      "name": "Portland General Electric Company",
+      "ticker": "POR",
+      "exchange": "NYSE",
+      "website": "https://www.portlandgeneral.com",
+      "logoUrl": "/companies-assets/POR.NYSE.svg",
+      "title": "Director",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Vodafone Group Plc",
+      "ticker": "VOD",
+      "exchange": "LSE",
+      "website": "https://www.vodafone.com",
+      "logoUrl": "/companies-assets/VOD.LSE.svg",
+      "title": "Director",
+      "startDate": "2011",
+      "endDate": "2016",
+      "formattedStartDate": "2011",
+      "formattedEndDate": "2016"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 60,
+  "ageYear": 2024
+}

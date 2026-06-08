@@ -1,0 +1,39 @@
+{
+  "name": "Bhuvaneshwar Singh",
+  "first_name": "Bhuvaneshwar",
+  "last_name": "Singh",
+  "age": 55,
+  "age_year": 2024,
+  "background": "Mr. Singh joined OceanaGold in 2023. He has over 25 years of experience in the mining industry, specializing in technical services, project development, and operations, with previous roles at Newcrest Mining.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "OceanaGold Corporation",
+      "ticker": "OGC",
+      "exchange": "ASX",
+      "title_or_role": "Chief Technical and Projects Officer",
+      "website": "https://oceanagold.com",
+      "start_date": "2023-05-01",
+      "end_date": null
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://in.linkedin.com/in/bhusingh",
+      "person_name": "Bhuvaneshwar Singh",
+      "company_name": "OceanaGold Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

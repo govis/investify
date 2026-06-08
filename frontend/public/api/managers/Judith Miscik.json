@@ -1,0 +1,66 @@
+{
+  "id": "Judith Miscik",
+  "name": "Judith Miscik",
+  "background": "Former CEO and Vice Chairman of Kissinger Associates, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "website": "https://www.gm.com",
+      "logoUrl": "/companies-assets/GM.NYSE.svg",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "HP Inc.",
+      "ticker": "HPQ",
+      "exchange": "NYSE",
+      "website": "hp.com",
+      "logoUrl": "/companies-assets/HPQ.NYSE.jpg",
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Morgan Stanley",
+      "ticker": "MS",
+      "exchange": "NYSE",
+      "website": "https://www.morganstanley.com",
+      "logoUrl": "/companies-assets/MS.NYSE.svg",
+      "title": "Director",
+      "startDate": "2014",
+      "endDate": "2022",
+      "formattedStartDate": "2014",
+      "formattedEndDate": "2022"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jami-miscik-6154467b",
+      "person_name": "Jami Miscik",
+      "company_name": "General Motors, HP Inc., Morgan Stanley",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Finance Committee",
+    "Governance and Corporate Responsibility Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

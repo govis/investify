@@ -1,0 +1,104 @@
+{
+  "id": "Roger Fradin",
+  "name": "Roger Fradin",
+  "background": "Former Vice Chairman of Honeywell International Inc. Current Chairman of Resideo Technologies, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Janus International Group, Inc.",
+      "ticker": "JBI",
+      "exchange": "NYSE",
+      "website": "https://www.janusintl.com",
+      "logoUrl": "/companies-assets/JBI.NYSE.svg",
+      "title": "Director, Vice Chairman",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Resideo Technologies, Inc.",
+      "ticker": "REZI",
+      "exchange": "NYSE",
+      "website": "https://www.resideo.com",
+      "logoUrl": "/companies-assets/REZI.NYSE.svg",
+      "title": "Chairman of the Board",
+      "startDate": "2018",
+      "endDate": null,
+      "formattedStartDate": "2018",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Honeywell International Inc.",
+      "ticker": "HON",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and CEO of Automation and Control Solutions, Vice Chairman",
+      "startDate": "2004",
+      "endDate": "2017",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2017"
+    },
+    {
+      "name": "Pitney Bowes Inc.",
+      "ticker": "PBI",
+      "exchange": "NYSE",
+      "website": "https://www.pitneybowes.com",
+      "logoUrl": "/companies-assets/PBI.NYSE.svg",
+      "title": "Director",
+      "startDate": "2012",
+      "endDate": "2019",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "MSC Industrial Direct Co., Inc.",
+      "ticker": "MSM",
+      "exchange": "NYSE",
+      "website": "https://www.mscdirect.com",
+      "logoUrl": "/companies-assets/MSM.NYSE.svg",
+      "title": "Director",
+      "startDate": "1998",
+      "endDate": "2019",
+      "formattedStartDate": "1998",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "Juniper II Corp.",
+      "ticker": "JUN",
+      "exchange": "NYSE",
+      "website": "https://www.juniperii.com",
+      "logoUrl": "/companies-assets/JUN.NYSE.svg",
+      "title": "Chairman of the Board",
+      "startDate": "2021",
+      "endDate": "2022",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2022"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/roger-fradin-b97818131",
+      "person_name": "Roger Fradin",
+      "company_name": "Resideo Technologies, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Finance Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

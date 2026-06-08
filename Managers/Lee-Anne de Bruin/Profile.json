@@ -1,0 +1,69 @@
+{
+  "name": "Lee-Anne de Bruin",
+  "first_name": "Lee-Anne",
+  "last_name": "de Bruin",
+  "age": 54,
+  "age_year": 2024,
+  "background": "Ms. de Bruin has over 25 years of experience in the global resources sector, including senior executive roles at Resolute Mining, Newmont, and BHP. She is a Chartered Accountant.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Perseus Mining Limited",
+      "ticker": "PRU",
+      "exchange": "ASX",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://perseusmining.com/",
+      "start_date": "2021-11-01",
+      "end_date": null
+    },
+    {
+      "name": "Resolute Mining Limited",
+      "ticker": "RSG",
+      "exchange": "ASX",
+      "website": "https://www.rml.com.au/",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2017-02-27",
+      "end_date": "2020-09-04",
+      "validated": true
+    },
+    {
+      "name": "Gem Diamonds Limited",
+      "ticker": "GEMD",
+      "exchange": "LSE",
+      "website": "https://www.gemdiamonds.com/",
+      "title_or_role": "CEO and Financial Manager",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Kimberley Diamond Company",
+      "ticker": "KDC",
+      "exchange": "ASX",
+      "website": null,
+      "title_or_role": "Managing Director",
+      "start_date": null,
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://au.linkedin.com/in/lee-anne-de-bruin-ca-b3046849",
+      "person_name": "Lee-Anne de Bruin",
+      "company_name": "Perseus Mining Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

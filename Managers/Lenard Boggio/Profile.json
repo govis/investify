@@ -1,0 +1,73 @@
+{
+  "name": "Lenard Boggio",
+  "first_name": "Lenard",
+  "last_name": "Boggio",
+  "age": 69,
+  "age_year": 2024,
+  "background": "Former partner at PwC where he led the mining practice. Experienced director for several public mining companies.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Equinox Gold Corp.",
+      "ticker": "EQX",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://www.equinoxgold.com",
+      "start_date": "2017",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Augusta Gold Corp.",
+      "ticker": "G",
+      "exchange": "TSX",
+      "website": "https://www.augustagold.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "SRHI Inc. (formerly Sprott Resource Holdings Inc.)",
+      "ticker": "SRHI",
+      "exchange": "TSX",
+      "website": "https://www.srhi.ca",
+      "title_or_role": "Director",
+      "start_date": "2017",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "NewCastle Gold Ltd.",
+      "ticker": "NCA",
+      "exchange": "TSX",
+      "website": null,
+      "title_or_role": "Director",
+      "start_date": "2016",
+      "end_date": "2017",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/lenard-boggio-4a5a5a12",
+      "person_name": "Lenard Boggio",
+      "company_name": "Equinox Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee (Chair)",
+    "Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

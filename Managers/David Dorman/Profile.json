@@ -1,0 +1,102 @@
+{
+  "name": "David Dorman",
+  "first_name": "David",
+  "last_name": "Dorman",
+  "age": 70,
+  "age_year": 2024,
+  "background": "Former Chairman and CEO of AT&T Corp. and former Chairman of CVS Health Corporation.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Dell Technologies Inc.",
+      "ticker": "DELL",
+      "exchange": "NYSE",
+      "title_or_role": "Independent Director",
+      "website": "https://www.dell.com",
+      "start_date": "2016-01-01",
+      "end_date": null
+    },
+    {
+      "name": "CVS Health Corporation",
+      "ticker": "CVS",
+      "exchange": "NYSE",
+      "website": "cvshealth.com",
+      "title_or_role": "Non-Executive Chairman of the Board",
+      "start_date": "2011",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "PayPal Holdings, Inc.",
+      "ticker": "PYPL",
+      "exchange": "NASDAQ",
+      "website": "paypal.com",
+      "title_or_role": "Independent Board Chair",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Yum! Brands, Inc.",
+      "ticker": "YUM",
+      "exchange": "NYSE",
+      "website": "yum.com",
+      "title_or_role": "Director",
+      "start_date": "2013",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Motorola, Inc.",
+      "ticker": "MSI",
+      "exchange": "NYSE",
+      "website": "motorolasolutions.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2008",
+      "end_date": "2011",
+      "validated": true
+    },
+    {
+      "name": "AT&T Corporation",
+      "ticker": "T",
+      "exchange": "NYSE",
+      "website": "att.com",
+      "title_or_role": "Chairman and Chief Executive Officer",
+      "start_date": "2002",
+      "end_date": "2005",
+      "validated": true
+    },
+    {
+      "name": "eBay Inc.",
+      "ticker": "EBAY",
+      "exchange": "NASDAQ",
+      "website": "ebay.com",
+      "title_or_role": "Director",
+      "start_date": "2014",
+      "end_date": "2015",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/david-dorman-12631316",
+      "person_name": "David Dorman",
+      "company_name": "CVS Health",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "James Mactier",
+  "first_name": "James",
+  "last_name": "Mactier",
+  "age": 60,
+  "age_year": 2024,
+  "background": "Mr. Mactier has over 30 years of experience in the resources industry, including 15 years as an Executive Director of Macquarie Bank. He has deep expertise in project finance and corporate advisory.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Regis Resources Limited",
+      "ticker": "RRL",
+      "exchange": "ASX",
+      "title_or_role": "Non-Executive Director",
+      "website": "https://regisresources.com.au",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Iluka Resources Limited",
+      "ticker": "ILU",
+      "exchange": "ASX",
+      "website": "https://www.iluka.com",
+      "title_or_role": "Chair of the Board, Non-Executive Director",
+      "start_date": "May 2024",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Remuneration and Nomination Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

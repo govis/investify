@@ -1,0 +1,39 @@
+{
+  "id": "Darren Hall",
+  "name": "Darren Hall",
+  "background": "Mr. Hall has over 35 years of experience in the mining industry. He was previously Chief Operating Officer of Kirkland Lake Gold and has held senior roles at Newmont Mining Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Calibre Mining Corp.",
+      "ticker": "CXB",
+      "exchange": "TSX",
+      "website": "https://calibremining.com",
+      "logoUrl": "/companies-assets/CXB.TSX.svg",
+      "title": "President and Chief Executive Officer",
+      "startDate": "2021",
+      "endDate": "2025",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "Equinox Gold Corp.",
+      "ticker": "EQX",
+      "exchange": "TSX / NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "President and Chief Operating Officer",
+      "startDate": "Prior to July 2025",
+      "endDate": "July 22, 2025",
+      "formattedStartDate": "July 2025",
+      "formattedEndDate": "July 22, 2025"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 58,
+  "ageYear": 2024
+}

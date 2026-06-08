@@ -1,0 +1,31 @@
+{
+  "id": "Geoffrey Kritzinger",
+  "name": "Geoffrey Kritzinger",
+  "background": "Mr. Kritzinger is a Chartered Professional Accountant with over 30 years of experience in the investment industry.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Uranium Royalty Corp.",
+      "ticker": "URC (TSX), URNM (NASDAQ)",
+      "exchange": "TSX, NASDAQ",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chief Financial Officer",
+      "startDate": "2019",
+      "endDate": null,
+      "formattedStartDate": "2019",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Compensation Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 65,
+  "ageYear": 2024
+}

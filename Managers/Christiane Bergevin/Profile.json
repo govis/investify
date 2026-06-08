@@ -1,0 +1,73 @@
+{
+  "name": "Christiane Bergevin",
+  "first_name": "Christiane",
+  "last_name": "Bergevin",
+  "age": 61,
+  "age_year": 2024,
+  "background": "Ms. Bergevin is a corporate director and former Executive Vice-President, Strategic Partnerships at Desjardins Group. She also served as President of SNC-Lavalin Capital.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "IAMGOLD Corporation",
+      "ticker": "IMG",
+      "exchange": "TSX",
+      "title_or_role": "Director",
+      "website": "https://www.iamgold.com",
+      "start_date": "Feb 2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Azimut Exploration Inc.",
+      "ticker": "AZM",
+      "exchange": "TSXV",
+      "website": "https://azimut-exploration.com",
+      "title_or_role": "Director",
+      "start_date": "Aug 2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Yamana Gold Inc.",
+      "ticker": "YRI",
+      "exchange": "TSX",
+      "website": "N/A (Acquired)",
+      "title_or_role": "Director",
+      "start_date": "Sep 2014",
+      "end_date": "Mar 2023",
+      "validated": true
+    },
+    {
+      "name": "Talisman Energy Inc.",
+      "ticker": "TLM",
+      "exchange": "TSX",
+      "website": "N/A (Acquired)",
+      "title_or_role": "Director",
+      "start_date": "2012",
+      "end_date": "2015",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/christiane-bergevin-icd-d-4a5a5a12",
+      "person_name": "Christiane Bergevin",
+      "company_name": "Azimut Exploration Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Human Resources and Compensation Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

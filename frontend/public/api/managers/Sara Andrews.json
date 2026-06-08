@@ -1,0 +1,76 @@
+{
+  "id": "Sara Andrews",
+  "name": "Sara Andrews",
+  "background": "Chief Information Security Officer at Experian. Former CISO at PepsiCo and Unit 42 at Palo Alto Networks.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Marvell Technology, Inc.",
+      "ticker": "MRVL",
+      "exchange": "NASDAQ",
+      "website": "https://www.marvell.com",
+      "logoUrl": "/companies-assets/MRVL.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "April 2022",
+      "endDate": null,
+      "formattedStartDate": "April 2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "FireEye, Inc. (now Trellix)",
+      "ticker": "FEYE",
+      "exchange": "NASDAQ",
+      "website": "https://www.trellix.com",
+      "logoUrl": "/companies-assets/FEYE.NASDAQ.png",
+      "title": "Member of the Board of Directors",
+      "startDate": "August 2020",
+      "endDate": "2021",
+      "formattedStartDate": "August 2020",
+      "formattedEndDate": "2021"
+    },
+    {
+      "name": "Mandiant, Inc.",
+      "ticker": "MNDT",
+      "exchange": "NASDAQ",
+      "website": "https://www.mandiant.com",
+      "logoUrl": "/companies-assets/MNDT.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2021",
+      "endDate": "2022",
+      "formattedStartDate": "2021",
+      "formattedEndDate": "2022"
+    },
+    {
+      "name": "LogMeIn, Inc.",
+      "ticker": "LOGM",
+      "exchange": "NASDAQ",
+      "website": "www.goto.com",
+      "logoUrl": "/companies-assets/LOGM.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "April 2018",
+      "endDate": "2020",
+      "formattedStartDate": "April 2018",
+      "formattedEndDate": "2020"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/saraeandrews",
+      "person_name": "Sara Andrews",
+      "company_name": "Experian",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 54,
+  "ageYear": 2024
+}

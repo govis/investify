@@ -1,0 +1,62 @@
+{
+  "id": "Hock Tan",
+  "name": "Hock Tan",
+  "background": "Mr. Tan has served as President, Chief Executive Officer and a director of Broadcom since March 2006. From September 2005 to January 2008, he served as Chairman of the Board of Integrated Device Technology, Inc. Prior to that, he was President and CEO of Integrated Circuit Systems, Inc. from June 1999 to September 2005. He has also held senior executive positions at Commodore International, Ltd., PepsiCo, Inc. and General Motors Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Meta Platforms, Inc.",
+      "ticker": "META",
+      "exchange": "NASDAQ",
+      "website": "https://about.meta.com",
+      "logoUrl": "/companies-assets/META.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2024-02-15",
+      "endDate": "2026-04-15",
+      "formattedStartDate": "February 2024",
+      "formattedEndDate": "April 2026"
+    },
+    {
+      "name": "Integrated Device Technology, Inc.",
+      "ticker": "IDTI",
+      "exchange": "NASDAQ",
+      "website": "https://www.idt.com",
+      "logoUrl": "/companies-assets/IDTI.NASDAQ.svg",
+      "title": "Chairman of the Board",
+      "startDate": "2005-09",
+      "endDate": "2008-01",
+      "formattedStartDate": "September 2005",
+      "formattedEndDate": "January 2008"
+    },
+    {
+      "name": "Integrated Circuit Systems, Inc.",
+      "ticker": "ICST",
+      "exchange": "NASDAQ",
+      "website": null,
+      "logoUrl": "https://logo.clearbit.com/icst.com",
+      "title": "President and Chief Executive Officer",
+      "startDate": "1999-06",
+      "endDate": "2005-09",
+      "formattedStartDate": "June 1999",
+      "formattedEndDate": "September 2005"
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/hock-tan",
+      "person_name": "Hock Tan",
+      "company_name": "Broadcom Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 72,
+  "ageYear": 2024
+}

@@ -1,0 +1,54 @@
+{
+  "id": "Cathia Lawson-Hall",
+  "name": "Cathia Lawson-Hall",
+  "background": "Cathia Lawson-Hall has over 25 years of experience in the financial sector, specifically in investment banking and corporate finance in Africa.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Vivendi SE",
+      "ticker": "VIV",
+      "exchange": "Euronext Paris",
+      "website": null,
+      "logoUrl": null,
+      "title": "Member of the Supervisory Board",
+      "startDate": "2017",
+      "endDate": null,
+      "formattedStartDate": "2017",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Universal Music Group N.V.",
+      "ticker": "UMG",
+      "exchange": "Euronext Amsterdam",
+      "website": null,
+      "logoUrl": null,
+      "title": "Member of the Board of Directors",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Eurazeo SE",
+      "ticker": "RF",
+      "exchange": "Euronext Paris",
+      "website": null,
+      "logoUrl": null,
+      "title": "Member of the Supervisory Board",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "ESG Committee"
+  ],
+  "age": 52,
+  "ageYear": 2024
+}

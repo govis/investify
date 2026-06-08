@@ -1,0 +1,39 @@
+{
+  "id": "Satya Nadella",
+  "name": "Satya Nadella",
+  "background": "Satya Nadella is Chairman and Chief Executive Officer of Microsoft. Before being named CEO in February 2014, Nadella held leadership roles in both enterprise and consumer businesses across the company. Joining Microsoft in 1992, he quickly became known as a leader who could span a breadth of technologies and businesses to transform some of Microsoft’s biggest product offerings.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Starbucks Corporation",
+      "ticker": "SBUX",
+      "exchange": "NASDAQ",
+      "website": "https://www.starbucks.com",
+      "logoUrl": "/companies-assets/SBUX.NASDAQ.svg",
+      "title": "Member of the Board of Directors",
+      "startDate": "2017",
+      "endDate": "2024",
+      "formattedStartDate": "2017",
+      "formattedEndDate": "2024"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/satyanadella/",
+      "person_name": "Satya Nadella",
+      "company_name": "Microsoft",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 57,
+  "ageYear": 2024
+}

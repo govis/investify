@@ -1,0 +1,74 @@
+{
+  "id": "Guilherme Cavalcanti",
+  "name": "Guilherme Cavalcanti",
+  "background": "Mr. Cavalcanti has extensive experience in the Brazilian mining sector, having worked with major companies in project development and operations.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Cabral Gold Inc.",
+      "ticker": "CBRG",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "JBS S.A.",
+      "ticker": "JBS",
+      "exchange": "NYSE",
+      "website": "https://www.jbs.com.br/",
+      "logoUrl": "/companies-assets/JBS.NYSE.svg",
+      "title": "Global CFO and Investor Relations Officer",
+      "startDate": "January 2019",
+      "endDate": null,
+      "formattedStartDate": "January 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Fibria Celulose S.A.",
+      "ticker": "FBR",
+      "exchange": "NYSE",
+      "website": "https://www.fibria.com.br/",
+      "logoUrl": "/companies-assets/FBR.NYSE.svg",
+      "title": "CFO and Investor Relations Officer",
+      "startDate": "2012",
+      "endDate": "2018",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2018"
+    },
+    {
+      "name": "Vale S.A.",
+      "ticker": "VALE",
+      "exchange": "NYSE",
+      "website": "https://www.vale.com/",
+      "logoUrl": "/companies-assets/VALE.NYSE.svg",
+      "title": "CFO and Investor Relations Officer",
+      "startDate": "2005",
+      "endDate": "2011",
+      "formattedStartDate": "2005",
+      "formattedEndDate": "2011"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/guilherme-cavalcanti-7a5b2a1",
+      "person_name": "Guilherme Cavalcanti",
+      "company_name": "JBS S.A.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": null,
+  "ageYear": null
+}

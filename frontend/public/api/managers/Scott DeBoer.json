@@ -1,0 +1,39 @@
+{
+  "id": "Scott DeBoer",
+  "name": "Scott DeBoer",
+  "background": "Scott DeBoer is Executive Vice President, Technology and Products. He has been with Micron since 1995 and has led the company's technology development efforts since 2019.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Micron Technology, Inc.",
+      "ticker": "MU",
+      "exchange": "NASDAQ",
+      "website": "https://www.micron.com",
+      "logoUrl": "/companies-assets/MU.NASDAQ.svg",
+      "title": "Executive Vice President, Chief Technology and Products Officer",
+      "startDate": "1995",
+      "endDate": null,
+      "formattedStartDate": "1995",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/scott-deboer",
+      "person_name": "Scott DeBoer",
+      "company_name": "Micron Technology, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 53,
+  "ageYear": 2023
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Andrew Swarthout",
+  "first_name": "Andrew",
+  "last_name": "Swarthout",
+  "age": 71,
+  "age_year": 2024,
+  "background": "Former CEO and Executive Chairman of Bear Creek Mining Corporation.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Sandstorm Gold Ltd.",
+      "ticker": "SAND",
+      "exchange": "NYSE / TSX",
+      "title_or_role": "Director",
+      "website": "https://www.sandstormgold.com/",
+      "start_date": "2010",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Bear Creek Mining Corporation",
+      "ticker": "BCM",
+      "exchange": "TSXV",
+      "website": "https://bearcreekmining.com/",
+      "title_or_role": "Director",
+      "start_date": "2018",
+      "end_date": "March 2025",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Corporate Governance and Nominating Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

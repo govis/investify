@@ -1,0 +1,65 @@
+{
+  "id": "Louise Grondin",
+  "name": "Louise Grondin",
+  "background": "Ms. Grondin has over 30 years of experience in the mining industry, specializing in environment and sustainability, notably at Agnico Eagle.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Wesdome Gold Mines Ltd.",
+      "ticker": "WDO",
+      "exchange": "TSX",
+      "website": "https://www.wesdome.com",
+      "logoUrl": "/companies-assets/WDO.TSX.svg",
+      "title": "Independent Director",
+      "startDate": "February 2023",
+      "endDate": null,
+      "formattedStartDate": "February 2023",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Champion Iron Limited",
+      "ticker": "CIA",
+      "exchange": "TSX, ASX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Non-Executive Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Agnico Eagle Mines Limited",
+      "ticker": "AEM",
+      "exchange": "TSX, NYSE",
+      "website": null,
+      "logoUrl": null,
+      "title": "Senior Vice President, People and Culture",
+      "startDate": "2001",
+      "endDate": "January 2021",
+      "formattedStartDate": "2001",
+      "formattedEndDate": "January 2021"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/louise-grondin-a1a7b133",
+      "person_name": "Louise Grondin",
+      "company_name": "Agnico Eagle Mines Limited",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Sustainability Committee (Chair)",
+    "Technical Committee"
+  ],
+  "age": 70,
+  "ageYear": 2024
+}

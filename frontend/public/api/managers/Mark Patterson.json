@@ -1,0 +1,64 @@
+{
+  "id": "Mark Patterson",
+  "name": "Mark Patterson",
+  "background": "Former Chairman of Boomerang Tube, LLC and Managing Director at Merrill Lynch.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Americold Realty Trust, Inc.",
+      "ticker": "COLD",
+      "exchange": "NYSE",
+      "website": "https://www.americold.com",
+      "logoUrl": "/companies-assets/COLD.NYSE.svg",
+      "title": "Director (Chair of the Board)",
+      "startDate": "March 2019",
+      "endDate": null,
+      "formattedStartDate": "March 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "UDR, Inc.",
+      "ticker": "UDR",
+      "exchange": "NYSE",
+      "website": "https://www.udr.com",
+      "logoUrl": "/companies-assets/UDR.NYSE.svg",
+      "title": "Director",
+      "startDate": "2015",
+      "endDate": null,
+      "formattedStartDate": "2015",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Paramount Group, Inc.",
+      "ticker": "PGRE",
+      "exchange": "NYSE",
+      "website": "https://www.pgre.com",
+      "logoUrl": "/companies-assets/PGRE.NYSE.svg",
+      "title": "Director",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mark-a-patterson",
+      "person_name": "Mark Patterson",
+      "company_name": "Digital Realty Trust, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

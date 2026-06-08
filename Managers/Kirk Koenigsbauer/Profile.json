@@ -1,0 +1,62 @@
+{
+  "name": "Kirk Koenigsbauer",
+  "first_name": "Kirk",
+  "last_name": "Koenigsbauer",
+  "age": 56,
+  "age_year": 2024,
+  "background": "Chief Operating Officer and Corporate Vice President of Microsoft's Experiences and Devices Group.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Thomson Reuters Corporation",
+      "ticker": "TRI",
+      "exchange": "NYSE",
+      "title_or_role": "Director",
+      "website": "thomsonreuters.com",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "exchange": "NASDAQ",
+      "website": "microsoft.com",
+      "title_or_role": "Chief Operating Officer & Corporate Vice President, Experiences and Devices Group",
+      "start_date": "1992",
+      "end_date": "2026",
+      "validated": true
+    },
+    {
+      "name": "Amazon.com, Inc.",
+      "ticker": "AMZN",
+      "exchange": "NASDAQ",
+      "website": "amazon.com",
+      "title_or_role": "General Manager, Software & Video Games Stores",
+      "start_date": "1998",
+      "end_date": "2000",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kirk-koenigsbauer",
+      "person_name": "Kirk Koenigsbauer",
+      "company_name": "Microsoft Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Rotem Hershko",
+  "first_name": "Rotem",
+  "last_name": "Hershko",
+  "age": 48,
+  "age_year": 2024,
+  "background": "Rotem Hershko joined Maersk in 2020. He has a background in e-commerce and logistics, having previously worked at Amazon and eBay.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "A.P. M\u00f8ller - M\u00e6rsk A/S",
+      "ticker": "MAERSK-B",
+      "exchange": "Nasdaq Copenhagen",
+      "title_or_role": "SVP, Head of Business Platforms / Chief Product Officer",
+      "website": "maersk.com",
+      "start_date": "2020",
+      "end_date": "2024",
+      "validated": true
+    },
+    {
+      "name": "Freightos Limited",
+      "ticker": "CRGO",
+      "exchange": "NASDAQ",
+      "website": "freightos.com",
+      "title_or_role": "Member, Board of Directors",
+      "start_date": "2024",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

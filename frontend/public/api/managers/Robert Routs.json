@@ -1,0 +1,65 @@
+{
+  "id": "Robert Routs",
+  "name": "Robert Routs",
+  "background": "Robert Routs is the former Executive Director of Downstream Operations at Royal Dutch Shell plc. He has extensive global experience in the energy sector.",
+  "pictureUrl": "https://www.atco.com/content/dam/atco-website/en-ca/web/assets/about-us/board-of-directors/robert-routs-text.jpg",
+  "companies": [
+    {
+      "name": "Royal Dutch Shell plc (now Shell plc)",
+      "ticker": "SHEL",
+      "exchange": "LSE",
+      "website": "https://www.shell.com",
+      "logoUrl": "/companies-assets/SHEL.LSE.svg",
+      "title": "Executive Director, Downstream",
+      "startDate": "2004",
+      "endDate": "2008",
+      "formattedStartDate": "2004",
+      "formattedEndDate": "2008"
+    },
+    {
+      "name": "Aegon N.V.",
+      "ticker": "AEG",
+      "exchange": "NYSE",
+      "website": "https://www.aegon.com",
+      "logoUrl": "/companies-assets/AEG.NYSE.svg",
+      "title": "Chairman of the Supervisory Board",
+      "startDate": "2010",
+      "endDate": "2020",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "Koninklijke DSM N.V. (Royal DSM)",
+      "ticker": "DSM",
+      "exchange": "Euronext Amsterdam (STO)",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman of the Supervisory Board",
+      "startDate": "2010",
+      "endDate": "2020",
+      "formattedStartDate": "2010",
+      "formattedEndDate": "2020"
+    },
+    {
+      "name": "ATCO Ltd.",
+      "ticker": "ACO.X",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Director",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee (Chair)"
+  ],
+  "age": 77,
+  "ageYear": 2024
+}

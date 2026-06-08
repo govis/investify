@@ -1,0 +1,60 @@
+{
+  "name": "Peter Hardie",
+  "first_name": "Peter",
+  "last_name": "Hardie",
+  "age": 47,
+  "age_year": 2024,
+  "background": "Mr. Hardie is a Chartered Professional Accountant with over 20 years of experience in the mining industry. He was previously CFO of True Gold Mining Inc.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Equinox Gold Corp.",
+      "ticker": "EQX",
+      "exchange": "TSX",
+      "title_or_role": "Chief Financial Officer",
+      "website": "https://www.equinoxgold.com",
+      "start_date": "August 2016",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Ridgeline Minerals Corp.",
+      "ticker": "RDG",
+      "exchange": "TSXV",
+      "website": "https://www.ridgelineminerals.com",
+      "title_or_role": "Director",
+      "start_date": "2020",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "True Gold Mining Inc.",
+      "ticker": "TGM",
+      "exchange": "TSXV",
+      "website": "N/A",
+      "title_or_role": "Chief Financial Officer",
+      "start_date": "2015",
+      "end_date": "April 2016",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/peter-hardie-b026256",
+      "person_name": "Peter Hardie",
+      "company_name": "Equinox Gold Corp.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

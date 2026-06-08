@@ -1,0 +1,78 @@
+{
+  "id": "Isabella Goren",
+  "name": "Isabella Goren",
+  "background": "Former CFO of American Airlines and AMR Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "AMR Corporation (now American Airlines Group Inc.)",
+      "ticker": "AAL",
+      "exchange": "NASDAQ",
+      "website": "https://www.aa.com",
+      "logoUrl": "/companies-assets/AAL.NASDAQ.svg",
+      "title": "Senior Vice President and Chief Financial Officer",
+      "startDate": "July 22, 2010",
+      "endDate": "2013",
+      "formattedStartDate": "July 22, 2010",
+      "formattedEndDate": "2013"
+    },
+    {
+      "name": "Gap Inc.",
+      "ticker": "GPS",
+      "exchange": "NYSE",
+      "website": "https://www.gapinc.com",
+      "logoUrl": "/companies-assets/GPS.NYSE.svg",
+      "title": "Director",
+      "startDate": "August 2011",
+      "endDate": "December 2021",
+      "formattedStartDate": "August 2011",
+      "formattedEndDate": "December 2021"
+    },
+    {
+      "name": "LyondellBasell Industries N.V.",
+      "ticker": "LYB",
+      "exchange": "NYSE",
+      "website": "https://www.lyondellbasell.com",
+      "logoUrl": "/companies-assets/LYB.NYSE.svg",
+      "title": "Director",
+      "startDate": "February 2014",
+      "endDate": "May 2021",
+      "formattedStartDate": "February 2014",
+      "formattedEndDate": "May 2021"
+    },
+    {
+      "name": "Marriott International, Inc.",
+      "ticker": "MAR",
+      "exchange": "NASDAQ",
+      "website": "marriott.com",
+      "logoUrl": "/companies-assets/MAR.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "March 1, 2022",
+      "endDate": null,
+      "formattedStartDate": "March 1, 2022",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "GE Aerospace (formerly part of General Electric Company)",
+      "ticker": "GE",
+      "exchange": "NYSE",
+      "website": "https://www.geaerospace.com",
+      "logoUrl": "/companies-assets/GE.NYSE.svg",
+      "title": "Director",
+      "startDate": "2022",
+      "endDate": null,
+      "formattedStartDate": "2022",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee"
+  ],
+  "age": 63,
+  "ageYear": 2024
+}

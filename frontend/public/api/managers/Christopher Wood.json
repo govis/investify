@@ -1,0 +1,27 @@
+{
+  "id": "Christopher Wood",
+  "name": "Christopher Wood",
+  "background": "Mr. Wood was appointed Chief Financial Officer in 2023. He previously served as Vice President, Finance of the Company since 2018. Prior to joining Lundin Gold, he held senior financial roles at various mining companies including Kinross Gold Corporation.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Lundin Gold Inc.",
+      "ticker": "LUG",
+      "exchange": "TSX",
+      "website": "https://lundingold.com",
+      "logoUrl": "/companies-assets/LUG.TSX.svg",
+      "title": "Director",
+      "startDate": "2014",
+      "endDate": null,
+      "formattedStartDate": "2014",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "age": 49,
+  "ageYear": 2024
+}

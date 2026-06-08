@@ -1,0 +1,51 @@
+{
+  "name": "Joseph Hooley",
+  "first_name": "Joseph",
+  "last_name": "Hooley",
+  "age": 67,
+  "age_year": 2024,
+  "background": "Former Chairman and CEO of State Street Corporation.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Exxon Mobil Corporation",
+      "ticker": "XOM",
+      "exchange": "NYSE",
+      "title_or_role": "Lead Independent Director",
+      "website": "https://www.exxonmobil.com",
+      "start_date": "2020-01-01",
+      "end_date": null
+    },
+    {
+      "name": "State Street Corporation",
+      "ticker": "STT",
+      "exchange": "NYSE",
+      "website": "https://www.statestreet.com",
+      "title_or_role": "Director",
+      "start_date": "2009",
+      "end_date": "2018",
+      "validated": true
+    },
+    {
+      "name": "IDEXX Laboratories, Inc.",
+      "ticker": "IDXX",
+      "exchange": "NASDAQ",
+      "website": "https://www.idexx.com",
+      "title_or_role": "Director",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

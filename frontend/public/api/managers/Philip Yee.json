@@ -1,0 +1,62 @@
+{
+  "id": "Philip Yee",
+  "name": "Philip Yee",
+  "background": "Philip Yee is a Chartered Professional Accountant with over 30 years of experience in corporate finance, financial reporting, and strategic planning in the mining industry. Prior to Eldorado, he was Executive Vice President and Chief Financial Officer at Kirkland Lake Gold.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Eldorado Gold Corporation",
+      "ticker": "EGO",
+      "exchange": "NYSE",
+      "website": "https://www.eldoradogold.com",
+      "logoUrl": "/companies-assets/EGO.NYSE.svg",
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2018",
+      "endDate": "2025",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2025"
+    },
+    {
+      "name": "Wesdome Gold Mines Ltd.",
+      "ticker": "WDO",
+      "exchange": "TSX",
+      "website": "https://www.wesdome.com",
+      "logoUrl": "/companies-assets/WDO.TSX.svg",
+      "title": "Chief Financial Officer",
+      "startDate": "2025-09-29",
+      "endDate": null,
+      "formattedStartDate": "September 2025",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Kirkland Lake Gold Ltd.",
+      "ticker": "KL",
+      "exchange": "TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Executive Vice President and Chief Financial Officer",
+      "startDate": "2016",
+      "endDate": "2018",
+      "formattedStartDate": "2016",
+      "formattedEndDate": "2018"
+    }
+  ],
+  "investmentTheses": [
+    "Gold"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/phil-yee-8b23636",
+      "person_name": "Philip Yee",
+      "company_name": "Eldorado Gold Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 64,
+  "ageYear": 2024
+}

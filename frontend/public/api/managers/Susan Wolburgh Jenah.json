@@ -1,0 +1,65 @@
+{
+  "id": "Susan Wolburgh Jenah",
+  "name": "Susan Wolburgh Jenah",
+  "background": "Ms. Wolburgh Jenah is the former President and CEO of the Investment Industry Regulatory Organization of Canada (IIROC). She serves on several boards and is a member of the Order of Canada.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Aecon Group Inc.",
+      "ticker": "ARE",
+      "exchange": "TSX",
+      "website": "https://www.aecon.com",
+      "logoUrl": "/companies-assets/ARE.TSX.svg",
+      "title": "Director",
+      "startDate": "2016",
+      "endDate": null,
+      "formattedStartDate": "2016",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Hydro One Limited",
+      "ticker": "H",
+      "exchange": "TSX",
+      "website": "https://hydroone.com",
+      "logoUrl": "/companies-assets/H.TSX.svg",
+      "title": "Director (Interim Chair of the Board as of March 2025)",
+      "startDate": "January 2020",
+      "endDate": null,
+      "formattedStartDate": "January 2020",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Laurentian Bank of Canada",
+      "ticker": "LB",
+      "exchange": "TSX",
+      "website": "https://www.laurentianbank.ca",
+      "logoUrl": "/companies-assets/LB.TSX.svg",
+      "title": "Director",
+      "startDate": "December 2014",
+      "endDate": "2023",
+      "formattedStartDate": "December 2014",
+      "formattedEndDate": "2023"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ca.linkedin.com/in/swolburghjenah",
+      "person_name": "Susan Wolburgh Jenah",
+      "company_name": "Aecon Group Inc., Hydro One Limited, Laurentian Bank of Canada",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Audit Committee",
+    "Corporate Governance, Nominating and Risk Committee"
+  ],
+  "age": 68,
+  "ageYear": 2024
+}

@@ -1,0 +1,55 @@
+{
+  "id": "Thomas Horton",
+  "name": "Thomas Horton",
+  "background": "Former Chairman and CEO of American Airlines.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Walmart Inc.",
+      "ticker": "WMT",
+      "exchange": "NYSE",
+      "website": "walmart.com",
+      "logoUrl": "/companies-assets/WMT.NYSE.svg",
+      "title": "Director (Lead Independent Director)",
+      "startDate": "2014-11-21",
+      "endDate": null,
+      "formattedStartDate": "November 2014",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "American Airlines Group Inc.",
+      "ticker": "AAL",
+      "exchange": "NASDAQ",
+      "website": "https://www.aa.com",
+      "logoUrl": "/companies-assets/AAL.NASDAQ.svg",
+      "title": "Chairman",
+      "startDate": "2013-12-09",
+      "endDate": "2014-06-11",
+      "formattedStartDate": "December 2013",
+      "formattedEndDate": "June 2014"
+    },
+    {
+      "name": "AMR Corporation",
+      "ticker": "AAMRQ",
+      "exchange": "OTC",
+      "website": null,
+      "logoUrl": null,
+      "title": "Chairman, President, and CEO",
+      "startDate": "2010-11-01",
+      "endDate": "2013-12-09",
+      "formattedStartDate": "November 2010",
+      "formattedEndDate": "December 2013"
+    }
+  ],
+  "investmentTheses": [
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Finance and Capital Allocation Committee"
+  ],
+  "age": 62,
+  "ageYear": 2024
+}

@@ -1,0 +1,54 @@
+{
+  "id": "Stephen Neal",
+  "name": "Stephen Neal",
+  "background": "Chairman Emeritus and Senior Counsel at the law firm of Cooley LLP.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "exchange": "NASDAQ",
+      "website": "https://www.nvidia.com",
+      "logoUrl": "/companies-assets/NVDA.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2019-04-21",
+      "endDate": null,
+      "formattedStartDate": "April 2019",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Levi Strauss & Co.",
+      "ticker": "LEVI",
+      "exchange": "NYSE",
+      "website": "levistrauss.com",
+      "logoUrl": "/companies-assets/LEVI.NYSE.svg",
+      "title": "Chairman of the Board",
+      "startDate": "2011-09-09",
+      "endDate": "2021-03-26",
+      "formattedStartDate": "September 2011",
+      "formattedEndDate": "March 2021"
+    }
+  ],
+  "investmentTheses": [
+    "AI",
+    "Defense",
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/stephen-w-neal",
+      "person_name": "Stephen Neal",
+      "company_name": "Cooley LLP",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Nominating and Corporate Governance Committee"
+  ],
+  "age": 75,
+  "ageYear": 2024
+}

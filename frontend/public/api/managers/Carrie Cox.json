@@ -1,0 +1,78 @@
+{
+  "id": "Carrie Cox",
+  "name": "Carrie Cox",
+  "background": "Former Chairman and CEO of Humacyte, Inc.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Texas Instruments Incorporated",
+      "ticker": "TXN",
+      "exchange": "NASDAQ",
+      "website": "https://www.ti.com",
+      "logoUrl": "/companies-assets/TXN.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2003",
+      "endDate": null,
+      "formattedStartDate": "2003",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Organon & Co.",
+      "ticker": "OGN",
+      "exchange": "NYSE",
+      "website": "https://www.organon.com",
+      "logoUrl": "/companies-assets/OGN.NYSE.svg",
+      "title": "Chairman of the Board",
+      "startDate": "2021",
+      "endDate": null,
+      "formattedStartDate": "2021",
+      "formattedEndDate": ""
+    },
+    {
+      "name": "Cardinal Health, Inc.",
+      "ticker": "CAH",
+      "exchange": "NYSE",
+      "website": "https://www.cardinalhealth.com",
+      "logoUrl": "/companies-assets/CAH.NYSE.svg",
+      "title": "Director",
+      "startDate": "2009",
+      "endDate": "2023",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2023"
+    },
+    {
+      "name": "Celgene Corporation",
+      "ticker": "CELG",
+      "exchange": "NASDAQ",
+      "website": "https://www.celgene.com",
+      "logoUrl": "/companies-assets/CELG.NASDAQ.png",
+      "title": "Director",
+      "startDate": "2009",
+      "endDate": "2019",
+      "formattedStartDate": "2009",
+      "formattedEndDate": "2019"
+    },
+    {
+      "name": "electroCore, Inc.",
+      "ticker": "ECOR",
+      "exchange": "NASDAQ",
+      "website": "https://www.electrocore.com",
+      "logoUrl": "/companies-assets/ECOR.NASDAQ.svg",
+      "title": "Director",
+      "startDate": "2018",
+      "endDate": "2021",
+      "formattedStartDate": "2018",
+      "formattedEndDate": "2021"
+    }
+  ],
+  "investmentTheses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Compensation Committee",
+    "Governance and Stockholder Relations Committee"
+  ],
+  "age": 66,
+  "ageYear": 2024
+}

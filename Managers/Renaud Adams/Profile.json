@@ -1,0 +1,59 @@
+{
+  "name": "Renaud Adams",
+  "first_name": "Renaud",
+  "last_name": "Adams",
+  "age": 53,
+  "age_year": 2024,
+  "background": "Mr. Adams has over 30 years of experience in the mining industry. Prior to joining IAMGOLD, he was President and CEO of New Gold Inc. and previously served as President and CEO of Richmont Mines Inc. until its sale to Alamos Gold in 2017.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "IAMGOLD Corporation",
+      "ticker": "IMG",
+      "exchange": "TSX",
+      "title_or_role": "President and Chief Executive Officer",
+      "website": "iamgold.com",
+      "start_date": "2023-04-03",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "New Gold Inc.",
+      "ticker": "NGD",
+      "exchange": "TSX",
+      "website": "newgold.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2018-09-12",
+      "end_date": "2022-11-23",
+      "validated": true
+    },
+    {
+      "name": "Richmont Mines Inc.",
+      "ticker": "RIC",
+      "exchange": "TSX",
+      "website": "richmont-mines.com",
+      "title_or_role": "President and Chief Executive Officer",
+      "start_date": "2014",
+      "end_date": "2017-11",
+      "validated": true
+    },
+    {
+      "name": "Omai Gold Mines Corp.",
+      "ticker": "OMG",
+      "exchange": "TSXV",
+      "website": "omaigoldmines.com",
+      "title_or_role": "Chairman of the Board",
+      "start_date": "2024-05-22",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

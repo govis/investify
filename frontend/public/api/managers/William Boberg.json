@@ -1,0 +1,52 @@
+{
+  "id": "William Boberg",
+  "name": "William Boberg",
+  "background": "Mr. Boberg is a co-founder of the Company and served as President and CEO from 2006 to 2011. He is a professional geologist with over 50 years of experience.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Ur-Energy Inc.",
+      "ticker": "URG",
+      "exchange": "NYSE / TSX",
+      "website": null,
+      "logoUrl": null,
+      "title": "Former President, Chief Executive Officer, and Director",
+      "startDate": "2006",
+      "endDate": "2024",
+      "formattedStartDate": "2006",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "West Point Gold Corp.",
+      "ticker": "WPG",
+      "exchange": "TSXV",
+      "website": "https://www.gold79mines.com/",
+      "logoUrl": "https://simplywall.st/api/company/logo/tsxv-wpg/image",
+      "title": "Director",
+      "startDate": "2020",
+      "endDate": null,
+      "formattedStartDate": "2020",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/william-boberg-6a851b122",
+      "person_name": "William Boberg",
+      "company_name": "Ur-Energy Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Technical Committee"
+  ],
+  "age": 83,
+  "ageYear": 2024
+}

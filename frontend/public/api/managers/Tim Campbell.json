@@ -1,0 +1,38 @@
+{
+  "id": "Tim Campbell",
+  "name": "Tim Campbell",
+  "background": "Mr. Campbell has over 25 years of experience in the mining sector, focusing on corporate development, regulatory compliance, and investor relations.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Silvermet Inc.",
+      "ticker": "SYI",
+      "exchange": "TSXV",
+      "website": null,
+      "logoUrl": null,
+      "title": "Officer / Director",
+      "startDate": "Unknown",
+      "endDate": "2017",
+      "formattedStartDate": "",
+      "formattedEndDate": "2017"
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/timothyalancampbell",
+      "person_name": "Tim Campbell",
+      "company_name": "Global Atomic Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

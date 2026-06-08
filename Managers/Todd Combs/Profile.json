@@ -1,0 +1,53 @@
+{
+  "name": "Todd Combs",
+  "first_name": "Todd",
+  "last_name": "Combs",
+  "age": 53,
+  "age_year": 2024,
+  "background": "Investment Officer at Berkshire Hathaway Inc. and CEO of GEICO.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "JPMorgan Chase & Co.",
+      "ticker": "JPM",
+      "exchange": "NYSE",
+      "title_or_role": "Head of Strategic Investment Group",
+      "website": "https://www.jpmorganchase.com",
+      "start_date": "2025",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Berkshire Hathaway Inc.",
+      "ticker": "BRK.B",
+      "exchange": "NYSE",
+      "website": "https://www.berkshirehathaway.com",
+      "title_or_role": "Investment Manager",
+      "start_date": "2010",
+      "end_date": "2025",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI",
+    "Electrification"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/todd-combs-4a5b6a1",
+      "person_name": "Todd Combs",
+      "company_name": "Berkshire Hathaway Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Directors' Risk Policy Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

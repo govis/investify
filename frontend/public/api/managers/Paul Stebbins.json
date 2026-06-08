@@ -1,0 +1,42 @@
+{
+  "id": "Paul Stebbins",
+  "name": "Paul Stebbins",
+  "background": "Former Chairman and CEO of World Fuel Services Corporation. He joined the board in 2014.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "World Fuel Services Corporation (now World Kinect Corporation)",
+      "ticker": "INT",
+      "exchange": "NYSE",
+      "website": "https://www.worldkinect.com",
+      "logoUrl": "/companies-assets/INT.NYSE.svg",
+      "title": "Executive Chairman",
+      "startDate": "2012",
+      "endDate": "2014",
+      "formattedStartDate": "2012",
+      "formattedEndDate": "2014"
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/paul-stebbins-624629b",
+      "person_name": "Paul Stebbins",
+      "company_name": "World Kinect Corporation",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [
+    "Compensation Committee",
+    "Nominating and Governance Committee"
+  ],
+  "age": 67,
+  "ageYear": 2024
+}

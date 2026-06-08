@@ -1,0 +1,51 @@
+{
+  "id": "Julian Blissett",
+  "name": "Julian Blissett",
+  "background": "Julian Blissett is Executive Vice President, Global Manufacturing and Sustainability. He previously served as President of GM China.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "General Motors Company",
+      "ticker": "GM",
+      "exchange": "NYSE",
+      "website": "https://www.gm.com",
+      "logoUrl": "/companies-assets/GM.NYSE.svg",
+      "title": "Executive Vice President and President, GM China",
+      "startDate": "2020",
+      "endDate": "2024",
+      "formattedStartDate": "2020",
+      "formattedEndDate": "2024"
+    },
+    {
+      "name": "Lear Corporation",
+      "ticker": "LEA",
+      "exchange": "NYSE",
+      "website": "https://www.lear.com",
+      "logoUrl": "/companies-assets/LEA.NYSE.svg",
+      "title": "Director (Board of Directors)",
+      "startDate": "2025",
+      "endDate": null,
+      "formattedStartDate": "2025",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Electrification",
+    "Reshoring"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://uk.linkedin.com/in/julian-blissett-327106123",
+      "person_name": "Julian Blissett",
+      "company_name": "General Motors",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 55,
+  "ageYear": 2024
+}

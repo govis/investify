@@ -1,0 +1,29 @@
+{
+  "name": "Tiago Vaz",
+  "first_name": "Tiago",
+  "last_name": "Vaz",
+  "age": 42,
+  "age_year": 2024,
+  "background": "Mr. Vaz is responsible for the company's operations and has a strong background in mining engineering and project management.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Aura Minerals Inc.",
+      "ticker": "ORA",
+      "exchange": "TSX",
+      "title_or_role": "Not publicly specified",
+      "website": "https://www.auraminerals.com",
+      "start_date": "Not publicly specified",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Gold"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

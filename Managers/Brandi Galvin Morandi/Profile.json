@@ -1,0 +1,40 @@
+{
+  "name": "Brandi Galvin Morandi",
+  "first_name": "Brandi",
+  "last_name": "Galvin Morandi",
+  "age": 51,
+  "age_year": 2024,
+  "background": "Brandi Galvin Morandi has served as our Chief Legal and Human Resources Officer and Secretary since 2019. She joined Equinix in 2003 and has served as General Counsel since 2003.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Equinix, Inc.",
+      "ticker": "EQIX",
+      "exchange": "NASDAQ",
+      "title_or_role": "General Counsel and Corporate Secretary",
+      "website": "https://www.equinix.com",
+      "start_date": "2003",
+      "end_date": "2019",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "AI"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/brandigalvinmorandi",
+      "person_name": "Brandi Galvin Morandi",
+      "company_name": "Equinix, Inc.",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "success"
+}

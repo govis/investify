@@ -1,0 +1,51 @@
+{
+  "name": "Thomas Ulrich",
+  "first_name": "Thomas",
+  "last_name": "Ulrich",
+  "age": 61,
+  "age_year": 2024,
+  "background": "Managing Director, General Counsel and Chief Compliance Officer of Sprott Asset Management LP since 2012.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "Sprott Energy Transition Materials ETF",
+      "ticker": "SETM",
+      "exchange": "NASDAQ",
+      "title_or_role": "Officer (Executive)",
+      "website": "https://sprott.com/investment-strategies/etfs/energy-transition-materials/",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sprott Uranium Miners ETF",
+      "ticker": "URNM",
+      "exchange": "NYSE Arca",
+      "title_or_role": "Officer (Executive)",
+      "website": "https://sprott.com/investment-strategies/etfs/uranium-miners/",
+      "start_date": "2019",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Sprott Focus Trust, Inc.",
+      "ticker": "FUND",
+      "exchange": "NASDAQ",
+      "website": "https://sprott.com/investment-strategies/sprott-focus-trust/",
+      "title_or_role": "President / Principal Executive Officer",
+      "start_date": "2015",
+      "end_date": null,
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Electrification",
+    "Nuclear",
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}

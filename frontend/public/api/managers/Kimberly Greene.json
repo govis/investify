@@ -1,0 +1,38 @@
+{
+  "id": "Kimberly Greene",
+  "name": "Kimberly Greene",
+  "background": "Ms. Greene is chairman, president and CEO of Georgia Power. She previously served as chairman, president and CEO of Southern Company Gas and as Southern Company's chief operating officer.",
+  "pictureUrl": null,
+  "companies": [
+    {
+      "name": "Valero Energy Corporation",
+      "ticker": "VLO",
+      "exchange": "NYSE",
+      "website": "https://www.valero.com",
+      "logoUrl": "/companies-assets/VLO.NYSE.svg",
+      "title": "Director",
+      "startDate": "2016-07-28",
+      "endDate": null,
+      "formattedStartDate": "July 2016",
+      "formattedEndDate": ""
+    }
+  ],
+  "investmentTheses": [
+    "Nuclear"
+  ],
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kimberly-greene-48365021",
+      "person_name": "Kimberly Greene",
+      "company_name": "Georgia Power",
+      "profile_status": "private",
+      "potential_picture_url": null,
+      "picture_url_li_profile": null,
+      "picture_url_li_search": null
+    }
+  ],
+  "committees": [],
+  "age": 57,
+  "ageYear": 2024
+}

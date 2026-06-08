@@ -1,0 +1,72 @@
+{
+  "name": "Bobby Griffin",
+  "first_name": "Bobby",
+  "last_name": "Griffin",
+  "age": 75,
+  "age_year": 2024,
+  "background": "Bobby J. Griffin has served as Chairman of the Board since May 2022. He was previously President of International Operations for Ryder System, Inc.",
+  "picture_url": null,
+  "picture_local": null,
+  "company_affiliations": [
+    {
+      "name": "United Rentals, Inc.",
+      "ticker": "URI",
+      "exchange": "NYSE",
+      "title_or_role": "Board of Directors",
+      "website": "https://www.unitedrentals.com",
+      "start_date": "2023",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CSW Industrials, Inc.",
+      "ticker": "CSWI",
+      "exchange": "NASDAQ",
+      "website": "https://cswindustrials.com",
+      "title_or_role": "Board of Directors",
+      "start_date": "2022",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "Rockwell Automation, Inc.",
+      "ticker": "ROK",
+      "exchange": "NYSE",
+      "website": "https://www.rockwellautomation.com",
+      "title_or_role": "Chief Diversity, Equity & Inclusion Officer",
+      "start_date": "2021",
+      "end_date": null,
+      "validated": true
+    },
+    {
+      "name": "CBRE Group, Inc.",
+      "ticker": "CBRE",
+      "exchange": "NYSE",
+      "website": "https://www.cbre.com",
+      "title_or_role": "Vice President, Diversity and Inclusion",
+      "start_date": "2017",
+      "end_date": "2021",
+      "validated": true
+    },
+    {
+      "name": "Flowserve Corporation",
+      "ticker": "FLS",
+      "exchange": "NYSE",
+      "website": "https://www.flowserve.com",
+      "title_or_role": "Global Director of Diversity and Inclusion",
+      "start_date": null,
+      "end_date": "2017",
+      "validated": true
+    }
+  ],
+  "investment_theses": [
+    "Reshoring"
+  ],
+  "socials": [],
+  "committees": [
+    "Audit Committee",
+    "Nominating and Corporate Governance Committee"
+  ],
+  "enrichment_company_affiliations": "success",
+  "enrichment_socials": "not_found"
+}
